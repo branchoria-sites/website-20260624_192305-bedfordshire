@@ -254,46 +254,46 @@ image: /assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-overview-so
 
 ## Introduction
 
-The Banbury and Enstone film case is usually treated as [Oxfordshire]({{ 'what-really-happened-in-oxfordshire/' | relative_url }})’s strongest UFO claim because it was not built only on memory or rumour. On 26 October 1971, an Associated Television film unit working near Radford Bridge, Enstone, reported seeing and filming a bright object in daylight. The case matters because it joined together several unusually strong ingredients: a professional camera crew, 16mm colour film, multiple witness accounts, local follow-up, questions to RAF [Upper Heyford]({{ 'upper-heyford/' | relative_url }}) and the Ministry of Defence, and later technical discussion about what the footage could actually show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The Banbury and Enstone film case is usually treated as [Oxfordshire]({{ 'what-really-happened-in-oxfordshire/' | relative_url }})’s strongest UFO claim because it was not built only on memory or rumour. On 26 October 1971, an Associated Television film unit working near Radford Bridge, Enstone, reported seeing and filming a bright object in daylight. The case matters because it joined together several unusually strong ingredients: a professional camera crew, 16mm colour film, multiple witness accounts, local follow-up, questions to RAF [Upper Heyford]({{ 'upper-heyford/' | relative_url }}) and the Ministry of Defence, and later technical discussion about what the footage could actually show.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
 
 <img src="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-overview.webp" | relative_url }}" alt="Overview image for Banbury Film" loading="eager" decoding="sync" fetchpriority="high">
-The evidence does not prove that an extraordinary craft was present. The main official line pointed towards an F-111 from RAF Upper Heyford dumping fuel or producing a condensation trail over Oxfordshire at about midday. That explanation is plausible enough to keep the case from being a clean unknown, but not tidy enough to end the dispute. The film was fragmentary, the object’s distance and height were uncertain, and even some technical viewers thought the footage needed better prints before a firm judgement could be made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The evidence does not prove that an extraordinary craft was present. The main official line pointed towards an F-111 from RAF Upper Heyford dumping fuel or producing a condensation trail over Oxfordshire at about midday. That explanation is plausible enough to keep the case from being a clean unknown, but not tidy enough to end the dispute. The film was fragmentary, the object’s distance and height were uncertain, and even some technical viewers thought the footage needed better prints before a firm judgement could be made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TMSMpsmtRlo" title="UFO sightings at Banbury filmed by ATV Today on 11-10-1971" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer">UFO sightings at Banbury filmed by ATV Today on 11-10-1971</a></p><p class="youtube-embed-meta">Channel: B C M</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TMSMpsmtRlo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TMSMpsmtRlo" title="UFO sightings at Banbury filmed by ATV Today on" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer">UFO sightings at Banbury filmed by ATV Today on</a></p><p class="youtube-embed-meta">Channel: B C M</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TMSMpsmtRlo">Open on YouTube</a></p></div></div></div>
 
 ## What witnesses and the film reportedly showed
 
-The core event took place late in the morning, around 11.50 am to shortly after noon, while the ATV crew were filming in a field near Radford Bridge, Enstone. The BUFORA preliminary report places the film unit at Farmer Jordon’s field, gives the date as Tuesday 26 October 1971, and says the wider event generated reports from Oxfordshire, Northamptonshire and Bedfordshire. The report counted at least seven independent witness groups, totalling roughly 25 people, although its own wording warned that bearings, timings and elevations should not be treated as exact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The core event took place late in the morning, around 11.50 am to shortly after noon, while the ATV crew were filming in a field near Radford Bridge, Enstone. The BUFORA preliminary report places the film unit at Farmer Jordon’s field, gives the date as Tuesday 26 October 1971, and says the wider event generated reports from Oxfordshire, Northamptonshire and Bedfordshire. The report counted at least seven independent witness groups, totalling roughly 25 people, although its own wording warned that bearings, timings and elevations should not be treated as exact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-What made the sighting stand out was its daylight setting. The ATV witnesses described a small bright orange or fluorescent object in a clear blue sky, sometimes with a dense vapour or smoke-like trail. In the report’s summary, the object appeared to move west to east, showed apparent accelerations and decelerations, and seemed to hang stationary for short periods. That “hovering” element became one of the main reasons UFO investigators resisted a simple aircraft explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+What made the sighting stand out was its daylight setting. The ATV witnesses described a small bright orange or fluorescent object in a clear blue sky, sometimes with a dense vapour or smoke-like trail. In the report’s summary, the object appeared to move west to east, showed apparent accelerations and decelerations, and seemed to hang stationary for short periods. That “hovering” element became one of the main reasons UFO investigators resisted a simple aircraft explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The crew testimony was more detailed than a casual sighting report. Lionel Hampden, the ATV commentator, said the crew first noticed an orange object over their left shoulders while filming sheep and a shepherd. The camera was then swung towards it, and the object was said to have produced a thick burst of vapour trail before the cameraman lost it in the viewfinder. Hampden’s account also says the crew briefly filmed people and ground features for scale before trying to pick the object up again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The crew testimony was more detailed than a casual sighting report. Lionel Hampden, the ATV commentator, said the crew first noticed an orange object over their left shoulders while filming sheep and a shepherd. The camera was then swung towards it, and the object was said to have produced a thick burst of vapour trail before the cameraman lost it in the viewfinder. Hampden’s account also says the crew briefly filmed people and ground features for scale before trying to pick the object up again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-Cameraman Noel Smart’s evidence matters because he was not simply a startled observer. The BUFORA report emphasised his professional experience, including filming high-speed jet aircraft, and included technical details about the camera and film. Smart reportedly argued that the object did not behave like a normal jet, especially because he believed it was stationary when he first got it in the viewfinder. That is a witness interpretation rather than a measurement, but it is one reason the case carried more weight than many local “light in the sky” reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+Cameraman Noel Smart’s evidence matters because he was not simply a startled observer. The BUFORA report emphasised his professional experience, including filming high-speed jet aircraft, and included technical details about the camera and film. Smart reportedly argued that the object did not behave like a normal jet, especially because he believed it was stationary when he first got it in the viewfinder. That is a witness interpretation rather than a measurement, but it is one reason the case carried more weight than many local “light in the sky” reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The film itself seems to have been both the strength and the weakness of the case. The technical section describes Ektachrome 7242 colour film, an Arriflex camera with a 12–120mm zoom lens, a running speed of 28 frames per second and a total duration of 54.76 seconds. It also states that the examined film was a copy of the original made by ATV, not necessarily the camera original, and that the frame-by-frame inspection used magnification and projection. Those details improve the case because they make the evidence inspectable, but they also limit it because the public record rests on a copied and interpreted version. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The film itself seems to have been both the strength and the weakness of the case. The technical section describes Ektachrome 7242 colour film, an Arriflex camera with a 12–120mm zoom lens, a running speed of 28 frames per second and a total duration of 54.76 seconds. It also states that the examined film was a copy of the original made by ATV, not necessarily the camera original, and that the frame-by-frame inspection used magnification and projection. Those details improve the case because they make the evidence inspectable, but they also limit it because the public record rests on a copied and interpreted version.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The frame analysis described an initial small orange image near the centre of the frame, later fading and reappearing as a faint white dot. Later sequences were interpreted as showing a head-and-tail effect or dense vapour-like trail rather than a clearly resolved solid object. This is a crucial point: the film appears to support the presence of something bright and trail-producing in the sky, but it does not give a crisp, close-up image of a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The frame analysis described an initial small orange image near the centre of the frame, later fading and reappearing as a faint white dot. Later sequences were interpreted as showing a head-and-tail effect or dense vapour-like trail rather than a clearly resolved solid object. This is a crucial point: the film appears to support the presence of something bright and trail-producing in the sky, but it does not give a crisp, close-up image of a structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
 
 <img src="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-Illustration-1-dark.svg" | relative_url }}" alt="Banbury Film illustration 1" data-theme-src-dark="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How investigators and officials handled the case
 
-BUFORA treated the Banbury/Enstone film as a major case. Its report, later listed among BUFORA’s research books and pamphlets, was presented as a preliminary account rather than a final verdict. It brought together witness statements, transcripts, site information, correspondence, a Kodak viewing note, and a technical summary of the film. The report’s title, “A Challenge to Science”, shows how strongly its compilers felt the case deserved scrutiny, but the contents are more useful when read as a case file than as a settled conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bufora.org.uk/bufora-publications/bufora-research-books-phamphlets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORABUFORA Research Books &amp; Pamphlets &#124; BUFORA</span><span class="citation-popover-snippet">BUFORABUFORA Research Books &amp; Pamphlets &#124; BUFORA</span></span></span>
+BUFORA treated the Banbury/Enstone film as a major case. Its report, later listed among BUFORA’s research books and pamphlets, was presented as a preliminary account rather than a final verdict. It brought together witness statements, transcripts, site information, correspondence, a Kodak viewing note, and a technical summary of the film. The report’s title, “A Challenge to Science”, shows how strongly its compilers felt the case deserved scrutiny, but the contents are more useful when read as a case file than as a settled conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bufora.org.uk/bufora-publications/bufora-research-books-phamphlets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORABUFORA Research Books &amp; Pamphlets &#124; BUFORA</span><span class="citation-popover-snippet">BUFORABUFORA Research Books &amp; Pamphlets &#124; BUFORA</span></span></span>
 
-The local media context also matters. The Media Archive for Central England lists an ATV Today item from 26 October 1971, “UFO Sighting By ATV Film Unit”, in which Lionel Hampden described the sighting while the crew were at Radford, Enstone. The same archive also lists an earlier October 1971 ATV Today report on UFO sightings around Banbury, showing that the film case landed in an already active local reporting environment rather than appearing in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-title">atv today 26101971 ufo sighting atv film unit</span><span class="citation-popover-snippet">atv today 26101971 ufo sighting atv film unit</span></span></span>
+The local media context also matters. The Media Archive for Central England lists an ATV Today item from 26 October 1971, “UFO Sighting By ATV Film Unit”, in which Lionel Hampden described the sighting while the crew were at Radford, Enstone. The same archive also lists an earlier October 1971 ATV Today report on UFO sightings around Banbury, showing that the film case landed in an already active local reporting environment rather than appearing in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-title">atv today 26101971 ufo sighting atv film unit</span><span class="citation-popover-snippet">atv today 26101971 ufo sighting atv film unit</span></span></span>
 
-Local pressure reached official channels quickly. British Newspaper Archive search results for the Banbury Guardian show a 11 November 1971 item saying Neil Marten MP would take Banbury’s UFO mystery up with the Ministry of Defence on behalf of local investigator Keith Palmer. That small newspaper trace is important because it shows the case was not only circulating in later UFO literature; it was part of a contemporary local dispute that moved from witnesses and investigators into parliamentary and defence correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+Local pressure reached official channels quickly. British Newspaper Archive search results for the Banbury Guardian show a 11 November 1971 item saying Neil Marten MP would take Banbury’s UFO mystery up with the Ministry of Defence on behalf of local investigator Keith Palmer. That small newspaper trace is important because it shows the case was not only circulating in later UFO literature; it was part of a contemporary local dispute that moved from witnesses and investigators into parliamentary and defence correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-The RAF Upper Heyford link was central. The base was only a few miles from the Enstone filming location, and by 1971 it was an important United States Air Force installation associated with F-111 aircraft. Government heritage material on the site notes that by July 1971 Upper Heyford had become the largest “fighter” base in Europe, equipped with the F-111E, while Upper Heyford Heritage describes the base as a major Oxfordshire Cold War airbase active until final closure in 1994. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78f8cded915d07d35b3dcf/WHAF_RAF_Upper_Heyford.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets UK Tentative List of Potential Sites for World Heritage</span><span class="citation-popover-snippet">UK Assets UK Tentative List of Potential Sites for World Heritage</span></span></span>
+The RAF Upper Heyford link was central. The base was only a few miles from the Enstone filming location, and by 1971 it was an important United States Air Force installation associated with F-111 aircraft. Government heritage material on the site notes that by July 1971 Upper Heyford had become the largest “fighter” base in Europe, equipped with the F-111E, while Upper Heyford Heritage describes the base as a major Oxfordshire Cold War airbase active until final closure in 1994.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78f8cded915d07d35b3dcf/WHAF_RAF_Upper_Heyford.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets UK Tentative List of Potential Sites for World Heritage</span><span class="citation-popover-snippet">UK Assets UK Tentative List of Potential Sites for World Heritage</span></span></span>
 
-The Ministry of Defence response did not treat the sighting as evidence of alien visitation. A letter reproduced in the BUFORA report, signed by Antony Lambton as Parliamentary Under-Secretary of State for Defence for the RAF, said a military aircraft had dumped fuel over Oxfordshire at about midday on the date in question, and identified the aircraft as an F-111 based at RAF Upper Heyford. The same letter said the film observation was “certainly consistent” with an aircraft emitting a condensation trail or dumping fuel, while also noting that whether the first or second alternative applied would depend partly on the aircraft’s height, which could not be determined from the film. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The Ministry of Defence response did not treat the sighting as evidence of alien visitation. A letter reproduced in the BUFORA report, signed by Antony Lambton as Parliamentary Under-Secretary of State for Defence for the RAF, said a military aircraft had dumped fuel over Oxfordshire at about midday on the date in question, and identified the aircraft as an F-111 based at RAF Upper Heyford. The same letter said the film observation was “certainly consistent” with an aircraft emitting a condensation trail or dumping fuel, while also noting that whether the first or second alternative applied would depend partly on the aircraft’s height, which could not be determined from the film.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-That official wording is more cautious than either side sometimes admits. It does not say the object was conclusively identified, but it does provide a specific mundane candidate: an F-111 operating from a nearby base at the relevant time. For a balanced reading, that matters more than a generic “probably a plane” dismissal, because the explanation is tied to place, date, time and aircraft type. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+That official wording is more cautious than either side sometimes admits. It does not say the object was conclusively identified, but it does provide a specific mundane candidate: an F-111 operating from a nearby base at the relevant time. For a balanced reading, that matters more than a generic “probably a plane” dismissal, because the explanation is tied to place, date, time and aircraft type.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The Kodak inspection added another layer of caution. A summary by C. A. E. O’Brien said Kodak experts were “baffled” but did not produce a decisive alternative. For the first “hovering” dot, the only suggested solution mentioned was the possibility of looking up the tailpipe of a jet, though the panel wanted darker or higher-contrast prints before reconsidering. For a later moving shot, the panel thought the image was not incompatible with a conventional aircraft moving in the opposite direction to the apparent motion on the film, with camera panning creating a misleading impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The Kodak inspection added another layer of caution. A summary by C. A. E. O’Brien said Kodak experts were “baffled” but did not produce a decisive alternative. For the first “hovering” dot, the only suggested solution mentioned was the possibility of looking up the tailpipe of a jet, though the panel wanted darker or higher-contrast prints before reconsidering. For a later moving shot, the panel thought the image was not incompatible with a conventional aircraft moving in the opposite direction to the apparent motion on the film, with camera panning creating a misleading impression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rbo8tKkrppc" title="Nukes were stored here! - Snowy RAF/USAAF Upper Heyford 2026 - Round One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rbo8tKkrppc" target="_blank" rel="noopener noreferrer">Nukes were stored here! - Snowy RAF/USAAF Upper Heyford 2026 - Round One</a></p><p class="youtube-embed-meta">Channel: PurpleVision</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rbo8tKkrppc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rbo8tKkrppc">Open on YouTube</a></p></div></div></div>
@@ -305,15 +305,15 @@ The Kodak inspection added another layer of caution. A summary by C. A. E. O’B
 
 ## Why the evidence still leaves room for doubt
 
-The case remains interesting because both the pro-UFO and sceptical readings have real hooks in the evidence. The pro-UFO side can point to professional witnesses, daylight film, a repeated description of an orange object with a dense trail, and multiple independent sighting locations. The sceptical side can point to the nearby F-111 base, the MoD’s fuel-dump statement, the uncertainty of distance and height, and the fact that the object in the film was tiny rather than clearly resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library+2Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The case remains interesting because both the pro-UFO and sceptical readings have real hooks in the evidence. The pro-UFO side can point to professional witnesses, daylight film, a repeated description of an orange object with a dense trail, and multiple independent sighting locations. The sceptical side can point to the nearby F-111 base, the MoD’s fuel-dump statement, the uncertainty of distance and height, and the fact that the object in the film was tiny rather than clearly resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The most important uncertainty is scale. Without a reliable distance, the same small image can imply very different things. A nearby small object, a high aircraft, a fuel plume, a condensation trail, or a bright point seen through atmospheric effects can all look strange when filmed at long range with a telephoto lens. The BUFORA report itself admitted that the available fixed frame of reference in much of the film did not help establish whether the object’s apparent manoeuvres were truly abnormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The most important uncertainty is scale. Without a reliable distance, the same small image can imply very different things. A nearby small object, a high aircraft, a fuel plume, a condensation trail, or a bright point seen through atmospheric effects can all look strange when filmed at long range with a telephoto lens. The BUFORA report itself admitted that the available fixed frame of reference in much of the film did not help establish whether the object’s apparent manoeuvres were truly abnormal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The “hovering” claim is also vulnerable. Witnesses may sincerely perceive a distant aircraft or trail-producing object as stationary if it is moving roughly along the observer’s line of sight, if the camera is locked off, or if there are few reference points in a clear sky. That does not mean the witnesses were unreliable; it means a daylight sky can be a poor measuring instrument. The Kodak summary’s suggestion that camera movement and direction could alter the apparent motion is a useful reminder that film evidence still needs geometry, not just visual impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The “hovering” claim is also vulnerable. Witnesses may sincerely perceive a distant aircraft or trail-producing object as stationary if it is moving roughly along the observer’s line of sight, if the camera is locked off, or if there are few reference points in a clear sky. That does not mean the witnesses were unreliable; it means a daylight sky can be a poor measuring instrument. The Kodak summary’s suggestion that camera movement and direction could alter the apparent motion is a useful reminder that film evidence still needs geometry, not just visual impression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-The fuel-dump explanation has its own difficulties. BUFORA argued that the reported colour, apparent stops, sudden acceleration, lack of sound and unusual trail shape did not fit a normal jet. The report also stated that witnesses across the area had described behaviour that seemed hard to reconcile with a conventional aircraft. Yet some of those objections depend on witness estimates of speed, height and direction, which are exactly the quantities most likely to be wrong in distant aerial sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The fuel-dump explanation has its own difficulties. BUFORA argued that the reported colour, apparent stops, sudden acceleration, lack of sound and unusual trail shape did not fit a normal jet. The report also stated that witnesses across the area had described behaviour that seemed hard to reconcile with a conventional aircraft. Yet some of those objections depend on witness estimates of speed, height and direction, which are exactly the quantities most likely to be wrong in distant aerial sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-Later archival context weakens any claim that the case was suppressed or ignored, but it does not neatly solve the sighting. The National Archives guide explains that surviving UK UFO records are mainly policy, parliamentary and official-report material, and that MoD UFO report files include material from police, coastguard, Civil Aviation Authority and public sources. David Clarke, who worked on the National Archives/MoD release project, has described the release of more than 60,000 pages of UFO-related reports, correspondence and policy material. That wider record shows the Banbury/Enstone dispute sits inside a long bureaucratic habit of recording and answering reports, not inside a unique hidden channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Later archival context weakens any claim that the case was suppressed or ignored, but it does not neatly solve the sighting. The National Archives guide explains that surviving UK UFO records are mainly policy, parliamentary and official-report material, and that MoD UFO report files include material from police, coastguard, Civil Aviation Authority and public sources. David Clarke, who worked on the National Archives/MoD release project, has described the release of more than 60,000 pages of UFO-related reports, correspondence and policy material. That wider record shows the Banbury/Enstone dispute sits inside a long bureaucratic habit of recording and answering reports, not inside a unique hidden channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains the county’s best-documented UFO dispute, not its strongest proof of an extraordinary craft. It is stronger than most local cases because there was film, a professional crew, multiple witnesses, contemporary media coverage and official correspondence. It is weaker than believers often imply because the film did not yield a clear object, the MoD supplied a specific aircraft-related explanation, and the best technical comments left the question open rather than confirmed. The case is most valuable today as a model of how good UFO evidence can still stop short of certainty.
 
@@ -321,194 +321,194 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
 <img src="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-Illustration-2-dark.svg" | relative_url }}" alt="Banbury Film illustration 2" data-theme-src-dark="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oxfordshire_491609_banbury_enstone_film_519bb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Banbury Film Show a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Banbury Film Show a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for a page centred on assessing witness testimony and filmed evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page centred on assessing witness testimony and filmed evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Especially relevant to debates over what a fragmentary film may or may not show.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially relevant to debates over what a fragmentary film may or may not show.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes cases where trained observers and official investigations play a central role.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes cases where trained observers and official investigations play a central role.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how investigators weigh competing explanations for unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators weigh competing explanations for unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="banbury-film-did-the-banbury-film-show-a-ufo-oxfordshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-banbury-film-show-a-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,178 +714,178 @@ For Oxfordshire, the fair verdict is that the Banbury and Enstone film remains t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: avalonlibrary.net  
    Title: Avalon Library  
-   Link: <a href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf</a>  
+   Link:<a href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets UK Tentative List of Potential Sites for World Heritage  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78f8cded915d07d35b3dcf/WHAF_RAF_Upper_Heyford.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78f8cded915d07d35b3dcf/WHAF_RAF_Upper_Heyford.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78f8cded915d07d35b3dcf/WHAF_RAF_Upper_Heyford.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78f8cded915d07d35b3dcf/WHAF_RAF_Upper_Heyford.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/download/GB%200136%20B-BICC_1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/download/GB%200136%20B-BICC_1</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/download/GB%200136%20B-BICC_1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/download/GB%200136%20B-BICC_1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530333" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530333</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530333" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530333</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532757" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532757</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532757" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532757</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531443" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531443</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531443" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531443</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531076" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531076</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531076" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531076</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C11707499" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C11707499</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C11707499" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C11707499</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/74261/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74261/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/74261/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74261/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76310/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76310/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76310/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76310/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
    Title: Above Top Secret djvu.txt  
-   Link: <a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kP-aXj2Kp3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kP-aXj2Kp3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Upper Heyford - Do You Remember?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kP-aXj2Kp3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kP-aXj2Kp3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Upper Heyford - Do You Remember?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: RAF Upper Heyford  
-   Link: <a href="https://www.youtube.com/watch?v=gtHEEE_JLSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gtHEEE_JLSY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at Banbury filmed by ATV Today on 11-10-1971 B C M · 479 views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gtHEEE_JLSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gtHEEE_JLSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at Banbury filmed by ATV Today on 11-10-1971 B C M · 479 views...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bufora.org.uk  
    Title: BUFORABUFORA Research Books & Pamphlets | BUFORA  
-   Link: <a href="https://www.bufora.org.uk/bufora-publications/bufora-research-books-phamphlets" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/bufora-publications/bufora-research-books-phamphlets</a>  
+   Link:<a href="https://www.bufora.org.uk/bufora-publications/bufora-research-books-phamphlets" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/bufora-publications/bufora-research-books-phamphlets</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: macearchive.org  
    Title: atv today 26101971 ufo sighting atv film unit  
-   Link: <a href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit</a>  
+   Link:<a href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: macearchive.org  
    Title: atv today 11101971 ufo sightings banbury  
-   Link: <a href="https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury</a>  
+   Link:<a href="https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: RAF Upper Heyford  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Upper_Heyford" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Upper_Heyford</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Upper_Heyford" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Upper_Heyford</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: RAF Upper Heyford  
-   Link: <a href="https://de.wikipedia.org/wiki/RAF_Upper_Heyford" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/RAF_Upper_Heyford</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/RAF_Upper_Heyford" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/RAF_Upper_Heyford</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/455568478629653/posts/1239617480224745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/455568478629653/posts/1239617480224745/</a>  
+   Link:<a href="https://www.facebook.com/groups/455568478629653/posts/1239617480224745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/455568478629653/posts/1239617480224745/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
    Title: 1971 ufo sighting by atv film unit  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fsa613/1971_ufo_sighting_by_atv_film_unit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fsa613/1971_ufo_sighting_by_atv_film_unit/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fsa613/1971_ufo_sighting_by_atv_film_unit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fsa613/1971_ufo_sighting_by_atv_film_unit/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: weird UFO UAP lights flashing in sky filmed in Banbury Oxfordshire  
-   Link: <a href="https://www.youtube.com/watch?v=4l7u6G7BlbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4l7u6G7BlbY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nukes were stored here! - Snowy RAF/USAAF Upper Heyford 2026 - Round One...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4l7u6G7BlbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4l7u6G7BlbY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nukes were stored here! - Snowy RAF/USAAF Upper Heyford 2026 - Round One...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TMSMpsmtRlo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weird UFO UAP lights flashing in sky filmed in Banbury Oxfordshire...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TMSMpsmtRlo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weird UFO UAP lights flashing in sky filmed in Banbury Oxfordshire...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Nukes were stored here!  
-   Link: <a href="https://www.youtube.com/watch?v=Rbo8tKkrppc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rbo8tKkrppc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65 - A tour of F-111 base RAF Upper Heyford...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rbo8tKkrppc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rbo8tKkrppc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65 - A tour of F-111 base RAF Upper Heyford...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: coldwarconversations.com  
-   Link: <a href="https://coldwarconversations.com/episode65/" target="_blank" rel="noopener noreferrer nofollow">https://coldwarconversations.com/episode65/</a>  
+   Link:<a href="https://coldwarconversations.com/episode65/" target="_blank" rel="noopener noreferrer nofollow">https://coldwarconversations.com/episode65/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
+   Link:<a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10159853946581790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10159853946581790/</a>  
+   Link:<a href="https://www.facebook.com/groups/ufoupdates/posts/10159853946581790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10159853946581790/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: fortworthaviationmuseum.com  
-   Link: <a href="https://fortworthaviationmuseum.com/f-111e-aardvark/" target="_blank" rel="noopener noreferrer nofollow">https://fortworthaviationmuseum.com/f-111e-aardvark/</a>  
+   Link:<a href="https://fortworthaviationmuseum.com/f-111e-aardvark/" target="_blank" rel="noopener noreferrer nofollow">https://fortworthaviationmuseum.com/f-111e-aardvark/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEastYorkshire/posts/former-raf-base-may-be-coronavirus-mortuary/2890566871030905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEastYorkshire/posts/former-raf-base-may-be-coronavirus-mortuary/2890566871030905/</a>  
+   Link:<a href="https://www.facebook.com/BBCEastYorkshire/posts/former-raf-base-may-be-coronavirus-mortuary/2890566871030905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEastYorkshire/posts/former-raf-base-may-be-coronavirus-mortuary/2890566871030905/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: rafmuseum.org.uk  
-   Link: <a href="https://www.rafmuseum.org.uk/research/collections/general-dynamics-f-111f-cf/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/collections/general-dynamics-f-111f-cf/</a>  
+   Link:<a href="https://www.rafmuseum.org.uk/research/collections/general-dynamics-f-111f-cf/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/collections/general-dynamics-f-111f-cf/</a>  

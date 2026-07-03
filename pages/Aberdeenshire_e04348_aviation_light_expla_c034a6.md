@@ -252,27 +252,27 @@ Around Aberdeen, some “UFO” reports are best read as light reports before th
 
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-overview.webp" | relative_url }}" alt="Overview image for Aviation" loading="eager" decoding="sync" fetchpriority="high">
-This matters within [Aberdeenshire]({{ 'what-did-aberdeenshire-really-see/' | relative_url }})’s UFO history because several local reports in Ministry of Defence tables are brief descriptions of lights, glows or formations, not detailed encounters with structured craft. The MoD’s public UFO report tables for 1997–2009 record date, time, place and a short description, but usually not the follow-up checks needed to rule aircraft in or out. Aberdeen’s aviation setting therefore gives investigators a practical starting point rather than a dismissive answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+This matters within [Aberdeenshire]({{ 'what-did-aberdeenshire-really-see/' | relative_url }})’s UFO history because several local reports in Ministry of Defence tables are brief descriptions of lights, glows or formations, not detailed encounters with structured craft. The MoD’s public UFO report tables for 1997–2009 record date, time, place and a short description, but usually not the follow-up checks needed to rule aircraft in or out. Aberdeen’s aviation setting therefore gives investigators a practical starting point rather than a dismissive answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 ## Why Aberdeen produces confusing lights
 
-Aberdeen is not just a city with an airport nearby. It is a North Sea aviation hub. Aberdeen Airport’s own material directs offshore workers to live flight information for helicopter operators including Bristow, CHC, NHV and OHS, while offshore operators describe Aberdeen as a base for regular crew-change and logistics flights to North Sea installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport+2helicopters.leonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
+Aberdeen is not just a city with an airport nearby. It is a North Sea aviation hub. Aberdeen Airport’s own material directs offshore workers to live flight information for helicopter operators including Bristow, CHC, NHV and OHS, while offshore operators describe Aberdeen as a base for regular crew-change and logistics flights to North Sea installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[aberdeenairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
 
 That gives the local sky a different character from a rural inland county. A witness on the edge of Aberdeen, at Dyce, Bridge of Don, Cove, Portlethen or along the A90 corridor may see aircraft that are climbing, descending, turning, holding, following offshore routes, approaching the runway, or moving between land and sea. At night, the object may be less visible than its lights, so the report becomes “a glow”, “two green lights”, “a bright white light”, or “a formation” rather than a recognisable aeroplane or helicopter.
 
-The lighting rules also matter. UK retained aviation rules require aircraft at night to display anti-collision lights and navigation lights, with navigation lights intended to show the aircraft’s relative path to an observer. Those lights are useful for pilots, but to a ground witness they can be misleading: a head-on aircraft may look almost stationary; a banking aircraft may appear to change colour; a helicopter may seem to hover; and a descending aircraft with landing lights on can look brighter than ordinary stars or satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[regulatorylibrary.caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+The lighting rules also matter. UK retained aviation rules require aircraft at night to display anti-collision lights and navigation lights, with navigation lights intended to show the aircraft’s relative path to an observer. Those lights are useful for pilots, but to a ground witness they can be misleading: a head-on aircraft may look almost stationary; a banking aircraft may appear to change colour; a helicopter may seem to hover; and a descending aircraft with landing lights on can look brighter than ordinary stars or satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[regulatorylibrary.caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-The local aviation picture is especially relevant because Aberdeen Airport has one main runway for fixed-wing aircraft and some helicopter arrivals, plus helicopter runway use. Recent airport documents describe the main runway as 16/34, with operations depending on wind direction because aircraft normally take off and land into wind. A 2024 airport noise report adds that helicopters made up 38.8% of all movements at Aberdeen International Airport, and that fixed-wing aircraft use the main runway while helicopters may arrive and depart on all four runways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consultations.airspacechange.co.uk">[consultations.airspacechange.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consultations.airspacechange.co.uk</span><span class="citation-popover-title">Airspace Change Proposal</span><span class="citation-popover-snippet">Airspace Change Proposal</span></span></span>
+The local aviation picture is especially relevant because Aberdeen Airport has one main runway for fixed-wing aircraft and some helicopter arrivals, plus helicopter runway use. Recent airport documents describe the main runway as 16/34, with operations depending on wind direction because aircraft normally take off and land into wind. A 2024 airport noise report adds that helicopters made up 38.8% of all movements at Aberdeen International Airport, and that fixed-wing aircraft use the main runway while helicopters may arrive and depart on all four runways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consultations.airspacechange.co.uk">[consultations.airspacechange.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consultations.airspacechange.co.uk</span><span class="citation-popover-title">Airspace Change Proposal</span><span class="citation-popover-snippet">Airspace Change Proposal</span></span></span>
 
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-Illustration-1-dark.svg" | relative_url }}" alt="Aviation illustration 1" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aberdeen Airport and offshore helicopter routes
 
-The strongest aviation explanation around Aberdeen is not a single flight path but a traffic pattern. Offshore helicopters supporting oil and gas work use Helicopter Main Routes radiating from Aberdeen Airport in a hub-and-spoke pattern towards offshore installations. Environmental and aviation assessments for North Sea projects repeatedly describe Aberdeen as the main support base for northern North Sea helicopter traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ossian-eia.com/offshore-scoping/73.-Aviation-Military-and-Communications-part-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ossian-eia.com">[ossian-eia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ossian-eia.com</span><span class="citation-popover-title">7.3. Aviation, Military and Communications</span><span class="citation-popover-snippet">7.3. Aviation, Military and Communications</span></span></span>
+The strongest aviation explanation around Aberdeen is not a single flight path but a traffic pattern. Offshore helicopters supporting oil and gas work use Helicopter Main Routes radiating from Aberdeen Airport in a hub-and-spoke pattern towards offshore installations. Environmental and aviation assessments for North Sea projects repeatedly describe Aberdeen as the main support base for northern North Sea helicopter traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ossian-eia.com/offshore-scoping/73.-Aviation-Military-and-Communications-part-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ossian-eia.com">[ossian-eia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ossian-eia.com</span><span class="citation-popover-title">7.3. Aviation, Military and Communications</span><span class="citation-popover-snippet">7.3. Aviation, Military and Communications</span></span></span>
 
 For UFO interpretation, that has several consequences. A helicopter approaching from the North Sea may appear as a slow, bright light before its shape is obvious. When it turns, the apparent colour and rhythm of the lights can change. When it flies along a line of sight towards the observer, it may appear to hover. When several aircraft are spaced along related routes, they can look like a formation even if they are separated by distance and altitude.
 
-Aberdeen Airport also notes that properties within 10 miles of the airport should expect helicopter traffic supporting the North Sea oil and gas industry. The same airport guidance says pilots frequently return to Aberdeen under Visual Flight Rules when weather allows, meaning that aircraft may not always appear to follow a single obvious track from the point of view of people on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/about-us/community-matters/noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
+Aberdeen Airport also notes that properties within 10 miles of the airport should expect helicopter traffic supporting the North Sea oil and gas industry. The same airport guidance says pilots frequently return to Aberdeen under Visual Flight Rules when weather allows, meaning that aircraft may not always appear to follow a single obvious track from the point of view of people on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/about-us/community-matters/noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
 
 This helps explain why “it did not move like a normal aircraft” is not enough on its own to make a report extraordinary. A normal aircraft seen from an unusual angle can seem to move oddly. A helicopter can genuinely slow, turn or hold. A light seen through broken cloud may vanish suddenly. A descending aircraft can brighten, dim, or disappear behind coastal haze while still behaving entirely normally.
 
@@ -285,21 +285,21 @@ The point is not that witnesses are careless. It is that Aberdeen’s sky contai
 
 Portlethen is useful because it sits south of Aberdeen on a coastal travel corridor where ground observers can be looking across roads, housing, rising ground, industrial lighting, sea haze and airport-related traffic. It is close enough to Aberdeen for airport and offshore movements to matter, but far enough away that a witness may not automatically think “airport lights”.
 
-A clear example appears in the MoD’s 2009 report table. On 28 February 2009 at 04:30, a Portlethen entry described “a big yellow glow in the sky to the south of Aberdeen”, estimated at about 2,500 feet, with the witness adding that it was “not aircraft landing lights”. The entry is interesting precisely because the aviation explanation was already in the witness’s mind and rejected at the time. But the public table gives only the short report, not the checks that would be needed to test that judgement: airport movements, helicopter activity, cloud base, sea fog, road direction, observer location, bearing, duration and whether the glow was fixed or moving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A clear example appears in the MoD’s 2009 report table. On 28 February 2009 at 04:30, a Portlethen entry described “a big yellow glow in the sky to the south of Aberdeen”, estimated at about 2,500 feet, with the witness adding that it was “not aircraft landing lights”. The entry is interesting precisely because the aviation explanation was already in the witness’s mind and rejected at the time. But the public table gives only the short report, not the checks that would be needed to test that judgement: airport movements, helicopter activity, cloud base, sea fog, road direction, observer location, bearing, duration and whether the glow was fixed or moving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Portlethen also shows why a coastal report can be hard to judge after the fact. A yellow glow could be an aircraft light, reflected ground lighting, low cloud illuminated from below, maritime or offshore activity, a weather effect, or something genuinely unidentified in the limited sense that the source was not established. Without a bearing and a duration, even a careful investigator would struggle to separate those possibilities years later.
 
-The coastal weather adds another complication. Haar, or sea fog, is a known east-coast Scottish phenomenon, especially when warmer moist air moves over the cooler North Sea and is pushed inland by easterly winds. The Met Office’s Aberdeen forecast language still routinely refers to haar affecting coastal areas, and meteorological literature on north-east Scotland has treated haar as a distinctive forecasting problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/forecast/gfnt07u1s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+The coastal weather adds another complication. Haar, or sea fog, is a known east-coast Scottish phenomenon, especially when warmer moist air moves over the cooler North Sea and is pushed inland by easterly winds. The Met Office’s Aberdeen forecast language still routinely refers to haar affecting coastal areas, and meteorological literature on north-east Scotland has treated haar as a distinctive forecasting problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/forecast/gfnt07u1s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 For light sightings, haar matters because it changes contrast and distance judgement. A bright source can look larger, softer or nearer than it is. A light can be visible one moment and gone the next. A glow can appear detached from the ground or sea. On a coastal road, that can turn ordinary aviation or infrastructure lighting into a report that feels much stranger than the source itself.
 
 ## What the MoD records can and cannot prove
 
-The MoD tables are important because they preserve reports in a consistent official format. GOV.UK describes the released files as UFO reports from 1997 to 2009 showing dates, times, locations and brief descriptions. For Aberdeenshire, they are often the best public starting point for checking whether a local story has an official trace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The MoD tables are important because they preserve reports in a consistent official format. GOV.UK describes the released files as UFO reports from 1997 to 2009 showing dates, times, locations and brief descriptions. For Aberdeenshire, they are often the best public starting point for checking whether a local story has an official trace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 But they are not case files in the fuller investigative sense. A brief line such as “four roundish lights” or “a big yellow glow” tells us that something was reported; it does not show that aircraft, helicopters, weather, astronomy or hoaxes were systematically eliminated. That distinction is central to Aberdeen aviation explanations. The records can identify patterns worth checking, but they rarely contain enough information to close the case.
 
-One Aberdeen entry from August 1997 described “four roundish lights” that were white and fairly bright, moving in a small circle at evenly spaced intervals before rotating clockwise. That is a more structured report than a single glow, and it should not be lazily forced into an aircraft explanation. At the same time, the public table does not give the observer’s exact position, viewing direction, elevation, duration, weather, airport traffic, or whether the lights could have been a projected, reflected or rotating source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+One Aberdeen entry from August 1997 described “four roundish lights” that were white and fairly bright, moving in a small circle at evenly spaced intervals before rotating clockwise. That is a more structured report than a single glow, and it should not be lazily forced into an aircraft explanation. At the same time, the public table does not give the observer’s exact position, viewing direction, elevation, duration, weather, airport traffic, or whether the lights could have been a projected, reflected or rotating source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The Portlethen 2009 report is similarly unresolved in the modest sense. The witness’s phrase “not aircraft landing lights” is part of the evidence, but it is not the final word. People can correctly recognise common aircraft lights, but they can also be fooled by angle, haze, cloud, distance, multiple lights and unusual traffic patterns. The proper conclusion is not “aircraft” or “alien craft”; it is “insufficient public evidence, with aviation and coastal-weather explanations needing priority checks”.
 
@@ -309,9 +309,9 @@ The Portlethen 2009 report is similarly unresolved in the modest sense. The witn
 
 A common weakness in UFO discussion is the vague debunking phrase “it was probably a plane”. Around Aberdeen, a better question is more specific: was it a fixed-wing aircraft on approach, a helicopter returning from the North Sea, a training or general aviation flight, a medical or military movement, or a light connected with airport or offshore infrastructure?
 
-That specificity matters because helicopters can match witness impressions that a normal plane may not. They can seem slower. They can hold position or turn tightly. Their sound may be masked by wind, traffic or distance. In poor visibility, their lights can separate visually from the body of the aircraft. In a region where offshore helicopter operators are a routine part of airport life, those are not rare edge cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport+2Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
+That specificity matters because helicopters can match witness impressions that a normal plane may not. They can seem slower. They can hold position or turn tightly. Their sound may be masked by wind, traffic or distance. In poor visibility, their lights can separate visually from the body of the aircraft. In a region where offshore helicopter operators are a routine part of airport life, those are not rare edge cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
 
-Aberdeen’s runway and airspace arrangements add further complexity. Airport consultation documents note that arriving aircraft may be vectored by air traffic control before final approach, creating dispersion across the airspace rather than a single simple line. For a witness, that means an aircraft can appear somewhere unexpected before it lines up with the runway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consultations.airspacechange.co.uk">[consultations.airspacechange.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consultations.airspacechange.co.uk</span><span class="citation-popover-title">Airspace Change Proposal</span><span class="citation-popover-snippet">Airspace Change Proposal</span></span></span>
+Aberdeen’s runway and airspace arrangements add further complexity. Airport consultation documents note that arriving aircraft may be vectored by air traffic control before final approach, creating dispersion across the airspace rather than a single simple line. For a witness, that means an aircraft can appear somewhere unexpected before it lines up with the runway.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consultations.airspacechange.co.uk">[consultations.airspacechange.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consultations.airspacechange.co.uk</span><span class="citation-popover-title">Airspace Change Proposal</span><span class="citation-popover-snippet">Airspace Change Proposal</span></span></span>
 
 The best sceptical reading is therefore not “all lights are aircraft”. It is that Aberdeen has a high background rate of plausible aviation sources, especially compared with quieter rural parts of historic Aberdeenshire. A strong UFO claim from this area has to do more work: it needs direction, timing, duration, angular movement, weather, sound, and checks against airport and helicopter activity.
 
@@ -321,11 +321,11 @@ A useful Aberdeen UFO report should be treated like a small investigation, not j
 
 **Location and direction.** “Seen from Portlethen” is not enough. The key details are the viewing position, the direction faced, the angle above the horizon, and whether the light was over land, sea, Aberdeen, the airport corridor, or the southern coast.
 
-**Time and duration.** A four-second flash, a ten-minute hover and a half-hour glow are different problems. The 2009 Portlethen report gives a time, which is valuable, but the public wording does not provide enough detail to reconstruct the line of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Time and duration.** A four-second flash, a ten-minute hover and a half-hour glow are different problems. The 2009 Portlethen report gives a time, which is valuable, but the public wording does not provide enough detail to reconstruct the line of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Airport and helicopter movements.** Aberdeen Airport’s offshore role means that helicopter movements should be checked alongside ordinary passenger flights. A report near Dyce, Bridge of Don, Cove, Portlethen or the A90 should not be assessed without considering North Sea helicopter traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
+**Airport and helicopter movements.** Aberdeen Airport’s offshore role means that helicopter movements should be checked alongside ordinary passenger flights. A report near Dyce, Bridge of Don, Cove, Portlethen or the A90 should not be assessed without considering North Sea helicopter traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
 
-**Weather, cloud and haar.** Low cloud, sea fog and coastal haze can enlarge, soften, hide or reflect lights. Haar is especially relevant on Scotland’s east coast and can create sharp local differences in visibility between coast and inland areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/forecast/gfnt07u1s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+**Weather, cloud and haar.** Low cloud, sea fog and coastal haze can enlarge, soften, hide or reflect lights. Haar is especially relevant on Scotland’s east coast and can create sharp local differences in visibility between coast and inland areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/forecast/gfnt07u1s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 **Light behaviour rather than object shape.** Many reports describe colour, brightness and movement, but not a visible body. That is a sign to test light-source explanations first: aircraft lighting, searchlights, cloud reflection, maritime lights, drones, lanterns, satellites, planets or meteors depending on the exact behaviour.
 
@@ -338,9 +338,9 @@ A useful Aberdeen UFO report should be treated like a small investigation, not j
 
 A strong local case would not simply say that the light was strange. It would show why the obvious Aberdeen explanations fail. For example, a report becomes more persuasive if it includes a precise time, a clear compass direction, a long enough observation to establish motion, weather notes, photographs or video with fixed landmarks, and independent witnesses from different locations.
 
-It would be stronger still if it could be compared with airport and helicopter data. Aberdeen Airport publishes live offshore flight links for operators, and modern flight-tracking habits mean some reports can be checked more quickly than older MoD-era entries. That does not mean all flights are publicly visible in a complete way, but it raises the standard for current claims: a serious report should at least try to check aviation before becoming a UFO story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
+It would be stronger still if it could be compared with airport and helicopter data. Aberdeen Airport publishes live offshore flight links for operators, and modern flight-tracking habits mean some reports can be checked more quickly than older MoD-era entries. That does not mean all flights are publicly visible in a complete way, but it raises the standard for current claims: a serious report should at least try to check aviation before becoming a UFO story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-snippet">Open source on aberdeenairport.com.</span></span></span>
 
-The National Archives’ wider UFO material also gives a useful caution. Its guidance on MoD UFO records notes that files contain many reports of lights and shapes, while the 2008–2009 period included an upsurge in reports partly associated with Chinese lantern sightings. That national context does not solve Aberdeen or Portlethen cases, but it shows why investigators should expect many sincere light reports to have ordinary causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The National Archives’ wider UFO material also gives a useful caution. Its guidance on MoD UFO records notes that files contain many reports of lights and shapes, while the 2008–2009 period included an upsurge in reports partly associated with Chinese lantern sightings. That national context does not solve Aberdeen or Portlethen cases, but it shows why investigators should expect many sincere light reports to have ordinary causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 For Aberdeen, the most honest standard is layered. First ask whether it matches airport, helicopter, maritime, astronomical or weather explanations. Then ask whether the report has enough detail to test those explanations. Only after that should it be left as genuinely unresolved.
 
@@ -359,194 +359,194 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
 <img src="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-Illustration-3-dark.svg" | relative_url }}" alt="Aviation illustration 3" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348_aviation_light_expla_c034a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Aircraft Explain the Strange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Aircraft Explain the Strange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on analyzing UFO reports and distinguishing observational errors from unexplained cases, matching the page&#x27;s aircraft-versus-UFO...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on analyzing UFO reports and distinguishing observational errors from unexplained cases, matching the page&#x27;s aircraft-versus-UFO...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes aviation-related witness testimony and encourages careful evaluation of aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes aviation-related witness testimony and encourages careful evaluation of aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how unusual sightings and beliefs can arise from perception, memory, and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains how unusual sightings and beliefs can arise from perception, memory, and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Offers insight into real-world aviation operations and flight environments that can help contextualize aircraft sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into real-world aviation operations and flight environments that can help contextualize aircraft sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="aviation-could-aircraft-explain-the-strange-lights-aberdeenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,185 +752,185 @@ That leaves a balanced conclusion. Some Aberdeen-area light sightings remain unr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: helicopters.leonardo.com  
-   Link: <a href="https://helicopters.leonardo.com/en/focus-detail/-/detail/protecting-the-offshore-community" target="_blank" rel="noopener noreferrer nofollow">https://helicopters.leonardo.com/en/focus-detail/-/detail/protecting-the-offshore-community</a>  
+   Link:<a href="https://helicopters.leonardo.com/en/focus-detail/-/detail/protecting-the-offshore-community" target="_blank" rel="noopener noreferrer nofollow">https://helicopters.leonardo.com/en/focus-detail/-/detail/protecting-the-offshore-community</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nhv.be  
-   Link: <a href="https://nhv.be/presence/aberdeen" target="_blank" rel="noopener noreferrer nofollow">https://nhv.be/presence/aberdeen</a>  
+   Link:<a href="https://nhv.be/presence/aberdeen" target="_blank" rel="noopener noreferrer nofollow">https://nhv.be/presence/aberdeen</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: consultations.airspacechange.co.uk  
    Title: Airspace Change Proposal  
-   Link: <a href="https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf</a>  
+   Link:<a href="https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consultations.airspacechange.co.uk/aberdeen-airport/airspace/user_uploads/2.-aberdeen-main-consultation-document.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ossian-eia.com  
    Title: 7.3. Aviation, Military and Communications  
-   Link: <a href="https://ossian-eia.com/offshore-scoping/73.-Aviation-Military-and-Communications-part-1.html" target="_blank" rel="noopener noreferrer nofollow">https://ossian-eia.com/offshore-scoping/73.-Aviation-Military-and-Communications-part-1.html</a>  
+   Link:<a href="https://ossian-eia.com/offshore-scoping/73.-Aviation-Military-and-Communications-part-1.html" target="_blank" rel="noopener noreferrer nofollow">https://ossian-eia.com/offshore-scoping/73.-Aviation-Military-and-Communications-part-1.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gfnt07u1s" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gfnt07u1s</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gfnt07u1s" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gfnt07u1s</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/14561" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/14561</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/14561" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/14561</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/contents</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/765/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/contents</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/part/8" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/part/8</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/765/part/8" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/part/8</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: argyll-bute.gov.uk  
    Title: mg Convert2PDF.aspx  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/mgConvert2PDF.aspx?ID=2702&amp;T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/mgConvert2PDF.aspx?ID=2702&amp;T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/mgConvert2PDF.aspx?ID=2702&amp;T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/mgConvert2PDF.aspx?ID=2702&amp;T=10</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: marine.gov.scot  
    Title: Aspen Offshore Wind Farm  
-   Link: <a href="https://marine.gov.scot/sites/default/files/aspen_owf_chapter_15_military_and_civil_aviation_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/aspen_owf_chapter_15_military_and_civil_aviation_final.pdf</a>  
+   Link:<a href="https://marine.gov.scot/sites/default/files/aspen_owf_chapter_15_military_and_civil_aviation_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/aspen_owf_chapter_15_military_and_civil_aviation_final.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010080-001417-Spirit%20Energy%20-%20Appendix%20M%20-%20CAA%20CAP764%20Policy%20and%20guidelines%20on%20wind%20turbines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010080-001417-Spirit%20Energy%20-%20Appendix%20M%20-%20CAA%20CAP764%20Policy%20and%20guidelines%20on%20wind%20turbines.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010080-001417-Spirit%20Energy%20-%20Appendix%20M%20-%20CAA%20CAP764%20Policy%20and%20guidelines%20on%20wind%20turbines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010080-001417-Spirit%20Energy%20-%20Appendix%20M%20-%20CAA%20CAP764%20Policy%20and%20guidelines%20on%20wind%20turbines.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: consultations.airspacechange.co.uk  
    Title: airspacechange.co.uk Find activities  
-   Link: <a href="https://consultations.airspacechange.co.uk/consultation_finder/?_collection=eyJzb3J0X29uIjogImljb25zdWx0YWJsZV9lbmRkYXRlIiwgInNvcnRfb3JkZXIiOiAiZGVzY2VuZGluZyIsICJzdCI6ICJjbG9zZWQiLCAiY29sbGVjdGlvbl90aXRsZSI6ICJDbG9zZWQgQ29uc3VsdGF0aW9ucyJ9%3Ad84936f0f8e5f6adb0ab2637f9cb80c1c18408ce2768ad54baf05b229bb09abc" target="_blank" rel="noopener noreferrer nofollow">https://consultations.airspacechange.co.uk/consultation_finder/?_collection=eyJzb3J0X29uIjogImljb25zdWx0YWJsZV9lbmRkYXRlIiwgInNvcnRfb3JkZXIiOiAiZGVzY2VuZGluZyIsICJzdCI6ICJjbG9zZWQiLCAiY29sbGVjdGlvbl90aXRsZSI6ICJDbG9zZWQgQ29uc3VsdGF0aW9ucyJ9%3Ad84936f0f8e5f6adb0ab2637f9cb80c1c18408ce2768ad54baf05b229bb09abc</a>  
+   Link:<a href="https://consultations.airspacechange.co.uk/consultation_finder/?_collection=eyJzb3J0X29uIjogImljb25zdWx0YWJsZV9lbmRkYXRlIiwgInNvcnRfb3JkZXIiOiAiZGVzY2VuZGluZyIsICJzdCI6ICJjbG9zZWQiLCAiY29sbGVjdGlvbl90aXRsZSI6ICJDbG9zZWQgQ29uc3VsdGF0aW9ucyJ9%3Ad84936f0f8e5f6adb0ab2637f9cb80c1c18408ce2768ad54baf05b229bb09abc" target="_blank" rel="noopener noreferrer nofollow">https://consultations.airspacechange.co.uk/consultation_finder/?_collection=eyJzb3J0X29uIjogImljb25zdWx0YWJsZV9lbmRkYXRlIiwgInNvcnRfb3JkZXIiOiAiZGVzY2VuZGluZyIsICJzdCI6ICJjbG9zZWQiLCAiY29sbGVjdGlvbl90aXRsZSI6ICJDbG9zZWQgQ29uc3VsdGF0aW9ucyJ9%3Ad84936f0f8e5f6adb0ab2637f9cb80c1c18408ce2768ad54baf05b229bb09abc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aberdeenairport.com  
-   Link: <a href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/flight-information/offshore-working/</a>  
+   Link:<a href="https://www.aberdeenairport.com/flight-information/offshore-working/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/flight-information/offshore-working/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aberdeenairport.com  
    Title: abz annual noise report 2024  
-   Link: <a href="https://www.aberdeenairport.com/media/t3kp524q/abz-annual-noise-report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/media/t3kp524q/abz-annual-noise-report-2024.pdf</a>  
+   Link:<a href="https://www.aberdeenairport.com/media/t3kp524q/abz-annual-noise-report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/media/t3kp524q/abz-annual-noise-report-2024.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aberdeenairport.com  
-   Link: <a href="https://www.aberdeenairport.com/about-us/community-matters/noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/about-us/community-matters/noise/</a>  
+   Link:<a href="https://www.aberdeenairport.com/about-us/community-matters/noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/about-us/community-matters/noise/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aberdeenairport.com  
    Title: Aberdeen International Airport Ltd  
-   Link: <a href="https://www.aberdeenairport.com/media/yh3ij5ol/100494-abz-noise-action-plans-v7-pc-aw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/media/yh3ij5ol/100494-abz-noise-action-plans-v7-pc-aw.pdf</a>  
+   Link:<a href="https://www.aberdeenairport.com/media/yh3ij5ol/100494-abz-noise-action-plans-v7-pc-aw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/media/yh3ij5ol/100494-abz-noise-action-plans-v7-pc-aw.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aberdeenairport.com  
-   Link: <a href="https://www.aberdeenairport.com/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/airspace/</a>  
+   Link:<a href="https://www.aberdeenairport.com/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/airspace/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aberdeenairport.consultationonline.co.uk  
-   Link: <a href="https://aberdeenairport.consultationonline.co.uk/wp-content/uploads/sites/124/2022/03/Stage-2-Presentation-Initial-Comprehensive-List-of-Airspace-Design-Options.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aberdeenairport.consultationonline.co.uk/wp-content/uploads/sites/124/2022/03/Stage-2-Presentation-Initial-Comprehensive-List-of-Airspace-Design-Options.pdf</a>  
+   Link:<a href="https://aberdeenairport.consultationonline.co.uk/wp-content/uploads/sites/124/2022/03/Stage-2-Presentation-Initial-Comprehensive-List-of-Airspace-Design-Options.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aberdeenairport.consultationonline.co.uk/wp-content/uploads/sites/124/2022/03/Stage-2-Presentation-Initial-Comprehensive-List-of-Airspace-Design-Options.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: bp.com  
-   Link: <a href="https://www.bp.com/en/global/air-bp/news-and-views/air-bp-news/aberdeen-airport-welcomes-first-commercial-supply-of-saf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bp.com/en/global/air-bp/news-and-views/air-bp-news/aberdeen-airport-welcomes-first-commercial-supply-of-saf.html</a>  
+   Link:<a href="https://www.bp.com/en/global/air-bp/news-and-views/air-bp-news/aberdeen-airport-welcomes-first-commercial-supply-of-saf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bp.com/en/global/air-bp/news-and-views/air-bp-news/aberdeen-airport-welcomes-first-commercial-supply-of-saf.html</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1096228668690552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1096228668690552/</a>  
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1096228668690552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1096228668690552/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcradioshetland/posts/one-of-the-meteorological-phenomena-typically-occurring-from-april-until-septemb/1051966072957986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcradioshetland/posts/one-of-the-meteorological-phenomena-typically-occurring-from-april-until-septemb/1051966072957986/</a>  
+   Link:<a href="https://www.facebook.com/bbcradioshetland/posts/one-of-the-meteorological-phenomena-typically-occurring-from-april-until-septemb/1051966072957986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcradioshetland/posts/one-of-the-meteorological-phenomena-typically-occurring-from-april-until-septemb/1051966072957986/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThePressandJournal/videos/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-a/868162809260320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThePressandJournal/videos/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-a/868162809260320/</a>  
+   Link:<a href="https://www.facebook.com/ThePressandJournal/videos/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-a/868162809260320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThePressandJournal/videos/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-a/868162809260320/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2686102378119843/posts/9550761004987245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2686102378119843/posts/9550761004987245/</a>  
+   Link:<a href="https://www.facebook.com/groups/2686102378119843/posts/9550761004987245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2686102378119843/posts/9550761004987245/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/thenewheartofdunbar/posts/2059108351264173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thenewheartofdunbar/posts/2059108351264173/</a>  
+   Link:<a href="https://www.facebook.com/groups/thenewheartofdunbar/posts/2059108351264173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thenewheartofdunbar/posts/2059108351264173/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYNnmtSCJXO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYNnmtSCJXO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYNnmtSCJXO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYNnmtSCJXO/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FubarNews/videos/hey-a-weird-object-in-the-air-this-evening-over-the-west-end-of-aberdeen-it-had-/1511799413863898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FubarNews/videos/hey-a-weird-object-in-the-air-this-evening-over-the-west-end-of-aberdeen-it-had-/1511799413863898/</a>  
+   Link:<a href="https://www.facebook.com/FubarNews/videos/hey-a-weird-object-in-the-air-this-evening-over-the-west-end-of-aberdeen-it-had-/1511799413863898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FubarNews/videos/hey-a-weird-object-in-the-air-this-evening-over-the-west-end-of-aberdeen-it-had-/1511799413863898/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYiFP_BjGgG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYiFP_BjGgG/</a>  
+   Link:<a href="https://www.instagram.com/p/DYiFP_BjGgG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYiFP_BjGgG/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: inchcapewind.com  
-   Link: <a href="https://www.inchcapewind.com/wp-content/uploads/2025/04/IC01-EC-OFA-002-170-RRP-CHP-001_Chapter_17_Aviation_RevB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inchcapewind.com/wp-content/uploads/2025/04/IC01-EC-OFA-002-170-RRP-CHP-001_Chapter_17_Aviation_RevB.pdf</a>  
+   Link:<a href="https://www.inchcapewind.com/wp-content/uploads/2025/04/IC01-EC-OFA-002-170-RRP-CHP-001_Chapter_17_Aviation_RevB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inchcapewind.com/wp-content/uploads/2025/04/IC01-EC-OFA-002-170-RRP-CHP-001_Chapter_17_Aviation_RevB.pdf</a>  

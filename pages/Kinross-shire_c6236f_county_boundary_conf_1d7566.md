@@ -248,17 +248,17 @@ image: /assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-overview-
 
 ## Introduction
 
-[Kinross-shire]({{ 'what-really-happened-in-kinross-shire/' | relative_url }}) UFO mapping gets confusing because the evidence sits at the meeting point of three different geographies: the historic county, modern council labels, and loose regional reporting. The clearest example is the Ministry of Defence’s 25 June 2009 [Milnathort]({{ 'milnathort/' | relative_url }}) sighting, which took place in historic Kinross-shire but appears in the MoD table with “Fife” in the county field. That single mismatch is enough to show why a map based on historic counties cannot simply copy official location labels without checking the place itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+[Kinross-shire]({{ 'what-really-happened-in-kinross-shire/' | relative_url }}) UFO mapping gets confusing because the evidence sits at the meeting point of three different geographies: the historic county, modern council labels, and loose regional reporting. The clearest example is the Ministry of Defence’s 25 June 2009 [Milnathort]({{ 'milnathort/' | relative_url }}) sighting, which took place in historic Kinross-shire but appears in the MoD table with “Fife” in the county field. That single mismatch is enough to show why a map based on historic counties cannot simply copy official location labels without checking the place itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-overview.webp" | relative_url }}" alt="Overview image for Boundaries" loading="eager" decoding="sync" fetchpriority="high">
-For this project, Kinross-shire means the historic county centred on Kinross, Milnathort and Loch Leven, not the whole of modern Perth and Kinross and not nearby Fife or Perthshire. This matters because a famous neighbouring case such as [Calvine]({{ 'calvine/' | relative_url }}) belongs in Perthshire, even though modern regional labels may pull it into the same news and archive orbit. Getting the boundary right does not make a weak case stronger, but it does stop a small county’s record being distorted by borrowed sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties Kinross-shire</span><span class="citation-popover-snippet">Association of British Counties Kinross-shire</span></span></span>
+For this project, Kinross-shire means the historic county centred on Kinross, Milnathort and Loch Leven, not the whole of modern Perth and Kinross and not nearby Fife or Perthshire. This matters because a famous neighbouring case such as [Calvine]({{ 'calvine/' | relative_url }}) belongs in Perthshire, even though modern regional labels may pull it into the same news and archive orbit. Getting the boundary right does not make a weak case stronger, but it does stop a small county’s record being distorted by borrowed sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties Kinross-shire</span><span class="citation-popover-snippet">Association of British Counties Kinross-shire</span></span></span>
 
 ## Why the historic county is the right starting point
 
-The project’s map is based on the UK’s 92 historic counties, a fixed heritage geography rather than today’s shifting local-authority map. The Association of British Counties gives the headline count as 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland, while the Wikishire interactive map states that its county mapping conforms to the Historic Counties Standard and uses border data from the Historic County Borders Project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties About the Counties</span><span class="citation-popover-snippet">Association of British Counties About the Counties</span></span></span>
+The project’s map is based on the UK’s 92 historic counties, a fixed heritage geography rather than today’s shifting local-authority map. The Association of British Counties gives the headline count as 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland, while the Wikishire interactive map states that its county mapping conforms to the Historic Counties Standard and uses border data from the Historic County Borders Project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties About the Counties</span><span class="citation-popover-snippet">Association of British Counties About the Counties</span></span></span>
 
-That approach is especially useful for Kinross-shire because the county is small, distinctive and easily swallowed by larger labels. The Historic Counties Trust describes Kinross-shire as a small inland county lying between Perthshire and Fife, and the Gazetteer for Great Britain and Ireland places it as a historic county with Loch Leven at its heart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span>
+That approach is especially useful for Kinross-shire because the county is small, distinctive and easily swallowed by larger labels. The Historic Counties Trust describes Kinross-shire as a small inland county lying between Perthshire and Fife, and the Gazetteer for Great Britain and Ireland places it as a historic county with Loch Leven at its heart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span>
 
 A modern search for “UFOs in Perth and Kinross” can therefore produce a misleading result for a historic-county map. It may include genuine Kinross-shire places such as Milnathort, but it may also draw in Perthshire material from much farther north and west. The error is not just cosmetic. It changes which witnesses, newspapers, police areas, flight paths and local archives are being discussed.
 
@@ -266,9 +266,9 @@ A modern search for “UFOs in Perth and Kinross” can therefore produce a misl
 <img src="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-1-dark.svg" | relative_url }}" alt="Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historic Kinross-shire versus modern council areas
 
-Kinross-shire’s administrative story explains why old and new labels collide. The county existed as a recognised shire with its own institutions, but it was very small. In the twentieth century it was combined with Perthshire for many local-government purposes, then absorbed into the Perth and Kinross district created under the 1970s Scottish local-government reforms. The current unitary council structure came from the 1994 local-government reforms, which the Scottish Government identifies as the basis of Scotland’s current local-government system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perth_and_Kinross" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perth and Kinross</span><span class="citation-popover-snippet">Perth and Kinross</span></span></span>
+Kinross-shire’s administrative story explains why old and new labels collide. The county existed as a recognised shire with its own institutions, but it was very small. In the twentieth century it was combined with Perthshire for many local-government purposes, then absorbed into the Perth and Kinross district created under the 1970s Scottish local-government reforms. The current unitary council structure came from the 1994 local-government reforms, which the Scottish Government identifies as the basis of Scotland’s current local-government system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perth_and_Kinross" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perth and Kinross</span><span class="citation-popover-snippet">Perth and Kinross</span></span></span>
 
-For local history, that means “Perth and Kinross” is useful but not precise enough. It is a council area, archive area and news-market label. It is not the same thing as historic Kinross-shire. Culture Perth & Kinross Archive reflects the practical side of this: it holds records for Perth & Kinross Council and its predecessors, while its Kinross-shire guide notes that parish boundaries changed over time and that archival records include official local-authority and community collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.culturepk.org.uk/archivelfh/perthandkinrossarchive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturepk.org.uk">[Culture Perth and Kinross]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturepk.org.uk</span><span class="citation-popover-title">Culture Perth and Kinross Perth &amp; Kinross Archive</span><span class="citation-popover-snippet">Culture Perth and Kinross Perth &amp; Kinross Archive</span></span></span>
+For local history, that means “Perth and Kinross” is useful but not precise enough. It is a council area, archive area and news-market label. It is not the same thing as historic Kinross-shire. Culture Perth & Kinross Archive reflects the practical side of this: it holds records for Perth & Kinross Council and its predecessors, while its Kinross-shire guide notes that parish boundaries changed over time and that archival records include official local-authority and community collections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.culturepk.org.uk/archivelfh/perthandkinrossarchive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturepk.org.uk">[Culture Perth and Kinross]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturepk.org.uk</span><span class="citation-popover-title">Culture Perth and Kinross Perth &amp; Kinross Archive</span><span class="citation-popover-snippet">Culture Perth and Kinross Perth &amp; Kinross Archive</span></span></span>
 
 The important point for UFO research is simple: an archive or council label may tell the researcher where records are held, but it does not automatically tell the reader which historic county a sighting belongs to. A Kinross-shire page should use the archive trail, but it should not let the archive label redraw the UFO map.
 
@@ -277,23 +277,23 @@ The important point for UFO research is simple: an archive or council label may 
 
 ## Why official labels can mislead
 
-The Milnathort entry is the best local example because it is not an internet rumour or a later retelling. It appears in the MoD’s published 2009 UFO reports. The table gives the date as 25 June 2009, the time as 16:22, the place as Milnathort, and the county as Fife. The description says the witness was watching two helicopters, one a Chinook, coming from the Edinburgh area when an orb-shaped object was seen through binoculars, glistening in the sun and high above the helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Milnathort entry is the best local example because it is not an internet rumour or a later retelling. It appears in the MoD’s published 2009 UFO reports. The table gives the date as 25 June 2009, the time as 16:22, the place as Milnathort, and the county as Fife. The description says the witness was watching two helicopters, one a Chinook, coming from the Edinburgh area when an orb-shaped object was seen through binoculars, glistening in the sun and high above the helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The problem is that Milnathort is not a Fife place in the historic-county sense. It is a Kinross-shire town, now within the Perth and Kinross council area. The Gazetteer’s historic-county entry places Kinross-shire between Perthshire and Fife, while standard place references describe Milnathort as a small town in the county of Kinross-shire and modern Perth and Kinross. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The problem is that Milnathort is not a Fife place in the historic-county sense. It is a Kinross-shire town, now within the Perth and Kinross council area. The Gazetteer’s historic-county entry places Kinross-shire between Perthshire and Fife, while standard place references describe Milnathort as a small town in the county of Kinross-shire and modern Perth and Kinross.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 There are several plausible reasons for the MoD’s “Fife” label, and none requires bad faith. The witness may have supplied a broad local label. The report handler may have used a postal, regional or nearest-large-county association. The location may have been categorised quickly in a national list where county precision was not the main purpose. What matters for this project is the correction: the sighting should be mapped to historic Kinross-shire because the named place, Milnathort, is within that county.
 
-The correction does not upgrade the case. The report remains a short witness account with no released photograph, radar track, pilot report or detailed follow-up in the public MoD table. The National Archives’ guidance on UFO material is a useful reminder that surviving official records often relate to policy, correspondence and reports rather than full scientific investigations of every sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The correction does not upgrade the case. The report remains a short witness account with no released photograph, radar track, pilot report or detailed follow-up in the public MoD table. The National Archives’ guidance on UFO material is a useful reminder that surviving official records often relate to policy, correspondence and reports rather than full scientific investigations of every sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-2-dark.svg" | relative_url }}" alt="Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The three common mapping mistakes
 
-The most common error is to treat a modern council area as if it were a historic county. In Kinross-shire, that means letting “Perth and Kinross” stand for Kinross-shire. It should not. Perth and Kinross includes Kinross-shire, but it also includes much of historic Perthshire and some areas shaped by later administrative reform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perth_and_Kinross" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perth and Kinross</span><span class="citation-popover-snippet">Perth and Kinross</span></span></span>
+The most common error is to treat a modern council area as if it were a historic county. In Kinross-shire, that means letting “Perth and Kinross” stand for Kinross-shire. It should not. Perth and Kinross includes Kinross-shire, but it also includes much of historic Perthshire and some areas shaped by later administrative reform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perth_and_Kinross" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perth and Kinross</span><span class="citation-popover-snippet">Perth and Kinross</span></span></span>
 
-A second error is to trust the county field in a UFO table more than the place name. The Milnathort report shows why this can fail. If a database says “Milnathort, Fife”, the historic-county researcher should not throw the report into Fife without checking Milnathort itself. For mapped county history, the named settlement is usually the stronger anchor than a broad administrative label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+A second error is to trust the county field in a UFO table more than the place name. The Milnathort report shows why this can fail. If a database says “Milnathort, Fife”, the historic-county researcher should not throw the report into Fife without checking Milnathort itself. For mapped county history, the named settlement is usually the stronger anchor than a broad administrative label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-A third error is to let famous nearby cases dominate the small-county record. Calvine is the obvious example. It is a major Scottish UFO case, but it is described in sources as a sighting near Calvine in Perthshire, near Pitlochry, not as a Kinross-shire incident. The Guardian’s later account and the detailed Calvine literature place the event in that Perthshire setting, with the photograph and MoD handling forming the centre of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Calvine UFO photograph</span><span class="citation-popover-snippet">Calvine UFO photograph</span></span></span>
+A third error is to let famous nearby cases dominate the small-county record. Calvine is the obvious example. It is a major Scottish UFO case, but it is described in sources as a sighting near Calvine in Perthshire, near Pitlochry, not as a Kinross-shire incident. The Guardian’s later account and the detailed Calvine literature place the event in that Perthshire setting, with the photograph and MoD handling forming the centre of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Calvine UFO photograph</span><span class="citation-popover-snippet">Calvine UFO photograph</span></span></span>
 
 For a Kinross-shire map, Calvine can be mentioned as a neighbouring case that affects regional UFO culture. It should not be counted as a Kinross-shire sighting.
 
@@ -302,7 +302,7 @@ For a Kinross-shire map, Calvine can be mentioned as a neighbouring case that af
 
 ## How neighbouring cases should be handled
 
-Neighbouring cases are still useful when they explain why readers may be confused. Kinross-shire sits between Fife and Perthshire, and modern local institutions often serve wider Perth and Kinross rather than the historic county alone. That means a reader may encounter the Milnathort report under a Fife label, Calvine in a Perth and Kinross news context, and Kinross-shire archival material through a Perth-based archive service. All three can be true at once, but they answer different questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties Kinross-shire</span><span class="citation-popover-snippet">Association of British Counties Kinross-shire</span></span></span>
+Neighbouring cases are still useful when they explain why readers may be confused. Kinross-shire sits between Fife and Perthshire, and modern local institutions often serve wider Perth and Kinross rather than the historic county alone. That means a reader may encounter the Milnathort report under a Fife label, Calvine in a Perth and Kinross news context, and Kinross-shire archival material through a Perth-based archive service. All three can be true at once, but they answer different questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties Kinross-shire</span><span class="citation-popover-snippet">Association of British Counties Kinross-shire</span></span></span>
 
 A good rule is to separate three layers:
 
@@ -321,7 +321,7 @@ This avoids two opposite mistakes. It stops Kinross-shire being inflated with be
 <img src="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-3-dark.svg" | relative_url }}" alt="Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_county_boundary_conf_1d7566-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What boundary discipline changes for the reader
 
-Boundary discipline makes Kinross-shire’s UFO history smaller, but clearer. Instead of presenting the county as a hidden hotspot, it shows a sparse local record in which the most traceable case is the 2009 Milnathort report. The interesting feature is not dramatic proof of an unknown craft; it is the way a small county can disappear inside administrative shorthand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Boundary discipline makes Kinross-shire’s UFO history smaller, but clearer. Instead of presenting the county as a hidden hotspot, it shows a sparse local record in which the most traceable case is the 2009 Milnathort report. The interesting feature is not dramatic proof of an unknown craft; it is the way a small county can disappear inside administrative shorthand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 That has practical consequences for anyone reading a UFO map. A pin placed in the wrong county can create a false pattern. Several weakly sourced or mislabelled entries can make one area look unusually active. A famous case borrowed from a neighbouring county can overshadow the local evidence altogether. In a place as compact as Kinross-shire, those errors matter more than they would in a large county with many independent reports.
 
@@ -332,194 +332,194 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Kinross shire UFO Maps Get Confusing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Kinross shire UFO Maps Get Confusing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful background for readers arriving through the UFO-mapping angle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for readers arriving through the UFO-mapping angle.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book+by+Gareth+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ordnance Survey Puzzle Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2diStgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Ordnance Survey Puzzle Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book+by+Gareth+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ordnance Survey Puzzle Book">The Ordnance Survey Puzzle Book</a>
-        </h4>
-        <p class="fr-book-author">By Gareth Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book+by+Gareth+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ordnance Survey Puzzle Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2diStgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Ordnance Survey Puzzle Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book+by+Gareth+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ordnance Survey Puzzle Book">The Ordnance Survey Puzzle Book</a>
+</h4>
+<p class="fr-book-author">By Gareth Moore</p>
         
-        <p class="fr-book-desc">Encourages understanding of map reading and boundary interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book+by+Gareth+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages understanding of map reading and boundary interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book+by+Gareth+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+Of+Scotland+by+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History Of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9PLZAUbrTK4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A History Of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+Of+Scotland+by+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Scotland">A History Of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Neil Oliver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+Of+Scotland+by+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History Of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9PLZAUbrTK4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A History Of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+Of+Scotland+by+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Scotland">A History Of Scotland</a>
+</h4>
+<p class="fr-book-author">By Neil Oliver</p>
         
-        <p class="fr-book-desc">Provides context for historic counties and regional identities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+Of+Scotland+by+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for historic counties and regional identities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+Of+Scotland+by+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Handy+Touring+Atlas+of+the+British+Isles+by+John+George+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Handy Touring Atlas of the British Isles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i31OAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Handy Touring Atlas of the British Isles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Handy+Touring+Atlas+of+the+British+Isles+by+John+George+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Handy Touring Atlas of the British Isles">The Handy Touring Atlas of the British Isles</a>
-        </h4>
-        <p class="fr-book-author">By John George Bartholomew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Handy+Touring+Atlas+of+the+British+Isles+by+John+George+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Handy Touring Atlas of the British Isles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i31OAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Handy Touring Atlas of the British Isles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Handy+Touring+Atlas+of+the+British+Isles+by+John+George+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Handy Touring Atlas of the British Isles">The Handy Touring Atlas of the British Isles</a>
+</h4>
+<p class="fr-book-author">By John George Bartholomew</p>
         
-        <p class="fr-book-desc">Helps explain place relationships and historic geographic units.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Handy+Touring+Atlas+of+the+British+Isles+by+John+George+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain place relationships and historic geographic units.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Handy+Touring+Atlas+of+the+British+Isles+by+John+George+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ordnance Survey Puzzle Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Scotland</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ordnance+Survey+Puzzle+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ordnance Survey Puzzle Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Scotland</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8ee442-why-kinross-shire-ufo-maps-get-confusing-kinross-shire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,313 +725,313 @@ The fairest reading is therefore cautious. Kinross-shire should be mapped as its
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Perth and Kinross  
-   Link: <a href="https://en.wikipedia.org/wiki/Perth_and_Kinross" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perth_and_Kinross</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perth_and_Kinross" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perth_and_Kinross</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gov.scot  
    Title: Scottish Government Local government  
-   Link: <a href="https://www.gov.scot/policies/local-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/policies/local-government/</a>  
+   Link:<a href="https://www.gov.scot/policies/local-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/policies/local-government/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Milnathort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milnathort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Milnathort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milnathort</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Perthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perthshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perthshire</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=252" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=252</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=252" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=252</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/id/ukpga/1994/39" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/id/ukpga/1994/39</a>  
+   Link:<a href="https://www.legislation.gov.uk/id/ukpga/1994/39" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/id/ukpga/1994/39</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archivecatalogue.pkc.gov.uk  
    Title: pkc.gov.uk Calm View: Collection Browser  
-   Link: <a href="https://archivecatalogue.pkc.gov.uk/TreeBrowse.aspx?field=RefNo&amp;key=CC2%2F4%2F5&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://archivecatalogue.pkc.gov.uk/TreeBrowse.aspx?field=RefNo&amp;key=CC2%2F4%2F5&amp;src=CalmView.Catalog</a>  
+   Link:<a href="https://archivecatalogue.pkc.gov.uk/TreeBrowse.aspx?field=RefNo&amp;key=CC2%2F4%2F5&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://archivecatalogue.pkc.gov.uk/TreeBrowse.aspx?field=RefNo&amp;key=CC2%2F4%2F5&amp;src=CalmView.Catalog</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archivecatalogue.pkc.gov.uk  
    Title: pkc.gov.uk Calm View: Record  
-   Link: <a href="https://archivecatalogue.pkc.gov.uk/Record.aspx?id=CC1%2F8&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://archivecatalogue.pkc.gov.uk/Record.aspx?id=CC1%2F8&amp;src=CalmView.Catalog</a>  
+   Link:<a href="https://archivecatalogue.pkc.gov.uk/Record.aspx?id=CC1%2F8&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://archivecatalogue.pkc.gov.uk/Record.aspx?id=CC1%2F8&amp;src=CalmView.Catalog</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archivecatalogue.pkc.gov.uk  
    Title: pkc.gov.uk Archive Catalogue  
-   Link: <a href="https://archivecatalogue.pkc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://archivecatalogue.pkc.gov.uk/</a>  
+   Link:<a href="https://archivecatalogue.pkc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://archivecatalogue.pkc.gov.uk/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ros.gov.uk  
    Title: new land register counties v4  
-   Link: <a href="https://www.ros.gov.uk/__data/assets/pdf_file/0010/96823/new-land-register-counties-v4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/__data/assets/pdf_file/0010/96823/new-land-register-counties-v4.pdf</a>  
+   Link:<a href="https://www.ros.gov.uk/__data/assets/pdf_file/0010/96823/new-land-register-counties-v4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/__data/assets/pdf_file/0010/96823/new-land-register-counties-v4.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ros.gov.uk  
-   Link: <a href="https://www.ros.gov.uk/services/search-property-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/services/search-property-information</a>  
+   Link:<a href="https://www.ros.gov.uk/services/search-property-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/services/search-property-information</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ros.gov.uk  
    Title: land register counties and operational dates  
-   Link: <a href="https://www.ros.gov.uk/about/publications/policy-and-guidelines/2016/land-register-counties-and-operational-dates" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/about/publications/policy-and-guidelines/2016/land-register-counties-and-operational-dates</a>  
+   Link:<a href="https://www.ros.gov.uk/about/publications/policy-and-guidelines/2016/land-register-counties-and-operational-dates" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/about/publications/policy-and-guidelines/2016/land-register-counties-and-operational-dates</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ros.gov.uk  
    Title: land register of scotland  
-   Link: <a href="https://www.ros.gov.uk/our-registers/land-register-of-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/our-registers/land-register-of-scotland</a>  
+   Link:<a href="https://www.ros.gov.uk/our-registers/land-register-of-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.ros.gov.uk/our-registers/land-register-of-scotland</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Kinross shire  
-   Link: <a href="https://en.wikipedia.org/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kinross-shire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kinross-shire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Angus, Scotland  
-   Link: <a href="https://en.wikipedia.org/wiki/Angus%2C_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angus%2C_Scotland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Angus%2C_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angus%2C_Scotland</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Counties of Scotland  
-   Link: <a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Local Government etc. (Scotland) Act 1994  
-   Link: <a href="https://en.wikipedia.org/wiki/Local_Government_etc._%28Scotland%29_Act_1994" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Local_Government_etc._%28Scotland%29_Act_1994</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Local_Government_etc._%28Scotland%29_Act_1994" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Local_Government_etc._%28Scotland%29_Act_1994</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: kinross.cc  
-   Link: <a href="https://kinross.cc/flag/" target="_blank" rel="noopener noreferrer nofollow">https://kinross.cc/flag/</a>  
+   Link:<a href="https://kinross.cc/flag/" target="_blank" rel="noopener noreferrer nofollow">https://kinross.cc/flag/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: boundaries.scot  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_South_and_Kinross-shire_0_1758892798.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_South_and_Kinross-shire_0_1758892798.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_South_and_Kinross-shire_0_1758892798.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_South_and_Kinross-shire_0_1758892798.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: boundaries.scot  
    Title: Perthshire and Kinross 1758892797  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_and_Kinross_1758892797.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_and_Kinross_1758892797.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_and_Kinross_1758892797.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Perthshire_and_Kinross_1758892797.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/angus-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/angus-county</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scotlandspeople.gov.uk  
    Title: kinross county  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/kinross-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/kinross-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/kinross-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/kinross-county</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinross-shire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinross-shire</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: abcounties.com  
    Title: Association of British Counties Kinross-shire  
-   Link: <a href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kinross-shire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kinross-shire/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abcounties.com  
    Title: Association of British Counties About the Counties  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: culturepk.org.uk  
    Title: Culture Perth and Kinross Perth & Kinross Archive  
-   Link: <a href="https://www.culturepk.org.uk/archivelfh/perthandkinrossarchive/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/archivelfh/perthandkinrossarchive/</a>  
+   Link:<a href="https://www.culturepk.org.uk/archivelfh/perthandkinrossarchive/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/archivelfh/perthandkinrossarchive/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: culturepk.org.uk  
    Title: kinross shire through the archive  
-   Link: <a href="https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf</a>  
+   Link:<a href="https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
    Title: The County of Kinross  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/the-county-of-kinross-a-brief-history-and-geography-of-kinross-shire/869852981964937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-kinross-a-brief-history-and-geography-of-kinross-shire/869852981964937/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/the-county-of-kinross-a-brief-history-and-geography-of-kinross-shire/869852981964937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-kinross-a-brief-history-and-geography-of-kinross-shire/869852981964937/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fife</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fife</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Kinross-shire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Kinross-shire&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Kinross-shire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Kinross-shire&amp;type=em</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: gazetteer.org.uk  
    Title: ABC Fact Sheet Historic Counties  
-   Link: <a href="https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf</a>  
+   Link:<a href="https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: historiccountiestrust.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/local" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/local</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/local" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/local</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: culturepk.org.uk  
    Title: Culture Perth & Kinross  
-   Link: <a href="https://www.culturepk.org.uk/archivelfh/l-f-h/maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/archivelfh/l-f-h/maps/</a>  
+   Link:<a href="https://www.culturepk.org.uk/archivelfh/l-f-h/maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/archivelfh/l-f-h/maps/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/argyllshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/argyllshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/argyllshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/argyllshire/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/angus/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/angus/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/angus/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/angus/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: stirlingcouncil.ica-atom.org  
-   Link: <a href="https://stirlingcouncil.ica-atom.org/perth?listLimit=10&amp;listPage=6&amp;onlyDirect=1&amp;page=4&amp;sf_culture=en&amp;sort=date&amp;sortDir=asc" target="_blank" rel="noopener noreferrer nofollow">https://stirlingcouncil.ica-atom.org/perth?listLimit=10&amp;listPage=6&amp;onlyDirect=1&amp;page=4&amp;sf_culture=en&amp;sort=date&amp;sortDir=asc</a>  
+   Link:<a href="https://stirlingcouncil.ica-atom.org/perth?listLimit=10&amp;listPage=6&amp;onlyDirect=1&amp;page=4&amp;sf_culture=en&amp;sort=date&amp;sortDir=asc" target="_blank" rel="noopener noreferrer nofollow">https://stirlingcouncil.ica-atom.org/perth?listLimit=10&amp;listPage=6&amp;onlyDirect=1&amp;page=4&amp;sf_culture=en&amp;sort=date&amp;sortDir=asc</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: the-past.com  
    Title: Association of British Counties (ABC)  
-   Link: <a href="https://the-past.com/shorts/groups/association-of-british-counties-abc/" target="_blank" rel="noopener noreferrer nofollow">https://the-past.com/shorts/groups/association-of-british-counties-abc/</a>  
+   Link:<a href="https://the-past.com/shorts/groups/association-of-british-counties-abc/" target="_blank" rel="noopener noreferrer nofollow">https://the-past.com/shorts/groups/association-of-british-counties-abc/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: notoneoffbritishisms.com  
-   Link: <a href="https://notoneoffbritishisms.com/2013/04/26/local/" target="_blank" rel="noopener noreferrer nofollow">https://notoneoffbritishisms.com/2013/04/26/local/</a>  
+   Link:<a href="https://notoneoffbritishisms.com/2013/04/26/local/" target="_blank" rel="noopener noreferrer nofollow">https://notoneoffbritishisms.com/2013/04/26/local/</a>  
 
 ### Additional References
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: Mapping UFO Stories | A quantitative inquiry into UFO/UAP and CE-5/HICE data  
-   Link: <a href="http://www.youtube.com/watch?v=jnV0vu1yAeM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jnV0vu1yAeM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jnV0vu1yAeM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jnV0vu1yAeM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: The Most Credible UFO Photo Ever Taken Is Finally Public  
-   Link: <a href="http://www.youtube.com/watch?v=OkTukKgXfaw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OkTukKgXfaw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK historic county boundaries geography mapping English counties explained Map Men...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=OkTukKgXfaw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OkTukKgXfaw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK historic county boundaries geography mapping English counties explained Map Men...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="http://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Credible UFO Photo Ever Taken Is Finally Public...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Credible UFO Photo Ever Taken Is Finally Public...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: britishcountyflags.com  
-   Link: <a href="https://britishcountyflags.com/wp-content/uploads/2019/08/a-guide-to-the-historic-counties-for-the-press-and-media.pdf" target="_blank" rel="noopener noreferrer nofollow">https://britishcountyflags.com/wp-content/uploads/2019/08/a-guide-to-the-historic-counties-for-the-press-and-media.pdf</a>  
+   Link:<a href="https://britishcountyflags.com/wp-content/uploads/2019/08/a-guide-to-the-historic-counties-for-the-press-and-media.pdf" target="_blank" rel="noopener noreferrer nofollow">https://britishcountyflags.com/wp-content/uploads/2019/08/a-guide-to-the-historic-counties-for-the-press-and-media.pdf</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: tayvalleyfhs.org.uk  
-   Link: <a href="https://tayvalleyfhs.org.uk/wp-content/uploads/2022/11/Beginning-your-research-in-the-Tay-Valley.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tayvalleyfhs.org.uk/wp-content/uploads/2022/11/Beginning-your-research-in-the-Tay-Valley.pdf</a>  
+   Link:<a href="https://tayvalleyfhs.org.uk/wp-content/uploads/2022/11/Beginning-your-research-in-the-Tay-Valley.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tayvalleyfhs.org.uk/wp-content/uploads/2022/11/Beginning-your-research-in-the-Tay-Valley.pdf</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: yourscottisharchives.com  
-   Link: <a href="https://yourscottisharchives.com/catalogues/60cc36db-e324-3b96-bcdb-ce13a5cddb62?component-id=ba8ff0e2-28d0-3c50-a0b8-ac0bf65c2b5d&amp;terms=%22Plans%22" target="_blank" rel="noopener noreferrer nofollow">https://yourscottisharchives.com/catalogues/60cc36db-e324-3b96-bcdb-ce13a5cddb62?component-id=ba8ff0e2-28d0-3c50-a0b8-ac0bf65c2b5d&amp;terms=%22Plans%22</a>  
+   Link:<a href="https://yourscottisharchives.com/catalogues/60cc36db-e324-3b96-bcdb-ce13a5cddb62?component-id=ba8ff0e2-28d0-3c50-a0b8-ac0bf65c2b5d&amp;terms=%22Plans%22" target="_blank" rel="noopener noreferrer nofollow">https://yourscottisharchives.com/catalogues/60cc36db-e324-3b96-bcdb-ce13a5cddb62?component-id=ba8ff0e2-28d0-3c50-a0b8-ac0bf65c2b5d&amp;terms=%22Plans%22</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor0MnEb4jUh_9ySW4yfpdlMwsUU5qdITzVuM3BZ3gtRXxf_JCj-" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor0MnEb4jUh_9ySW4yfpdlMwsUU5qdITzVuM3BZ3gtRXxf_JCj-</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor0MnEb4jUh_9ySW4yfpdlMwsUU5qdITzVuM3BZ3gtRXxf_JCj-" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor0MnEb4jUh_9ySW4yfpdlMwsUU5qdITzVuM3BZ3gtRXxf_JCj-</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor2UeJm5Zz-ZWYshytZlRd_jb4RIUBa8_PPbGLtkBSGDmJdJQlP" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor2UeJm5Zz-ZWYshytZlRd_jb4RIUBa8_PPbGLtkBSGDmJdJQlP</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor2UeJm5Zz-ZWYshytZlRd_jb4RIUBa8_PPbGLtkBSGDmJdJQlP" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOor2UeJm5Zz-ZWYshytZlRd_jb4RIUBa8_PPbGLtkBSGDmJdJQlP</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorvW2Hz5X0EQI5aEchsp4UbWRHMcCfHhOWdUTPPjSGEMJPtM3cw" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorvW2Hz5X0EQI5aEchsp4UbWRHMcCfHhOWdUTPPjSGEMJPtM3cw</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorvW2Hz5X0EQI5aEchsp4UbWRHMcCfHhOWdUTPPjSGEMJPtM3cw" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorvW2Hz5X0EQI5aEchsp4UbWRHMcCfHhOWdUTPPjSGEMJPtM3cw</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: scottisharchives.org.uk  
-   Link: <a href="https://www.scottisharchives.org.uk/archives-map/culture-perth-kinross-archives-local-family-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottisharchives.org.uk/archives-map/culture-perth-kinross-archives-local-family-history/</a>  
+   Link:<a href="https://www.scottisharchives.org.uk/archives-map/culture-perth-kinross-archives-local-family-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottisharchives.org.uk/archives-map/culture-perth-kinross-archives-local-family-history/</a>  

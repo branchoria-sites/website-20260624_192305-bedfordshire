@@ -118,9 +118,9 @@ heading_title: What Really Happened in Flintshire's Skies?
 page_heading_title: What Really Happened in Flintshire's Skies?
 source_count: 111
 infographic_count: 3
-page_website_name: Flintshire UFOs
+page_website_name: Flintshire
 page_banner_line: Balanced evidence, local sightings, and sky explanations from Flintshire's UFO record.
-site_website_name: Flintshire UFOs
+site_website_name: Flintshire
 site_banner_line: Balanced evidence, local sightings, and sky explanations from Flintshire's UFO record.
 site_image_description: A night view over the Dee estuary with distant aircraft lights, a faint orange light in the sky, and the outline of Flintshire towns...
 output_language: English
@@ -689,280 +689,280 @@ image: /assets/images/Flintshire_823310-overview-social.jpg
 
 ## Introduction
 
-For this page, “Flintshire” is best read mainly in the historic-county sense used by the project map. That matters because historic Flintshire is not identical to the current Flintshire council area: the modern authority is smaller, while the historic county included detached territory such as Flintshire Detached, or Maelor Saesneg, and areas later reorganised into Denbighshire and Wrexham. The Wikimedia Commons historic-county map for Flintshire explicitly shows the historic county and its detached eastern exclave, which is the correct organising frame for a county-level UFO index even though [modern reports]({{ 'modern-reports-41bc7d/' | relative_url }}) are often filed under present-day local authority names. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map Flintshire.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map Flintshire.svg</span></span></span>
+For this page, “Flintshire” is best read mainly in the historic-county sense used by the project map. That matters because historic Flintshire is not identical to the current Flintshire council area: the modern authority is smaller, while the historic county included detached territory such as Flintshire Detached, or Maelor Saesneg, and areas later reorganised into Denbighshire and Wrexham. The Wikimedia Commons historic-county map for Flintshire explicitly shows the historic county and its detached eastern exclave, which is the correct organising frame for a county-level UFO index even though [modern reports]({{ 'modern-reports-41bc7d/' | relative_url }}) are often filed under present-day local authority names.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[wikimedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map Flintshire.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map Flintshire.svg</span></span></span>
 
 
 <img src="{{ "/assets/images/Flintshire_823310-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Flintshire&#x27;s Skies?" loading="eager" decoding="sync" fetchpriority="high">
 ## What is actually on record in Flintshire?
 
-The most important public source for Flintshire sightings is the UK Government’s released Ministry of Defence UFO report series for 1997 to 2009. GOV.UK describes the collection as UFO reports showing dates, times, locations and brief descriptions, rather than full case investigations with witness interviews, radar plots or photographic analysis. That is a crucial limitation: the logs prove that reports were received and recorded, not that the objects were extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The most important public source for Flintshire sightings is the UK Government’s released Ministry of Defence UFO report series for 1997 to 2009. GOV.UK describes the collection as UFO reports showing dates, times, locations and brief descriptions, rather than full case investigations with witness interviews, radar plots or photographic analysis. That is a crucial limitation: the logs prove that reports were received and recorded, not that the objects were extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The earliest clear Flintshire entry in the released annual lists is from 6 June 1997 at Gwernaffield near Mold, where a witness reported “a round, black object” travelling quickly across the sky, with something apparently hanging or draping beneath it. The entry is brief and gives no occupation for the witness, no duration, no weather conditions and no follow-up assessment, so it remains an unresolved report rather than a strong case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The earliest clear Flintshire entry in the released annual lists is from 6 June 1997 at Gwernaffield near Mold, where a witness reported “a round, black object” travelling quickly across the sky, with something apparently hanging or draping beneath it. The entry is brief and gives no occupation for the witness, no duration, no weather conditions and no follow-up assessment, so it remains an unresolved report rather than a strong case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Flintshire then appears several times in the 1999 MOD report. On 12 June 1999 at 01:05, a sighting in Flint, then listed under Clwyd, described a disc or star-shaped object with blue and green coloured lights spinning around it, plus a sphere of light high in the atmosphere. On 12 July 1999 at 11:45, another Flint report described a star-shaped object with green, blue and red lights around it, also “spinning”. On 18 October 1999 at 19:21, Shotton was listed for a report of one hovering light, followed by a second object with a large bright white light and red and green flecks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Flintshire then appears several times in the 1999 MOD report. On 12 June 1999 at 01:05, a sighting in Flint, then listed under Clwyd, described a disc or star-shaped object with blue and green coloured lights spinning around it, plus a sphere of light high in the atmosphere. On 12 July 1999 at 11:45, another Flint report described a star-shaped object with green, blue and red lights around it, also “spinning”. On 18 October 1999 at 19:21, Shotton was listed for a report of one hovering light, followed by a second object with a large bright white light and red and green flecks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Later local reporting, drawing on declassified official files, added further Flintshire entries from the 2000s: a white ball over the A5104 at Rhydtalog in April 2000, a low bright silvery-white object at Pantymwyn in December 2000, two silvery objects leaving vapour trails at Holywell in September 2004, seven silent orange lights travelling towards the Wirral from Deeside in May 2009, and a bright orange light joined by a second light over Connah’s Quay in September 2009. These are valuable as a county cluster, but they are still short-form reports, not fully evidenced investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">Daily Post North Wales UFO hotspots disclosed in declassified official RAF files</span><span class="citation-popover-snippet">Daily Post North Wales UFO hotspots disclosed in declassified official RAF files</span></span></span>
+Later local reporting, drawing on declassified official files, added further Flintshire entries from the 2000s: a white ball over the A5104 at Rhydtalog in April 2000, a low bright silvery-white object at Pantymwyn in December 2000, two silvery objects leaving vapour trails at Holywell in September 2004, seven silent orange lights travelling towards the Wirral from Deeside in May 2009, and a bright orange light joined by a second light over Connah’s Quay in September 2009. These are valuable as a county cluster, but they are still short-form reports, not fully evidenced investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">Daily Post North Wales UFO hotspots disclosed in declassified official RAF files</span><span class="citation-popover-snippet">Daily Post North Wales UFO hotspots disclosed in declassified official RAF files</span></span></span>
 
 
 <img src="{{ "/assets/images/Flintshire_823310-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Flintshire&#x27;s Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Flintshire_823310-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flintshire_823310-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 1999 cluster stands out
 
-The 1999 Flint and Shotton entries are the closest Flintshire has to a small “flap” in the official public record. A flap is a period when multiple sightings are reported in a limited area or time window. Here, the pattern is not dramatic enough to claim a major wave, but it is noticeable: two Flint entries within a month, followed by Shotton in October, all involving lights, colour changes or apparently hovering behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 1999 Flint and Shotton entries are the closest Flintshire has to a small “flap” in the official public record. A flap is a period when multiple sightings are reported in a limited area or time window. Here, the pattern is not dramatic enough to claim a major wave, but it is noticeable: two Flint entries within a month, followed by Shotton in October, all involving lights, colour changes or apparently hovering behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-What makes the cluster interesting is also what makes it weak. The descriptions are vivid — spinning coloured lights, disc or star shapes, hovering lights — but they are short and stripped of context. A daytime or night-time “star-shaped” object could mean a reflective balloon, a distant aircraft seen head-on, a bright planet distorted by atmospheric shimmer, or simply a witness’s best attempt to describe a point of light. Red and green lights are especially awkward as evidence because they can suggest aviation navigation lights, although the witness may not have been seeing a conventional aircraft in the way they expected. The MOD list does not tell us whether aircraft movements, astronomical objects, weather balloons or local events were checked for these specific entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+What makes the cluster interesting is also what makes it weak. The descriptions are vivid — spinning coloured lights, disc or star shapes, hovering lights — but they are short and stripped of context. A daytime or night-time “star-shaped” object could mean a reflective balloon, a distant aircraft seen head-on, a bright planet distorted by atmospheric shimmer, or simply a witness’s best attempt to describe a point of light. Red and green lights are especially awkward as evidence because they can suggest aviation navigation lights, although the witness may not have been seeing a conventional aircraft in the way they expected. The MOD list does not tell us whether aircraft movements, astronomical objects, weather balloons or local events were checked for these specific entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The Shotton report is notable because Shotton and the wider Deeside area sit near the Dee estuary, the English border and significant aviation infrastructure. That geography does not explain every sighting, but it raises the prior likelihood of aircraft, helicopters, training traffic, distant lights over Merseyside or Cheshire, and atmospheric effects over open water and industrial areas. A report can be sincere and still be weakly evidenced if it lacks duration, direction, elevation, corroboration and independent tracking data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
+The Shotton report is notable because Shotton and the wider Deeside area sit near the Dee estuary, the English border and significant aviation infrastructure. That geography does not explain every sighting, but it raises the prior likelihood of aircraft, helicopters, training traffic, distant lights over Merseyside or Cheshire, and atmospheric effects over open water and industrial areas. A report can be sincere and still be weakly evidenced if it lacks duration, direction, elevation, corroboration and independent tracking data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-0p_zm4c-5E" title="Ancient Aliens: UFO Crash Site in Wales (Season 12) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-0p_zm4c-5E" target="_blank" rel="noopener noreferrer">Ancient Aliens: UFO Crash Site in Wales (Season 12) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-0p_zm4c-5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-0p_zm4c-5E">Open on YouTube</a></p></div></div></div>
 
 ## Deeside skies: aviation, industry and military memory
 
-Flintshire’s UFO reports should be read against its unusually aviation-rich local setting. Hawarden Airport, near the Welsh-English border, describes itself as a hub for general aviation and aerospace logistics and as the UK home of the Airbus Beluga, which carries large aircraft components such as wings and fuselage sections. A large, unusual aircraft operating from a local airport is not a universal UFO explanation, but it is exactly the kind of background factor a careful investigator would check before treating any slow, bright or oddly shaped object as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
+Flintshire’s UFO reports should be read against its unusually aviation-rich local setting. Hawarden Airport, near the Welsh-English border, describes itself as a hub for general aviation and aerospace logistics and as the UK home of the Airbus Beluga, which carries large aircraft components such as wings and fuselage sections. A large, unusual aircraft operating from a local airport is not a universal UFO explanation, but it is exactly the kind of background factor a careful investigator would check before treating any slow, bright or oddly shaped object as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
 
-The county also has a military aviation history through Sealand. Historic England notes that the Sealand airfield was originally civilian, was requisitioned by the military in 1916, and later became RAF Sealand after RAF Shotwick and RAF Sealand were merged in 1924. That history helps explain why UFO stories in the area often pick up a military tone, especially around Deeside, Shotton and Connah’s Quay. But a military setting is not itself evidence of a military UFO incident; it simply means there are more plausible aviation sources, more local memory of RAF activity, and more reason to compare reports with aircraft operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/images-books/photos/item/AL0185/049/01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-snippet">Open source on historicengland.org.uk.</span></span></span>
+The county also has a military aviation history through Sealand. Historic England notes that the Sealand airfield was originally civilian, was requisitioned by the military in 1916, and later became RAF Sealand after RAF Shotwick and RAF Sealand were merged in 1924. That history helps explain why UFO stories in the area often pick up a military tone, especially around Deeside, Shotton and Connah’s Quay. But a military setting is not itself evidence of a military UFO incident; it simply means there are more plausible aviation sources, more local memory of RAF activity, and more reason to compare reports with aircraft operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/images-books/photos/item/AL0185/049/01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-snippet">Open source on historicengland.org.uk.</span></span></span>
 
-The former RAF Sealand connection also illustrates a common trap in local UFO interpretation. A witness may reasonably say that an object “did not look like an aircraft”, but that does not automatically make it exotic. Distance, angle, haze, twilight, aircraft lights seen head-on, low cloud, reflections and unfamiliar aircraft silhouettes can all defeat everyday judgement. In Flintshire, the presence of Hawarden, Airbus, historic Sealand, the Dee corridor and nearby English airspace means aviation checks should be first-line explanations, not afterthoughts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
+The former RAF Sealand connection also illustrates a common trap in local UFO interpretation. A witness may reasonably say that an object “did not look like an aircraft”, but that does not automatically make it exotic. Distance, angle, haze, twilight, aircraft lights seen head-on, low cloud, reflections and unfamiliar aircraft silhouettes can all defeat everyday judgement. In Flintshire, the presence of Hawarden, Airbus, historic Sealand, the Dee corridor and nearby English airspace means aviation checks should be first-line explanations, not afterthoughts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
 
 
 <img src="{{ "/assets/images/Flintshire_823310-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Flintshire&#x27;s Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Flintshire_823310-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flintshire_823310-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern reports around Mold, Buckley, Flint and Connah’s Quay
 
-After the MOD stopped taking public UFO reports, Flintshire sightings continued to appear through local media, UFO groups and online reporting systems. North Wales Live reported that UFO Identified had listed two Flintshire cases in May 2021: two bright lights following the International Space Station over Mold before moving away and fading, and a bright light over Buckley that circled a star before moving off along a common flight path. The same report says both were logged by MUFON, the US-based Mutual UFO Network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
+After the MOD stopped taking public UFO reports, Flintshire sightings continued to appear through local media, UFO groups and online reporting systems. North Wales Live reported that UFO Identified had listed two Flintshire cases in May 2021: two bright lights following the International Space Station over Mold before moving away and fading, and a bright light over Buckley that circled a star before moving off along a common flight path. The same report says both were logged by MUFON, the US-based Mutual UFO Network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
 
-Those Mold and Buckley cases are useful examples of the modern evidence problem. A report can be logged by a UFO group and still be only partly investigated in public. The Mold description already contains one conventional anchor — the International Space Station — while the Buckley report mentions movement along a common flight path. Neither detail debunks the reports on its own, but both point towards ordinary skywatching checks: ISS passes, Starlink trains, aircraft tracks, drones, planets and local weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
+Those Mold and Buckley cases are useful examples of the modern evidence problem. A report can be logged by a UFO group and still be only partly investigated in public. The Mold description already contains one conventional anchor — the International Space Station — while the Buckley report mentions movement along a common flight path. Neither detail debunks the reports on its own, but both point towards ordinary skywatching checks: ISS passes, Starlink trains, aircraft tracks, drones, planets and local weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
 
-A 2023 North Wales Live article using a UFO Identified map said nine strange sightings had been recorded across North Wales over the previous two and a half years, including Flintshire-area reports around Buckley, Flint and Mold. One Flint example from 26 February 2022 described a column of around twelve very bright lights flying low and silently overhead before vanishing behind clouds; the same article repeated the Mold report of two bright lights following the ISS. This kind of cluster is interesting because it shows continued local reporting, but it is not the same as official confirmation or scientific evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
+A 2023 North Wales Live article using a UFO Identified map said nine strange sightings had been recorded across North Wales over the previous two and a half years, including Flintshire-area reports around Buckley, Flint and Mold. One Flint example from 26 February 2022 described a column of around twelve very bright lights flying low and silently overhead before vanishing behind clouds; the same article repeated the Mold report of two bright lights following the ISS. This kind of cluster is interesting because it shows continued local reporting, but it is not the same as official confirmation or scientific evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
 
-Connah’s Quay also appears in more popular, witness-led coverage. In March 2022, Lynn Murphy reported seeing and filming two long white or flaming-looking objects over her home, moving upward with tail-like features before disappearing from view. Her account, carried by Talker/SWNS, included her belief that the objects were not aircraft and might be UFOs, but the published story does not provide independent trajectory analysis, aircraft checks, astronomical checks or meteorological reconstruction. That makes it a humanly interesting sighting, not a resolved anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://talker.news/2022/04/14/mom-left-stunned-after-filming-mysterious-flaming-ufo-in-sky-above-her-home/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talker.news">[Talker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talker.news</span><span class="citation-popover-title">Mom left stunned after filming mysterious flaming UFO in sky above her home</span><span class="citation-popover-snippet">Mom left stunned after filming mysterious flaming UFO in sky above her home</span></span></span>
+Connah’s Quay also appears in more popular, witness-led coverage. In March 2022, Lynn Murphy reported seeing and filming two long white or flaming-looking objects over her home, moving upward with tail-like features before disappearing from view. Her account, carried by Talker/SWNS, included her belief that the objects were not aircraft and might be UFOs, but the published story does not provide independent trajectory analysis, aircraft checks, astronomical checks or meteorological reconstruction. That makes it a humanly interesting sighting, not a resolved anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://talker.news/2022/04/14/mom-left-stunned-after-filming-mysterious-flaming-ufo-in-sky-above-her-home/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talker.news">[Talker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talker.news</span><span class="citation-popover-title">Mom left stunned after filming mysterious flaming UFO in sky above her home</span><span class="citation-popover-snippet">Mom left stunned after filming mysterious flaming UFO in sky above her home</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6G1PagVFfiw" title="Lone UFO in North Wales Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6G1PagVFfiw" target="_blank" rel="noopener noreferrer">Lone UFO in North Wales Skies</a></p><p class="youtube-embed-meta">Channel: Will Huw</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6G1PagVFfiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6G1PagVFfiw">Open on YouTube</a></p></div></div></div>
 
 ## The best evidence, and the main doubts
 
-The best evidence for Flintshire’s UFO history is not a spectacular photograph or a single famous incident. It is the accumulation of official and semi-official traces: MOD annual logs, local newspaper summaries of declassified files, and later reporting by UFO Identified and MUFON-related sources. These sources establish that people in Flintshire have repeatedly reported unusual aerial objects over several decades, especially lights, discs, spheres, orange lights and coloured objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The best evidence for Flintshire’s UFO history is not a spectacular photograph or a single famous incident. It is the accumulation of official and semi-official traces: MOD annual logs, local newspaper summaries of declassified files, and later reporting by UFO Identified and MUFON-related sources. These sources establish that people in Flintshire have repeatedly reported unusual aerial objects over several decades, especially lights, discs, spheres, orange lights and coloured objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The main doubt is that most Flintshire reports are thin at exactly the points that would make them stronger. The public record usually lacks multiple named independent witnesses, original photographs with metadata, video analysis, radar confirmation, police logs, air traffic control checks, weather data and precise sky positions. Even the official MOD entries are generally one-line descriptions. That means “unidentified” often means “not identified from the available report”, rather than “shown to be beyond known aircraft, astronomy or atmospheric effects”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The main doubt is that most Flintshire reports are thin at exactly the points that would make them stronger. The public record usually lacks multiple named independent witnesses, original photographs with metadata, video analysis, radar confirmation, police logs, air traffic control checks, weather data and precise sky positions. Even the official MOD entries are generally one-line descriptions. That means “unidentified” often means “not identified from the available report”, rather than “shown to be beyond known aircraft, astronomy or atmospheric effects”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-There is also a reporting bias problem. Local newspapers tend to cover sightings when they are vivid, seasonal, viral or tied to a wider UFO news cycle, while uneventful explanations receive less attention. The 2023 North Wales article, for example, frames renewed interest partly through US congressional discussion of UAPs, even though Flintshire’s own cases depend on local observations and do not inherit the evidential status of military pilot cases elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
+There is also a reporting bias problem. Local newspapers tend to cover sightings when they are vivid, seasonal, viral or tied to a wider UFO news cycle, while uneventful explanations receive less attention. The 2023 North Wales article, for example, frames renewed interest partly through US congressional discussion of UAPs, even though Flintshire’s own cases depend on local observations and do not inherit the evidential status of military pilot cases elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Flintshire_823310-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Flintshire&#x27;s Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Flintshire_823310-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flintshire_823310-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official investigation changed after 2009
 
-The Ministry of Defence’s position is central to understanding the gap after 2009. GOV.UK still hosts the 1997 to 2009 report series, but the MOD no longer receives, records or investigates public UFO reports in the same way. A 2024 parliamentary answer stated that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has no current plan to create a dedicated team. The same answer said that, in more than 50 years, no sighting reported to the department had indicated a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The Ministry of Defence’s position is central to understanding the gap after 2009. GOV.UK still hosts the 1997 to 2009 report series, but the MOD no longer receives, records or investigates public UFO reports in the same way. A 2024 parliamentary answer stated that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has no current plan to create a dedicated team. The same answer said that, in more than 50 years, no sighting reported to the department had indicated a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
-This does not mean every old sighting was solved. It means the MOD judged the activity not worth continuing as a defence function. For Flintshire, the practical effect is that older sightings have an official paper trail while newer ones mostly depend on civilian reporting bodies, media accounts, social media, police call references where available, and private research groups. That shift makes post-2009 cases harder to compare with earlier MOD entries because the recording system changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+This does not mean every old sighting was solved. It means the MOD judged the activity not worth continuing as a defence function. For Flintshire, the practical effect is that older sightings have an official paper trail while newer ones mostly depend on civilian reporting bodies, media accounts, social media, police call references where available, and private research groups. That shift makes post-2009 cases harder to compare with earlier MOD entries because the recording system changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The closure also changes how readers should interpret “no official explanation”. Since 2009, absence of an MOD explanation is usually not meaningful, because the department is not routinely investigating such reports. A modern Flintshire sighting may be unexplained in public because nobody with access to flight data, satellite predictions, weather records and original media has reconstructed it, not because a formal investigation failed to solve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The closure also changes how readers should interpret “no official explanation”. Since 2009, absence of an MOD explanation is usually not meaningful, because the department is not routinely investigating such reports. A modern Flintshire sighting may be unexplained in public because nobody with access to flight data, satellite predictions, weather records and original media has reconstructed it, not because a formal investigation failed to solve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OQ3o_g9GtgY" title="Welsh &#x27;Roswell&#x27; UFO sighting explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OQ3o_g9GtgY" target="_blank" rel="noopener noreferrer">Welsh &#x27;Roswell&#x27; UFO sighting explained</a></p><p class="youtube-embed-meta">Channel: Onlooker &middot; Views: 29.4K &middot; Uploaded: August 2010 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OQ3o_g9GtgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OQ3o_g9GtgY">Open on YouTube</a></p></div></div></div>
 
 ## What would make a Flintshire case stronger?
 
-A strong Flintshire UFO case would need more than a striking description. The most useful evidence would include exact time, viewing direction, estimated elevation, duration, weather, the witness’s location, original unedited images or video, and independent checks against aircraft movements, ISS and Starlink passes, drones, meteors, planets and local events. A sighting near Hawarden, Deeside, Shotton or Connah’s Quay should especially be tested against aircraft and industrial-light possibilities before being treated as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
+A strong Flintshire UFO case would need more than a striking description. The most useful evidence would include exact time, viewing direction, estimated elevation, duration, weather, the witness’s location, original unedited images or video, and independent checks against aircraft movements, ISS and Starlink passes, drones, meteors, planets and local events. A sighting near Hawarden, Deeside, Shotton or Connah’s Quay should especially be tested against aircraft and industrial-light possibilities before being treated as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-title">Hawarden Aerodrome</span><span class="citation-popover-snippet">Hawarden Aerodrome</span></span></span>
 
-Multiple independent witnesses would also matter, but only if their accounts can be separated. Ten people sharing the same social media clip are not ten independent sightings. Two witnesses in different locations who describe the same object at the same time, with consistent direction and movement, would be much more valuable. Radar, air traffic control confirmation or official police records would strengthen a case further, though none of the main Flintshire public examples currently has that level of evidence in the accessible record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+Multiple independent witnesses would also matter, but only if their accounts can be separated. Ten people sharing the same social media clip are not ten independent sightings. Two witnesses in different locations who describe the same object at the same time, with consistent direction and movement, would be much more valuable. Radar, air traffic control confirmation or official police records would strengthen a case further, though none of the main Flintshire public examples currently has that level of evidence in the accessible record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The most honest classification for Flintshire’s known reports is therefore mixed. The 1997 Gwernaffield report and the 1999 Flint and Shotton reports are unresolved in the public record but weakly documented. The 2000s Deeside, Holywell and Connah’s Quay entries show a continuing local pattern of light-based sightings, but not a proven flap. The 2021–2022 Mold, Buckley, Flint and Connah’s Quay reports show that the tradition has continued into the satellite-and-smartphone era, but they also demonstrate how easily ISS passes, Starlink, aircraft routes and short video clips complicate interpretation. Talker+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The most honest classification for Flintshire’s known reports is therefore mixed. The 1997 Gwernaffield report and the 1999 Flint and Shotton reports are unresolved in the public record but weakly documented. The 2000s Deeside, Holywell and Connah’s Quay entries show a continuing local pattern of light-based sightings, but not a proven flap. The 2021–2022 Mold, Buckley, Flint and Connah’s Quay reports show that the tradition has continued into the satellite-and-smartphone era, but they also demonstrate how easily ISS passes, Starlink, aircraft routes and short video clips complicate interpretation. Talker+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 ## Flintshire’s place in the wider North Wales UFO story
 
-Flintshire is best understood as a supporting county in the wider North Wales UFO landscape rather than the home of one defining national case. It sits near better-known regional stories, such as the Berwyn Mountains incident in neighbouring North Wales UFO lore, and it shares media markets and sky corridors with Wrexham, Denbighshire, Gwynedd, Anglesey, Cheshire and Merseyside. That cross-border setting is important because a light seen from Flintshire may be over England, the Irish Sea, the Dee estuary or another Welsh county, depending on direction and distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
+Flintshire is best understood as a supporting county in the wider North Wales UFO landscape rather than the home of one defining national case. It sits near better-known regional stories, such as the Berwyn Mountains incident in neighbouring North Wales UFO lore, and it shares media markets and sky corridors with Wrexham, Denbighshire, Gwynedd, Anglesey, Cheshire and Merseyside. That cross-border setting is important because a light seen from Flintshire may be over England, the Irish Sea, the Dee estuary or another Welsh county, depending on direction and distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-snippet">Open source on dailypost.co.uk.</span></span></span>
 
 The county’s most valuable UFO-history role is as a reality check. Flintshire shows what much of the British UFO archive actually looks like once the famous cases are set aside: short official entries, sincere witnesses, recurring lights, uncertain geography, local press interest, aviation context and limited follow-up. That does not make the reports worthless. It makes them evidence of lived skywatching history — a record of what people saw, feared, wondered about and reported — while leaving the harder claim, that any of it was non-human technology, unsupported by the public evidence now available.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Flintshire&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Flintshire&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a county-wide overview of reports and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a county-wide overview of reports and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Surveys UFO evidence and reporting trends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Surveys UFO evidence and reporting trends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps interpret clusters of sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps interpret clusters of sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores folklore and recurring narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores folklore and recurring narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure"><img src="{{ '/assets/images/marketplace-covers/b669e450c72d78b9db3e.jpg' | relative_url }}" alt="Listing image for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure"><img src="{{ '/assets/images/marketplace-covers/b669e450c72d78b9db3e.jpg' | relative_url }}" alt="Listing image for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK"><img src="{{ '/assets/images/marketplace-covers/ab97acbd4f4d26ddecd1.jpg' | relative_url }}" alt="Listing image for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK"><img src="{{ '/assets/images/marketplace-covers/ab97acbd4f4d26ddecd1.jpg' | relative_url }}" alt="Listing image for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme"><img src="{{ '/assets/images/marketplace-covers/c58daf32721fbcbb367c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme"><img src="{{ '/assets/images/marketplace-covers/c58daf32721fbcbb367c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="what-really-happened-in-flintshires-what-really-happened-in-flintshire-s-skies-flintshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -978,7 +978,7 @@ The county’s most valuable UFO-history role is as a reality check. Flintshire 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -998,7 +998,7 @@ The county’s most valuable UFO-history role is as a reality check. Flintshire 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1030,7 +1030,7 @@ The county’s most valuable UFO-history role is as a reality check. Flintshire 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1082,7 +1082,7 @@ The county’s most valuable UFO-history role is as a reality check. Flintshire 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1127,7 +1127,7 @@ The county’s most valuable UFO-history role is as a reality check. Flintshire 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1168,223 +1168,223 @@ The county’s most valuable UFO-history role is as a reality check. Flintshire 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hawardenaerodrome.co.uk  
    Title: Hawarden Aerodrome  
-   Link: <a href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/</a>  
+   Link:<a href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Wales Historic Counties map Flintshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
    Title: starlink satellites leads to ufo reports 12297446  
-   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
+   Link:<a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: talker.news  
    Title: Mom left stunned after filming mysterious flaming UFO in sky above her home  
-   Link: <a href="https://talker.news/2022/04/14/mom-left-stunned-after-filming-mysterious-flaming-ufo-in-sky-above-her-home/" target="_blank" rel="noopener noreferrer nofollow">https://talker.news/2022/04/14/mom-left-stunned-after-filming-mysterious-flaming-ufo-in-sky-above-her-home/</a>  
+   Link:<a href="https://talker.news/2022/04/14/mom-left-stunned-after-filming-mysterious-flaming-ufo-in-sky-above-her-home/" target="_blank" rel="noopener noreferrer nofollow">https://talker.news/2022/04/14/mom-left-stunned-after-filming-mysterious-flaming-ufo-in-sky-above-her-home/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hawardenaerodrome.co.uk  
-   Link: <a href="https://hawardenaerodrome.co.uk/contact/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/contact/</a>  
+   Link:<a href="https://hawardenaerodrome.co.uk/contact/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/contact/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airbus.com  
    Title: in the United Kingdom Airbus Helicopters, headquartered at Oxford Airport  
-   Link: <a href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom</a>  
+   Link:<a href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: flintshire.gov.uk  
-   Link: <a href="https://www.flintshire.gov.uk/en/PDFFiles/Community-safety/Alcohol-PSPO/Flintshire-County-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flintshire.gov.uk/en/PDFFiles/Community-safety/Alcohol-PSPO/Flintshire-County-Map.pdf</a>  
+   Link:<a href="https://www.flintshire.gov.uk/en/PDFFiles/Community-safety/Alcohol-PSPO/Flintshire-County-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flintshire.gov.uk/en/PDFFiles/Community-safety/Alcohol-PSPO/Flintshire-County-Map.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gov.wales  
    Title: flintshire map coronavirus  
-   Link: <a href="https://www.gov.wales/sites/default/files/publications/2020-09/flintshire-map-coronavirus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/sites/default/files/publications/2020-09/flintshire-map-coronavirus.pdf</a>  
+   Link:<a href="https://www.gov.wales/sites/default/files/publications/2020-09/flintshire-map-coronavirus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/sites/default/files/publications/2020-09/flintshire-map-coronavirus.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: flintshire.org  
-   Link: <a href="https://www.flintshire.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.flintshire.org/</a>  
+   Link:<a href="https://www.flintshire.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.flintshire.org/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Flintshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Flintshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Flintshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Flintshire</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dailypost.co.uk  
    Title: Daily Post North Wales UFO hotspots disclosed in declassified official RAF files  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: historicengland.org.uk  
-   Link: <a href="https://historicengland.org.uk/images-books/photos/item/AL0185/049/01" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/images-books/photos/item/AL0185/049/01</a>  
+   Link:<a href="https://historicengland.org.uk/images-books/photos/item/AL0185/049/01" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/images-books/photos/item/AL0185/049/01</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dailypost.co.uk  
-   Link: <a href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dailypost.co.uk  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/donut-shaped-flying-objects-among-27456789</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dailypost.co.uk  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dailypost.co.uk  
    Title: bizarre ufo sightings north wales 28328301  
-   Link: <a href="https://www.dailypost.co.uk/news/local-news/bizarre-ufo-sightings-north-wales-28328301" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/local-news/bizarre-ufo-sightings-north-wales-28328301</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/local-news/bizarre-ufo-sightings-north-wales-28328301" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/local-news/bizarre-ufo-sightings-north-wales-28328301</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dailypost.co.uk  
    Title: ufo light seen across north 21759455  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dailypost.co.uk  
    Title: ufo investigators belief mysterious blue 15825291  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-belief-mysterious-blue-15825291" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-belief-mysterious-blue-15825291</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-belief-mysterious-blue-15825291" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-belief-mysterious-blue-15825291</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dailypost.co.uk  
    Title: xmas strangest things spotted skies 19428637  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Flintshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flintshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flintshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flintshire</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Hawarden Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Hawarden_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hawarden_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hawarden_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hawarden_Airport</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: military-history.fandom.com  
    Title: RAF Sealand  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_Sealand" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Sealand</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_Sealand" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Sealand</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: chester.shoutwiki.com  
-   Link: <a href="https://chester.shoutwiki.com/wiki/Flintshire" target="_blank" rel="noopener noreferrer nofollow">https://chester.shoutwiki.com/wiki/Flintshire</a>  
+   Link:<a href="https://chester.shoutwiki.com/wiki/Flintshire" target="_blank" rel="noopener noreferrer nofollow">https://chester.shoutwiki.com/wiki/Flintshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: carboncreative.co.uk  
    Title: Airbus | Visitor Centre  
-   Link: <a href="https://www.carboncreative.co.uk/work/airbus-visitor-centre-graphics/" target="_blank" rel="noopener noreferrer nofollow">https://www.carboncreative.co.uk/work/airbus-visitor-centre-graphics/</a>  
+   Link:<a href="https://www.carboncreative.co.uk/work/airbus-visitor-centre-graphics/" target="_blank" rel="noopener noreferrer nofollow">https://www.carboncreative.co.uk/work/airbus-visitor-centre-graphics/</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UFO Crash Site in Wales (Season 12) | History  
-   Link: <a href="https://www.youtube.com/watch?v=-0p_zm4c-5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0p_zm4c-5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Genuine UFO Sighting Denbigh Wales 2012 Flying Saucer Lights Part One of Eight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-0p_zm4c-5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0p_zm4c-5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genuine UFO Sighting Denbigh Wales 2012 Flying Saucer Lights Part One of Eight...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUYwqYsiBiG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUYwqYsiBiG/</a>  
+   Link:<a href="https://www.instagram.com/p/DUYwqYsiBiG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUYwqYsiBiG/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZaAd-gmnGK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZaAd-gmnGK/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZaAd-gmnGK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZaAd-gmnGK/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/sealand-north-south-shotwick/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/sealand-north-south-shotwick/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/sealand-north-south-shotwick/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/sealand-north-south-shotwick/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: clwydfhs.org.uk  
-   Link: <a href="https://www.clwydfhs.org.uk/en/miscellanea/ancient-flintshire-parishes" target="_blank" rel="noopener noreferrer nofollow">https://www.clwydfhs.org.uk/en/miscellanea/ancient-flintshire-parishes</a>  
+   Link:<a href="https://www.clwydfhs.org.uk/en/miscellanea/ancient-flintshire-parishes" target="_blank" rel="noopener noreferrer nofollow">https://www.clwydfhs.org.uk/en/miscellanea/ancient-flintshire-parishes</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: aviationparkgroup.co.uk  
-   Link: <a href="https://www.aviationparkgroup.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationparkgroup.co.uk/</a>  
+   Link:<a href="https://www.aviationparkgroup.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationparkgroup.co.uk/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZZpwhBJXNw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZpwhBJXNw/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZZpwhBJXNw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZpwhBJXNw/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/778584822593717/posts/1537121133406745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/778584822593717/posts/1537121133406745/</a>  
+   Link:<a href="https://www.facebook.com/groups/778584822593717/posts/1537121133406745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/778584822593717/posts/1537121133406745/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  

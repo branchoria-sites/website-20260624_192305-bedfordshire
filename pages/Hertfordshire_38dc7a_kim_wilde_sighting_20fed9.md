@@ -260,27 +260,27 @@ Kim Wilde’s garden sighting is [Hertfordshire]({{ 'what-really-happened-in-her
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-overview.webp" | relative_url }}" alt="Overview image for Kim Wilde" loading="eager" decoding="sync" fetchpriority="high">
 ## The June 2009 account
 
-Wilde has told the story several times, and the most consistent elements are the Hertfordshire garden setting, a bright light behind cloud, rapid back-and-forth motion and a sense that the object or light was large. In a 2013 Guardian interview, she placed the sighting on 26 June, the day after Michael Jackson died, and described seeing bright lights with a friend in the garden, moving in a zigzag pattern for about ten minutes. She also said there were other witnesses and that the story had appeared in the local paper. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">kim wilde interview christmas winter album</span><span class="citation-popover-snippet">kim wilde interview christmas winter album</span></span></span>
+Wilde has told the story several times, and the most consistent elements are the Hertfordshire garden setting, a bright light behind cloud, rapid back-and-forth motion and a sense that the object or light was large. In a 2013 Guardian interview, she placed the sighting on 26 June, the day after Michael Jackson died, and described seeing bright lights with a friend in the garden, moving in a zigzag pattern for about ten minutes. She also said there were other witnesses and that the story had appeared in the local paper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">kim wilde interview christmas winter album</span><span class="citation-popover-snippet">kim wilde interview christmas winter album</span></span></span>
 
-Later retellings added more detail. On ITV’s *Loose Women* in 2018, Wilde said helicopters and a bright light came towards them, the helicopters left, and the light stayed behind cloud. She described it moving from roughly “11 o’clock” to “2 o’clock” and back again, with a smaller light joining it. That account also shows how quickly the sighting moved from observation to interpretation: Wilde called it a UFO and linked it to her belief that aliens were already here. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/loosewomen/articles/kim-wilde-on-alien-encounter-they-have-been-keeping-an-eye-on-us-for-a-long-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">XKim Wilde talks about her alien encounter</span><span class="citation-popover-snippet">XKim Wilde talks about her alien encounter</span></span></span>
+Later retellings added. On ITV’s *Loose Women* in 2018, Wilde said helicopters and a bright light came towards them, the helicopters left, and the light stayed behind cloud. She described it moving from roughly “11 o’clock” to “2 o’clock” and back again, with a smaller light joining it. That account also shows how quickly the sighting moved from observation to interpretation: Wilde called it a UFO and linked it to her belief that aliens were already here.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/loosewomen/articles/kim-wilde-on-alien-encounter-they-have-been-keeping-an-eye-on-us-for-a-long-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">XKim Wilde talks about her alien encounter</span><span class="citation-popover-snippet">XKim Wilde talks about her alien encounter</span></span></span>
 
-A 2023 BBC Three Counties Radio report, reproduced by Wilde’s official fan archive, gave a more measured version of the same core memory. Wilde said she had been in hospital with her son earlier that evening, was later sitting in the garden with a friend, and noticed an extremely bright light behind light cloud. She said it was not the Moon, then described a zigzag movement across the sky lasting a few minutes before the light disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-meta">Published: June 2009</span></span></span>
+A 2023 BBC Three Counties Radio report, reproduced by Wilde’s official fan archive, gave a more measured version of the same core memory. Wilde said she had been in hospital with her son earlier that evening, was later sitting in the garden with a friend, and noticed an extremely bright light behind light cloud. She said it was not the Moon, then described a zigzag movement across the sky lasting a few minutes before the light disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-meta">Published: June 2009</span></span></span>
 
-The strongest official anchor is not a detailed investigation file but a brief MoD sighting log. The UK government’s UFO reports page describes the released material as lists of UFO reports from 1997 to 2009, giving dates, times, locations and short descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span> In the 2009 MoD report list, 26 June 2009 at 22:45 is recorded for Welwyn Garden City, Hertfordshire, with the description simply given as “A UFO.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The page image confirms how bare that entry is: it supports the existence of a reported sighting at the right place and time, but it does not by itself confirm what Wilde saw or whether the MoD investigated it in depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The strongest official anchor is not a detailed investigation file but a brief MoD sighting log. The UK government’s UFO reports page describes the released material as lists of UFO reports from 1997 to 2009, giving dates, times, locations and short descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span> In the 2009 MoD report list, 26 June 2009 at 22:45 is recorded for Welwyn Garden City, Hertfordshire, with the description simply given as “A UFO.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The page image confirms how bare that entry is: it supports the existence of a reported sighting at the right place and time, but it does not by itself confirm what Wilde saw or whether the MoD investigated it in depth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-1-dark.svg" | relative_url }}" alt="Kim Wilde illustration 1" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story travelled
 
-The sighting travelled because it had three ingredients most local UFO reports do not: a famous witness, a memorable visual description and an afterlife in pop culture. Hertfordshire has many brief sky-light reports in the 2009 MoD list, including Stevenage, Hitchin, Hoddesdon, Harpenden, Watford, Letchworth, Tring and Hemel Hempstead, but most are anonymous one-line entries. Wilde’s account stands out because she has repeated it publicly over more than a decade, giving the story a human voice and a clear setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The sighting travelled because it had three ingredients most local UFO reports do not: a famous witness, a memorable visual description and an afterlife in pop culture. Hertfordshire has many brief sky-light reports in the 2009 MoD list, including Stevenage, Hitchin, Hoddesdon, Harpenden, Watford, Letchworth, Tring and Hemel Hempstead, but most are anonymous one-line entries. Wilde’s account stands out because she has repeated it publicly over more than a decade, giving the story a human voice and a clear setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-It also arrived during a national surge in UFO reporting. The National Archives press release on the final MoD UFO files says the UFO desk received more than 600 reports in 2009, roughly treble the previous year, and that the desk was closed after the MoD concluded the work served no defence purpose. The same release notes that many orange-light reports resembled Chinese lanterns, while also stressing that increased public awareness of released UFO files and press coverage may have encouraged more people to report sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span><span class="citation-popover-meta">Published: November 2009</span></span></span>
+It also arrived during a national surge in UFO reporting. The National Archives press release on the final MoD UFO files says the UFO desk received more than 600 reports in 2009, roughly treble the previous year, and that the desk was closed after the MoD concluded the work served no defence purpose. The same release notes that many orange-light reports resembled Chinese lanterns, while also stressing that increased public awareness of released UFO files and press coverage may have encouraged more people to report sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span><span class="citation-popover-meta">Published: November 2009</span></span></span>
 
 That wider 2009 context matters for reading Wilde’s case. It does not debunk her account, but it does warn against treating one famous memory as isolated proof. The MoD files show that people across the UK were reporting bright lights, orange lights, silent objects and formation-like movements at a high rate in the same period. Some of those descriptions were probably lanterns, aircraft, balloons, astronomical objects or light effects. Others remained too thinly recorded to identify.
 
-The cultural afterlife began in earnest when Wilde connected the sighting to her music. In a 2018 AXS interview, she said that in 2009 she, her husband and a friend saw two incredible lights over Welwyn Garden City, and that the event inspired the artwork of *Here Come the Aliens* and the album track “1969.” She went further, saying it “changed the trajectory” of her life because the album, tour and radio play would not have happened in the same way without it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://getoutmag.com/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getoutmag.com">[Get Out! Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getoutmag.com</span><span class="citation-popover-title">Get Out! Magazine Kim Wilde &#x27;Here Come the Aliens</span><span class="citation-popover-snippet">Get Out! Magazine Kim Wilde &#x27;Here Come the Aliens</span><span class="citation-popover-meta">Published: May 14, 2018</span></span></span>
+The cultural afterlife began in earnest when Wilde connected the sighting to her music. In a 2018 AXS interview, she said that in 2009 she, her husband and a friend saw two incredible lights over Welwyn Garden City, and that the event inspired the artwork of *Here Come the Aliens* and the album track “1969.” She went further, saying it “changed the trajectory” of her life because the album, tour and radio play would not have happened in the same way without it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://getoutmag.com/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getoutmag.com">[Get Out! Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getoutmag.com</span><span class="citation-popover-title">Get Out! Magazine Kim Wilde &#x27;Here Come the Aliens</span><span class="citation-popover-snippet">Get Out! Magazine Kim Wilde &#x27;Here Come the Aliens</span><span class="citation-popover-meta">Published: May 14, 2018</span></span></span>
 
-The album did make a measurable public impact. Official Charts records *Here Come the Aliens* reaching number 21 on the UK Albums Chart in March 2018, with related placements on the Scottish, sales, downloads and physical album charts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/albums/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-title">kim wilde here come the aliens</span><span class="citation-popover-snippet">kim wilde here come the aliens</span><span class="citation-popover-meta">Published: March 29, 2018</span></span></span> The Guardian’s 2018 profile also made the UFO story central to the album narrative, describing Wilde as convinced that she saw a UFO above her back garden in 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2018/apr/04/kim-wilde-maybe-aliens-are-using-me-to-put-out-a-record-with-them-on-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Kim Wilde: &#x27;Maybe aliens are using me to put out a record</span><span class="citation-popover-snippet">The Guardian Kim Wilde: &#x27;Maybe aliens are using me to put out a record</span><span class="citation-popover-meta">Published: April 4, 2018</span></span></span>
+The album did make a measurable public impact. Official Charts records *Here Come the Aliens* reaching number 21 on the UK Albums Chart in March 2018, with related placements on the Scottish, sales, downloads and physical album charts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/albums/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-title">kim wilde here come the aliens</span><span class="citation-popover-snippet">kim wilde here come the aliens</span><span class="citation-popover-meta">Published: March 29, 2018</span></span></span> The Guardian’s 2018 profile also made the UFO story central to the album narrative, describing Wilde as convinced that she saw a UFO above her back garden in 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2018/apr/04/kim-wilde-maybe-aliens-are-using-me-to-put-out-a-record-with-them-on-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Kim Wilde: &#x27;Maybe aliens are using me to put out a record</span><span class="citation-popover-snippet">The Guardian Kim Wilde: &#x27;Maybe aliens are using me to put out a record</span><span class="citation-popover-meta">Published: April 4, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
@@ -291,13 +291,13 @@ Later reporting strengthened the case as a piece of living testimony, but not as
 
 At the same time, the later interviews also make the evidential problem clearer. Some details shift in emphasis: one account stresses two huge lights and a ten-minute duration; another foregrounds helicopters and a smaller light joining the first; the 2023 version emphasises one extremely bright light behind cloud and a few minutes of zigzag movement. Such differences are normal in memories retold over years, but they matter because UFO cases often turn on precise details such as direction, elevation, duration, number of objects and whether the light was projected onto cloud or was a separate object.
 
-The most important development in 2023 was not new evidence from Hertfordshire, but a change in public framing. Wilde linked her sighting to testimony given to a US congressional hearing on unidentified anomalous phenomena, saying the military witnesses’ status made her feel vindicated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-meta">Published: June 2009</span></span></span> That comparison helped revive interest in the Hertfordshire story, but it does not directly corroborate the 2009 event. A general shift in how governments and media discuss UAP is not the same as evidence for a specific garden sighting in Welwyn Garden City.
+The most important development in 2023 was not new evidence from Hertfordshire, but a change in public framing. Wilde linked her sighting to testimony given to a US congressional hearing on unidentified anomalous phenomena, saying the military witnesses’ status made her feel vindicated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-meta">Published: June 2009</span></span></span> That comparison helped revive interest in the Hertfordshire story, but it does not directly corroborate the 2009 event. A general shift in how governments and media discuss UAP is not the same as evidence for a specific garden sighting in Welwyn Garden City.
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-2-dark.svg" | relative_url }}" alt="Kim Wilde illustration 2" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence is still missing
 
-The case remains hard to test because the available material is mostly retrospective testimony plus a very short official log entry. The MoD entry is useful because it places a Welwyn Garden City report at 22:45 on 26 June 2009, but it gives no witness name, no object description, no investigator notes, no radar check and no conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The case remains hard to test because the available material is mostly retrospective testimony plus a very short official log entry. The MoD entry is useful because it places a Welwyn Garden City report at 22:45 on 26 June 2009, but it gives no witness name, no object description, no investigator notes, no radar check and no conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 The missing evidence falls into a few practical categories:
 
@@ -322,7 +322,7 @@ This is why the case sits in the middle ground of UFO evidence. It is more memor
 
 ## Why it belongs in Hertfordshire’s UFO history
 
-Wilde’s sighting belongs in Hertfordshire’s UFO history not because it proves an extraordinary craft was present, but because it shows how a county-level UFO story can move through several stages: private experience, local report, official log, celebrity interview, album concept and renewed media discussion. Welwyn Garden City is firmly within Hertfordshire, and the story sits naturally beside the county’s other 2009 MoD entries from places such as Stevenage, Harpenden and Watford. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Wilde’s sighting belongs in Hertfordshire’s UFO history not because it proves an extraordinary craft was present, but because it shows how a county-level UFO story can move through several stages: private experience, local report, official log, celebrity interview, album concept and renewed media discussion. Welwyn Garden City is firmly within Hertfordshire, and the story sits naturally beside the county’s other 2009 MoD entries from places such as Stevenage, Harpenden and Watford.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 It also illustrates a useful caution for readers. A named witness can make a story more vivid and easier to remember, but fame does not make the observation conclusive. The best reading is balanced: Wilde and those with her may well have seen something genuinely unusual to them; the timing and place are supported by a sparse official report; later media attention explains why the story endured; but the evidence available in public does not let anyone confidently identify the cause.
 
@@ -332,194 +332,194 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-3-dark.svg" | relative_url }}" alt="Kim Wilde illustration 3" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a_kim_wilde_sighting_20fed9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Kim Wilde See Something Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Kim Wilde See Something Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly matches a page about evaluating a modern British UFO sighting and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches a page about evaluating a modern British UFO sighting and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs+by+Lynn+Picknett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9WSeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs+by+Lynn+Picknett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of UFOs">The Mammoth Book of UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Lynn Picknett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs+by+Lynn+Picknett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9WSeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs+by+Lynn+Picknett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of UFOs">The Mammoth Book of UFOs</a>
+</h4>
+<p class="fr-book-author">By Lynn Picknett</p>
         
-        <p class="fr-book-desc">Provides context for how individual sightings fit into wider UFO history and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs+by+Lynn+Picknett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how individual sightings fit into wider UFO history and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs+by+Lynn+Picknett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony and evidence standards, central issues in assessing the Kim Wilde account.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony and evidence standards, central issues in assessing the Kim Wilde account.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how unusual sightings are investigated and why some cases remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual sightings are investigated and why some cases remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="kim-wilde-did-kim-wilde-see-something-unusual-hertfordshire-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,154 +725,154 @@ Within the Hertfordshire branch, the case is therefore best treated as a notable
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: itv.com  
    Title: XKim Wilde talks about her alien encounter  
-   Link: <a href="https://www.itv.com/loosewomen/articles/kim-wilde-on-alien-encounter-they-have-been-keeping-an-eye-on-us-for-a-long-time" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/loosewomen/articles/kim-wilde-on-alien-encounter-they-have-been-keeping-an-eye-on-us-for-a-long-time</a>  
+   Link:<a href="https://www.itv.com/loosewomen/articles/kim-wilde-on-alien-encounter-they-have-been-keeping-an-eye-on-us-for-a-long-time" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/loosewomen/articles/kim-wilde-on-alien-encounter-they-have-been-keeping-an-eye-on-us-for-a-long-time</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wilde-life.com  
    Title: kim wilde says congress ufo story matches her sighting in hertfordshire  
-   Link: <a href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/</a>  
+   Link:<a href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/</a>  
    Published: June 2009  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    Published: December 4, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
    Published: November 2009  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
    Published: November 2009  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wilde-life.com  
    Title: kim wilde convinced aliens will be proven to exist before she dies after ufo  
-   Link: <a href="https://www.wilde-life.com/articles/2021/kim-wilde-convinced-aliens-will-be-proven-to-exist-before-she-dies-after-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2021/kim-wilde-convinced-aliens-will-be-proven-to-exist-before-she-dies-after-ufo/</a>  
+   Link:<a href="https://www.wilde-life.com/articles/2021/kim-wilde-convinced-aliens-will-be-proven-to-exist-before-she-dies-after-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2021/kim-wilde-convinced-aliens-will-be-proven-to-exist-before-she-dies-after-ufo/</a>  
    Published: December 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wilde-life.com  
-   Link: <a href="https://www.wilde-life.com/articles/2018/interview-pop-star-kim-wilde-talks-about-out-of-this-world-new-album-here-come-the/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2018/interview-pop-star-kim-wilde-talks-about-out-of-this-world-new-album-here-come-the/</a>  
+   Link:<a href="https://www.wilde-life.com/articles/2018/interview-pop-star-kim-wilde-talks-about-out-of-this-world-new-album-here-come-the/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2018/interview-pop-star-kim-wilde-talks-about-out-of-this-world-new-album-here-come-the/</a>  
    Published: May 2018  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wilde-life.com  
-   Link: <a href="https://www.wilde-life.com/encyclopedia/charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/encyclopedia/charts/</a>  
+   Link:<a href="https://www.wilde-life.com/encyclopedia/charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/encyclopedia/charts/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: itv.com  
    Title: ufo sightings files mod the national archives  
-   Link: <a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
+   Link:<a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: kim wilde interview christmas winter album  
-   Link: <a href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album</a>  
+   Link:<a href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: getoutmag.com  
    Title: Get Out! Magazine Kim Wilde 'Here Come the Aliens'  
-   Link: <a href="https://getoutmag.com/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://getoutmag.com/kim-wilde-here-come-the-aliens/</a>  
+   Link:<a href="https://getoutmag.com/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://getoutmag.com/kim-wilde-here-come-the-aliens/</a>  
    Published: May 14, 2018  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: officialcharts.com  
    Title: kim wilde here come the aliens  
-   Link: <a href="https://www.officialcharts.com/albums/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/albums/kim-wilde-here-come-the-aliens/</a>  
+   Link:<a href="https://www.officialcharts.com/albums/kim-wilde-here-come-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/albums/kim-wilde-here-come-the-aliens/</a>  
    Published: March 29, 2018  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: The Guardian Kim Wilde: 'Maybe aliens are using me to put out a record  
-   Link: <a href="https://www.theguardian.com/music/2018/apr/04/kim-wilde-maybe-aliens-are-using-me-to-put-out-a-record-with-them-on-it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2018/apr/04/kim-wilde-maybe-aliens-are-using-me-to-put-out-a-record-with-them-on-it</a>  
+   Link:<a href="https://www.theguardian.com/music/2018/apr/04/kim-wilde-maybe-aliens-are-using-me-to-put-out-a-record-with-them-on-it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2018/apr/04/kim-wilde-maybe-aliens-are-using-me-to-put-out-a-record-with-them-on-it</a>  
    Published: April 4, 2018  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/artist/18818/kim-wilde/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/18818/kim-wilde/</a>  
+   Link:<a href="https://www.officialcharts.com/artist/18818/kim-wilde/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/18818/kim-wilde/</a>  
    Published: November 18, 1960  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: officialcharts.com  
    Title: albums chart  
-   Link: <a href="https://www.officialcharts.com/charts/albums-chart/20180323/7502/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/albums-chart/20180323/7502/</a>  
+   Link:<a href="https://www.officialcharts.com/charts/albums-chart/20180323/7502/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/albums-chart/20180323/7502/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bco.ie  
    Title: How To Identify A UFO  
-   Link: <a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
+   Link:<a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Hertfordshire</a>  
+   Link:<a href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Hertfordshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Saint-Albans-district-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Saint-Albans-district-England</a>  
+   Link:<a href="https://www.britannica.com/place/Saint-Albans-district-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Saint-Albans-district-England</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: chart-history.net  
    Title: arcdcov kim wilde  
-   Link: <a href="https://chart-history.net/wp-content/uploads/arcdcov-kim-wilde.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chart-history.net/wp-content/uploads/arcdcov-kim-wilde.pdf</a>  
+   Link:<a href="https://chart-history.net/wp-content/uploads/arcdcov-kim-wilde.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chart-history.net/wp-content/uploads/arcdcov-kim-wilde.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: crsbi.ac.uk  
-   Link: <a href="https://www.crsbi.ac.uk/resources/preface-to-hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.crsbi.ac.uk/resources/preface-to-hertfordshire</a>  
+   Link:<a href="https://www.crsbi.ac.uk/resources/preface-to-hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.crsbi.ac.uk/resources/preface-to-hertfordshire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1261424061212907/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1261424061212907/</a>  
+   Link:<a href="https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1261424061212907/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1261424061212907/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/266900051167619/posts/1069979297526353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266900051167619/posts/1069979297526353/</a>  
+   Link:<a href="https://www.facebook.com/groups/266900051167619/posts/1069979297526353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266900051167619/posts/1069979297526353/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/is-london-actually-a-county-or-is-it-something-else-entirelymany-people-assume-l/1250174677266097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/is-london-actually-a-county-or-is-it-something-else-entirelymany-people-assume-l/1250174677266097/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/is-london-actually-a-county-or-is-it-something-else-entirelymany-people-assume-l/1250174677266097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/is-london-actually-a-county-or-is-it-something-else-entirelymany-people-assume-l/1250174677266097/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: kim wilde aliens live out now  
-   Link: <a href="https://www.facebook.com/officialkimwilde/videos/kim-wilde-aliens-live-out-now/658506101322753/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialkimwilde/videos/kim-wilde-aliens-live-out-now/658506101322753/</a>  
+   Link:<a href="https://www.facebook.com/officialkimwilde/videos/kim-wilde-aliens-live-out-now/658506101322753/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialkimwilde/videos/kim-wilde-aliens-live-out-now/658506101322753/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/133607519998911/posts/9990982544261310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/133607519998911/posts/9990982544261310/</a>  
+   Link:<a href="https://www.facebook.com/groups/133607519998911/posts/9990982544261310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/133607519998911/posts/9990982544261310/</a>  

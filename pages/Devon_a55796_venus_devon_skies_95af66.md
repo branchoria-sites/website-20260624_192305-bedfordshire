@@ -252,38 +252,38 @@ Could Venus explain [Devon]({{ 'what-really-happened-in-devons-ufo-skies/' | rel
 
 
 <img src="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
-That matters because Devon’s best-known UFO episode became public precisely at the point where witness confidence, press excitement, police involvement and astronomical explanation collided. In November 1967, Parliament was told that a number of North Devon reports had been investigated; some were aircraft, some were lights, and most of those lights were identified as Venus, while a small residue remained unidentified but was not treated as alien. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
+That matters because Devon’s best-known UFO episode became public precisely at the point where witness confidence, press excitement, police involvement and astronomical explanation collided. In November 1967, Parliament was told that a number of North Devon reports had been investigated; some were aircraft, some were lights, and most of those lights were identified as Venus, while a small residue remained unidentified but was not treated as alien.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
 
 ## Why bright planets can look strange
 
-Venus is one of the most common “sky clues” in UFO investigation because it is not just another star-like point. NASA’s Night Sky Network describes Venus as usually the brightest planet in our skies, visible before sunrise or after sunset rather than high in the middle of the night, and bright enough in favourable circumstances to be seen even in daytime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span> That combination is exactly what catches casual observers: a brilliant light, often low, appearing at a time when people are driving, walking dogs, leaving pubs, starting work, fishing, or looking out over a dark horizon.
+Venus is one of the most common “sky clues” in UFO investigation because it is not just another star-like point. NASA’s Night Sky Network describes Venus as usually the brightest planet in our skies, visible before sunrise or after sunset rather than high in the middle of the night, and bright enough in favourable circumstances to be seen even in daytime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span> That combination is exactly what catches casual observers: a brilliant light, often low, appearing at a time when people are driving, walking dogs, leaving pubs, starting work, fishing, or looking out over a dark horizon.
 
 The trap is that a fixed astronomical object can feel active when the observer is moving. A driver on the A-roads around Okehampton, Holsworthy, Hatherleigh or across the moor may see a bright light through hedges, windscreen glare, mist, dips in the road and changing tree lines. The light can seem to pace the vehicle, disappear, reappear, climb, drop or turn. The planet has not moved in the dramatic way perceived; the witness’s line of sight has changed. This is one reason the Venus explanation should be tested carefully before a report is placed in the “unresolved” pile.
 
-The North Devon case shows how dramatic this can become. Sceptical astronomer Ian Ridpath’s reconstruction of the October 1967 “flying cross” case centres on two police constables who reported pursuing a luminous cross-shaped object near Okehampton. Ridpath links the case to the wider October 1967 British UFO flap, which he argues was dominated by sightings of Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span> The point is not that the police officers invented their experience. It is that a sincere report can preserve a vivid perception while the underlying stimulus remains ordinary.
+The North Devon case shows how dramatic this can become. Sceptical astronomer Ian Ridpath’s reconstruction of the October 1967 “flying cross” case centres on two police constables who reported pursuing a luminous cross-shaped object near Okehampton. Ridpath links the case to the wider October 1967 British UFO flap, which he argues was dominated by sightings of Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span> The point is not that the police officers invented their experience. It is that a sincere report can preserve a vivid perception while the underlying stimulus remains ordinary.
 
-Astronomers are often asked about exactly this kind of thing. NASA’s Night Sky Network notes that amateur astronomers are frequently asked whether a bright light is a UFO, including the familiar question about “that bright light in the southwest”, and it advises a respectful approach rather than ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span> That is a useful model for Devon: take the witness seriously, but do not treat the first interpretation as the final explanation.
+Astronomers are often asked about exactly this kind of thing. NASA’s Night Sky Network notes that amateur astronomers are frequently asked whether a bright light is a UFO, including the familiar question about “that bright light in the southwest”, and it advises a respectful approach rather than ridicule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span> That is a useful model for Devon: take the witness seriously, but do not treat the first interpretation as the final explanation.
 
 
 <img src="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-Illustration-1-dark.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Devon’s landscape changes the sighting
 
-Devon is unusually good at producing ambiguous views of lights. It has two coasts, with north and south-facing sea horizons, while Dartmoor lies inland and Exmoor crosses the Devon-Somerset edge. Devon County Council describes the county’s two coasts as extending to almost 700 km in its administrative area, with the north coast generally less densely populated and developed than the south. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devon.gov.uk/environment/coasts-and-seas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devon.gov.uk">[Devon County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devon.gov.uk</span><span class="citation-popover-title">Devon County Council Coasts and seas</span><span class="citation-popover-snippet">Devon County Council Coasts and seas</span></span></span> Devon’s landscape partnership also points to a striking variety of high moors, secluded valleys, rugged coastlines, bays and rolling farmland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devonlnp.org.uk/devons-environment/landscape/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devonlnp.org.uk">[Devon Local Nature Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devonlnp.org.uk</span><span class="citation-popover-title">Devon Local Nature Partnership Devon&#x27;s landscape</span><span class="citation-popover-snippet">Devon Local Nature Partnership Devon&#x27;s landscape</span></span></span>
+Devon is unusually good at producing ambiguous views of lights. It has two coasts, with north and south-facing sea horizons, while Dartmoor lies inland and Exmoor crosses the Devon-Somerset edge. Devon County Council describes the county’s two coasts as extending to almost 700 km in its administrative area, with the north coast generally less densely populated and developed than the south.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devon.gov.uk/environment/coasts-and-seas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devon.gov.uk">[Devon County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devon.gov.uk</span><span class="citation-popover-title">Devon County Council Coasts and seas</span><span class="citation-popover-snippet">Devon County Council Coasts and seas</span></span></span> Devon’s landscape partnership also points to a striking variety of high moors, secluded valleys, rugged coastlines, bays and rolling farmland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devonlnp.org.uk/devons-environment/landscape/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devonlnp.org.uk">[Devon Local Nature Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devonlnp.org.uk</span><span class="citation-popover-title">Devon Local Nature Partnership Devon&#x27;s landscape</span><span class="citation-popover-snippet">Devon Local Nature Partnership Devon&#x27;s landscape</span></span></span>
 
 Those details matter because UFO reports are often made from partial views rather than from calm, measured observation. A light seen over the sea from Teignmouth is judged against a different background from a light seen above Dartmoor, from a lane near Hatherleigh, or from the north Devon coast near Lynton. Over water, the horizon can be hard to judge. A ship, aircraft, planet, reflection, flare or distant light can appear suspended. On the moor, a single light can seem isolated and close because there are fewer street lights or buildings to give scale.
 
-Darkness improves astronomy, but it can also remove context. Exmoor National Park says its skies have minimal light pollution and that, on a cloudless night, thousands of stars and astronomical sights such as the Milky Way can be seen with the naked eye; it was designated an International Dark Sky Reserve in 2011. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exmoor-nationalpark.gov.uk">[Exmoor National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exmoor-nationalpark.gov.uk</span><span class="citation-popover-title">Exmoor National Park Stargazing and Dark Skies &#124; Exmoor</span><span class="citation-popover-snippet">Exmoor National Park Stargazing and Dark Skies &#124; Exmoor</span></span></span> That is wonderful for stargazing, but it also means that a bright planet or aircraft light may dominate a scene in a way it would not over Exeter, Plymouth or Torbay.
+Darkness improves astronomy, but it can also remove context. Exmoor National Park says its skies have minimal light pollution and that, on a cloudless night, thousands of stars and astronomical sights such as the Milky Way can be seen with the naked eye; it was designated an International Dark Sky Reserve in 2011.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exmoor-nationalpark.gov.uk">[Exmoor National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exmoor-nationalpark.gov.uk</span><span class="citation-popover-title">Exmoor National Park Stargazing and Dark Skies &#124; Exmoor</span><span class="citation-popover-snippet">Exmoor National Park Stargazing and Dark Skies &#124; Exmoor</span></span></span> That is wonderful for stargazing, but it also means that a bright planet or aircraft light may dominate a scene in a way it would not over Exeter, Plymouth or Torbay.
 
-Fog and haze add another layer. The Met Office’s advice for travelling in fog warns that full-beam headlights can reflect back as a “white wall”, that fog can give the illusion of moving in slow motion, and that rear lights can give a false sense of security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Advice for travelling in fog</span><span class="citation-popover-snippet">Met Office Advice for travelling in fog</span></span></span> Those are road-safety points, but they also explain why night-driving UFO reports can be so misleading: mist changes brightness, distance and motion cues at the same time.
+Fog and haze add another layer. The Met Office’s advice for travelling in fog warns that full-beam headlights can reflect back as a “white wall”, that fog can give the illusion of moving in slow motion, and that rear lights can give a false sense of security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Advice for travelling in fog</span><span class="citation-popover-snippet">Met Office Advice for travelling in fog</span></span></span> Those are road-safety points, but they also explain why night-driving UFO reports can be so misleading: mist changes brightness, distance and motion cues at the same time.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_p9yTJaee6g" title="Police Officers Describe UFO Encounter (1967)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer">Police Officers Describe UFO Encounter (1967)</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 399.7K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_p9yTJaee6g">Open on YouTube</a></p></div></div></div>
 
 ## The 1967 North Devon lesson
 
-The 1967 North Devon case is the key Devon example because it reached a level of official attention that most sightings never do. On 8 November 1967, Devon MP Peter Mills asked in the House of Commons about an object seen in the Okehampton area, described as a “star-shaped cross larger than a conventional aircraft”, and asked whether it was British aircraft or an unidentified flying object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
+The 1967 North Devon case is the key Devon example because it reached a level of official attention that most sightings never do. On 8 November 1967, Devon MP Peter Mills asked in the House of Commons about an object seen in the Okehampton area, described as a “star-shaped cross larger than a conventional aircraft”, and asked whether it was British aircraft or an unidentified flying object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
 
-The Ministry of Defence answer is still the most useful short summary of the case’s evidential status. Merlyn Rees, speaking for the RAF, said a number of reports had been received over North Devon in October. After investigation, some were aircraft and some were lights; of the lights, the majority were Venus. He added that a few lights had not been positively identified, but said none was an alien object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
+The Ministry of Defence answer is still the most useful short summary of the case’s evidential status. Merlyn Rees, speaking for the RAF, said a number of reports had been received over North Devon in October. After investigation, some were aircraft and some were lights; of the lights, the majority were Venus. He added that a few lights had not been positively identified, but said none was an alien object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
 
 That answer did three things at once. It accepted that people had reported real observations. It separated aircraft from lights. And it allowed for a small unresolved remainder without turning that remainder into proof of something extraordinary. This is the best way to handle the Devon evidence more broadly: explanation is not all-or-nothing.
 
@@ -297,7 +297,7 @@ Venus is strongest as an explanation when several clues line up. The sighting sh
 
 That pattern fits many reports better than witnesses expect. A person may say, “It cannot have been a planet because it followed us.” But a distant planet can appear to follow a moving observer for the same reason the Moon appears to follow a car. Another person may say, “It vanished suddenly.” But a planet can disappear behind a cloud bank, ridge, building, windscreen pillar or patch of mist. A third may say, “It was too bright to be a star.” That is exactly why Venus is a candidate: it can outshine every natural point of light in the night sky except the Moon.
 
-Devon’s own records and local reporting show why this filtering matters. Modern police logs are keyword-based rather than scientific sighting catalogues, but they reveal the same pattern of ambiguous “lights in the sky”. A Devon and Cornwall Police FOI disclosure for 2024 explained that searches covered terms such as UFO, UAP, lights in the sky, drones and orbs, but the manually reviewed result was nil for relevant 2024 reports after exclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devon-cornwall.police.uk">[Devon Cornwall Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devon-cornwall.police.uk</span><span class="citation-popover-title">Devon Cornwall Police UFO Sightings &#124; Devon &amp; Cornwall Police</span><span class="citation-popover-snippet">Devon Cornwall Police UFO Sightings &#124; Devon &amp; Cornwall Police</span></span></span> A separate Devon and Cornwall Police disclosure includes 2021 Exeter calls about bright laser or searchlight-like beams looking west; officers traced them to staging lights being tested on a farm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devon-cornwall.police.uk">[Devon Cornwall Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devon-cornwall.police.uk</span><span class="citation-popover-title">Devon Cornwall Police UFO sightings &#124; Devon &amp; Cornwall Police</span><span class="citation-popover-snippet">Devon Cornwall Police UFO sightings &#124; Devon &amp; Cornwall Police</span></span></span>
+Devon’s own records and local reporting show why this filtering matters. Modern police logs are keyword-based rather than scientific sighting catalogues, but they reveal the same pattern of ambiguous “lights in the sky”. A Devon and Cornwall Police FOI disclosure for 2024 explained that searches covered terms such as UFO, UAP, lights in the sky, drones and orbs, but the manually reviewed result was nil for relevant 2024 reports after exclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devon-cornwall.police.uk">[Devon Cornwall Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devon-cornwall.police.uk</span><span class="citation-popover-title">Devon Cornwall Police UFO Sightings &#124; Devon &amp; Cornwall Police</span><span class="citation-popover-snippet">Devon Cornwall Police UFO Sightings &#124; Devon &amp; Cornwall Police</span></span></span> A separate Devon and Cornwall Police disclosure includes 2021 Exeter calls about bright laser or searchlight-like beams looking west; officers traced them to staging lights being tested on a farm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: devon-cornwall.police.uk">[Devon Cornwall Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">devon-cornwall.police.uk</span><span class="citation-popover-title">Devon Cornwall Police UFO sightings &#124; Devon &amp; Cornwall Police</span><span class="citation-popover-snippet">Devon Cornwall Police UFO sightings &#124; Devon &amp; Cornwall Police</span></span></span>
 
 Those examples are not Venus cases, but they support the same lesson. The first report often describes a puzzling light. The explanation may be astronomical, aviation-related, lighting, weather, drones, reflections, or something else entirely. “UFO” is a temporary description, not a conclusion.
 
@@ -321,21 +321,21 @@ Several recurring Devon situations are especially prone to this:
 
 </div>
 
-A 2021 Teignmouth report illustrates the sea-horizon problem. The Independent reported that a student photographed a bright object with four lights in a triangular formation above the sea, saying it hovered briefly before vanishing; readers suggested explanations including a reflection or a ship on the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/devon-ufo-photo-tidmouth-sea-b1878124.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span> This is not presented here as a solved Venus report. It is useful because it shows the same Devon mechanism: sea view, bright lights, uncertain distance, quick photographs, competing interpretations.
+A 2021 Teignmouth report illustrates the sea-horizon problem. The Independent reported that a student photographed a bright object with four lights in a triangular formation above the sea, saying it hovered briefly before vanishing; readers suggested explanations including a reflection or a ship on the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/devon-ufo-photo-tidmouth-sea-b1878124.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span> This is not presented here as a solved Venus report. It is useful because it shows the same Devon mechanism: sea view, bright lights, uncertain distance, quick photographs, competing interpretations.
 
-Local police reporting shows the same caution in another form. In a Seaton-area case reported by Nub News, a caller described strange little lights while travelling from Lyme Regis towards Sidmouth; a police officer later saw the same lights, and as the aircraft moved it revealed itself to be a helicopter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seaton.nub.news/news/local-news/police-report-increase-in-calls-over-alleged-ufo-or-alien-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaton.nub.news">[Seaton Nub News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaton.nub.news</span><span class="citation-popover-snippet">Open source on nub.news.</span></span></span> Again, not Venus — but the same interpretive pattern: what begins as a strange light can become ordinary once motion, distance and context are clarified.
+Local police reporting shows the same caution in another form. In a Seaton-area case reported by Nub News, a caller described strange little lights while travelling from Lyme Regis towards Sidmouth; a police officer later saw the same lights, and as the aircraft moved it revealed itself to be a helicopter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seaton.nub.news/news/local-news/police-report-increase-in-calls-over-alleged-ufo-or-alien-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaton.nub.news">[Seaton Nub News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaton.nub.news</span><span class="citation-popover-snippet">Open source on nub.news.</span></span></span> Again, not Venus — but the same interpretive pattern: what begins as a strange light can become ordinary once motion, distance and context are clarified.
 
 
 <img src="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-Illustration-3-dark.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_venus_devon_skies_95af66-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where sceptical explanations help or fall short
 
-Sceptical explanations help most when they are specific. “It was probably Venus” is weak if it is offered without checking time, direction, altitude, weather and witness location. It is much stronger when Venus was actually visible in the relevant part of the sky and the report describes a bright, low, apparently hovering light. The 1967 North Devon case is important because the Venus explanation was not merely a modern afterthought; it was part of the contemporary official response to a cluster of reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
+Sceptical explanations help most when they are specific. “It was probably Venus” is weak if it is offered without checking time, direction, altitude, weather and witness location. It is much stronger when Venus was actually visible in the relevant part of the sky and the report describes a bright, low, apparently hovering light. The 1967 North Devon case is important because the Venus explanation was not merely a modern afterthought; it was part of the contemporary official response to a cluster of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span>
 
 Scepticism also helps because it protects the few genuinely awkward cases from being buried under weak ones. If a report is clearly a planet, helicopter, searchlight, lantern, drone or aircraft, leaving it “mysterious” does not strengthen Devon’s UFO history. It makes the archive noisier. The stronger approach is to separate explained, probably explained, poorly evidenced and genuinely unresolved reports.
 
 But sceptical explanations can fall short in three ways. First, witnesses may give details that do not fit Venus: rapid travel across the sky, multiple objects moving independently, sound, interaction with aircraft, or a sighting at a time when Venus was not visible. Second, records are often incomplete; without exact time, direction and location, a confident identification may be impossible. Third, some reports are shaped by retelling. A newspaper version, a later paranormal book, a social-media caption and an official log may not preserve the same facts.
 
-That is why the best reading of the 1967 North Devon answer is balanced rather than triumphalist. The MoD did not say every report had been solved. It said most of the light reports were Venus, some were aircraft, and a few lights were not positively identified, while rejecting an alien interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span> For a public Devon UFO page, that is a more honest model than either “case closed” or “proof of visitation”.
+That is why the best reading of the 1967 North Devon answer is balanced rather than triumphalist. The MoD did not say every report had been solved. It said most of the light reports were Venus, some were aircraft, and a few lights were not positively identified, while rejecting an alien interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Commons Chamber</span><span class="citation-popover-snippet">Hansard Commons Chamber</span></span></span> For a public Devon UFO page, that is a more honest model than either “case closed” or “proof of visitation”.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PUhOc-K7Ycw" title="Ask Ellen: What things are most commonly confused with UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer">Ask Ellen: What things are most commonly confused with UFOs?</a></p><p class="youtube-embed-meta">Channel: WOOD TV8 &middot; Views: 1.3K &middot; Uploaded: September 2021 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PUhOc-K7Ycw">Open on YouTube</a></p></div></div></div>
@@ -349,194 +349,194 @@ For Devon, this method is especially useful because the county’s UFO history i
 The result is a clearer, fairer Devon UFO record. Some sightings become ordinary once the sky is checked. Some remain too thinly documented to judge. A smaller number may still resist easy explanation. The point of taking Venus seriously is not to drain Devon’s skies of mystery, but to make sure the mystery that remains is the right mystery.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Venus Explain Devon&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Venus Explain Devon&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrasting perspective on unexplained sightings, helping readers understand where conventional explanations may fall short.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrasting perspective on unexplained sightings, helping readers understand where conventional explanations may fall short.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses UFO reports and the challenge of separating astronomical and other conventional explanations from unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses UFO reports and the challenge of separating astronomical and other conventional explanations from unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify bright planets such as Venus and understand common observational mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify bright planets such as Venus and understand common observational mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides the sceptical framework needed to evaluate UFO sightings, witness perception and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the sceptical framework needed to evaluate UFO sightings, witness perception and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="sky-clues-could-venus-explain-devon-s-ufo-reports-devon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-venus-explain-devon-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ The result is a clearer, fairer Devon UFO record. Some sightings become ordinary
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ The result is a clearer, fairer Devon UFO record. Some sightings become ordinary
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ The result is a clearer, fairer Devon UFO record. Some sightings become ordinary
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ The result is a clearer, fairer Devon UFO record. Some sightings become ordinary
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ The result is a clearer, fairer Devon UFO record. Some sightings become ordinary
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,299 +742,299 @@ The result is a clearer, fairer Devon UFO record. Some sightings become ordinary
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Commons Chamber  
-   Link: <a href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber</a>  
+   Link:<a href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/190/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/190/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Resources | Night Sky Network...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/190/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/190/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Resources | Night Sky Network...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Resources | Night Sky Network...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Resources | Night Sky Network...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: devon.gov.uk  
    Title: Devon County Council Coasts and seas  
-   Link: <a href="https://www.devon.gov.uk/environment/coasts-and-seas" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/environment/coasts-and-seas</a>  
+   Link:<a href="https://www.devon.gov.uk/environment/coasts-and-seas" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/environment/coasts-and-seas</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: exmoor-nationalpark.gov.uk  
    Title: Exmoor National Park Stargazing and Dark Skies | Exmoor  
-   Link: <a href="https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies</a>  
+   Link:<a href="https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Advice for travelling in fog  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: devon-cornwall.police.uk  
    Title: Devon Cornwall Police UFO Sightings | Devon & Cornwall Police  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: devon-cornwall.police.uk  
    Title: Devon Cornwall Police UFO sightings | Devon & Cornwall Police  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: seaton.nub.news  
-   Link: <a href="https://seaton.nub.news/news/local-news/police-report-increase-in-calls-over-alleged-ufo-or-alien-sightings" target="_blank" rel="noopener noreferrer nofollow">https://seaton.nub.news/news/local-news/police-report-increase-in-calls-over-alleged-ufo-or-alien-sightings</a>  
+   Link:<a href="https://seaton.nub.news/news/local-news/police-report-increase-in-calls-over-alleged-ufo-or-alien-sightings" target="_blank" rel="noopener noreferrer nofollow">https://seaton.nub.news/news/local-news/police-report-increase-in-calls-over-alleged-ufo-or-alien-sightings</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7966b3ed915d07d35b5323/sanctuary_33.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7966b3ed915d07d35b5323/sanctuary_33.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7966b3ed915d07d35b5323/sanctuary_33.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7966b3ed915d07d35b5323/sanctuary_33.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79db13ed915d6b1deb3d78/dfnov2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79db13ed915d6b1deb3d78/dfnov2012.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79db13ed915d6b1deb3d78/dfnov2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79db13ed915d6b1deb3d78/dfnov2012.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/602baf25e90e070552b33517/Report_1_Reviews_of_present_practices_and_scientific_literature_relevant_to_site_selection_criteria_technical_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/602baf25e90e070552b33517/Report_1_Reviews_of_present_practices_and_scientific_literature_relevant_to_site_selection_criteria_technical_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/602baf25e90e070552b33517/Report_1_Reviews_of_present_practices_and_scientific_literature_relevant_to_site_selection_criteria_technical_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/602baf25e90e070552b33517/Report_1_Reviews_of_present_practices_and_scientific_literature_relevant_to_site_selection_criteria_technical_report.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c214440f0b61a825d6a2a/6828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c214440f0b61a825d6a2a/6828.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c214440f0b61a825d6a2a/6828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c214440f0b61a825d6a2a/6828.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: api.parliament.uk  
-   Link: <a href="https://api.parliament.uk/historic-hansard/sittings/1967/nov/08" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/sittings/1967/nov/08</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/sittings/1967/nov/08" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/sittings/1967/nov/08</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: api.parliament.uk  
    Title: sir john langford holt  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hansard.parliament.uk  
    Title: uk House of ‌Commons  
-   Link: <a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-07" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-07</a>  
+   Link:<a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: api.parliament.uk  
    Title: oral answers to questions  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hansard.parliament.uk  
    Title: uk Oral Answers To Questions  
-   Link: <a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions</a>  
+   Link:<a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers</a>  
+   Link:<a href="https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Object (North Devon)  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: api.parliament.uk  
    Title: mr emanuel shinwell  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: redirect.devon.gov.uk  
-   Link: <a href="https://redirect.devon.gov.uk/?link=EnvView" target="_blank" rel="noopener noreferrer nofollow">https://redirect.devon.gov.uk/?link=EnvView</a>  
+   Link:<a href="https://redirect.devon.gov.uk/?link=EnvView" target="_blank" rel="noopener noreferrer nofollow">https://redirect.devon.gov.uk/?link=EnvView</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: devon.gov.uk  
-   Link: <a href="https://www.devon.gov.uk/prow/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/prow/</a>  
+   Link:<a href="https://www.devon.gov.uk/prow/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/prow/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: devon.gov.uk  
-   Link: <a href="https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/the-devon-historic-market-coastal-towns-survey/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/the-devon-historic-market-coastal-towns-survey/</a>  
+   Link:<a href="https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/the-devon-historic-market-coastal-towns-survey/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/the-devon-historic-market-coastal-towns-survey/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: devon.gov.uk  
    Title: sdcd aim  
-   Link: <a href="https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/sdcd_aim/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/sdcd_aim/</a>  
+   Link:<a href="https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/sdcd_aim/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/historicenvironment/the-devon-historic-environment-record/sdcd_aim/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/31/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/31/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/31/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/31/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-37. <a id="endnote-37"></a>
-   Source: nationalarchives.gov.uk  
-   Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/34/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/34/</a>  
-
-38. <a id="endnote-38"></a>
+37.<a id="endnote-37"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/34/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/34/</a>  
 
-39. <a id="endnote-39"></a>
+38.<a id="endnote-38"></a>
+   Source: nationalarchives.gov.uk  
+   Title: Help with your research Archives  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+
+39.<a id="endnote-39"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gbvpt1q20" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gbvpt1q20</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gbvpt1q20" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gbvpt1q20</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gbvrdxcee" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gbvrdxcee</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gbvrdxcee" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gbvrdxcee</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ia801404.us.archive.org  
    Title: The UFO Report  
-   Link: <a href="https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf</a>  
+   Link:<a href="https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flyingcross.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flyingcross.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/octoberflap.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/octoberflap.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: devonlnp.org.uk  
    Title: Devon Local Nature Partnership Devon's landscape  
-   Link: <a href="https://www.devonlnp.org.uk/devons-environment/landscape/" target="_blank" rel="noopener noreferrer nofollow">https://www.devonlnp.org.uk/devons-environment/landscape/</a>  
+   Link:<a href="https://www.devonlnp.org.uk/devons-environment/landscape/" target="_blank" rel="noopener noreferrer nofollow">https://www.devonlnp.org.uk/devons-environment/landscape/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/devon-ufo-photo-tidmouth-sea-b1878124.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/devon-ufo-photo-tidmouth-sea-b1878124.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/devon-ufo-photo-tidmouth-sea-b1878124.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/devon-ufo-photo-tidmouth-sea-b1878124.html</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Devon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Devon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Devon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Devon</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/forums/forum/venus" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/forum/venus</a>  
+   Link:<a href="https://britastro.org/forums/forum/venus" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/forum/venus</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: pitchup.com  
-   Link: <a href="https://www.pitchup.com/area-guides/national-parks/dartmoor/stargazing/" target="_blank" rel="noopener noreferrer nofollow">https://www.pitchup.com/area-guides/national-parks/dartmoor/stargazing/</a>  
+   Link:<a href="https://www.pitchup.com/area-guides/national-parks/dartmoor/stargazing/" target="_blank" rel="noopener noreferrer nofollow">https://www.pitchup.com/area-guides/national-parks/dartmoor/stargazing/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/archive/20716858/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/archive/20716858/</a>  
+   Link:<a href="https://www.wral.com/archive/20716858/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/archive/20716858/</a>  
 
 ### Additional References
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=GdBo5nuJWYo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GdBo5nuJWYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Ellen: What things are most commonly confused with UFOs?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GdBo5nuJWYo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GdBo5nuJWYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Ellen: What things are most commonly confused with UFOs?...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: Unidentified Flying Object (North Devon)UK  
-   Link: <a href="http://www.youtube.com/watch?v=5msL98KODSY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5msL98KODSY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus misidentified ufo astronomical explanation You Think Venus Is Closest to Earth. You&#x27;re Wrong...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5msL98KODSY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5msL98KODSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venus misidentified ufo astronomical explanation You Think Venus Is Closest to Earth. You&#x27;re Wrong...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: Jupiter and Venus 'could be mistaken for UFOs'  
-   Link: <a href="http://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus mistaken as UFO&#x27;s, David Grusch, and Aussie UFO cases | Bill Chalker on The Caulfield...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venus mistaken as UFO&#x27;s, David Grusch, and Aussie UFO cases | Bill Chalker on The Caulfield...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: Ask Ellen: What things are most commonly confused with UFOs?  
-   Link: <a href="http://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PUhOc-K7Ycw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Object (North Devon)UK - 1967...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PUhOc-K7Ycw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Object (North Devon)UK - 1967...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVyeOskjUYw/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVyeOskjUYw/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DVyeOskjUYw/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVyeOskjUYw/?hl=en</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: marsdens.co.uk  
-   Link: <a href="https://www.marsdens.co.uk/guides/all-you-need-to-know-about-devon" target="_blank" rel="noopener noreferrer nofollow">https://www.marsdens.co.uk/guides/all-you-need-to-know-about-devon</a>  
+   Link:<a href="https://www.marsdens.co.uk/guides/all-you-need-to-know-about-devon" target="_blank" rel="noopener noreferrer nofollow">https://www.marsdens.co.uk/guides/all-you-need-to-know-about-devon</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: burghisland.com  
-   Link: <a href="https://www.burghisland.com/blog/areas-of-devon/" target="_blank" rel="noopener noreferrer nofollow">https://www.burghisland.com/blog/areas-of-devon/</a>  
+   Link:<a href="https://www.burghisland.com/blog/areas-of-devon/" target="_blank" rel="noopener noreferrer nofollow">https://www.burghisland.com/blog/areas-of-devon/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19bh5uf/devon_uk_and_the_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19bh5uf/devon_uk_and_the_phenomenon/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19bh5uf/devon_uk_and_the_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19bh5uf/devon_uk_and_the_phenomenon/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/829986061/GAME-DESIGN-101-PAPER" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/829986061/GAME-DESIGN-101-PAPER</a>  
+   Link:<a href="https://www.scribd.com/document/829986061/GAME-DESIGN-101-PAPER" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/829986061/GAME-DESIGN-101-PAPER</a>  

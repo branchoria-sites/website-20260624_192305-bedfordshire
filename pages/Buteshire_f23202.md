@@ -118,9 +118,9 @@ heading_title: What Really Happened in Buteshire's UFO Reports?
 page_heading_title: What Really Happened in Buteshire's UFO Reports?
 source_count: 138
 infographic_count: 3
-page_website_name: Buteshire UFOs
+page_website_name: Buteshire
 page_banner_line: Clear, evidence-led UFO history from Bute, Arran and the Firth of Clyde.
-site_website_name: Buteshire UFOs
+site_website_name: Buteshire
 site_banner_line: Clear, evidence-led UFO history from Bute, Arran and the Firth of Clyde.
 site_image_description: A night view across the Firth of Clyde from an island shore, with a small bright light above dark water and distant ferry lights...
 output_language: English
@@ -689,41 +689,41 @@ image: /assets/images/Buteshire_f23202-overview-social.jpg
 
 ## Introduction
 
-The county scope matters. Historic Buteshire includes Bute, Arran, the Cumbraes, Holy Island, Pladda and Inchmarnock in the Firth of Clyde. Modern administration splits that historic county: Bute and Inchmarnock are in Argyll and Bute, while Arran, the Cumbraes, Holy Island and Pladda are in North Ayrshire. A UFO report labelled “Argyll and Bute” is therefore not automatically a Buteshire report; for this page, the centre of gravity is the historic county, especially Rothesay on Bute and the Isle of Arran. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The county scope matters. Historic Buteshire includes Bute, Arran, the Cumbraes, Holy Island, Pladda and Inchmarnock in the Firth of Clyde. Modern administration splits that historic county: Bute and Inchmarnock are in Argyll and Bute, while Arran, the Cumbraes, Holy Island and Pladda are in North Ayrshire. A UFO report labelled “Argyll and Bute” is therefore not automatically a Buteshire report; for this page, the centre of gravity is the historic county, especially Rothesay on Bute and the Isle of Arran.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Buteshire_f23202-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Buteshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as Buteshire for UFO history?
 
-Buteshire is an island shire, not a mainland county. Britannica describes it as a historic county in western Scotland made up of Bute, Arran, the Cumbraes, Holy, Pladda and Inchmarnock, all lying in the Firth of Clyde. Wikishire similarly frames it as the Isle of Bute, the Isle of Arran and smaller islands such as Great and Little Cumbrae, between Ayrshire and Argyll. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Buteshire is an island shire, not a mainland county. Britannica describes it as a historic county in western Scotland made up of Bute, Arran, the Cumbraes, Holy, Pladda and Inchmarnock, all lying in the Firth of Clyde. Wikishire similarly frames it as the Isle of Bute, the Isle of Arran and smaller islands such as Great and Little Cumbrae, between Ayrshire and Argyll.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-That geography creates a common research trap. “Argyll and Bute” is a modern council area and includes many places outside historic Buteshire, while Arran and the Cumbraes now sit in North Ayrshire even though they remain part of historic Buteshire. For UFO history, that means reports from Rothesay, Bute, Arran, Great Cumbrae or nearby islands can be relevant; reports from Oban, Campbeltown or inland Argyll may be useful for comparison, but they are not Buteshire cases unless they involve the county’s skies, islands or Firth of Clyde setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+That geography creates a common research trap. “Argyll and Bute” is a modern council area and includes many places outside historic Buteshire, while Arran and the Cumbraes now sit in North Ayrshire even though they remain part of historic Buteshire. For UFO history, that means reports from Rothesay, Bute, Arran, Great Cumbrae or nearby islands can be relevant; reports from Oban, Campbeltown or inland Argyll may be useful for comparison, but they are not Buteshire cases unless they involve the county’s skies, islands or Firth of Clyde setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-This distinction also affects how “hotspot” claims should be read. A 2025 local report said Argyll and Bute had been ranked as a leading “supernatural” area, but the article was using a modern council label and mixing ghosts, folklore and UFO reports. Only the Rothesay element clearly falls within Buteshire as used here. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyllbute24.co.uk">[DNG Online Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyllbute24.co.uk</span><span class="citation-popover-title">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span><span class="citation-popover-snippet">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span></span></span>
+This distinction also affects how “hotspot” claims should be read. A 2025 local report said Argyll and Bute had been ranked as a leading “supernatural” area, but the article was using a modern council label and mixing ghosts, folklore and UFO reports. Only the Rothesay element clearly falls within Buteshire as used here.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyllbute24.co.uk">[DNG Online Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyllbute24.co.uk</span><span class="citation-popover-title">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span><span class="citation-popover-snippet">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span></span></span>
 
 ## The official Arran report: a star-like object in 1997
 
-The strongest Buteshire UFO record found in the official Ministry of Defence release is a sighting from the Isle of Arran on 2 June 1997 at 03:00. The MOD’s published table gives the location as “Arran / The Isle of Arran” and describes “a bright star like shaped object, changing into an eliptical shape” that “was rising slowly”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The strongest Buteshire UFO record found in the official Ministry of Defence release is a sighting from the Isle of Arran on 2 June 1997 at 03:00. The MOD’s published table gives the location as “Arran / The Isle of Arran” and describes “a bright star like shaped object, changing into an eliptical shape” that “was rising slowly”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-This is a real official record, but it is not the same as a confirmed extraordinary event. The published MOD tables for 1997–2009 give dates, times, locations and brief witness descriptions; they do not, in most entries, provide a full investigation file, named witnesses, radar data, photographs, weather reconstruction or a final explanation. GOV.UK describes the release as UFO reports showing “dates and times, location and a brief description of the sighting”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+This is a real official record, but it is not the same as a confirmed extraordinary event. The published MOD tables for 1997–2009 give dates, times, locations and brief witness descriptions; they do not, in most entries, provide a full investigation file, named witnesses, radar data, photographs, weather reconstruction or a final explanation. GOV.UK describes the release as UFO reports showing “dates and times, location and a brief description of the sighting”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The Arran description is typical of many weak-to-moderate UFO reports: a bright object, star-like at first, seen in the early hours, apparently changing shape and rising slowly. That could fit a genuinely puzzling observation, but it could also fit several ordinary causes: a bright planet seen through haze, a star distorted by atmospheric conditions, an aircraft light at distance, a satellite or space object, or a meteorological effect. The record is worth noting because it is official and precisely placed within historic Buteshire; it is not strong enough, on its own, to support claims of a structured craft or exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Arran description is typical of many weak-to-moderate UFO reports: a bright object, star-like at first, seen in the early hours, apparently changing shape and rising slowly. That could fit a genuinely puzzling observation, but it could also fit several ordinary causes: a bright planet seen through haze, a star distorted by atmospheric conditions, an aircraft light at distance, a satellite or space object, or a meteorological effect. The record is worth noting because it is official and precisely placed within historic Buteshire; it is not strong enough, on its own, to support claims of a structured craft or exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Buteshire_f23202-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Buteshire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Buteshire_f23202-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Buteshire_f23202-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rothesay and the modern mapped sightings
 
-The other recurring Buteshire item in recent public reporting is a Rothesay sighting from 2021. The Daily Record, reporting on an interactive UK UFO map using data from UFO Identified, listed a “small light with a halo” above Rothesay on the Isle of Bute, larger than a star or planet and moving at fast speed high in the sky. The same report said the dataset contained 957 UK sightings between January 2021 and May 2023, including 410 in 2021, 494 in 2022 and 53 in 2023 as of 20 May. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">interactive map shows scotland ufo 30629895</span><span class="citation-popover-snippet">interactive map shows scotland ufo 30629895</span></span></span>
+The other recurring Buteshire item in recent public reporting is a Rothesay sighting from 2021. The Daily Record, reporting on an interactive UK UFO map using data from UFO Identified, listed a “small light with a halo” above Rothesay on the Isle of Bute, larger than a star or planet and moving at fast speed high in the sky. The same report said the dataset contained 957 UK sightings between January 2021 and May 2023, including 410 in 2021, 494 in 2022 and 53 in 2023 as of 20 May.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">interactive map shows scotland ufo 30629895</span><span class="citation-popover-snippet">interactive map shows scotland ufo 30629895</span></span></span>
 
-Local coverage later repeated the Rothesay element in a broader “supernatural sightings” story, describing a star-like object in Rothesay in 2021 and quoting the witness description as a small light with a halo moving quickly high in the sky. That later use is weaker as evidence because it came through a publicity-style ranking that combined UFOs with ghosts and folklore. Still, it helps show how a single sky report can be recycled into “spooky place” narratives once it enters a map or database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyllbute24.co.uk">[DNG Online Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyllbute24.co.uk</span><span class="citation-popover-title">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span><span class="citation-popover-snippet">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span></span></span>
+Local coverage later repeated the Rothesay element in a broader “supernatural sightings” story, describing a star-like object in Rothesay in 2021 and quoting the witness description as a small light with a halo moving quickly high in the sky. That later use is weaker as evidence because it came through a publicity-style ranking that combined UFOs with ghosts and folklore. Still, it helps show how a single sky report can be recycled into “spooky place” narratives once it enters a map or database.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyllbute24.co.uk">[DNG Online Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyllbute24.co.uk</span><span class="citation-popover-title">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span><span class="citation-popover-snippet">DNG Online Limited Argyll and Bute named Scotland&#x27;s Spookiest Spot</span></span></span>
 
-The Rothesay case is best treated as an unverified light-in-the-sky report. The details are too thin to rule out common explanations, and the wording does not establish distance, altitude, size or speed. A “halo” can be produced by thin cloud, mist, lens effects, moisture on a phone camera, or the glare of a bright point source. The fact that a witness judged it “larger than a star or planet” is meaningful as testimony, but not a measurement. Without original imagery, exact time, viewing direction and weather, the case remains interesting but weakly evidenced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">interactive map shows scotland ufo 30629895</span><span class="citation-popover-snippet">interactive map shows scotland ufo 30629895</span></span></span>
+The Rothesay case is best treated as an unverified light-in-the-sky report. The details are too thin to rule out common explanations, and the wording does not establish distance, altitude, size or speed. A “halo” can be produced by thin cloud, mist, lens effects, moisture on a phone camera, or the glare of a bright point source. The fact that a witness judged it “larger than a star or planet” is meaningful as testimony, but not a measurement. Without original imagery, exact time, viewing direction and weather, the case remains interesting but weakly evidenced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">interactive map shows scotland ufo 30629895</span><span class="citation-popover-snippet">interactive map shows scotland ufo 30629895</span></span></span>
 
 ## Why Buteshire can generate convincing mistakes
 
-Buteshire’s setting makes misidentification easy. The islands sit in the Firth of Clyde between Ayrshire and Argyll, with sea channels, ferry routes, mainland towns, aircraft corridors and dark horizons all sharing the same field of view. A light seen from Bute may belong to an aircraft over Ayrshire, a vessel in the Clyde, a flare, a satellite crossing the sky, or a planet low over the water. The observer may honestly see something strange while the object itself is ordinary and simply difficult to place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Buteshire’s setting makes misidentification easy. The islands sit in the Firth of Clyde between Ayrshire and Argyll, with sea channels, ferry routes, mainland towns, aircraft corridors and dark horizons all sharing the same field of view. A light seen from Bute may belong to an aircraft over Ayrshire, a vessel in the Clyde, a flare, a satellite crossing the sky, or a planet low over the water. The observer may honestly see something strange while the object itself is ordinary and simply difficult to place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Buteshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The MOD’s wider UFO archive supports this cautious reading. The National Archives says MOD UFO records often describe shapes, lights and flashes, “which can often be explained”, although some are more unusual. The same archive notes that UFOs were reported over UK skies for decades and that the MOD kept records from the 1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MOD’s wider UFO archive supports this cautious reading. The National Archives says MOD UFO records often describe shapes, lights and flashes, “which can often be explained”, although some are more unusual. The same archive notes that UFOs were reported over UK skies for decades and that the MOD kept records from the 1960s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This does not mean witnesses are foolish. It means the sky is a poor measuring instrument for the unaided eye. At night, a bright light gives few cues for distance or scale. A slow-moving aircraft can seem stationary, a satellite can appear to accelerate as it brightens or dims, and a bright planet near cloud can look like an object with a glow or halo. Buteshire’s coastal weather and long sea horizons make these perception problems more likely, not less.
 
@@ -732,11 +732,11 @@ This does not mean witnesses are foolish. It means the sky is a poor measuring i
 
 ## Official interest: records, not proof
 
-The Ministry of Defence did collect UFO reports for decades, but its role was not to prove or disprove alien visitation. It was mainly interested in whether any sighting suggested a defence threat. The National Archives’ UFO page explains that MOD records are now held there, while GOV.UK hosts annual report tables for 1997 to 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The Ministry of Defence did collect UFO reports for decades, but its role was not to prove or disprove alien visitation. It was mainly interested in whether any sighting suggested a defence threat. The National Archives’ UFO page explains that MOD records are now held there, while GOV.UK hosts annual report tables for 1997 to 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MOD closed its UFO desk and hotline in 2009. A National Archives release about the final tranche of files said the desk had received more than 600 sightings in 2009, treble the previous year, but internal papers described the work as serving “no defence purpose”. Sky News, reporting on the released files, likewise stated that the desk was closed because it served no defence purpose and took staff away from more valuable defence-related activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MOD closed its UFO desk and hotline in 2009. A National Archives release about the final tranche of files said the desk had received more than 600 sightings in 2009, treble the previous year, but internal papers described the work as serving “no defence purpose”. Sky News, reporting on the released files, likewise stated that the desk was closed because it served no defence purpose and took staff away from more valuable defence-related activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-That position has continued. In a 2024 parliamentary answer, the UK Government said the MOD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had no current plans to create a dedicated team for alleged sightings. It also said all MOD UFO files created up to 2009 had been released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+That position has continued. In a 2024 parliamentary answer, the UK Government said the MOD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had no current plans to create a dedicated team for alleged sightings. It also said all MOD UFO files created up to 2009 had been released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 For Buteshire, the practical result is clear: the Arran report belongs to the official MOD reporting era; the Rothesay report belongs to the post-MOD era of civilian databases, interactive maps and local media. Those two categories should not be blended as if they carry the same evidential weight.
 
@@ -744,11 +744,11 @@ For Buteshire, the practical result is clear: the Arran report belongs to the of
 <img src="{{ "/assets/images/Buteshire_f23202-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Buteshire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Buteshire_f23202-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Buteshire_f23202-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military and aviation shadows around the Firth of Clyde
 
-Buteshire does have military history, but not the kind that automatically explains UFO reports. During the Second World War, Bute had an important naval role. The D-Day Story records that HMS Varbel, the Royal Navy’s 12th Submarine Flotilla headquarters, was based in the requisitioned Kyles Hydro Hotel at Port Bannatyne, using protected local waters for midget submarine and human torpedo training. Bute Museum also describes HMS Varbel as the training base for the 12th Submarine Flotilla, with much of the training undertaken in Loch Striven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theddaystory.com/markers/hms-varbel-ii-12th-submarine-flotilla-headquarters-argyll-and-bute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theddaystory.com">[The D-Day Story, Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theddaystory.com</span><span class="citation-popover-snippet">Open source on theddaystory.com.</span></span></span>
+Buteshire does have military history, but not the kind that automatically explains UFO reports. During the Second World War, Bute had an important naval role. The D-Day Story records that HMS Varbel, the Royal Navy’s 12th Submarine Flotilla headquarters, was based in the requisitioned Kyles Hydro Hotel at Port Bannatyne, using protected local waters for midget submarine and human torpedo training. Bute Museum also describes HMS Varbel as the training base for the 12th Submarine Flotilla, with much of the training undertaken in Loch Striven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theddaystory.com/markers/hms-varbel-ii-12th-submarine-flotilla-headquarters-argyll-and-bute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theddaystory.com">[The D-Day Story, Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theddaystory.com</span><span class="citation-popover-snippet">Open source on theddaystory.com.</span></span></span>
 
 That history matters because it shows Bute was not isolated from defence activity. However, it was wartime naval activity, not evidence of post-war aerial anomalies. It should be used as local context, not as a shortcut to speculative claims.
 
-The stronger aviation comparison lies outside Buteshire: the Calvine photograph case in Perthshire and the long-running speculation about RAF Machrihanish in Kintyre. Calvine involved an alleged 1990 diamond-shaped object photographed near a Harrier jet, with the images reportedly passed to the MOD and later becoming one of Britain’s most debated UFO stories. The Guardian summarised the competing theories as ranging from alien craft and advanced US aircraft to hoax, while West Coast Today has reported later claims that some researchers looked at Machrihanish as a possible origin for a secret aircraft theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The stronger aviation comparison lies outside Buteshire: the Calvine photograph case in Perthshire and the long-running speculation about RAF Machrihanish in Kintyre. Calvine involved an alleged 1990 diamond-shaped object photographed near a Harrier jet, with the images reportedly passed to the MOD and later becoming one of Britain’s most debated UFO stories. The Guardian summarised the competing theories as ranging from alien craft and advanced US aircraft to hoax, while West Coast Today has reported later claims that some researchers looked at Machrihanish as a possible origin for a secret aircraft theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 For a Buteshire page, Calvine is a useful comparison rather than a local case. It shows how Scottish UFO stories often become entangled with military airfields, classified aircraft rumours and missing records. But the Calvine sighting was not in Buteshire, and Machrihanish is in neighbouring Argyllshire/Kintyre, not the historic county of Bute. Bringing it in only helps if the reader understands the boundary.
 
@@ -759,7 +759,7 @@ For a Buteshire page, Calvine is a useful comparison rather than a local case. I
 
 The Buteshire evidence is sparse. It is better read as a small cluster of low-detail sky reports than as a county tradition of landmark UFO incidents.
 
-The Isle of [Arran 1997]({{ 'arran-1997/' | relative_url }}) report is the strongest item because it appears in an official MOD table with a date, time and location. Its weakness is that the description is brief and gives no corroborating material. The Rothesay 2021 report is more recent and locally relevant, but it comes through a civilian mapping/media chain rather than a primary investigation file. The “Argyll and Bute supernatural hotspot” framing is the weakest, because it mixes categories and uses a modern council area that is wider than historic Buteshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Isle of [Arran 1997]({{ 'arran-1997/' | relative_url }}) report is the strongest item because it appears in an official MOD table with a date, time and location. Its weakness is that the description is brief and gives no corroborating material. The Rothesay 2021 report is more recent and locally relevant, but it comes through a civilian mapping/media chain rather than a primary investigation file. The “Argyll and Bute supernatural hotspot” framing is the weakest, because it mixes categories and uses a modern council area that is wider than historic Buteshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 A fair grading would look like this:
 
@@ -773,7 +773,7 @@ A fair grading would look like this:
 
 </div>
 
-This cautious conclusion fits the MOD’s wider pattern. The National Archives notes that many reports were lights, shapes and flashes, often explainable, and Project Condign-era reporting in the press described the MOD’s secret study as finding no evidence for extraterrestrial visitors while considering misidentification and unusual atmospheric phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+This cautious conclusion fits the MOD’s wider pattern. The National Archives notes that many reports were lights, shapes and flashes, often explainable, and Project Condign-era reporting in the press described the MOD’s secret study as finding no evidence for extraterrestrial visitors while considering misidentification and unusual atmospheric phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Buteshire_f23202-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Buteshire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Buteshire_f23202-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Buteshire_f23202-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -788,194 +788,194 @@ The most valuable local archive work would be in regional newspapers, local hist
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Buteshire&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Buteshire&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong overview of documented sightings and how official reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong overview of documented sightings and how official reports are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how folklore and unusual sightings become enduring mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how folklore and unusual sightings become enduring mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for official investigation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official investigation of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-buteshires-ufo-what-really-happened-in-buteshire-s-ufo-reports-buteshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-buteshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -991,7 +991,7 @@ The most valuable local archive work would be in regional newspapers, local hist
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1011,7 +1011,7 @@ The most valuable local archive work would be in regional newspapers, local hist
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1043,7 +1043,7 @@ The most valuable local archive work would be in regional newspapers, local hist
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1095,7 +1095,7 @@ The most valuable local archive work would be in regional newspapers, local hist
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1140,7 +1140,7 @@ The most valuable local archive work would be in regional newspapers, local hist
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1181,231 +1181,231 @@ The most valuable local archive work would be in regional newspapers, local hist
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Buteshire</a>  
+   Link:<a href="https://www.britannica.com/place/Buteshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Buteshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/the-Cumbraes" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/the-Cumbraes</a>  
+   Link:<a href="https://www.britannica.com/place/the-Cumbraes" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/the-Cumbraes</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/59074006" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/59074006</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/59074006" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/59074006</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/burnschroniclecl1315kilmuoft/burnschroniclecl1315kilmuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/burnschroniclecl1315kilmuoft/burnschroniclecl1315kilmuoft_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/burnschroniclecl1315kilmuoft/burnschroniclecl1315kilmuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/burnschroniclecl1315kilmuoft/burnschroniclecl1315kilmuoft_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dailyrecord.co.uk  
    Title: interactive map shows scotland ufo 30629895  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/interactive-map-shows-scotland-ufo-30629895</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Buteshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Buteshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Buteshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Buteshire</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: argyllbute24.co.uk  
    Title: DNG Online Limited Argyll and Bute named Scotland's Spookiest Spot  
-   Link: <a href="https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/" target="_blank" rel="noopener noreferrer nofollow">https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/</a>  
+   Link:<a href="https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/" target="_blank" rel="noopener noreferrer nofollow">https://argyllbute24.co.uk/argyll-and-bute-named-scotlands-spookiest-spot/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theddaystory.com  
-   Link: <a href="https://theddaystory.com/markers/hms-varbel-ii-12th-submarine-flotilla-headquarters-argyll-and-bute/" target="_blank" rel="noopener noreferrer nofollow">https://theddaystory.com/markers/hms-varbel-ii-12th-submarine-flotilla-headquarters-argyll-and-bute/</a>  
+   Link:<a href="https://theddaystory.com/markers/hms-varbel-ii-12th-submarine-flotilla-headquarters-argyll-and-bute/" target="_blank" rel="noopener noreferrer nofollow">https://theddaystory.com/markers/hms-varbel-ii-12th-submarine-flotilla-headquarters-argyll-and-bute/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
+   Link:<a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bute-at-war.org  
-   Link: <a href="https://www.bute-at-war.org/links.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bute-at-war.org/links.shtml</a>  
+   Link:<a href="https://www.bute-at-war.org/links.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bute-at-war.org/links.shtml</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: County of Bute  
-   Link: <a href="https://en.wikipedia.org/wiki/County_of_Bute" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_of_Bute</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_of_Bute" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_of_Bute</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: HMS Varbel  
-   Link: <a href="https://en.wikipedia.org/wiki/HMS_Varbel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMS_Varbel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/HMS_Varbel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMS_Varbel</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arranbanner/photos/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138022679492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arranbanner/photos/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138022679492/</a>  
+   Link:<a href="https://www.facebook.com/arranbanner/photos/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138022679492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arranbanner/photos/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138022679492/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
    Title: Isle of Bute  
-   Link: <a href="https://wikishire.co.uk/wiki/Isle_of_Bute" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Isle_of_Bute</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Isle_of_Bute" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Isle_of_Bute</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
    Title: Isle of Arran  
-   Link: <a href="https://wikishire.co.uk/wiki/Isle_of_Arran" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Isle_of_Arran</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Isle_of_Arran" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Isle_of_Arran</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
    Title: Great Cumbrae  
-   Link: <a href="https://wikishire.co.uk/wiki/Great_Cumbrae" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Great_Cumbrae</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Great_Cumbrae" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Great_Cumbrae</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver</a>  
+   Link:<a href="https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dailyrecord.co.uk  
    Title: experts say aliens could hiding 30634922  
-   Link: <a href="https://www.dailyrecord.co.uk/news/weird-news/experts-say-aliens-could-hiding-30634922" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/weird-news/experts-say-aliens-could-hiding-30634922</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/weird-news/experts-say-aliens-could-hiding-30634922" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/weird-news/experts-say-aliens-could-hiding-30634922</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: hebrideanconnections.com  
-   Link: <a href="https://hebrideanconnections.com/record/locations/103737/" target="_blank" rel="noopener noreferrer nofollow">https://hebrideanconnections.com/record/locations/103737/</a>  
+   Link:<a href="https://hebrideanconnections.com/record/locations/103737/" target="_blank" rel="noopener noreferrer nofollow">https://hebrideanconnections.com/record/locations/103737/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: kids.kiddle.co  
    Title: County of Bute  
-   Link: <a href="https://kids.kiddle.co/County_of_Bute" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/County_of_Bute</a>  
+   Link:<a href="https://kids.kiddle.co/County_of_Bute" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/County_of_Bute</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: gettyimages.co.uk  
    Title: isle of bute  
-   Link: <a href="https://www.gettyimages.co.uk/photos/isle-of-bute" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/isle-of-bute</a>  
+   Link:<a href="https://www.gettyimages.co.uk/photos/isle-of-bute" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/isle-of-bute</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=83525" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=83525</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=83525" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=83525</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=anLmPCq2xA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anLmPCq2xA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=anLmPCq2xA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anLmPCq2xA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Calvine UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=7j1NwlKL9zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7j1NwlKL9zQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Happening in the UFO Capital of the World? | Bonnybridge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7j1NwlKL9zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7j1NwlKL9zQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Happening in the UFO Capital of the World? | Bonnybridge...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: What's Happening in the UFO Capital of the World? | Bonnybridge  
-   Link: <a href="https://www.youtube.com/watch?v=a7hZs8FX2pI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7hZs8FX2pI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 30 Alien Close Encounters In Britain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a7hZs8FX2pI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7hZs8FX2pI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 30 Alien Close Encounters In Britain...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1464145827194143/posts/4265823847026313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/4265823847026313/</a>  
+   Link:<a href="https://www.facebook.com/groups/1464145827194143/posts/4265823847026313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/4265823847026313/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandsscenery/posts/8441011249251507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/8441011249251507/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandsscenery/posts/8441011249251507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/8441011249251507/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/andythehighlander/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/andythehighlander/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/andythehighlander/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/andythehighlander/?hl=en</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/buteshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/buteshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/buteshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/buteshire/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attractions-g3380100-Activities-zft11306-Millport_Great_Cumbrae_The_Cumbraes_North_Ayrshire_Ayrshire_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attractions-g3380100-Activities-zft11306-Millport_Great_Cumbrae_The_Cumbraes_North_Ayrshire_Ayrshire_Scotland.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attractions-g3380100-Activities-zft11306-Millport_Great_Cumbrae_The_Cumbraes_North_Ayrshire_Ayrshire_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attractions-g3380100-Activities-zft11306-Millport_Great_Cumbrae_The_Cumbraes_North_Ayrshire_Ayrshire_Scotland.html</a>  

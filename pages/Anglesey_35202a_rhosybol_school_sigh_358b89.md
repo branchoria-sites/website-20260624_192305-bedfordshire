@@ -248,7 +248,7 @@ image: /assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-overview-socia
 
 ## Introduction
 
-The Rhosybol School sighting is [Anglesey]({{ 'what-really-happened-over-anglesey/' | relative_url }})’s clearest UFO case because it was reported quickly, involved several children rather than a lone witness, and produced a set of drawings before the story had much time to harden into folklore. On Wednesday 16 February 1977, nine pupils aged between eight and eleven said they saw a silent object high in the sky while playing netball at Rhosybol School. Their teacher, Mair Williams, separated them and asked them to draw what they had seen; the drawings were said to be strikingly similar, and the material was passed through [RAF Valley]({{ 'raf-valley/' | relative_url }}) to the Ministry of Defence’s UFO desk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+The Rhosybol School sighting is [Anglesey]({{ 'what-really-happened-over-anglesey/' | relative_url }})’s clearest UFO case because it was reported quickly, involved several children rather than a lone witness, and produced a set of drawings before the story had much time to harden into folklore. On Wednesday 16 February 1977, nine pupils aged between eight and eleven said they saw a silent object high in the sky while playing netball at Rhosybol School. Their teacher, Mair Williams, separated them and asked them to draw what they had seen; the drawings were said to be strikingly similar, and the material was passed through [RAF Valley]({{ 'raf-valley/' | relative_url }}) to the Ministry of Defence’s UFO desk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-overview.webp" | relative_url }}" alt="Overview image for Rhosybol" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,36 +259,36 @@ That does not prove an extraordinary craft was present over Anglesey. What it do
 
 ## What the children reported
 
-The sighting took place in the afternoon, during a netball lesson in the school yard. Ten-year-old Gwawr Jones was the first pupil to notice the object. In her account, later discussed by researcher David Clarke from Ministry of Defence file material, she said the pupils were playing netball with Mrs Williams when she saw something high in the sky. She alerted the others, who also looked up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+The sighting took place in the afternoon, during a netball lesson in the school yard. Ten-year-old Gwawr Jones was the first pupil to notice the object. In her account, later discussed by researcher David Clarke from Ministry of Defence file material, she said the pupils were playing netball with Mrs Williams when she saw something high in the sky. She alerted the others, who also looked up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
-The description was more specific than many brief UFO reports. Gwawr described a shape with a black dome on top and a silver, cigar-shaped base. She said it travelled smoothly in a northerly direction, stayed in sight for about three minutes, passed behind the only cloud in the sky, reappeared for about another minute, and then disappeared. The teacher later told the Western Mail that it was a bright afternoon and that the object was flying very high towards Bull Bay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+The description was more specific than many brief UFO reports. Gwawr described a shape with a black dome on top and a silver, cigar-shaped base. She said it travelled smoothly in a northerly direction, stayed in sight for about three minutes, passed behind the only cloud in the sky, reappeared for about another minute, and then disappeared. The teacher later told the Western Mail that it was a bright afternoon and that the object was flying very high towards Bull Bay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
-Several features make the report notable within Anglesey’s UFO history. The sighting was in daylight rather than at night; the witnesses described a structured object rather than only a light; and the school setting meant an adult immediately imposed a simple evidential procedure. Mrs Williams took the children back inside, separated them, and asked them to draw what they had seen. She later said the similarity between the drawings astonished her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+Several features make the report notable within Anglesey’s UFO history. The sighting was in daylight rather than at night; the witnesses described a structured object rather than only a light; and the school setting meant an adult immediately imposed a simple evidential procedure. Mrs Williams took the children back inside, separated them, and asked them to draw what they had seen. She later said the similarity between the drawings astonished her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
-The object was also described as silent. That detail matters on Anglesey because the island has a strong aviation setting, especially around RAF Valley. The RAF’s own current description of RAF Valley identifies it as home to No. 4 Flying Training School and a station involved in fast-jet, mountain and maritime aircrew training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span> A silent, high object seen from Rhosybol could still have had an ordinary aerial explanation, but any serious reading of the case has to weigh the witness description against the island’s military and training-flight environment.
+The object was also described as silent. That detail matters on Anglesey because the island has a strong aviation setting, especially around RAF Valley. The RAF’s own current description of RAF Valley identifies it as home to No. 4 Flying Training School and a station involved in fast-jet, mountain and maritime aircrew training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span> A silent, high object seen from Rhosybol could still have had an ordinary aerial explanation, but any serious reading of the case has to weigh the witness description against the island’s military and training-flight environment.
 
 
 <img src="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-1-dark.svg" | relative_url }}" alt="Rhosybol illustration 1" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the drawings mattered
 
-The drawings are the heart of the Rhosybol case. In UFO history, drawings made soon after a sighting are rarely decisive proof, but they can be valuable because they freeze how witnesses understood the event before years of retelling, television documentaries or online discussion reshape the story. Clarke’s account says Gwawr’s letter to RAF Valley was endorsed by the teacher and arrived with a collection of drawings by the schoolchildren showing an apparently identical flying saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+The drawings are the heart of the Rhosybol case. In UFO history, drawings made soon after a sighting are rarely decisive proof, but they can be valuable because they freeze how witnesses understood the event before years of retelling, television documentaries or online discussion reshape the story. Clarke’s account says Gwawr’s letter to RAF Valley was endorsed by the teacher and arrived with a collection of drawings by the schoolchildren showing an apparently identical flying saucer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
 The method used by Mrs Williams is important. Separating the children before asking them to draw reduced, though did not eliminate, the risk that one confident pupil’s description would dominate everyone else’s version. The result was not a formal scientific test, but for a primary-school incident it was a stronger response than simply asking the class, as a group, what they thought they had seen.
 
-The drawings also help explain why Rhosybol became more durable than many Anglesey reports. A verbal description can be shortened, misquoted or exaggerated as it moves through newspapers and later summaries. A drawing gives later readers a visual comparison point: dome, cigar-shaped base, direction of travel, and broad similarity across children’s accounts. That is why witness drawings from MoD files have attracted attention as historical documents in their own right. Sheffield Hallam University’s record for Clarke’s book on UFO drawings notes that the Ministry of Defence files include not only official reports and letters, but photographs, drawings and paintings submitted by witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURA UFO drawings from The National Archives</span><span class="citation-popover-snippet">SHURA UFO drawings from The National Archives</span></span></span>
+The drawings also help explain why Rhosybol became more durable than many Anglesey reports. A verbal description can be shortened, misquoted or exaggerated as it moves through newspapers and later summaries. A drawing gives later readers a visual comparison point: dome, cigar-shaped base, direction of travel, and broad similarity across children’s accounts. That is why witness drawings from MoD files have attracted attention as historical documents in their own right. Sheffield Hallam University’s record for Clarke’s book on UFO drawings notes that the Ministry of Defence files include not only official reports and letters, but photographs, drawings and paintings submitted by witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURA UFO drawings from The National Archives</span><span class="citation-popover-snippet">SHURA UFO drawings from The National Archives</span></span></span>
 
-The value is historical rather than conclusive. Clarke has argued more broadly that sketches by schoolchildren, police officers and other witnesses can be “uniquely valuable historical documents” because they show how unusual experiences were made meaningful by the people who reported them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wearethemutants.com/2018/01/23/ufo-drawings-from-the-national-archives-by-david-clarke-2017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">ufo drawings from the national archives by david clarke 2017</span><span class="citation-popover-snippet">ufo drawings from the national archives by david clarke 2017</span></span></span> In Rhosybol, the drawings are evidence of a shared reported experience and of the children’s immediate interpretation. They are not, by themselves, evidence that the object was alien, mechanical, military or even genuinely unusual.
+The value is historical rather than conclusive. Clarke has argued more broadly that sketches by schoolchildren, police officers and other witnesses can be “uniquely valuable historical documents” because they show how unusual experiences were made meaningful by the people who reported them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wearethemutants.com/2018/01/23/ufo-drawings-from-the-national-archives-by-david-clarke-2017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">ufo drawings from the national archives by david clarke 2017</span><span class="citation-popover-snippet">ufo drawings from the national archives by david clarke 2017</span></span></span> In Rhosybol, the drawings are evidence of a shared reported experience and of the children’s immediate interpretation. They are not, by themselves, evidence that the object was alien, mechanical, military or even genuinely unusual.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yGxftZwdWsM" title="New UFO Files From UK Government - Expert Highlights | Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer">New UFO Files From UK Government - Expert Highlights | Video</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 34.3K &middot; Uploaded: July 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yGxftZwdWsM">Open on YouTube</a></p></div></div></div>
 
 ## Why the case reached official channels
 
-Rhosybol stands out because the report did not remain only a playground story. Gwawr’s account was addressed to RAF Valley, the nearest major RAF presence on Anglesey, and the material reached the MoD’s UFO desk, known at the time as S4 (Air). Clarke records that a covering note from RAF Valley said it could offer “no positive explanation or identification”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+Rhosybol stands out because the report did not remain only a playground story. Gwawr’s account was addressed to RAF Valley, the nearest major RAF presence on Anglesey, and the material reached the MoD’s UFO desk, known at the time as S4 (Air). Clarke records that a covering note from RAF Valley said it could offer “no positive explanation or identification”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
 That phrase should be read carefully. “No positive identification” is not the same as confirmation of an extraordinary object. It means the available information was insufficient for RAF Valley to match the report confidently to a known aircraft, balloon, astronomical object, weather phenomenon or other source. In the wider history of British UFO files, that kind of administrative uncertainty was common.
 
-The National Archives’ material on the UK UFO files makes clear that the MoD accumulated reports over decades, and that many were preserved as correspondence, policy papers, drawings and sighting accounts rather than as full forensic investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURA UFO drawings from The National Archives</span><span class="citation-popover-snippet">SHURA UFO drawings from The National Archives</span></span></span> Later National Archives material on the closure of the UFO desk says the MoD concluded the desk served no defence purpose and that large volumes of sighting reports generated correspondence rather than actionable defence intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives’ material on the UK UFO files makes clear that the MoD accumulated reports over decades, and that many were preserved as correspondence, policy papers, drawings and sighting accounts rather than as full forensic investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURA UFO drawings from The National Archives</span><span class="citation-popover-snippet">SHURA UFO drawings from The National Archives</span></span></span> Later National Archives material on the closure of the UFO desk says the MoD concluded the desk served no defence purpose and that large volumes of sighting reports generated correspondence rather than actionable defence intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That context helps place Rhosybol correctly. It was officially recorded, but not solved. It was taken seriously enough to be passed along, but there is no surviving public evidence of radar confirmation, recovered material, photographs or a technical investigation that narrowed the object down to one explanation.
 
@@ -296,11 +296,11 @@ That context helps place Rhosybol correctly. It was officially recorded, but not
 <img src="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-2-dark.svg" | relative_url }}" alt="Rhosybol illustration 2" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Rhosybol fits the 1977 school-sighting cluster
 
-Rhosybol did not happen in isolation. In 1977, several British school-linked UFO reports entered public and official discussion. The most famous was Broad Haven in Pembrokeshire, where children reported a cigar-shaped object near their school earlier in February. Clarke places Rhosybol within a cluster of similar schoolchild reports over roughly six months, noting that Broad Haven received far wider media coverage and helped create the sense of a Welsh “flap”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+Rhosybol did not happen in isolation. In 1977, several British school-linked UFO reports entered public and official discussion. The most famous was Broad Haven in Pembrokeshire, where children reported a cigar-shaped object near their school earlier in February. Clarke places Rhosybol within a cluster of similar schoolchild reports over roughly six months, noting that Broad Haven received far wider media coverage and helped create the sense of a Welsh “flap”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
 This comparison cuts both ways. It strengthens Rhosybol as part of a real historical pattern: children at different schools made reports that adults, newspapers and officials took seriously enough to preserve. But it also raises a sceptical question. Once one school UFO story becomes prominent, other children may become more alert to unusual things in the sky, more ready to interpret them as UFOs, or more likely to describe them using imagery already circulating in the media.
 
-Clarke points out that two huge science-fiction touchstones had not yet fully shaped British children’s expectations in the obvious way often assumed: Close Encounters of the Third Kind was still a year away from its UK impact, and Star Wars did not open in UK cinemas until December 1977, months after the early school reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span> That does not remove popular culture from the picture. UFOs were already familiar through television, newspapers, books and playground conversation. It simply warns against an easy explanation that the Rhosybol children were copying films that had not yet reached them.
+Clarke points out that two huge science-fiction touchstones had not yet fully shaped British children’s expectations in the obvious way often assumed: Close Encounters of the Third Kind was still a year away from its UK impact, and Star Wars did not open in UK cinemas until December 1977, months after the early school reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span> That does not remove popular culture from the picture. UFOs were already familiar through television, newspapers, books and playground conversation. It simply warns against an easy explanation that the Rhosybol children were copying films that had not yet reached them.
 
 For an Anglesey page, the point is narrower: Rhosybol is the island’s local expression of a wider 1977 British and Welsh school-sighting moment. It should be linked to Broad Haven for comparison, but not swallowed by it. Rhosybol had its own witnesses, its own drawings, and its own RAF Valley paper trail.
 
@@ -313,7 +313,7 @@ The strongest evidence in the Rhosybol case is the speed and structure of the re
 
 The weakest point is the absence of independent technical evidence. There is no clear public record of a photograph, radar track, air-traffic match, physical trace, or named adult witness who saw the object as clearly as the children said they did. The teacher’s role was crucial in documenting the event, but the main visual testimony still came from children aged eight to eleven. That does not make the account worthless, but it does mean memory, excitement, group dynamics and expectation have to remain part of the assessment.
 
-Possible ordinary explanations remain open. A distant aircraft, balloon, reflective object, atmospheric effect or misperceived high-altitude object could fit parts of the story, although the reported dome-and-cigar shape and silent motion are why the case was not easily closed at the time. Anglesey’s aviation setting adds another layer: RAF Valley and RAF Mona make aircraft activity locally relevant, while the specific witness description prevents a simple one-line dismissal as “just a plane”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
+Possible ordinary explanations remain open. A distant aircraft, balloon, reflective object, atmospheric effect or misperceived high-altitude object could fit parts of the story, although the reported dome-and-cigar shape and silent motion are why the case was not easily closed at the time. Anglesey’s aviation setting adds another layer: RAF Valley and RAF Mona make aircraft activity locally relevant, while the specific witness description prevents a simple one-line dismissal as “just a plane”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
 
 The most balanced conclusion is that Rhosybol is a good UFO case in the historical sense, not a proven extraordinary encounter. It shows how a schoolyard observation became evidence: through prompt witness accounts, drawings, teacher action, local reporting and official filing. Its importance for Anglesey is not that it settles the UFO question, but that it gives the county one unusually concrete example of how an unexplained aerial report entered both local memory and the British government’s UFO archive.
 
@@ -321,194 +321,194 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
 <img src="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-3-dark.svg" | relative_url }}" alt="Rhosybol illustration 3" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_rhosybol_school_sigh_358b89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Rhosybol Became Anglesey&#x27;s Key UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Rhosybol Became Anglesey&#x27;s Key UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official responses to sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official responses to sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for a multi-witness schoolyard sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a multi-witness schoolyard sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony and classification of cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony and classification of cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how unusual experiences become enduring stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual experiences become enduring stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rhosybol-why-rhosybol-became-anglesey-s-key-ufo-case-anglesey-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,123 +714,123 @@ The most balanced conclusion is that Rhosybol is a good UFO case in the historic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Valley | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shura.shu.ac.uk  
    Title: SHURA UFO drawings from The National Archives  
-   Link: <a href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/16394/</a>  
+   Link:<a href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/16394/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wearethemutants.com  
    Title: ufo drawings from the national archives by david clarke 2017  
-   Link: <a href="https://wearethemutants.com/2018/01/23/ufo-drawings-from-the-national-archives-by-david-clarke-2017/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2018/01/23/ufo-drawings-from-the-national-archives-by-david-clarke-2017/</a>  
+   Link:<a href="https://wearethemutants.com/2018/01/23/ufo-drawings-from-the-national-archives-by-david-clarke-2017/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2018/01/23/ufo-drawings-from-the-national-archives-by-david-clarke-2017/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: RAF Valley  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Valley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Valley</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Valley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Valley</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: drdavidclarke.co.uk  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://drdavidclarke.co.uk/tag/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/close-encounters-of-the-third-kind/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/close-encounters-of-the-third-kind/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: anglesey.gov.wales  
-   Link: <a href="https://www.anglesey.gov.wales/en/Residents/Schools-and-learning/Schools/Primary-secondary-and-special-schools.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.anglesey.gov.wales/en/Residents/Schools-and-learning/Schools/Primary-secondary-and-special-schools.aspx</a>  
+   Link:<a href="https://www.anglesey.gov.wales/en/Residents/Schools-and-learning/Schools/Primary-secondary-and-special-schools.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.anglesey.gov.wales/en/Residents/Schools-and-learning/Schools/Primary-secondary-and-special-schools.aspx</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0k588RvMT94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k588RvMT94</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0k588RvMT94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k588RvMT94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: New UFO Files From UK Government  
-   Link: <a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGxftZwdWsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out of this World BBC 1977 (Documentary on peoples otherworldy Experiences)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGxftZwdWsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out of this World BBC 1977 (Documentary on peoples otherworldy Experiences)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files From UK Government - Expert Highlights | Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files From UK Government - Expert Highlights | Video...</p></details>
    Published: May 2008  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
+   Link:<a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/355896349/UFO-Drawings-from-The-National-Archives" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/355896349/UFO-Drawings-from-The-National-Archives</a>  
+   Link:<a href="https://www.scribd.com/document/355896349/UFO-Drawings-from-The-National-Archives" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/355896349/UFO-Drawings-from-The-National-Archives</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cahiercentral.com  
-   Link: <a href="https://cahiercentral.com/products/ufo-drawings-from-the-national-archives-by-david-clarke?srsltid=AfmBOoqPVy0frdHKnEtdtSJdJlyKh3oXXxlOFsuYAE_G1bH14FdExRA2" target="_blank" rel="noopener noreferrer nofollow">https://cahiercentral.com/products/ufo-drawings-from-the-national-archives-by-david-clarke?srsltid=AfmBOoqPVy0frdHKnEtdtSJdJlyKh3oXXxlOFsuYAE_G1bH14FdExRA2</a>  
+   Link:<a href="https://cahiercentral.com/products/ufo-drawings-from-the-national-archives-by-david-clarke?srsltid=AfmBOoqPVy0frdHKnEtdtSJdJlyKh3oXXxlOFsuYAE_G1bH14FdExRA2" target="_blank" rel="noopener noreferrer nofollow">https://cahiercentral.com/products/ufo-drawings-from-the-national-archives-by-david-clarke?srsltid=AfmBOoqPVy0frdHKnEtdtSJdJlyKh3oXXxlOFsuYAE_G1bH14FdExRA2</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skillsworkshop.org  
-   Link: <a href="https://www.skillsworkshop.org/sites/skillsworkshop.org/files/resources/l1l2ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.skillsworkshop.org/sites/skillsworkshop.org/files/resources/l1l2ufo.pdf</a>  
+   Link:<a href="https://www.skillsworkshop.org/sites/skillsworkshop.org/files/resources/l1l2ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.skillsworkshop.org/sites/skillsworkshop.org/files/resources/l1l2ufo.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCymruWales/posts/what-do-you-know-about-wales-most-famous-ufo-sighting-paranormalthe-village-that/999075572252439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/what-do-you-know-about-wales-most-famous-ufo-sighting-paranormalthe-village-that/999075572252439/</a>  
+   Link:<a href="https://www.facebook.com/BBCCymruWales/posts/what-do-you-know-about-wales-most-famous-ufo-sighting-paranormalthe-village-that/999075572252439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/what-do-you-know-about-wales-most-famous-ufo-sighting-paranormalthe-village-that/999075572252439/</a>  

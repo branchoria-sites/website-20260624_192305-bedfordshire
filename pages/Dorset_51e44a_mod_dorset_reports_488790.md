@@ -248,7 +248,7 @@ image: /assets/images/Dorset_51e44a_mod_dorset_reports_488790-overview-social.jp
 
 ## Introduction
 
-[Dorset]({{ 'what-really-happened-in-dorsets-skies/' | relative_url }})’s Ministry of Defence UFO entries prove something more modest, but more useful, than the dramatic versions of the subject often suggest. They prove that people in and around Dorset reported unusual aerial objects to an official defence channel between 1997 and 2009, and that the MoD preserved those reports in national tables giving dates, times, locations and short descriptions. They do **not** prove alien craft, secret aircraft, or even that each object was truly unexplained. The official summaries are often only one line long, with no witness interview, photograph, radar trace, aircraft check or final explanation attached. GOV.UK describes the released material simply as UFO reports from 1997 to 2009, “showing dates and times, location and a brief description of the sighting”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+[Dorset]({{ 'what-really-happened-in-dorsets-skies/' | relative_url }})’s Ministry of Defence UFO entries prove something more modest, but more useful, than the dramatic versions of the subject often suggest. They prove that people in and around Dorset reported unusual aerial objects to an official defence channel between 1997 and 2009, and that the MoD preserved those reports in national tables giving dates, times, locations and short descriptions. They do **not** prove alien craft, secret aircraft, or even that each object was truly unexplained. The official summaries are often only one line long, with no witness interview, photograph, radar trace, aircraft check or final explanation attached. GOV.UK describes the released material simply as UFO reports from 1997 to 2009, “showing dates and times, location and a brief description of the sighting”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Dorset_51e44a_mod_dorset_reports_488790-overview.webp" | relative_url }}" alt="Overview image for Mo D Reports" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,9 +256,9 @@ That makes the Dorset material valuable as a local evidence trail rather than as
 
 ## Which Dorset do the MoD entries cover?
 
-For this project, Dorset is treated as the main county frame, while recognising that official records do not always follow historic county geography. The project’s mapping frame uses the historic-county approach: Wikishire’s map states that it conforms to the Historic Counties Standard and uses border data from the Historic County Borders Project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span> That matters because some south-east Dorset place names sit awkwardly between historic and modern usage.
+For this project, Dorset is treated as the main county frame, while recognising that official records do not always follow historic county geography. The project’s mapping frame uses the historic-county approach: Wikishire’s map states that it conforms to the Historic Counties Standard and uses border data from the Historic County Borders Project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span> That matters because some south-east Dorset place names sit awkwardly between historic and modern usage.
 
-Dorset Council’s own historic maps guidance notes that most of its historic map collection does not cover Bournemouth and Christchurch because they were part of Hampshire until 1974. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorsetcouncil.gov.uk">[Dorset Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorsetcouncil.gov.uk</span><span class="citation-popover-snippet">Open source on dorsetcouncil.gov.uk.</span></span></span> The MoD tables, however, list reports by the place and county label used in the official dataset, so a modern “Dorset” reading naturally includes entries such as Bournemouth, Christchurch and Sopley/Christchurch when the MoD recorded them under Dorset or when they are relevant to Dorset’s modern UFO record.
+Dorset Council’s own historic maps guidance notes that most of its historic map collection does not cover Bournemouth and Christchurch because they were part of Hampshire until 1974.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorsetcouncil.gov.uk">[Dorset Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorsetcouncil.gov.uk</span><span class="citation-popover-snippet">Open source on dorsetcouncil.gov.uk.</span></span></span> The MoD tables, however, list reports by the place and county label used in the official dataset, so a modern “Dorset” reading naturally includes entries such as Bournemouth, Christchurch and Sopley/Christchurch when the MoD recorded them under Dorset or when they are relevant to Dorset’s modern UFO record.
 
 The safest approach is therefore to read these records in two layers. The historic Dorset centre of gravity includes places such as Bridport, Blandford St Mary, Wareham, Wimborne, Sherborne and Iwerne Minster. The wider modern Dorset reporting context also includes Bournemouth and Christchurch, especially because media, policing and public reporting have treated them as part of the Dorset UFO landscape since local government boundary changes.
 
@@ -268,19 +268,19 @@ The safest approach is therefore to read these records in two layers. The histor
 
 The MoD tables are not a narrative investigation file. They are a register. Even so, the Dorset entries show several recurring types of report: silent lights, bright fireball-like objects, disc or saucer descriptions, multiple-object formations, and vague “UFO” messages that are impossible to evaluate properly.
 
-In **April 1997**, the table recorded a sighting at **West Parley/Ferndown**, described as a saucer-shaped object with red and blue lights, hovering silently before disappearing behind trees. In **July 1997**, an entry on the **A350 at Broadstone** described a black object with two wings but no fuselage, heading north-east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These two records are useful because they show that Dorset’s official reports were not only “lights in the sky”; some witnesses thought they saw structured objects. But both entries are still short witness summaries, not confirmed descriptions of physical craft.
+In **April 1997**, the table recorded a sighting at **West Parley/Ferndown**, described as a saucer-shaped object with red and blue lights, hovering silently before disappearing behind trees. In **July 1997**, an entry on the **A350 at Broadstone** described a black object with two wings but no fuselage, heading north-east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These two records are useful because they show that Dorset’s official reports were not only “lights in the sky”; some witnesses thought they saw structured objects. But both entries are still short witness summaries, not confirmed descriptions of physical craft.
 
-The **1998** Dorset entries are more varied. At **Wimborne** on 16 May 1998, three bright yellow “flare shaped” objects were reported at about 500 feet, moving in the same direction. On 13 August 1998, **Highcliffe** produced a striking entry: a white circle travelling in a straight line, followed by an extremely loud explosion over the sea. On 25 October 1998, **Boscombe** was logged with an object that split into two, “about the size of a minibus”, wedge-shaped and silvery white, with sunlight reflecting from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These are among the more memorable Dorset items, but the summaries still do not include enough follow-up to decide between aircraft, reflections, meteors, fireworks, military activity, reporting error or something genuinely unresolved.
+The **1998** Dorset entries are more varied. At **Wimborne** on 16 May 1998, three bright yellow “flare shaped” objects were reported at about 500 feet, moving in the same direction. On 13 August 1998, **Highcliffe** produced a striking entry: a white circle travelling in a straight line, followed by an extremely loud explosion over the sea. On 25 October 1998, **Boscombe** was logged with an object that split into two, “about the size of a minibus”, wedge-shaped and silvery white, with sunlight reflecting from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These are among the more memorable Dorset items, but the summaries still do not include enough follow-up to decide between aircraft, reflections, meteors, fireworks, military activity, reporting error or something genuinely unresolved.
 
-The **1999** table includes two Dorset-relevant entries. On 4 January 1999, **Bournemouth** was recorded with a disc-shaped object, no size given, carrying two bright blue flashing lights. On 12 July 1999, **Blandford St Mary** was logged at 23:10 with three star-shaped objects, all white and very bright, reportedly faster than an aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The Blandford St Mary entry is a good example of a report that sounds impressive at first reading but lacks the information needed for a strong conclusion: no angular size, duration, direction of travel, weather, aircraft check or independent witness detail is included.
+The **1999** table includes two Dorset-relevant entries. On 4 January 1999, **Bournemouth** was recorded with a disc-shaped object, no size given, carrying two bright blue flashing lights. On 12 July 1999, **Blandford St Mary** was logged at 23:10 with three star-shaped objects, all white and very bright, reportedly faster than an aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The Blandford St Mary entry is a good example of a report that sounds impressive at first reading but lacks the information needed for a strong conclusion: no angular size, duration, direction of travel, weather, aircraft check or independent witness detail is included.
 
-Dorset then becomes quieter in the publicly released tables until the mid-2000s. In **September 2004**, **Iwerne Minster** appears with an object described as a great bright light, “like a big ball of fire”, rapidly moving towards the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In **February 2005**, the table records a cluster of blue-green flash reports across the wider south-west, including **Sherborne**, where a green/blue flash with a tail seemed to disintegrate, and a separate Dorset entry that simply says a blue flash was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Those descriptions are especially compatible with a meteor or re-entry-type sighting, although the MoD table itself does not formally close the case.
+Dorset then becomes quieter in the publicly released tables until the mid-2000s. In **September 2004**, **Iwerne Minster** appears with an object described as a great bright light, “like a big ball of fire”, rapidly moving towards the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In **February 2005**, the table records a cluster of blue-green flash reports across the wider south-west, including **Sherborne**, where a green/blue flash with a tail seemed to disintegrate, and a separate Dorset entry that simply says a blue flash was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Those descriptions are especially compatible with a meteor or re-entry-type sighting, although the MoD table itself does not formally close the case.
 
-By **2007**, the character of many national reports had shifted towards [orange lights]({{ 'orange-lights-f6529f/' | relative_url }}) and grouped lights. The Dorset-relevant entries include **Parley Cross/Bournemouth** on 21 May 2007, where bright orange lights seemed to split up, move in different directions and disappear silently. On 23 December 2007, **Bridport** was recorded, misspelled in the table as “Bdirport”, with an object that hovered silently, shone a light down, and appeared blurred or difficult to focus on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These reports matter because they sit just before the 2008–2009 surge in orange-light and formation sightings seen across the UK.
+By **2007**, the character of many national reports had shifted towards [orange lights]({{ 'orange-lights-f6529f/' | relative_url }}) and grouped lights. The Dorset-relevant entries include **Parley Cross/Bournemouth** on 21 May 2007, where bright orange lights seemed to split up, move in different directions and disappear silently. On 23 December 2007, **Bridport** was recorded, misspelled in the table as “Bdirport”, with an object that hovered silently, shone a light down, and appeared blurred or difficult to focus on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These reports matter because they sit just before the 2008–2009 surge in orange-light and formation sightings seen across the UK.
 
-The **2008** Dorset entries are among the most quoted because they sound dramatic but are especially thin. **Christchurch** appears with “a large, silver metallic disc”, but the report was taken on 16 July 2008 and says the UFO had been seen more than two weeks earlier. **Sopley/Christchurch** was logged at 19:55 as “one hundred possible UFOs in the sky”, with the message taken on 8 October 2008. **East Stoke/Wareham** is recorded only as “a pretty unusual sighting”, and **Poole** only as “a UFO flew across the sky”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These are classic examples of official records that preserve a claim but cannot carry much evidential weight on their own.
+The **2008** Dorset entries are among the most quoted because they sound dramatic but are especially thin. **Christchurch** appears with “a large, silver metallic disc”, but the report was taken on 16 July 2008 and says the UFO had been seen more than two weeks earlier. **Sopley/Christchurch** was logged at 19:55 as “one hundred possible UFOs in the sky”, with the message taken on 8 October 2008. **East Stoke/Wareham** is recorded only as “a pretty unusual sighting”, and **Poole** only as “a UFO flew across the sky”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> These are classic examples of official records that preserve a claim but cannot carry much evidential weight on their own.
 
-The final year, **2009**, gives one of the clearest Dorset entries. On 25 June 2009 at 23:00, **Bridport** was logged with three orange lights south of the town, coming from the east and moving west before rapidly diminishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is a stronger record than “a UFO flew across the sky” because it gives a date, time, colour, number of lights, direction and movement. Even so, it remains a short observation rather than an investigated case.
+The final year, **2009**, gives one of the clearest Dorset entries. On 25 June 2009 at 23:00, **Bridport** was logged with three orange lights south of the town, coming from the east and moving west before rapidly diminishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is a stronger record than “a UFO flew across the sky” because it gives a date, time, colour, number of lights, direction and movement. Even so, it remains a short observation rather than an investigated case.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnMSCKZ811Q" title="1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer">1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive &middot; Views: 22.8K &middot; Uploaded: August 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnMSCKZ811Q">Open on YouTube</a></p></div></div></div>
@@ -289,7 +289,7 @@ The final year, **2009**, gives one of the clearest Dorset entries. On 25 June 2
 
 The MoD tables prove the existence of reports, not the nature of the objects. That distinction is central. A line in an MoD table means someone contacted the official reporting channel and that the report was logged in a standardised summary. It does not mean the MoD verified the object, endorsed the witness’s interpretation, or ruled out ordinary causes.
 
-The National Archives gives the wider context clearly: the MoD kept UFO records from the 1960s, and most of the records describe shapes, lights and flashes that “can often be explained”, while some are more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The released GOV.UK tables are therefore best read as an official intake record, not as a catalogue of confirmed anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The National Archives gives the wider context clearly: the MoD kept UFO records from the 1960s, and most of the records describe shapes, lights and flashes that “can often be explained”, while some are more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The released GOV.UK tables are therefore best read as an official intake record, not as a catalogue of confirmed anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 What they **can** prove is still important:
 
@@ -309,7 +309,7 @@ What they **cannot** prove is just as important. They cannot prove extraterrestr
 <img src="{{ "/assets/images/Dorset_51e44a_mod_dorset_reports_488790-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Dorset_51e44a_mod_dorset_reports_488790-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dorset_51e44a_mod_dorset_reports_488790-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 2008–2009 Dorset reports need special caution
 
-The Dorset reports from 2008 and 2009 sit inside a national reporting environment that was unusually noisy. The final tranche of National Archives material notes that reports trebled in 2009 and that many accounts of formations of orange lights moving slowly across the sky resembled Chinese lanterns, even when witnesses did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Contemporary reporting on the final files also linked the late-2000s surge to Chinese lanterns becoming a craze, with orange lights filmed or photographed by people who found them startling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
+The Dorset reports from 2008 and 2009 sit inside a national reporting environment that was unusually noisy. The final tranche of National Archives material notes that reports trebled in 2009 and that many accounts of formations of orange lights moving slowly across the sky resembled Chinese lanterns, even when witnesses did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Contemporary reporting on the final files also linked the late-2000s surge to Chinese lanterns becoming a craze, with orange lights filmed or photographed by people who found them startling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
 
 That does not automatically explain every Dorset entry. The Christchurch “silver metallic disc” is not an orange-light report. The Blandford St Mary report describes white star-shaped objects rather than lantern-like orange globes. The Highcliffe entry mentions a loud explosion over the sea, which points to a different set of possible explanations. But the caution is highly relevant to **Sopley/Christchurch’s “one hundred possible UFOs”** and **Bridport’s three orange lights**, because grouped orange lights moving across the sky are exactly the kind of report that became common in the late MoD period.
 
@@ -317,11 +317,11 @@ This is where readers often overread the official label. “UFO” in these reco
 
 ## The MoD desk closure changes the meaning of “official”
 
-The MoD stopped taking UFO reports in 2009, which means Dorset’s later public record shifted away from national defence intake tables and towards police freedom of information releases, local media reports, social media posts and civilian skywatching records. A 2024 parliamentary answer states that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has released all MoD UFO files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The MoD stopped taking UFO reports in 2009, which means Dorset’s later public record shifted away from national defence intake tables and towards police freedom of information releases, local media reports, social media posts and civilian skywatching records. A 2024 parliamentary answer states that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has released all MoD UFO files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
-The stated reason also matters. The final-file coverage reported that the desk was closed because it served no defence purpose and diverted staff from more valuable defence-related work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span> That does not prove that all reports were mundane. It shows that, from the MoD’s institutional perspective, decades of reports had not justified maintaining a dedicated public UFO reporting function.
+The stated reason also matters. The final-file coverage reported that the desk was closed because it served no defence purpose and diverted staff from more valuable defence-related work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span> That does not prove that all reports were mundane. It shows that, from the MoD’s institutional perspective, decades of reports had not justified maintaining a dedicated public UFO reporting function.
 
-For Dorset, this means the 1997–2009 tables are the last compact official national series of local UFO reports. After that, the evidence becomes more fragmented. Dorset Police, for example, disclosed in 2024 that it had identified 21 UFO or UAP-related reports between April 2014 and April 2024 using search terms such as UFO, UAP, alien, light in the sky and similar wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span> That later police figure shows continued public reporting, but it is not the same kind of record as the MoD tables and should not be blended with them without care.
+For Dorset, this means the 1997–2009 tables are the last compact official national series of local UFO reports. After that, the evidence becomes more fragmented. Dorset Police, for example, disclosed in 2024 that it had identified 21 UFO or UAP-related reports between April 2014 and April 2024 using search terms such as UFO, UAP, alien, light in the sky and similar wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span> That later police figure shows continued public reporting, but it is not the same kind of record as the MoD tables and should not be blended with them without care.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F_dkzjQOVQM" title="Droidlock - UFO Report (1999)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F_dkzjQOVQM" target="_blank" rel="noopener noreferrer">Droidlock - UFO Report (1999)</a></p><p class="youtube-embed-meta">Channel: ૐJourney To The Old Psychedelic Goa Trance Musicૐ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F_dkzjQOVQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F_dkzjQOVQM">Open on YouTube</a></p></div></div></div>
@@ -332,11 +332,11 @@ The best way to use Dorset’s MoD entries is to rank them by evidential strengt
 
 A practical reading scale helps:
 
-**Stronger MoD entries** give a date, time, place, number of objects, colour, movement and direction. Bridport in June 2009 is a good example because it records three orange lights, a location south of Bridport, an east-to-west movement and rapid fading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> It still does not prove the cause, but it gives enough detail for later comparison with aircraft paths, lantern releases, astronomical conditions or meteor activity.
+**Stronger MoD entries** give a date, time, place, number of objects, colour, movement and direction. Bridport in June 2009 is a good example because it records three orange lights, a location south of Bridport, an east-to-west movement and rapid fading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> It still does not prove the cause, but it gives enough detail for later comparison with aircraft paths, lantern releases, astronomical conditions or meteor activity.
 
-**Medium-strength entries** describe a striking object but omit key checks. Blandford St Mary in July 1999 says three bright white star-shaped objects were faster than an aircraft, but it does not give duration, direction, altitude estimate or independent confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Christchurch in 2008 says “large, silver metallic disc”, but the sighting was already more than two weeks old when the message was taken, which weakens the value of memory-dependent details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+**Medium-strength entries** describe a striking object but omit key checks. Blandford St Mary in July 1999 says three bright white star-shaped objects were faster than an aircraft, but it does not give duration, direction, altitude estimate or independent confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Christchurch in 2008 says “large, silver metallic disc”, but the sighting was already more than two weeks old when the message was taken, which weakens the value of memory-dependent details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-**Weak entries** are official but almost content-free. East Stoke/Wareham’s “a pretty unusual sighting” and Poole’s “a UFO flew across the sky” prove almost nothing beyond the existence of a report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> They should be preserved in a Dorset catalogue, but they should not be treated as strong evidence for any particular explanation.
+**Weak entries** are official but almost content-free. East Stoke/Wareham’s “a pretty unusual sighting” and Poole’s “a UFO flew across the sky” prove almost nothing beyond the existence of a report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> They should be preserved in a Dorset catalogue, but they should not be treated as strong evidence for any particular explanation.
 
 This approach also prevents a common mistake: treating “unexplained in the table” as “impossible to explain”. Many entries are unexplained because the public summary is too brief, not because all ordinary explanations failed. A good Dorset case file would need more than a MoD line. It would need witness statements, exact viewing direction, weather, astronomical data, flight and helicopter activity, coastal or military exercise context, photographs or video where available, and independent reports from the same time and area.
 
@@ -355,194 +355,194 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Dorset&#x27;s Mo D UFO Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Dorset&#x27;s Mo D UFO Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits Dorset UFO reports through its focus on documented sightings, official records, witness testimony, and unresolved aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits Dorset UFO reports through its focus on documented sightings, official records, witness testimony, and unresolved aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for classifying and assessing sightings similar to the varied reports found across Dorset.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for classifying and assessing sightings similar to the varied reports found across Dorset.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context for UK sightings, official records, and how reports are documented and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UK sightings, official records, and how reports are documented and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local folklore, witness accounts, and strange aerial reports can persist across regions and eras.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local folklore, witness accounts, and strange aerial reports can persist across regions and eras.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mo-d-reports-c51e2d-what-do-dorset-s-mo-d-ufo-files-really-show-dorset-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,235 +748,235 @@ In Dorset, the best entries are therefore not proof of alien visitation, but pro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dorsetcouncil.gov.uk  
-   Link: <a href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow">https://www.dorsetcouncil.gov.uk/w/maps</a>  
+   Link:<a href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow">https://www.dorsetcouncil.gov.uk/w/maps</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
-   Source: assets.publishing.service.gov.uk  
-   Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
-
-9. <a id="endnote-9"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-10. <a id="endnote-10"></a>
+9.<a id="endnote-9"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: UK Assets  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/10/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/10/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/31/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/31/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/31/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/31/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: annual report accounts national archives large print 2023 2024  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/21/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/21/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/21/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/21/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dorsetcouncil.gov.uk  
-   Link: <a href="https://www.dorsetcouncil.gov.uk/documents/35024/2825620/CPRE%2BDark%2BSkies%2BMap%2B%28February%2C%2B2018%29.pdf/f9973d48-b803-83e9-2723-7818627eea3e?t=1656342931885" target="_blank" rel="noopener noreferrer nofollow">https://www.dorsetcouncil.gov.uk/documents/35024/2825620/CPRE%2BDark%2BSkies%2BMap%2B%28February%2C%2B2018%29.pdf/f9973d48-b803-83e9-2723-7818627eea3e?t=1656342931885</a>  
+   Link:<a href="https://www.dorsetcouncil.gov.uk/documents/35024/2825620/CPRE%2BDark%2BSkies%2BMap%2B%28February%2C%2B2018%29.pdf/f9973d48-b803-83e9-2723-7818627eea3e?t=1656342931885" target="_blank" rel="noopener noreferrer nofollow">https://www.dorsetcouncil.gov.uk/documents/35024/2825620/CPRE%2BDark%2BSkies%2BMap%2B%28February%2C%2B2018%29.pdf/f9973d48-b803-83e9-2723-7818627eea3e?t=1656342931885</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.dorsetcouncil.gov.uk  
    Title: mapping history recent additions to dhcs collection  
-   Link: <a href="https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/" target="_blank" rel="noopener noreferrer nofollow">https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/</a>  
+   Link:<a href="https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/" target="_blank" rel="noopener noreferrer nofollow">https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.dorsetcouncil.gov.uk  
    Title: online maps where are they and how can you use them  
-   Link: <a href="https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2020/05/27/online-maps-where-are-they-and-how-can-you-use-them/" target="_blank" rel="noopener noreferrer nofollow">https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2020/05/27/online-maps-where-are-they-and-how-can-you-use-them/</a>  
+   Link:<a href="https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2020/05/27/online-maps-where-are-they-and-how-can-you-use-them/" target="_blank" rel="noopener noreferrer nofollow">https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2020/05/27/online-maps-where-are-they-and-how-can-you-use-them/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gi.dorsetcouncil.gov.uk  
-   Link: <a href="https://gi.dorsetcouncil.gov.uk/dorsetexplorer/history" target="_blank" rel="noopener noreferrer nofollow">https://gi.dorsetcouncil.gov.uk/dorsetexplorer/history</a>  
+   Link:<a href="https://gi.dorsetcouncil.gov.uk/dorsetexplorer/history" target="_blank" rel="noopener noreferrer nofollow">https://gi.dorsetcouncil.gov.uk/dorsetexplorer/history</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive-catalogue.dorsetcouncil.gov.uk  
-   Link: <a href="https://archive-catalogue.dorsetcouncil.gov.uk/records/M/198/1" target="_blank" rel="noopener noreferrer nofollow">https://archive-catalogue.dorsetcouncil.gov.uk/records/M/198/1</a>  
+   Link:<a href="https://archive-catalogue.dorsetcouncil.gov.uk/records/M/198/1" target="_blank" rel="noopener noreferrer nofollow">https://archive-catalogue.dorsetcouncil.gov.uk/records/M/198/1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bridport-tc.gov.uk  
-   Link: <a href="https://www.bridport-tc.gov.uk/wp-content/uploads/2025/08/Projects-Updates-ENCL-4017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bridport-tc.gov.uk/wp-content/uploads/2025/08/Projects-Updates-ENCL-4017.pdf</a>  
+   Link:<a href="https://www.bridport-tc.gov.uk/wp-content/uploads/2025/08/Projects-Updates-ENCL-4017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bridport-tc.gov.uk/wp-content/uploads/2025/08/Projects-Updates-ENCL-4017.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: data.companieshouse.gov.uk  
-   Link: <a href="https://data.companieshouse.gov.uk/doc/company/00772941" target="_blank" rel="noopener noreferrer nofollow">https://data.companieshouse.gov.uk/doc/company/00772941</a>  
+   Link:<a href="https://data.companieshouse.gov.uk/doc/company/00772941" target="_blank" rel="noopener noreferrer nofollow">https://data.companieshouse.gov.uk/doc/company/00772941</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: The Guardian Alien nation: Mo D releases final UFO files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
    Title: ufo hotline closes down mod  
-   Link: <a href="https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod</a>  
+   Link:<a href="https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Trust  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Trust" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Trust</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Trust" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Trust</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: pml.ac.uk  
-   Link: <a href="https://pml.ac.uk/news/coastal-cities-expose-seafloor-to-dangerous-light/" target="_blank" rel="noopener noreferrer nofollow">https://pml.ac.uk/news/coastal-cities-expose-seafloor-to-dangerous-light/</a>  
+   Link:<a href="https://pml.ac.uk/news/coastal-cities-expose-seafloor-to-dangerous-light/" target="_blank" rel="noopener noreferrer nofollow">https://pml.ac.uk/news/coastal-cities-expose-seafloor-to-dangerous-light/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1918086695111416/posts/4135067726746624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1918086695111416/posts/4135067726746624/</a>  
+   Link:<a href="https://www.facebook.com/groups/1918086695111416/posts/4135067726746624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1918086695111416/posts/4135067726746624/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/somersetlive/posts/locals-in-portland-dorset-were-left-shocked-when-they-looked-up-at-the-sky-and-s/1350814003716242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/somersetlive/posts/locals-in-portland-dorset-were-left-shocked-when-they-looked-up-at-the-sky-and-s/1350814003716242/</a>  
+   Link:<a href="https://www.facebook.com/somersetlive/posts/locals-in-portland-dorset-were-left-shocked-when-they-looked-up-at-the-sky-and-s/1350814003716242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/somersetlive/posts/locals-in-portland-dorset-were-left-shocked-when-they-looked-up-at-the-sky-and-s/1350814003716242/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cpre.org.uk  
-   Link: <a href="https://www.cpre.org.uk/wp-content/uploads/2019/11/Night_Blight.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpre.org.uk/wp-content/uploads/2019/11/Night_Blight.pdf</a>  
+   Link:<a href="https://www.cpre.org.uk/wp-content/uploads/2019/11/Night_Blight.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpre.org.uk/wp-content/uploads/2019/11/Night_Blight.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/dorset.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/dorset.htm</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/dorset.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/dorset.htm</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: oldmapsonline.org  
-   Link: <a href="https://www.oldmapsonline.org/en/Bournemouth" target="_blank" rel="noopener noreferrer nofollow">https://www.oldmapsonline.org/en/Bournemouth</a>  
+   Link:<a href="https://www.oldmapsonline.org/en/Bournemouth" target="_blank" rel="noopener noreferrer nofollow">https://www.oldmapsonline.org/en/Bournemouth</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cprekent.org.uk  
-   Link: <a href="https://www.cprekent.org.uk/our-stolen-night-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cprekent.org.uk/our-stolen-night-skies/</a>  
+   Link:<a href="https://www.cprekent.org.uk/our-stolen-night-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cprekent.org.uk/our-stolen-night-skies/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/downloads/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/downloads/</a>  
+   Link:<a href="https://abcounties.com/downloads/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/downloads/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
+   Link:<a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: county-borders.co.uk  
-   Link: <a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
+   Link:<a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  

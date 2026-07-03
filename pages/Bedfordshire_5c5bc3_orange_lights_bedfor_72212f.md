@@ -253,27 +253,27 @@ image: /assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-overview-s
 
 ## Introduction
 
-The orange-light reports over Bedford and Shortstown matter because they sit at the point where [Bedfordshire]({{ 'what-did-bedfordshire-really-see-in/' | relative_url }})’s UFO record becomes both more visible and more vulnerable to ordinary explanation. In June 2008, a report from Shortstown/Bedford described a large orange, saucer-like object with flashing lights, visible for more than two hours. In 2009, Bedford produced further entries involving bright, silent orange lights. These were not isolated oddities: they arrived during a national late-2000s wave of orange-light UFO reports, many of which were later suspected to involve sky lanterns, aircraft, balloons, meteors or distance errors. The Bedfordshire cases are therefore best read as a local cluster within a wider British reporting pattern, not as a confirmed single craft or event. The strongest evidence is the Ministry of Defence’s published sighting lists; the weakest part is the lack of follow-up detail, photographs with analysis, radar correlation or independent witness statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The orange-light reports over Bedford and Shortstown matter because they sit at the point where [Bedfordshire]({{ 'what-did-bedfordshire-really-see-in/' | relative_url }})’s UFO record becomes both more visible and more vulnerable to ordinary explanation. In June 2008, a report from Shortstown/Bedford described a large orange, saucer-like object with flashing lights, visible for more than two hours. In 2009, Bedford produced further entries involving bright, silent orange lights. These were not isolated oddities: they arrived during a national late-2000s wave of orange-light UFO reports, many of which were later suspected to involve sky lanterns, aircraft, balloons, meteors or distance errors. The Bedfordshire cases are therefore best read as a local cluster within a wider British reporting pattern, not as a confirmed single craft or event. The strongest evidence is the Ministry of Defence’s published sighting lists; the weakest part is the lack of follow-up detail, photographs with analysis, radar correlation or independent witness statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-overview.webp" | relative_url }}" alt="Overview image for Orange Lights" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Bedford and Shortstown became an orange-light focus
 
-Shortstown is not just another Bedford suburb in UFO-story terms. It sits beside the Cardington airship landscape, one of Bedfordshire’s most visually memorable aviation sites. Bedfordshire Archives records that the Royal Airship Works at Cardington were laid down in 1917 for the Admiralty and included a factory, airship shed, hydrogen plant, foundry and rolling mill. RAF Cardington later opened in 1936 and became a specialist training base for balloon operators. That history does not prove any modern UFO report, but it does shape how unusual lights near Shortstown are noticed, remembered and retold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/TheRoyalAirshipWorksShortstown.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bedsarchives.bedford.gov.uk">[Bedfordshire Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bedsarchives.bedford.gov.uk</span><span class="citation-popover-snippet">Hosted By Bedford Borough Council: The Royal Airship Works Shortstown...</span></span></span>
+Shortstown is not just another Bedford suburb in UFO-story terms. It sits beside the Cardington airship landscape, one of Bedfordshire’s most visually memorable aviation sites. Bedfordshire Archives records that the Royal Airship Works at Cardington were laid down in 1917 for the Admiralty and included a factory, airship shed, hydrogen plant, foundry and rolling mill. RAF Cardington later opened in 1936 and became a specialist training base for balloon operators. That history does not prove any modern UFO report, but it does shape how unusual lights near Shortstown are noticed, remembered and retold.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/TheRoyalAirshipWorksShortstown.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bedsarchives.bedford.gov.uk">[Bedfordshire Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bedsarchives.bedford.gov.uk</span><span class="citation-popover-snippet">Hosted By Bedford Borough Council: The Royal Airship Works Shortstown...</span></span></span>
 
-The local setting matters for another reason: Bedford is not a dark, empty sky location. It sits within a wider aviation region that includes London Luton Airport, historic RAF sites, local flight paths and changing night-time visibility. Luton Airport states that it has a 24-hour operating licence and no ban on night flights, while also noting that aircraft do not follow tracks with railway-like precision because wind, performance and navigation factors create some dispersion. That makes aircraft a live possibility in any Bedfordshire night-light report, even when a witness says an object was “not plane shaped” or silent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span><span class="citation-popover-snippet">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span></span></span>
+The local setting matters for another reason: Bedford is not a dark, empty sky location. It sits within a wider aviation region that includes London Luton Airport, historic RAF sites, local flight paths and changing night-time visibility. Luton Airport states that it has a 24-hour operating licence and no ban on night flights, while also noting that aircraft do not follow tracks with railway-like precision because wind, performance and navigation factors create some dispersion. That makes aircraft a live possibility in any Bedfordshire night-light report, even when a witness says an object was “not plane shaped” or silent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span><span class="citation-popover-snippet">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span></span></span>
 
 The orange-light theme became important because it repeated. A one-off report of a strange orange glow might be easy to file away as weak. Several orange-light entries in a short period, including Bedford and nearby Shortstown, invite a different question: were people seeing the same unusual phenomenon, or were many people independently misidentifying a popular and visually distinctive type of object in the sky?
 
 ## The 2008 and 2009 Bedford-area sightings
 
-The clearest Bedfordshire entry in the MoD’s 2008 list is dated 10 June 2008 at 23:30 and located as Shortstown/Bedford. The brief description says a large orange, saucer-shaped floating object was seen in the sky, with four flashing lights, compared by the reporter to a light show; the flashing then stopped, and the episode was said to have continued for more than two hours. That is a striking description, but it is also very compressed. The released list gives no witness interview, no viewing direction, no exact position, no weather, no photograph, no aircraft check and no indication that the report was independently investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The clearest Bedfordshire entry in the MoD’s 2008 list is dated 10 June 2008 at 23:30 and located as Shortstown/Bedford. The brief description says a large orange, saucer-shaped floating object was seen in the sky, with four flashing lights, compared by the reporter to a light show; the flashing then stopped, and the episode was said to have continued for more than two hours. That is a striking description, but it is also very compressed. The released list gives no witness interview, no viewing direction, no exact position, no weather, no photograph, no aircraft check and no indication that the report was independently investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The same 2008 page places the Shortstown/Bedford report among a run of other orange-light reports across the UK. Around the same fortnight the list includes five orange objects and an orange “blob” over Middleton/Ilkley, orange lights over Inverness, and an orange ball over Yeovil. That clustering does not make the Bedfordshire report false, but it makes a local exotic explanation less necessary. The same kind of visual stimulus was being reported in multiple counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The same 2008 page places the Shortstown/Bedford report among a run of other orange-light reports across the UK. Around the same fortnight the list includes five orange objects and an orange “blob” over Middleton/Ilkley, orange lights over Inverness, and an orange ball over Yeovil. That clustering does not make the Bedfordshire report false, but it makes a local exotic explanation less necessary. The same kind of visual stimulus was being reported in multiple counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-A second Bedfordshire entry on 28 June 2008 records seven strange lights moving from north to south at Bedford/Arlesey. The entry does not call them orange, but it belongs to the same late-June run of multiple-light reports. It is useful because it shows the Bedford area was generating “lights in the sky” reports in more than one form during the period, while also showing the limits of the data: the description is too short to distinguish aircraft, lanterns, satellites or something genuinely puzzling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+A second Bedfordshire entry on 28 June 2008 records seven strange lights moving from north to south at Bedford/Arlesey. The entry does not call them orange, but it belongs to the same late-June run of multiple-light reports. It is useful because it shows the Bedford area was generating “lights in the sky” reports in more than one form during the period, while also showing the limits of the data: the description is too short to distinguish aircraft, lanterns, satellites or something genuinely puzzling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The 2009 list strengthens the sense of a Bedford orange-light pattern. On 22 February 2009 at 19:30, Bedford produced a report of a sizeable, silent, flickering orange light. The witness found it difficult to judge height and speed, but thought it was slower than a meteor and faster than the negligible wind. On 31 July 2009 at 21:30, another Bedford entry described a bright orange object seen while the witness was getting a cat off a wall; it was said to be higher than eye level, not plane shaped and without engine noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 list strengthens the sense of a Bedford orange-light pattern. On 22 February 2009 at 19:30, Bedford produced a report of a sizeable, silent, flickering orange light. The witness found it difficult to judge height and speed, but thought it was slower than a meteor and faster than the negligible wind. On 31 July 2009 at 21:30, another Bedford entry described a bright orange object seen while the witness was getting a cat off a wall; it was said to be higher than eye level, not plane shaped and without engine noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Those two 2009 entries are valuable because they capture the exact ambiguity that made orange lights such a UFO problem in Britain. The details feel vivid to a witness — silence, brightness, orange colour, lack of obvious aircraft shape — but they are not enough to rule out common causes. The February sighting explicitly includes uncertainty about height and speed, which is one of the core traps in night-sky observation. A small nearby lantern can appear like a larger distant object; a distant aircraft can seem oddly slow or stationary; and an object drifting in the wind may appear to move under control if the observer has no reliable distance cue.
 
@@ -281,23 +281,23 @@ Those two 2009 entries are valuable because they capture the exact ambiguity tha
 <img src="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-Illustration-1-dark.svg" | relative_url }}" alt="Orange Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lanterns, aircraft, meteors and speed mistakes
 
-The most obvious sceptical explanation for many late-2000s orange-light reports is the sky lantern. A lantern is essentially a small hot-air balloon powered by a naked flame, and its visual signature can be exactly what witnesses later describe as a silent orange orb, flame-like glow or drifting light. The Civil Aviation Authority’s CAP 736 guidance says sky lanterns vary in performance, can travel considerable distances at unpredictable heights on prevailing winds, and may present aviation risks through engine ingestion or debris. The same guidance says releases of more than ten lanterns should involve contact with the CAA, and even smaller releases near an airfield should involve the relevant air traffic control organisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAACAP 736</span><span class="citation-popover-snippet">CAACAP 736</span></span></span>
+The most obvious sceptical explanation for many late-2000s orange-light reports is the sky lantern. A lantern is essentially a small hot-air balloon powered by a naked flame, and its visual signature can be exactly what witnesses later describe as a silent orange orb, flame-like glow or drifting light. The Civil Aviation Authority’s CAP 736 guidance says sky lanterns vary in performance, can travel considerable distances at unpredictable heights on prevailing winds, and may present aviation risks through engine ingestion or debris. The same guidance says releases of more than ten lanterns should involve contact with the CAA, and even smaller releases near an airfield should involve the relevant air traffic control organisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAACAP 736</span><span class="citation-popover-snippet">CAACAP 736</span></span></span>
 
 That does not mean every Bedford or Shortstown orange light was a lantern. The 10 June 2008 Shortstown/Bedford description lasted more than two hours and included four flashing lights, which does not fit a single ordinary lantern cleanly. However, the report may describe repeated appearances, a changing group of lights, an object with an assumed shape, or a witness interpretation of lights against the night sky. Without the original witness statement, it is impossible to know whether “saucer shaped” refers to a visible solid outline or to a mental impression created by the arrangement of lights.
 
-Aircraft remain the other major candidate. Bedfordshire has a busy aviation environment, and Luton’s own public material confirms night operations and the existence of track variation. Aircraft lights can look orange or amber through haze, low cloud, distance and atmospheric scattering. They can also appear silent at range, especially if the wind carries engine noise away or if the observer is in a built-up area with masking background sound. A slow approach, turn, holding pattern or receding aircraft can create the impression of hovering or sudden fading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span><span class="citation-popover-snippet">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span></span></span>
+Aircraft remain the other major candidate. Bedfordshire has a busy aviation environment, and Luton’s own public material confirms night operations and the existence of track variation. Aircraft lights can look orange or amber through haze, low cloud, distance and atmospheric scattering. They can also appear silent at range, especially if the wind carries engine noise away or if the observer is in a built-up area with masking background sound. A slow approach, turn, holding pattern or receding aircraft can create the impression of hovering or sudden fading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span><span class="citation-popover-snippet">London Luton Airport Frequently Asked Questions &#124; Noise &#124; London Luton Airport</span></span></span>
 
-Meteors are a weaker fit for the longer Bedfordshire cases but still relevant to orange-light reports more generally. The American Meteor Society defines a fireball as a very bright meteor, and asks observers to record brightness, colour, duration and start and end points because those details are essential for reconstruction. The UK Meteor Network now operates more than 200 video cameras across the UK, Ireland and western Europe, showing the sort of evidence that can turn a dramatic sky report into a checkable astronomical event. A meteor usually lasts seconds, not minutes or hours, so it would not explain the Shortstown report as described; it could, however, explain brief orange fireball impressions in other cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor Society Fireball FAQs</span></span></span>
+Meteors are a weaker fit for the longer Bedfordshire cases but still relevant to orange-light reports more generally. The American Meteor Society defines a fireball as a very bright meteor, and asks observers to record brightness, colour, duration and start and end points because those details are essential for reconstruction. The UK Meteor Network now operates more than 200 video cameras across the UK, Ireland and western Europe, showing the sort of evidence that can turn a dramatic sky report into a checkable astronomical event. A meteor usually lasts seconds, not minutes or hours, so it would not explain the Shortstown report as described; it could, however, explain brief orange fireball impressions in other cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor Society Fireball FAQs</span></span></span>
 
 The hardest problem is speed judgement. A witness who does not know an object’s distance cannot reliably know its size or speed. A lantern close to the observer may look large and fast; a plane far away may look slow and strangely steady; a fireball may seem lower than it is; a light disappearing behind cloud may be interpreted as “switching off”. The Bedford entries repeatedly use words such as “silent”, “bright”, “not plane shaped” and “difficult to judge”, which are exactly the phrases that make a report interesting but not decisive.
 
 ## What the MoD records do and do not prove
 
-The MoD sighting lists are the strongest documentary anchor for the Bedford and Shortstown orange-light cases. GOV.UK describes the released documents as UFO reports from 1997 to 2009, showing dates and times, locations and brief descriptions. That is useful because the entries are not merely modern retellings: they are part of the official public release of reports that reached the Ministry of Defence system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD sighting lists are the strongest documentary anchor for the Bedford and Shortstown orange-light cases. GOV.UK describes the released documents as UFO reports from 1997 to 2009, showing dates and times, locations and brief descriptions. That is useful because the entries are not merely modern retellings: they are part of the official public release of reports that reached the Ministry of Defence system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-But the lists are not case files in the investigative sense. They are summary tables. They do not show whether a witness was interviewed at length, whether a second witness independently confirmed the sighting, whether radar or flight data were checked, or whether an explanation was reached. The National Archives notes that later MoD files usually contain one-off sightings and that most reports refer to lights rather than actual ships or craft; it also gives ordinary explanations such as Venus, high-altitude aircraft, weather balloons and satellites as examples found in the files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+But the lists are not case files in the investigative sense. They are summary tables. They do not show whether a witness was interviewed at length, whether a second witness independently confirmed the sighting, whether radar or flight data were checked, or whether an explanation was reached. The National Archives notes that later MoD files usually contain one-off sightings and that most reports refer to lights rather than actual ships or craft; it also gives ordinary explanations such as Venus, high-altitude aircraft, weather balloons and satellites as examples found in the files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The timing is important. The final MoD UFO file release covered mainly 2008–2009, and Dr David Clarke’s National Archives transcript says the Ministry closed its UFO desk and hotline in November 2009, ending almost 60 years of collecting and sometimes investigating reports. The same transcript says 2009 produced 643 separate sightings up to closure, a record number for the MoD, with reports trebling from 2008 and placing strain on the resources assigned to the subject. That national surge helps explain why Bedfordshire orange-light entries should be treated as part of a wave, not as isolated proof of a county-specific mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
+The timing is important. The final MoD UFO file release covered mainly 2008–2009, and Dr David Clarke’s National Archives transcript says the Ministry closed its UFO desk and hotline in November 2009, ending almost 60 years of collecting and sometimes investigating reports. The same transcript says 2009 produced 643 separate sightings up to closure, a record number for the MoD, with reports trebling from 2008 and placing strain on the resources assigned to the subject. That national surge helps explain why Bedfordshire orange-light entries should be treated as part of a wave, not as isolated proof of a county-specific mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
 
 The MoD record therefore supports a careful middle position. Something was reported. The reports were sufficiently formal to enter the public MoD lists. The descriptions are consistent with a wider national burst of orange-light sightings. Yet the evidence released for Bedford and Shortstown is not strong enough to identify an unknown craft, exclude ordinary explanations, or say that one phenomenon caused all the entries.
 
@@ -311,9 +311,9 @@ The most useful supporting material would be:
 
 * **Independent witnesses from separated locations.** Two people standing together can share the same mistake. Reports from different parts of Bedford, Shortstown, Cardington or nearby villages, each giving matching directions and times, would allow rough triangulation.
 * **Original photographs or video with metadata.** A phone clip without time, location, lens information or reference points is often less helpful than it looks. A steady video showing rooftops, horizon, stars or aircraft for comparison is far more valuable.
-* **Flight-track checks.** For Bedfordshire, Luton traffic and wider London airspace must be checked before an orange light is treated as anomalous. Luton’s public TraVis flight-tracking system is specifically presented as a way for residents to identify aircraft when making a noise complaint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/making-a-noise-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Community &#124; Noise Complaint &#124; London Luton Airport</span><span class="citation-popover-snippet">London Luton Airport Community &#124; Noise Complaint &#124; London Luton Airport</span></span></span>
+* **Flight-track checks.** For Bedfordshire, Luton traffic and wider London airspace must be checked before an orange light is treated as anomalous. Luton’s public TraVis flight-tracking system is specifically presented as a way for residents to identify aircraft when making a noise complaint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/making-a-noise-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Community &#124; Noise Complaint &#124; London Luton Airport</span><span class="citation-popover-snippet">London Luton Airport Community &#124; Noise Complaint &#124; London Luton Airport</span></span></span>
 * **Weather and wind records.** Lanterns drift with the wind, though witnesses may misread that movement if they do not know the wind direction at height. A report claiming movement against the wind is more interesting, but only if the relevant wind data are known.
-* **Astronomical checks.** Fireballs, bright planets, satellites and re-entries can all produce surprising reports. For meteor-like events, modern camera networks and grouped reports can help reconstruct a trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukmeteornetwork.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmeteornetwork.org">[The UK Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmeteornetwork.org</span><span class="citation-popover-snippet">Open source on ukmeteornetwork.org.</span></span></span>
+* **Astronomical checks.** Fireballs, bright planets, satellites and re-entries can all produce surprising reports. For meteor-like events, modern camera networks and grouped reports can help reconstruct a trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukmeteornetwork.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmeteornetwork.org">[The UK Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmeteornetwork.org</span><span class="citation-popover-snippet">Open source on ukmeteornetwork.org.</span></span></span>
 
 The Bedford and Shortstown cases do not appear, from the public evidence, to meet that higher standard. Their value lies less in proving a single extraordinary event and more in showing how a county-level UFO pattern is built: short reports, repeated motifs, local aviation context, witness confidence, and unresolved gaps.
 
@@ -321,201 +321,201 @@ The Bedford and Shortstown cases do not appear, from the public evidence, to mee
 <img src="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-Illustration-3-dark.svg" | relative_url }}" alt="Orange Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bedfordshire_5c5bc3_orange_lights_bedfor_72212f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Bedfordshire pattern should be read
 
-The late-2000s orange lights over Bedford and Shortstown are best classified as a recurring, weak-to-moderate evidence cluster rather than a solved case or a major unsolved incident. The reports are real as reports: they appear in official MoD lists, include specific dates and places, and match a broader UK pattern of orange-light sightings. They are also genuinely interesting locally because Shortstown and Cardington sit in a landscape already tied to airships, balloons and RAF history. Bedfordshire Archives+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The late-2000s orange lights over Bedford and Shortstown are best classified as a recurring, weak-to-moderate evidence cluster rather than a solved case or a major unsolved incident. The reports are real as reports: they appear in official MoD lists, include specific dates and places, and match a broader UK pattern of orange-light sightings. They are also genuinely interesting locally because Shortstown and Cardington sit in a landscape already tied to airships, balloons and RAF history. Bedfordshire Archives+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The doubts are equally important. The descriptions are brief. The entries do not provide enough technical detail to test the sightings properly. The visual features — orange colour, silence, floating or gliding movement, fading, uncertain speed — overlap strongly with lanterns, aircraft and other ordinary night-sky stimuli. The 2009 national spike in reports also suggests a reporting fashion or shared misidentification problem may have been operating alongside whatever people actually saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
+The doubts are equally important. The descriptions are brief. The entries do not provide enough technical detail to test the sightings properly. The visual features — orange colour, silence, floating or gliding movement, fading, uncertain speed — overlap strongly with lanterns, aircraft and other ordinary night-sky stimuli. The 2009 national spike in reports also suggests a reporting fashion or shared misidentification problem may have been operating alongside whatever people actually saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
 
 For Bedfordshire’s UFO history, that makes the orange lights more revealing than spectacular. They show how modern UFO puzzles often arise not from close encounters with detailed craft, but from ambiguous lights seen in a busy sky, filtered through local aviation memory and recorded in official systems too briefly to settle the matter. The result is not a dramatic certainty, but a useful county-level lesson: Bedfordshire’s orange lights deserve attention, but they also demand restraint.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Were Orange Lights Reported Over Bedford?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Were Orange Lights Reported Over Bedford?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page assessing reported orange-light sightings by comparing witness reports with investigated UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page assessing reported orange-light sightings by comparing witness reports with investigated UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains sighting categories, witness evaluation and the distinction between unexplained and misidentified aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sighting categories, witness evaluation and the distinction between unexplained and misidentified aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides current context for how unusual aerial-light reports are investigated and discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides current context for how unusual aerial-light reports are investigated and discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding recurring light-in-the-sky reports and broader cultural interpretations of unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding recurring light-in-the-sky reports and broader cultural interpretations of unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/862b7c4711fe1b753759.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/862b7c4711fe1b753759.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="orange-lights-why-were-orange-lights-reported-over-bedford-bedfordshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ For Bedfordshire’s UFO history, that makes the orange lights more revealing th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ For Bedfordshire’s UFO history, that makes the orange lights more revealing th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ For Bedfordshire’s UFO history, that makes the orange lights more revealing th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ For Bedfordshire’s UFO history, that makes the orange lights more revealing th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ For Bedfordshire’s UFO history, that makes the orange lights more revealing th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,206 +721,206 @@ For Bedfordshire’s UFO history, that makes the orange lights more revealing th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bedsarchives.bedford.gov.uk  
    Title: Bedfordshire Archives  
-   Link: <a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/TheRoyalAirshipWorksShortstown.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/TheRoyalAirshipWorksShortstown.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hosted By Bedford Borough Council: The Royal Airship Works Shortstown...</p></details>
+   Link:<a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/TheRoyalAirshipWorksShortstown.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/TheRoyalAirshipWorksShortstown.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hosted By Bedford Borough Council: The Royal Airship Works Shortstown...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bedsarchives.bedford.gov.uk  
    Title: Bedfordshire Archives  
-   Link: <a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/RAFCardington.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/RAFCardington.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hosted By Bedford Borough Council: RAF Cardington...</p></details>
+   Link:<a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/RAFCardington.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/RAFCardington.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hosted By Bedford Borough Council: RAF Cardington...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bedsarchives.bedford.gov.uk  
    Title: bedford.gov.uk Timeline of Events in Shortstown  
-   Link: <a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/Timeline-of-Events-in-Shortstown.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/Timeline-of-Events-in-Shortstown.aspx</a>  
+   Link:<a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/Timeline-of-Events-in-Shortstown.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/Timeline-of-Events-in-Shortstown.aspx</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bedsarchives.bedford.gov.uk  
    Title: bedford.gov.uk Shortstown Index of Pages  
-   Link: <a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/ShortstownIndexOfPages.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/ShortstownIndexOfPages.aspx</a>  
+   Link:<a href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/ShortstownIndexOfPages.aspx" target="_blank" rel="noopener noreferrer nofollow">https://bedsarchives.bedford.gov.uk/CommunityHistories/Shortstown/ShortstownIndexOfPages.aspx</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/74340/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74340/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/74340/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74340/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shortstown.org  
-   Link: <a href="https://shortstown.org/history/" target="_blank" rel="noopener noreferrer nofollow">https://shortstown.org/history/</a>  
+   Link:<a href="https://shortstown.org/history/" target="_blank" rel="noopener noreferrer nofollow">https://shortstown.org/history/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stroud.gov.uk  
-   Link: <a href="https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/</a>  
+   Link:<a href="https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: TR020001 003531 Mr B. Strutt  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020001-003531-Mr%20B.%20Strutt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020001-003531-Mr%20B.%20Strutt.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020001-003531-Mr%20B.%20Strutt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020001-003531-Mr%20B.%20Strutt.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: london-luton.co.uk  
    Title: London Luton Airport Frequently Asked Questions | Noise | London Luton Airport  
-   Link: <a href="https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions</a>  
+   Link:<a href="https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/frequently-asked-questions</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.co.uk  
    Title: CAACAP 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amsmeteors.org  
    Title: American Meteor Society Fireball FAQs  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ukmeteornetwork.org  
-   Link: <a href="https://ukmeteornetwork.org/" target="_blank" rel="noopener noreferrer nofollow">https://ukmeteornetwork.org/</a>  
+   Link:<a href="https://ukmeteornetwork.org/" target="_blank" rel="noopener noreferrer nofollow">https://ukmeteornetwork.org/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: london-luton.co.uk  
    Title: London Luton Airport Community | Noise Complaint | London Luton Airport  
-   Link: <a href="https://www.london-luton.co.uk/corporate/community/noise/making-a-noise-complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/making-a-noise-complaint</a>  
+   Link:<a href="https://www.london-luton.co.uk/corporate/community/noise/making-a-noise-complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/making-a-noise-complaint</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: london-luton.co.uk  
-   Link: <a href="https://www.london-luton.co.uk/corporate/community/noise/night-noise-disturbance" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/night-noise-disturbance</a>  
+   Link:<a href="https://www.london-luton.co.uk/corporate/community/noise/night-noise-disturbance" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/night-noise-disturbance</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: london-luton.co.uk  
-   Link: <a href="https://www.london-luton.co.uk/corporate/community/noise/departure-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/departure-noise</a>  
+   Link:<a href="https://www.london-luton.co.uk/corporate/community/noise/departure-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/corporate/community/noise/departure-noise</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: london-luton.co.uk  
-   Link: <a href="https://www.london-luton.co.uk/departures" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/departures</a>  
+   Link:<a href="https://www.london-luton.co.uk/departures" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/departures</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
    Title: luton april 2026  
-   Link: <a href="https://www.caa.co.uk/media/axyjse1v/luton-april-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/axyjse1v/luton-april-2026.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/axyjse1v/luton-april-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/axyjse1v/luton-april-2026.pdf</a>  
    Published: april 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/37027" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/37027</a>  
+   Link:<a href="https://encyclopedia.pub/entry/37027" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/37027</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: uk.forceswarrecords.com  
    Title: raf cardington  
-   Link: <a href="https://uk.forceswarrecords.com/unit/131552/raf-cardington" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/unit/131552/raf-cardington</a>  
+   Link:<a href="https://uk.forceswarrecords.com/unit/131552/raf-cardington" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/unit/131552/raf-cardington</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/</a>  
+   Link:<a href="https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/</a>  
+   Link:<a href="https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/</a>  
+   Link:<a href="https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ladacan.org  
-   Link: <a href="https://ladacan.org/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/aircraft-noise/</a>  
+   Link:<a href="https://ladacan.org/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/aircraft-noise/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WeLoveTheCardingtonShedshangarsFansPage/posts/airship-r101-in-shed-1-cardington/754646940033184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeLoveTheCardingtonShedshangarsFansPage/posts/airship-r101-in-shed-1-cardington/754646940033184/</a>  
+   Link:<a href="https://www.facebook.com/WeLoveTheCardingtonShedshangarsFansPage/posts/airship-r101-in-shed-1-cardington/754646940033184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeLoveTheCardingtonShedshangarsFansPage/posts/airship-r101-in-shed-1-cardington/754646940033184/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cprebeds.org.uk  
-   Link: <a href="https://www.cprebeds.org.uk/wp-content/uploads/sites/13/2021/01/LLA-flightpath-consultation-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cprebeds.org.uk/wp-content/uploads/sites/13/2021/01/LLA-flightpath-consultation-v2.pdf</a>  
+   Link:<a href="https://www.cprebeds.org.uk/wp-content/uploads/sites/13/2021/01/LLA-flightpath-consultation-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cprebeds.org.uk/wp-content/uploads/sites/13/2021/01/LLA-flightpath-consultation-v2.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMQAYnFPs2n/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMQAYnFPs2n/</a>  
+   Link:<a href="https://www.instagram.com/reel/DMQAYnFPs2n/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMQAYnFPs2n/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: airshipsonline.com  
-   Link: <a href="https://airshipsonline.com/sheds/cardington/" target="_blank" rel="noopener noreferrer nofollow">https://airshipsonline.com/sheds/cardington/</a>  
+   Link:<a href="https://airshipsonline.com/sheds/cardington/" target="_blank" rel="noopener noreferrer nofollow">https://airshipsonline.com/sheds/cardington/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: historicengland.org.uk  
-   Link: <a href="https://historicengland.org.uk/listing/the-list/list-entry/1114165" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1114165</a>  
+   Link:<a href="https://historicengland.org.uk/listing/the-list/list-entry/1114165" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1114165</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BedfordCreativeArts/videos/airship-dreams-an-introduction-to-bedfords-airship-history/293166035363136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BedfordCreativeArts/videos/airship-dreams-an-introduction-to-bedfords-airship-history/293166035363136/</a>  
+   Link:<a href="https://www.facebook.com/BedfordCreativeArts/videos/airship-dreams-an-introduction-to-bedfords-airship-history/293166035363136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BedfordCreativeArts/videos/airship-dreams-an-introduction-to-bedfords-airship-history/293166035363136/</a>  

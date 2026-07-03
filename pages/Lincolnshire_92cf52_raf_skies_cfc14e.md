@@ -256,11 +256,11 @@ image: /assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-overview-social.jpg
 
 Lincolnshire has a long RAF identity, but for UFO interpretation the important point is practical rather than nostalgic. The county has operational bases, training routes, airfield traffic zones, night flying, aircraft on approach, historic display flying, aviation enthusiasts, and residents used to hearing and seeing aircraft at odd hours. That makes some reports easier to explain, but it also makes witnesses more likely to notice when something seems unlike normal local flying.
 
-RAF Coningsby is the clearest example. The RAF describes it as one of the UK’s two Quick Reaction Alert stations protecting national airspace, alongside RAF Lossiemouth, and as the training station for Typhoon pilots. It is home to frontline combat-ready squadrons and has almost 3,000 service personnel, civil servants and contractors on site. For nearby villages and towns, that means fast-jet activity is not exceptional background noise; it is part of the local sky environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+RAF Coningsby is the clearest example. The RAF describes it as one of the UK’s two Quick Reaction Alert stations protecting national airspace, alongside RAF Lossiemouth, and as the training station for Typhoon pilots. It is home to frontline combat-ready squadrons and has almost 3,000 service personnel, civil servants and contractors on site. For nearby villages and towns, that means fast-jet activity is not exceptional background noise; it is part of the local sky environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-RAF Waddington adds a different kind of complexity. The RAF describes Waddington, south of Lincoln, as one of its busiest stations and the hub of UK Intelligence, Surveillance, Target Acquisition and Reconnaissance, known as ISTAR. It is the main operating base for airborne intelligence aircraft and systems, so a witness may be seeing not only fast aircraft but also slower, mission-specific aircraft with lighting patterns and flight profiles unfamiliar to casual observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+RAF Waddington adds a different kind of complexity. The RAF describes Waddington, south of Lincoln, as one of its busiest stations and the hub of UK Intelligence, Surveillance, Target Acquisition and Reconnaissance, known as ISTAR. It is the main operating base for airborne intelligence aircraft and systems, so a witness may be seeing not only fast aircraft but also slower, mission-specific aircraft with lighting patterns and flight profiles unfamiliar to casual observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-RAF Scampton matters historically, even though its operational role has changed. The RAF reported in October 2022 that Scampton was closing and that the Red Arrows had relocated to nearby RAF Waddington, with the final Red Arrows jet leaving Scampton after engineering work. For UFO history, Scampton’s significance is not that it explains every sighting near Lincoln, but that it helped make the area north of Lincoln a place where unusual formations, display practice, visiting aircraft and airfield-related lights were part of ordinary local experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">final flight of red arrows jet from raf scampton</span><span class="citation-popover-snippet">final flight of red arrows jet from raf scampton</span></span></span>
+RAF Scampton matters historically, even though its operational role has changed. The RAF reported in October 2022 that Scampton was closing and that the Red Arrows had relocated to nearby RAF Waddington, with the final Red Arrows jet leaving Scampton after engineering work. For UFO history, Scampton’s significance is not that it explains every sighting near Lincoln, but that it helped make the area north of Lincoln a place where unusual formations, display practice, visiting aircraft and airfield-related lights were part of ordinary local experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">final flight of red arrows jet from raf scampton</span><span class="citation-popover-snippet">final flight of red arrows jet from raf scampton</span></span></span>
 
 
 <img src="{{ "/assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-Illustration-1-dark.svg" | relative_url }}" alt="RAF Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -268,11 +268,11 @@ RAF Scampton matters historically, even though its operational role has changed.
 
 The three names often get treated as a single “RAF Lincolnshire” backdrop, but each changes the evidence in a different way.
 
-**Coningsby** is most relevant to reports involving speed, acceleration, noise, sudden climbs, afterburner brightness, pairs of lights, or late launches. Quick Reaction Alert aircraft may be scrambled to intercept aircraft that cannot be identified or are not communicating with air traffic control. In March 2023, for example, the Ministry of Defence confirmed that Typhoons from RAF Coningsby were authorised to fly supersonic while assisting a civilian aircraft that had lost communications; the resulting sonic boom led to public concern across parts of England. That incident was not a UFO case, but it shows how a real air-defence response can produce dramatic effects that people on the ground experience as unexplained noise or sudden aircraft activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2023/mar/04/large-explosion-sound-heard-leicester-oxford-northampton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+**Coningsby** is most relevant to reports involving speed, acceleration, noise, sudden climbs, afterburner brightness, pairs of lights, or late launches. Quick Reaction Alert aircraft may be scrambled to intercept aircraft that cannot be identified or are not communicating with air traffic control. In March 2023, for example, the Ministry of Defence confirmed that Typhoons from RAF Coningsby were authorised to fly supersonic while assisting a civilian aircraft that had lost communications; the resulting sonic boom led to public concern across parts of England. That incident was not a UFO case, but it shows how a real air-defence response can produce dramatic effects that people on the ground experience as unexplained noise or sudden aircraft activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2023/mar/04/large-explosion-sound-heard-leicester-oxford-northampton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-**Waddington** is more important for slow or persistent sightings around Lincoln, especially when the report involves aircraft-like lights that do not behave like a passenger jet on a familiar route. ISTAR aircraft may be associated in the public mind with secrecy or surveillance, which can make ordinary military movements feel more mysterious. The evidence still has to be judged carefully: a witness saying “it was near Waddington” does not prove it was military, but it does make airfield traffic, training and support aircraft a first-line explanation rather than an afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+**Waddington** is more important for slow or persistent sightings around Lincoln, especially when the report involves aircraft-like lights that do not behave like a passenger jet on a familiar route. ISTAR aircraft may be associated in the public mind with secrecy or surveillance, which can make ordinary military movements feel more mysterious. The evidence still has to be judged carefully: a witness saying “it was near Waddington” does not prove it was military, but it does make airfield traffic, training and support aircraft a first-line explanation rather than an afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-**Scampton** is the cautionary case. It is tempting to use its fame — the Red Arrows, the Dambusters association, the old airfield — as a catch-all explanation for anything north of Lincoln. That goes too far. A formation of red aircraft by day, a display practice, or known RAF Aerobatic Team activity may explain some reports; it does not automatically explain a night-time light seen from a different direction, a radar contact, or a report made years after a particular unit moved. The base’s closure and the move of the Red Arrows to Waddington are reminders that Lincolnshire’s aviation map changes over time, so UFO explanations must match the date of the sighting, not just the county’s general RAF reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">final flight of red arrows jet from raf scampton</span><span class="citation-popover-snippet">final flight of red arrows jet from raf scampton</span></span></span>
+**Scampton** is the cautionary case. It is tempting to use its fame — the Red Arrows, the Dambusters association, the old airfield — as a catch-all explanation for anything north of Lincoln. That goes too far. A formation of red aircraft by day, a display practice, or known RAF Aerobatic Team activity may explain some reports; it does not automatically explain a night-time light seen from a different direction, a radar contact, or a report made years after a particular unit moved. The base’s closure and the move of the Red Arrows to Waddington are reminders that Lincolnshire’s aviation map changes over time, so UFO explanations must match the date of the sighting, not just the county’s general RAF reputation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">final flight of red arrows jet from raf scampton</span><span class="citation-popover-snippet">final flight of red arrows jet from raf scampton</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0dMlej9QJg" title="UFO file release June 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer">UFO file release June 2013</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 120.0K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0dMlej9QJg">Open on YouTube</a></p></div></div></div>
@@ -281,9 +281,9 @@ The three names often get treated as a single “RAF Lincolnshire” backdrop, b
 
 Many Lincolnshire UFO reports describe lights rather than structured craft. That matters because lights are exactly where aviation explanations are strongest and weakest. They are strong because aircraft lights are designed to be conspicuous. They are weak because a bright light in a dark sky can be very hard to judge for distance, size, height or speed, especially over flat country.
 
-The Civil Aviation Authority’s retained rules on aircraft lighting state that, at night, aircraft in flight must display anti-collision lights intended to attract attention and navigation lights intended to show the aircraft’s relative path to an observer. In plain terms, aircraft are meant to look noticeable. Red, green, white, flashing and steady lights can combine with angle, cloud, haze and distance to create impressions of hovering, turning, formation movement or sudden disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+The Civil Aviation Authority’s retained rules on aircraft lighting state that, at night, aircraft in flight must display anti-collision lights intended to attract attention and navigation lights intended to show the aircraft’s relative path to an observer. In plain terms, aircraft are meant to look noticeable. Red, green, white, flashing and steady lights can combine with angle, cloud, haze and distance to create impressions of hovering, turning, formation movement or sudden disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-RAF Coningsby’s own flying information is especially relevant to night reports. The station says night flying can take place from 30 minutes after sunset to 30 minutes before sunrise, is used for operations and aircrew training, and usually takes place from Monday to Thursday. It also notes that low flying is an essential skill for aircrew and must be practised for current operations. A witness who sees a light moving low and fast across rural Lincolnshire may be describing something genuinely startling without it being exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+RAF Coningsby’s own flying information is especially relevant to night reports. The station says night flying can take place from 30 minutes after sunset to 30 minutes before sunrise, is used for operations and aircrew training, and usually takes place from Monday to Thursday. It also notes that low flying is an essential skill for aircrew and must be practised for current operations. A witness who sees a light moving low and fast across rural Lincolnshire may be describing something genuinely startling without it being exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 Approach and departure patterns can be just as misleading as high-speed flying. Aircraft heading towards an observer can appear almost stationary for longer than expected, with landing lights brightening as the angle changes. A turn can make one light seem to split into several, or several lights seem to merge into one. Over the Fens, the Wolds and the coastal plain, the lack of nearby reference points can exaggerate this effect. The result is a classic Lincolnshire problem: the same open skies that make sightings easy to notice also make them harder to measure.
 
@@ -291,13 +291,13 @@ Approach and departure patterns can be just as misleading as high-speed flying. 
 <img src="{{ "/assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-Illustration-2-dark.svg" | relative_url }}" alt="RAF Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lincolnshire_92cf52_raf_skies_cfc14e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official UFO records actually add
 
-The Ministry of Defence UFO reports are useful, but they are not a complete investigative archive in the sense many readers imagine. GOV.UK hosts annual UFO report lists for 1997 to 2009, giving dates, times, locations and brief descriptions. These entries are often short and descriptive rather than fully investigated case files, so they are best read as a record of what was reported, not as a verdict that the object was extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Ministry of Defence UFO reports are useful, but they are not a complete investigative archive in the sense many readers imagine. GOV.UK hosts annual UFO report lists for 1997 to 2009, giving dates, times, locations and brief descriptions. These entries are often short and descriptive rather than fully investigated case files, so they are best read as a record of what was reported, not as a verdict that the object was extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-One Lincolnshire-related example shows the value and limits of RAF context. A Guardian datablog entry drawn from released UFO files records that on 5 January 1996 a member of the public called RAF Waddington to report a white light seen from Newark with night-vision goggles. The same entry says air traffic radar later saw contacts that were decided to have been caused by atmospheric conditions, with nothing of defence concern. This is exactly the kind of case that matters for Lincolnshire: it involves an RAF station, a witness using enhanced viewing equipment, radar, and an official judgement that reduced rather than increased the mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News</span></span></span>
+One Lincolnshire-related example shows the value and limits of RAF context. A Guardian datablog entry drawn from released UFO files records that on 5 January 1996 a member of the public called RAF Waddington to report a white light seen from Newark with night-vision goggles. The same entry says air traffic radar later saw contacts that were decided to have been caused by atmospheric conditions, with nothing of defence concern. This is exactly the kind of case that matters for Lincolnshire: it involves an RAF station, a witness using enhanced viewing equipment, radar, and an official judgement that reduced rather than increased the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News</span></span></span>
 
 That does not mean all such reports are worthless. A short report can still preserve useful facts: the time, direction, colour, duration, number of witnesses and whether any aircraft or radar checks were made. But the shortness of many entries means later writers can easily overstate them. “Reported near RAF Waddington” is not the same as “tracked by RAF Waddington as an unknown craft”, and “nothing of defence concern” is not the same as “fully explained in every detail”.
 
-The closure of the MoD’s UFO work also shapes how modern Lincolnshire cases should be read. In a 2024 parliamentary written answer, the government stated that the MoD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had no current plan to create a dedicated team for alleged sightings. That means post-2009 Lincolnshire reports are less likely to have a central official file trail unless they involved air safety, police, airports, drones, or other specific reporting channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The closure of the MoD’s UFO work also shapes how modern Lincolnshire cases should be read. In a 2024 parliamentary written answer, the government stated that the MoD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had no current plan to create a dedicated team for alleged sightings. That means post-2009 Lincolnshire reports are less likely to have a central official file trail unless they involved air safety, police, airports, drones, or other specific reporting channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fg5dAfsVfqA" title="The Vanishing of William Schaffner. A UFO Mystery. Filey. 1970" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fg5dAfsVfqA" target="_blank" rel="noopener noreferrer">The Vanishing of William Schaffner. A UFO Mystery. Filey. 1970</a></p><p class="youtube-embed-meta">Channel: The Dark Side of the Moor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fg5dAfsVfqA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fg5dAfsVfqA">Open on YouTube</a></p></div></div></div>
@@ -336,194 +336,194 @@ Lincolnshire’s UFO history is distinctive because aviation is not a side note.
 The best reading is balanced. RAF activity explains many lights, noises, formations and sudden aircraft movements in the county, especially near bases and during night flying. It also raises the standard for sceptical explanations: if a report is detailed enough to be tested, the explanation should be detailed enough to match it. In Lincolnshire, “RAF skies” are not the end of the UFO question. They are the first serious test any good answer has to pass.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How RAF Skies Shape Lincolnshire UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How RAF Skies Shape Lincolnshire UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly connects UFO reports with aviation, radar, military operations and witness evaluation—central themes for RAF-related sightings i...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO reports with aviation, radar, military operations and witness evaluation—central themes for RAF-related sightings i...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explores how official investigations handle sightings, offering useful background for interpreting reports near RAF bases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how official investigations handle sightings, offering useful background for interpreting reports near RAF bases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides UK-focused context for assessing UFO reports around military airspace, making it highly relevant to RAF-heavy Lincolnshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides UK-focused context for assessing UFO reports around military airspace, making it highly relevant to RAF-heavy Lincolnshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+by+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s All the World&#x27;s Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+by+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s All the World&#x27;s Aircraft">Jane&#x27;s All the World&#x27;s Aircraft</a>
-        </h4>
-        <p class="fr-book-author">By Paul Jackson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+by+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s All the World&#x27;s Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+by+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s All the World&#x27;s Aircraft">Jane&#x27;s All the World&#x27;s Aircraft</a>
+</h4>
+<p class="fr-book-author">By Paul Jackson</p>
         
-        <p class="fr-book-desc">Useful for understanding the aircraft types, lighting configurations and flight activity that can influence RAF-related UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+by+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding the aircraft types, lighting configurations and flight activity that can influence RAF-related UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+by+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine RAF Napkin Holder - Stamped Makers Vintage Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6df232edb15a62606815.jpg' | relative_url }}" alt="Listing image for Genuine RAF Napkin Holder - Stamped Makers Vintage Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine RAF Napkin Holder - Stamped Makers Vintage Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine RAF Napkin Holder - Stamped Makers Vintage Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6df232edb15a62606815.jpg' | relative_url }}" alt="Listing image for Genuine RAF Napkin Holder - Stamped Makers Vintage Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine RAF Napkin Holder - Stamped Makers Vintage Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms"><img src="{{ '/assets/images/marketplace-covers/8ac580add95c452e13ac.jpg' | relative_url }}" alt="Listing image for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms"><img src="{{ '/assets/images/marketplace-covers/8ac580add95c452e13ac.jpg' | relative_url }}" alt="Listing image for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Royal Air Force, RAF Medals and Memorabilia Box"><img src="{{ '/assets/images/marketplace-covers/56cd422f7afc124ec64d.jpg' | relative_url }}" alt="Listing image for Personalised Royal Air Force, RAF Medals and Memorabilia Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Personalised Royal Air Force, RAF Medals and Memorabilia Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Royal Air Force, RAF Medals and Memorabilia Box"><img src="{{ '/assets/images/marketplace-covers/56cd422f7afc124ec64d.jpg' | relative_url }}" alt="Listing image for Personalised Royal Air Force, RAF Medals and Memorabilia Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Personalised Royal Air Force, RAF Medals and Memorabilia Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF at War nostalgic memorabilia pack containing interesting replica items"><img src="{{ '/assets/images/marketplace-covers/a47e6114b1a80e58c846.jpg' | relative_url }}" alt="Listing image for RAF at War nostalgic memorabilia pack containing interesting replica items" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF at War nostalgic memorabilia pack containing interesting replica items</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF at War nostalgic memorabilia pack containing interesting replica items"><img src="{{ '/assets/images/marketplace-covers/a47e6114b1a80e58c846.jpg' | relative_url }}" alt="Listing image for RAF at War nostalgic memorabilia pack containing interesting replica items" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF at War nostalgic memorabilia pack containing interesting replica items</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="raf-skies-how-raf-skies-shape-lincolnshire-ufos-lincolnshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The best reading is balanced. RAF activity explains many lights, noises, formati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The best reading is balanced. RAF activity explains many lights, noises, formati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The best reading is balanced. RAF activity explains many lights, noises, formati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The best reading is balanced. RAF activity explains many lights, noises, formati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The best reading is balanced. RAF activity explains many lights, noises, formati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,278 +729,278 @@ The best reading is balanced. RAF activity explains many lights, noises, formati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-waddington/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-waddington/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raf.mod.uk  
    Title: final flight of red arrows jet from raf scampton  
-   Link: <a href="https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/</a>  
+   Link:<a href="https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/display-teams/red-arrows/news/final-flight-of-red-arrows-jet-from-raf-scampton/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
+   Link:<a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/news/articles/guardians-of-the-sky-air-policing/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/guardians-of-the-sky-air-policing/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/guardians-of-the-sky-air-policing/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/guardians-of-the-sky-air-policing/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/what-we-do/our-history/f2s-for-quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/our-history/f2s-for-quick-reaction-alert/</a>  
+   Link:<a href="https://www.raf.mod.uk/what-we-do/our-history/f2s-for-quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/our-history/f2s-for-quick-reaction-alert/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: des.mod.uk  
-   Link: <a href="https://des.mod.uk/who-we-are/locations/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/who-we-are/locations/</a>  
+   Link:<a href="https://des.mod.uk/who-we-are/locations/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/who-we-are/locations/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: raf.mod.uk  
    Title: uk Defence Aerodrome Manual  
-   Link: <a href="https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf</a>  
+   Link:<a href="https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 0467 i  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c9eac40f0b65b3de0a125/0467_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c9eac40f0b65b3de0a125/0467_i.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c9eac40f0b65b3de0a125/0467_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c9eac40f0b65b3de0a125/0467_i.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: n-kesteven.gov.uk  
-   Link: <a href="https://www.n-kesteven.gov.uk/sites/default/files/2023-03/Defence%20Infrastructure%20Organiation%20-%20Matter%2010%2023399745%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.n-kesteven.gov.uk/sites/default/files/2023-03/Defence%20Infrastructure%20Organiation%20-%20Matter%2010%2023399745%20Final.pdf</a>  
+   Link:<a href="https://www.n-kesteven.gov.uk/sites/default/files/2023-03/Defence%20Infrastructure%20Organiation%20-%20Matter%2010%2023399745%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.n-kesteven.gov.uk/sites/default/files/2023-03/Defence%20Infrastructure%20Organiation%20-%20Matter%2010%2023399745%20Final.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C76" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C76</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C76" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C76</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: webarchive.nationalarchives.gov.uk  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121026065214/www.mod.uk/NR/rdonlyres/80BF05BD-926E-40D3-9BD4-750FBF9CF556/0/fs16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121026065214/www.mod.uk/NR/rdonlyres/80BF05BD-926E-40D3-9BD4-750FBF9CF556/0/fs16.pdf</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121026065214/www.mod.uk/NR/rdonlyres/80BF05BD-926E-40D3-9BD4-750FBF9CF556/0/fs16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121026065214/www.mod.uk/NR/rdonlyres/80BF05BD-926E-40D3-9BD4-750FBF9CF556/0/fs16.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm200708/cmselect/cmdfence/295/295.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200708/cmselect/cmdfence/295/295.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm200708/cmselect/cmdfence/295/295.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200708/cmselect/cmdfence/295/295.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: RP08 57  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/RP08-57/RP08-57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/RP08-57/RP08-57.pdf</a>  
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/RP08-57/RP08-57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/RP08-57/RP08-57.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hansard.parliament.uk  
    Title: uk Deployment  
-   Link: <a href="https://hansard.parliament.uk/Commons/2006-10-02/debates/06100324000013/Deployment" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2006-10-02/debates/06100324000013/Deployment</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/2006-10-02/debates/06100324000013/Deployment" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2006-10-02/debates/06100324000013/Deployment</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: RP97 135  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/RP97-135/RP97-135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/RP97-135/RP97-135.pdf</a>  
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/RP97-135/RP97-135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/RP97-135/RP97-135.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: metoffice.gov.uk  
    Title: how to see the perseid meteor shower 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: metoffice.gov.uk  
    Title: how the met office forecasts space weather and why it matters  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/how-the-met-office-forecasts-space-weather-and-why-it-matters" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/how-the-met-office-forecasts-space-weather-and-why-it-matters</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/how-the-met-office-forecasts-space-weather-and-why-it-matters" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/how-the-met-office-forecasts-space-weather-and-why-it-matters</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: GOV.UK  
    Title: rafs quick reaction alert revealed  
-   Link: <a href="https://www.gov.uk/government/news/rafs-quick-reaction-alert-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/rafs-quick-reaction-alert-revealed</a>  
+   Link:<a href="https://www.gov.uk/government/news/rafs-quick-reaction-alert-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/rafs-quick-reaction-alert-revealed</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: GOV.UK  
    Title: raf typhoons scrambled over uk  
-   Link: <a href="https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk</a>  
+   Link:<a href="https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: GOV.UK  
    Title: ministry of defence annual report and accounts 2007 to 2008 2  
-   Link: <a href="https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2007-to-2008--2" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2007-to-2008--2</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2007-to" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2007-to</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: GOV.UK  
    Title: ministry of defence annual report and accounts 2008 to 2009 2  
-   Link: <a href="https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2008-to-2009--2" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2008-to-2009--2</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2008-to" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2008-to</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2023/mar/04/large-explosion-sound-heard-leicester-oxford-northampton" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2023/mar/04/large-explosion-sound-heard-leicester-oxford-northampton</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2023/mar/04/large-explosion-sound-heard-leicester-oxford-northampton" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2023/mar/04/large-explosion-sound-heard-leicester-oxford-northampton</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
    Title: RAF Waddington  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Waddington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Waddington</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Waddington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Waddington</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
    Title: RAF Coningsby  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Coningsby" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Coningsby</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Coningsby" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Coningsby</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: Wikipedia  
    Title: RAF Scampton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Scampton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Scampton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Scampton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Scampton</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: Wikipedia  
    Title: Quick Reaction Alert  
-   Link: <a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: airspacesafety.com  
    Title: Civil Aviation  
-   Link: <a href="https://airspacesafety.com/wp-content/uploads/2020/05/Airspace-infringements-ATZ-brief-May2020-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airspacesafety.com/wp-content/uploads/2020/05/Airspace-infringements-ATZ-brief-May2020-1.pdf</a>  
+   Link:<a href="https://airspacesafety.com/wp-content/uploads/2020/05/Airspace-infringements-ATZ-brief-May2020-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airspacesafety.com/wp-content/uploads/2020/05/Airspace-infringements-ATZ-brief-May2020-1.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fg5dAfsVfqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fg5dAfsVfqA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This US Pilot Chased A UFO His Plane Was Found In The Ocean Sealed Shut But He Vanished...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fg5dAfsVfqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fg5dAfsVfqA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This US Pilot Chased A UFO His Plane Was Found In The Ocean Sealed Shut But He Vanished...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0dMlej9QJg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;William Schaffner&quot; UFO The Vanishing of William Schaffner. A UFO Mystery. Filey. 1970 The Dark Side of the Moor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0dMlej9QJg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;William Schaffner&quot; UFO The Vanishing of William Schaffner. A UFO Mystery. Filey. 1970 The Dark Side of the Moor...</p></details>
    Published: June 2013  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: cfinotebook.net  
-   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
+   Link:<a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUtGhbZD_nk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUtGhbZD_nk/</a>  
+   Link:<a href="https://www.instagram.com/reel/DUtGhbZD_nk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUtGhbZD_nk/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalairforceredarrows/posts/farewell-raf-waddington-the-red-arrows-departed-our-lincolnshire-home-this-morni/1416072617217775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforceredarrows/posts/farewell-raf-waddington-the-red-arrows-departed-our-lincolnshire-home-this-morni/1416072617217775/</a>  
+   Link:<a href="https://www.facebook.com/royalairforceredarrows/posts/farewell-raf-waddington-the-red-arrows-departed-our-lincolnshire-home-this-morni/1416072617217775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforceredarrows/posts/farewell-raf-waddington-the-red-arrows-departed-our-lincolnshire-home-this-morni/1416072617217775/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/smartphoneastro/posts/847051711220886/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/smartphoneastro/posts/847051711220886/</a>  
+   Link:<a href="https://www.facebook.com/groups/smartphoneastro/posts/847051711220886/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/smartphoneastro/posts/847051711220886/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: flybydronetraining.co.uk  
-   Link: <a href="https://www.flybydronetraining.co.uk/news/military-air-traffic-zones" target="_blank" rel="noopener noreferrer nofollow">https://www.flybydronetraining.co.uk/news/military-air-traffic-zones</a>  
+   Link:<a href="https://www.flybydronetraining.co.uk/news/military-air-traffic-zones" target="_blank" rel="noopener noreferrer nofollow">https://www.flybydronetraining.co.uk/news/military-air-traffic-zones</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ConingsbySpottersGroup/posts/3671361249665818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ConingsbySpottersGroup/posts/3671361249665818/</a>  
+   Link:<a href="https://www.facebook.com/groups/ConingsbySpottersGroup/posts/3671361249665818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ConingsbySpottersGroup/posts/3671361249665818/</a>  

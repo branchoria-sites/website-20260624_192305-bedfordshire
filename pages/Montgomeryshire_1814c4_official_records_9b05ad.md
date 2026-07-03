@@ -248,46 +248,46 @@ image: /assets/images/Montgomeryshire_1814c4_official_records_9b05ad-overview-so
 
 ## Introduction
 
-Official records can prove one important thing about [Montgomeryshire]({{ 'what-really-happened-over-2ade50/' | relative_url }}) UFO reports: that a sighting, call, enquiry or summary was logged by a public body. They do **not** usually prove what the witness saw. For Montgomeryshire, the clearest public trail is modest: a small number of police-reported mid-Wales sightings at Meifod, Newtown and Llanidloes, set against the wider Ministry of Defence record system that ended in 2009. The most useful way to read these files is therefore critical rather than sensational. A police or MoD entry is evidence of reporting, not evidence of an extraordinary craft. That matters because Montgomeryshire sits inside modern Powys for policing and administration, while this project uses the historic county frame centred on places such as Newtown, Llanidloes, Welshpool, Meifod and Machynlleth. Historic-county geography and modern record-keeping do not line up neatly, so local verification begins with place-checking as much as sky-checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online+2datamap.gov.wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+Official records can prove one important thing about [Montgomeryshire]({{ 'what-really-happened-over-2ade50/' | relative_url }}) UFO reports: that a sighting, call, enquiry or summary was logged by a public body. They do **not** usually prove what the witness saw. For Montgomeryshire, the clearest public trail is modest: a small number of police-reported mid-Wales sightings at Meifod, Newtown and Llanidloes, set against the wider Ministry of Defence record system that ended in 2009. The most useful way to read these files is therefore critical rather than sensational. A police or MoD entry is evidence of reporting, not evidence of an extraordinary craft. That matters because Montgomeryshire sits inside modern Powys for policing and administration, while this project uses the historic county frame centred on places such as Newtown, Llanidloes, Welshpool, Meifod and Machynlleth. Historic-county geography and modern record-keeping do not line up neatly, so local verification begins with place-checking as much as sky-checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-overview.webp" | relative_url }}" alt="Overview image for Official Records" loading="eager" decoding="sync" fetchpriority="high">
 ## What official summaries actually include
 
-The strongest Montgomeryshire-specific public evidence is not a dramatic investigation file. It is a short police-derived list reported by WalesOnline in 2013 after Welsh police forces released details of UFO sightings from the previous decade. Three entries fall squarely within the Montgomeryshire frame: Meifod in 2007, Newtown in 2008, and Llanidloes in 2009. The Meifod report described a triangular shape with different coloured lights in each corner, a pulsing pink light that lit up a vehicle, and no sound. The Newtown report was briefer, describing flashing balls of light thought to be two UFOs. The Llanidloes report is the most instructive because it shows a logged sighting moving towards an ordinary explanation: three orange lights were initially thought to be UFOs, but an object was reportedly seized and identified as a night lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online+2Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+The strongest Montgomeryshire-specific public evidence is not a dramatic investigation file. It is a short police-derived list reported by WalesOnline in 2013 after Welsh police forces released details of UFO sightings from the previous decade. Three entries fall squarely within the Montgomeryshire frame: Meifod in 2007, Newtown in 2008, and Llanidloes in 2009. The Meifod report described a triangular shape with different coloured lights in each corner, a pulsing pink light that lit up a vehicle, and no sound. The Newtown report was briefer, describing flashing balls of light thought to be two UFOs. The Llanidloes report is the most instructive because it shows a logged sighting moving towards an ordinary explanation: three orange lights were initially thought to be UFOs, but an object was reportedly seized and identified as a night lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
-That is the key value of official summaries. They can give a date, place, rough description and sometimes an outcome. In a county-level UFO history, this prevents the local record from drifting into rumour alone. Meifod is not just “a triangle story somewhere in mid-Wales”; it is a named Powys police record from 2007 that can be mapped to historic Montgomeryshire. Llanidloes is not just “orange lights”; it is an example where the public trail says the object was recovered and explained as a night lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+That is the key value of official summaries. They can give a date, place, rough description and sometimes an outcome. In a county-level UFO history, this prevents the local record from drifting into rumour alone. Meifod is not just “a triangle story somewhere in mid-Wales”; it is a named Powys police record from 2007 that can be mapped to historic Montgomeryshire. Llanidloes is not just “orange lights”; it is an example where the public trail says the object was recovered and explained as a night lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
-The Ministry of Defence’s published annual UFO report tables show how thin many official sighting records were nationally. The GOV.UK page for UFO reports from 1997 to 2009 says the documents show dates, times, locations and brief descriptions of sightings. The 2007 and 2008 MoD tables follow that pattern: columns for date, time, town or village, county or area, occupation where known, and a brief description. Many entries are only a line or two long, such as “A UFO”, “Lights in the sky”, or a short account of orange lights, triangles or bright objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence’s published annual UFO report tables show how thin many official sighting records were nationally. The GOV.UK page for UFO reports from 1997 to 2009 says the documents show dates, times, locations and brief descriptions of sightings. The 2007 and 2008 MoD tables follow that pattern: columns for date, time, town or village, county or area, occupation where known, and a brief description. Many entries are only a line or two long, such as “A UFO”, “Lights in the sky”, or a short account of orange lights, triangles or bright objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-For Montgomeryshire readers, that national format is a warning against over-reading. A short official entry may feel weighty because it appears in a government or police context, but the entry itself may contain less information than a careful witness interview would. It rarely gives the exact observing position, compass direction, elevation, duration, weather, visibility, aircraft checks, astronomical checks, names of witnesses, or reasons why a possible explanation was accepted or rejected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+For Montgomeryshire readers, that national format is a warning against over-reading. A short official entry may feel weighty because it appears in a government or police context, but the entry itself may contain less information than a careful witness interview would. It rarely gives the exact observing position, compass direction, elevation, duration, weather, visibility, aircraft checks, astronomical checks, names of witnesses, or reasons why a possible explanation was accepted or rejected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the files leave unresolved
 
-The unresolved part is not simply “aliens or not”. It is more practical: can the sighting be reconstructed well enough to test it? For Meifod, the description is vivid enough to be memorable, especially because triangular craft claims have a wider history in British UFO reporting. But the public Montgomeryshire entry lacks the details needed to separate a structured object from a pattern of lights, an aircraft seen under unusual conditions, reflections, lanterns, or another mundane source. The official record confirms a report; it does not supply the investigative scaffolding needed to decide what the report represents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+The unresolved part is not simply “aliens or not”. It is more practical: can the sighting be reconstructed well enough to test it? For Meifod, the description is vivid enough to be memorable, especially because triangular craft claims have a wider history in British UFO reporting. But the public Montgomeryshire entry lacks the details needed to separate a structured object from a pattern of lights, an aircraft seen under unusual conditions, reflections, lanterns, or another mundane source. The official record confirms a report; it does not supply the investigative scaffolding needed to decide what the report represents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
-Newtown is weaker still as a testable case. “Flashing balls of light” could describe aircraft lights, distant helicopters, reflections, fireworks, meteors, lanterns, drones, or multiple observers misjudging distance and scale over dark terrain. Without time, direction, duration and sky conditions, the report remains locally interesting but evidentially light. The official wording preserves a trace of the call, not a conclusion about the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+Newtown is weaker still as a testable case. “Flashing balls of light” could describe aircraft lights, distant helicopters, reflections, fireworks, meteors, lanterns, drones, or multiple observers misjudging distance and scale over dark terrain. Without time, direction, duration and sky conditions, the report remains locally interesting but evidentially light. The official wording preserves a trace of the call, not a conclusion about the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
-Llanidloes shows the opposite problem: when a likely explanation is present, the summary still does not show the full reasoning. The entry says three orange lights were thought to be UFOs and that an object was seized and identified as a night lantern. That is useful because it weakens the extraordinary reading of the case. Yet the public summary does not say who seized it, where exactly it was found, whether it matched all three lights, how long after the sighting it was recovered, or whether any other witnesses saw the same thing from another angle. The case is better explained than Meifod or Newtown, but it is still not a fully documented investigation in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+Llanidloes shows the opposite problem: when a likely explanation is present, the summary still does not show the full reasoning. The entry says three orange lights were thought to be UFOs and that an object was seized and identified as a night lantern. That is useful because it weakens the extraordinary reading of the case. Yet the public summary does not say who seized it, where exactly it was found, whether it matched all three lights, how long after the sighting it was recovered, or whether any other witnesses saw the same thing from another angle. The case is better explained than Meifod or Newtown, but it is still not a fully documented investigation in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
-The MoD’s own closure papers underline this limitation. The National Archives’ 2013 highlights guide says the final tranche of UFO files covered the last two years of the MoD’s UFO desk, including policy, correspondence, FOI responses and sighting reports. It also records the 2009 recommendation that the MoD should reduce a task that was consuming resources but producing no valuable defence output, and that no reported sighting had revealed evidence of an extra-terrestrial presence or military threat to the UK. The same guide says the MoD decided that further investigations into UFO sightings, even from more reliable sources, served no useful defence purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The MoD’s own closure papers underline this limitation. The National Archives’ 2013 highlights guide says the final tranche of UFO files covered the last two years of the MoD’s UFO desk, including policy, correspondence, FOI responses and sighting reports. It also records the 2009 recommendation that the MoD should reduce a task that was consuming resources but producing no valuable defence output, and that no reported sighting had revealed evidence of an extra-terrestrial presence or military threat to the UK. The same guide says the MoD decided that further investigations into UFO sightings, even from more reliable sources, served no useful defence purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-This does not mean every sighting was “solved”. It means the MoD’s test was primarily a defence test: was there evidence of a threat to UK airspace or national security? A report could fail to meet that threshold and still remain unidentified in ordinary language. That distinction is essential for Montgomeryshire. “No defence interest” is not the same as “fully explained”, and “officially logged” is not the same as “officially verified”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+This does not mean every sighting was “solved”. It means the MoD’s test was primarily a defence test: was there evidence of a threat to UK airspace or national security? A report could fail to meet that threshold and still remain unidentified in ordinary language. That distinction is essential for Montgomeryshire. “No defence interest” is not the same as “fully explained”, and “officially logged” is not the same as “officially verified”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yGxftZwdWsM" title="New UFO Files From UK Government - Expert Highlights | Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer">New UFO Files From UK Government - Expert Highlights | Video</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 34.3K &middot; Uploaded: July 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yGxftZwdWsM">Open on YouTube</a></p></div></div></div>
 
 ## Why Montgomeryshire records are hard to verify locally
 
-Montgomeryshire’s evidence problem starts with boundaries. The historic county is the project’s frame, but modern public records usually use Powys, Dyfed-Powys Police, or broader Welsh regional labels. DataMapWales explains that the thirteen historic counties remained in use until the 1974 local government changes created new administrative counties including Powys; later reorganisation created the current principal areas. A UFO record labelled “Powys” therefore needs an extra step: does the named place lie in historic Montgomeryshire, Radnorshire or Brecknockshire? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[datamap.gov.wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">Historic County Boundaries of Wales</span><span class="citation-popover-snippet">Historic County Boundaries of Wales</span></span></span>
+Montgomeryshire’s evidence problem starts with boundaries. The historic county is the project’s frame, but modern public records usually use Powys, Dyfed-Powys Police, or broader Welsh regional labels. DataMapWales explains that the thirteen historic counties remained in use until the 1974 local government changes created new administrative counties including Powys; later reorganisation created the current principal areas. A UFO record labelled “Powys” therefore needs an extra step: does the named place lie in historic Montgomeryshire, Radnorshire or Brecknockshire?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[datamap.gov.wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">Historic County Boundaries of Wales</span><span class="citation-popover-snippet">Historic County Boundaries of Wales</span></span></span>
 
-That matters because several Powys UFO reports are not Montgomeryshire cases. Brecon and Llandrindod Wells, for example, are relevant to neighbouring historic counties, not to Montgomeryshire’s county page. By contrast, Meifod, Newtown and Llanidloes are appropriate Montgomeryshire anchors. This is not pedantry. If county-level UFO history is mapped badly, it can create false clusters and make a thin record look more substantial than it is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+That matters because several Powys UFO reports are not Montgomeryshire cases. Brecon and Llandrindod Wells, for example, are relevant to neighbouring historic counties, not to Montgomeryshire’s county page. By contrast, Meifod, Newtown and Llanidloes are appropriate Montgomeryshire anchors. This is not pedantry. If county-level UFO history is mapped badly, it can create false clusters and make a thin record look more substantial than it is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
-A second problem is that police systems are not designed primarily as UFO archives. Recent Dyfed-Powys Police FOI responses show the difficulty clearly. In one 2025 request about alien or UFO sightings in Powys over five years, the force refused the request on cost grounds, saying some information was not held in an easily retrievable format and that 106 records would need manual review. The response added that, because of the systems used to record such information, released data “may or may not be accurate”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/may/ufo-and-alien-sightings-3572025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">ufo and alien sightings 3572025</span><span class="citation-popover-snippet">ufo and alien sightings 3572025</span></span></span>
+A second problem is that police systems are not designed primarily as UFO archives. Recent Dyfed-Powys Police FOI responses show the difficulty clearly. In one 2025 request about alien or UFO sightings in Powys over five years, the force refused the request on cost grounds, saying some information was not held in an easily retrievable format and that 106 records would need manual review. The response added that, because of the systems used to record such information, released data “may or may not be accurate”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/may/ufo-and-alien-sightings-3572025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">ufo and alien sightings 3572025</span><span class="citation-popover-snippet">ufo and alien sightings 3572025</span></span></span>
 
-A broader Dyfed-Powys FOI response for UFO or UAP sightings in 2022 made the retrieval problem even clearer. The force said there was no specific category covering the request on the relevant systems, that keyword searches could not be conducted because of law-enforcement issues, and that identifying relevant incidents would require reviewing more than 10,000 “P-Suspicious” incidents. This is a powerful caution for Montgomeryshire researchers: absence from a neat disclosure table may mean no report, but it may also mean the report is buried under a different incident category, wording or location label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2023/january/ufo-uap-sightings-9972022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">ufo uap sightings 9972022</span><span class="citation-popover-snippet">ufo uap sightings 9972022</span></span></span>
+A broader Dyfed-Powys FOI response for UFO or UAP sightings in 2022 made the retrieval problem even clearer. The force said there was no specific category covering the request on the relevant systems, that keyword searches could not be conducted because of law-enforcement issues, and that identifying relevant incidents would require reviewing more than 10,000 “P-Suspicious” incidents. This is a powerful caution for Montgomeryshire researchers: absence from a neat disclosure table may mean no report, but it may also mean the report is buried under a different incident category, wording or location label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2023/january/ufo-uap-sightings-9972022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">ufo uap sightings 9972022</span><span class="citation-popover-snippet">ufo uap sightings 9972022</span></span></span>
 
 
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -295,15 +295,15 @@ A broader Dyfed-Powys FOI response for UFO or UAP sightings in 2022 made the ret
 
 A Montgomeryshire sighting should be tested in layers, starting with the simplest facts before moving to interpretation. The aim is not to dismiss witnesses, but to stop a vague report becoming a stronger claim than the evidence supports.
 
-**First, fix the geography.** Identify the exact place, not just “Powys” or “mid-Wales”. For this project, the key question is whether the location sits in historic Montgomeryshire. Newtown, Llanidloes and Meifod do; many other Powys locations do not. The old county’s mountainous, rural character also affects interpretation because distant lights over valleys, ridges and dark skies can be hard to judge for distance, speed and scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+**First, fix the geography.** Identify the exact place, not just “Powys” or “mid-Wales”. For this project, the key question is whether the location sits in historic Montgomeryshire. Newtown, Llanidloes and Meifod do; many other Powys locations do not. The old county’s mountainous, rural character also affects interpretation because distant lights over valleys, ridges and dark skies can be hard to judge for distance, speed and scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-**Second, preserve the observation details.** A useful report needs date, time, duration, direction faced, direction of travel, elevation above the horizon, colour, sound, weather, cloud cover, number of witnesses and whether the object passed behind or in front of landmarks. The MoD’s own annual tables show why this matters: many official entries are too compressed to support later reconstruction. A line saying “lights in the sky” may be a genuine record, but it is not enough to distinguish aircraft, lanterns, meteors, drones or satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+**Second, preserve the observation details.** A useful report needs date, time, duration, direction faced, direction of travel, elevation above the horizon, colour, sound, weather, cloud cover, number of witnesses and whether the object passed behind or in front of landmarks. The MoD’s own annual tables show why this matters: many official entries are too compressed to support later reconstruction. A line saying “lights in the sky” may be a genuine record, but it is not enough to distinguish aircraft, lanterns, meteors, drones or satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-**Third, check aviation routes and safety records.** If a sighting involves a possible aircraft conflict, pilot report, radar concern or near miss, the relevant pathway is not folklore but aviation safety. The UK Airprox Board explains that Airprox investigations may involve the Civil Aviation Authority’s Safety Airspace and Regulation Group and the Ministry of Defence, and that the Board assesses causes and collision risk. It also notes that small unmanned air system reports may be classified as drones, balloons, model aircraft or unknown objects, and that fleeting pilot sightings can leave only a vague description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+**Third, check aviation routes and safety records.** If a sighting involves a possible aircraft conflict, pilot report, radar concern or near miss, the relevant pathway is not folklore but aviation safety. The UK Airprox Board explains that Airprox investigations may involve the Civil Aviation Authority’s Safety Airspace and Regulation Group and the Ministry of Defence, and that the Board assesses causes and collision risk. It also notes that small unmanned air system reports may be classified as drones, balloons, model aircraft or unknown objects, and that fleeting pilot sightings can leave only a vague description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
-**Fourth, treat orange-light clusters cautiously.** The National Archives’ guide to the final MoD files says many late-period reports were generated by Chinese lanterns, with formations of orange lights filmed by the public and often reported as UFOs. That context is directly relevant to Llanidloes in 2009, where the local report says the seized object was a night lantern. It is also relevant to any later Montgomeryshire claim involving silent orange lights moving together across a dark sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+**Fourth, treat orange-light clusters cautiously.** The National Archives’ guide to the final MoD files says many late-period reports were generated by Chinese lanterns, with formations of orange lights filmed by the public and often reported as UFOs. That context is directly relevant to Llanidloes in 2009, where the local report says the seized object was a night lantern. It is also relevant to any later Montgomeryshire claim involving silent orange lights moving together across a dark sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-**Fifth, separate “unidentified” from “uninvestigated”.** Since 1 December 2009, the MoD’s policy changed so that UFO sighting reports were no longer recorded or investigated by the department. That note appears in the 2009 MoD report table itself. Later police records may still exist, but the old national funnel for sighting reports no longer operates in the same way. A post-2009 Montgomeryshire sighting may therefore leave a thinner official trail even if a witness was sincere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Fifth, separate “unidentified” from “uninvestigated”.** Since 1 December 2009, the MoD’s policy changed so that UFO sighting reports were no longer recorded or investigated by the department. That note appears in the 2009 MoD report table itself. Later police records may still exist, but the old national funnel for sighting reports no longer operates in the same way. A post-2009 Montgomeryshire sighting may therefore leave a thinner official trail even if a witness was sincere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzbK905kwc" title="UFO file release October 2008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer">UFO file release October 2008</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 19.5K &middot; Uploaded: October 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzbK905kwc">Open on YouTube</a></p></div></div></div>
@@ -313,7 +313,7 @@ A Montgomeryshire sighting should be tested in layers, starting with the simples
 
 ## What the official record proves — and what it cannot
 
-For Montgomeryshire, official UFO records prove that a small number of reports entered police or public-record channels. They also show that at least one local report, Llanidloes in 2009, moved towards a mundane explanation when an object was identified as a night lantern. They do not prove that Meifod’s triangular lights were a craft, that Newtown’s flashing balls of light were unusual vehicles, or that the county experienced a major UFO flap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online+2Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
+For Montgomeryshire, official UFO records prove that a small number of reports entered police or public-record channels. They also show that at least one local report, Llanidloes in 2009, moved towards a mundane explanation when an object was identified as a night lantern. They do not prove that Meifod’s triangular lights were a craft, that Newtown’s flashing balls of light were unusual vehicles, or that the county experienced a major UFO flap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-snippet">Open source on walesonline.co.uk.</span></span></span>
 
 The best reading is therefore modest but useful. Montgomeryshire’s official UFO record is a case study in verification limits: enough documentation to locate a few reports, too little detail to make most of them evidentially strong, and enough later administrative evidence to show why police and MoD files must be read with care. The records are valuable not because they settle the mystery, but because they show where the mystery actually lies: in the gap between a logged report and a testable explanation.
 
@@ -321,194 +321,194 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montgomeryshire_1814c4_official_records_9b05ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Official UFO Files Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Official UFO Files Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for assessing official sighting summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for assessing official sighting summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains official investigations and the interpretation of UFO case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official investigations and the interpretation of UFO case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses what government and military files can and cannot establish.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what government and military files can and cannot establish.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s emphasis on critical reading of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s emphasis on critical reading of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-d67d16-what-do-official-ufo-files-really-prove-montgomeryshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,236 +714,236 @@ The best reading is therefore modest but useful. Montgomeryshire’s official UF
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: datamap.gov.wales  
    Title: Historic [County Boundaries](&#123;&#123; 'county-lines/' | relative_url &#125;&#125;) of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dyfed-powys.police.uk  
    Title: ufo and alien sightings 3572025  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/may/ufo-and-alien-sightings-3572025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/may/ufo-and-alien-sightings-3572025/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/may/ufo-and-alien-sightings-3572025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/may/ufo-and-alien-sightings-3572025/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dyfed-powys.police.uk  
    Title: ufo uap sightings 9972022  
-   Link: <a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2023/january/ufo-uap-sightings-9972022/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2023/january/ufo-uap-sightings-9972022/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2023/january/ufo-uap-sightings-9972022/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2023/january/ufo-uap-sightings-9972022/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dyfed-powys.police.uk  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Cynllun+cyhoeddi&amp;fdte=&amp;ic=217113&amp;icsc=&amp;page=89&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Cynllun+cyhoeddi&amp;fdte=&amp;ic=217113&amp;icsc=&amp;page=89&amp;tdte=</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Cynllun+cyhoeddi&amp;fdte=&amp;ic=217113&amp;icsc=&amp;page=89&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Cynllun+cyhoeddi&amp;fdte=&amp;ic=217113&amp;icsc=&amp;page=89&amp;tdte=</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dyfed-powys.police.uk  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/</a>  
 
-12. <a id="endnote-12"></a>
-   Source: dyfed-powys.police.uk  
-   Title: ufo sightings 1872025  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/march/ufo-sightings-1872025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/march/ufo-sightings-1872025/</a>  
-
-13. <a id="endnote-13"></a>
-   Source: dyfed-powys.police.uk  
-   Link: <a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2024/january/ufo-reports-40523/</a>  
-
-14. <a id="endnote-14"></a>
+12.<a id="endnote-12"></a>
    Source: dyfed-powys.police.uk  
    Title: ufo sightings 1872025  
-   Link: <a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mawrth/ufo-sightings-1872025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mawrth/ufo-sightings-1872025/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/march/ufo-sightings-1872025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/march/ufo-sightings-1872025/</a>  
 
-15. <a id="endnote-15"></a>
+13.<a id="endnote-13"></a>
+   Source: dyfed-powys.police.uk  
+   Link:<a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/disclosure-2024/january/ufo-reports-40523/</a>  
+
+14.<a id="endnote-14"></a>
+   Source: dyfed-powys.police.uk  
+   Title: ufo sightings 1872025  
+   Link:<a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mawrth/ufo-sightings-1872025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mawrth/ufo-sightings-1872025/</a>  
+
+15.<a id="endnote-15"></a>
    Source: dyfed-powys.police.uk  
    Title: ufo sightings 8832024  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/october/ufo-sightings-8832024/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/october/ufo-sightings-8832024/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/october/ufo-sightings-8832024/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/october/ufo-sightings-8832024/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dyfed-powys.police.uk  
    Title: ufo sightings 5832024  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/ufo-sightings-5832024/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/ufo-sightings-5832024/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/ufo-sightings-5832024/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/ufo-sightings-5832024/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dyfed-powys.police.uk  
    Title: Get Paginated Results  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=13&amp;q=incidents&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=13&amp;q=incidents&amp;tdte=</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=13&amp;q=incidents&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=13&amp;q=incidents&amp;tdte=</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dyfed-powys.police.uk  
    Title: Get Paginated Results  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=25&amp;q=Contact+the+police&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=25&amp;q=Contact+the+police&amp;tdte=</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=25&amp;q=Contact+the+police&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=25&amp;q=Contact+the+police&amp;tdte=</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: datamap.gov.wales  
    Title: Historic County Boundaries of Wales.txt  
-   Link: <a href="https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt</a>  
+   Link:<a href="https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datamap.gov.wales  
    Title: wales Historic Hundreds Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_hundreds_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_hundreds_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_hundreds_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_hundreds_bng_rcahmw_ply</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: walesonline.co.uk  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Montgomeryshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Montgomeryshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/the-airprox-process/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/the-airprox-process/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-controller-fiso-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-controller-fiso-ago/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-controller-fiso-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-controller-fiso-ago/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: airproxboard.org.uk  
    Title: latest monthly reports are now available  
-   Link: <a href="https://www.airproxboard.org.uk/news/latest-monthly-reports-are-now-available/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/news/latest-monthly-reports-are-now-available/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/news/latest-monthly-reports-are-now-available/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/news/latest-monthly-reports-are-now-available/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2025/november/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2025/november/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2025/november/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2025/november/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: walesonline.co.uk  
    Title: ministry defence officials did investigate 10133926  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montgomeryshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montgomeryshire</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: roughguides.com  
-   Link: <a href="https://www.roughguides.com/wales/mid-wales/montgomeryshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.roughguides.com/wales/mid-wales/montgomeryshire/</a>  
+   Link:<a href="https://www.roughguides.com/wales/mid-wales/montgomeryshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.roughguides.com/wales/mid-wales/montgomeryshire/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: historica.fandom.com  
-   Link: <a href="https://historica.fandom.com/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://historica.fandom.com/wiki/Montgomeryshire</a>  
+   Link:<a href="https://historica.fandom.com/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://historica.fandom.com/wiki/Montgomeryshire</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Montgomeryshire</a>  
+   Link:<a href="https://www.britannica.com/place/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Montgomeryshire</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Montgomeryshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Montgomeryshire</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/montgomeryshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/montgomeryshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/montgomeryshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/montgomeryshire/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
+   Link:<a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/4074.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4074.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/4074.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4074.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: research.aber.ac.uk  
-   Link: <a href="https://research.aber.ac.uk/files/10907138/Jones_Rachel.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.aber.ac.uk/files/10907138/Jones_Rachel.pdf</a>  
+   Link:<a href="https://research.aber.ac.uk/files/10907138/Jones_Rachel.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.aber.ac.uk/files/10907138/Jones_Rachel.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: aurora.nats.co.uk  
-   Link: <a href="https://www.aurora.nats.co.uk/htmlAIP/Publications/2022-04-21-AIRAC/html/eAIP/EG-ENR-1.14-en-GB.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aurora.nats.co.uk/htmlAIP/Publications/2022-04-21-AIRAC/html/eAIP/EG-ENR-1.14-en-GB.html</a>  
+   Link:<a href="https://www.aurora.nats.co.uk/htmlAIP/Publications/2022-04-21-AIRAC/html/eAIP/EG-ENR-1.14-en-GB.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aurora.nats.co.uk/htmlAIP/Publications/2022-04-21-AIRAC/html/eAIP/EG-ENR-1.14-en-GB.html</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/C5News/posts/is-doncaster-the-new-roswelldoncaster-city-councillors-couldnt-hide-their-amusem/1447594434068427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/C5News/posts/is-doncaster-the-new-roswelldoncaster-city-councillors-couldnt-hide-their-amusem/1447594434068427/</a>  
+   Link:<a href="https://www.facebook.com/C5News/posts/is-doncaster-the-new-roswelldoncaster-city-councillors-couldnt-hide-their-amusem/1447594434068427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/C5News/posts/is-doncaster-the-new-roswelldoncaster-city-councillors-couldnt-hide-their-amusem/1447594434068427/</a>  

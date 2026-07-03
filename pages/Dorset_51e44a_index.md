@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /dorset-51e44a-index/
 description: Focused pages that expand on What Really Happened in Dorset's Skies?.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Dorset_51e44a
 parent_title: What Really Happened in Dorset's Skies?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-dorsets-skies/
 
 # Explore Topics in What Really Happened in Dorset's Skies?
 
-The following pages expand on the main **[What Really Happened in Dorset's Skies?]({{ '/what-really-happened-in-dorsets-skies/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Dorset's Skies?]({{ '/what-really-happened-in-dorsets-skies/' | relative_url }})** page and cover its key branches in.
 
 - [Police Logs]({{ '/police-logs-b60b33/' | relative_url }})
 - [Sky Factors]({{ '/sky-factors/' | relative_url }})

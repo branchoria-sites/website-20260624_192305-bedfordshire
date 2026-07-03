@@ -254,15 +254,15 @@ image: /assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-overview-
 
 ## Introduction
 
-The South Armagh “SAS and aliens” story is one of the most colourful UFO-related tales attached to [County Armagh]({{ 'county-armagh/' | relative_url }}), but it does not hold up well as evidence. The claim is that eight SAS soldiers, lying in wait near an IRA arms cache in south Armagh around 1993, saw three or four small grey humanoid figures walk into their field of fire, vanish, and leave behind a brief flash in the sky. The story matters because it sits at the meeting point of UFO lore, Troubles-era military secrecy, and the dramatic reputation of south Armagh. Its weakness is just as important: the source trail appears to run mainly from a 1997 Sunday People article, later reposts and retellings, and a 2021 Ministry of Defence freedom of information reply saying it held no information in scope of the request. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[luforu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-title">Armagh, Northern Ireland, Europe</span><span class="citation-popover-snippet">Armagh, Northern Ireland, Europe</span></span></span>
+The South Armagh “SAS and aliens” story is one of the most colourful UFO-related tales attached to [County Armagh]({{ 'county-armagh/' | relative_url }}), but it does not hold up well as evidence. The claim is that eight SAS soldiers, lying in wait near an IRA arms cache in south Armagh around 1993, saw three or four small grey humanoid figures walk into their field of fire, vanish, and leave behind a brief flash in the sky. The story matters because it sits at the meeting point of UFO lore, Troubles-era military secrecy, and the dramatic reputation of south Armagh. Its weakness is just as important: the source trail appears to run mainly from a 1997 Sunday People article, later reposts and retellings, and a 2021 Ministry of Defence freedom of information reply saying it held no information in scope of the request.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[luforu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-title">Armagh, Northern Ireland, Europe</span><span class="citation-popover-snippet">Armagh, Northern Ireland, Europe</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-overview.webp" | relative_url }}" alt="Overview image for SAS Story" loading="eager" decoding="sync" fetchpriority="high">
 ## What the story claims
 
-The best-known version says undercover SAS soldiers were positioned on a hillside in south Armagh, watching an IRA arms hide or preparing an ambush, when “up to four small grey figures” appeared. In the newspaper account reproduced by the London UFO Research Unit, the figures and soldiers allegedly looked at one another for about a minute before the figures disappeared; the soldiers then reportedly saw a flash in the sky and abandoned the stake-out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[luforu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-title">Armagh, Northern Ireland, Europe</span><span class="citation-popover-snippet">Armagh, Northern Ireland, Europe</span></span></span>
+The best-known version says undercover SAS soldiers were positioned on a hillside in south Armagh, watching an IRA arms hide or preparing an ambush, when “up to four small grey figures” appeared. In the newspaper account reproduced by the London UFO Research Unit, the figures and soldiers allegedly looked at one another for about a minute before the figures disappeared; the soldiers then reportedly saw a flash in the sky and abandoned the stake-out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[luforu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-title">Armagh, Northern Ireland, Europe</span><span class="citation-popover-snippet">Armagh, Northern Ireland, Europe</span></span></span>
 
-The tale gains much of its force from its claimed witnesses. SAS soldiers are presented as unusually trained observers, not casual sky-watchers. The 1997 account also says the story was passed to an Ulster UFO study group by a former Army intelligence officer, and that Belfast-based UFO figure Hugh O’Brien was trying to trace or interview the soldiers. That framing gives the story the feel of a leaked military incident rather than an ordinary local rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
+The tale gains much of its force from its claimed witnesses. SAS soldiers are presented as unusually trained observers, not casual sky-watchers. The 1997 account also says the story was passed to an Ulster UFO study group by a former Army intelligence officer, and that Belfast-based UFO figure Hugh O’Brien was trying to trace or interview the soldiers. That framing gives the story the feel of a leaked military incident rather than an ordinary local rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
 
 Yet even in its own telling, the story is slippery. The exact location is not given beyond “south Armagh”. The date is not fixed, only implied as about four years before the 1997 article. The soldiers are unnamed. The commander, priest, intelligence officer, and unit records are not identified. No photograph, contemporaneous military report, police record, radar evidence, medical note, or named first-hand interview has emerged in the public trail.
 
@@ -270,11 +270,11 @@ Yet even in its own telling, the story is slippery. The exact location is not gi
 <img src="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-Illustration-1-dark.svg" | relative_url }}" alt="SAS Story illustration 1" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the sourcing is fragile
 
-The story’s public record is narrow. The central article appears to be Joe Brady’s “SAS In Alien Riddle”, published in The Sunday People on 13 July 1997 and subsequently copied into UFO mailing lists, forums, and later UFO catalogues. A 2013 discussion on the Army Rumour Service forum reposted the same text and treated it with scepticism, with the original poster noting that they would not put it in a serious forum and later describing The People dismissively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arrse.co.uk/community/threads/sas-and-aliens.198224/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arrse.co.uk">[ARRSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arrse.co.uk</span><span class="citation-popover-title">sas and aliens.198224</span><span class="citation-popover-snippet">sas and aliens.198224</span></span></span>
+The story’s public record is narrow. The central article appears to be Joe Brady’s “SAS In Alien Riddle”, published in The Sunday People on 13 July 1997 and subsequently copied into UFO mailing lists, forums, and later UFO catalogues. A 2013 discussion on the Army Rumour Service forum reposted the same text and treated it with scepticism, with the original poster noting that they would not put it in a serious forum and later describing The People dismissively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arrse.co.uk/community/threads/sas-and-aliens.198224/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arrse.co.uk">[ARRSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arrse.co.uk</span><span class="citation-popover-title">sas and aliens.198224</span><span class="citation-popover-snippet">sas and aliens.198224</span></span></span>
 
-The later internet life of the case mostly repeats rather than strengthens the original claim. The London UFO Research Unit page reproduces the newspaper text and adds a caution that the exact place in south Armagh was unknown, with its map pointer only indicating a possible location. That is useful honesty, but it also shows the problem: even sympathetic cataloguing could not pin the incident to a named townland, patrol area, military post, arms find, or witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[luforu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-title">Armagh, Northern Ireland, Europe</span><span class="citation-popover-snippet">Armagh, Northern Ireland, Europe</span></span></span>
+The later internet life of the case mostly repeats rather than strengthens the original claim. The London UFO Research Unit page reproduces the newspaper text and adds a caution that the exact place in south Armagh was unknown, with its map pointer only indicating a possible location. That is useful honesty, but it also shows the problem: even sympathetic cataloguing could not pin the incident to a named townland, patrol area, military post, arms find, or witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[luforu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-title">Armagh, Northern Ireland, Europe</span><span class="citation-popover-snippet">Armagh, Northern Ireland, Europe</span></span></span>
 
-The 2021 Armagh I article added one important piece of public checking: a Freedom of Information request to the Ministry of Defence. The request asked whether the MoD held records of an alleged encounter between SAS soldiers and “little grey men” in the south Armagh countryside, possibly around 1993. The RAF Air Command Secretariat replied that a search had concluded and that the MoD held “no information in scope” of the request. It also restated the department’s broader position that it had no opinion on the existence of extra-terrestrials and that, over more than 50 years, UFO reports to the department had not indicated a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north/response/1845142/attach/html/3/FOI2021%2006775%20Response.pdf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">FOI2021 06775 Response.pdf</span><span class="citation-popover-snippet">FOI2021 06775 Response.pdf</span></span></span>
+The 2021 Armagh I article added one important piece of public checking: a Freedom of Information request to the Ministry of Defence. The request asked whether the MoD held records of an alleged encounter between SAS soldiers and “little grey men” in the south Armagh countryside, possibly around 1993. The RAF Air Command Secretariat replied that a search had concluded and that the MoD held “no information in scope” of the request. It also restated the department’s broader position that it had no opinion on the existence of extra-terrestrials and that, over more than 50 years, UFO reports to the department had not indicated a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north/response/1845142/attach/html/3/FOI2021%2006775%20Response.pdf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">FOI2021 06775 Response.pdf</span><span class="citation-popover-snippet">FOI2021 06775 Response.pdf</span></span></span>
 
 That FOI response is not a perfect disproof. A record could have been misfiled, destroyed, never created, hidden under a different description, or excluded by the wording of the request. It also does not prove the soldiers did not tell the story informally. But for a public-facing County Armagh UFO history, it matters greatly: the one official check presently visible in the source trail did not produce a confirming file.
 
@@ -283,9 +283,9 @@ That FOI response is not a perfect disproof. A record could have been misfiled, 
 
 ## What south Armagh adds to the legend
 
-South Armagh gives the story its atmosphere. During the Troubles, the area was heavily militarised and widely associated with ambush risk, surveillance, helicopters, watchtowers, and covert military activity. The National Army Museum notes that in south Armagh’s “bandit country”, ambush risk contributed to the Army’s reliance on helicopters for reconnaissance and troop movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nam.ac.uk/explore/troubles-1969-2007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.ac.uk">[National Army Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.ac.uk</span><span class="citation-popover-title">National Army Museum The Troubles &#124; National Army Museum</span><span class="citation-popover-snippet">National Army Museum The Troubles &#124; National Army Museum</span></span></span>
+South Armagh gives the story its atmosphere. During the Troubles, the area was heavily militarised and widely associated with ambush risk, surveillance, helicopters, watchtowers, and covert military activity. The National Army Museum notes that in south Armagh’s “bandit country”, ambush risk contributed to the Army’s reliance on helicopters for reconnaissance and troop movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nam.ac.uk/explore/troubles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.ac.uk">[National Army Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.ac.uk</span><span class="citation-popover-title">National Army Museum The Troubles &#124; National Army Museum</span><span class="citation-popover-snippet">National Army Museum The Troubles &#124; National Army Museum</span></span></span>
 
-Academic work on the border landscape describes south Armagh in the 1970s as a highly militarised place where soldiers patrolled lanes, watchtowers observed from hilltops, and helicopters moved back and forth to headquarters. It also stresses the practical border problem: attackers could exploit crossings, terrain, and the nearby Republic of Ireland, while British forces had to avoid diplomatic incidents by straying over the border. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.openedition.org/echogeo/12673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-title">Open Edition Journals The Map of Watchful Architecture</span><span class="citation-popover-snippet">Open Edition Journals The Map of Watchful Architecture</span></span></span>
+Academic work on the border landscape describes south Armagh in the 1970s as a highly militarised place where soldiers patrolled lanes, watchtowers observed from hilltops, and helicopters moved back and forth to headquarters. It also stresses the practical border problem: attackers could exploit crossings, terrain, and the nearby Republic of Ireland, while British forces had to avoid diplomatic incidents by straying over the border.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.openedition.org/echogeo/12673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-title">Open Edition Journals The Map of Watchful Architecture</span><span class="citation-popover-snippet">Open Edition Journals The Map of Watchful Architecture</span></span></span>
 
 That setting helps explain why the story travelled. A vague alien encounter in an ordinary field might sound thin. A vague alien encounter involving SAS soldiers, an IRA arms cache, a hillside hide, military embarrassment, and a secretive border landscape sounds like a lost scene from a Troubles thriller. The place does not verify the event, but it makes the legend memorable.
 
@@ -309,7 +309,7 @@ The south Armagh case also borrows the familiar “credible observer” argument
 
 The safest classification is not “debunked” in the strict sense, because there is no single exposed hoax, confessed fabrication, or identified mundane object that fully explains the tale. But it is also not a strong unresolved UFO case. It is better described as a weakly sourced military folklore story with a striking County Armagh setting.
 
-The case would become stronger if any of the following appeared: a named first-hand witness, a contemporaneous military log, a dated arms-cache recovery matching the story, an interview with the alleged commander or priest, a reliable local newspaper follow-up from the time, or a declassified file showing that the incident was reported internally. So far, the public trail points the other way: one sensational 1997 newspaper story, repeated widely; later online copying; local re-reporting in 2021; and an MoD response saying it held no relevant information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://groups.google.com/g/alt.paranet.abduct/c/gEsb302AUIE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups+2Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+The case would become stronger if any of the following appeared: a named first-hand witness, a contemporaneous military log, a dated arms-cache recovery matching the story, an interview with the alleged commander or priest, a reliable local newspaper follow-up from the time, or a declassified file showing that the incident was reported internally. So far, the public trail points the other way: one sensational 1997 newspaper story, repeated widely; later online copying; local re-reporting in 2021; and an MoD response saying it held no relevant information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://groups.google.com/g/alt.paranet.abduct/c/gEsb302AUIE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
 Within County Armagh’s UFO history, the story is therefore valuable as a cautionary example. It shows how a dramatic setting and military vocabulary can make a thin claim feel stronger than it is. It also shows why local UFO history needs different categories: recorded sightings, investigated incidents, unresolved cases, folklore, and stories that survive mainly because they are too vivid to forget. The South Armagh SAS aliens story belongs in that last group.
 
@@ -317,194 +317,194 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
 <img src="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-Illustration-3-dark.svg" | relative_url }}" alt="SAS Story illustration 3" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12_south_armagh_sas_sto_5a126e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did South Armagh&#x27;s Alien Story Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did South Armagh&#x27;s Alien Story Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Gives readers a framework for evaluating witness reports, close encounters, and fragile anecdotal evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers a framework for evaluating witness reports, close encounters, and fragile anecdotal evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s focus on military witnesses, evidential standards, and why official-sounding UFO claims need careful sourcing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s focus on military witnesses, evidential standards, and why official-sounding UFO claims need careful sourcing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Pairs well with a page about a dramatic military-linked UFO story and the limits of official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Pairs well with a page about a dramatic military-linked UFO story and the limits of official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Relevant to the page&#x27;s discussion of military folklore and how extraordinary stories become UFO legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to the page&#x27;s discussion of military folklore and how extraordinary stories become UFO legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="sas-story-did-south-armagh-s-alien-story-hold-up-county-armagh-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,116 +710,116 @@ Within County Armagh’s UFO history, the story is therefore valuable as a cauti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: luforu.org  
    Title: Armagh, Northern Ireland, Europe  
-   Link: <a href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow">https://luforu.org/armagh-northern-ireland-europe/</a>  
+   Link:<a href="https://luforu.org/armagh-northern-ireland-europe/" target="_blank" rel="noopener noreferrer nofollow">https://luforu.org/armagh-northern-ireland-europe/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: whatdotheyknow.com  
    Title: FOI2021 06775 Response.pdf  
-   Link: <a href="https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north/response/1845142/attach/html/3/FOI2021%2006775%20Response.pdf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north/response/1845142/attach/html/3/FOI2021%2006775%20Response.pdf.html</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north/response/1845142/attach/html/3/FOI2021%2006775%20Response.pdf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north/response/1845142/attach/html/3/FOI2021%2006775%20Response.pdf.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: armaghi.com  
-   Link: <a href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow">https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247</a>  
+   Link:<a href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow">https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: groups.google.com  
-   Link: <a href="https://groups.google.com/g/alt.paranet.abduct/c/gEsb302AUIE" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.paranet.abduct/c/gEsb302AUIE</a>  
+   Link:<a href="https://groups.google.com/g/alt.paranet.abduct/c/gEsb302AUIE" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.paranet.abduct/c/gEsb302AUIE</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.openedition.org  
    Title: Open Edition Journals The Map of Watchful Architecture  
-   Link: <a href="https://journals.openedition.org/echogeo/12673" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/echogeo/12673</a>  
+   Link:<a href="https://journals.openedition.org/echogeo/12673" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/echogeo/12673</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: whatdotheyknow.com  
    Title: Army Encounter With Aliens  
-   Link: <a href="https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/army_encounter_with_aliens_north</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: armyupress.army.mil  
    Title: MilitaryReview 20080228 art008  
-   Link: <a href="https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20080228_art008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20080228_art008.pdf</a>  
+   Link:<a href="https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20080228_art008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20080228_art008.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: books.google.com  
    Title: The UFO Files  
-   Link: <a href="https://books.google.com/books/about/The_UFO_Files.html?id=PC_6or5kQ9EC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Files.html?id=PC_6or5kQ9EC</a>  
+   Link:<a href="https://books.google.com/books/about/The_UFO_Files.html?id=PC_6or5kQ9EC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Files.html?id=PC_6or5kQ9EC</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: of UFOs  
-   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
+   Link:<a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arrse.co.uk  
    Title: sas and aliens.198224  
-   Link: <a href="https://www.arrse.co.uk/community/threads/sas-and-aliens.198224/" target="_blank" rel="noopener noreferrer nofollow">https://www.arrse.co.uk/community/threads/sas-and-aliens.198224/</a>  
+   Link:<a href="https://www.arrse.co.uk/community/threads/sas-and-aliens.198224/" target="_blank" rel="noopener noreferrer nofollow">https://www.arrse.co.uk/community/threads/sas-and-aliens.198224/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nam.ac.uk  
    Title: National Army Museum The Troubles | National Army Museum  
-   Link: <a href="https://www.nam.ac.uk/explore/troubles-1969-2007" target="_blank" rel="noopener noreferrer nofollow">https://www.nam.ac.uk/explore/troubles-1969-2007</a>  
+   Link:<a href="https://www.nam.ac.uk/explore/troubles" target="_blank" rel="noopener noreferrer nofollow">https://www.nam.ac.uk/explore/troubles</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/356706144442855/posts/1838114869635301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/356706144442855/posts/1838114869635301/</a>  
+   Link:<a href="https://www.facebook.com/groups/356706144442855/posts/1838114869635301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/356706144442855/posts/1838114869635301/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: armaghi.com  
-   Link: <a href="https://armaghi.com/category/news/south-armagh/page/101" target="_blank" rel="noopener noreferrer nofollow">https://armaghi.com/category/news/south-armagh/page/101</a>  
+   Link:<a href="https://armaghi.com/category/news/south-armagh/page/101" target="_blank" rel="noopener noreferrer nofollow">https://armaghi.com/category/news/south-armagh/page/101</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/tag/alien/amp/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/tag/alien/amp/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/tag/alien/amp/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/tag/alien/amp/</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Dominic Bennett  
-   Link: <a href="https://www.youtube.com/watch?v=OveB2TO4cis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OveB2TO4cis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Noises above Northern Ireland (includes actual footage)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OveB2TO4cis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OveB2TO4cis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Noises above Northern Ireland (includes actual footage)...</p></details>
    Published: August 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Strange Noises above Northern Ireland (includes actual footage)  
-   Link: <a href="https://www.youtube.com/watch?v=ZhORqZorSrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZhORqZorSrA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites spotted in sky above NI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZhORqZorSrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZhORqZorSrA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites spotted in sky above NI...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Space X Starlink satellites spotted in sky above NI  
-   Link: <a href="https://www.youtube.com/watch?v=_RHc4zsbtLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RHc4zsbtLs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;We&#x27;ve Been Lying About Aliens for 80 Years&quot; | Dan Farah...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_RHc4zsbtLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RHc4zsbtLs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;We&#x27;ve Been Lying About Aliens for 80 Years&quot; | Dan Farah...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C51PbE7OE6s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C51PbE7OE6s/</a>  
+   Link:<a href="https://www.instagram.com/p/C51PbE7OE6s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C51PbE7OE6s/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tobyharnden.com  
-   Link: <a href="https://tobyharnden.com/bandit-country/" target="_blank" rel="noopener noreferrer nofollow">https://tobyharnden.com/bandit-country/</a>  
+   Link:<a href="https://tobyharnden.com/bandit-country/" target="_blank" rel="noopener noreferrer nofollow">https://tobyharnden.com/bandit-country/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Bandit-Country-IRA-South-Armagh/dp/034071736X?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Bandit-Country-IRA-South-Armagh/dp/034071736X?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.nl/-/en/Bandit-Country-IRA-South-Armagh/dp/034071736X?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Bandit-Country-IRA-South-Armagh/dp/034071736X?tag=searcht-20</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/</a>  
+   Link:<a href="https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/CheyenneCommunityConnections/posts/25572229685705930/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CheyenneCommunityConnections/posts/25572229685705930/</a>  
+   Link:<a href="https://www.facebook.com/groups/CheyenneCommunityConnections/posts/25572229685705930/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CheyenneCommunityConnections/posts/25572229685705930/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: paradata.org.uk  
-   Link: <a href="https://paradata.org.uk/content/4634403-northern-ireland-operation-banner" target="_blank" rel="noopener noreferrer nofollow">https://paradata.org.uk/content/4634403-northern-ireland-operation-banner</a>  
+   Link:<a href="https://paradata.org.uk/content/4634403-northern-ireland-operation-banner" target="_blank" rel="noopener noreferrer nofollow">https://paradata.org.uk/content/4634403-northern-ireland-operation-banner</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vilaweb.cat  
-   Link: <a href="https://www.vilaweb.cat/media/attach/vwedts/docs/op_banner_analysis_released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vilaweb.cat/media/attach/vwedts/docs/op_banner_analysis_released.pdf</a>  
+   Link:<a href="https://www.vilaweb.cat/media/attach/vwedts/docs/op_banner_analysis_released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vilaweb.cat/media/attach/vwedts/docs/op_banner_analysis_released.pdf</a>  

@@ -248,49 +248,49 @@ image: /assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-overvie
 
 ## Introduction
 
-The Aviemore 1998 report is one of the clearest local UFO entries for [Inverness-shire]({{ 'what-did-inverness-shire-really-report/' | relative_url }}) in the Ministry of Defence’s published sighting lists, but it is also a good example of how thin the surviving official evidence can be. The report says that at 23:00 on 17 April 1998, someone in Aviemore Village saw an object moving slowly, with “twelve to fifteen lights around the perimeter”, estimated at 40 to 50 feet in size, before it “descended behind trees”. That is vivid enough to stand out from many brief “light in the sky” entries, yet the public record does not identify the witness, give the viewing direction, include a sketch or photograph, record weather conditions, or state an investigation outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Aviemore 1998 report is one of the clearest local UFO entries for [Inverness-shire]({{ 'what-did-inverness-shire-really-report/' | relative_url }}) in the Ministry of Defence’s published sighting lists, but it is also a good example of how thin the surviving official evidence can be. The report says that at 23:00 on 17 April 1998, someone in Aviemore Village saw an object moving slowly, with “twelve to fifteen lights around the perimeter”, estimated at 40 to 50 feet in size, before it “descended behind trees”. That is vivid enough to stand out from many brief “light in the sky” entries, yet the public record does not identify the witness, give the viewing direction, include a sketch or photograph, record weather conditions, or state an investigation outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-overview.webp" | relative_url }}" alt="Overview image for Aviemore 1998" loading="eager" decoding="sync" fetchpriority="high">
-That mixture is what makes the case worth a dedicated page. It is not strong evidence for an extraordinary craft, but it is a compact, locally grounded Highland report with a traceable official paper trail. Aviemore’s position in Badenoch and Strathspey, with dark skies, wooded horizons and mountain scenery, also makes it a place where distance, scale and motion can be hard to judge at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+That mixture is what makes the case worth a dedicated page. It is not strong evidence for an extraordinary craft, but it is a compact, locally grounded Highland report with a traceable official paper trail. Aviemore’s position in Badenoch and Strathspey, with dark skies, wooded horizons and mountain scenery, also makes it a place where distance, scale and motion can be hard to judge at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## The reported object and witness description
 
-The MoD’s 1998 UFO report list places the sighting at “Aviemore Village/Aviemore” in “Inverness-Shire” at 23:00 on 17 April 1998. The description is unusually structured for such a short official entry: it gives motion, lighting, apparent size and the way the sighting ended. The object was said to be in slow motion, to have twelve to fifteen lights around its perimeter, to be about 40 to 50 feet across, and to descend behind trees. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The MoD’s 1998 UFO report list places the sighting at “Aviemore Village/Aviemore” in “Inverness-Shire” at 23:00 on 17 April 1998. The description is unusually structured for such a short official entry: it gives motion, lighting, apparent size and the way the sighting ended. The object was said to be in slow motion, to have twelve to fifteen lights around its perimeter, to be about 40 to 50 feet across, and to descend behind trees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 The most important word in the description is “perimeter”. A single bright point can be many things: a planet, aircraft light, meteor, satellite, lantern or distant vehicle. A ring or edge of multiple lights suggests that the witness perceived a body or outline, not just an isolated light. That does not prove a solid object was present, because scattered lights can be mentally joined into a shape, especially in darkness. But it explains why the Aviemore entry feels more substantial than a bare report of “a light moving in the sky”.
 
 The reported size, 40 to 50 feet, should be treated cautiously. Unless the distance was known, an apparent size estimate is not the same as a measured size. A small object close by, a larger aircraft farther away, or fixed lights seen across uneven ground can all produce misleading impressions. The final detail, that the object descended behind trees, is also ambiguous. It could mean the object lost altitude; it could equally mean that a moving light crossed behind the local tree line from the witness’s viewpoint.
 
-Aviemore itself adds texture to the account. It is a town and tourist resort on the north bank of the River Spey, within the Cairngorms National Park, and is associated with skiing, hill-walking and mountain access. In this project’s historic-county framing, the key point is that the MoD recorded the case under Inverness-shire, even though Highland geography and older county boundaries can be untidy around this part of Scotland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Aviemore itself adds texture to the account. It is a town and tourist resort on the north bank of the River Spey, within the Cairngorms National Park, and is associated with skiing, hill-walking and mountain access. In this project’s historic-county framing, the key point is that the MoD recorded the case under Inverness-shire, even though Highland geography and older county boundaries can be untidy around this part of Scotland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-1-dark.svg" | relative_url }}" alt="Aviemore 1998 illustration 1" data-theme-src-dark="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD listing does and does not show
 
-The best surviving evidence for the Aviemore case is not a detailed case file but a line in the MoD’s published “UFO Report 1998” table. The wider GOV.UK collection describes these as UFO reports from 1997 to 2009 and provides annual PDFs giving dates, times, locations and brief descriptions. The Aviemore entry appears in that format, between other short reports from April 1998. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The best surviving evidence for the Aviemore case is not a detailed case file but a line in the MoD’s published “UFO Report 1998” table. The wider GOV.UK collection describes these as UFO reports from 1997 to 2009 and provides annual PDFs giving dates, times, locations and brief descriptions. The Aviemore entry appears in that format, between other short reports from April 1998.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-That matters because the official format can easily be overread. A place in an MoD table means a report was received and logged. It does not mean the MoD verified the object, ruled out all ordinary causes, or concluded that the sighting involved unknown technology. The public row has a blank “occupation of reporter” field for Aviemore, and it gives no witness name, no number of witnesses, no address, no compass bearing, no altitude, no duration, no sound, no aircraft check and no follow-up conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+That matters because the official format can easily be overread. A place in an MoD table means a report was received and logged. It does not mean the MoD verified the object, ruled out all ordinary causes, or concluded that the sighting involved unknown technology. The public row has a blank “occupation of reporter” field for Aviemore, and it gives no witness name, no number of witnesses, no address, no compass bearing, no altitude, no duration, no sound, no aircraft check and no follow-up conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-This was consistent with the MoD’s stated approach to UFO reports. In a 1997 Commons answer, the department said it examined reports of unexplained aerial sightings sent to it “solely” to establish whether what was seen might have defence significance for UK airspace. A 1982 Lords answer used the same basic language: reports were passed to operations staff who examined them for possible defence implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1997-11-10/debates/01dc03f9-7b4d-47f5-9612-79fb8212a505/Ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Ufos</span><span class="citation-popover-snippet">Hansard Ufos</span></span></span>
+This was consistent with the MoD’s stated approach to UFO reports. In a 1997 Commons answer, the department said it examined reports of unexplained aerial sightings sent to it “solely” to establish whether what was seen might have defence significance for UK airspace. A 1982 Lords answer used the same basic language: reports were passed to operations staff who examined them for possible defence implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1997-11-10/debates/01dc03f9-7b4d-47f5-9612-79fb8212a505/Ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Ufos</span><span class="citation-popover-snippet">Hansard Ufos</span></span></span>
 
-The National Archives’ public guide to UFO reports is useful for reading the Aviemore entry in context. It says the MoD kept UFO records from the 1960s and that many describe shapes, lights and flashes, often with possible explanations. It also notes that most surviving MoD UFO files since 1970 were reviewed for release because of public interest. In other words, the Aviemore listing sits inside an administrative record of public reports, not a body of proof that each reported object remained technically unexplained after a deep investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+The National Archives’ public guide to UFO reports is useful for reading the Aviemore entry in context. It says the MoD kept UFO records from the 1960s and that many describe shapes, lights and flashes, often with possible explanations. It also notes that most surviving MoD UFO files since 1970 were reviewed for release because of public interest. In other words, the Aviemore listing sits inside an administrative record of public reports, not a body of proof that each reported object remained technically unexplained after a deep investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.9K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
 
 ## Why the evidence trail is short but still useful
 
-The Aviemore report’s value is that it gives a specific local time, place and description. For a county-level UFO history, that is more useful than a vague later anecdote with no date or source. It lets readers separate the original claim from embellishment. The original public record does not say “alien craft”, “triangular craft”, “silent craft”, “hovering over the village”, or “multiple witnesses”. It says slow motion, twelve to fifteen perimeter lights, 40 to 50 feet, descending behind trees. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Aviemore report’s value is that it gives a specific local time, place and description. For a county-level UFO history, that is more useful than a vague later anecdote with no date or source. It lets readers separate the original claim from embellishment. The original public record does not say “alien craft”, “triangular craft”, “silent craft”, “hovering over the village”, or “multiple witnesses”. It says slow motion, twelve to fifteen perimeter lights, 40 to 50 feet, descending behind trees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 The weakness is that the trail seems to stop there in the public material. There is no obvious linked newspaper investigation, no released photograph, no named police or RAF witness, and no later official explanation attached to the row. That does not make the witness wrong. It means the case cannot carry much evidential weight beyond the fact that such a report was made and preserved in an MoD list.
 
-The timing is also worth noting. The sighting was at 23:00 in mid-April. Lunar data for 17 April 1998 gives a waning gibbous Moon, with roughly 70 per cent or more of the disc illuminated depending on the calculator used. Moonlight could have made trees, haze and landscape features more visible than on a moonless night, but it does not by itself explain a ring of lights. It simply reminds us that the scene was not necessarily a pitch-black sky with no visual reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theskylive.com/moon/1998-04-17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theskylive.com">[The Sky Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theskylive.com</span><span class="citation-popover-snippet">Open source on theskylive.com.</span></span></span>
+The timing is also worth noting. The sighting was at 23:00 in mid-April. Lunar data for 17 April 1998 gives a waning gibbous Moon, with roughly 70 per cent or more of the disc illuminated depending on the calculator used. Moonlight could have made trees, haze and landscape features more visible than on a moonless night, but it does not by itself explain a ring of lights. It simply reminds us that the scene was not necessarily a pitch-black sky with no visual reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theskylive.com/moon/1998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theskylive.com">[The Sky Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theskylive.com</span><span class="citation-popover-snippet">Open source on theskylive.com.</span></span></span>
 
-Aviemore’s setting also cuts both ways. The Cairngorms are promoted for low light pollution and broad horizons, which can make the night sky unusually clear and memorable. The same qualities can make scale deceptive: a light seen over trees or against mountain darkness may look nearer, larger or lower than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitcairngorms.com/things-to-do/nature-wildlife/dark-skies-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcairngorms.com">[Visit Cairngorms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcairngorms.com</span><span class="citation-popover-snippet">Open source on visitcairngorms.com.</span></span></span>
+Aviemore’s setting also cuts both ways. The Cairngorms are promoted for low light pollution and broad horizons, which can make the night sky unusually clear and memorable. The same qualities can make scale deceptive: a light seen over trees or against mountain darkness may look nearer, larger or lower than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitcairngorms.com/things-to-do/nature-wildlife/dark-skies-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcairngorms.com">[Visit Cairngorms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcairngorms.com</span><span class="citation-popover-snippet">Open source on visitcairngorms.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-2-dark.svg" | relative_url }}" alt="Aviemore 1998 illustration 2" data-theme-src-dark="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -298,11 +298,11 @@ Aviemore’s setting also cuts both ways. The Cairngorms are promoted for low li
 
 The Aviemore entry is unresolved in the public record, but “unresolved” is not the same as “inexplicable”. Several ordinary categories could fit parts of the report, although none can be confirmed from the surviving MoD row alone.
 
-Aircraft are the first possibility to consider because the report describes slow, level-looking motion and multiple lights. Aircraft lighting can include navigation lights, anti-collision lights, landing lights and other external lights, and the Rules of the Air required aircraft to display appropriate lights at night. However, a normal aircraft-light pattern would not automatically explain “twelve to fifteen lights around the perimeter”, especially if the witness had a clear view of a compact object rather than a distant approach or turn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
+Aircraft are the first possibility to consider because the report describes slow, level-looking motion and multiple lights. Aircraft lighting can include navigation lights, anti-collision lights, landing lights and other external lights, and the Rules of the Air required aircraft to display appropriate lights at night. However, a normal aircraft-light pattern would not automatically explain “twelve to fifteen lights around the perimeter”, especially if the witness had a clear view of a compact object rather than a distant approach or turn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
 
 Ground or hillside lights are another possibility. In a wooded, mountainous area, fixed lights glimpsed through trees, or lights moving along a road or track beyond a tree line, can seem to descend or disappear into woodland. This explanation would be stronger if the report included a viewing direction, exact location and local line-of-sight information. It does not, so the idea remains plausible but untested.
 
-A cluster of separate light sources is also possible. The witness may have perceived a perimeter because the lights appeared arranged around a dark centre. The MoD’s own files contain many examples of witnesses reporting groups, shapes and formations of lights, and the National Archives’ material repeatedly shows how reports of unusual lights can arise from ordinary objects or atmospheric circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+A cluster of separate light sources is also possible. The witness may have perceived a perimeter because the lights appeared arranged around a dark centre. The MoD’s own files contain many examples of witnesses reporting groups, shapes and formations of lights, and the National Archives’ material repeatedly shows how reports of unusual lights can arise from ordinary objects or atmospheric circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 Some explanations are less convincing for this particular report. A meteor would usually be brief and fast, not a slow object with perimeter lights. A planet or bright star would not descend behind trees as a compact 40 to 50 foot object unless the “descent” was only the result of the Earth’s rotation or the witness moving relative to the tree line. Modern consumer drones are not a good fit for 1998 in the way they might be for a 2020s report.
 
@@ -334,194 +334,194 @@ That distinction is important for the wider project. Highland UFO accounts often
 <img src="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-3-dark.svg" | relative_url }}" alt="Aviemore 1998 illustration 3" data-theme-src-dark="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Inverness-shire_f61896_aviemore_1998_lights_a5c372-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened Over Aviemore in 1998?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened Over Aviemore in 1998?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented reports with official paper trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented reports with official paper trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows the challenges of interpreting brief sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the challenges of interpreting brief sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for discussing perception and estimation errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for discussing perception and estimation errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores interpretations of structured object reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretations of structured object reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aviemore-1998-what-happened-over-aviemore-in-1998-inverness-shire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That distinction is important for the wider project. Highland UFO accounts often
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That distinction is important for the wider project. Highland UFO accounts often
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That distinction is important for the wider project. Highland UFO accounts often
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That distinction is important for the wider project. Highland UFO accounts often
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That distinction is important for the wider project. Highland UFO accounts often
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,167 +727,167 @@ That distinction is important for the wider project. Highland UFO accounts often
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forestryandland.gov.scot  
    Title: inverness woodlands lmp 2019 2029  
-   Link: <a href="https://forestryandland.gov.scot/media/d5inbm0d/inverness-woodlands-lmp-2019-2029.pdf" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/media/d5inbm0d/inverness-woodlands-lmp-2019-2029.pdf</a>  
+   Link:<a href="https://forestryandland.gov.scot/media/d5inbm0d/inverness-woodlands-lmp-2019-2029.pdf" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/media/d5inbm0d/inverness-woodlands-lmp-2019-2029.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Aviemore%2C_Inverness-shire_1740</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: visitcairngorms.com  
-   Link: <a href="https://www.visitcairngorms.com/things-to-do/nature-wildlife/dark-skies-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcairngorms.com/things-to-do/nature-wildlife/dark-skies-park/</a>  
+   Link:<a href="https://www.visitcairngorms.com/things-to-do/nature-wildlife/dark-skies-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcairngorms.com/things-to-do/nature-wildlife/dark-skies-park/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Aviemore" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aviemore</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Aviemore" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aviemore</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Ufos  
-   Link: <a href="https://hansard.parliament.uk/Commons/1997-11-10/debates/01dc03f9-7b4d-47f5-9612-79fb8212a505/Ufos" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1997-11-10/debates/01dc03f9-7b4d-47f5-9612-79fb8212a505/Ufos</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1997-11-10/debates/01dc03f9-7b4d-47f5-9612-79fb8212a505/Ufos" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1997-11-10/debates/01dc03f9-7b4d-47f5-9612-79fb8212a505/Ufos</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects: Sightings  
-   Link: <a href="https://hansard.parliament.uk/lords/1982-03-04/debates/65048351-4645-4bcf-aa16-7c25d9d24e4f/UnidentifiedFlyingObjectsSightings" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1982-03-04/debates/65048351-4645-4bcf-aa16-7c25d9d24e4f/UnidentifiedFlyingObjectsSightings</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1982-03-04/debates/65048351-4645-4bcf-aa16-7c25d9d24e4f/UnidentifiedFlyingObjectsSightings" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1982-03-04/debates/65048351-4645-4bcf-aa16-7c25d9d24e4f/UnidentifiedFlyingObjectsSightings</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/moon/1998-04-17" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/moon/1998-04-17</a>  
+   Link:<a href="https://theskylive.com/moon/1998" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/moon/1998</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: visitcairngorms.com  
-   Link: <a href="https://www.visitcairngorms.com/stargazing-in-the-cairngorms-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcairngorms.com/stargazing-in-the-cairngorms-national-park/</a>  
+   Link:<a href="https://www.visitcairngorms.com/stargazing-in-the-cairngorms-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcairngorms.com/stargazing-in-the-cairngorms-national-park/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cairngorms.co.uk  
-   Link: <a href="https://cairngorms.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cairngorms.co.uk/</a>  
+   Link:<a href="https://cairngorms.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cairngorms.co.uk/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Cairngorms National Park  
-   Link: <a href="https://en.wikipedia.org/wiki/Cairngorms_National_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cairngorms_National_Park</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cairngorms_National_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cairngorms_National_Park</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: visitaviemore.co.uk  
-   Link: <a href="https://visitaviemore.co.uk/visitors/index.php?page=how-to-find-us" target="_blank" rel="noopener noreferrer nofollow">https://visitaviemore.co.uk/visitors/index.php?page=how-to-find-us</a>  
+   Link:<a href="https://visitaviemore.co.uk/visitors/index.php?page=how-to-find-us" target="_blank" rel="noopener noreferrer nofollow">https://visitaviemore.co.uk/visitors/index.php?page=how-to-find-us</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: roamglade.com  
-   Link: <a href="https://roamglade.com/destinations/cairngorms/" target="_blank" rel="noopener noreferrer nofollow">https://roamglade.com/destinations/cairngorms/</a>  
+   Link:<a href="https://roamglade.com/destinations/cairngorms/" target="_blank" rel="noopener noreferrer nofollow">https://roamglade.com/destinations/cairngorms/</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lazyduck.co.uk  
-   Link: <a href="https://www.lazyduck.co.uk/info/stargazing-walks-cairngorms" target="_blank" rel="noopener noreferrer nofollow">https://www.lazyduck.co.uk/info/stargazing-walks-cairngorms</a>  
+   Link:<a href="https://www.lazyduck.co.uk/info/stargazing-walks-cairngorms" target="_blank" rel="noopener noreferrer nofollow">https://www.lazyduck.co.uk/info/stargazing-walks-cairngorms</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cairngorms.co.uk  
-   Link: <a href="https://cairngorms.co.uk/visiting/things-to-do/adventure-and-the-outdoors" target="_blank" rel="noopener noreferrer nofollow">https://cairngorms.co.uk/visiting/things-to-do/adventure-and-the-outdoors</a>  
+   Link:<a href="https://cairngorms.co.uk/visiting/things-to-do/adventure-and-the-outdoors" target="_blank" rel="noopener noreferrer nofollow">https://cairngorms.co.uk/visiting/things-to-do/adventure-and-the-outdoors</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: uspprodblob.blob.core.windows.net  
-   Link: <a href="https://uspprodblob.blob.core.windows.net/pdfs/Aviemore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uspprodblob.blob.core.windows.net/pdfs/Aviemore.pdf</a>  
+   Link:<a href="https://uspprodblob.blob.core.windows.net/pdfs/Aviemore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uspprodblob.blob.core.windows.net/pdfs/Aviemore.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
+   Link:<a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cairngormsdarkskypark.org  
-   Link: <a href="https://www.cairngormsdarkskypark.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cairngormsdarkskypark.org/</a>  
+   Link:<a href="https://www.cairngormsdarkskypark.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cairngormsdarkskypark.org/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: venturehighland.com  
-   Link: <a href="https://www.venturehighland.com/cairngorms-national-park-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.venturehighland.com/cairngorms-national-park-guide</a>  
+   Link:<a href="https://www.venturehighland.com/cairngorms-national-park-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.venturehighland.com/cairngorms-national-park-guide</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: timegenie.com  
-   Link: <a href="https://www.timegenie.com/?c1=gbaie" target="_blank" rel="noopener noreferrer nofollow">https://www.timegenie.com/?c1=gbaie</a>  
+   Link:<a href="https://www.timegenie.com/?c1=gbaie" target="_blank" rel="noopener noreferrer nofollow">https://www.timegenie.com/?c1=gbaie</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cairngormbothies.co.uk  
-   Link: <a href="https://www.cairngormbothies.co.uk/dark-skies-stargazing-from-your-decking-at-cairngorm-bothies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cairngormbothies.co.uk/dark-skies-stargazing-from-your-decking-at-cairngorm-bothies/</a>  
+   Link:<a href="https://www.cairngormbothies.co.uk/dark-skies-stargazing-from-your-decking-at-cairngorm-bothies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cairngormbothies.co.uk/dark-skies-stargazing-from-your-decking-at-cairngorm-bothies/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites</a>  
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites</a>  

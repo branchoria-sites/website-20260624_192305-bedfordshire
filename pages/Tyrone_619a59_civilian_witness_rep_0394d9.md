@@ -252,19 +252,19 @@ image: /assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-overview-social.
 
 
 <img src="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-overview.webp" | relative_url }}" alt="Overview image for Witness Reports" loading="eager" decoding="sync" fetchpriority="high">
-This page uses Tyrone in the historic-county sense used by the wider UK county project. Omagh, Gortin and Dungannon all sit within the Tyrone frame, even though modern council boundaries and media coverage do not always follow historic county lines. The project’s reference geography follows historic counties, while sources such as local news, PSNI material and civilian UFO groups may use modern district names or looser “Co Tyrone” wording. The wider historic-county map basis is relevant because it distinguishes UK historic counties from later administrative arrangements and from the Republic of Ireland, which appears only as neighbouring context in this project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+This page uses Tyrone in the historic-county sense used by the wider UK county project. Omagh, Gortin and Dungannon all sit within the Tyrone frame, even though modern council boundaries and media coverage do not always follow historic county lines. The project’s reference geography follows historic counties, while sources such as local news, PSNI material and civilian UFO groups may use modern district names or looser “Co Tyrone” wording. The wider historic-county map basis is relevant because it distinguishes UK historic counties from later administrative arrangements and from the Republic of Ireland, which appears only as neighbouring context in this project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
 ## Why Omagh and Dungannon reports are mostly light cases, not landmark incidents
 
 The most useful Tyrone civilian reports are modest in form: people saw lights, tried to describe motion, colour and duration, and in some cases submitted photographs or video to a civilian group. That makes them worth recording, but it also limits what can be concluded. A light in the sky can be many things before it becomes evidence of an unknown craft: aircraft, satellites, planets, drones, lanterns, flares, meteors, illuminated cloud, camera artefacts or a mix of perception and expectation.
 
-A good example is the NIUFOS report from Omagh dated 25 September 2020. The witness, a woman whose name was withheld, reported seeing what first looked like an unusually bright star near the morning Sun at about 06:55, then around nine further lights during an encounter lasting roughly five minutes. The report records the location as Omagh, the weather as cold, and other witnesses as family members. NIUFOS noted that Venus was visible and could explain the first “bright star” impression, but said the additional lights and submitted footage remained puzzling to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
+A good example is the NIUFOS report from Omagh dated 25 September 2020. The witness, a woman whose name was withheld, reported seeing what first looked like an unusually bright star near the morning Sun at about 06:55, then around nine further lights during an encounter lasting roughly five minutes. The report records the location as Omagh, the weather as cold, and other witnesses as family members. NIUFOS noted that Venus was visible and could explain the first “bright star” impression, but said the additional lights and submitted footage remained puzzling to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
 
-That Omagh case is interesting because it contains several features that make civilian reports useful: a date, time, local area, approximate duration, weather, witness count, image/video material and investigator comments. It is also a good example of why such cases remain uncertain. The account depends on an anonymous witness, short-duration observation, hurried phone recording and retrospective interpretation of lights near the Sun. NIUFOS itself offered a partial [ordinary explanation]({{ 'explanations-237ea1/' | relative_url }}), identifying Venus as a candidate for the initial bright object, while leaving the other lights unresolved rather than declaring them extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
+That Omagh case is interesting because it contains several features that make civilian reports useful: a date, time, local area, approximate duration, weather, witness count, image/video material and investigator comments. It is also a good example of why such cases remain uncertain. The account depends on an anonymous witness, short-duration observation, hurried phone recording and retrospective interpretation of lights near the Sun. NIUFOS itself offered a partial [ordinary explanation]({{ 'explanations-237ea1/' | relative_url }}), identifying Venus as a candidate for the initial bright object, while leaving the other lights unresolved rather than declaring them extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
 
-Dungannon-area reports show a similar pattern, with a stronger emphasis on orange or amber lights. In one NIUFOS case from 15 August 2020, Christine Trimmer and her husband reported a round orange light near Cabragh/Altmore, Dungannon, on a warm, clear night at about 10pm. The report describes an object moving from west to east, turning north, zigzagging, then stopping near a star for perhaps 20 minutes or more. NIUFOS classified it as a “Nocturnal Light” and said a helicopter could not be ruled out, although the absence of sound was noted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-snippet">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-meta">Published: august 2020</span></span></span>
+Dungannon-area reports show a similar pattern, with a stronger emphasis on orange or amber lights. In one NIUFOS case from 15 August 2020, Christine Trimmer and her husband reported a round orange light near Cabragh/Altmore, Dungannon, on a warm, clear night at about 10pm. The report describes an object moving from west to east, turning north, zigzagging, then stopping near a star for perhaps 20 minutes or more. NIUFOS classified it as a “Nocturnal Light” and said a helicopter could not be ruled out, although the absence of sound was noted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-snippet">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-meta">Published: august 2020</span></span></span>
 
-A separate Thornhill Road report, near Dungannon, was submitted to NIUFOS in 2021 but described an event the witness placed around 12 February 2015. The witness reported amber or orange orbs in the early hours, moving erratically, switching on and off, and appearing almost overhead. NIUFOS considered satellites, Chinese lanterns, flares, meteors and some other explanations, but also acknowledged a major weakness: because the report arrived years after the event, they could not check historical flight records far enough back and found no matching archived local reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span><span class="citation-popover-snippet">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span></span></span>
+A separate Thornhill Road report, near Dungannon, was submitted to NIUFOS in 2021 but described an event the witness placed around 12 February 2015. The witness reported amber or orange orbs in the early hours, moving erratically, switching on and off, and appearing almost overhead. NIUFOS considered satellites, Chinese lanterns, flares, meteors and some other explanations, but also acknowledged a major weakness: because the report arrived years after the event, they could not check historical flight records far enough back and found no matching archived local reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span><span class="citation-popover-snippet">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span></span></span>
 
 The Dungannon and Omagh material therefore works best as a small case family rather than as isolated “proof” cases. The recurring features are bright points of light, orange or white colour, short or moderate duration, witnesses trying to compare the objects with familiar explanations, and civilian investigators recording both puzzlement and limitations. What is missing is equally important: no radar correlation, no confirmed air-traffic reconstruction, no independent official investigation, no calibrated optical data and no chain of unrelated witnesses strong enough to establish that the same object was seen from multiple positions.
 
@@ -272,13 +272,13 @@ The Dungannon and Omagh material therefore works best as a small case family rat
 <img src="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-1-dark.svg" | relative_url }}" alt="Witness Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Gortin entity story is memorable, but evidentially fragile
 
-The Gortin report is the strangest story in this subtopic, and it needs the most careful handling. NIUFOS published it in September 2020 as an “Unknown Entity” report concerning an alleged childhood encounter near Gortin on 7 September 1975. The witness said she and family members heard a noise outside at night, looked from a bedroom window, and saw a tall figure with large black eyes. The account also links the episode to a cousin’s reported UFO activity in the Creggan area, more than 15km away, around the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
+The Gortin report is the strangest story in this subtopic, and it needs the most careful handling. NIUFOS published it in September 2020 as an “Unknown Entity” report concerning an alleged childhood encounter near Gortin on 7 September 1975. The witness said she and family members heard a noise outside at night, looked from a bedroom window, and saw a tall figure with large black eyes. The account also links the episode to a cousin’s reported UFO activity in the Creggan area, more than 15km away, around the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
 
-As a story, it has the ingredients that keep local UFO folklore alive: a rural Tyrone setting, a family group, a frightened childhood witness, a late-night noise, an apparent non-human figure, and a family detail in which the father reportedly found the dog locked in a shed rather than causing the noise outside. NIUFOS classified the case as a close encounter of the third kind, while also noting that the reported UAP activity was not seen by the main witness herself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
+As a story, it has the ingredients that keep local UFO folklore alive: a rural Tyrone setting, a family group, a frightened childhood witness, a late-night noise, an apparent non-human figure, and a family detail in which the father reportedly found the dog locked in a shed rather than causing the noise outside. NIUFOS classified the case as a close encounter of the third kind, while also noting that the reported UAP activity was not seen by the main witness herself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
 
 As evidence, however, the Gortin case is much weaker than its vividness might suggest. It was submitted decades after the claimed event. The principal witness was recalling a childhood experience. The report gives no contemporary police note, medical record, dated newspaper article, photograph, physical trace, neighbour testimony or independent interview transcript. The named family witnesses are not presented as separately interviewed public witnesses. That does not prove the story false, but it does mean the case should be treated as a preserved personal memory rather than a documented investigation.
 
-The investigator’s comments also show how easily a local case can drift from evidence into speculation. NIUFOS connected the location with the Sperrin Mountains and the Omagh Fault, suggesting that areas with “high natural energies” may be associated with UAP and entity reports. That is an interpretation, not a demonstrated mechanism. The more evidence-led point is simpler: Gortin’s rural setting, darkness, family context and later retelling make the story memorable, but they do not allow a firm conclusion about what was actually seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
+The investigator’s comments also show how easily a local case can drift from evidence into speculation. NIUFOS connected the location with the Sperrin Mountains and the Omagh Fault, suggesting that areas with “high natural energies” may be associated with UAP and entity reports. That is an interpretation, not a demonstrated mechanism. The more evidence-led point is simpler: Gortin’s rural setting, darkness, family context and later retelling make the story memorable, but they do not allow a firm conclusion about what was actually seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
 
 The case therefore belongs in Tyrone’s UFO history not because it proves an entity encounter, but because it shows how civilian archives preserve stories that official systems rarely capture. A police or defence archive is unlikely to contain a detailed “alien at the window” childhood memory unless someone reported it at the time. Civilian groups, by contrast, often record precisely these marginal, late, personal accounts. That makes them culturally valuable and evidentially difficult at the same time.
 
@@ -287,15 +287,15 @@ The case therefore belongs in Tyrone’s UFO history not because it proves an en
 
 ## What civilian archives add that official records often miss
 
-Civilian UFO archives are useful because they capture texture. The NIUFOS reports preserve witness wording, uncertainty, local landmarks, weather, duration and the everyday comparisons people reach for: stars, helicopters, lanterns, flares, meteors and aircraft. NIUFOS describes itself as a Northern Ireland-based non-profit organisation dedicated to investigation, research and education around UAP and related phenomena, and its website invites witnesses to submit reports as accurately as possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">Northern Ireland UFO Society &#124; Home &#124; NIUFOS</span><span class="citation-popover-snippet">Northern Ireland UFO Society &#124; Home &#124; NIUFOS</span></span></span>
+Civilian UFO archives are useful because they capture texture. The NIUFOS reports preserve witness wording, uncertainty, local landmarks, weather, duration and the everyday comparisons people reach for: stars, helicopters, lanterns, flares, meteors and aircraft. NIUFOS describes itself as a Northern Ireland-based non-profit organisation dedicated to investigation, research and education around UAP and related phenomena, and its website invites witnesses to submit reports as accurately as possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">Northern Ireland UFO Society &#124; Home &#124; NIUFOS</span><span class="citation-popover-snippet">Northern Ireland UFO Society &#124; Home &#124; NIUFOS</span></span></span>
 
-That role matters in Tyrone because [official records]({{ 'official-records-9f8c6a/' | relative_url }}) are thin. The Ministry of Defence stopped recording and investigating UFO sighting reports from 1 December 2009, meaning later local reports were not entering the old Whitehall UFO process. The National Archives material on the final MoD files says the closure followed years of public reporting through the MoD UFO desk and hotline, but by late 2009 the desk was shut and staff redeployed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+That role matters in Tyrone because [official records]({{ 'official-records-9f8c6a/' | relative_url }}) are thin. The Ministry of Defence stopped recording and investigating UFO sighting reports from 1 December 2009, meaning later local reports were not entering the old Whitehall UFO process. The National Archives material on the final MoD files says the closure followed years of public reporting through the MoD UFO desk and hotline, but by late 2009 the desk was shut and staff redeployed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-After that, police disclosures became one of the few official routes through which Northern Ireland reports surfaced publicly. PSNI-related reporting has shown small annual numbers and limited follow-up. In 2024 reporting based on PSNI Freedom of Information material, the only 2022 UFO sighting described was from the [Stewartstown]({{ 'stewartstown/' | relative_url }}) area of Dungannon, where a caller said a UFO had been seen flying from the Belfast direction to Dungannon every evening; police said no further action was required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
+After that, police disclosures became one of the few official routes through which Northern Ireland reports surfaced publicly. PSNI-related reporting has shown small annual numbers and limited follow-up. In 2024 reporting based on PSNI Freedom of Information material, the only 2022 UFO sighting described was from the [Stewartstown]({{ 'stewartstown/' | relative_url }}) area of Dungannon, where a caller said a UFO had been seen flying from the Belfast direction to Dungannon every evening; police said no further action was required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
 
 This is where civilian and official records complement each other. Police logs confirm that people sometimes report unusual lights or alleged alien experiences, but the public summaries are often brief and procedural. Civilian reports can be richer, but they are more dependent on witness memory, voluntary submission and the standards of the group receiving the account. Neither source type should be treated as automatic proof.
 
-The strongest use of civilian archives is therefore comparative. They let readers ask: do reports cluster around particular descriptions, times, places or explanations? In this small Tyrone set, the answer is limited but still useful. Omagh and Dungannon reports repeatedly involve bright lights rather than structured craft. Some are near dawn or at night. Some witnesses are aware of common explanations and explicitly reject them. Investigators sometimes suggest Venus, helicopters, airliners, lanterns, flares or meteors, but do not always reach a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS+2NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
+The strongest use of civilian archives is therefore comparative. They let readers ask: do reports cluster around particular descriptions, times, places or explanations? In this small Tyrone set, the answer is limited but still useful. Omagh and Dungannon reports repeatedly involve bright lights rather than structured craft. Some are near dawn or at night. Some witnesses are aware of common explanations and explicitly reject them. Investigators sometimes suggest Venus, helicopters, airliners, lanterns, flares or meteors, but do not always reach a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-2-dark.svg" | relative_url }}" alt="Witness Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,15 +303,15 @@ The strongest use of civilian archives is therefore comparative. They let reader
 
 The doubts around Omagh, Gortin and Dungannon are not generic scepticism. They come from specific evidential problems.
 
-**Late reporting weakens reconstruction.** The Thornhill Road report is detailed, but NIUFOS itself noted that the event had happened years before submission, making flight-record checks and corroboration difficult. Late reporting also affects the Gortin entity story more severely, because it concerns an alleged 1975 childhood event published decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span><span class="citation-popover-snippet">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span></span></span>
+**Late reporting weakens reconstruction.** The Thornhill Road report is detailed, but NIUFOS itself noted that the event had happened years before submission, making flight-record checks and corroboration difficult. Late reporting also affects the Gortin entity story more severely, because it concerns an alleged 1975 childhood event published decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span><span class="citation-popover-snippet">ufo report sighting co tyrone thornhill road near dungannon feb 2015</span></span></span>
 
-**Lights near the horizon or Sun are hard to judge.** The Omagh report began with what looked like a very bright star near the morning Sun. NIUFOS identified Venus as visible at the time and a possible explanation for the initial object. Once a witness is already focused on a striking light, additional faint lights, cloud glints, aircraft or camera artefacts can become harder to separate without precise optical data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
+**Lights near the horizon or Sun are hard to judge.** The Omagh report began with what looked like a very bright star near the morning Sun. NIUFOS identified Venus as visible at the time and a possible explanation for the initial object. Once a witness is already focused on a striking light, additional faint lights, cloud glints, aircraft or camera artefacts can become harder to separate without precise optical data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
 
-**Orange orbs have many ordinary candidates.** The Dungannon and Thornhill Road reports describe orange lights or orbs, a common UFO-report category. The witnesses and investigators considered lanterns, flares, aircraft, helicopters and meteors, but the descriptions did not allow definitive identification. That is not the same as ruling out all ordinary explanations; it means the available record is not strong enough to choose confidently between them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-snippet">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-meta">Published: august 2020</span></span></span>
+**Orange orbs have many ordinary candidates.** The Dungannon and Thornhill Road reports describe orange lights or orbs, a common UFO-report category. The witnesses and investigators considered lanterns, flares, aircraft, helicopters and meteors, but the descriptions did not allow definitive identification. That is not the same as ruling out all ordinary explanations; it means the available record is not strong enough to choose confidently between them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-snippet">ufo report sighting co tyrone dungannon 15 august 2020</span><span class="citation-popover-meta">Published: august 2020</span></span></span>
 
-**Entity reports carry special memory problems.** The Gortin story is not just a sky sighting. It is a frightening, family-centred childhood memory involving an alleged figure at a window. Such accounts can be sincere and still difficult to test. Without contemporary documentation or separate witness statements, the case remains a local narrative rather than a verifiable event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
+**Entity reports carry special memory problems.** The Gortin story is not just a sky sighting. It is a frightening, family-centred childhood memory involving an alleged figure at a window. Such accounts can be sincere and still difficult to test. Without contemporary documentation or separate witness statements, the case remains a local narrative rather than a verifiable event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-snippet">unknown entity report encounter co tyrone gortin 7th september 1975</span><span class="citation-popover-meta">Published: september 1975</span></span></span>
 
-**Official silence does not settle the matter.** The lack of strong MoD or PSNI investigation does not prove that nothing unusual occurred. But it also does not create hidden evidence in favour of the reports. The MoD’s post-2009 policy means many later reports simply were not investigated by that route, while PSNI disclosures show that police often recorded reports without further action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Official silence does not settle the matter.** The lack of strong MoD or PSNI investigation does not prove that nothing unusual occurred. But it also does not create hidden evidence in favour of the reports. The MoD’s post-2009 policy means many later reports simply were not investigated by that route, while PSNI disclosures show that police often recorded reports without further action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pv7x4dRye3U" title="[REAL ATC] Several aircraft witness a UFO RIGHT OVER IRELAND!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pv7x4dRye3U" target="_blank" rel="noopener noreferrer">[REAL ATC] Several aircraft witness a UFO RIGHT OVER IRELAND!</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 179.9K &middot; Uploaded: November 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pv7x4dRye3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pv7x4dRye3U">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ The doubts around Omagh, Gortin and Dungannon are not generic scepticism. They c
 
 The Omagh, Gortin and Dungannon reports are not landmark UK UFO cases, but they are good examples of how county-level UFO history actually works. Most local UFO records are not dramatic files full of radar tracks and official secrecy. They are ordinary people trying to describe something odd, local groups preserving reports, newspapers occasionally amplifying them, and later readers trying to decide whether the material is unresolved, weak, misidentified or culturally interesting.
 
-Within Tyrone, these reports help show three different layers of the phenomenon. Omagh represents the daylight or dawn light case, where astronomy and atmospheric effects must be considered. Dungannon represents nocturnal orange-light reports, where aircraft, helicopters, lanterns, flares and satellites sit alongside genuinely puzzling witness descriptions. Gortin represents the stranger edge of civilian archives, where a close-encounter memory survives because a witness eventually sent it to a group willing to record it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS+3NIUFOS+3NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
+Within Tyrone, these reports help show three different layers of the phenomenon. Omagh represents the daylight or dawn light case, where astronomy and atmospheric effects must be considered. Dungannon represents nocturnal orange-light reports, where aircraft, helicopters, lanterns, flares and satellites sit alongside genuinely puzzling witness descriptions. Gortin represents the stranger edge of civilian archives, where a close-encounter memory survives because a witness eventually sent it to a group willing to record it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niufos.org">[NIUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niufos.org</span><span class="citation-popover-title">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-snippet">ufo report ufo sighting co tyrone omagh 25th september 2020</span><span class="citation-popover-meta">Published: september 2020</span></span></span>
 
 For readers, the main takeaway is not that Tyrone has a hidden catalogue of proven extraordinary events. It is that local UFO history depends on fragile evidence, and fragile evidence still has value when handled honestly. The reports preserve what people said they experienced, show how civilian investigators tried to classify and comment on those experiences, and reveal where ordinary explanations remain plausible. They also mark the limits of the record: without timely reporting, independent corroboration, technical data and careful follow-up, the most responsible verdict is usually “interesting, but not established”.
 
@@ -339,194 +339,194 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
 <img src="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-3-dark.svg" | relative_url }}" alt="Witness Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tyrone_619a59_civilian_witness_rep_0394d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Tyrone Witness Stories Persist?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Tyrone Witness Stories Persist?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Uses testimony and documented cases to explore sighting credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses testimony and documented cases to explore sighting credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how witness accounts are categorized and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how witness accounts are categorized and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides tools for assessing anecdotal and eyewitness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing anecdotal and eyewitness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-O4q0kuCyWoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-O4q0kuCyWoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
+</h4>
+<p class="fr-book-author">By John E. Mack</p>
         
-        <p class="fr-book-desc">Examines personal testimony and the persistence of extraordinary narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines personal testimony and the persistence of extraordinary narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Protomorph Human-Hybrid Face (Mk. 2)"><img src="{{ '/assets/images/marketplace-covers/89dbd2113eee5724c272.jpg' | relative_url }}" alt="Listing image for Alien Protomorph Human-Hybrid Face (Mk. 2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Protomorph Human-Hybrid Face (Mk. 2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Protomorph Human-Hybrid Face (Mk. 2)"><img src="{{ '/assets/images/marketplace-covers/89dbd2113eee5724c272.jpg' | relative_url }}" alt="Listing image for Alien Protomorph Human-Hybrid Face (Mk. 2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Protomorph Human-Hybrid Face (Mk. 2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus Shelf Statue"><img src="{{ '/assets/images/marketplace-covers/66f3cce9f3a874eb738c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus Shelf Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus Shelf Statue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus Shelf Statue"><img src="{{ '/assets/images/marketplace-covers/66f3cce9f3a874eb738c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus Shelf Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus Shelf Statue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="witness-reports-why-do-tyrone-witness-stories-persist-tyrone-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,159 +732,159 @@ That standard is not meant to dismiss witnesses. It is what allows a local UFO p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: niufos.org  
    Title: ufo report ufo sighting co tyrone omagh 25th september 2020  
-   Link: <a href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020</a>  
+   Link:<a href="https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/ufo-report-ufo-sighting-co-tyrone-omagh-25th-september-2020</a>  
    Published: september 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: niufos.org  
    Title: ufo report sighting co tyrone dungannon 15 august 2020  
-   Link: <a href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020</a>  
+   Link:<a href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/ufo-report-sighting-co-tyrone-dungannon-15-august-2020</a>  
    Published: august 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: niufos.org  
    Title: ufo report sighting co tyrone thornhill road near dungannon feb 2015  
-   Link: <a href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015</a>  
+   Link:<a href="https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/ufo-report-sighting-co-tyrone-thornhill-road-near-dungannon-feb-2015</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: niufos.org  
    Title: unknown entity report encounter co tyrone gortin 7th september 1975  
-   Link: <a href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975</a>  
+   Link:<a href="https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/post/unknown-entity-report-encounter-co-tyrone-gortin-7th-september-1975</a>  
    Published: september 1975  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: niufos.org  
    Title: Northern Ireland UFO Society | Home | NIUFOS  
-   Link: <a href="https://www.niufos.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/</a>  
+   Link:<a href="https://www.niufos.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: niufos.org  
-   Link: <a href="https://www.niufos.org/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/blog</a>  
+   Link:<a href="https://www.niufos.org/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.niufos.org/blog</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psni.police.uk  
    Title: ufo sightings  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:Yorkshire British Isles.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AYorkshire_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AYorkshire_-_British_Isles.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AYorkshire_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AYorkshire_-_British_Isles.svg</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:Northern England Historic counties.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commons.wikimedia.org  
    Title: File:British Isles all.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:Anglesey British Isles.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: irishtimes.com  
    Title: significant fall in ufo sightings in northern ireland in last two years  
-   Link: <a href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/</a>  
+   Link:<a href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: [REAL ATC] Several aircraft witness a UFO RIGHT OVER IRELAND!  
-   Link: <a href="https://www.youtube.com/watch?v=pv7x4dRye3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pv7x4dRye3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted in Mullinahone, Co. Tipperary, Ireland 1969...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pv7x4dRye3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pv7x4dRye3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted in Mullinahone, Co. Tipperary, Ireland 1969...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[REAL ATC] Several aircraft witness a UFO RIGHT OVER IRELAND...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[REAL ATC] Several aircraft witness a UFO RIGHT OVER IRELAND...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5RGiFqxrNx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RGiFqxrNx4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Surveillance of Earth | Eamonn Ansbro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5RGiFqxrNx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RGiFqxrNx4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Surveillance of Earth | Eamonn Ansbro...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: paranormaldatabase.com  
-   Link: <a href="https://www.paranormaldatabase.com/ireland/antrim.php" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/ireland/antrim.php</a>  
+   Link:<a href="https://www.paranormaldatabase.com/ireland/antrim.php" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/ireland/antrim.php</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: fwi.co.uk  
-   Link: <a href="https://www.fwi.co.uk/livestock/dungannon-charolais-achieve-90" target="_blank" rel="noopener noreferrer nofollow">https://www.fwi.co.uk/livestock/dungannon-charolais-achieve-90</a>  
+   Link:<a href="https://www.fwi.co.uk/livestock/dungannon-charolais-achieve-90" target="_blank" rel="noopener noreferrer nofollow">https://www.fwi.co.uk/livestock/dungannon-charolais-achieve-90</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/</a>  
+   Link:<a href="https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1406644059539064/posts/2468466280023498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1406644059539064/posts/2468466280023498/</a>  
+   Link:<a href="https://www.facebook.com/groups/1406644059539064/posts/2468466280023498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1406644059539064/posts/2468466280023498/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1858455544438926/posts/4261223570828766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1858455544438926/posts/4261223570828766/</a>  
+   Link:<a href="https://www.facebook.com/groups/1858455544438926/posts/4261223570828766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1858455544438926/posts/4261223570828766/</a>  

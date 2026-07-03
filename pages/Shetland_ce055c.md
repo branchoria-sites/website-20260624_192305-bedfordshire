@@ -118,9 +118,9 @@ heading_title: What Makes Shetland's UFO Stories Different?
 page_heading_title: What Makes Shetland's UFO Stories Different?
 source_count: 136
 infographic_count: 3
-page_website_name: Shetland UFOs
+page_website_name: Shetland
 page_banner_line: Balanced northern-skies UFO history from Shetland's islands, records and radar context.
-site_website_name: Shetland UFOs
+site_website_name: Shetland
 site_banner_line: Balanced northern-skies UFO history from Shetland's islands, records and radar context.
 site_image_description: A dark Shetland coastline under a wide northern sky, with faint aurora above the sea and a distant white light near the horizon.
 output_language: English
@@ -689,22 +689,22 @@ image: /assets/images/Shetland_ce055c-overview-social.jpg
 
 ## Why Shetland is a distinctive UFO setting
 
-Shetland is both a historic county and a modern council area in the far north of Scotland. For this project’s historic-county map, it is treated as the Shetland county area rather than folded into a mainland Scottish region. Wikishire’s historic-county mapping treats places such as Wick of Belmont as being in the historic county of Shetland while also noting the present Shetland Islands council area, which is a useful reminder that older county geography and modern administration largely overlap here but are still different mapping languages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Wick_of_Belmont%2C_Shetland_261460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Shetland is both a historic county and a modern council area in the far north of Scotland. For this project’s historic-county map, it is treated as the Shetland county area rather than folded into a mainland Scottish region. Wikishire’s historic-county mapping treats places such as Wick of Belmont as being in the historic county of Shetland while also noting the present Shetland Islands council area, which is a useful reminder that older county geography and modern administration largely overlap here but are still different mapping languages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Wick_of_Belmont%2C_Shetland_261460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Shetland_ce055c-overview.webp" | relative_url }}" alt="Overview image for What Makes Shetland&#x27;s UFO Stories Different?" loading="eager" decoding="sync" fetchpriority="high">
 That geography matters because Shetland is an island group under busy, strategically interesting skies. It lies north of mainland Britain, close enough to North Atlantic and Norwegian Sea air and sea routes for aircraft, coastguard observations, offshore traffic, weather effects and military surveillance to matter in any UFO interpretation. Unlike inland counties where many sightings are domestic “lights over town” reports, Shetland’s most memorable UFO material is bound up with long horizons, low population density, sea approaches and the question of what military or aviation systems might have seen.
 
-Shetland is also one of the best places in Britain to see the aurora borealis, locally known as the “Mirrie Dancers”. VisitScotland describes Shetland as the part of Scotland closest to the Arctic Circle, while local visitor information says a keen observer checking clear winter skies could expect to see aurorae several times in a typical winter. The Met Office notes that aurorae can be visible as far south as Scotland and northern England or Ireland under suitable conditions, but also warns that photographs often make displays look brighter than they appeared to the naked eye. These facts do not “explain” every UFO report, but they show why Shetland produces sky experiences that can be vivid, intermittent and hard to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitscotland.com">[VisitScotland+2Shetland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitscotland.com</span><span class="citation-popover-snippet">Open source on visitscotland.com.</span></span></span>
+Shetland is also one of the best places in Britain to see the aurora borealis, locally known as the “Mirrie Dancers”. VisitScotland describes Shetland as the part of Scotland closest to the Arctic Circle, while local visitor information says a keen observer checking clear winter skies could expect to see aurorae several times in a typical winter. The Met Office notes that aurorae can be visible as far south as Scotland and northern England or Ireland under suitable conditions, but also warns that photographs often make displays look brighter than they appeared to the naked eye. These facts do not “explain” every UFO report, but they show why Shetland produces sky experiences that can be vivid, intermittent and hard to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitscotland.com">[visitscotland.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitscotland.com</span><span class="citation-popover-snippet">Open source on visitscotland.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sdBmCkKkGjs" title="Timelapse of the Mirrie Dancers 23rd March 2023 over Walls, Shetland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sdBmCkKkGjs" target="_blank" rel="noopener noreferrer">Timelapse of the Mirrie Dancers 23rd March 2023 over Walls, Shetland</a></p><p class="youtube-embed-meta">Channel: David Lees</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sdBmCkKkGjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sdBmCkKkGjs">Open on YouTube</a></p></div></div></div>
 
 ## The 1992 fast-moving object off Shetland
 
-The standout Shetland case in the available public record is a report from December 1992. A declassified US document, preserved in CIA-related files and reproduced by The Black Vault, is an FBIS copy of a Guardian report by Simon Tisdall headed “Fast-moving UFO spied as 5,500 mph secret takes off”. The document says there had been a “mysterious appearance of a fast-moving UFO off the Shetland Islands” at the weekend, and that the event coincided with reports in the United States about a possible ultra-secret American aircraft succeeding the SR-71 Blackbird. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The standout Shetland case in the available public record is a report from December 1992. A declassified US document, preserved in CIA-related files and reproduced by The Black Vault, is an FBIS copy of a Guardian report by Simon Tisdall headed “Fast-moving UFO spied as 5,500 mph secret takes off”. The document says there had been a “mysterious appearance of a fast-moving UFO off the Shetland Islands” at the weekend, and that the event coincided with reports in the United States about a possible ultra-secret American aircraft succeeding the SR-71 Blackbird.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-The most useful details are simple but striking. According to the document, Shetland police, the coastguard and Lerwick Observatory recorded 17 sightings of a “large, white object travelling low and very fast” at about 9 pm on a Saturday. A Lerwick Observatory scientist was quoted as saying they did not know what it was, and the account links the mystery to speculation about a US aircraft said to be capable of Mach 8, or roughly eight times the speed of sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The most useful details are simple but striking. According to the document, Shetland police, the coastguard and Lerwick Observatory recorded 17 sightings of a “large, white object travelling low and very fast” at about 9 pm on a Saturday. A Lerwick Observatory scientist was quoted as saying they did not know what it was, and the account links the mystery to speculation about a US aircraft said to be capable of Mach 8, or roughly eight times the speed of sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The case matters because it is not merely a lone witness seeing a light. It involved multiple reporting channels — police, coastguard and an observatory — and it was treated seriously enough to be copied into US government open-source intelligence material. At the same time, the surviving public evidence is thin. The available document is a brief press-derived intelligence clipping, not a full investigation file with radar plots, original witness statements, aircraft checks, weather records and astronomical analysis. It therefore supports the claim that a notable report occurred; it does not support a confident claim about what the object was.
 
@@ -714,13 +714,13 @@ The “spy plane” angle is also important. The report did not simply say “al
 <img src="{{ "/assets/images/Shetland_ce055c-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Shetland&#x27;s UFO Stories Different? illustration 1" data-theme-src-dark="{{ "/assets/images/Shetland_ce055c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shetland_ce055c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The MoD record: a small public footprint, not a county flap
 
-The Ministry of Defence’s published UFO report tables are useful because they reduce some of the folklore and show what was logged in a standardised way. GOV.UK describes the 1997 to 2009 documents as UFO reports giving dates, times, locations and brief descriptions. Those tables are not complete investigative case files, but they are a valuable public index of what reached the MoD in that period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence’s published UFO report tables are useful because they reduce some of the folklore and show what was logged in a standardised way. GOV.UK describes the 1997 to 2009 documents as UFO reports giving dates, times, locations and brief descriptions. Those tables are not complete investigative case files, but they are a valuable public index of what reached the MoD in that period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-In the 1997 table, Shetland appears in an entry for Lerwick on 8 July 1997 at 23:45. The brief description says the witness saw “a round light, the size of a five pence piece through binoculars” moving east. This is a classic low-information UFO entry: a location, time, direction of movement and visual impression, but no named witness, no duration, no radar confirmation, no weather detail and no recorded follow-up conclusion in the table. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+In the 1997 table, Shetland appears in an entry for Lerwick on 8 July 1997 at 23:45. The brief description says the witness saw “a round light, the size of a five pence piece through binoculars” moving east. This is a classic low-information UFO entry: a location, time, direction of movement and visual impression, but no named witness, no duration, no radar confirmation, no weather detail and no recorded follow-up conclusion in the table.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 That entry is worth including, but not over-selling. A round light moving east through binoculars could have many possible explanations: an aircraft seen at distance, a bright satellite, a balloon, a meteor fragment if brief, or an object whose motion was misjudged against a dark sky. The point is not to force an answer; it is to place the entry in its evidential class. Compared with the 1992 report, the 1997 Lerwick item is weaker because it lacks the same cluster of reporting institutions and distinctive “large, white, low and very fast” description.
 
-The wider MoD context also tempers the story. The National Archives explains that the MoD kept UFO records from the 1960s, with many reports describing shapes, lights and flashes that “can often be explained”, while others were more unusual. In 2009 the MoD closed its UFO desk; a National Archives release said the final files covered late 2007 to November 2009 and revealed why the desk was closed, while Sky News reported that 643 sightings were logged in 2009, a sharp rise, before closure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The wider MoD context also tempers the story. The National Archives explains that the MoD kept UFO records from the 1960s, with many reports describing shapes, lights and flashes that “can often be explained”, while others were more unusual. In 2009 the MoD closed its UFO desk; a National Archives release said the final files covered late 2007 to November 2009 and revealed why the desk was closed, while Sky News reported that 643 sightings were logged in 2009, a sharp rise, before closure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Shetland, the takeaway is that public MoD material does not show a sustained, famous county flap comparable with better-known UK cases. Instead, it shows isolated entries and one media-driven northern mystery that became memorable because of its location and the secret-aircraft speculation surrounding it.
 
@@ -729,21 +729,21 @@ For Shetland, the takeaway is that public MoD material does not show a sustained
 
 ## Radar, RAF links and the northern air-defence frame
 
-Shetland’s UFO relevance cannot be separated from [Saxa Vord]({{ 'saxa-vord/' | relative_url }}) on Unst. In 2018, the Ministry of Defence announced a new Shetland radar head at Saxa Vord to improve protection of UK northern airspace. The MoD said it would provide information on aircraft movements north of the UK, feed the nationwide Quick Reaction Alert operation and support civil air traffic control. The RAF similarly described the Saxa Vord remote radar head as part of the system that helps police UK and international airspace from RAF Lossiemouth and RAF Coningsby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">new shetland radar to better protect uk northern airspace</span><span class="citation-popover-snippet">new shetland radar to better protect uk northern airspace</span></span></span>
+Shetland’s UFO relevance cannot be separated from [Saxa Vord]({{ 'saxa-vord/' | relative_url }}) on Unst. In 2018, the Ministry of Defence announced a new Shetland radar head at Saxa Vord to improve protection of UK northern airspace. The MoD said it would provide information on aircraft movements north of the UK, feed the nationwide Quick Reaction Alert operation and support civil air traffic control. The RAF similarly described the Saxa Vord remote radar head as part of the system that helps police UK and international airspace from RAF Lossiemouth and RAF Coningsby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">new shetland radar to better protect uk northern airspace</span><span class="citation-popover-snippet">new shetland radar to better protect uk northern airspace</span></span></span>
 
 This does not mean UFO reports from Shetland are secretly military cases. It means the area is one where unusual aerial observations naturally raise aviation and defence questions. In many UK counties, a UFO report might first suggest aircraft lights, lanterns or planets. In Shetland, the same report also sits near air-defence radar history, North Atlantic approaches and later Cold War or post-Cold War surveillance concerns.
 
 There is a useful sceptical balance here. Radar infrastructure can make a place feel more mysterious, but it can also make claims easier to test if data are available. A strong Shetland UFO case would be much stronger if supported by matching radar tracks, air-traffic records, coastguard logs, police notes and weather or astronomy checks. Without that supporting material, the existence of radar nearby is context, not confirmation.
 
-Shetland’s military setting has also changed. The CAA granted SaxaVord, on the north coast of Shetland, the UK’s first licensed vertical-launch spaceport licence in December 2023 after safety, security and environmental assessment; a further range licence followed in April 2024. Future rocket tests and launches will add another category of spectacular, scheduled aerial events that residents and visitors may see from the islands. In UFO terms, that matters because tomorrow’s “strange light over Shetland” may sometimes have a published aerospace explanation that did not exist in the 1990s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/newsroom/news/saxavord-granted-spaceport-licence-by-uk-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">saxavord granted spaceport licence by uk civil aviation authority</span><span class="citation-popover-snippet">saxavord granted spaceport licence by uk civil aviation authority</span></span></span>
+Shetland’s military setting has also changed. The CAA granted SaxaVord, on the north coast of Shetland, the UK’s first licensed vertical-launch spaceport licence in December 2023 after safety, security and environmental assessment; a further range licence followed in April 2024. Future rocket tests and launches will add another category of spectacular, scheduled aerial events that residents and visitors may see from the islands. In UFO terms, that matters because tomorrow’s “strange light over Shetland” may sometimes have a published aerospace explanation that did not exist in the 1990s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/newsroom/news/saxavord-granted-spaceport-licence-by-uk-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">saxavord granted spaceport licence by uk civil aviation authority</span><span class="citation-popover-snippet">saxavord granted spaceport licence by uk civil aviation authority</span></span></span>
 
 
 <img src="{{ "/assets/images/Shetland_ce055c-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Shetland&#x27;s UFO Stories Different? illustration 2" data-theme-src-dark="{{ "/assets/images/Shetland_ce055c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shetland_ce055c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Likely explanations that deserve checking first
 
-The best Shetland UFO analysis should begin with ordinary explanations, not because witnesses are unreliable, but because the islands are unusually rich in legitimate sky phenomena. Aurorae are one obvious candidate. Displays can shift colour, shape and brightness, and the Met Office notes that cloud, twilight and light pollution can affect what people actually see. A faint auroral glow can look very different to a camera than to the naked eye, which can create later confusion when photographs circulate online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+The best Shetland UFO analysis should begin with ordinary explanations, not because witnesses are unreliable, but because the islands are unusually rich in legitimate sky phenomena. Aurorae are one obvious candidate. Displays can shift colour, shape and brightness, and the Met Office notes that cloud, twilight and light pollution can affect what people actually see. A faint auroral glow can look very different to a camera than to the naked eye, which can create later confusion when photographs circulate online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-Meteors and fireballs are another strong category. In January 2019, a fireball over the Shetland Isles was reported as a meteor after being seen above Sumburgh Airport. The UK Meteor Network describes itself as operating more than 200 video cameras across the UK, Ireland and western Europe to detect meteors, and invites fireball reports from witnesses. For Shetland cases involving a bright object moving quickly and briefly, meteor checks are essential before more exotic interpretations are considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sundaypost.com/fp/watch-stunning-fireball-over-shetland-isles-confirmed-as-sporadic-meteor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaypost.com">[Sunday Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaypost.com</span><span class="citation-popover-title">watch stunning fireball over shetland isles confirmed as sporadic meteor</span><span class="citation-popover-snippet">watch stunning fireball over shetland isles confirmed as sporadic meteor</span></span></span>
+Meteors and fireballs are another strong category. In January 2019, a fireball over the Shetland Isles was reported as a meteor after being seen above Sumburgh Airport. The UK Meteor Network describes itself as operating more than 200 video cameras across the UK, Ireland and western Europe to detect meteors, and invites fireball reports from witnesses. For Shetland cases involving a bright object moving quickly and briefly, meteor checks are essential before more exotic interpretations are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sundaypost.com/fp/watch-stunning-fireball-over-shetland-isles-confirmed-as-sporadic-meteor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaypost.com">[Sunday Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaypost.com</span><span class="citation-popover-title">watch stunning fireball over shetland isles confirmed as sporadic meteor</span><span class="citation-popover-snippet">watch stunning fireball over shetland isles confirmed as sporadic meteor</span></span></span>
 
 Aircraft and satellites also matter. Shetland’s horizons and low light pollution can make high-altitude aircraft, satellite passes and re-entering space debris seem more dramatic than they would over a town. Direction, duration and sound are crucial details: a fast silent light crossing steadily may be a satellite; a brief brilliant streak may be a meteor; a low object with navigation lights may be aircraft; a diffuse northern glow may be aurora. None of these categories should be applied mechanically, but each is a better starting point than assuming an unknown craft.
 
@@ -754,9 +754,9 @@ The 1992 case remains harder to discuss because the surviving source says the ob
 
 ## How strong is the Shetland UFO evidence?
 
-The evidence is mixed and mostly modest. The 1992 report is the strongest Shetland item because it has a named island setting, a dateable press source, multiple reporting bodies and a distinctive description. Its weakness is that the public record currently available is a short reproduced news-intelligence item rather than a full case file. It raises good questions but does not answer them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The evidence is mixed and mostly modest. The 1992 report is the strongest Shetland item because it has a named island setting, a dateable press source, multiple reporting bodies and a distinctive description. Its weakness is that the public record currently available is a short reproduced news-intelligence item rather than a full case file. It raises good questions but does not answer them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-The 1997 Lerwick entry is official in the narrow sense that it appears in the MoD’s published report table, but it is not strong as evidence of an unexplained craft. It records a sighting, not a conclusion. Its description is too brief to rule in or rule out common causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The 1997 Lerwick entry is official in the narrow sense that it appears in the MoD’s published report table, but it is not strong as evidence of an unexplained craft. It records a sighting, not a conclusion. Its description is too brief to rule in or rule out common causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 Shetland’s strongest pattern is therefore not “many UFOs over Shetland”. It is “a northern county where a small number of sightings intersect with serious sky-watching, air-defence geography and natural light phenomena”. That is a more useful and honest frame for readers. It explains why the islands belong in a UK county-level UFO project without turning thin evidence into folklore.
 
@@ -766,194 +766,194 @@ The best future Shetland case would be one where the witness account can be matc
 <img src="{{ "/assets/images/Shetland_ce055c-Illustration-3-dark.svg" | relative_url }}" alt="What Makes Shetland&#x27;s UFO Stories Different? illustration 3" data-theme-src-dark="{{ "/assets/images/Shetland_ce055c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shetland_ce055c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes Shetland&#x27;s UFO Stories Different?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes Shetland&#x27;s UFO Stories Different?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing Shetland reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing Shetland reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for credible witness reports and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for credible witness reports and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Relevant to UK sightings and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to UK sightings and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong fit for a regional UFO overview page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a regional UFO overview page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="what-makes-shetlands-ufo-stories-what-makes-shetland-s-ufo-stories-different-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-shetland-s-ufo-stories-different-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -969,7 +969,7 @@ The best future Shetland case would be one where the witness account can be matc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -989,7 +989,7 @@ The best future Shetland case would be one where the witness account can be matc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1021,7 +1021,7 @@ The best future Shetland case would be one where the witness account can be matc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1073,7 +1073,7 @@ The best future Shetland case would be one where the witness account can be matc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1118,7 +1118,7 @@ The best future Shetland case would be one where the witness account can be matc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1159,278 +1159,278 @@ The best future Shetland case would be one where the witness account can be matc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/cia/ufos/C05517757.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: new shetland radar to better protect uk northern airspace  
-   Link: <a href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace</a>  
+   Link:<a href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights</a>  
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: shetland.org  
-   Link: <a href="https://www.shetland.org/visit/do/wildlife/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/visit/do/wildlife/northern-lights</a>  
+   Link:<a href="https://www.shetland.org/visit/do/wildlife/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/visit/do/wildlife/northern-lights</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: raf.mod.uk  
    Title: raf typhoon overflew newly installed air defence radar at saxa vord  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metoffice.gov.uk  
    Title: how to see the northern lights uk september 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025</a>  
    Published: september 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metoffice.gov.uk  
    Title: potential for aurora over parts of the uk tonight but will you see it  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/potential-for-aurora-over-parts-of-the-uk-tonight-but-will-you-see-it" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/potential-for-aurora-over-parts-of-the-uk-tonight-but-will-you-see-it</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/potential-for-aurora-over-parts-of-the-uk-tonight-but-will-you-see-it" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/potential-for-aurora-over-parts-of-the-uk-tonight-but-will-you-see-it</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metoffice.gov.uk  
    Title: what causes the northern lights  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metoffice.gov.uk  
    Title: how to see the aurora in the uk tonight  
-   Link: <a href="https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2025/november/how-to-see-the-aurora-in-the-uk-tonight" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2025/november/how-to-see-the-aurora-in-the-uk-tonight</a>  
+   Link:<a href="https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2025/november/how-to-see-the-aurora-in-the-uk-tonight" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2025/november/how-to-see-the-aurora-in-the-uk-tonight</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C10340417" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C10340417</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C10340417" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C10340417</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: des.mod.uk  
    Title: raf remote radar saxa vord unst shetland  
-   Link: <a href="https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/</a>  
+   Link:<a href="https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: saxavord.com  
    Title: Saxa Vord  
-   Link: <a href="https://saxavord.com/" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/</a>  
+   Link:<a href="https://saxavord.com/" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: saxavord.com  
-   Link: <a href="https://saxavord.com/?cat=ssc-launch-site" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/?cat=ssc-launch-site</a>  
+   Link:<a href="https://saxavord.com/?cat=ssc-launch-site" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/?cat=ssc-launch-site</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: saxavord.com  
    Title: SaxaVord Spaceport The Place for Space Brochure January 2026  
-   Link: <a href="https://saxavord.com/wp-content/uploads/2026/02/SaxaVord-Spaceport-The-Place-for-Space-Brochure-January-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/wp-content/uploads/2026/02/SaxaVord-Spaceport-The-Place-for-Space-Brochure-January-2026.pdf</a>  
+   Link:<a href="https://saxavord.com/wp-content/uploads/2026/02/SaxaVord-Spaceport-The-Place-for-Space-Brochure-January-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/wp-content/uploads/2026/02/SaxaVord-Spaceport-The-Place-for-Space-Brochure-January-2026.pdf</a>  
    Published: January 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: saxavord.com  
    Title: How to view test flights  
-   Link: <a href="https://saxavord.com/how-to-view-test-flights/" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/how-to-view-test-flights/</a>  
+   Link:<a href="https://saxavord.com/how-to-view-test-flights/" target="_blank" rel="noopener noreferrer nofollow">https://saxavord.com/how-to-view-test-flights/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: shetland.org  
    Title: s most northerly island space industry  
-   Link: <a href="https://www.shetland.org/blog/shetlands-most-northerly-island-space-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/blog/shetlands-most-northerly-island-space-industry</a>  
+   Link:<a href="https://www.shetland.org/blog/shetlands-most-northerly-island-space-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/blog/shetlands-most-northerly-island-space-industry</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scotlandspeople.gov.uk  
    Title: counties cities and burghs  
-   Link: <a href="https://www.scotlandspeople.gov.uk/help-and-support/guides/counties-cities-and-burghs" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/help-and-support/guides/counties-cities-and-burghs</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/help-and-support/guides/counties-cities-and-burghs" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/help-and-support/guides/counties-cities-and-burghs</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Mirrie Dancers  
-   Link: <a href="https://www.youtube.com/watch?v=xFY7a6eXYUk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xFY7a6eXYUk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shetland Merry Dancers - Northern Lights - Aurora Borealis - 27th Feb 2014...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xFY7a6eXYUk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xFY7a6eXYUk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shetland Merry Dancers - Northern Lights - Aurora Borealis - 27th Feb 2014...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sdBmCkKkGjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sdBmCkKkGjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirrie Dancers - Da Giants Grave Lochend, Shetland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sdBmCkKkGjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sdBmCkKkGjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirrie Dancers - Da Giants Grave Lochend, Shetland...</p></details>
    Published: March 2023  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Mirrie Dancers  
-   Link: <a href="https://www.youtube.com/watch?v=5vsD1sSXz_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5vsD1sSXz_g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longfield Chapel, Shetland 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5vsD1sSXz_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5vsD1sSXz_g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longfield Chapel, Shetland 1...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Mirrie Dancers  
-   Link: <a href="https://www.youtube.com/watch?v=BpeAIJ8Z5Fo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BpeAIJ8Z5Fo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shetland Northern Lights Mirrie Dancers time-lapse Mirrie Dancers - Aurora Borealis in Shetland 2023 Maurice Henderson Shetland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BpeAIJ8Z5Fo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BpeAIJ8Z5Fo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shetland Northern Lights Mirrie Dancers time-lapse Mirrie Dancers - Aurora Borealis in Shetland 2023 Maurice Henderson Shetland...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Wick_of_Belmont%2C_Shetland_261460" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Wick_of_Belmont%2C_Shetland_261460</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Wick_of_Belmont%2C_Shetland_261460" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Wick_of_Belmont%2C_Shetland_261460</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: caa.co.uk  
    Title: saxavord granted spaceport licence by uk civil aviation authority  
-   Link: <a href="https://www.caa.co.uk/newsroom/news/saxavord-granted-spaceport-licence-by-uk-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/newsroom/news/saxavord-granted-spaceport-licence-by-uk-civil-aviation-authority/</a>  
+   Link:<a href="https://www.caa.co.uk/newsroom/news/saxavord-granted-spaceport-licence-by-uk-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/newsroom/news/saxavord-granted-spaceport-licence-by-uk-civil-aviation-authority/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: caa.co.uk  
    Title: saxavord spaceport granted range licence by civil aviation authority  
-   Link: <a href="https://www.caa.co.uk/newsroom/news/saxavord-spaceport-granted-range-licence-by-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/newsroom/news/saxavord-spaceport-granted-range-licence-by-civil-aviation-authority/</a>  
+   Link:<a href="https://www.caa.co.uk/newsroom/news/saxavord-spaceport-granted-range-licence-by-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/newsroom/news/saxavord-spaceport-granted-range-licence-by-civil-aviation-authority/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sundaypost.com  
    Title: watch stunning fireball over shetland isles confirmed as sporadic meteor  
-   Link: <a href="https://www.sundaypost.com/fp/watch-stunning-fireball-over-shetland-isles-confirmed-as-sporadic-meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaypost.com/fp/watch-stunning-fireball-over-shetland-isles-confirmed-as-sporadic-meteor/</a>  
+   Link:<a href="https://www.sundaypost.com/fp/watch-stunning-fireball-over-shetland-isles-confirmed-as-sporadic-meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaypost.com/fp/watch-stunning-fireball-over-shetland-isles-confirmed-as-sporadic-meteor/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kcIF5INyAec</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kcIF5INyAec</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BouyrHqmIQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BouyrHqmIQY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=BouyrHqmIQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BouyrHqmIQY</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: commons.wikimedia.org  
    Title: Shetland Islands  
-   Link: <a href="https://commons.wikimedia.org/wiki/Shetland_Islands" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Shetland_Islands</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Shetland_Islands" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Shetland_Islands</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/ors10-2023-002/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/ors10-2023-002/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/ors10-2023-002/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/ors10-2023-002/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/our-work/publications/publication-categories/spaceflight/?listsorttype=Title&amp;statusfiltertype=All" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/our-work/publications/publication-categories/spaceflight/?listsorttype=Title&amp;statusfiltertype=All</a>  
+   Link:<a href="https://www.caa.co.uk/our-work/publications/publication-categories/spaceflight/?listsorttype=Title&amp;statusfiltertype=All" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/our-work/publications/publication-categories/spaceflight/?listsorttype=Title&amp;statusfiltertype=All</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Scotland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Scotland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Scotland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Scotland</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-shetland-or-zetland-is-the-uks-northernmost-shireit-consists-of-a-/829456382671264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-shetland-or-zetland-is-the-uks-northernmost-shireit-consists-of-a-/829456382671264/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-shetland-or-zetland-is-the-uks-northernmost-shireit-consists-of-a-/829456382671264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-shetland-or-zetland-is-the-uks-northernmost-shireit-consists-of-a-/829456382671264/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: gazetteer.org.uk  
    Title: The Flaeshins, Shetland 279523  
-   Link: <a href="https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523</a>  
+   Link:<a href="https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: frontlineulster.co.uk  
    Title: saxa vord  
-   Link: <a href="https://frontlineulster.co.uk/saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://frontlineulster.co.uk/saxa-vord/</a>  
+   Link:<a href="https://frontlineulster.co.uk/saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://frontlineulster.co.uk/saxa-vord/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: flickr.com  
    Title: Saxa Vord  
-   Link: <a href="https://www.flickr.com/photos/intrepidexplorer82/53065708730/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/intrepidexplorer82/53065708730/</a>  
+   Link:<a href="https://www.flickr.com/photos/intrepidexplorer82/53065708730/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/intrepidexplorer82/53065708730/</a>  
 
 ### Additional References
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Shetland Merry Dancers  
-   Link: <a href="https://www.youtube.com/watch?v=7Hi2wdowf4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Hi2wdowf4A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timelapse of the Mirrie Dancers 23rd March 2023 over Walls, Shetland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7Hi2wdowf4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Hi2wdowf4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timelapse of the Mirrie Dancers 23rd March 2023 over Walls, Shetland...</p></details>
    Published: March 2023  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/</a>  
+   Link:<a href="https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: x.com  
-   Link: <a href="https://x.com/RoyalAirForce/status/999951290460499969?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RoyalAirForce/status/999951290460499969?lang=en</a>  
+   Link:<a href="https://x.com/RoyalAirForce/status/999951290460499969?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RoyalAirForce/status/999951290460499969?lang=en</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/432536516217028/posts/459965583474121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432536516217028/posts/459965583474121/</a>  
+   Link:<a href="https://www.facebook.com/groups/432536516217028/posts/459965583474121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432536516217028/posts/459965583474121/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: auroraforecast.uk  
-   Link: <a href="https://auroraforecast.uk/region/scotland" target="_blank" rel="noopener noreferrer nofollow">https://auroraforecast.uk/region/scotland</a>  
+   Link:<a href="https://auroraforecast.uk/region/scotland" target="_blank" rel="noopener noreferrer nofollow">https://auroraforecast.uk/region/scotland</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: x.com  
-   Link: <a href="https://x.com/metoffice/status/1900185781026558423?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer nofollow">https://x.com/metoffice/status/1900185781026558423?ref_src=twsrc%5Etfw</a>  
+   Link:<a href="https://x.com/metoffice/status/1900185781026558423?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer nofollow">https://x.com/metoffice/status/1900185781026558423?ref_src=twsrc%5Etfw</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aviation.airline.jobs/posts/26155886897372872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aviation.airline.jobs/posts/26155886897372872/</a>  
+   Link:<a href="https://www.facebook.com/groups/aviation.airline.jobs/posts/26155886897372872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aviation.airline.jobs/posts/26155886897372872/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/old-low-quality-video-showing-what-appears-to-be-a-ufo-retrieval-has-resurfaced-/1532098432250124/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/old-low-quality-video-showing-what-appears-to-be-a-ufo-retrieval-has-resurfaced-/1532098432250124/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/old-low-quality-video-showing-what-appears-to-be-a-ufo-retrieval-has-resurfaced-/1532098432250124/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/old-low-quality-video-showing-what-appears-to-be-a-ufo-retrieval-has-resurfaced-/1532098432250124/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYnVMQqO5Vj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYnVMQqO5Vj/</a>  
+   Link:<a href="https://www.instagram.com/p/DYnVMQqO5Vj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYnVMQqO5Vj/</a>  

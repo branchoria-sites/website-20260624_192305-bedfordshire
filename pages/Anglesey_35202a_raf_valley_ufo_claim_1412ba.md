@@ -254,7 +254,7 @@ image: /assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-overview-socia
 
 ## Introduction
 
-RAF Valley matters to [Anglesey]({{ 'what-really-happened-over-anglesey/' | relative_url }})’s UFO history because it makes the island a genuinely busy military flying environment, not just a quiet backdrop for strange-light reports. The base is home to No. 4 Flying Training School, trains RAF and Royal Navy fast-jet pilots, supports mountain and maritime aircrew training, and is linked to RAF Mona, a relief landing ground on the island. That does not mean every odd light over Anglesey was “just a jet”, but it does mean local claims have to be judged against real fast-jet, helicopter, night-flying, low-flying and airfield activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
+RAF Valley matters to [Anglesey]({{ 'what-really-happened-over-anglesey/' | relative_url }})’s UFO history because it makes the island a genuinely busy military flying environment, not just a quiet backdrop for strange-light reports. The base is home to No. 4 Flying Training School, trains RAF and Royal Navy fast-jet pilots, supports mountain and maritime aircrew training, and is linked to RAF Mona, a relief landing ground on the island. That does not mean every odd light over Anglesey was “just a jet”, but it does mean local claims have to be judged against real fast-jet, helicopter, night-flying, low-flying and airfield activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
 
 
 <img src="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-overview.webp" | relative_url }}" alt="Overview image for RAF Valley" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,11 +262,11 @@ The strongest RAF Valley-linked material is not a proven encounter, but a set of
 
 ## Why RAF Valley matters
 
-RAF Valley is one of the main reasons Anglesey’s UFO record needs careful handling. The RAF describes the station as responsible for training the UK’s next generation of fighter pilots, with aircrew also trained for mountain and maritime operations. It lists Hawk T2 and Texan T1 training aircraft among the aircraft associated with the station, and notes that RAF Mona supports RAF Valley as a relief landing ground for Hawk T2 activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
+RAF Valley is one of the main reasons Anglesey’s UFO record needs careful handling. The RAF describes the station as responsible for training the UK’s next generation of fighter pilots, with aircrew also trained for mountain and maritime operations. It lists Hawk T2 and Texan T1 training aircraft among the aircraft associated with the station, and notes that RAF Mona supports RAF Valley as a relief landing ground for Hawk T2 activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
 
 That matters because many ordinary UFO reports begin with a short, sincere observation: lights moving oddly, an object that seems silent, a shape that does not look like a normal aircraft, or something seen near an airfield. Around RAF Valley, those reports sit in an environment where military aircraft may climb, descend, turn, form up, train at night, use airfield circuits, or appear briefly between cloud and terrain. A witness does not have to be careless to misread that. Distance, angle, cloud base, wind direction, engine noise carrying away from the observer, and the lack of obvious navigation lights can all make a known aircraft look unfamiliar.
 
-RAF Valley also has an unusually direct public-facing role in local flying complaints. Its own flying-information page says RAF Valley handles low-flying enquiries raised by residents of Anglesey, while the UK Government’s wider low-flying guidance asks complainants to provide date, time, location, aircraft type if known, and a brief description. Those are almost exactly the details that UFO investigators also need. A dramatic account without time, direction, duration or location is much harder to test against military flying records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span></span></span>
+RAF Valley also has an unusually direct public-facing role in local flying complaints. Its own flying-information page says RAF Valley handles low-flying enquiries raised by residents of Anglesey, while the UK Government’s wider low-flying guidance asks complainants to provide date, time, location, aircraft type if known, and a brief description. Those are almost exactly the details that UFO investigators also need. A dramatic account without time, direction, duration or location is much harder to test against military flying records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span></span></span>
 
 The base does not explain every report by default. A military explanation is strongest when the sighting matches known activity: brief duration, movement along likely approach or training routes, formation-like lights, engine noise or delayed noise, repeated appearances on training nights, or proximity to the airfield. It is weaker when a case has multiple independent witnesses, precise timing, no obvious airfield match, and supporting records such as radar, air traffic logs, photographs or prompt official correspondence.
 
@@ -274,7 +274,7 @@ The base does not explain every report by default. A military explanation is str
 <img src="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-Illustration-1-dark.svg" | relative_url }}" alt="RAF Valley illustration 1" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The tower-buzzing claim
 
-The most striking RAF Valley-specific UFO claim concerns an alleged incident on 16 October 1990. Later reporting on released Ministry of Defence material says Anglesey MP Ieuan Wyn Jones wrote to the MoD in October 1996 about a UFO sighting at RAF Valley, in which an unidentified craft was said to have “buzzed” the tower. The MoD’s reply reportedly said no such incident had occurred within the memory of staff and that it was not recorded in the air traffic log books. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">released files cast light famous 1901570</span><span class="citation-popover-snippet">released files cast light famous 1901570</span></span></span>
+The most striking RAF Valley-specific UFO claim concerns an alleged incident on 16 October 1990. Later reporting on released Ministry of Defence material says Anglesey MP Ieuan Wyn Jones wrote to the MoD in October 1996 about a UFO sighting at RAF Valley, in which an unidentified craft was said to have “buzzed” the tower. The MoD’s reply reportedly said no such incident had occurred within the memory of staff and that it was not recorded in the air traffic log books.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">released files cast light famous 1901570</span><span class="citation-popover-snippet">released files cast light famous 1901570</span></span></span>
 
 That makes the claim interesting, but not strong. On the plus side, it involves a named RAF station, a named MP raising the matter, a specific alleged date, and a direct institutional response. Those features put it above a vague pub story. On the weaker side, the surviving public account is secondary and short. It does not provide a named first-hand tower witness, a contemporaneous report, radar data, a sketch, a photograph, or an operational record confirming the event.
 
@@ -287,13 +287,13 @@ The most balanced reading is that the tower-buzzing story is an important part o
 
 ## The 2009 RAF Valley entry
 
-A more modest but clearer RAF Valley-linked record appears in the MoD’s 2009 UFO report list. The entry for 8 September 2009, timed at 20:00, gives the location as RAF Valley, Anglesey, and describes “two round balls” in the sky “chasing each other”. The same official 2009 list also includes other Anglesey entries that month, including an amber egg-shaped object reported on 19 September and other orange or triangular lights elsewhere on the island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A more modest but clearer RAF Valley-linked record appears in the MoD’s 2009 UFO report list. The entry for 8 September 2009, timed at 20:00, gives the location as RAF Valley, Anglesey, and describes “two round balls” in the sky “chasing each other”. The same official 2009 list also includes other Anglesey entries that month, including an amber egg-shaped object reported on 19 September and other orange or triangular lights elsewhere on the island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 This is a good example of the difference between “recorded” and “investigated”. The entry proves that a report was logged; it does not prove that the objects were anomalous aircraft, secret craft or anything extraordinary. The MoD’s published lists are often terse, with many reports reduced to a few words. They preserve the fact of a report, but they usually do not preserve enough context to test it properly.
 
-The timing is suggestive rather than decisive. September evening reports of round orange or amber lights were common across the UK in 2009, and many entries in the same MoD list describe orange globes, silent lights, lights in formation, lights fading out, or lights travelling steadily. Some were explicitly suspected to be lanterns by witnesses or compilers. That does not automatically explain the RAF Valley entry, but it places it in a national pattern of short, light-based reports rather than in a distinct RAF Valley incident with radar or pilot corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The timing is suggestive rather than decisive. September evening reports of round orange or amber lights were common across the UK in 2009, and many entries in the same MoD list describe orange globes, silent lights, lights in formation, lights fading out, or lights travelling steadily. Some were explicitly suspected to be lanterns by witnesses or compilers. That does not automatically explain the RAF Valley entry, but it places it in a national pattern of short, light-based reports rather than in a distinct RAF Valley incident with radar or pilot corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The wider institutional context also matters. The MoD’s 2009 report file notes that from 1 December 2009 the department changed policy and no longer recorded or investigated UFO sighting reports. Local journalism summarising the final files reported that the MoD closed its UFO desk after concluding that no evidence of a potential threat had been found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The wider institutional context also matters. The MoD’s 2009 report file notes that from 1 December 2009 the department changed policy and no longer recorded or investigated UFO sighting reports. Local journalism summarising the final files reported that the MoD closed its UFO desk after concluding that no evidence of a potential threat had been found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-Illustration-2-dark.svg" | relative_url }}" alt="RAF Valley illustration 2" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_raf_valley_ufo_claim_1412ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -301,15 +301,15 @@ The wider institutional context also matters. The MoD’s 2009 report file notes
 
 Military flying is not a single explanation. Around RAF Valley it is better understood as a family of possible explanations, each with different strengths.
 
-**Fast-jet training** can explain some reports of lights moving quickly, changing direction, appearing in pairs, or seeming to “chase” each other. Training aircraft can be hard to interpret at distance, especially if the observer sees only lights rather than the body of the aircraft. RAF Valley’s role in fast-jet training makes this a serious first check for Anglesey reports, particularly when sightings are close to the base, over the coast, or near known training times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
+**Fast-jet training** can explain some reports of lights moving quickly, changing direction, appearing in pairs, or seeming to “chase” each other. Training aircraft can be hard to interpret at distance, especially if the observer sees only lights rather than the body of the aircraft. RAF Valley’s role in fast-jet training makes this a serious first check for Anglesey reports, particularly when sightings are close to the base, over the coast, or near known training times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
 
-**Night flying** is especially relevant because lights become the object. RAF Valley says night flying training usually takes place Monday to Thursday when required, and that residents are normally pre-notified via its social media channels. It also says some flying cannot be notified in advance for security reasons. That creates a practical problem for UFO interpretation: a witness may be seeing ordinary military activity without having seen the notice, or activity that was not publicly advertised in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span></span></span>
+**Night flying** is especially relevant because lights become the object. RAF Valley says night flying training usually takes place Monday to Thursday when required, and that residents are normally pre-notified via its social media channels. It also says some flying cannot be notified in advance for security reasons. That creates a practical problem for UFO interpretation: a witness may be seeing ordinary military activity without having seen the notice, or activity that was not publicly advertised in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span></span></span>
 
-**Low flying** can make aircraft feel stranger than they are. The MoD’s low-flying guidance says low-level operations are considered vital for helicopters, transport aircraft and, in some situations, fast jets. It also states that fixed-wing aircraft routinely fly down to 250 feet, while helicopters routinely operate down to 100 feet and may go lower for certain tasks. A low, fast, unexpected pass can feel shocking, and if the observer sees it only briefly, the report may later become a “UFO” rather than an aircraft encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Military low flying in the United Kingdom: the essential facts</span><span class="citation-popover-snippet">UK Military low flying in the United Kingdom: the essential facts</span></span></span>
+**Low flying** can make aircraft feel stranger than they are. The MoD’s low-flying guidance says low-level operations are considered vital for helicopters, transport aircraft and, in some situations, fast jets. It also states that fixed-wing aircraft routinely fly down to 250 feet, while helicopters routinely operate down to 100 feet and may go lower for certain tasks. A low, fast, unexpected pass can feel shocking, and if the observer sees it only briefly, the report may later become a “UFO” rather than an aircraft encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Military low flying in the United Kingdom: the essential facts</span><span class="citation-popover-snippet">UK Military low flying in the United Kingdom: the essential facts</span></span></span>
 
-**Helicopters and rescue activity** are another Anglesey-specific factor. RAF Valley is home to the RAF Mountain Rescue Service, and the station’s history includes search-and-rescue training from 1962. Helicopters can hover, appear stationary, use searchlights, operate at night, and make sounds that vary sharply with wind and terrain. Those features overlap with many common UFO descriptions, especially “hovering light”, “silent at first”, or “bright beam” reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
+**Helicopters and rescue activity** are another Anglesey-specific factor. RAF Valley is home to the RAF Mountain Rescue Service, and the station’s history includes search-and-rescue training from 1962. Helicopters can hover, appear stationary, use searchlights, operate at night, and make sounds that vary sharply with wind and terrain. Those features overlap with many common UFO descriptions, especially “hovering light”, “silent at first”, or “bright beam” reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Valley &#124; Royal Air Force</span></span></span>
 
-**Drones and restricted airspace** add a newer complication. RAF Valley and RAF Mona both have permanent Flight Restriction Zones active all day, every day, and the Civil Aviation Authority’s Drone Code says drones must not be flown in an airport or airfield FRZ without permission. In modern sightings, a small light near the base might be a drone, but a drone near the base is also an aviation safety issue rather than merely a UFO curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span></span></span>
+**Drones and restricted airspace** add a newer complication. RAF Valley and RAF Mona both have permanent Flight Restriction Zones active all day, every day, and the Civil Aviation Authority’s Drone Code says drones must not be flown in an airport or airfield FRZ without permission. In modern sightings, a small light near the base might be a drone, but a drone near the base is also an aviation safety issue rather than merely a UFO curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying Info &#124; RAF Valley &#124; Royal Air Force</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jb_j7St7a-E" title="RAF Valley (EGOV/VLY) • Royal Air Force Hawk T2 operations • Anglesey, Wales, UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jb_j7St7a-E" target="_blank" rel="noopener noreferrer">RAF Valley (EGOV/VLY) • Royal Air Force Hawk T2 operations • Anglesey, Wales, UK</a></p><p class="youtube-embed-meta">Channel: AVIAÇÃO TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jb_j7St7a-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jb_j7St7a-E">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ RAF Valley’s presence is a strong reason to test mundane aviation explanations
 
 The stronger RAF Valley-linked claims would need more than “near the base” to become persuasive. Useful supporting evidence would include a precise time, direction of travel, duration, weather, witness position, whether the object made sound, whether other witnesses were separated, whether air traffic logs or radar were checked, and whether RAF Valley or the MoD gave a specific reply. Without those details, the case remains a report, not a tested anomaly.
 
-There is also a difference between official attention and official confirmation. The MoD and RAF recorded, filed or responded to many UFO-related reports over the decades, but that does not mean the reports were validated as extraordinary. The National Archives’ UFO guidance points researchers towards MoD and Air Ministry files for reports, policy and correspondence; those archives are valuable because they show how reports were handled, not because every file contains a hidden solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+There is also a difference between official attention and official confirmation. The MoD and RAF recorded, filed or responded to many UFO-related reports over the decades, but that does not mean the reports were validated as extraordinary. The National Archives’ UFO guidance points researchers towards MoD and Air Ministry files for reports, policy and correspondence; those archives are valuable because they show how reports were handled, not because every file contains a hidden solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 The RAF Valley material sits in this middle ground. The 1990 tower-buzzing claim is memorable but weakly corroborated. The 2009 RAF Valley entry is officially listed but too brief to resolve. The base’s active training role makes many sightings more explainable, but not automatically explained.
 
@@ -339,194 +339,194 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did RAF Valley Shape Anglesey&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did RAF Valley Shape Anglesey&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highly relevant to RAF-linked sightings and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to RAF-linked sightings and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps evaluate military-airspace sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps evaluate military-airspace sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Connects aviation, secrecy and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects aviation, secrecy and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores military witness accounts and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military witness accounts and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="raf-valley-did-raf-valley-shape-anglesey-s-ufo-stories-anglesey-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-raf-valley-shape-anglesey-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,135 +732,135 @@ RAF Valley therefore shaped Anglesey’s UFO stories in two ways. It supplied re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Valley | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force Flying Info | RAF Valley | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Low flying military aircraft: Find out about low flying in your area  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: walesonline.co.uk  
    Title: released files cast light famous 1901570  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Military low flying in the United Kingdom: the essential facts  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/flying-info/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: torridge.gov.uk  
-   Link: <a href="https://www.torridge.gov.uk/article/20467/Aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.torridge.gov.uk/article/20467/Aircraft-noise</a>  
+   Link:<a href="https://www.torridge.gov.uk/article/20467/Aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.torridge.gov.uk/article/20467/Aircraft-noise</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Night Flying at RAF Valley  
-   Link: <a href="http://www.youtube.com/watch?v=d1gNB7wdnrc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d1gNB7wdnrc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No. 4 Flying Training School | RAF Valley | Anglesey, Wales, UK...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=d1gNB7wdnrc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d1gNB7wdnrc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No. 4 Flying Training School | RAF Valley | Anglesey, Wales, UK...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: No. 4 Flying Training School | RAF Valley | Anglesey, Wales, UK  
-   Link: <a href="http://www.youtube.com/watch?v=RcV6A8jw7Kc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RcV6A8jw7Kc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air Force Hawk T2 Role Demo - East Fortune Airshow 2015...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RcV6A8jw7Kc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RcV6A8jw7Kc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air Force Hawk T2 Role Demo - East Fortune Airshow 2015...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Royal Air Force Hawk T2 Role Demo  
-   Link: <a href="http://www.youtube.com/watch?v=mp4UOP7u_c0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mp4UOP7u_c0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gnats at 4 FTS RAF Valley, 1972...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mp4UOP7u_c0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mp4UOP7u_c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gnats at 4 FTS RAF Valley, 1972...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=17LUGcrPcBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=17LUGcrPcBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Valley Hawk jet low flying night training Anglesey Flying at 500mph just 250ft off the Ground – RAF Valley Pilots train like &#x27;Top Gun...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=17LUGcrPcBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=17LUGcrPcBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Valley Hawk jet low flying night training Anglesey Flying at 500mph just 250ft off the Ground – RAF Valley Pilots train like &#x27;Top Gun...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sufon.co.uk  
-   Link: <a href="https://www.sufon.co.uk/berwyn-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/berwyn-mountain</a>  
+   Link:<a href="https://www.sufon.co.uk/berwyn-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/berwyn-mountain</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ascentflighttraining.com  
-   Link: <a href="https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-digital_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-digital_final.pdf</a>  
+   Link:<a href="https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-digital_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-digital_final.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ascentflighttraining.com  
-   Link: <a href="https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-combined-final_digital.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-combined-final_digital.pdf</a>  
+   Link:<a href="https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-combined-final_digital.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ascentflighttraining.com/wp-content/uploads/2024/06/Valley-recruitment-brochure-combined-final_digital.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFValley/posts/drone-leaflet-christmas-editionif-you-are-a-local-drone-pilot-and-interested-in-/1300971955404711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFValley/posts/drone-leaflet-christmas-editionif-you-are-a-local-drone-pilot-and-interested-in-/1300971955404711/</a>  
+   Link:<a href="https://www.facebook.com/RAFValley/posts/drone-leaflet-christmas-editionif-you-are-a-local-drone-pilot-and-interested-in-/1300971955404711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFValley/posts/drone-leaflet-christmas-editionif-you-are-a-local-drone-pilot-and-interested-in-/1300971955404711/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/9367800103328780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/9367800103328780/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/9367800103328780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/9367800103328780/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bhs.org.uk  
-   Link: <a href="https://www.bhs.org.uk/go-riding-and-learn/riding-out-hacking/common-incidents/low-flying-aircrafts/" target="_blank" rel="noopener noreferrer nofollow">https://www.bhs.org.uk/go-riding-and-learn/riding-out-hacking/common-incidents/low-flying-aircrafts/</a>  
+   Link:<a href="https://www.bhs.org.uk/go-riding-and-learn/riding-out-hacking/common-incidents/low-flying-aircrafts/" target="_blank" rel="noopener noreferrer nofollow">https://www.bhs.org.uk/go-riding-and-learn/riding-out-hacking/common-incidents/low-flying-aircrafts/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  

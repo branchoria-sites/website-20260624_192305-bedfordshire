@@ -258,37 +258,37 @@ Most [Ayrshire]({{ 'what-really-happened-in-ayrshires-skies/' | relative_url }})
 
 
 <img src="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-overview.webp" | relative_url }}" alt="Overview image for Light Reports" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Ayrshire has two features that make lights especially easy to misread: dark coastal horizons over the Firth of Clyde, and unusually busy [aviation context]({{ 'aviation-context/' | relative_url }}) around Prestwick. The Ministry of Defence’s own public files list many UK sightings as shapes, lights and flashes, and The National Archives notes that most reports refer to lights rather than actual craft. Its research guide also stresses that “UFO” in official use meant something the observer could not recognise, not an alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+This matters because Ayrshire has two features that make lights especially easy to misread: dark coastal horizons over the Firth of Clyde, and unusually busy [aviation context]({{ 'aviation-context/' | relative_url }}) around Prestwick. The Ministry of Defence’s own public files list many UK sightings as shapes, lights and flashes, and The National Archives notes that most reports refer to lights rather than actual craft. Its research guide also stresses that “UFO” in official use meant something the observer could not recognise, not an alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 ## Why Ayrshire Reports So Often Become “Lights”
 
-Ayrshire’s historic UFO record is not dominated by close landings, physical traces or long investigations. It is dominated by short, skyward observations: a light above Ayr, a bright sphere over West Kilbride, an intense light near Lochgreen, or clustered objects moving together. The released MoD lists are useful precisely because they are plain and low-drama. They usually give date, time, location and a brief description, but not the full chain of evidence needed to establish distance, size, altitude or identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+Ayrshire’s historic UFO record is not dominated by close landings, physical traces or long investigations. It is dominated by short, skyward observations: a light above Ayr, a bright sphere over West Kilbride, an intense light near Lochgreen, or clustered objects moving together. The released MoD lists are useful precisely because they are plain and low-drama. They usually give date, time, location and a brief description, but not the full chain of evidence needed to establish distance, size, altitude or identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 That limited format changes how the reports should be read. A witness who says a light “moved very fast” may be describing a nearby object moving quickly, a distant aircraft turning towards or away from them, a meteor crossing the atmosphere, or a fixed star or planet appearing to shift because of eye movement, cloud, atmospheric shimmer or lack of reference points. A phrase such as “sphere” does not necessarily mean a three-dimensional ball was seen; in many night reports it means the witness saw a circular light source.
 
-The National Archives makes the same broader point about the official UFO files. Many records describe lights and flashes that can often be explained, and the archive lists common explanations found in past correspondence, including Venus, high-altitude aircraft, weather balloons and satellites. Later files, it notes, generally contain one-off sightings, with occasional waves when ordinary aerial objects such as advertising airships or satellite re-entries produced multiple reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives makes the same broader point about the official UFO files. Many records describe lights and flashes that can often be explained, and the archive lists common explanations found in past correspondence, including Venus, high-altitude aircraft, weather balloons and satellites. Later files, it notes, generally contain one-off sightings, with occasional waves when ordinary aerial objects such as advertising airships or satellite re-entries produced multiple reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 ## Recurring Descriptions in Local Reports
 
 The most useful Ayrshire pattern is not a single spectacular case, but repetition. Across the MoD lists, the county’s reports repeatedly use the same vocabulary: bright, yellow, sphere, light, fast, formation, zig-zag. That vocabulary is exactly where both UFO interest and sceptical caution meet.
 
-A clear example appears in the 2004 MoD list, where West Kilbride produced a cluster of reports over several weeks. Entries include “one sphere” on 2 April, a “yellow sphere” on 15 April, another “yellow sphere” shortly after 22:40 and 22:55 on 16 April, “two yellow spheres” on 10 May, and later reports of one, two, five and finally “at least 25 yellow spheres” flying in groups over West Kilbride in November. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+A clear example appears in the 2004 MoD list, where West Kilbride produced a cluster of reports over several weeks. Entries include “one sphere” on 2 April, a “yellow sphere” on 15 April, another “yellow sphere” shortly after 22:40 and 22:55 on 16 April, “two yellow spheres” on 10 May, and later reports of one, two, five and finally “at least 25 yellow spheres” flying in groups over West Kilbride in November.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That cluster is interesting, but not automatically strong. Repeated reports from one area can mean a genuine local mystery, but they can also mean a local observer or local publicity pattern, repeated sightings of aircraft on similar tracks, lantern releases, bright astronomical objects, or a known object being watched on multiple evenings. The brief MoD summaries do not tell us whether the reports came from independent witnesses, whether bearings matched, whether air traffic or weather was checked, or whether any images were taken.
 
-Other Ayrshire entries fit the same light-first pattern. In 1999, a report from Lochgreen in South Ayrshire described a “very bright, intense light” that flared, moved left to right, and made quick direction changes. In 2006, an Ayr entry described “a light, way above, in the sky” moving in a zig-zag. These are intriguing descriptions, but they remain weak as evidence because they lack the details needed to separate real manoeuvre from apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Other Ayrshire entries fit the same light-first pattern. In 1999, a report from Lochgreen in South Ayrshire described a “very bright, intense light” that flared, moved left to right, and made quick direction changes. In 2006, an Ayr entry described “a light, way above, in the sky” moving in a zig-zag. These are intriguing descriptions, but they remain weak as evidence because they lack the details needed to separate real manoeuvre from apparent motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The older newspaper trail points in the same direction. British Newspaper Archive search results for Ayrshire papers show a 1978 local wave framed around lights, including a Kilmarnock Standard item headlined “Now Two PCs See That Light”, while a later summary of the so-called Ayrshire Night Lights cites contemporary Ayrshire Post and Kilmarnock Standard reports from spring 1978. Those reports are worth noting as local UFO culture, but their public availability is fragmented, and secondary summaries should be treated more cautiously than direct archive copies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=ayrshire%2C+scotland&amp;MostSpecificLocation=ayrshire%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The older newspaper trail points in the same direction. British Newspaper Archive search results for Ayrshire papers show a 1978 local wave framed around lights, including a Kilmarnock Standard item headlined “Now Two PCs See That Light”, while a later summary of the so-called Ayrshire Night Lights cites contemporary Ayrshire Post and Kilmarnock Standard reports from spring 1978. Those reports are worth noting as local UFO culture, but their public availability is fragmented, and secondary summaries should be treated more cautiously than direct archive copies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=ayrshire%2C+scotland&amp;MostSpecificLocation=ayrshire%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-Illustration-1-dark.svg" | relative_url }}" alt="Light Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Stars, Meteors, Aircraft and Lanterns
 
-The most likely explanations for many Ayrshire light reports are not exotic. They are the same explanations that recur in national UFO files: bright planets, stars seen low on the horizon, meteors, satellites, aircraft, balloons, lanterns and re-entering space debris. The National Archives research guide explicitly lists bright stars and planets, meteors, artificial satellites, balloons, aircraft seen from unusual angles and space junk as ordinary explanations found in the “vast majority” of investigated cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The most likely explanations for many Ayrshire light reports are not exotic. They are the same explanations that recur in national UFO files: bright planets, stars seen low on the horizon, meteors, satellites, aircraft, balloons, lanterns and re-entering space debris. The National Archives research guide explicitly lists bright stars and planets, meteors, artificial satellites, balloons, aircraft seen from unusual angles and space junk as ordinary explanations found in the “vast majority” of investigated cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 ### Bright planets and the “stationary UFO” problem
 
-Venus is one of the classic causes of UFO reports because it can look startlingly bright near the horizon. Royal Museums Greenwich explains that Venus is brightest in the evening or morning sky, and that when it is near the horizon its twinkling can produce flashing colour effects that are reported as peculiar objects or UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+Venus is one of the classic causes of UFO reports because it can look startlingly bright near the horizon. Royal Museums Greenwich explains that Venus is brightest in the evening or morning sky, and that when it is near the horizon its twinkling can produce flashing colour effects that are reported as peculiar objects or UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
 That matters for Ayrshire because the west-facing coast gives observers long, open views across water. A low bright object over the Firth of Clyde can seem to hover above Arran, the Cumbraes, Ailsa Craig or the far coast. Without a compass bearing, elevation estimate and sky chart, a bright “hovering” light is difficult to separate from a planet, star, aircraft headlight or distant vessel light.
 
@@ -296,9 +296,9 @@ The phrase “moved around” also needs care. People often judge motion against
 
 ### Meteors and fireballs
 
-Ayrshire is also part of the wider Scottish skywatching environment, where very bright meteors can trigger sudden public reports. Royal Museums Greenwich explains that meteors are bright trails caused by space material vaporising in the atmosphere, while larger meteors can explode as fireballs. UK networks now track such events because they can be widely seen and occasionally drop meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span>
+Ayrshire is also part of the wider Scottish skywatching environment, where very bright meteors can trigger sudden public reports. Royal Museums Greenwich explains that meteors are bright trails caused by space material vaporising in the atmosphere, while larger meteors can explode as fireballs. UK networks now track such events because they can be widely seen and occasionally drop meteorites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span>
 
-The 2022 Scotland and Northern Ireland fireball shows why this matters locally. STV reported more than 800 sightings of a bright object seen over Scotland and Northern Ireland, including reports from Ayrshire, at around 10pm. That kind of event can be remembered as a UFO if the observer sees only a fragment of the path, misses later news coverage, or reports it before the meteor explanation is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.stv.tv/scotland/what-was-the-mysterious-fireball-that-crossed-scotlands-night-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.stv.tv">[STV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.stv.tv</span><span class="citation-popover-title">News What was the mysterious fireball that crossed Scotland&#x27;s night</span><span class="citation-popover-snippet">News What was the mysterious fireball that crossed Scotland&#x27;s night</span></span></span>
+The 2022 Scotland and Northern Ireland fireball shows why this matters locally. STV reported more than 800 sightings of a bright object seen over Scotland and Northern Ireland, including reports from Ayrshire, at around 10pm. That kind of event can be remembered as a UFO if the observer sees only a fragment of the path, misses later news coverage, or reports it before the meteor explanation is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.stv.tv/scotland/what-was-the-mysterious-fireball-that-crossed-scotlands-night-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.stv.tv">[STV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.stv.tv</span><span class="citation-popover-title">News What was the mysterious fireball that crossed Scotland&#x27;s night</span><span class="citation-popover-snippet">News What was the mysterious fireball that crossed Scotland&#x27;s night</span></span></span>
 
 Meteors are especially relevant to reports that mention sudden brightness, a streak, a flare, a tail, sparks, rapid movement, or a light apparently “falling”. They are less good explanations for objects watched for many minutes, repeated formations, or lights that seem to hold position for long periods.
 
@@ -307,17 +307,17 @@ Meteors are especially relevant to reports that mention sudden brightness, a str
 
 ### Aircraft around Prestwick
 
-Prestwick gives Ayrshire a stronger aviation explanation than many rural counties. NATS says Prestwick Centre is one of the UK’s two air traffic control centres, handles traffic across northern England, Scotland and into the North East Atlantic, operates continuously, and controls a very large share of UK airspace movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">Prestwick Centre FINAL</span><span class="citation-popover-snippet">Prestwick Centre FINAL</span></span></span>
+Prestwick gives Ayrshire a stronger aviation explanation than many rural counties. NATS says Prestwick Centre is one of the UK’s two air traffic control centres, handles traffic across northern England, Scotland and into the North East Atlantic, operates continuously, and controls a very large share of UK airspace movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">Prestwick Centre FINAL</span><span class="citation-popover-snippet">Prestwick Centre FINAL</span></span></span>
 
-That does not mean every Ayrshire light is an aircraft. It does mean aircraft must be checked early. A distant aircraft approaching head-on can look like a bright stationary light. A turn can make it seem to accelerate or change direction suddenly. Navigation and anti-collision lights can create red, green, white and flashing combinations. The Civil Aviation Authority’s retained UK regulatory material states that aircraft at night display anti-collision lights to attract attention and navigation lights to indicate their relative path to an observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+That does not mean every Ayrshire light is an aircraft. It does mean aircraft must be checked early. A distant aircraft approaching head-on can look like a bright stationary light. A turn can make it seem to accelerate or change direction suddenly. Navigation and anti-collision lights can create red, green, white and flashing combinations. The Civil Aviation Authority’s retained UK regulatory material states that aircraft at night display anti-collision lights to attract attention and navigation lights to indicate their relative path to an observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-Prestwick’s history also complicates the sky picture. The airport’s own history describes Second World War RAF use, post-war transatlantic traffic, later United States Air Force use and the development of an aerospace footprint at Prestwick. A local aviation-services page says the airport has provided military aviation services for almost 90 years and can support fuel stops and training at any time, day or night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-snippet">Open source on glasgowprestwick.com.</span></span></span>
+Prestwick’s history also complicates the sky picture. The airport’s own history describes Second World War RAF use, post-war transatlantic traffic, later United States Air Force use and the development of an aerospace footprint at Prestwick. A local aviation-services page says the airport has provided military aviation services for almost 90 years and can support fuel stops and training at any time, day or night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-snippet">Open source on glasgowprestwick.com.</span></span></span>
 
 For light reports, this cuts both ways. Aviation traffic makes misidentification more likely, but it also means good cases should be checked against aviation data rather than dismissed casually. A report from a pilot, controller or multiple independent witnesses with time, bearing and radar context would carry more weight than a garden sighting with only a general direction and colour.
 
 ### Lanterns and grouped orange lights
 
-Lanterns are a particularly good fit for some reports of yellow or orange spheres moving slowly in groups. They can drift with the wind, rise silently, appear in loose formations, fade out one by one, and look more structured than they are. The National Fire Chiefs Council warns that sky lantern sightings can be mistaken for distress flares or UFOs, causing police and coastguard resource issues. South Ayrshire Council has prohibited intentional balloon and Chinese or sky lantern releases on council-owned land and at council-endorsed events, urging people and organisations to stop releasing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCSky Lanterns</span><span class="citation-popover-snippet">NFCCSky Lanterns</span></span></span>
+Lanterns are a particularly good fit for some reports of yellow or orange spheres moving slowly in groups. They can drift with the wind, rise silently, appear in loose formations, fade out one by one, and look more structured than they are. The National Fire Chiefs Council warns that sky lantern sightings can be mistaken for distress flares or UFOs, causing police and coastguard resource issues. South Ayrshire Council has prohibited intentional balloon and Chinese or sky lantern releases on council-owned land and at council-endorsed events, urging people and organisations to stop releasing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCSky Lanterns</span><span class="citation-popover-snippet">NFCCSky Lanterns</span></span></span>
 
 This is especially relevant to the later West Kilbride-style reports of multiple yellow spheres. It does not prove those sightings were lanterns, because the MoD summaries do not include wind direction, launch location, duration or witness geometry. But lanterns should be near the top of the candidate list when a report mentions warm-coloured lights, clusters, slow drift, silence and fading.
 
@@ -329,9 +329,9 @@ The words that make a UFO report sound most impressive are often the same words 
 
 A light high in the sky has no obvious scale. If it is a satellite, aircraft or meteor, the witness may not know whether it is hundreds of metres away, several miles away, or far above the atmosphere. Without distance, speed cannot be estimated reliably. A small nearby object drifting in the wind and a large distant aircraft turning on approach can both be described as moving strangely.
 
-The 2006 Ayr entry is a good example of the problem. “A light, way above, in the sky” that “moved in a zig zag” is a sincere-sounding observation, but the summary does not say how long it was watched, whether it crossed fixed stars, whether binoculars were used, whether there were clouds, or whether the witness had a known landmark for direction. That makes it a weak report, not because it is impossible, but because it is under-specified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 2006 Ayr entry is a good example of the problem. “A light, way above, in the sky” that “moved in a zig zag” is a sincere-sounding observation, but the summary does not say how long it was watched, whether it crossed fixed stars, whether binoculars were used, whether there were clouds, or whether the witness had a known landmark for direction. That makes it a weak report, not because it is impossible, but because it is under-specified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The same caution applies to Lochgreen in 1999. A bright light that flared and moved rapidly is potentially consistent with a meteor, aircraft light, satellite flare, reflection, or an object whose motion was misjudged. The public MoD list records the claim but does not provide enough supporting data to elevate it beyond an unresolved light report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The same caution applies to Lochgreen in 1999. A bright light that flared and moved rapidly is potentially consistent with a meteor, aircraft light, satellite flare, reflection, or an object whose motion was misjudged. The public MoD list records the claim but does not provide enough supporting data to elevate it beyond an unresolved light report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 ## How to Judge Weak but Honest Sightings
 
@@ -352,7 +352,7 @@ A stronger Ayrshire report would normally include:
 
 </div>
 
-This approach does not assume that every sighting is explained. It simply prevents a common mistake: turning a low-information report into a high-confidence claim. The National Archives’ description of MoD observation reports shows why details matter. Good forms asked for location, distance, movement and weather, yet the archive also notes that many reports give no indication of the cause, apart from occasional annotations about local events or nearby airships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+This approach does not assume that every sighting is explained. It simply prevents a common mistake: turning a low-information report into a high-confidence claim. The National Archives’ description of MoD observation reports shows why details matter. Good forms asked for location, distance, movement and weather, yet the archive also notes that many reports give no indication of the cause, apart from occasional annotations about local events or nearby airships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uRJlcncylE8" title="Nick Pope: Inside the UK&#x27;s UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer">Nick Pope: Inside the UK&#x27;s UFO Files</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uRJlcncylE8">Open on YouTube</a></p></div></div></div>
@@ -361,9 +361,9 @@ This approach does not assume that every sighting is explained. It simply preven
 
 The MoD lists prove that people in Ayrshire reported strange lights and objects. They do not prove that unknown craft operated over Ayrshire. That distinction is central to reading this county’s UFO history fairly.
 
-GOV.UK describes the released lists as UFO reports from 1997 to 2009 showing dates, times, locations and brief descriptions. They are essentially sighting logs, not case files with full investigation results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+GOV.UK describes the released lists as UFO reports from 1997 to 2009 showing dates, times, locations and brief descriptions. They are essentially sighting logs, not case files with full investigation results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The wider official position also points towards caution. The National Archives research guide explains that official policy was concerned with whether UFO sightings posed a national-security threat, and that once hostile aircraft were discounted, the identity of a UFO was often of no further military interest. It also states that unexplained reports remained “unidentified” rather than “extraterrestrial”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The wider official position also points towards caution. The National Archives research guide explains that official policy was concerned with whether UFO sightings posed a national-security threat, and that once hostile aircraft were discounted, the identity of a UFO was often of no further military interest. It also states that unexplained reports remained “unidentified” rather than “extraterrestrial”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 That leaves Ayrshire with a modest but real record: local press waves, MoD entries, repeated coastal lights, and a strong aviation backdrop around Prestwick. The best reading is neither blanket debunking nor uncritical belief. Many reports are likely misidentifications. Some remain unclear because the public record is too thin. A smaller number would deserve renewed attention only if supported by precise timing, independent lines of sight, aviation checks, meteor data, photographs with metadata, or contemporary official correspondence.
 
@@ -382,194 +382,194 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
 <img src="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-Illustration-3-dark.svg" | relative_url }}" alt="Light Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ayrshire_8acdee_ayrshire_light_misid_eae3fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why So Many Ayrshire UFOs Are Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why So Many Ayrshire UFOs Are Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains UFO report categories and the challenge of interpreting light sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains UFO report categories and the challenge of interpreting light sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores interpretations of UFO reports and observational evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretations of UFO reports and observational evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for assessing reports and distinguishing stronger cases from weak light observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing reports and distinguishing stronger cases from weak light observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches evidence-based evaluation of unusual claims and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evidence-based evaluation of unusual claims and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-reports-why-so-many-ayrshire-ufos-are-lights-ayrshire-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-so-many-ayrshire-ufos-are-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-so-many-ayrshire-ufos-are-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,226 +775,226 @@ For Ayrshire, the honest conclusion is that most light reports are weak evidence
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.stv.tv  
    Title: News What was the mysterious fireball that crossed Scotland's night  
-   Link: <a href="https://news.stv.tv/scotland/what-was-the-mysterious-fireball-that-crossed-scotlands-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://news.stv.tv/scotland/what-was-the-mysterious-fireball-that-crossed-scotlands-night-sky</a>  
+   Link:<a href="https://news.stv.tv/scotland/what-was-the-mysterious-fireball-that-crossed-scotlands-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://news.stv.tv/scotland/what-was-the-mysterious-fireball-that-crossed-scotlands-night-sky</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nats.aero  
    Title: Prestwick Centre FINAL  
-   Link: <a href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf</a>  
+   Link:<a href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/about-us/company/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/about-us/company/</a>  
+   Link:<a href="https://www.nats.aero/about-us/company/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/about-us/company/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nfcc.org.uk  
    Title: NFCCSky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: south-ayrshire.gov.uk  
-   Link: <a href="https://www.south-ayrshire.gov.uk/article/37566/Sky-lanterns-and-Balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.south-ayrshire.gov.uk/article/37566/Sky-lanterns-and-Balloons</a>  
+   Link:<a href="https://www.south-ayrshire.gov.uk/article/37566/Sky-lanterns-and-Balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.south-ayrshire.gov.uk/article/37566/Sky-lanterns-and-Balloons</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Press Gazette Submission  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nats.aero  
    Title: Trainee Air Traffic Controllers  
-   Link: <a href="https://www.nats.aero/careers/operations/trainee-air-traffic-controllers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/careers/operations/trainee-air-traffic-controllers/</a>  
+   Link:<a href="https://www.nats.aero/careers/operations/trainee-air-traffic-controllers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/careers/operations/trainee-air-traffic-controllers/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
+   Link:<a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/careers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/careers/</a>  
+   Link:<a href="https://www.nats.aero/careers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/careers/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/environment/countryside/advice-sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/environment/countryside/advice-sky-lanterns-and-helium-balloons</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/environment/countryside/advice-sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/environment/countryside/advice-sky-lanterns-and-helium-balloons</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gov.scot  
    Title: foi 202500475674  
-   Link: <a href="https://www.gov.scot/publications/foi-202500475674/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/foi-202500475674/</a>  
+   Link:<a href="https://www.gov.scot/publications/foi-202500475674/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/foi-202500475674/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: westlothian.gov.uk  
    Title: Balloon lantern release on council land  
-   Link: <a href="https://www.westlothian.gov.uk/article/73621/Balloon-lantern-release-on-council-land" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/73621/Balloon-lantern-release-on-council-land</a>  
+   Link:<a href="https://www.westlothian.gov.uk/article/73621/Balloon-lantern-release-on-council-land" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/73621/Balloon-lantern-release-on-council-land</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=ayrshire%2C+scotland&amp;MostSpecificLocation=ayrshire%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=ayrshire%2C+scotland&amp;MostSpecificLocation=ayrshire%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=ayrshire%2C+scotland&amp;MostSpecificLocation=ayrshire%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=ayrshire%2C+scotland&amp;MostSpecificLocation=ayrshire%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rmg.co.uk  
    Title: perseid meteor shower guide uk when where to see  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: glasgowprestwick.com  
-   Link: <a href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/corporate/about-us/history/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/corporate/about-us/history/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1849623245144121/posts/24099946096351851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1849623245144121/posts/24099946096351851/</a>  
+   Link:<a href="https://www.facebook.com/groups/1849623245144121/posts/24099946096351851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1849623245144121/posts/24099946096351851/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1849623245144121/posts/26364459589900479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1849623245144121/posts/26364459589900479/</a>  
+   Link:<a href="https://www.facebook.com/groups/1849623245144121/posts/26364459589900479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1849623245144121/posts/26364459589900479/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/188537431278562/posts/4165763100222622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/188537431278562/posts/4165763100222622/</a>  
+   Link:<a href="https://www.facebook.com/groups/188537431278562/posts/4165763100222622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/188537431278562/posts/4165763100222622/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1064949770289183/posts/5842715742512538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1064949770289183/posts/5842715742512538/</a>  
+   Link:<a href="https://www.facebook.com/groups/1064949770289183/posts/5842715742512538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1064949770289183/posts/5842715742512538/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/188537431278562/posts/2973640016101609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/188537431278562/posts/2973640016101609/</a>  
+   Link:<a href="https://www.facebook.com/groups/188537431278562/posts/2973640016101609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/188537431278562/posts/2973640016101609/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1849623245144121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1849623245144121/</a>  
+   Link:<a href="https://www.facebook.com/groups/1849623245144121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1849623245144121/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Glasgow Prestwick Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: The Volcano-Meteor UFO Debunked  
-   Link: <a href="https://www.youtube.com/watch?v=2cc7ejT_SG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cc7ejT_SG8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope&#x27;s Global UFO Investigation | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2cc7ejT_SG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cc7ejT_SG8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope&#x27;s Global UFO Investigation | Ancient Aliens...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/</a>  
+   Link:<a href="https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rossgreerscottishgreens/posts/24-us-military-flights-via-a-scottish-government-owned-airport-in-the-week-befor/1305058711443064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rossgreerscottishgreens/posts/24-us-military-flights-via-a-scottish-government-owned-airport-in-the-week-befor/1305058711443064/</a>  
+   Link:<a href="https://www.facebook.com/rossgreerscottishgreens/posts/24-us-military-flights-via-a-scottish-government-owned-airport-in-the-week-befor/1305058711443064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rossgreerscottishgreens/posts/24-us-military-flights-via-a-scottish-government-owned-airport-in-the-week-befor/1305058711443064/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsAdl/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/5606879472710086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAdl/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/5606879472710086/</a>  
+   Link:<a href="https://www.facebook.com/10NewsAdl/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/5606879472710086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAdl/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/5606879472710086/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/northamptonnoticeboard/posts/1260646725255332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/northamptonnoticeboard/posts/1260646725255332/</a>  
+   Link:<a href="https://www.facebook.com/groups/northamptonnoticeboard/posts/1260646725255332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/northamptonnoticeboard/posts/1260646725255332/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/stvnews/posts/around-1am-on-july-3-the-night-sky-was-lit-up-as-a-meteor-exploded-while-enterin/1231666935669218/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stvnews/posts/around-1am-on-july-3-the-night-sky-was-lit-up-as-a-meteor-exploded-while-enterin/1231666935669218/</a>  
+   Link:<a href="https://www.facebook.com/stvnews/posts/around-1am-on-july-3-the-night-sky-was-lit-up-as-a-meteor-exploded-while-enterin/1231666935669218/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stvnews/posts/around-1am-on-july-3-the-night-sky-was-lit-up-as-a-meteor-exploded-while-enterin/1231666935669218/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/</a>  
+   Link:<a href="https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: nfuonline.com  
-   Link: <a href="https://www.nfuonline.com/news/campaigning-for-you-ban-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/campaigning-for-you-ban-sky-lanterns/</a>  
+   Link:<a href="https://www.nfuonline.com/news/campaigning-for-you-ban-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/campaigning-for-you-ban-sky-lanterns/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  

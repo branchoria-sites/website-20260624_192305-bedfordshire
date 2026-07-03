@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kinross-shire-c6236f-index/
 description: Focused pages that expand on What Really Happened in Kinross shire Skies?.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Kinross-shire_c6236f
 parent_title: What Really Happened in Kinross shire Skies?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-kinross-shire/
 
 # Explore Topics in What Really Happened in Kinross shire Skies?
 
-The following pages expand on the main **[What Really Happened in Kinross shire Skies?]({{ '/what-really-happened-in-kinross-shire/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Kinross shire Skies?]({{ '/what-really-happened-in-kinross-shire/' | relative_url }})** page and cover its key branches in.
 
 - [Calvine]({{ '/calvine/' | relative_url }})
 - [Boundaries]({{ '/boundaries-8ee442/' | relative_url }})

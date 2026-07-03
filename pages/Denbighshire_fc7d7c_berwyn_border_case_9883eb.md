@@ -248,47 +248,47 @@ image: /assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-overview-soc
 
 ## Introduction
 
-The Berwyn Mountains incident is often pulled into [Denbighshire]({{ 'what-really-happened-in-denbighshires/' | relative_url }}) UFO history, but the most careful answer is: **it is a borderland North Wales case, not a straightforward historic Denbighshire case**. The best-known reports centre on 23 January 1974, when people around Llandrillo and Bala heard a loud bang, felt a tremor, saw lights, and triggered police and RAF search activity. Later UFO retellings turned the episode into the “Welsh Roswell”, but the strongest documented explanation is a badly timed combination of a real earthquake and a bright meteor or bolide seen over a wide area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Berwyn Mountains incident is often pulled into [Denbighshire]({{ 'what-really-happened-in-denbighshires/' | relative_url }}) UFO history, but the most careful answer is: **it is a borderland North Wales case, not a straightforward historic Denbighshire case**. The best-known reports centre on 23 January 1974, when people around Llandrillo and Bala heard a loud bang, felt a tremor, saw lights, and triggered police and RAF search activity. Later UFO retellings turned the episode into the “Welsh Roswell”, but the strongest documented explanation is a badly timed combination of a real earthquake and a bright meteor or bolide seen over a wide area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-overview.webp" | relative_url }}" alt="Overview image for Berwyn Border" loading="eager" decoding="sync" fetchpriority="high">
-The county question matters because Llandrillo is now in Denbighshire council area, while older records place it in Merionethshire. The Berwyn ridge also sits where historic Denbighshire, Merionethshire and Montgomeryshire meet, so a simple county label can distort the evidence. For this project, Berwyn belongs near Denbighshire because it shaped local North Wales UFO memory, but it should be presented as a cross-border case rather than claimed as proof of a Denbighshire crash. Gazetteer of British Place Names+2DataMap Wales <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[gazetteer.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The county question matters because Llandrillo is now in Denbighshire council area, while older records place it in Merionethshire. The Berwyn ridge also sits where historic Denbighshire, Merionethshire and Montgomeryshire meet, so a simple county label can distort the evidence. For this project, Berwyn belongs near Denbighshire because it shaped local North Wales UFO memory, but it should be presented as a cross-border case rather than claimed as proof of a Denbighshire crash. Gazetteer of British Place Names+2DataMap Wales<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[gazetteer.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MvG3HP0W1FQ" title="The Welsh &quot;Roswell&quot; UFO Crash (Berwyn UFO Incident)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer">The Welsh &quot;Roswell&quot; UFO Crash (Berwyn UFO Incident)</a></p><p class="youtube-embed-meta">Channel: Sort Of Interesting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MvG3HP0W1FQ">Open on YouTube</a></p></div></div></div>
 
 ## What happened on 23 January 1974
 
-On the evening of Wednesday 23 January 1974, the area around the Berwyn Mountains was shaken by a sequence that sounded dramatic even before later UFO layers were added. Reports described strange lights in the sky, a large bang or explosion, and a tremor felt in homes. The Guardian’s account of the later National Archives release says residents of Llandrillo in Merionethshire, near the Berwyn mountains, first reported lights, then heard a major explosion and felt a tremor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+On the evening of Wednesday 23 January 1974, the area around the Berwyn Mountains was shaken by a sequence that sounded dramatic even before later UFO layers were added. Reports described strange lights in the sky, a large bang or explosion, and a tremor felt in homes. The Guardian’s account of the later National Archives release says residents of Llandrillo in Merionethshire, near the Berwyn mountains, first reported lights, then heard a major explosion and felt a tremor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The immediate official reaction was practical, not exotic. Police and emergency responders treated the possibility of an aircraft crash seriously because that was a reasonable first interpretation in a dark, mountainous area after reports of lights, noise and shaking. The released file coverage says a search and rescue team from RAF Valley on Anglesey was scrambled after reports of an explosion and a large fire on the mountainside. Police and RAF searchers began within about an hour, continued through the night, and the search was called off the following afternoon after nothing was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The immediate official reaction was practical, not exotic. Police and emergency responders treated the possibility of an aircraft crash seriously because that was a reasonable first interpretation in a dark, mountainous area after reports of lights, noise and shaking. The released file coverage says a search and rescue team from RAF Valley on Anglesey was scrambled after reports of an explosion and a large fire on the mountainside. Police and RAF searchers began within about an hour, continued through the night, and the search was called off the following afternoon after nothing was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-That search is one reason the case still has staying power. A normal earthquake would not usually become one of Britain’s best-known UFO stories. Berwyn became memorable because several ingredients arrived together: a real ground shock, visually striking lights, worried witnesses, emergency activity, an empty mountainside, and later claims that the absence of debris was itself suspicious. The official records support confusion and investigation; they do not support the stronger later claim that a recovered alien craft was secretly removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+That search is one reason the case still has staying power. A normal earthquake would not usually become one of Britain’s best-known UFO stories. Berwyn became memorable because several ingredients arrived together: a real ground shock, visually striking lights, worried witnesses, emergency activity, an empty mountainside, and later claims that the absence of debris was itself suspicious. The official records support confusion and investigation; they do not support the stronger later claim that a recovered alien craft was secretly removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-Illustration-1-dark.svg" | relative_url }}" alt="Berwyn Border illustration 1" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Earthquake, meteor and search accounts
 
-The strongest scientific anchor is the earthquake. R. M. W. Musson of the British Geological Survey described the event in *Astronomy & Geophysics* as a magnitude 3.5 ML earthquake that shook much of North Wales on the night of 23 January 1974. He noted that such an earthquake is not extraordinary in the UK catalogue by itself, but the atmospheric lights seen at the same time led people to suspect an aircraft crash and brought out search-and-rescue teams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
+The strongest scientific anchor is the earthquake. R. M. W. Musson of the British Geological Survey described the event in *Astronomy & Geophysics* as a magnitude 3.5 ML earthquake that shook much of North Wales on the night of 23 January 1974. He noted that such an earthquake is not extraordinary in the UK catalogue by itself, but the atmospheric lights seen at the same time led people to suspect an aircraft crash and brought out search-and-rescue teams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
 
-Musson’s narrative also helps explain why the story was confusing from the start. Instrumental evidence put the start of the sequence at 20:38. By about 20:45, many people in North Wales and Cheshire had contacted police about a mysterious bang and rumbling. The police checked with RAF Valley and air traffic control at Preston and treated the report as a possible plane crash; within an hour, officers were searching the Berwyn Mountains, where lights had been reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span>
+Musson’s narrative also helps explain why the story was confusing from the start. Instrumental evidence put the start of the sequence at 20:38. By about 20:45, many people in North Wales and Cheshire had contacted police about a mysterious bang and rumbling. The police checked with RAF Valley and air traffic control at Preston and treated the report as a possible plane crash; within an hour, officers were searching the Berwyn Mountains, where lights had been reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span>
 
-The meteor evidence points in a different direction from a local crash. Musson recorded reports of what appeared to be a meteorite coming down in flames near Cader Fronwen, about 2 km south-east of Llandrillo and 10 km east of Bala, while police and coastguards in places including the Isle of Man, Anglesey, Formby and Cumberland received reports of green flares or a meteor-like object. This wide spread of sightings fits a bright atmospheric event better than a single object landing on one hillside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span>
+The meteor evidence points in a different direction from a local crash. Musson recorded reports of what appeared to be a meteorite coming down in flames near Cader Fronwen, about 2 km south-east of Llandrillo and 10 km east of Bala, while police and coastguards in places including the Isle of Man, Anglesey, Formby and Cumberland received reports of green flares or a meteor-like object. This wide spread of sightings fits a bright atmospheric event better than a single object landing on one hillside.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span>
 
-The Ministry of Defence material reported in 2010 reached a similar broad direction. Officials noted reports of an unusual object in the sky shortly before 10 pm and a bright descending light seen in many parts of Britain. The military view described in the file coverage was that the object was most likely a bolide, while an astronomical investigation reportedly suggested the meteor may have disintegrated over Manchester and was not physically connected to the Berwyn earth tremor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Ministry of Defence material reported in 2010 reached a similar broad direction. Officials noted reports of an unusual object in the sky shortly before 10 pm and a bright descending light seen in many parts of Britain. The military view described in the file coverage was that the object was most likely a bolide, while an astronomical investigation reportedly suggested the meteor may have disintegrated over Manchester and was not physically connected to the Berwyn earth tremor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-This distinction matters. A combined “earthquake plus meteor” explanation does not require the meteor to have hit the Berwyn Mountains. It means witnesses may have experienced two unusual natural events close enough in time to be fused into one story: the ground shook locally, while a spectacular light appeared in the sky over a much wider region. That is less cinematic than a crash, but it fits the pattern of evidence better than a single object striking the mountain and leaving no discoverable debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
+This distinction matters. A combined “earthquake plus meteor” explanation does not require the meteor to have hit the Berwyn Mountains. It means witnesses may have experienced two unusual natural events close enough in time to be fused into one story: the ground shook locally, while a spectacular light appeared in the sky over a much wider region. That is less cinematic than a crash, but it fits the pattern of evidence better than a single object striking the mountain and leaving no discoverable debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OQ3o_g9GtgY" title="Welsh &#x27;Roswell&#x27; UFO sighting explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OQ3o_g9GtgY" target="_blank" rel="noopener noreferrer">Welsh &#x27;Roswell&#x27; UFO sighting explained</a></p><p class="youtube-embed-meta">Channel: Onlooker &middot; Views: 29.4K &middot; Uploaded: August 2010 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OQ3o_g9GtgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OQ3o_g9GtgY">Open on YouTube</a></p></div></div></div>
 
 ## Why the county boundary still matters
 
-The county label is not a pedantic detail. It changes how the incident should be indexed, mapped and interpreted. Modern readers often see Llandrillo described as Denbighshire because today it is within Denbighshire County Council. The Gazetteer of British Place Names gives the careful split: Llandrillo is a community in the historic county of Merionethshire, within the council area of Denbighshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The county label is not a pedantic detail. It changes how the incident should be indexed, mapped and interpreted. Modern readers often see Llandrillo described as Denbighshire because today it is within Denbighshire County Council. The Gazetteer of British Place Names gives the careful split: Llandrillo is a community in the historic county of Merionethshire, within the council area of Denbighshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
-That split reflects wider Welsh boundary history. DataMapWales explains that the thirteen historic counties remained in use until the 1974 local government changes, which created eight administrative counties, later replaced in 1996 by today’s twenty-two unitary authorities. In other words, a report written before April 1974, a modern council description, a police-area reference and a historic-county map may all describe the same place differently without anyone necessarily being wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[DataMap Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span><span class="citation-popover-snippet">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span></span></span>
+That split reflects wider Welsh boundary history. DataMapWales explains that the thirteen historic counties remained in use until the 1974 local government changes, which created eight administrative counties, later replaced in 1996 by today’s twenty-two unitary authorities. In other words, a report written before April 1974, a modern council description, a police-area reference and a historic-county map may all describe the same place differently without anyone necessarily being wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[DataMap Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span><span class="citation-popover-snippet">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span></span></span>
 
-For Denbighshire, the complication is especially sharp because the modern county and the historic county overlap but do not match. Britannica notes that the southernmost part of the present Denbighshire county, bordering the Berwyn range, belongs to historic Merioneth, while the remaining central portion is only part of historic Denbighshire; historic Denbighshire also extended into areas now outside the modern council boundary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+For Denbighshire, the complication is especially sharp because the modern county and the historic county overlap but do not match. Britannica notes that the southernmost part of the present Denbighshire county, bordering the Berwyn range, belongs to historic Merioneth, while the remaining central portion is only part of historic Denbighshire; historic Denbighshire also extended into areas now outside the modern council boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 This means the Berwyn incident can be “Denbighshire” in a modern administrative sense through Llandrillo, while being “Merionethshire” in a historic-county sense for the village most often named in the original accounts. At the same time, the Berwyn range itself is a boundary landscape, so witnesses, search teams, newspaper readers and later UFO investigators were not operating inside a neat county box. For a historic-county UFO project, the most accurate label is therefore: **a North Wales border incident affecting Denbighshire’s UFO history, but not a clean historic Denbighshire case**.
 
@@ -298,9 +298,9 @@ This means the Berwyn incident can be “Denbighshire” in a modern administrat
 
 The fair answer depends on which Denbighshire is being used. Under modern local government geography, yes, the Llandrillo association gives Denbighshire a legitimate connection. Under the historic-county frame used by this project, the core village evidence points more strongly to Merionethshire, while the Berwyn ridge and surrounding witness area spill towards historic Denbighshire and Montgomeryshire. That is why the case belongs in Denbighshire as a boundary question, not as a simple local trophy case.
 
-The strongest “for Denbighshire” argument is cultural and geographic. People in Denbighshire and neighbouring parts of North Wales encountered the story through the same regional press, police geography, mountain landscape and later UFO folklore. The case sits close to Corwen, Llangollen and the southern edge of the modern county, so it naturally appears in local memory and tourism-adjacent retellings of North Wales mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The strongest “for Denbighshire” argument is cultural and geographic. People in Denbighshire and neighbouring parts of North Wales encountered the story through the same regional press, police geography, mountain landscape and later UFO folklore. The case sits close to Corwen, Llangollen and the southern edge of the modern county, so it naturally appears in local memory and tourism-adjacent retellings of North Wales mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-The strongest “not simply Denbighshire” argument is evidential. The named village in the most cited accounts is Llandrillo, which older and gazetteer sources place historically in Merionethshire. If the project is using historic counties as its canonical map layer, Berwyn should not be flattened into Denbighshire just because the modern council boundary now includes Llandrillo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The strongest “not simply Denbighshire” argument is evidential. The named village in the most cited accounts is Llandrillo, which older and gazetteer sources place historically in Merionethshire. If the project is using historic counties as its canonical map layer, Berwyn should not be flattened into Denbighshire just because the modern council boundary now includes Llandrillo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 That does not weaken the page’s relevance. It strengthens it. The Berwyn case is useful precisely because it shows how UFO history is often made at the edges: between counties, between police and military responsibilities, between astronomy and geology, and between an urgent search account and later crash mythology. It is one of the best examples in North Wales of why county-based UFO mapping needs careful boundary notes rather than blunt pins.
 
@@ -309,11 +309,11 @@ That does not weaken the page’s relevance. It strengthens it. The Berwyn case 
 
 ## What later reporting strengthened or weakened
 
-Later reporting strengthened the evidence for an official response, witness confusion and real natural triggers. The National Archives release, as reported in 2010, confirmed that the Ministry of Defence had records of the incident, that police and RAF search activity followed reports from the area, and that officials wrestled with reports of lights and a possible descending object. This makes the case historically significant even if it does not validate the alien-crash version. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Later reporting strengthened the evidence for an official response, witness confusion and real natural triggers. The National Archives release, as reported in 2010, confirmed that the Ministry of Defence had records of the incident, that police and RAF search activity followed reports from the area, and that officials wrestled with reports of lights and a possible descending object. This makes the case historically significant even if it does not validate the alien-crash version.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-Later scientific discussion weakened the claim of a crashed object. Musson’s earthquake paper gives the event a solid geophysical foundation, while the wide distribution of meteor or “green flare” reports makes a local impact less necessary. The most economical explanation is not that witnesses invented everything, but that honest witnesses experienced a rare and confusing overlap of phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
+Later scientific discussion weakened the claim of a crashed object. Musson’s earthquake paper gives the event a solid geophysical foundation, while the wide distribution of meteor or “green flare” reports makes a local impact less necessary. The most economical explanation is not that witnesses invented everything, but that honest witnesses experienced a rare and confusing overlap of phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
 
-The most persistent doubt concerns the witness reports of lights on or near the mountain. Some descriptions, including a red circular glow like a large fire, are vivid and deserve to be reported carefully. But vivid does not automatically mean extraterrestrial. In a night-time mountain search, lights can come from searchers, vehicles, torches, distant farms, atmospheric effects, or misjudged distances. The official search found no wreckage, and that absence matters because a physical crash strong enough to create the reported disturbance should have left physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The most persistent doubt concerns the witness reports of lights on or near the mountain. Some descriptions, including a red circular glow like a large fire, are vivid and deserve to be reported carefully. But vivid does not automatically mean extraterrestrial. In a night-time mountain search, lights can come from searchers, vehicles, torches, distant farms, atmospheric effects, or misjudged distances. The official search found no wreckage, and that absence matters because a physical crash strong enough to create the reported disturbance should have left physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 For Denbighshire’s UFO history, the Berwyn incident is therefore best treated as **important but not proved anomalous**. It is stronger than a casual single-witness light report because it involved many calls, emergency response and official files. It is weaker than UFO folklore suggests because the earthquake and meteor evidence is substantial, the search found nothing, and the county geography has often been simplified in retellings. Its real value is not as confirmed evidence of a crash, but as a clear case study in how North Wales landscape, boundary confusion, official uncertainty and later UFO culture can turn a frightening evening into a lasting regional legend.
 
@@ -321,194 +321,194 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-Illustration-3-dark.svg" | relative_url }}" alt="Berwyn Border illustration 3" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c_berwyn_border_case_9883eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Berwyn Really a Denbighshire UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Berwyn Really a Denbighshire UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how dramatic sighting waves and case narratives develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how dramatic sighting waves and case narratives develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides British UFO context that complements discussion of a famous Welsh case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides British UFO context that complements discussion of a famous Welsh case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a broader framework for evaluating famous UFO cases and official evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broader framework for evaluating famous UFO cases and official evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Offers contemporary discussion of evidence standards relevant to Berwyn claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers contemporary discussion of evidence standards relevant to Berwyn claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="berwyn-border-was-berwyn-really-a-denbighshire-ufo-case-denbighshire-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,105 +714,105 @@ For Denbighshire’s UFO history, the Berwyn incident is therefore best treated 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article/47/5/5.11/231627</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic...</p></details>
+   Link:<a href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article/47/5/5.11/231627</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
+   Link:<a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nora.nerc.ac.uk  
    Title: NERC Open Research Archive  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Llandrillo_C%2C_Merionethshire_317098</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: datamap.gov.wales  
    Title: Data Map Wales Historic County Boundaries of Wales | Data Map Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wikishire.co.uk  
    Title: Berwyn Range  
-   Link: <a href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berwyn_Range</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berwyn_Range</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: datamap.gov.wales  
    Title: Historic County Boundaries of Wales.txt  
-   Link: <a href="https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt</a>  
+   Link:<a href="https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: datamap.gov.wales  
    Title: metadata detail  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Denbighshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Denbighshire</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cyber.gov.au  
-   Link: <a href="https://www.cyber.gov.au/sites/default/files/2024-12/PROTECT%20-%20Cyber%20Security%20Incident%20Response%20Planning%20-%20Practitioner%20Guidance%20%28December%202024%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gov.au/sites/default/files/2024-12/PROTECT%20-%20Cyber%20Security%20Incident%20Response%20Planning%20-%20Practitioner%20Guidance%20%28December%202024%29.pdf</a>  
+   Link:<a href="https://www.cyber.gov.au/sites/default/files/2024-12/PROTECT%20-%20Cyber%20Security%20Incident%20Response%20Planning%20-%20Practitioner%20Guidance%20%28December%202024%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gov.au/sites/default/files/2024-12/PROTECT%20-%20Cyber%20Security%20Incident%20Response%20Planning%20-%20Practitioner%20Guidance%20%28December%202024%29.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo</a>  
+   Link:<a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FbtYr1aNvX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FbtYr1aNvX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 528: The Berwyn Mountain UFO Incident - Roswelsh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FbtYr1aNvX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FbtYr1aNvX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 528: The Berwyn Mountain UFO Incident - Roswelsh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Welsh "Roswell" UFO Crash (Berwyn UFO Incident)  
-   Link: <a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MvG3HP0W1FQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Genuine UFO Sighting Denbigh Wales 2012 Flying Saucer Lights Part One of Eight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MvG3HP0W1FQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genuine UFO Sighting Denbigh Wales 2012 Flying Saucer Lights Part One of Eight...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt1261457/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1261457/</a>  
+   Link:<a href="https://www.imdb.com/title/tt1261457/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1261457/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html</a>  
+   Link:<a href="https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/2054687" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/2054687</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/2054687" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/2054687</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell</a>  
+   Link:<a href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bgs.ac.uk  
-   Link: <a href="https://www.bgs.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bgs.ac.uk/</a>  
+   Link:<a href="https://www.bgs.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bgs.ac.uk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/cadair-berwyn-is-a-mountain-summit-which-forms-part-of-the-border-of-denbighshir/1003263058623928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/cadair-berwyn-is-a-mountain-summit-which-forms-part-of-the-border-of-denbighshir/1003263058623928/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/cadair-berwyn-is-a-mountain-summit-which-forms-part-of-the-border-of-denbighshir/1003263058623928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/cadair-berwyn-is-a-mountain-summit-which-forms-part-of-the-border-of-denbighshir/1003263058623928/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/denbighshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/denbighshire/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
+   Link:<a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  

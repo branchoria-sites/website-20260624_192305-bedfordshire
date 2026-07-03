@@ -118,9 +118,9 @@ heading_title: What Did Herefordshire's UFO Files Really Show?
 page_heading_title: What Did Herefordshire's UFO Files Really Show?
 source_count: 112
 infographic_count: 3
-page_website_name: Herefordshire UFOs
+page_website_name: Herefordshire
 page_banner_line: Balanced county UFO history from MOD records, border sightings and plausible explanations.
-site_website_name: Herefordshire UFOs
+site_website_name: Herefordshire
 site_banner_line: Balanced county UFO history from MOD records, border sightings and plausible explanations.
 site_image_description: A quiet Herefordshire lane at dusk with rolling fields, a distant church tower and a small triangular light high above the horizon.
 output_language: English
@@ -689,40 +689,40 @@ image: /assets/images/Herefordshire_be57fe-overview-social.jpg
 
 ## What counts as “Herefordshire” on this page
 
-This page treats Herefordshire as the historic county centred on Hereford, while noting that modern records often use administrative or ceremonial wording. That matters because several reports sit near borders or use phrases such as “Herefordshire Borders”, where the observation may have crossed into neighbouring Shropshire, Worcestershire, Gloucestershire or the Welsh border counties. Wikishire’s county profile describes Herefordshire as bordering Monmouthshire, Brecknockshire and Radnorshire to the west, Shropshire to the north, Worcestershire to the east and Gloucestershire to the south. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page treats Herefordshire as the historic county centred on Hereford, while noting that modern records often use administrative or ceremonial wording. That matters because several reports sit near borders or use phrases such as “Herefordshire Borders”, where the observation may have crossed into neighbouring Shropshire, Worcestershire, Gloucestershire or the Welsh border counties. Wikishire’s county profile describes Herefordshire as bordering Monmouthshire, Brecknockshire and Radnorshire to the west, Shropshire to the north, Worcestershire to the east and Gloucestershire to the south.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Herefordshire_be57fe-overview.webp" | relative_url }}" alt="Overview image for What Did Herefordshire&#x27;s UFO Files Really..." loading="eager" decoding="sync" fetchpriority="high">
-There is also a modern administrative wrinkle. Herefordshire was part of Hereford and Worcester from 1974 to 1998, before being reconstituted as a unitary authority and ceremonial county from 1 April 1998. That means older UFO records may sometimes appear under “Hereford & Worcs”, while later government summaries usually list “Herefordshire” directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+There is also a modern administrative wrinkle. Herefordshire was part of Hereford and Worcester from 1974 to 1998, before being reconstituted as a unitary authority and ceremonial county from 1 April 1998. That means older UFO records may sometimes appear under “Hereford & Worcs”, while later government summaries usually list “Herefordshire” directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## The official sightings: a short county chronology
 
-The most accessible official evidence comes from the MOD’s published “UFO reports in the UK” tables, which list dates, times, locations and brief descriptions for reports received between 1997 and 2009. The government page describes the dataset as showing “dates and times, location and a brief description of the sighting”; it does not present the entries as confirmed unknown craft or as completed case investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The most accessible official evidence comes from the MOD’s published “UFO reports in the UK” tables, which list dates, times, locations and brief descriptions for reports received between 1997 and 2009. The government page describes the dataset as showing “dates and times, location and a brief description of the sighting”; it does not present the entries as confirmed unknown craft or as completed case investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 The Herefordshire entries are small in number but varied:
 
 DatePlaceReported descriptionImmediate assessment22 Nov 1997, 00:04BredenburyOne round, dim green object moving west, then falling from the sky at a steady rateBrief description resembles a meteor-like report, but no official explanation is attached12 Apr 1998, 23:45Much Marcle/LedburyA hovering UFO with numerous flashing lights of different colours for about ten minutesCould fit aircraft, distant lights or misperception; unresolved in the table23 Sept 1999, 10:00LeominsterA large aircraft-sized object, long with wings, bright front light, jet sound, fast movement and black smoke from the rearThe description itself strongly suggests an aircraft or conventional aerial object31 Dec 1999, 18:45WigmoreA large flashing light, later looking like a white flashing circleToo little detail for a confident explanation8 Jul 2003, 20:00HerefordMOD Police reported a stationary triangular object high in the sky for about 30 minutesThe most notable Herefordshire entry because of the reporter category and duration9 Sept 2006Herefordshire bordersSeven bright [orange lights]({{ 'orange-lights-ea90eb/' | relative_url }}) travelling in a straight line from south to northConsistent with a common “orange lights in formation” pattern, often later associated with lanterns or grouped sky objects
 
-The Bredenbury entry is recorded in the 1997 MOD report as a round green object moving west and falling steadily from the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The Much Marcle/Ledbury entry appears in the 1998 table as a hovering object with many coloured flashing lights, lasting about ten minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The two 1999 entries are quite different: Leominster sounds almost aircraft-like, with wings, jet sound and black smoke, while Wigmore is reduced to a flashing light and white circle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Bredenbury entry is recorded in the 1997 MOD report as a round green object moving west and falling steadily from the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The Much Marcle/Ledbury entry appears in the 1998 table as a hovering object with many coloured flashing lights, lasting about ten minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The two 1999 entries are quite different: Leominster sounds almost aircraft-like, with wings, jet sound and black smoke, while Wigmore is reduced to a flashing light and white circle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Herefordshire_be57fe-Illustration-1-dark.svg" | relative_url }}" alt="What Did Herefordshire&#x27;s UFO Files Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Herefordshire_be57fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herefordshire_be57fe-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 2003 Hereford triangle stands out
 
-The 8 July 2003 Hereford report is the county’s most interesting official UFO entry because it combines three features that investigators usually take more seriously than a vague light-in-the-sky report: a named location, a long duration and a reporter category listed as MOD Police. The MOD table says a stationary triangular object was seen over Hereford at 20:00 and remained stationary for about 30 minutes at “quite a height”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 8 July 2003 Hereford report is the county’s most interesting official UFO entry because it combines three features that investigators usually take more seriously than a vague light-in-the-sky report: a named location, a long duration and a reporter category listed as MOD Police. The MOD table says a stationary triangular object was seen over Hereford at 20:00 and remained stationary for about 30 minutes at “quite a height”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That does not make it proof of an exotic craft. The table gives no witness statement, no sketch, no weather record, no radar track, no direction, no angular size and no follow-up explanation. A triangular shape can arise from an actual aircraft silhouette, lights on separate objects, a balloon or kite-like object, or the way the eye groups points of light at distance. The duration is notable, but “stationary” can also be difficult to judge without fixed reference points, especially for high-altitude objects or distant lights.
 
-What makes the report worth preserving is not that it solves a mystery, but that it shows a credible-sounding observation entering the same thin official pipeline as hundreds of more ordinary sightings. The MOD’s broader approach was not to prove or disprove alien visitation, but to decide whether a report indicated possible defence significance. The National Archives’ briefing explains that MOD branches logged more than 11,000 reports between 1959 and 2007, and that the key official question was whether reports had defence implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+What makes the report worth preserving is not that it solves a mystery, but that it shows a credible-sounding observation entering the same thin official pipeline as hundreds of more ordinary sightings. The MOD’s broader approach was not to prove or disprove alien visitation, but to decide whether a report indicated possible defence significance. The National Archives’ briefing explains that MOD branches logged more than 11,000 reports between 1959 and 2007, and that the key official question was whether reports had defence implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_I-xlxV2OsY" title="Ross Coulthart investigates UK&#x27;s UFO Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer">Ross Coulthart investigates UK&#x27;s UFO Phenomenon</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 480.0K &middot; Uploaded: March 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_I-xlxV2OsY">Open on YouTube</a></p></div></div></div>
 
 ## The 2006 orange lights and the wider “lantern era”
 
-The 2006 Herefordshire borders report describes seven bright orange lights travelling in a straight line from south to north. In the same MOD table, nearby entries from other parts of the UK include orange fireballs, yellow-orange spheres and lines of lights, showing that Herefordshire’s report sat within a wider mid-2000s pattern rather than being an isolated county event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2006 Herefordshire borders report describes seven bright orange lights travelling in a straight line from south to north. In the same MOD table, nearby entries from other parts of the UK include orange fireballs, yellow-orange spheres and lines of lights, showing that Herefordshire’s report sat within a wider mid-2000s pattern rather than being an isolated county event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-This is one of the places where sceptical interpretation is especially important. Orange lights moving silently in groups became a common UK UFO-reporting pattern in the 2000s, and many such reports were later linked to Chinese lanterns, balloons, satellites, aircraft lights or other ordinary causes. The National Archives’ final UFO-files release notes that more than 600 sightings were received in 2009, treble the previous year, and that the workload helped drive the closure of the MOD UFO desk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+This is one of the places where sceptical interpretation is especially important. Orange lights moving silently in groups became a common UK UFO-reporting pattern in the 2000s, and many such reports were later linked to Chinese lanterns, balloons, satellites, aircraft lights or other ordinary causes. The National Archives’ final UFO-files release notes that more than 600 sightings were received in 2009, treble the previous year, and that the workload helped drive the closure of the MOD UFO desk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 Not every orange-light report is automatically a lantern. The right question is narrower: did the sighting include wind direction, duration, altitude estimate, sound, disappearance pattern, photographs, radar data or multiple independent vantage points? The Herefordshire borders entry gives none of that. It remains an unexplained report in the limited sense that the table does not identify it, but it is weak evidence for anything more extraordinary.
 
@@ -730,7 +730,7 @@ Not every orange-light report is automatically a lantern. The right question is 
 <img src="{{ "/assets/images/Herefordshire_be57fe-Illustration-2-dark.svg" | relative_url }}" alt="What Did Herefordshire&#x27;s UFO Files Really... illustration 2" data-theme-src-dark="{{ "/assets/images/Herefordshire_be57fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herefordshire_be57fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hereford, Wales and the 1991 military explanation
 
-One of the most useful cross-border references for Herefordshire is not a county UFO case in the usual sense, but a debunked regional incident. A National Archives highlights guide says that burning white lights, flames and rumbling sounds reported by dozens of people over Wales and Hereford in December 1991 were traced to a USAF pilot who jettisoned fuel that was ignited by the aircraft’s afterburner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+One of the most useful cross-border references for Herefordshire is not a county UFO case in the usual sense, but a debunked regional incident. A National Archives highlights guide says that burning white lights, flames and rumbling sounds reported by dozens of people over Wales and Hereford in December 1991 were traced to a USAF pilot who jettisoned fuel that was ignited by the aircraft’s afterburner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This matters because it shows the kind of explanation that can sit behind dramatic reports: a real event, seen by many people, with light, sound and motion, but caused by military aviation rather than anything unknown. It is also a reminder that Herefordshire’s position on the Welsh border makes some sightings regional rather than neatly county-bound. A light seen from Hereford may have its source over Wales, Shropshire, Worcestershire, Gloucestershire or farther away, depending on altitude and visibility.
 
@@ -738,7 +738,7 @@ This matters because it shows the kind of explanation that can sit behind dramat
 
 The MOD files are valuable because they preserve dates, places and short descriptions that would otherwise be scattered through local memory, newspaper snippets or private UFO-group archives. They are especially useful for mapping patterns: green falling objects, flashing lights, triangular reports, orange formations and border-crossing sightings. They are much less useful for judging the physical reality of any one object.
 
-The National Archives says earlier MOD UFO material was destroyed after five years before public interest led to more retention, and its UFO collection includes policy correspondence, sighting reports and unusual witness claims rather than a single neat scientific database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The official position has also changed: in a 2024 parliamentary answer, the government stated that the MOD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The National Archives says earlier MOD UFO material was destroyed after five years before public interest led to more retention, and its UFO collection includes policy correspondence, sighting reports and unusual witness claims rather than a single neat scientific database.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The official position has also changed: in a 2024 parliamentary answer, the government stated that the MOD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 For Herefordshire, this means there is no current MOD UFO desk to which modern sightings are being routinely added in the old way. Recent local stories, social-media videos and reports of strange spirals, lights or meteors may be interesting, but they belong to a different evidence environment: local journalism, astronomy checks, flight tracking, satellite predictions and witness-uploaded images rather than a central MOD intake system.
 
@@ -749,13 +749,13 @@ For Herefordshire, this means there is no current MOD UFO desk to which modern s
 
 The county’s official entries fall into familiar UFO-reporting categories. None is strong enough to identify conclusively from the published table alone, but several have plausible conventional routes:
 
-**Falling green object:** The Bredenbury report of a dim green object falling steadily is compatible with the way many witnesses describe meteors or space debris, though the MOD entry itself gives no official explanation. Bright meteors, often called fireballs, can appear strikingly coloured and can be misread as low or nearby objects. The American Meteor Society defines a fireball as a very bright meteor, generally brighter than Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+**Falling green object:** The Bredenbury report of a dim green object falling steadily is compatible with the way many witnesses describe meteors or space debris, though the MOD entry itself gives no official explanation. Bright meteors, often called fireballs, can appear strikingly coloured and can be misread as low or nearby objects. The American Meteor Society defines a fireball as a very bright meteor, generally brighter than Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-**Aircraft-like object:** The Leominster 1999 description includes wings, jet sound, speed and black smoke. Those details do not eliminate mystery, but they make an aircraft, military aircraft, unusual viewing angle or distressed engine/emission trail a more economical explanation than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+**Aircraft-like object:** The Leominster 1999 description includes wings, jet sound, speed and black smoke. Those details do not eliminate mystery, but they make an aircraft, military aircraft, unusual viewing angle or distressed engine/emission trail a more economical explanation than an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-**Coloured flashing lights:** The Much Marcle/Ledbury and Wigmore reports are typical of distant-light cases, where aircraft, stars seen through atmospheric shimmer, helicopters, drones, balloons or reflections can all become plausible depending on direction, weather and duration. The published summaries do not provide enough data to separate these possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+**Coloured flashing lights:** The Much Marcle/Ledbury and Wigmore reports are typical of distant-light cases, where aircraft, stars seen through atmospheric shimmer, helicopters, drones, balloons or reflections can all become plausible depending on direction, weather and duration. The published summaries do not provide enough data to separate these possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-**Straight-line groups of lights:** The 2006 Herefordshire borders report sits close to later patterns involving lanterns and satellite trains. Modern observers also increasingly report strings of satellites; Space.com notes that newly deployed Starlink satellites can appear as a close-knit group of lights moving together in a straight line and are often mistaken for UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+**Straight-line groups of lights:** The 2006 Herefordshire borders report sits close to later patterns involving lanterns and satellite trains. Modern observers also increasingly report strings of satellites; Space.com notes that newly deployed Starlink satellites can appear as a close-knit group of lights moving together in a straight line and are often mistaken for UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Herefordshire_be57fe-Illustration-3-dark.svg" | relative_url }}" alt="What Did Herefordshire&#x27;s UFO Files Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Herefordshire_be57fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herefordshire_be57fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -770,194 +770,194 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Herefordshire&#x27;s UFO Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Herefordshire&#x27;s UFO Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Matches a page focused on assessing historical UFO reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a page focused on assessing historical UFO reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores official reports and government documentation, paralleling MOD files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official reports and government documentation, paralleling MOD files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Government UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQdlCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Government UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Government UFO Files">The Government UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Government UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQdlCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Government UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Government UFO Files">The Government UFO Files</a>
+</h4>
+<p class="fr-book-author">By Kevin D Randle</p>
         
-        <p class="fr-book-desc">Closely aligned with a page analysing what government files actually contained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligned with a page analysing what government files actually contained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Provides wider context for UFO reports as part of the unexplained phenomena genre.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for UFO reports as part of the unexplained phenomena genre.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Government+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Government UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Government+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Government UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-did-herefordshires-ufo-files-really-what-did-herefordshire-s-ufo-files-really-show-hereford-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-herefordshire-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -973,7 +973,7 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -993,7 +993,7 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1025,7 +1025,7 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1077,7 +1077,7 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1122,7 +1122,7 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1163,248 +1163,248 @@ The balance of evidence is cautious. The 2003 [Hereford triangle]({{ 'triangle-r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Herefordshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Herefordshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Royal Observatory, Greenwich  
-   Link: <a href="https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
+   Link:<a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20161003 Delivery Plan 2016 17 Apr 16 to Sep 16 For Spring RTR  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: datamap.gov.wales  
    Title: metadata detail  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: GOV.UK  
    Title: celebrating the historic counties of england  
-   Link: <a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england</a>  
+   Link:<a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Herefordshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Herefordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Herefordshire</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/herefordtimes/photos/she-called-it-a-profound-experience/1766113874380091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/herefordtimes/photos/she-called-it-a-profound-experience/1766113874380091/</a>  
+   Link:<a href="https://www.facebook.com/herefordtimes/photos/she-called-it-a-profound-experience/1766113874380091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/herefordtimes/photos/she-called-it-a-profound-experience/1766113874380091/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-hereford-is-the-only-english-shire-entirely-west-of-the-river-seve/802828752000694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-hereford-is-the-only-english-shire-entirely-west-of-the-river-seve/802828752000694/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-hereford-is-the-only-english-shire-entirely-west-of-the-river-seve/802828752000694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-hereford-is-the-only-english-shire-entirely-west-of-the-river-seve/802828752000694/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Middlesex</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Middlesex</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: oldmap.co.uk  
-   Link: <a href="https://oldmap.co.uk/product/herefordshire-an-old-map-by-john-speed/?srsltid=AfmBOorAWPNfmwsoRKzCVneISigHJUfbh-OHetFUczysy4-SqifVi_z8" target="_blank" rel="noopener noreferrer nofollow">https://oldmap.co.uk/product/herefordshire-an-old-map-by-john-speed/?srsltid=AfmBOorAWPNfmwsoRKzCVneISigHJUfbh-OHetFUczysy4-SqifVi_z8</a>  
+   Link:<a href="https://oldmap.co.uk/product/herefordshire-an-old-map-by-john-speed/?srsltid=AfmBOorAWPNfmwsoRKzCVneISigHJUfbh-OHetFUczysy4-SqifVi_z8" target="_blank" rel="noopener noreferrer nofollow">https://oldmap.co.uk/product/herefordshire-an-old-map-by-john-speed/?srsltid=AfmBOorAWPNfmwsoRKzCVneISigHJUfbh-OHetFUczysy4-SqifVi_z8</a>  
 
 ### Additional References
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Ross Coulthart investigates UK's UFO Phenomenon  
-   Link: <a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_I-xlxV2OsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_I-xlxV2OsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Britain's Secret UFO Investigation (Special) | History  
-   Link: <a href="https://www.youtube.com/watch?v=WOmJ--KVVDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WOmJ--KVVDg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope&#x27;s Global UFO Investigation | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WOmJ--KVVDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WOmJ--KVVDg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope&#x27;s Global UFO Investigation | Ancient Aliens...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Top 30 Alien Close Encounters In Britain  
-   Link: <a href="https://www.youtube.com/watch?v=BPJ1JDzkXWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPJ1JDzkXWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Britain&#x27;s Secret UFO Investigation (Special) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BPJ1JDzkXWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPJ1JDzkXWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Britain&#x27;s Secret UFO Investigation (Special) | History...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Nick Pope's Global UFO Investigation | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=tZLA0pMTO5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tZLA0pMTO5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tZLA0pMTO5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tZLA0pMTO5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/herefordtimes/videos/a-meteor-has-been-caught-on-camera-after-a-mystery-green-object-was-reported-in-/1384500699184463/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/herefordtimes/videos/a-meteor-has-been-caught-on-camera-after-a-mystery-green-object-was-reported-in-/1384500699184463/</a>  
+   Link:<a href="https://www.facebook.com/herefordtimes/videos/a-meteor-has-been-caught-on-camera-after-a-mystery-green-object-was-reported-in-/1384500699184463/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/herefordtimes/videos/a-meteor-has-been-caught-on-camera-after-a-mystery-green-object-was-reported-in-/1384500699184463/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWU76SEj32-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWU76SEj32-/</a>  
+   Link:<a href="https://www.instagram.com/p/DWU76SEj32-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWU76SEj32-/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheSouthBurnettTimes/posts/did-you-see-the-mysterious-light-show-in-the-sky-last-night-chris-andrew-capture/3937692419628731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSouthBurnettTimes/posts/did-you-see-the-mysterious-light-show-in-the-sky-last-night-chris-andrew-capture/3937692419628731/</a>  
+   Link:<a href="https://www.facebook.com/TheSouthBurnettTimes/posts/did-you-see-the-mysterious-light-show-in-the-sky-last-night-chris-andrew-capture/3937692419628731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSouthBurnettTimes/posts/did-you-see-the-mysterious-light-show-in-the-sky-last-night-chris-andrew-capture/3937692419628731/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/herefordtimes/videos/did-you-see-this-mystery-spiral-in-the-sky-tonight-victoria-martin-kirkham-has-s/643324081650865/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/herefordtimes/videos/did-you-see-this-mystery-spiral-in-the-sky-tonight-victoria-martin-kirkham-has-s/643324081650865/</a>  
+   Link:<a href="https://www.facebook.com/herefordtimes/videos/did-you-see-this-mystery-spiral-in-the-sky-tonight-victoria-martin-kirkham-has-s/643324081650865/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/herefordtimes/videos/did-you-see-this-mystery-spiral-in-the-sky-tonight-victoria-martin-kirkham-has-s/643324081650865/</a>  

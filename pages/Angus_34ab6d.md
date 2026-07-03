@@ -118,9 +118,9 @@ heading_title: What Really Happened Over Angus Skies?
 page_heading_title: What Really Happened Over Angus Skies?
 source_count: 118
 infographic_count: 3
-page_website_name: Angus UFOs
+page_website_name: Angus
 page_banner_line: Balanced county-level evidence on Angus sightings, records, and likely explanations.
-site_website_name: Angus UFOs
+site_website_name: Angus
 site_banner_line: Balanced county-level evidence on Angus sightings, records, and likely explanations.
 site_image_description: A quiet Angus coastline at dusk with fields, distant rooftops, and several small orange lights high above the horizon.
 output_language: English
@@ -689,28 +689,28 @@ image: /assets/images/Angus_34ab6d-overview-social.jpg
 
 ## What counts as “Angus” for UFO history?
 
-For this page, Angus is treated as the historic county, also historically known as Forfarshire, rather than only the present Angus Council area. That matters because the historic county includes Dundee, while modern local government separates Dundee from Angus. Britannica describes the modern council area as lying within the historic county of Angus, while the historic county also includes the city of Dundee and a small area south of Coupar Angus now associated with Perth and Kinross. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span></span></span>
+For this page, Angus is treated as the historic county, also historically known as Forfarshire, rather than only the present Angus Council area. That matters because the historic county includes Dundee, while modern local government separates Dundee from Angus. Britannica describes the modern council area as lying within the historic county of Angus, while the historic county also includes the city of Dundee and a small area south of Coupar Angus now associated with Perth and Kinross.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span></span></span>
 
 
 <img src="{{ "/assets/images/Angus_34ab6d-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Angus Skies?" loading="eager" decoding="sync" fetchpriority="high">
-This distinction affects UFO mapping. A modern “Angus” search might focus on Arbroath, Forfar, Brechin, Montrose, Kirriemuir and the glens. A historic-county index should also keep an eye on Dundee and places on the old county edge, especially where MoD records used older county labels such as Angus, Tayside or simply Scotland. Scotland’s People notes that Angus was also known as Forfarshire, that county boundaries were altered in 1891, and that counties as local government areas were abolished in Scotland in 1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-snippet">Open source on scotlandspeople.gov.uk.</span></span></span>
+This distinction affects UFO mapping. A modern “Angus” search might focus on Arbroath, Forfar, Brechin, Montrose, Kirriemuir and the glens. A historic-county index should also keep an eye on Dundee and places on the old county edge, especially where MoD records used older county labels such as Angus, Tayside or simply Scotland. Scotland’s People notes that Angus was also known as Forfarshire, that county boundaries were altered in 1891, and that counties as local government areas were abolished in Scotland in 1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-snippet">Open source on scotlandspeople.gov.uk.</span></span></span>
 
 That does not mean every Tayside or east-Scotland UFO story belongs here. Perthshire, Fife, Kincardineshire and Aberdeenshire have their own histories. Angus is the centre of gravity when the sighting location is in the historic county, when local media treated it as an Angus or Dundee-and-Tayside story, or when local aviation and coastal geography help explain what a witness might have seen.
 
 ## The MoD paper trail: short reports, not solved cases
 
-The most reliable starting point is the Ministry of Defence’s published list of UK UFO reports from 1997 to 2009. GOV.UK describes these as reports showing date, time, location and a brief description of each sighting; the entries were released as annual PDFs rather than as full investigation files for every case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The most reliable starting point is the Ministry of Defence’s published list of UK UFO reports from 1997 to 2009. GOV.UK describes these as reports showing date, time, location and a brief description of each sighting; the entries were released as annual PDFs rather than as full investigation files for every case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The Angus entries are mostly brief. They are useful because they show what was reported, but they rarely tell us what the MoD did next. In practice, most entries are one-line descriptions, with no named witness, no weather record, no astronomical check, and no clear conclusion. That makes them better for identifying local patterns than for proving any one event.
 
 Notable entries include:
 
-* **Forfar, 13 July 1997, 23:55**: a small spherical object changed colour from yellow to white, moved fast, and made a “fizzing” sound, described in the log as “like a small meteorite”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
-* **Arbroath, 21 November 1999, 22:25**: a single roundish orange glowing light moved horizontally across the sky and away into the distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **Invergowrie, 1 February 2000**: slow-moving lights travelled from north to south and then stopped. Invergowrie is important for a historic-county reading because it sits close to Dundee and the Angus/Perthshire boundary question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **Dundee, 17 December 1999 and 29 December 1999**: the 1999 MoD list includes three very bright lights that became four, and a later report of bright lights changing from a cylindrical shape into a V shape while moving east to west. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **Dundee, January 2001**: the 2001 log includes a 10 January report of a triangular object with three orange lights and a second bright white light, followed by a 29 January report of a tiny bright shiny object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **Arbroath, 19 September 2009, 21:35**: four lights travelled together; one veered east, three stayed in a triangle, two disappeared into the horizon and one passed overhead, described as a red fireball with no sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **Forfar, 13 July 1997, 23:55**: a small spherical object changed colour from yellow to white, moved fast, and made a “fizzing” sound, described in the log as “like a small meteorite”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+* **Arbroath, 21 November 1999, 22:25**: a single roundish orange glowing light moved horizontally across the sky and away into the distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **Invergowrie, 1 February 2000**: slow-moving lights travelled from north to south and then stopped. Invergowrie is important for a historic-county reading because it sits close to Dundee and the Angus/Perthshire boundary question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **Dundee, 17 December 1999 and 29 December 1999**: the 1999 MoD list includes three very bright lights that became four, and a later report of bright lights changing from a cylindrical shape into a V shape while moving east to west.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **Dundee, January 2001**: the 2001 log includes a 10 January report of a triangular object with three orange lights and a second bright white light, followed by a 29 January report of a tiny bright shiny object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **Arbroath, 19 September 2009, 21:35**: four lights travelled together; one veered east, three stayed in a triangle, two disappeared into the horizon and one passed overhead, described as a red fireball with no sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 These are not equally strong. The Forfar report is interesting because the MoD’s own wording records a possible meteor-like character. The 1999 Arbroath report is typical of a single orange light sighting: memorable to a witness, but too sparse to distinguish between a lantern, aircraft light, meteor, flare or other source. The 2009 Arbroath entry is more developed because it includes formation behaviour, direction, colour and silence, but still lacks the independent checks that would make it a strong case.
 
@@ -718,11 +718,11 @@ These are not equally strong. The Forfar report is interesting because the MoD�
 <img src="{{ "/assets/images/Angus_34ab6d-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Angus Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Angus_34ab6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angus_34ab6d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the orange lights matter
 
-The most striking Angus pattern is not a landed craft or a close encounter. It is the recurrence of bright orange, red or white lights, sometimes single and sometimes in formation. That pattern fits the national reporting environment of the late 1990s and especially 2009, when the MoD was receiving many reports of orange ball-shaped phenomena seen in clusters or formations. A National Archives transcript about the final UFO file release says this period produced many reports of orange ball-shaped objects, often silent, bobbing or moving in formation, with media coverage encouraging more people to come forward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The most striking Angus pattern is not a landed craft or a close encounter. It is the recurrence of bright orange, red or white lights, sometimes single and sometimes in formation. That pattern fits the national reporting environment of the late 1990s and especially 2009, when the MoD was receiving many reports of orange ball-shaped phenomena seen in clusters or formations. A National Archives transcript about the final UFO file release says this period produced many reports of orange ball-shaped objects, often silent, bobbing or moving in formation, with media coverage encouraging more people to come forward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The Angus examples sit neatly inside that national pattern. The 1999 Arbroath sighting was a single orange glowing light. The 2009 Arbroath sighting involved red or orange fireball-like lights in a triangle. The 2009 MoD report as a whole contains many similar descriptions across the UK: orange lights, fireballs, silent formations, objects that fade one by one, and lights moving steadily across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Angus examples sit neatly inside that national pattern. The 1999 Arbroath sighting was a single orange glowing light. The 2009 Arbroath sighting involved red or orange fireball-like lights in a triangle. The 2009 MoD report as a whole contains many similar descriptions across the UK: orange lights, fireballs, silent formations, objects that fade one by one, and lights moving steadily across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-This does not automatically debunk every Angus sighting. It does, however, lower the evidential weight of any isolated orange-light report unless there is extra information: multiple independent witnesses from different positions, photographs with metadata, aircraft-track checks, meteor data, lantern-release evidence, or radar confirmation. National reporting at the time linked the 2009 surge in UK UFO reports to Chinese lanterns released at weddings and public events; the Independent reported that MoD files associated the rise with that trend, and the Guardian similarly noted that Chinese lanterns helped explain many orange-light reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span><span class="citation-popover-snippet">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span></span></span>
+This does not automatically debunk every Angus sighting. It does, however, lower the evidential weight of any isolated orange-light report unless there is extra information: multiple independent witnesses from different positions, photographs with metadata, aircraft-track checks, meteor data, lantern-release evidence, or radar confirmation. National reporting at the time linked the 2009 surge in UK UFO reports to Chinese lanterns released at weddings and public events; the Independent reported that MoD files associated the rise with that trend, and the Guardian similarly noted that Chinese lanterns helped explain many orange-light reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span><span class="citation-popover-snippet">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span></span></span>
 
 For Angus readers, the practical point is simple: a silent orange light over Arbroath or Dundee is not worthless as testimony, but it is a common UFO-reporting shape. Without more evidence, it belongs in the “possible misidentification” category rather than the “strong unresolved case” category.
 
@@ -731,19 +731,19 @@ For Angus readers, the practical point is simple: a silent orange light over Arb
 
 ## Montrose and the aviation setting
 
-Montrose is important to Angus UFO history less because of one famous UFO case and more because it anchors the county’s aviation background. Montrose Air Station Museum describes the site as Great Britain’s first operational military air station, established in February 1913, and says it served until closure in 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmontrose.org.uk">[Montrose Air Station Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmontrose.org.uk</span><span class="citation-popover-snippet">Open source on rafmontrose.org.uk.</span></span></span>
+Montrose is important to Angus UFO history less because of one famous UFO case and more because it anchors the county’s aviation background. Montrose Air Station Museum describes the site as Great Britain’s first operational military air station, established in February 1913, and says it served until closure in 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmontrose.org.uk">[Montrose Air Station Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmontrose.org.uk</span><span class="citation-popover-snippet">Open source on rafmontrose.org.uk.</span></span></span>
 
 That aviation history matters when judging local sky reports. Angus is not a remote empty sky. It has a North Sea coastline, historic military aviation, nearby regional flight paths, and open rural viewpoints where ordinary aircraft, training movements, helicopters, satellites, meteors, lanterns and coastal lights can appear unusual. Former RAF Montrose does not explain a 1999 or 2009 sighting by itself, since the station had long closed, but it reminds readers that Angus has been part of Britain’s aviation landscape for more than a century.
 
-Local media also continued to treat Montrose as a place where unusual aerial sightings could become public stories. The Courier reported a Montrose UFO sighting in September 2016 under the headline “It was the strangest thing I have ever seen”, and a follow-up Courier report said a second Tayside sighting had been claimed shortly afterwards. Those reports are useful as evidence of continuing local interest, though they are not equivalent to official case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">montrose ufo sighting it was the strangest thing i have ever seen</span><span class="citation-popover-snippet">montrose ufo sighting it was the strangest thing i have ever seen</span></span></span>
+Local media also continued to treat Montrose as a place where unusual aerial sightings could become public stories. The Courier reported a Montrose UFO sighting in September 2016 under the headline “It was the strangest thing I have ever seen”, and a follow-up Courier report said a second Tayside sighting had been claimed shortly afterwards. Those reports are useful as evidence of continuing local interest, though they are not equivalent to official case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">montrose ufo sighting it was the strangest thing i have ever seen</span><span class="citation-popover-snippet">montrose ufo sighting it was the strangest thing i have ever seen</span></span></span>
 
 ## Local newspapers show interest, but not always answers
 
-Angus and Tayside newspapers have clearly carried UFO stories over many decades. British Newspaper Archive search results for UFO material in Tayside show large numbers of hits, including Angus-linked newspaper places such as Arbroath, Forfar and Kirriemuir. One 1995 result from the Montrose Review is headed “An earthly explanation for UFO sighting?”, which is exactly the kind of local framing that often appears in British UFO coverage: a witness report followed by a search for a mundane cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+Angus and Tayside newspapers have clearly carried UFO stories over many decades. British Newspaper Archive search results for UFO material in Tayside show large numbers of hits, including Angus-linked newspaper places such as Arbroath, Forfar and Kirriemuir. One 1995 result from the Montrose Review is headed “An earthly explanation for UFO sighting?”, which is exactly the kind of local framing that often appears in British UFO coverage: a witness report followed by a search for a mundane cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
 That archive trail is valuable, but it needs caution. Search snippets are not the same as full articles, and newspaper coverage can amplify a story without resolving it. Local reports often preserve details that official logs omit — witness names, neighbourhoods, weather, police comments, photographs, or sceptical responses — but they can also repeat uncertainty, use playful headlines, or rely on one witness. For Angus, the best future case-building would come from matching local newspaper reports against MoD logs, weather records, astronomical data and aviation records for the same date.
 
-The Courier’s 2021 interactive map of historic UFO sightings around Dundee and Tayside, based on reports made to the MoD between 1997 and 2009, shows why that cross-checking matters. The MoD data gives a broad public record, while local journalism can add place texture and witness context. Neither should be treated as a complete investigation on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">historic ufo sightings dundee and tayside</span><span class="citation-popover-snippet">historic ufo sightings dundee and tayside</span></span></span>
+The Courier’s 2021 interactive map of historic UFO sightings around Dundee and Tayside, based on reports made to the MoD between 1997 and 2009, shows why that cross-checking matters. The MoD data gives a broad public record, while local journalism can add place texture and witness context. Neither should be treated as a complete investigation on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">historic ufo sightings dundee and tayside</span><span class="citation-popover-snippet">historic ufo sightings dundee and tayside</span></span></span>
 
 
 <img src="{{ "/assets/images/Angus_34ab6d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened Over Angus Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Angus_34ab6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angus_34ab6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -751,24 +751,24 @@ The Courier’s 2021 interactive map of historic UFO sightings around Dundee and
 
 The Angus record is best understood in three tiers.
 
-**More interesting but still unresolved:** the 2009 Arbroath formation is the strongest of the short MoD entries because it has multiple lights, a described formation, a change in direction, and a report of silence. Even so, it remains unresolved only in a modest sense: the log does not show that aircraft, lanterns, meteors or other explanations were eliminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**More interesting but still unresolved:** the 2009 Arbroath formation is the strongest of the short MoD entries because it has multiple lights, a described formation, a change in direction, and a report of silence. Even so, it remains unresolved only in a modest sense: the log does not show that aircraft, lanterns, meteors or other explanations were eliminated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Weak but locally useful:** the Forfar 1997 and Arbroath 1999 reports are worth retaining in a county chronology, but both are too brief to carry much evidential weight. The Forfar entry even compares the object to a small meteorite, while the Arbroath 1999 entry is a classic single orange-light report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+**Weak but locally useful:** the Forfar 1997 and Arbroath 1999 reports are worth retaining in a county chronology, but both are too brief to carry much evidential weight. The Forfar entry even compares the object to a small meteorite, while the Arbroath 1999 entry is a classic single orange-light report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-**Boundary-sensitive cases:** the Dundee and Invergowrie entries matter if the page follows historic Angus rather than present council boundaries. They should be labelled carefully so readers understand why Dundee appears on an Angus page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span></span></span>
+**Boundary-sensitive cases:** the Dundee and Invergowrie entries matter if the page follows historic Angus rather than present council boundaries. They should be labelled carefully so readers understand why Dundee appears on an Angus page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span></span></span>
 
-What Angus does not currently have, at least from the accessible public record, is a landmark case with all the ingredients that make a UFO incident hard to dismiss: named multiple witnesses, contemporaneous official investigation, radar or air-traffic data, photographs or film of known provenance, physical traces, and later independent analysis. Nearby Scotland has stronger headline cases, especially the Calvine photograph case in Perthshire, but that belongs primarily to a neighbouring county’s UFO history rather than Angus itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+What Angus does not currently have, at least from the accessible public record, is a landmark case with all the ingredients that make a UFO incident hard to dismiss: named multiple witnesses, contemporaneous official investigation, radar or air-traffic data, photographs or film of known provenance, physical traces, and later independent analysis. Nearby Scotland has stronger headline cases, especially the Calvine photograph case in Perthshire, but that belongs primarily to a neighbouring county’s UFO history rather than Angus itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzbK905kwc" title="UFO file release October 2008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer">UFO file release October 2008</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 19.5K &middot; Uploaded: October 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzbK905kwc">Open on YouTube</a></p></div></div></div>
 
 ## What official UK policy tells us about Angus sightings
 
-The MoD’s wider position is crucial for interpreting Angus reports. The annual UFO lists were not a promise that every entry had been deeply investigated. They were part of a reporting system whose defence purpose gradually narrowed. The National Archives says the final tranche of UFO files covered the last two years of the MoD UFO desk, from late 2007 until November 2009, including policy, correspondence, Freedom of Information responses and sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The MoD’s wider position is crucial for interpreting Angus reports. The annual UFO lists were not a promise that every entry had been deeply investigated. They were part of a reporting system whose defence purpose gradually narrowed. The National Archives says the final tranche of UFO files covered the last two years of the MoD UFO desk, from late 2007 until November 2009, including policy, correspondence, Freedom of Information responses and sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-By 2009, the MoD closed its UFO desk. Later reporting on the released files stated that the department decided the work had no defence value, and recent parliamentary reporting has repeated the position that the MoD stopped investigating UFO or UAP reports in 2009 and has no current dedicated team for alleged sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span><span class="citation-popover-snippet">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span></span></span>
+By 2009, the MoD closed its UFO desk. Later reporting on the released files stated that the department decided the work had no defence value, and recent parliamentary reporting has repeated the position that the MoD stopped investigating UFO or UAP reports in 2009 and has no current dedicated team for alleged sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span><span class="citation-popover-snippet">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span></span></span>
 
-Project Condign, the UK Defence Intelligence study carried out between 1997 and 2000, also shapes the background. It did not conclude that Britain was being visited by extraterrestrial craft. Its controversial assessment was that many reports were misidentifications or unusual natural phenomena, with some discussion of poorly understood atmospheric plasma effects. The Guardian reported that internal MoD thinking in the 1990s was concerned with understanding what reports represented, not simply with public curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Condign</span><span class="citation-popover-snippet">Project Condign</span></span></span>
+Project Condign, the UK Defence Intelligence study carried out between 1997 and 2000, also shapes the background. It did not conclude that Britain was being visited by extraterrestrial craft. Its controversial assessment was that many reports were misidentifications or unusual natural phenomena, with some discussion of poorly understood atmospheric plasma effects. The Guardian reported that internal MoD thinking in the 1990s was concerned with understanding what reports represented, not simply with public curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Condign</span><span class="citation-popover-snippet">Project Condign</span></span></span>
 
 For Angus, this means the MoD entries should be read as official receipt of reports, not official confirmation of unknown craft. A sighting in a government PDF is stronger than an unsupported online anecdote, but it is still usually just a recorded claim unless the file contains follow-up analysis.
 
@@ -778,7 +778,7 @@ For Angus, this means the MoD entries should be read as official receipt of repo
 
 Most Angus sightings in the public record are light-in-the-sky cases, so the first explanations to test are ordinary sky and aviation sources.
 
-Bright planets such as Venus or Jupiter can look surprisingly intense, especially near the horizon. Meteors can appear fast, bright and coloured, and may produce descriptions like “fizzing”, “fireball” or “falling”. Aircraft can look odd when seen head-on, turning, descending, or partly obscured by cloud. Helicopters can appear to hover. Satellites move steadily and silently, while modern satellite trains can create reports of multiple lights in line or formation. Sky lanterns are especially relevant to orange, silent, drifting lights seen in groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span><span class="citation-popover-snippet">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span></span></span>
+Bright planets such as Venus or Jupiter can look surprisingly intense, especially near the horizon. Meteors can appear fast, bright and coloured, and may produce descriptions like “fizzing”, “fireball” or “falling”. Aircraft can look odd when seen head-on, turning, descending, or partly obscured by cloud. Helicopters can appear to hover. Satellites move steadily and silently, while modern satellite trains can create reports of multiple lights in line or formation. Sky lanterns are especially relevant to orange, silent, drifting lights seen in groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[independent.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span><span class="citation-popover-snippet">The Independent The (not so) real life X-Files: Chinese lanterns responsible</span></span></span>
 
 None of these explanations should be forced. A fair assessment asks what was actually reported: direction, duration, colour, sound, angular size, weather, wind, cloud, nearby airports, public events, and whether other witnesses saw the same object from a different place. The weakness of many Angus entries is that those details are missing. That is why the honest category for much of the county record is “unresolved but weakly evidenced”, not “explained with certainty” or “proof of visitors”.
 
@@ -793,194 +793,194 @@ That makes Angus valuable for a mapped county project precisely because it is no
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Angus Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Angus Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented sightings, official records, and witness testimony rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented sightings, official records, and witness testimony rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Strong fit for a page built around UK sighting reports, MoD files, and Scottish UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page built around UK sighting reports, MoD files, and Scottish UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lVCqoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lVCqoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides context for comparing local Angus sightings with the UK&#x27;s most discussed UFO incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for comparing local Angus sightings with the UK&#x27;s most discussed UFO incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Closely aligned with the page&#x27;s emphasis on public archives, government files, and reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligned with the page&#x27;s emphasis on public archives, government files, and reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art"><img src="{{ '/assets/images/marketplace-covers/098191b5399fbef0e42b.jpg' | relative_url }}" alt="Listing image for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art"><img src="{{ '/assets/images/marketplace-covers/098191b5399fbef0e42b.jpg' | relative_url }}" alt="Listing image for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars"><img src="{{ '/assets/images/marketplace-covers/b028d6a6f9b6b9500ede.jpg' | relative_url }}" alt="Listing image for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars"><img src="{{ '/assets/images/marketplace-covers/b028d6a6f9b6b9500ede.jpg' | relative_url }}" alt="Listing image for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-angus-skies-angus-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="what-really-happened-over-angus-skies-angus-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -996,7 +996,7 @@ That makes Angus valuable for a mapped county project precisely because it is no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1016,7 +1016,7 @@ That makes Angus valuable for a mapped county project precisely because it is no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1048,7 +1048,7 @@ That makes Angus valuable for a mapped county project precisely because it is no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1100,7 +1100,7 @@ That makes Angus valuable for a mapped county project precisely because it is no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1145,7 +1145,7 @@ That makes Angus valuable for a mapped county project precisely because it is no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1186,302 +1186,302 @@ That makes Angus valuable for a mapped county project precisely because it is no
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Angus | Scotland, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Angus-council-area-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Angus-council-area-Scotland</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/angus-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/angus-county</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Angus, Scotland  
-   Link: <a href="https://en.wikipedia.org/wiki/Angus%2C_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angus%2C_Scotland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Angus%2C_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angus%2C_Scotland</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: RAF Montrose  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Montrose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Montrose</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Montrose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Montrose</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Montrose Air Station Museum  
-   Link: <a href="https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Forfar" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Forfar</a>  
+   Link:<a href="https://www.britannica.com/place/Forfar" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Forfar</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
    Title: historic county  
-   Link: <a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
+   Link:<a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: angus.gov.uk  
-   Link: <a href="https://www.angus.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.angus.gov.uk/</a>  
+   Link:<a href="https://www.angus.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.angus.gov.uk/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: angus.gov.uk  
-   Link: <a href="https://www.angus.gov.uk/all_about_angus" target="_blank" rel="noopener noreferrer nofollow">https://www.angus.gov.uk/all_about_angus</a>  
+   Link:<a href="https://www.angus.gov.uk/all_about_angus" target="_blank" rel="noopener noreferrer nofollow">https://www.angus.gov.uk/all_about_angus</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: independent.co.uk  
    Title: The Independent The (not so) real life X-Files: Chinese lanterns responsible  
-   Link: <a href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rafmontrose.org.uk  
-   Link: <a href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://rafmontrose.org.uk/</a>  
+   Link:<a href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://rafmontrose.org.uk/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: thecourier.co.uk  
    Title: montrose ufo sighting it was the strangest thing i have ever seen  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thecourier.co.uk  
    Title: ufo season another odd object seen on tayside skyline  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1995-02-01/1995-02-28?basicsearch=ufo&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1995-02-01/1995-02-28?basicsearch=ufo&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1995-02-01/1995-02-28?basicsearch=ufo&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1995-02-01/1995-02-28?basicsearch=ufo&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: thecourier.co.uk  
    Title: historic ufo sightings dundee and tayside  
-   Link: <a href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: The Guardian No time for aliens: how the Mo D tried to prove no one's out  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Angus" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Angus</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Angus" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Angus</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=ufo&amp;MostSpecificLocation=tayside%2C+scotland&amp;Region=tayside%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=9" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=ufo&amp;MostSpecificLocation=tayside%2C+scotland&amp;Region=tayside%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=9</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=ufo&amp;MostSpecificLocation=tayside%2C+scotland&amp;Region=tayside%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=9" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=ufo&amp;MostSpecificLocation=tayside%2C+scotland&amp;Region=tayside%2C+scotland&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=9</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;page=5&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;page=5&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;page=5&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;page=5&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: thecourier.co.uk  
    Title: I saw a UFO over Angus  
-   Link: <a href="https://www.thecourier.co.uk/fp/opinion/3719812/alistair-heather-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/opinion/3719812/alistair-heather-ufo/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/opinion/3719812/alistair-heather-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/opinion/3719812/alistair-heather-ufo/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: thecourier.co.uk  
-   Link: <a href="https://www.thecourier.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/tag/ministry-of-defence/</a>  
+   Link:<a href="https://www.thecourier.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/tag/ministry-of-defence/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/209257525781110/posts/34359348253678600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/209257525781110/posts/34359348253678600/</a>  
+   Link:<a href="https://www.facebook.com/groups/209257525781110/posts/34359348253678600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/209257525781110/posts/34359348253678600/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-angus-or-forfar-is-a-square-shaped-shire-on-the-east-coast-of-scot/916267507323484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-angus-or-forfar-is-a-square-shaped-shire-on-the-east-coast-of-scot/916267507323484/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-angus-or-forfar-is-a-square-shaped-shire-on-the-east-coast-of-scot/916267507323484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-angus-or-forfar-is-a-square-shaped-shire-on-the-east-coast-of-scot/916267507323484/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MontroseAirStation/posts/for-flashbackfriday-we-take-a-look-at-the-raf-montrose-airfield-fuel-storage-fac/3922461991165240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontroseAirStation/posts/for-flashbackfriday-we-take-a-look-at-the-raf-montrose-airfield-fuel-storage-fac/3922461991165240/</a>  
+   Link:<a href="https://www.facebook.com/MontroseAirStation/posts/for-flashbackfriday-we-take-a-look-at-the-raf-montrose-airfield-fuel-storage-fac/3922461991165240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontroseAirStation/posts/for-flashbackfriday-we-take-a-look-at-the-raf-montrose-airfield-fuel-storage-fac/3922461991165240/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/newspapers.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/newspapers.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/newspapers.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/newspapers.htm</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: alienufosightingsworld.tumblr.com  
    Title: it was the strangest thing i have ever seen  
-   Link: <a href="https://alienufosightingsworld.tumblr.com/post/150769046651/it-was-the-strangest-thing-i-have-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://alienufosightingsworld.tumblr.com/post/150769046651/it-was-the-strangest-thing-i-have-ever-seen</a>  
+   Link:<a href="https://alienufosightingsworld.tumblr.com/post/150769046651/it-was-the-strangest-thing-i-have-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://alienufosightingsworld.tumblr.com/post/150769046651/it-was-the-strangest-thing-i-have-ever-seen</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/montrose/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/montrose/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/montrose/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/montrose/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: visitangus.com  
    Title: Montrose Air Station Museum  
-   Link: <a href="https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/" target="_blank" rel="noopener noreferrer nofollow">https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/</a>  
+   Link:<a href="https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/" target="_blank" rel="noopener noreferrer nofollow">https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: tripadvisor.com  
    Title: Montrose Air Station Museum  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/angus/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/angus/</a>  
+   Link:<a href="https://realcounties.com/county/angus/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/angus/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/sct/ShennanBoundaries/Angus" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/ShennanBoundaries/Angus</a>  
+   Link:<a href="https://www.genuki.org.uk/big/sct/ShennanBoundaries/Angus" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/ShennanBoundaries/Angus</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
 ### Additional References
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: thetimes.com  
    Title: mod ordered officers to find ufo technology secret files reveal hnr62vcn9  
-   Link: <a href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The documents show that intelligence officials recognized these objects displayed flight capabilities beyond contemporary human engineeri...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The documents show that intelligence officials recognized these objects displayed flight capabilities beyond contemporary human engineeri...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
+   Link:<a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case566.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case566.htm</a>  
+   Link:<a href="https://www.ufoevidence.org/cases/case566.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case566.htm</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/andythehighlander/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/andythehighlander/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/andythehighlander/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/andythehighlander/?hl=en</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/angus/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/angus/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/angus/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/angus/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: opendata.scot  
-   Link: <a href="https://opendata.scot/organizations/angus_council/" target="_blank" rel="noopener noreferrer nofollow">https://opendata.scot/organizations/angus_council/</a>  
+   Link:<a href="https://opendata.scot/organizations/angus_council/" target="_blank" rel="noopener noreferrer nofollow">https://opendata.scot/organizations/angus_council/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Angus&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Angus&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Angus&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Angus&amp;type=em</a>  

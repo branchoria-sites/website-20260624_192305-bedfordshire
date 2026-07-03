@@ -248,7 +248,7 @@ image: /assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-overview-s
 
 ## Introduction
 
-The Milnathort orb sighting is the clearest official UFO entry presently traceable to historic [Kinross-shire]({{ 'what-really-happened-in-kinross-shire/' | relative_url }}), but it is also a good example of how limited many official UFO records are. On 25 June 2009, at 16:22, a witness in Milnathort reported watching two helicopters, one described as a Chinook, coming from the Edinburgh area. Through binoculars, she saw a high, orb-shaped object “glistening in the sun” above them. The Ministry of Defence recorded the report in its 2009 UFO sighting list, but the public record gives no photograph, radar track, pilot report, police note, follow-up interview or conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Milnathort orb sighting is the clearest official UFO entry presently traceable to historic [Kinross-shire]({{ 'what-really-happened-in-kinross-shire/' | relative_url }}), but it is also a good example of how limited many official UFO records are. On 25 June 2009, at 16:22, a witness in Milnathort reported watching two helicopters, one described as a Chinook, coming from the Edinburgh area. Through binoculars, she saw a high, orb-shaped object “glistening in the sun” above them. The Ministry of Defence recorded the report in its 2009 UFO sighting list, but the public record gives no photograph, radar track, pilot report, police note, follow-up interview or conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-overview.webp" | relative_url }}" alt="Overview image for Milnathort" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,7 +259,7 @@ That makes the case interesting for Kinross-shire’s UFO history, but not stron
 
 ## The 25 June 2009 report
 
-The MoD entry is brief. It records the date as 25 June 2009, the time as 16:22, the location as Milnathort, and the county field as Fife. The description says the witness was watching two helicopters, including one Chinook, coming from the Edinburgh area when she saw an orb-shaped object through binoculars, glistening in sunlight and positioned quite high above the helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The MoD entry is brief. It records the date as 25 June 2009, the time as 16:22, the location as Milnathort, and the county field as Fife. The description says the witness was watching two helicopters, including one Chinook, coming from the Edinburgh area when she saw an orb-shaped object through binoculars, glistening in sunlight and positioned quite high above the helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That is the whole public-facing sighting description. There is no named witness in the released list, no weather conditions, no duration, no compass direction, no estimated size, no angular height, no sketch, no still image, and no statement from the helicopter crew. The report therefore gives a moment, a place, a comparison object and a visual impression, but not enough measurements to reconstruct the event.
 
@@ -269,11 +269,11 @@ The helicopters matter because they probably made the sighting feel more concret
 <img src="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-1-dark.svg" | relative_url }}" alt="Milnathort illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD list does and does not show
 
-The Milnathort entry sits in a much larger 2009 MoD sighting list. Around the same dates, the list includes many reports of orange lights, spheres, circular objects and bright objects seen near or compared with aircraft. For example, nearby entries in the same June section include a metallic circular object following a plane at Rotherham, a bright circle of fire over Swansea Bay, and multiple orange-light reports later that week. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Milnathort entry sits in a much larger 2009 MoD sighting list. Around the same dates, the list includes many reports of orange lights, spheres, circular objects and bright objects seen near or compared with aircraft. For example, nearby entries in the same June section include a metallic circular object following a plane at Rotherham, a bright circle of fire over Swansea Bay, and multiple orange-light reports later that week.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-This does not mean Milnathort was part of a single coordinated event. It means the reporting environment in 2009 was crowded with brief public descriptions of lights and shapes in the sky. The National Archives’ material on the final MoD UFO file release says the UFO desk received more than 600 reports in 2009, a surge that put pressure on a system the department no longer believed served a defence purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+This does not mean Milnathort was part of a single coordinated event. It means the reporting environment in 2009 was crowded with brief public descriptions of lights and shapes in the sky. The National Archives’ material on the final MoD UFO file release says the UFO desk received more than 600 reports in 2009, a surge that put pressure on a system the department no longer believed served a defence purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The list is best read as a log of reports received, not as a catalogue of confirmed unknown craft. A sighting being recorded by the MoD does not mean it was validated, investigated in depth, or judged unexplained after technical checks. In fact, the 2009 list itself ends by noting that from 1 December 2009 the department’s UFO policy changed and reports were no longer recorded or investigated by the MoD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The list is best read as a log of reports received, not as a catalogue of confirmed unknown craft. A sighting being recorded by the MoD does not mean it was validated, investigated in depth, or judged unexplained after technical checks. In fact, the 2009 list itself ends by noting that from 1 December 2009 the department’s UFO policy changed and reports were no longer recorded or investigated by the MoD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 For Milnathort, the absence of a visible follow-up is decisive. If radar data, air traffic control checks, military flight logs or photographs were linked to this specific report, they are not apparent in the released sighting table. The fair conclusion is not “explained”, but “insufficiently evidenced”.
 
@@ -282,7 +282,7 @@ For Milnathort, the absence of a visible follow-up is decisive. If radar data, a
 
 ## Why the county label is misleading
 
-The MoD table lists the Milnathort sighting under “Fife”, but Milnathort itself is in historic Kinross-shire. The Gazetteer for Scotland places Milnathort in Kinross-shire, near the north shore of Loch Leven and at the foot of the Ochil Hills, while noting that it now lies within the Perth and Kinross council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Milnathort%2C_Kinross-shire_30607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> Britannica likewise describes Kinross-shire as a historic county in central Scotland lying wholly within the modern Perth and Kinross council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span><span class="citation-popover-snippet">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span></span></span>
+The MoD table lists the Milnathort sighting under “Fife”, but Milnathort itself is in historic Kinross-shire. The Gazetteer for Scotland places Milnathort in Kinross-shire, near the north shore of Loch Leven and at the foot of the Ochil Hills, while noting that it now lies within the Perth and Kinross council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Milnathort%2C_Kinross-shire_30607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> Britannica likewise describes Kinross-shire as a historic county in central Scotland lying wholly within the modern Perth and Kinross council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span><span class="citation-popover-snippet">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span></span></span>
 
 That mismatch matters for a county-based UFO map. If records are searched only by the county field in a modern or official table, the Milnathort entry could be misfiled as a Fife case. If the search is based on modern Perth and Kinross, the record can become mixed with better-known Perthshire material. For this project’s historic-county frame, the sighting belongs with Kinross-shire because the place is Milnathort, not because the MoD’s county label was precise.
 
@@ -292,9 +292,9 @@ The error is also a useful warning about UFO archives more generally. Local news
 <img src="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-2-dark.svg" | relative_url }}" alt="Milnathort illustration 2" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Possible ordinary explanations
 
-The MoD wording gives one strong clue: the object was “glistening in the sun”. That phrase points towards reflected light rather than an intrinsically glowing object. Reflective aircraft, balloons, high-altitude weather balloons, metallic party balloons, plastic debris, or a distant object catching sunlight can all appear as bright points or discs, especially through binoculars. The Met Office explains that optical effects in the sky arise from reflection, refraction, scattering and diffraction, processes that can make ordinary light behave in visually surprising ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+The MoD wording gives one strong clue: the object was “glistening in the sun”. That phrase points towards reflected light rather than an intrinsically glowing object. Reflective aircraft, balloons, high-altitude weather balloons, metallic party balloons, plastic debris, or a distant object catching sunlight can all appear as bright points or discs, especially through binoculars. The Met Office explains that optical effects in the sky arise from reflection, refraction, scattering and diffraction, processes that can make ordinary light behave in visually surprising ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-A balloon-type explanation is plausible but unproven. The Civil Aviation Authority treats toy balloons and sky lanterns as objects relevant to UK airspace safety guidance, alongside fireworks and directed light displays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> Sky lanterns were also widely discussed in relation to the 2009 surge in British UFO reports, with later reporting attributing many “mysterious light” sightings to their popularity at weddings and public events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">ufo sightings files mod the national archives</span><span class="citation-popover-snippet">ufo sightings files mod the national archives</span></span></span> However, the Milnathort sighting occurred in daylight and was described as a sunlit orb rather than an orange night light, so sky lanterns are less neat as an explanation here than they are for many 2009 evening reports.
+A balloon-type explanation is plausible but unproven. The Civil Aviation Authority treats toy balloons and sky lanterns as objects relevant to UK airspace safety guidance, alongside fireworks and directed light displays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> Sky lanterns were also widely discussed in relation to the 2009 surge in British UFO reports, with later reporting attributing many “mysterious light” sightings to their popularity at weddings and public events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">ufo sightings files mod the national archives</span><span class="citation-popover-snippet">ufo sightings files mod the national archives</span></span></span> However, the Milnathort sighting occurred in daylight and was described as a sunlit orb rather than an orange night light, so sky lanterns are less neat as an explanation here than they are for many 2009 evening reports.
 
 A conventional aircraft explanation also remains possible. A distant aircraft seen head-on, a glint from a fuselage, or a small aircraft at an unexpected angle can appear round or stationary for a short time. The difficulty is that the MoD entry does not say whether the orb moved, whether it faded, how long it remained visible, or whether it changed position relative to the helicopters. Without those details, any ordinary explanation is a candidate rather than a solution.
 
@@ -307,9 +307,9 @@ Atmospheric glare is another cautious possibility. Binoculars can sharpen a dist
 
 As evidence, the Milnathort orb is weak. It has one short official entry, a clear date and time, and a specific location, but no publicly available corroborating material. It is not in the same category as cases with photographs, multiple named witnesses, radar returns, pilot testimony, police documentation or surviving investigative correspondence.
 
-As local history, it is still useful. It shows that Kinross-shire does appear in released MoD UFO material, even if the entry is filed under the wrong county label. It also captures a common pattern in UK UFO reporting: a witness sees something unusual near ordinary aircraft, describes it in simple visual terms, and the official record preserves the report without resolving it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+As local history, it is still useful. It shows that Kinross-shire does appear in released MoD UFO material, even if the entry is filed under the wrong county label. It also captures a common pattern in UK UFO reporting: a witness sees something unusual near ordinary aircraft, describes it in simple visual terms, and the official record preserves the report without resolving it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-Later reporting has not obviously strengthened the claim. The MoD’s final UFO files brought attention to the department’s closure of its UFO desk, the 2009 surge in reports, and the judgement that the work no longer served a defence purpose, but that national context does not add new evidence to the Milnathort sighting itself. Sky News reported that the department closed the desk and hotline after a year of increased reports, citing the position that more than 50 years of UFO reporting had not shown an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+Later reporting has not obviously strengthened the claim. The MoD’s final UFO files brought attention to the department’s closure of its UFO desk, the 2009 surge in reports, and the judgement that the work no longer served a defence purpose, but that national context does not add new evidence to the Milnathort sighting itself. Sky News reported that the department closed the desk and hotline after a year of increased reports, citing the position that more than 50 years of UFO reporting had not shown an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
 The most balanced classification is therefore: officially recorded, locally relevant, unresolved in a narrow sense, but evidentially limited. It should not be presented as a debunked case, because the exact object is not identified. It should not be presented as a strong unknown either, because the public evidence does not support that weight. The Milnathort orb is best understood as a small but revealing entry in Kinross-shire’s UFO record: a sighting that tells us more about the limits of official logging than about the nature of the object itself.
 
@@ -317,194 +317,194 @@ The most balanced classification is therefore: officially recorded, locally rele
 <img src="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-3-dark.svg" | relative_url }}" alt="Milnathort illustration 3" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Milnathort Orb What Was Actually Recorded?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Milnathort Orb What Was Actually Recorded?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Gives readers the wider context needed for evaluating a modest official UFO report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers the wider context needed for evaluating a modest official UFO report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Case Files of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2UJEYgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Case Files of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Case Files of Scotland">UFO Case Files of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Robinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Case Files of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2UJEYgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Case Files of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Case Files of Scotland">UFO Case Files of Scotland</a>
+</h4>
+<p class="fr-book-author">By Malcolm Robinson</p>
         
-        <p class="fr-book-desc">Offers Scottish case material comparable to the Milnathort sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers Scottish case material comparable to the Milnathort sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official reporting and witness testimony, themes central to the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official reporting and witness testimony, themes central to the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for comparing the Milnathort report with other documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing the Milnathort report with other documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Case Files of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Case Files of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="milnathort-the-milnathort-orb-what-was-actually-recorded-kinross-shire-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ The most balanced classification is therefore: officially recorded, locally rele
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ The most balanced classification is therefore: officially recorded, locally rele
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ The most balanced classification is therefore: officially recorded, locally rele
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ The most balanced classification is therefore: officially recorded, locally rele
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ The most balanced classification is therefore: officially recorded, locally rele
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,155 +710,155 @@ The most balanced classification is therefore: officially recorded, locally rele
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Kinross-shire | Highland, Loch Leven, Stirling  
-   Link: <a href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross-shire</a>  
+   Link:<a href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross-shire</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metoffice.gov.uk  
    Title: world first data collected in innovative space weather project  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: on display mods files on ufos 10476078  
-   Link: <a href="https://news.sky.com/story/on-display-mods-files-on-ufos-10476078" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/on-display-mods-files-on-ufos-10476078</a>  
+   Link:<a href="https://news.sky.com/story/on-display-mods-files-on-ufos-10476078" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/on-display-mods-files-on-ufos-10476078</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Kinross" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross</a>  
+   Link:<a href="https://www.britannica.com/place/Kinross" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arun.gov.uk  
-   Link: <a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
+   Link:<a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/kinross-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/kinross-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/kinross-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/kinross-county</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: meetings.westoxon.gov.uk  
-   Link: <a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
+   Link:<a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newcastle.gov.uk  
-   Link: <a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
+   Link:<a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Extraordinary Until Proven Otherwise  
-   Link: <a href="http://www.youtube.com/watch?v=SpeSpA3e56A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SpeSpA3e56A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UK MoD UFO files 2009 UFO file release March 2009 The National Archives UK...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SpeSpA3e56A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SpeSpA3e56A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UK MoD UFO files 2009 UFO file release March 2009 The National Archives UK...</p></details>
    Published: March 2009  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Milnathort%2C_Kinross-shire_30607" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Milnathort%2C_Kinross-shire_30607</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Milnathort%2C_Kinross-shire_30607" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Milnathort%2C_Kinross-shire_30607</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: itv.com  
    Title: ufo sightings files mod the national archives  
-   Link: <a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
+   Link:<a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Milnathort" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Milnathort</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Milnathort" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Milnathort</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Milnathort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milnathort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Milnathort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milnathort</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinross-shire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinross-shire</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI &amp; Physics Are Unlocking the Truth (Full Episode) | UFOs: Investigating the Unknown | Nat Geo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI &amp; Physics Are Unlocking the Truth (Full Episode) | UFOs: Investigating the Unknown | Nat Geo...</p></details>
    Published: February 2010  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=T663g9hY2o4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=T663g9hY2o4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary Until Proven Otherwise...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=T663g9hY2o4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=T663g9hY2o4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary Until Proven Otherwise...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcherefordandworcester/videos/technical-fault-grounds-chinook-in-bromyard-field/2190808878401580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/videos/technical-fault-grounds-chinook-in-bromyard-field/2190808878401580/</a>  
+   Link:<a href="https://www.facebook.com/bbcherefordandworcester/videos/technical-fault-grounds-chinook-in-bromyard-field/2190808878401580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/videos/technical-fault-grounds-chinook-in-bromyard-field/2190808878401580/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/petechristykcbd/posts/anyone-see-the-weather-balloon-in-the-sky-tonight/1340006517496997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/petechristykcbd/posts/anyone-see-the-weather-balloon-in-the-sky-tonight/1340006517496997/</a>  
+   Link:<a href="https://www.facebook.com/petechristykcbd/posts/anyone-see-the-weather-balloon-in-the-sky-tonight/1340006517496997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/petechristykcbd/posts/anyone-see-the-weather-balloon-in-the-sky-tonight/1340006517496997/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/</a>  
+   Link:<a href="https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sj1w3x/helicopter_following_an_orb_in_bangor_maine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sj1w3x/helicopter_following_an_orb_in_bangor_maine/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sj1w3x/helicopter_following_an_orb_in_bangor_maine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sj1w3x/helicopter_following_an_orb_in_bangor_maine/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: sobt.co.uk  
-   Link: <a href="https://sobt.co.uk/kinross/" target="_blank" rel="noopener noreferrer nofollow">https://sobt.co.uk/kinross/</a>  
+   Link:<a href="https://sobt.co.uk/kinross/" target="_blank" rel="noopener noreferrer nofollow">https://sobt.co.uk/kinross/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kinross-shire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/kinross-shire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kinross-shire/</a>  

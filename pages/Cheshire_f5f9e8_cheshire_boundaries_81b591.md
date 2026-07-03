@@ -248,17 +248,17 @@ image: /assets/images/Cheshire_f5f9e8_cheshire_boundaries_81b591-overview-social
 
 ## Introduction
 
-[Cheshire]({{ 'what-did-cheshire-really-see/' | relative_url }}) UFO history begins with a map problem as much as a mystery problem. The county’s reported sightings are scattered across places that modern readers may file under Cheshire East, Cheshire West and Chester, Halton, Warrington, Greater Manchester or Merseyside, while this project uses historic Cheshire as its organising frame. That matters because a “Cheshire” UFO hotspot can disappear or reappear depending on whether the evidence is counted by historic county, modern council, police area, media patch or airport corridor. Historic Cheshire includes places now commonly associated with Wirral and parts of Greater Manchester, while modern administrative Cheshire includes areas such as Warrington and Widnes that have their own boundary complications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span></span></span>
+[Cheshire]({{ 'what-did-cheshire-really-see/' | relative_url }}) UFO history begins with a map problem as much as a mystery problem. The county’s reported sightings are scattered across places that modern readers may file under Cheshire East, Cheshire West and Chester, Halton, Warrington, Greater Manchester or Merseyside, while this project uses historic Cheshire as its organising frame. That matters because a “Cheshire” UFO hotspot can disappear or reappear depending on whether the evidence is counted by historic county, modern council, police area, media patch or airport corridor. Historic Cheshire includes places now commonly associated with Wirral and parts of Greater Manchester, while modern administrative Cheshire includes areas such as Warrington and Widnes that have their own boundary complications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span></span></span>
 
 
 <img src="{{ "/assets/images/Cheshire_f5f9e8_cheshire_boundaries_81b591-overview.webp" | relative_url }}" alt="Overview image for Boundaries" loading="eager" decoding="sync" fetchpriority="high">
-The practical answer is that Cheshire’s UFO record should be read as a layered geography: historic county first, source label second, and sighting context third. The most useful “hotspots” are not alien landing zones, but repeated reporting areas around Macclesfield, Chester, Runcorn, Crewe, Knutsford, Warrington, Winsford, Northwich, Wilmslow and the M56–Manchester Airport edge. The evidence is strongest where official logs, local reporting and known flight routes can be compared; it is weakest where a place name alone is treated as proof of a pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+The practical answer is that Cheshire’s UFO record should be read as a layered geography: historic county first, source label second, and sighting context third. The most useful “hotspots” are not alien landing zones, but repeated reporting areas around Macclesfield, Chester, Runcorn, Crewe, Knutsford, Warrington, Winsford, Northwich, Wilmslow and the M56–Manchester Airport edge. The evidence is strongest where official logs, local reporting and known flight routes can be compared; it is weakest where a place name alone is treated as proof of a pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 ## Historic Cheshire versus modern councils
 
-For UFO history, “Cheshire” is not a single fixed administrative container. Britannica describes Cheshire as a geographic and historic county, with the modern geographic county comprising the former administrative county plus Halton and Warrington. It also notes that historic Cheshire extends beyond that modern frame into Wirral, parts of Greater Manchester south of the Mersey and Tame, and the north side of Langdendale in Derbyshire, while excluding parts north of the Mersey that belong historically to Lancashire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span></span></span>
+For UFO history, “Cheshire” is not a single fixed administrative container. Britannica describes Cheshire as a geographic and historic county, with the modern geographic county comprising the former administrative county plus Halton and Warrington. It also notes that historic Cheshire extends beyond that modern frame into Wirral, parts of Greater Manchester south of the Mersey and Tame, and the north side of Langdendale in Derbyshire, while excluding parts north of the Mersey that belong historically to Lancashire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span></span></span>
 
-That distinction is not pedantic. It changes how a sighting list is interpreted. A report logged as Stockport, Altrincham or Wirral may look outside Cheshire to a modern reader, but it can still belong naturally to historic Cheshire analysis. Conversely, a modern Cheshire police or council label may include areas whose older county identity is more complicated. Cheshire Archives summarises the practical turning point: in 1974 Wirral moved to Merseyside, eastern parts moved to Greater Manchester and Derbyshire, and Warrington and district were added; Warrington and Halton later became unitary authorities in 1998, and the remaining county council structure was replaced in 2009 by Cheshire East and Cheshire West and Chester. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshirearchives.org.uk/what-we-hold/cheshire-county-council.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshirearchives.org.uk">[Cheshire Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshirearchives.org.uk</span><span class="citation-popover-snippet">Cheshire County Council...</span></span></span>
+That distinction is not pedantic. It changes how a sighting list is interpreted. A report logged as Stockport, Altrincham or Wirral may look outside Cheshire to a modern reader, but it can still belong naturally to historic Cheshire analysis. Conversely, a modern Cheshire police or council label may include areas whose older county identity is more complicated. Cheshire Archives summarises the practical turning point: in 1974 Wirral moved to Merseyside, eastern parts moved to Greater Manchester and Derbyshire, and Warrington and district were added; Warrington and Halton later became unitary authorities in 1998, and the remaining county council structure was replaced in 2009 by Cheshire East and Cheshire West and Chester.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshirearchives.org.uk/what-we-hold/cheshire-county-council.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshirearchives.org.uk">[Cheshire Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshirearchives.org.uk</span><span class="citation-popover-snippet">Cheshire County Council...</span></span></span>
 
 This is why the same UFO story can be counted differently by different record keepers. The Ministry of Defence list may use the location supplied at the time. A newspaper may use its readership area. A police response may reflect the current force area. A historic-county map may group the same place differently again. None of those frames is automatically wrong, but mixing them without explanation can create false “clusters” or hide real ones.
 
@@ -270,51 +270,51 @@ The cleanest approach is to state the frame being used. In this project, histori
 
 Several parts of Cheshire’s UFO geography need special care because they sit on boundary, transport or identity seams rather than in a simple county centre.
 
-**Wirral and the Mersey edge** are the clearest example. Historic Cheshire reaches into the Wirral peninsula, but many modern reports and readers associate Wirral with Merseyside. The 2009 Ministry of Defence list includes reports from Barnston and Wirral under Merseyside, including [orange lights]({{ 'orange-lights-45176e/' | relative_url }}) moving down the Wirral peninsula from Birkenhead towards Ellesmere Port. For a modern administrative analysis, those are Merseyside entries; for a historic Cheshire study, they are relevant edge evidence, especially because the reported movement runs towards the Cheshire side of the Mersey–Dee landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Wirral and the Mersey edge** are the clearest example. Historic Cheshire reaches into the Wirral peninsula, but many modern reports and readers associate Wirral with Merseyside. The 2009 Ministry of Defence list includes reports from Barnston and Wirral under Merseyside, including [orange lights]({{ 'orange-lights-45176e/' | relative_url }}) moving down the Wirral peninsula from Birkenhead towards Ellesmere Port. For a modern administrative analysis, those are Merseyside entries; for a historic Cheshire study, they are relevant edge evidence, especially because the reported movement runs towards the Cheshire side of the Mersey–Dee landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Stockport and Altrincham** create a similar issue on the Greater Manchester side. The 2009 MoD list includes Stockport as “Cheshire” in one entry describing a bright orange object that looked as if it was on fire, moved steadily, gained altitude and disappeared into cloud. The same page also includes Altrincham under Lancashire, describing two bright orange lights seen for about five minutes. These labels show why raw place-name searches can mislead: the official list itself reflects mixed or inconsistent geographic shorthand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Stockport and Altrincham** create a similar issue on the Greater Manchester side. The 2009 MoD list includes Stockport as “Cheshire” in one entry describing a bright orange object that looked as if it was on fire, moved steadily, gained altitude and disappeared into cloud. The same page also includes Altrincham under Lancashire, describing two bright orange lights seen for about five minutes. These labels show why raw place-name searches can mislead: the official list itself reflects mixed or inconsistent geographic shorthand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Warrington, Widnes and Runcorn** complicate the northern record because they combine modern Cheshire policing or ceremonial connections with older Lancashire/Cheshire boundary history. Cheshire Live’s list of official reports includes Runcorn entries in 1997 and 2000, Warrington entries in 1998 and 1999, and a 2009 Widnes report of fourteen objects passing one per minute with no sound. These places are useful for understanding the Mersey corridor as a reporting zone, but they should not be treated as proof that one neat historic boundary explains every sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
+**Warrington, Widnes and Runcorn** complicate the northern record because they combine modern Cheshire policing or ceremonial connections with older Lancashire/Cheshire boundary history. Cheshire Live’s list of official reports includes Runcorn entries in 1997 and 2000, Warrington entries in 1998 and 1999, and a 2009 Widnes report of fourteen objects passing one per minute with no sound. These places are useful for understanding the Mersey corridor as a reporting zone, but they should not be treated as proof that one neat historic boundary explains every sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
 
-**Macclesfield and the eastern edge** matter for a different reason. They sit close to the Pennine side of the county and near air corridors serving Manchester Airport. They also host one of the county’s most distinctive archival stories: the 1977 Upton Primary School drawings, in which ten children reportedly saw an elliptical object near the playground before it rose into the sky. The account is notable because the teacher separated the children and asked them to draw what they had seen, and the material reached Cheshire Police and the MoD UFO desk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+**Macclesfield and the eastern edge** matter for a different reason. They sit close to the Pennine side of the county and near air corridors serving Manchester Airport. They also host one of the county’s most distinctive archival stories: the 1977 Upton Primary School drawings, in which ten children reportedly saw an elliptical object near the playground before it rose into the sky. The account is notable because the teacher separated the children and asked them to draw what they had seen, and the material reached Cheshire Police and the MoD UFO desk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_I-xlxV2OsY" title="Ross Coulthart investigates UK&#x27;s UFO Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer">Ross Coulthart investigates UK&#x27;s UFO Phenomenon</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 480.0K &middot; Uploaded: March 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_I-xlxV2OsY">Open on YouTube</a></p></div></div></div>
 
 ## Where the reported hotspots actually appear
 
-The official 1997–2009 MoD listing is a record of reports, not a solved map of unexplained craft. GOV.UK describes the files as UFO reports from 1997 to 2009, showing dates, times, locations and brief descriptions. That format is useful for spotting reported clusters, but it usually lacks the detail needed to prove what the object was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+The official 1997–2009 MoD listing is a record of reports, not a solved map of unexplained craft. GOV.UK describes the files as UFO reports from 1997 to 2009, showing dates, times, locations and brief descriptions. That format is useful for spotting reported clusters, but it usually lacks the detail needed to prove what the object was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
-Cheshire Live’s review of those official listings counted 43 Cheshire cases across the period. The reported pattern is geographically broad rather than concentrated in one famous site: Macclesfield, Chester, Runcorn, Northwich, Wilmslow, Blacon, Crewe, Knutsford, Malpas, Nantwich, Warrington, the M56, Beeston, Poynton, Sandbach, Winsford and other localities all appear. That distribution supports the idea of “hotspots” as repeated reporting zones, not as verified mystery zones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
+Cheshire Live’s review of those official listings counted 43 Cheshire cases across the period. The reported pattern is geographically broad rather than concentrated in one famous site: Macclesfield, Chester, Runcorn, Northwich, Wilmslow, Blacon, Crewe, Knutsford, Malpas, Nantwich, Warrington, the M56, Beeston, Poynton, Sandbach, Winsford and other localities all appear. That distribution supports the idea of “hotspots” as repeated reporting zones, not as verified mystery zones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
 
 Several places stand out because they recur or sit on important corridors:
 
-**Macclesfield and nearby east Cheshire.** The A537/Chelford/Macclesfield report from January 1997 described a dark round object about 50 metres across with white lights and two bright red lights beneath it. Macclesfield appears again in 2005 with a disc-like object heading west, and the area also has the 1977 Upton Primary School episode in the archival record. This gives Macclesfield stronger historical texture than a one-off light report, although it does not make the claims confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
+**Macclesfield and nearby east Cheshire.** The A537/Chelford/Macclesfield report from January 1997 described a dark round object about 50 metres across with white lights and two bright red lights beneath it. Macclesfield appears again in 2005 with a disc-like object heading west, and the area also has the 1977 Upton Primary School episode in the archival record. This gives Macclesfield stronger historical texture than a one-off light report, although it does not make the claims confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
 
-**Chester and its western approaches.** Chester appears early in the 1997 list with a bright orange round object descending rapidly, again in 2003 with bright lights moving from side to side, and in 2009 with an orange orb whose glow faded into a black shadow. Waverton, near Chester, also appears in 2008 with a formation of eighteen lights likened to a “flock of helicopters” but reportedly without sound. Chester’s role is therefore less a single landmark case than a repeated western reporting area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
+**Chester and its western approaches.** Chester appears early in the 1997 list with a bright orange round object descending rapidly, again in 2003 with bright lights moving from side to side, and in 2009 with an orange orb whose glow faded into a black shadow. Waverton, near Chester, also appears in 2008 with a formation of eighteen lights likened to a “flock of helicopters” but reportedly without sound. Chester’s role is therefore less a single landmark case than a repeated western reporting area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
 
-**Runcorn, Warrington and the M56 corridor.** Runcorn reports include bright orange “tail shaped” objects in 1997 and several 2000 entries involving orange-white or multicoloured lights. Warrington appears with a large bright triangle in 1998, while the M56/Altrincham/Warrington report in 2007 described an object first resembling a stationary saucer and then two triangular forms with white, red and greenish lights. This corridor is important because it combines roads, urban edges, aircraft visibility and boundary ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
+**Runcorn, Warrington and the M56 corridor.** Runcorn reports include bright orange “tail shaped” objects in 1997 and several 2000 entries involving orange-white or multicoloured lights. Warrington appears with a large bright triangle in 1998, while the M56/Altrincham/Warrington report in 2007 described an object first resembling a stationary saucer and then two triangular forms with white, red and greenish lights. This corridor is important because it combines roads, urban edges, aircraft visibility and boundary ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
 
-**Crewe, Nantwich and central-southern Cheshire.** Crewe and nearby Madley appear with triangular or formation reports, including a 1997 triangular object near Crewe and 1998 reports of triangular objects in formation. Nantwich appears with a very large object in 1998 and smokeless flare-like objects in 2001. These reports are geographically useful because they show that the county’s UFO record is not only an airport-edge or Mersey-edge story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
+**Crewe, Nantwich and central-southern Cheshire.** Crewe and nearby Madley appear with triangular or formation reports, including a 1997 triangular object near Crewe and 1998 reports of triangular objects in formation. Nantwich appears with a very large object in 1998 and smokeless flare-like objects in 2001. These reports are geographically useful because they show that the county’s UFO record is not only an airport-edge or Mersey-edge story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[Cheshire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-snippet">Open source on cheshire-live.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Cheshire_f5f9e8_cheshire_boundaries_81b591-Illustration-2-dark.svg" | relative_url }}" alt="Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/Cheshire_f5f9e8_cheshire_boundaries_81b591-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cheshire_f5f9e8_cheshire_boundaries_81b591-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Flight paths make some hotspots more complicated
 
-One reason Cheshire’s hotspot map needs caution is that parts of the county sit under or near busy aviation routes. Manchester Airport’s own arrival-route information says aircraft usually land and take off into the wind; with westerly operations, aircraft approach from the east over Stockport and Heald Green and take off west towards Knutsford, while easterly operations reverse the pattern, with approaches from the west over Knutsford and departures towards Heald Green and Stockport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/4919422545/manchester-airport-arrival-routes-information-pack.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.live.dxp.maginfrastructure.com">[MagInfrastructure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.live.dxp.maginfrastructure.com</span><span class="citation-popover-title">Mag Infrastructure</span><span class="citation-popover-snippet">Mag Infrastructure</span></span></span>
+One reason Cheshire’s hotspot map needs caution is that parts of the county sit under or near busy aviation routes. Manchester Airport’s own arrival-route information says aircraft usually land and take off into the wind; with westerly operations, aircraft approach from the east over Stockport and Heald Green and take off west towards Knutsford, while easterly operations reverse the pattern, with approaches from the west over Knutsford and departures towards Heald Green and Stockport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/4919422545/manchester-airport-arrival-routes-information-pack.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.live.dxp.maginfrastructure.com">[MagInfrastructure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.live.dxp.maginfrastructure.com</span><span class="citation-popover-title">Mag Infrastructure</span><span class="citation-popover-snippet">Mag Infrastructure</span></span></span>
 
-That does not explain every report. It does, however, change the standard of evidence needed for sightings around Knutsford, Wilmslow, Stockport, Altrincham, the M56 and the airport-facing side of east Cheshire. A distant aircraft can appear to hover when it is approaching head-on; landing lights can look unusually bright; cloud, haze and changing angles can alter apparent colour and shape. Manchester Airport’s community flight-path material also notes that arriving aircraft do not follow routes as tightly defined as departures and are directed by air traffic control before final approach, while radar-based flight-track systems are used to record traffic around the airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynoiseportal.manchesterairport.co.uk/2020/07/31/typical-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynoiseportal.manchesterairport.co.uk">[communitynoiseportal.manchesterairport.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynoiseportal.manchesterairport.co.uk</span><span class="citation-popover-title">Typical flight paths – Manchester Insightfull</span><span class="citation-popover-snippet">Typical flight paths – Manchester Insightfull</span></span></span>
+That does not explain every report. It does, however, change the standard of evidence needed for sightings around Knutsford, Wilmslow, Stockport, Altrincham, the M56 and the airport-facing side of east Cheshire. A distant aircraft can appear to hover when it is approaching head-on; landing lights can look unusually bright; cloud, haze and changing angles can alter apparent colour and shape. Manchester Airport’s community flight-path material also notes that arriving aircraft do not follow routes as tightly defined as departures and are directed by air traffic control before final approach, while radar-based flight-track systems are used to record traffic around the airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynoiseportal.manchesterairport.co.uk/2020/07/31/typical-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynoiseportal.manchesterairport.co.uk">[communitynoiseportal.manchesterairport.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynoiseportal.manchesterairport.co.uk</span><span class="citation-popover-title">Typical flight paths – Manchester Insightfull</span><span class="citation-popover-snippet">Typical flight paths – Manchester Insightfull</span></span></span>
 
 This makes the Cheshire UFO map a comparison exercise rather than a simple dot map. A report of orange lights over Winsford or Chester may call for different checks from a triangular object near Knutsford or an M56 sighting near Altrincham and Warrington. The question is not simply “was it in Cheshire?” but “what else was in that sky corridor at that time?”
 
-The National Archives gives the broader interpretive caution: MoD UFO records include many shapes, lights and flashes; most can often be explained, while some are more unusual. The archive also notes that files commonly contain public letters and phone calls, possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and that many reports concern lights rather than definite craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives gives the broader interpretive caution: MoD UFO records include many shapes, lights and flashes; most can often be explained, while some are more unusual. The archive also notes that files commonly contain public letters and phone calls, possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and that many reports concern lights rather than definite craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FD6dCwx6tpg" title="UFO file release August 2011" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer">UFO file release August 2011</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 13.2K &middot; Uploaded: August 2011 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FD6dCwx6tpg">Open on YouTube</a></p></div></div></div>
 
 ## Jodrell Bank adds space history, not automatic UFO evidence
 
-Jodrell Bank is one of the reasons Cheshire feels unusually “space connected” to the public imagination. It is a major radio astronomy site, home to the Lovell Telescope, and was recognised as a UNESCO World Heritage site in 2019 for its pioneering role in understanding the Universe. Jodrell Bank’s own history notes its work on black holes, quasars, pulsars, gravitational lenses, the cosmic microwave background and major radio astronomy networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jodrellbank.net">[Jodrell Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jodrellbank.net</span><span class="citation-popover-title">Jodrell Bank The Story of Jodrell Bank</span><span class="citation-popover-snippet">Jodrell Bank The Story of Jodrell Bank</span></span></span>
+Jodrell Bank is one of the reasons Cheshire feels unusually “space connected” to the public imagination. It is a major radio astronomy site, home to the Lovell Telescope, and was recognised as a UNESCO World Heritage site in 2019 for its pioneering role in understanding the Universe. Jodrell Bank’s own history notes its work on black holes, quasars, pulsars, gravitational lenses, the cosmic microwave background and major radio astronomy networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jodrellbank.net">[Jodrell Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jodrellbank.net</span><span class="citation-popover-title">Jodrell Bank The Story of Jodrell Bank</span><span class="citation-popover-snippet">Jodrell Bank The Story of Jodrell Bank</span></span></span>
 
 That scientific presence matters culturally, but it should not be misused as evidence that Cheshire UFO reports are stronger than reports elsewhere. Jodrell Bank is not an optical skywatching station for local UFO sightings. Its relevance is more subtle: it gives Cheshire a strong astronomy identity, creates public familiarity with space science, and may affect how local media frame stories about strange lights or “alien” claims.
 
@@ -324,7 +324,7 @@ It also helps separate two very different questions. One is whether people in Ch
 
 Boundary choice changes three things: the count, the explanation and the meaning of a hotspot.
 
-First, it changes the count. A modern Cheshire-only count may exclude historic Cheshire places now filed under Greater Manchester or Merseyside. A historic Cheshire count may include Wirral or Stockport material that current residents would not instinctively call Cheshire. A police-area count may follow the present Cheshire Constabulary footprint rather than the old county. Recent Freedom of Information correspondence with Cheshire Constabulary illustrates another limitation: a 2025 request for 2024 UAP/UFO information was marked as information not held, showing that modern police records may not provide a continuous local UFO database even when the force area seems relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</span></span></span>
+First, it changes the count. A modern Cheshire-only count may exclude historic Cheshire places now filed under Greater Manchester or Merseyside. A historic Cheshire count may include Wirral or Stockport material that current residents would not instinctively call Cheshire. A police-area count may follow the present Cheshire Constabulary footprint rather than the old county. Recent Freedom of Information correspondence with Cheshire Constabulary illustrates another limitation: a 2025 request for 2024 UAP/UFO information was marked as information not held, showing that modern police records may not provide a continuous local UFO database even when the force area seems relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</span></span></span>
 
 Second, boundary choice changes the explanation. A Stockport or Knutsford report may need Manchester Airport checks. A Wirral or Ellesmere Port report may need Mersey corridor and Liverpool-facing context. A Macclesfield or Poynton report may involve east Cheshire, Pennine visibility and airport approach geometry. A Crewe or Nantwich report may be less dominated by airport proximity but still needs checks against aircraft, lanterns, meteors, balloons, satellites and local events.
 
@@ -336,9 +336,9 @@ Third, it changes the story told to readers. If Cheshire is treated only as toda
 
 The most reliable Cheshire UFO map is not a heat map claiming that one town is “more mysterious” than another. It is a working guide to where reports recur, where boundaries complicate the record, and where ordinary explanations need to be checked first.
 
-A strong Cheshire entry usually has several qualities: a clear date and time, a precise location, a description detailed enough to test against aircraft or astronomical explanations, more than one witness or independent record, and source material that can be traced beyond a retold anecdote. The 1977 Upton Primary School drawings are interesting because they entered the MoD archive through a teacher and police route, with multiple children producing drawings under controlled classroom conditions; even then, the case remains a report, not proof of an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
+A strong Cheshire entry usually has several qualities: a clear date and time, a precise location, a description detailed enough to test against aircraft or astronomical explanations, more than one witness or independent record, and source material that can be traced beyond a retold anecdote. The 1977 Upton Primary School drawings are interesting because they entered the MoD archive through a teacher and police route, with multiple children producing drawings under controlled classroom conditions; even then, the case remains a report, not proof of an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Open source on fourcornersbooks.co.uk.</span></span></span>
 
-A weaker hotspot claim is one built from vague repetitions: “lights over Cheshire”, “a UFO near the M56”, or “orange orbs over the county”. Those phrases may point to genuine reports, but they often lack the detail needed to distinguish lanterns, aircraft, balloons, satellites, meteors or misperception from something genuinely unresolved. The National Archives’ warning that many reports are lights rather than definite craft is especially important for Cheshire, where several reported clusters involve orange lights, formations or distant moving points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+A weaker hotspot claim is one built from vague repetitions: “lights over Cheshire”, “a UFO near the M56”, or “orange orbs over the county”. Those phrases may point to genuine reports, but they often lack the detail needed to distinguish lanterns, aircraft, balloons, satellites, meteors or misperception from something genuinely unresolved. The National Archives’ warning that many reports are lights rather than definite craft is especially important for Cheshire, where several reported clusters involve orange lights, formations or distant moving points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 Read this way, Cheshire’s real UFO geography is interesting precisely because it is messy. The county has old borders, new councils, Mersey and Manchester edges, airport routes, local newspapers, police and MoD fragments, and a few memorable archival cases. Its hotspots are best understood as places where reporting, visibility, transport corridors and local identity overlap — not as places where the evidence has settled the mystery.
 
@@ -347,194 +347,194 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Does Cheshire UFO History Begin?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Does Cheshire UFO History Begin?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Encourages evidence-based examination of reports, matching the article&#x27;s emphasis on comparing sources and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based examination of reports, matching the article&#x27;s emphasis on comparing sources and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for placing Cheshire reports within wider UFO history and documented sighting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for placing Cheshire reports within wider UFO history and documented sighting traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides a strong British UFO-history framework useful for understanding regional cases and county-level reporting contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a strong British UFO-history framework useful for understanding regional cases and county-level reporting contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical context for how UFO reports are collected, categorized and interpreted across regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for how UFO reports are collected, categorized and interpreted across regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-8d9b19-where-does-cheshire-ufo-history-begin-cheshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,196 +740,196 @@ Read this way, Cheshire’s real UFO geography is interesting precisely because 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Cheshire | England, Map, History, & Facts | Britannica  
-   Link: <a href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-county-England</a>  
+   Link:<a href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-county-England</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cheshirearchives.org.uk  
    Title: Cheshire Archives  
-   Link: <a href="https://www.cheshirearchives.org.uk/what-we-hold/cheshire-county-council.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshirearchives.org.uk/what-we-hold/cheshire-county-council.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheshire County Council...</p></details>
+   Link:<a href="https://www.cheshirearchives.org.uk/what-we-hold/cheshire-county-council.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshirearchives.org.uk/what-we-hold/cheshire-county-council.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheshire County Council...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.live.dxp.maginfrastructure.com  
    Title: Mag Infrastructure  
-   Link: <a href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/4919422545/manchester-airport-arrival-routes-information-pack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.live.dxp.maginfrastructure.com/f/73114/x/4919422545/manchester-airport-arrival-routes-information-pack.pdf</a>  
+   Link:<a href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/4919422545/manchester-airport-arrival-routes-information-pack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.live.dxp.maginfrastructure.com/f/73114/x/4919422545/manchester-airport-arrival-routes-information-pack.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: communitynoiseportal.manchesterairport.co.uk  
    Title: Typical flight paths – Manchester Insightfull  
-   Link: <a href="https://communitynoiseportal.manchesterairport.co.uk/2020/07/31/typical-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://communitynoiseportal.manchesterairport.co.uk/2020/07/31/typical-flight-paths/</a>  
+   Link:<a href="https://communitynoiseportal.manchesterairport.co.uk/2020/07/31/typical-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://communitynoiseportal.manchesterairport.co.uk/2020/07/31/typical-flight-paths/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_17</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_17</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: whatdotheyknow.com  
    Title: UAP/UFO sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/uapufo_sightings_10" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_10</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/uapufo_sightings_10" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_10</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: whatdotheyknow.com  
    Title: Flight path map  
-   Link: <a href="https://www.whatdotheyknow.com/request/flight_path_map" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/flight_path_map</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/flight_path_map" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/flight_path_map</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: ufo files  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cheshireeast.gov.uk  
-   Link: <a href="https://www.cheshireeast.gov.uk/planning/spatial-planning/cheshire_east_local_plan/site-allocations-and-policies/sadpd-examination/documents/examination-library/ed15-aircraft-noise-policy-background-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshireeast.gov.uk/planning/spatial-planning/cheshire_east_local_plan/site-allocations-and-policies/sadpd-examination/documents/examination-library/ed15-aircraft-noise-policy-background-report.pdf</a>  
+   Link:<a href="https://www.cheshireeast.gov.uk/planning/spatial-planning/cheshire_east_local_plan/site-allocations-and-policies/sadpd-examination/documents/examination-library/ed15-aircraft-noise-policy-background-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshireeast.gov.uk/planning/spatial-planning/cheshire_east_local_plan/site-allocations-and-policies/sadpd-examination/documents/examination-library/ed15-aircraft-noise-policy-background-report.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cheshirewestandchester.gov.uk  
-   Link: <a href="https://www.cheshirewestandchester.gov.uk/residents/planning-and-building-control/total-environment/cheshire-historic-environment-record" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshirewestandchester.gov.uk/residents/planning-and-building-control/total-environment/cheshire-historic-environment-record</a>  
+   Link:<a href="https://www.cheshirewestandchester.gov.uk/residents/planning-and-building-control/total-environment/cheshire-historic-environment-record" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshirewestandchester.gov.uk/residents/planning-and-building-control/total-environment/cheshire-historic-environment-record</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Jodrell-Bank-Observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Jodrell-Bank-Observatory</a>  
+   Link:<a href="https://www.britannica.com/topic/Jodrell-Bank-Observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Jodrell-Bank-Observatory</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cheshire.police.uk  
-   Link: <a href="https://www.cheshire.police.uk/foi-ai/cheshire-police/freedom-of-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire.police.uk/foi-ai/cheshire-police/freedom-of-information/</a>  
+   Link:<a href="https://www.cheshire.police.uk/foi-ai/cheshire-police/freedom-of-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire.police.uk/foi-ai/cheshire-police/freedom-of-information/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cheshire-live.co.uk  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jodrellbank.net  
    Title: Jodrell Bank The Story of Jodrell Bank  
-   Link: <a href="https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/" target="_blank" rel="noopener noreferrer nofollow">https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/</a>  
+   Link:<a href="https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/" target="_blank" rel="noopener noreferrer nofollow">https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Jodrell Bank Observatory  
-   Link: <a href="https://en.wikipedia.org/wiki/Jodrell_Bank_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jodrell_Bank_Observatory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jodrell_Bank_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jodrell_Bank_Observatory</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cheshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cheshire</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cheshire-live.co.uk  
    Title: cheshire ufo sighting mod 16996980  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cheshire-live.co.uk  
    Title: ufo files reveal cheshire schoolchildrens 20113903  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/ufo-files-reveal-cheshire-schoolchildrens-20113903" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/ufo-files-reveal-cheshire-schoolchildrens-20113903</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/ufo-files-reveal-cheshire-schoolchildrens-20113903" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/ufo-files-reveal-cheshire-schoolchildrens-20113903</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cheshire-live.co.uk  
    Title: revealed cheshire ufo sightings reported 11907488  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cheshire-live.co.uk  
    Title: mod files reveal claim cheshire 5239460  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/mod-files-reveal-claim-cheshire-5239460" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/mod-files-reveal-claim-cheshire-5239460</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/mod-files-reveal-claim-cheshire-5239460" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/mod-files-reveal-claim-cheshire-5239460</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: familypedia.fandom.com  
-   Link: <a href="https://familypedia.fandom.com/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://familypedia.fandom.com/wiki/Cheshire</a>  
+   Link:<a href="https://familypedia.fandom.com/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://familypedia.fandom.com/wiki/Cheshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: fiftyfourandcounting.co.uk  
    Title: Jodrell Bank, Cheshire  
-   Link: <a href="https://fiftyfourandcounting.co.uk/wordpress/jodrell-bank-cheshire-educational-and-fascinating-site-of-a-radio-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://fiftyfourandcounting.co.uk/wordpress/jodrell-bank-cheshire-educational-and-fascinating-site-of-a-radio-telescope/</a>  
+   Link:<a href="https://fiftyfourandcounting.co.uk/wordpress/jodrell-bank-cheshire-educational-and-fascinating-site-of-a-radio-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://fiftyfourandcounting.co.uk/wordpress/jodrell-bank-cheshire-educational-and-fascinating-site-of-a-radio-telescope/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheshire UFO history sightings UK UFO Sighting UK 2026 #ufo #unidentifyed #flyingobject #inthesky Tallulah Upshall...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheshire UFO history sightings UK UFO Sighting UK 2026 #ufo #unidentifyed #flyingobject #inthesky Tallulah Upshall...</p></details>
    Published: August 2011  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/CAA-Manchester-UFO-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/CAA-Manchester-UFO-report.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/CAA-Manchester-UFO-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/CAA-Manchester-UFO-report.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/cheshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/cheshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/cheshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/cheshire/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: gbmaps.com  
-   Link: <a href="https://www.gbmaps.com/free-county-maps/Cheshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Cheshire.php</a>  
+   Link:<a href="https://www.gbmaps.com/free-county-maps/Cheshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Cheshire.php</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: carlscam.com  
-   Link: <a href="https://www.carlscam.com/boundary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.carlscam.com/boundary.htm</a>  
+   Link:<a href="https://www.carlscam.com/boundary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.carlscam.com/boundary.htm</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cheshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cheshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: hacaneast.org.uk  
-   Link: <a href="https://www.hacaneast.org.uk/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.hacaneast.org.uk/flight-paths</a>  
+   Link:<a href="https://www.hacaneast.org.uk/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.hacaneast.org.uk/flight-paths</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/congletonmemories/posts/1014973890561636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/congletonmemories/posts/1014973890561636/</a>  
+   Link:<a href="https://www.facebook.com/groups/congletonmemories/posts/1014973890561636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/congletonmemories/posts/1014973890561636/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/manchester/comments/1tizznc/manchester_airport_flight_path_change/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/manchester/comments/1tizznc/manchester_airport_flight_path_change/</a>  
+   Link:<a href="https://www.reddit.com/r/manchester/comments/1tizznc/manchester_airport_flight_path_change/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/manchester/comments/1tizznc/manchester_airport_flight_path_change/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h3d8sl/photo_analysis_of_the_manchester_airport_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h3d8sl/photo_analysis_of_the_manchester_airport_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h3d8sl/photo_analysis_of_the_manchester_airport_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h3d8sl/photo_analysis_of_the_manchester_airport_ufo/</a>  

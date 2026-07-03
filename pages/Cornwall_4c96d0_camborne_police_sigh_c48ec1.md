@@ -248,7 +248,7 @@ image: /assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-overview-socia
 
 ## Introduction
 
-The Camborne police sighting of 4 August 1993 is one of [Cornwall]({{ 'what-really-happened-in-cornwalls-ufo/' | relative_url }})’s clearest official UFO entries, but it is also a useful lesson in how little an official entry can prove. The surviving public summary says that a police patrol saw a blue-white, circular light in cloud, with no sound, apparently descending rapidly towards the ground near Camborne. That is enough to make the report stand out from ordinary anonymous sky-light accounts, yet not enough to identify the object, reconstruct the viewing conditions, or show that anything landed. The case matters because it sits in the released Ministry of Defence UFO files for 1993, alongside other police, military and public reports, but it remains a short unresolved sighting rather than a confirmed extraordinary event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The Camborne police sighting of 4 August 1993 is one of [Cornwall]({{ 'what-really-happened-in-cornwalls-ufo/' | relative_url }})’s clearest official UFO entries, but it is also a useful lesson in how little an official entry can prove. The surviving public summary says that a police patrol saw a blue-white, circular light in cloud, with no sound, apparently descending rapidly towards the ground near Camborne. That is enough to make the report stand out from ordinary anonymous sky-light accounts, yet not enough to identify the object, reconstruct the viewing conditions, or show that anything landed. The case matters because it sits in the released Ministry of Defence UFO files for 1993, alongside other police, military and public reports, but it remains a short unresolved sighting rather than a confirmed extraordinary event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-overview.webp" | relative_url }}" alt="Overview image for Camborne" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,9 +256,9 @@ For Cornwall’s UFO history, Camborne is therefore important for evidence disci
 
 ## What the patrol reported
 
-The core account is brief. In the Guardian’s 2009 extraction from the newly released National Archives UFO files, the Camborne entry is listed as a Cornwall sighting dated 4 August 1993. The detail given is: a police patrol saw a bluey-white light or circular shape in cloud, and it descended rapidly towards the ground. The source line points to Ministry of Defence file DEFE 24/1959 and page 213. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The core account is brief. In the Guardian’s 2009 extraction from the newly released National Archives UFO files, the Camborne entry is listed as a Cornwall sighting dated 4 August 1993. The detail given is: a police patrol saw a bluey-white light or circular shape in cloud, and it descended rapidly towards the ground. The source line points to Ministry of Defence file DEFE 24/1959 and page 213.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-A later local summary gives substantially the same version: a police patrol saw a blue-white circular light, the light came through cloud, there was no sound, and it appeared to descend rapidly towards the ground. That repetition is useful because it confirms the main public form of the story, but it does not add a new independent investigation, witness interview, weather record, or technical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cornishbirdblog.com/ufos-in-cornwall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cornishbirdblog.com">[The Cornish Bird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cornishbirdblog.com</span><span class="citation-popover-title">The Cornish Bird UFOs in Cornwall</span><span class="citation-popover-snippet">The Cornish Bird UFOs in Cornwall</span></span></span>
+A later local summary gives substantially the same version: a police patrol saw a blue-white circular light, the light came through cloud, there was no sound, and it appeared to descend rapidly towards the ground. That repetition is useful because it confirms the main public form of the story, but it does not add a new independent investigation, witness interview, weather record, or technical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cornishbirdblog.com/ufos-in-cornwall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cornishbirdblog.com">[The Cornish Bird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cornishbirdblog.com</span><span class="citation-popover-title">The Cornish Bird UFOs in Cornwall</span><span class="citation-popover-snippet">The Cornish Bird UFOs in Cornwall</span></span></span>
 
 The report’s most striking feature is the witness category. “Police patrol” suggests trained observers on duty, probably accustomed to judging ordinary road, aircraft and emergency-light activity. That makes the sighting more interesting than a casual anonymous call. However, it does not make the observation immune from misidentification. Police officers can still see meteors, flares, aircraft lights, reflections, searchlights, fireworks, lightning effects, or lights partly distorted by cloud and perspective.
 
@@ -268,11 +268,11 @@ The wording also matters. The object is not described as a structured craft with
 <img src="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-Illustration-1-dark.svg" | relative_url }}" alt="Camborne illustration 1" data-theme-src-dark="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Camborne stands out in Cornwall’s official UFO record
 
-Camborne matters because it appears in the 1993 MoD sighting-report file rather than only in local folklore. The National Archives notes that, after rising public interest, the Ministry of Defence retained UFO sighting reports, including letters and phone calls from the public and some reports from military sources. The archive also emphasises that many reports were lights rather than visible craft, and that retained files could include possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Camborne matters because it appears in the 1993 MoD sighting-report file rather than only in local folklore. The National Archives notes that, after rising public interest, the Ministry of Defence retained UFO sighting reports, including letters and phone calls from the public and some reports from military sources. The archive also emphasises that many reports were lights rather than visible craft, and that retained files could include possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The August 2009 release covered a large group of files, including sighting-report files for 1993. The National Archives research guide specifically identifies DEFE 24/1959/1 as a 1993 sighting-report file opened in that release, which is the same file reference attached to the Camborne entry in the published extraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">aug 2009 research guide</span></span></span>
+The August 2009 release covered a large group of files, including sighting-report files for 1993. The National Archives research guide specifically identifies DEFE 24/1959/1 as a 1993 sighting-report file opened in that release, which is the same file reference attached to the Camborne entry in the published extraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">aug 2009 research guide</span></span></span>
 
-Within Cornwall, the Camborne report sits beside other official or semi-official entries from the same decade, including a Looe Mills/Liskeard police-sergeant report from 31 March 1993 and a more dramatic St Austell report from 29 October 1993. The Camborne entry is less sensational than the St Austell account, but that is part of its value: it is a sparse police-patrol observation, not a story loaded with contact claims or elaborate narrative detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+Within Cornwall, the Camborne report sits beside other official or semi-official entries from the same decade, including a Looe Mills/Liskeard police-sergeant report from 31 March 1993 and a more dramatic St Austell report from 29 October 1993. The Camborne entry is less sensational than the St Austell account, but that is part of its value: it is a sparse police-patrol observation, not a story loaded with contact claims or elaborate narrative detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 That makes Camborne one of the cleaner Cornish examples for readers trying to understand what an “official UFO file” really means. The file shows that a report was received, recorded and preserved. It does not show that the MoD verified an unknown aircraft, an extraterrestrial object, a landing, or a defence incident.
 
@@ -281,7 +281,7 @@ That makes Camborne one of the cleaner Cornish examples for readers trying to un
 
 ## What the official summary can and cannot prove
 
-The strongest thing the Camborne record can prove is modest but real: on or around 4 August 1993, a report attributed to a police patrol entered the MoD UFO paperwork and was later released through the National Archives process. Because the witness category was police rather than anonymous public caller, the report deserves notice in a county-level UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The strongest thing the Camborne record can prove is modest but real: on or around 4 August 1993, a report attributed to a police patrol entered the MoD UFO paperwork and was later released through the National Archives process. Because the witness category was police rather than anonymous public caller, the report deserves notice in a county-level UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 What it cannot prove is much larger. The surviving public summary does not establish the object’s distance, altitude, speed, size, trajectory, duration, or final position. “Descended rapidly towards the ground” may describe real downward motion, but it may also describe perspective: a meteor appearing to drop behind a horizon, a flare falling, a light passing through broken cloud, or a distant aircraft light seeming to sink as it moves relative to the observer.
 
@@ -307,13 +307,13 @@ This is why the case should be described as unresolved, not confirmed. It has a 
 
 A blue-white light descending rapidly through cloud has several ordinary possibilities. None can be confirmed from the surviving summary, but they show why the case cannot be treated as proof of an exotic craft.
 
-One plausible category is a meteor or fireball. The Camborne report occurred in early August, within the active period of the Perseid meteor shower. The Royal Museums Greenwich guide describes the Perseids as active between mid-July and late August, producing bright meteors and fireballs; NASA likewise notes that Perseids are swift, bright meteors that can leave wakes of light and colour as they streak through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span>
+One plausible category is a meteor or fireball. The Camborne report occurred in early August, within the active period of the Perseid meteor shower. The Royal Museums Greenwich guide describes the Perseids as active between mid-July and late August, producing bright meteors and fireballs; NASA likewise notes that Perseids are swift, bright meteors that can leave wakes of light and colour as they streak through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span>
 
 That does not prove the Camborne patrol saw a Perseid. The report is dated more than a week before the usual peak, and the public summary lacks the time, direction and duration needed to test the match properly. Still, a bright meteor remains a serious candidate because it can appear blue-white, silent and fast, and it can seem to descend into cloud or towards the ground when it is actually burning up high in the atmosphere.
 
 Another possibility is a flare, firework, aircraft light or other human-made light partly obscured by cloud. A flare can descend and glow silently from a distance. Aircraft landing lights can appear nearly stationary or circular when seen head-on, then seem to drop as the aircraft changes angle or passes behind cloud. Fireworks are less likely if the object was seen in cloud and described as a rapid descent, but without time, sound conditions and duration they cannot be ruled out.
 
-Weather-related light effects are also possible but harder to assess. Lightning, cloud illumination, reflections from ground sources, and rare atmospheric phenomena can all create misleading impressions. The difficulty is that the Camborne entry does not include the sort of local meteorological detail needed to separate these explanations. The Met Office has a Camborne weather station with long-running observations, but the public UFO summary itself does not give enough timed information to connect the sighting securely to a particular weather observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambornedata.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Weather-related light effects are also possible but harder to assess. Lightning, cloud illumination, reflections from ground sources, and rare atmospheric phenomena can all create misleading impressions. The difficulty is that the Camborne entry does not include the sort of local meteorological detail needed to separate these explanations. The Met Office has a Camborne weather station with long-running observations, but the public UFO summary itself does not give enough timed information to connect the sighting securely to a particular weather observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambornedata.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 The most important missing evidence would be a full contemporaneous police log, the original MoD report page, any witness statement, the exact time, the patrol location, the direction of view, the estimated duration, weather and cloud details, and whether any other reports came in from the public that night. Without those, the case remains a credible brief report rather than a robust investigation.
 
@@ -326,7 +326,7 @@ Police witnesses are often given special weight in UFO reporting because they ar
 
 But official role and object identification are different things. A police officer can accurately report that a bright blue-white circular light was seen descending in cloud, while still being unable to identify what caused it. The reliability attaches mainly to the fact of the observation, not to the nature of the object.
 
-The wider MoD archive reinforces that caution. The National Archives’ general guide says many UFO reports referred to lights rather than craft, and that retained files often included possible ordinary explanations such as planets, aircraft, balloons and satellites. The Guardian’s 2009 list also shows that police and military witnesses appear in several UK reports, but some large waves later received mundane explanations, including satellite re-entry and advertising airships in other cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The wider MoD archive reinforces that caution. The National Archives’ general guide says many UFO reports referred to lights rather than craft, and that retained files often included possible ordinary explanations such as planets, aircraft, balloons and satellites. The Guardian’s 2009 list also shows that police and military witnesses appear in several UK reports, but some large waves later received mundane explanations, including satellite re-entry and advertising airships in other cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 The strongest comparison is not that Camborne resembles those explained cases in detail, but that the UK files repeatedly show a pattern: credible people can report genuinely puzzling sights, while later checks sometimes reveal ordinary causes or leave the case too thin to decide.
 
@@ -334,11 +334,11 @@ The strongest comparison is not that Camborne resembles those explained cases in
 <img src="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-Illustration-3-dark.svg" | relative_url }}" alt="Camborne illustration 3" data-theme-src-dark="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cornwall_4c96d0_camborne_police_sigh_c48ec1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later reporting affected the case
 
-Later reporting has preserved the Camborne entry rather than strengthened it. The 2009 Guardian datablog brought the case to a broader audience by extracting it from the National Archives release, and local UFO round-ups repeated the key details. Those retellings made the incident more visible, but they did not add decisive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+Later reporting has preserved the Camborne entry rather than strengthened it. The 2009 Guardian datablog brought the case to a broader audience by extracting it from the National Archives release, and local UFO round-ups repeated the key details. Those retellings made the incident more visible, but they did not add decisive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 This distinction matters. A case can become more famous without becoming better evidenced. Camborne’s later life is mostly a matter of rediscovery: researchers and local writers noticed that a Cornish police patrol report existed in the MoD files. What has not emerged, at least in the accessible public record, is a fuller police statement, a named witness interview, a radar report, a meteorological reconstruction, a landing-site investigation, or a corroborating cluster of independent witnesses.
 
-The MoD’s later policy also frames the case. The department stopped recording and investigating UFO sighting reports after 1 December 2009, and the final National Archives release explained that the desk was closed after decades of reports had not shown evidence of a potential threat to the United Kingdom. That does not retrospectively explain Camborne, but it does show how the MoD interpreted the value of continuing to collect brief sightings like it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The MoD’s later policy also frames the case. The department stopped recording and investigating UFO sighting reports after 1 December 2009, and the final National Archives release explained that the desk was closed after decades of reports had not shown evidence of a potential threat to the United Kingdom. That does not retrospectively explain Camborne, but it does show how the MoD interpreted the value of continuing to collect brief sightings like it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 ## What Camborne adds to Cornwall’s UFO history
 
@@ -353,194 +353,194 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Camborne Police UFO Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Camborne Police UFO Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how UFO reports should be evaluated and classified, directly supporting discussion of unresolved sightings such as Camborne.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO reports should be evaluated and classified, directly supporting discussion of unresolved sightings such as Camborne.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official and witness-based UFO cases, matching the article’s emphasis on police observations and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official and witness-based UFO cases, matching the article’s emphasis on police observations and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines unexplained cases and competing interpretations, fitting the article’s treatment of possible explanations and missing evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines unexplained cases and competing interpretations, fitting the article’s treatment of possible explanations and missing evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader historical and comparative context for unusual aerial reports and witness narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader historical and comparative context for unusual aerial reports and witness narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="camborne-why-the-camborne-police-ufo-still-matters-cornwall-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,181 +746,181 @@ The fair assessment is that the Camborne police sighting remains unresolved but 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/perseids/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/perseids/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambornedata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambornedata.txt</a>  
+   Link:<a href="https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambornedata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambornedata.txt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: devon-cornwall.police.uk  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/observations/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/observations/gbujwtyv1</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/observations/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/observations/gbujwtyv1</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gbujwtyv1</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gbujwtyv1</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings/gbujwtyv1</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings/gbujwtyv1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gbujwtyv1</a>  
+   Link:<a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gbujwtyv1" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gbujwtyv1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data</a>  
+   Link:<a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: camborne-tc.gov.uk  
-   Link: <a href="https://camborne-tc.gov.uk/your-council/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://camborne-tc.gov.uk/your-council/about-us/</a>  
+   Link:<a href="https://camborne-tc.gov.uk/your-council/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://camborne-tc.gov.uk/your-council/about-us/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.blog.gov.uk  
    Title: perseids and planets the night sky in august  
-   Link: <a href="https://space.blog.gov.uk/2023/08/07/perseids-and-planets-the-night-sky-in-august/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2023/08/07/perseids-and-planets-the-night-sky-in-august/</a>  
+   Link:<a href="https://space.blog.gov.uk/2023/08/07/perseids-and-planets-the-night-sky-in-august/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2023/08/07/perseids-and-planets-the-night-sky-in-august/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: planning.data.gov.uk  
-   Link: <a href="https://www.planning.data.gov.uk/entity/44004001" target="_blank" rel="noopener noreferrer nofollow">https://www.planning.data.gov.uk/entity/44004001</a>  
+   Link:<a href="https://www.planning.data.gov.uk/entity/44004001" target="_blank" rel="noopener noreferrer nofollow">https://www.planning.data.gov.uk/entity/44004001</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News | theguardian.com  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cornishbirdblog.com  
    Title: The Cornish Bird UFOs in Cornwall  
-   Link: <a href="https://cornishbirdblog.com/ufos-in-cornwall/" target="_blank" rel="noopener noreferrer nofollow">https://cornishbirdblog.com/ufos-in-cornwall/</a>  
+   Link:<a href="https://cornishbirdblog.com/ufos-in-cornwall/" target="_blank" rel="noopener noreferrer nofollow">https://cornishbirdblog.com/ufos-in-cornwall/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rmg.co.uk  
    Title: perseid meteor shower guide uk when where to see  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Camborne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Camborne</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Camborne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Camborne</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CornishNews/photos/if-you-ever-wondered-how-camborne-met-office-predicts-the-weather-they-have-old-/1240827787488200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CornishNews/photos/if-you-ever-wondered-how-camborne-met-office-predicts-the-weather-they-have-old-/1240827787488200/</a>  
+   Link:<a href="https://www.facebook.com/CornishNews/photos/if-you-ever-wondered-how-camborne-met-office-predicts-the-weather-they-have-old-/1240827787488200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CornishNews/photos/if-you-ever-wondered-how-camborne-met-office-predicts-the-weather-they-have-old-/1240827787488200/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: spacecentre.co.uk  
    Title: perseid meteor shower  
-   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/</a>  
+   Link:<a href="https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cambornetowndeal.com  
-   Link: <a href="https://cambornetowndeal.com/about-our-town/" target="_blank" rel="noopener noreferrer nofollow">https://cambornetowndeal.com/about-our-town/</a>  
+   Link:<a href="https://cambornetowndeal.com/about-our-town/" target="_blank" rel="noopener noreferrer nofollow">https://cambornetowndeal.com/about-our-town/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tickettailor.com  
-   Link: <a href="https://www.tickettailor.com/events/universityofbirmingham/2109394" target="_blank" rel="noopener noreferrer nofollow">https://www.tickettailor.com/events/universityofbirmingham/2109394</a>  
+   Link:<a href="https://www.tickettailor.com/events/universityofbirmingham/2109394" target="_blank" rel="noopener noreferrer nofollow">https://www.tickettailor.com/events/universityofbirmingham/2109394</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cornwalltrails.net  
-   Link: <a href="https://cornwalltrails.net/trails/camborne/" target="_blank" rel="noopener noreferrer nofollow">https://cornwalltrails.net/trails/camborne/</a>  
+   Link:<a href="https://cornwalltrails.net/trails/camborne/" target="_blank" rel="noopener noreferrer nofollow">https://cornwalltrails.net/trails/camborne/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cornwallone.co.uk  
-   Link: <a href="https://cornwallone.co.uk/locations/camborne/" target="_blank" rel="noopener noreferrer nofollow">https://cornwallone.co.uk/locations/camborne/</a>  
+   Link:<a href="https://cornwallone.co.uk/locations/camborne/" target="_blank" rel="noopener noreferrer nofollow">https://cornwallone.co.uk/locations/camborne/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/gb/camborne/tr14-8/august-weather/322308" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/gb/camborne/tr14-8/august-weather/322308</a>  
+   Link:<a href="https://www.accuweather.com/en/gb/camborne/tr14-8/august-weather/322308" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/gb/camborne/tr14-8/august-weather/322308</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYiFP_BjGgG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYiFP_BjGgG/</a>  
+   Link:<a href="https://www.instagram.com/p/DYiFP_BjGgG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYiFP_BjGgG/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Kernow.Weather.Team/posts/throw-back-2-yrs-13th-sept-2016while-the-news-is-full-of-hurricane-florence-and-/507867672972380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kernow.Weather.Team/posts/throw-back-2-yrs-13th-sept-2016while-the-news-is-full-of-hurricane-florence-and-/507867672972380/</a>  
+   Link:<a href="https://www.facebook.com/Kernow.Weather.Team/posts/throw-back-2-yrs-13th-sept-2016while-the-news-is-full-of-hurricane-florence-and-/507867672972380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kernow.Weather.Team/posts/throw-back-2-yrs-13th-sept-2016while-the-news-is-full-of-hurricane-florence-and-/507867672972380/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: stithiansweather.co.uk  
-   Link: <a href="https://www.stithiansweather.co.uk/stithians-u-k-severe-weather-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.stithiansweather.co.uk/stithians-u-k-severe-weather-data/</a>  
+   Link:<a href="https://www.stithiansweather.co.uk/stithians-u-k-severe-weather-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.stithiansweather.co.uk/stithians-u-k-severe-weather-data/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/there-have-been-multiple-and-eerily-similar-reports-of-ufo-sightings-in-cornwall/983442773809043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/there-have-been-multiple-and-eerily-similar-reports-of-ufo-sightings-in-cornwall/983442773809043/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/there-have-been-multiple-and-eerily-similar-reports-of-ufo-sightings-in-cornwall/983442773809043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/there-have-been-multiple-and-eerily-similar-reports-of-ufo-sightings-in-cornwall/983442773809043/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: stithiansweather.co.uk  
-   Link: <a href="https://www.stithiansweather.co.uk/useful-external-weather-website-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.stithiansweather.co.uk/useful-external-weather-website-links/</a>  
+   Link:<a href="https://www.stithiansweather.co.uk/useful-external-weather-website-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.stithiansweather.co.uk/useful-external-weather-website-links/</a>  

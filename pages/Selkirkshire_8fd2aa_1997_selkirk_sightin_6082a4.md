@@ -248,7 +248,7 @@ image: /assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-overview-s
 
 ## Introduction
 
-The 1997 Selkirk sighting is the clearest traceable UFO record for historic [Selkirkshire]({{ 'what-really-happened-over-selkirkshire/' | relative_url }}), but it is also a good example of how little an official listing can prove. The Ministry of Defence table for 1997 records that, at 14:25 on 2 February, someone in Selkirk reported a “Mirror like object” that “was flickering”. That is the full public entry: no witness name, no direction, no duration, no photograph, no radar note and no conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The 1997 Selkirk sighting is the clearest traceable UFO record for historic [Selkirkshire]({{ 'what-really-happened-over-selkirkshire/' | relative_url }}), but it is also a good example of how little an official listing can prove. The Ministry of Defence table for 1997 records that, at 14:25 on 2 February, someone in Selkirk reported a “Mirror like object” that “was flickering”. That is the full public entry: no witness name, no direction, no duration, no photograph, no radar note and no conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-overview.webp" | relative_url }}" alt="Overview image for 1997 Sighting" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ Its value is therefore modest but real. It shows that Selkirkshire entered the U
 
 ## What the MOD entry says
 
-The GOV.UK page for the released UK UFO reports describes the series as “Unidentified Flying Object (UFO) reports 1997 to 2009” and says the documents show “dates and times, location and a brief description of the sighting”. The 1997 PDF fits that description exactly: it is a tabulated national list rather than a case file with witness statements, maps or technical analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The GOV.UK page for the released UK UFO reports describes the series as “Unidentified Flying Object (UFO) reports 1997 to 2009” and says the documents show “dates and times, location and a brief description of the sighting”. The 1997 PDF fits that description exactly: it is a tabulated national list rather than a case file with witness statements, maps or technical analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The Selkirk line appears on the first page of the 1997 table. It gives five basic fields: date, time, town or village, county and brief description. For this case they are:
 
@@ -267,13 +267,13 @@ The Selkirk line appears on the first page of the 1997 table. It gives five basi
 * **Time:** 14:25
 * **Place:** Selkirk
 * **County:** Selkirkshire
-* **Description:** “Mirror like object. It was flickering.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+* **Description:** “Mirror like object. It was flickering.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 </div>
 
 That wording matters. The MOD did not publish the entry as a solved case, but neither did it publish it as a high-significance defence incident. It sits among many short public reports from across the UK, including descriptions that sound like lights, meteors, aircraft, balloons, vapour trails and ambiguous moving objects. The table format is useful for confirming that a report was logged; it is much weaker for deciding what the witness actually saw.
 
-Selkirk’s county label also needs a little care. In this project the sighting is treated under **historic Selkirkshire**, not simply under the modern Scottish Borders council area. The town of Selkirk is listed as being in historic Selkirkshire, while modern gazetteer data places it within the Scottish Borders council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Selkirk%2C_Selkirkshire_39721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Selkirk, Selkirkshire 39721</span><span class="citation-popover-snippet">Selkirk, Selkirkshire 39721</span></span></span> That difference does not change the sighting itself, but it does affect how researchers search for it: “Selkirkshire”, “Selkirk” and “Scottish Borders” may lead to different records.
+Selkirk’s county label also needs a little care. In this project the sighting is treated under **historic Selkirkshire**, not simply under the modern Scottish Borders council area. The town of Selkirk is listed as being in historic Selkirkshire, while modern gazetteer data places it within the Scottish Borders council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Selkirk%2C_Selkirkshire_39721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Selkirk, Selkirkshire 39721</span><span class="citation-popover-snippet">Selkirk, Selkirkshire 39721</span></span></span> That difference does not change the sighting itself, but it does affect how researchers search for it: “Selkirkshire”, “Selkirk” and “Scottish Borders” may lead to different records.
 
 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-Illustration-1-dark.svg" | relative_url }}" alt="1997 Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -281,7 +281,7 @@ Selkirk’s county label also needs a little care. In this project the sighting 
 
 The Selkirk report was made at 14:25, so it was an afternoon daylight sighting rather than a night-time report of coloured lights. That narrows the first round of ordinary possibilities. A “mirror like” object seen in daylight suggests reflected sunlight, and “flickering” can happen when a reflective surface rotates, tumbles, passes behind thin cloud, or is seen through unstable air.
 
-That does not identify the object. It does, however, make some [explanations]({{ 'explanations-eb120e/' | relative_url }}) more plausible than others. A high aircraft catching the Sun, a reflective balloon, drifting foil material, a kite or a bright atmospheric optical effect could all appear strange if the witness lacked a clear scale, distance or direction. BBC Sky at Night’s guide to common UFO misidentifications notes that sunlight glinting off an aircraft can make a bright core appear in the sky, while the Met Office explains that atmospheric optical effects can be produced when sunlight interacts with ice crystals in high cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+That does not identify the object. It does, however, make some [explanations]({{ 'explanations-eb120e/' | relative_url }}) more plausible than others. A high aircraft catching the Sun, a reflective balloon, drifting foil material, a kite or a bright atmospheric optical effect could all appear strange if the witness lacked a clear scale, distance or direction. BBC Sky at Night’s guide to common UFO misidentifications notes that sunlight glinting off an aircraft can make a bright core appear in the sky, while the Met Office explains that atmospheric optical effects can be produced when sunlight interacts with ice crystals in high cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
 The word “flickering” is especially important because it describes appearance, not behaviour. It does not tell us whether the object changed speed, hovered, made a sound, passed behind a fixed landmark, or disappeared suddenly. Without those details, the case cannot be tested against aircraft movements, weather conditions, balloon launches or astronomical data in a meaningful way.
 
@@ -303,13 +303,13 @@ The missing details include:
 * **Object behaviour:** no direction of travel, speed, altitude estimate, duration or angular size.
 * **Environmental context:** no cloud conditions, Sun position, visibility or local weather note.
 * **Corroboration:** no photograph, video, radar return, police log, air traffic note or second independent report.
-* **Investigation outcome:** no published MOD assessment saying whether aircraft, balloon, meteorological effect or another cause was considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+* **Investigation outcome:** no published MOD assessment saying whether aircraft, balloon, meteorological effect or another cause was considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 </div>
 
 Those absences do not mean the witness was wrong. They mean the case cannot carry much interpretive weight. A single brief line can preserve a report, but it cannot reconstruct the sky over Selkirk with enough precision to separate unusual appearance from unusual origin.
 
-The wider MOD release context reinforces that caution. The National Archives describes decades of Ministry of Defence UFO records as surviving public-interest material rather than a set of confirmed extraordinary events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> GOV.UK’s own description of the 1997–2009 reports is deliberately narrow: dates, times, locations and brief descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> For Selkirk, that is all the public record gives.
+The wider MOD release context reinforces that caution. The National Archives describes decades of Ministry of Defence UFO records as surviving public-interest material rather than a set of confirmed extraordinary events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> GOV.UK’s own description of the 1997–2009 reports is deliberately narrow: dates, times, locations and brief descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> For Selkirk, that is all the public record gives.
 
 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-Illustration-2-dark.svg" | relative_url }}" alt="1997 Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,7 +317,7 @@ The wider MOD release context reinforces that caution. The National Archives des
 
 For Selkirkshire, the 1997 sighting matters because the county’s public UFO footprint is sparse. There is no well-known Selkirkshire equivalent of a major British case such as Rendlesham Forest, no obvious local “flap” in the MOD table, and no published evidence of a military scramble or radar-confirmed incident attached to this report. The Selkirk entry is therefore important less as a spectacular event and more as a traceable anchor: a dated, located, official record for the county.
 
-The surrounding entries in the same 1997 table show how routine and varied the national reporting stream was. On the same page, reports include orange objects, cigar shapes, triangular objects, oval objects, vapour-trail-like objects and bright lights. Some entries are plainly vague; others contain details that would invite obvious ordinary checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> Selkirk’s “mirror like” description belongs to that mixed reporting environment.
+The surrounding entries in the same 1997 table show how routine and varied the national reporting stream was. On the same page, reports include orange objects, cigar shapes, triangular objects, oval objects, vapour-trail-like objects and bright lights. Some entries are plainly vague; others contain details that would invite obvious ordinary checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> Selkirk’s “mirror like” description belongs to that mixed reporting environment.
 
 This is why the case should not be overstated. It is not evidence that Selkirkshire was a UFO hotspot. It is evidence that at least one person reported an unidentified daylight object over Selkirk and that the MOD logged it. In a county-level UFO history, that distinction is the main point.
 
@@ -326,9 +326,9 @@ This is why the case should not be overstated. It is not evidence that Selkirksh
 
 ## Later reporting has not strengthened the claim
 
-The public evidence available for the Selkirk sighting has not noticeably grown beyond the MOD table. Searches for the exact wording point back to the 1997 MOD PDF rather than to a richer local newspaper account, witness interview, photograph or follow-up investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> That does not prove no such material ever existed, but it means the strongest readily verifiable source remains the official listing.
+The public evidence available for the Selkirk sighting has not noticeably grown beyond the MOD table. Searches for the exact wording point back to the 1997 MOD PDF rather than to a richer local newspaper account, witness interview, photograph or follow-up investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> That does not prove no such material ever existed, but it means the strongest readily verifiable source remains the official listing.
 
-The MOD’s later policy also affects how readers should understand the record. In the 2009 UFO report file, the department noted that from 1 December 2009 its policy changed and UFO sighting reports were no longer recorded or investigated by the MOD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ release material also describes the closure of the UFO desk and the final tranches of files, placing these public reports within an ended administrative system rather than an ongoing investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MOD’s later policy also affects how readers should understand the record. In the 2009 UFO report file, the department noted that from 1 December 2009 its policy changed and UFO sighting reports were no longer recorded or investigated by the MOD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ release material also describes the closure of the UFO desk and the final tranches of files, placing these public reports within an ended administrative system rather than an ongoing investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 So the Selkirk case has not been debunked in the strong sense of being tied to a named aircraft, balloon or optical effect. But it has also not been strengthened. No later public evidence appears to add witnesses, images, radar data or a firm investigative conclusion. Its status remains: officially recorded, locally relevant, unresolved, and evidentially weak.
 
@@ -345,194 +345,194 @@ The most responsible interpretation is open but restrained. The object was unide
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Mirror Like Object Over Selkirk. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Mirror Like Object Over Selkirk. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Closest match to a brief MoD-listed sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest match to a brief MoD-listed sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains how official sighting records should be interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official sighting records should be interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating witness reports and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating witness reports and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ideal for assessing a sparse daylight sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for assessing a sparse daylight sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic"><img src="{{ '/assets/images/marketplace-covers/ca308bcf48209a8333c2.jpg' | relative_url }}" alt="Listing image for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic"><img src="{{ '/assets/images/marketplace-covers/ca308bcf48209a8333c2.jpg' | relative_url }}" alt="Listing image for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme"><img src="{{ '/assets/images/marketplace-covers/c58daf32721fbcbb367c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme"><img src="{{ '/assets/images/marketplace-covers/c58daf32721fbcbb367c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Grey Plastic Figurine Model on Round Base Sci-Fi Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure"><img src="{{ '/assets/images/marketplace-covers/b669e450c72d78b9db3e.jpg' | relative_url }}" alt="Listing image for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure"><img src="{{ '/assets/images/marketplace-covers/b669e450c72d78b9db3e.jpg' | relative_url }}" alt="Listing image for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK"><img src="{{ '/assets/images/marketplace-covers/ab97acbd4f4d26ddecd1.jpg' | relative_url }}" alt="Listing image for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK"><img src="{{ '/assets/images/marketplace-covers/ab97acbd4f4d26ddecd1.jpg' | relative_url }}" alt="Listing image for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="1997-sighting-91cd38-the-mirror-like-object-over-selkirk-selkirkshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ The most responsible interpretation is open but restrained. The object was unide
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ The most responsible interpretation is open but restrained. The object was unide
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ The most responsible interpretation is open but restrained. The object was unide
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ The most responsible interpretation is open but restrained. The object was unide
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ The most responsible interpretation is open but restrained. The object was unide
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,155 +738,155 @@ The most responsible interpretation is open but restrained. The object was unide
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hko.gov.hk  
    Title: 00353 indepth anatomy of the atmospheric optical phenomenon sun dog  
-   Link: <a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
+   Link:<a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/selkirk-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/selkirk-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/selkirk-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/selkirk-county</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Aircraft Incidents  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gazetteer.org.uk  
    Title: Selkirk, Selkirkshire 39721  
-   Link: <a href="https://gazetteer.org.uk/place/Selkirk%2C_Selkirkshire_39721" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Selkirk%2C_Selkirkshire_39721</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Selkirk%2C_Selkirkshire_39721" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Selkirk%2C_Selkirkshire_39721</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirkshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirkshire</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Atmospheric optics  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_optics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_optics</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selkirkshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selkirkshire</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gazetteer.org.uk  
    Title: ABC Fact Sheet Historic Counties  
-   Link: <a href="https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf</a>  
+   Link:<a href="https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Pentagon releases declassified UFO files detailing more than 400 incidents  
-   Link: <a href="http://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGYEQlBvJIc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files explained Dr David Clarke The Nick Margerrison Podcast - Dr. David Clarke On UFOs MW MEdia...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGYEQlBvJIc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files explained Dr David Clarke The Nick Margerrison Podcast - Dr. David Clarke On UFOs MW MEdia...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt  
-   Link: <a href="http://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Nick Margerrison Podcast  
-   Link: <a href="http://www.youtube.com/watch?v=NvkpeLyBJBw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NvkpeLyBJBw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=NvkpeLyBJBw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NvkpeLyBJBw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Ross Coulthart investigates UK's UFO Phenomenon  
-   Link: <a href="http://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_I-xlxV2OsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nick Margerrison Podcast - Dr. David Clarke On UFOs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_I-xlxV2OsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Nick Margerrison Podcast - Dr. David Clarke On UFOs...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2036493013455008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2036493013455008/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2036493013455008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2036493013455008/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/aircraft/operations/types-of-operation/balloon-events-and-activities/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/aircraft/operations/types-of-operation/balloon-events-and-activities/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/aircraft/operations/types-of-operation/balloon-events-and-activities/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/aircraft/operations/types-of-operation/balloon-events-and-activities/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: stratoflights.com  
-   Link: <a href="https://www.stratoflights.com/caa-permission-unmanned-free-balloon-weather-balloon-united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratoflights.com/caa-permission-unmanned-free-balloon-weather-balloon-united-kingdom/</a>  
+   Link:<a href="https://www.stratoflights.com/caa-permission-unmanned-free-balloon-weather-balloon-united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratoflights.com/caa-permission-unmanned-free-balloon-weather-balloon-united-kingdom/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100088539433942/posts/climbing-the-wallace-monument-for-that-swordwhat-you-see-here-is-the-sword-tradi/939988338962472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100088539433942/posts/climbing-the-wallace-monument-for-that-swordwhat-you-see-here-is-the-sword-tradi/939988338962472/</a>  
+   Link:<a href="https://www.facebook.com/100088539433942/posts/climbing-the-wallace-monument-for-that-swordwhat-you-see-here-is-the-sword-tradi/939988338962472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100088539433942/posts/climbing-the-wallace-monument-for-that-swordwhat-you-see-here-is-the-sword-tradi/939988338962472/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.435506&amp;longitude=-3.118816&amp;map_location=TD7+5HU+TD75HU+in+SELKIRK&amp;os_series=7&amp;postcode=TD7+5HU&amp;pwd=&amp;search_location=TD7+5HU%2C+TD75HU+in+SELKIRK%2C+Scottish+Borders%2C+Selkirkshire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.435506&amp;longitude=-3.118816&amp;map_location=TD7+5HU+TD75HU+in+SELKIRK&amp;os_series=7&amp;postcode=TD7+5HU&amp;pwd=&amp;search_location=TD7+5HU%2C+TD75HU+in+SELKIRK%2C+Scottish+Borders%2C+Selkirkshire%2C+Scotland</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.435506&amp;longitude=-3.118816&amp;map_location=TD7+5HU+TD75HU+in+SELKIRK&amp;os_series=7&amp;postcode=TD7+5HU&amp;pwd=&amp;search_location=TD7+5HU%2C+TD75HU+in+SELKIRK%2C+Scottish+Borders%2C+Selkirkshire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.435506&amp;longitude=-3.118816&amp;map_location=TD7+5HU+TD75HU+in+SELKIRK&amp;os_series=7&amp;postcode=TD7+5HU&amp;pwd=&amp;search_location=TD7+5HU%2C+TD75HU+in+SELKIRK%2C+Scottish+Borders%2C+Selkirkshire%2C+Scotland</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nutritionmodels.com  
-   Link: <a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
+   Link:<a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  

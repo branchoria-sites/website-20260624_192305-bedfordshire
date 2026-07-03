@@ -248,7 +248,7 @@ image: /assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-overview-
 
 ## Introduction
 
-Cardigan Bay’s modern UFO reports matter less as proof of alien craft than as examples of how sightings spread today: a coastal horizon, a phone photograph, a vivid witness account and a local-news headline can quickly turn an ambiguous object into a public UFO story. The best-known recent [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }}) examples are the July 2022 “dark shape” photographed near Llanrhystud, and the Aeron Valley bright-light reports associated with Helena Worth from Ciliau Aeron. Both sit inside historic Cardiganshire, now broadly Ceredigion, whose western edge faces Cardigan Bay and whose coastline includes places such as Aberporth, Aberaeron, New Quay and Aberystwyth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Cardigan Bay’s modern UFO reports matter less as proof of alien craft than as examples of how sightings spread today: a coastal horizon, a phone photograph, a vivid witness account and a local-news headline can quickly turn an ambiguous object into a public UFO story. The best-known recent [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }}) examples are the July 2022 “dark shape” photographed near Llanrhystud, and the Aeron Valley bright-light reports associated with Helena Worth from Ciliau Aeron. Both sit inside historic Cardiganshire, now broadly Ceredigion, whose western edge faces Cardigan Bay and whose coastline includes places such as Aberporth, Aberaeron, New Quay and Aberystwyth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-overview.webp" | relative_url }}" alt="Overview image for Modern Reports" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,7 +259,7 @@ The useful question is not simply “was it a UFO?” In the strict sense, an ob
 
 ## The 2022 dark shape over the bay
 
-The clearest modern Cardigan Bay case in local press is the report published by the Cambrian News on 11 July 2022. It described Katie Moore, aged 29, and four friends walking around Morfa Farm caravan park at Llanrhystud on the evening of Saturday 9 July. At about 10.40pm, while looking at the sunset sky and the view over the sea, the group saw a dark shape appear. Moore said she tried to zoom in with her phone and take a picture, but the object disappeared as she did so, then briefly reappeared before vanishing again. The report emphasised that the object had no lights and was dark against the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/mystery-as-ufo-spotted-over-cardigan-bay-554544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-title">Cambrian News Mystery as ‘UFO’ spotted over Cardigan Bay &#124; cambrian-news.co.uk</span><span class="citation-popover-snippet">Cambrian News Mystery as ‘UFO’ spotted over Cardigan Bay &#124; cambrian-news.co.uk</span></span></span>
+The clearest modern Cardigan Bay case in local press is the report published by the Cambrian News on 11 July 2022. It described Katie Moore, aged 29, and four friends walking around Morfa Farm caravan park at Llanrhystud on the evening of Saturday 9 July. At about 10.40pm, while looking at the sunset sky and the view over the sea, the group saw a dark shape appear. Moore said she tried to zoom in with her phone and take a picture, but the object disappeared as she did so, then briefly reappeared before vanishing again. The report emphasised that the object had no lights and was dark against the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/mystery-as-ufo-spotted-over-cardigan-bay-554544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-title">Cambrian News Mystery as ‘UFO’ spotted over Cardigan Bay &#124; cambrian-news.co.uk</span><span class="citation-popover-snippet">Cambrian News Mystery as ‘UFO’ spotted over Cardigan Bay &#124; cambrian-news.co.uk</span></span></span>
 
 That makes the report interesting but also limited. It has several features that make a sighting memorable: five witnesses, a clear place, a time, a photograph and a striking coastal backdrop. It also has several features that make firm identification difficult: short duration, twilight conditions, no reported sound, no distance estimate, no apparent structured investigation, and no public technical analysis of the phone image. The object was described as “dark” rather than luminous, which removes some common night-light explanations but opens others: a bird or group of birds seen in silhouette, a drone seen without visible navigation lights, a kite, a small aircraft at an awkward angle, a balloon, a nearby object misjudged against a distant sea horizon, or an artefact of a zoomed phone image.
 
@@ -271,13 +271,13 @@ This sighting is therefore best treated as an unresolved local report rather tha
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Aeron Valley bright-light account
 
-The Aeron Valley reports are different in character. They are less about one photograph and more about repeated testimony from a named witness who already had a long-standing interest in UFOs. In May 2023, the Cambrian News profiled Helena Worth of Ciliau Aeron, describing her as a lifelong resident who said she had seen UFOs twice over the Aeron Valley. Her main account concerned 11 December 2018, at about 6am, when she noticed a very bright white-yellow light on the other side of the valley, roughly three-quarters of a mile away. She first wondered whether a house was on fire, then saw the light move slowly west in a straight line, stop above houses, move back east, appear to drip like molten material, turn red and disappear behind trees. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-snippet">Open source on cambrian-news.co.uk.</span></span></span>
+The Aeron Valley reports are different in character. They are less about one photograph and more about repeated testimony from a named witness who already had a long-standing interest in UFOs. In May 2023, the Cambrian News profiled Helena Worth of Ciliau Aeron, describing her as a lifelong resident who said she had seen UFOs twice over the Aeron Valley. Her main account concerned 11 December 2018, at about 6am, when she noticed a very bright white-yellow light on the other side of the valley, roughly three-quarters of a mile away. She first wondered whether a house was on fire, then saw the light move slowly west in a straight line, stop above houses, move back east, appear to drip like molten material, turn red and disappear behind trees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-snippet">Open source on cambrian-news.co.uk.</span></span></span>
 
 This is a vivid witness statement, but vividness is not the same as verification. The account has useful specifics — date, time, location, direction, apparent colour changes and movement — yet it appears to lack independent timestamped photographs, video, radar data, police logs, fire service confirmation, aviation records or other witnesses cited in the published report. It is also filtered through a witness who openly identifies with UFO study and belief. That does not make the account false; it does mean the reader should separate the observation from the interpretation.
 
 The strongest pro-UFO element in the Aeron Valley story is the described behaviour: a bright object that seemed to hover, move slowly, reverse direction, change colour and shed light or material. The strongest sceptical point is that each of those impressions can be difficult to judge in darkness, especially across a valley with houses, trees, slopes and weather between the observer and the horizon. A bright light seen through mist, cloud, smoke, intervening branches or moving air can appear to pulse, drip, redden or move. A distant aircraft, drone, vehicle light on a hillside, flare, lantern or astronomical object may also look stranger than expected if the witness cannot accurately judge distance and angle.
 
-The later 2024 follow-up article shows how a personal account can become a local micro-community story. Worth said speaking publicly encouraged others to discuss sightings; she mentioned links with Swansea UFO Network and Monmouthshire UFO Group, and reported further lights, including an orange “ball of plasma” during a high-altitude lightning storm over Aberaeron on 10 September and another UAP sighting on 29 February. The same article reported that she interpreted the Aeron Valley as a possible hotspot and suggested UFOs might be avoiding radar or drawn to water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/ufo-logist-sees-new-lights-on-horizon-unites-sky-gazing-community-by-speaking-out-688242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-title">Cambrian News UFO-logist sees new lights on horizon</span><span class="citation-popover-snippet">Cambrian News UFO-logist sees new lights on horizon</span></span></span>
+The later 2024 follow-up article shows how a personal account can become a local micro-community story. Worth said speaking publicly encouraged others to discuss sightings; she mentioned links with Swansea UFO Network and Monmouthshire UFO Group, and reported further lights, including an orange “ball of plasma” during a high-altitude lightning storm over Aberaeron on 10 September and another UAP sighting on 29 February. The same article reported that she interpreted the Aeron Valley as a possible hotspot and suggested UFOs might be avoiding radar or drawn to water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/ufo-logist-sees-new-lights-on-horizon-unites-sky-gazing-community-by-speaking-out-688242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-title">Cambrian News UFO-logist sees new lights on horizon</span><span class="citation-popover-snippet">Cambrian News UFO-logist sees new lights on horizon</span></span></span>
 
 Those later reports add cultural weight, not conclusive evidence. They show that the original witness became more active, more connected to UFO groups and more confident in an extraordinary interpretation. They do not, on the public record, provide the kind of independent corroboration that would move the claims from “reported unexplained lights” to “well-evidenced unknown craft”.
 
@@ -286,13 +286,13 @@ Those later reports add cultural weight, not conclusive evidence. They show that
 
 ## Why Cardigan Bay is a good place for misread skies
 
-Cardigan Bay is not just a scenic background. It is a real aviation and military-testing landscape, especially around Aberporth. QinetiQ’s MOD Aberporth information states that a military testing range was first established in Cardigan Bay during the Second World War and that the range now provides a secure safety area for testing air-launched weapons and unmanned aerial systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-title">Qineti QQineti Q</span><span class="citation-popover-snippet">Qineti QQineti Q</span></span></span> Its mariners’ guidance describes the Cardigan Bay Danger Area as covering a large part of the bay, with daily activities that can include low-flying aircraft, missile evaluation, laser firing and bombing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-title">Qineti QQineti Q</span><span class="citation-popover-snippet">Qineti QQineti Q</span></span></span>
+Cardigan Bay is not just a scenic background. It is a real aviation and military-testing landscape, especially around Aberporth. QinetiQ’s MOD Aberporth information states that a military testing range was first established in Cardigan Bay during the Second World War and that the range now provides a secure safety area for testing air-launched weapons and unmanned aerial systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-title">Qineti QQineti Q</span><span class="citation-popover-snippet">Qineti QQineti Q</span></span></span> Its mariners’ guidance describes the Cardigan Bay Danger Area as covering a large part of the bay, with daily activities that can include low-flying aircraft, missile evaluation, laser firing and bombing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-title">Qineti QQineti Q</span><span class="citation-popover-snippet">Qineti QQineti Q</span></span></span>
 
 That does not explain every sighting. The 2022 Llanrhystud dark-shape report, for example, was not publicly tied to range activity. Nor should every odd light over Ceredigion be lazily attributed to “the military”. But the range is an important local reality. In a county-level UFO history, it changes the first questions investigators should ask. Was the object over the sea or inland? Was it near [Aberporth range]({{ 'aberporth-range/' | relative_url }}) airspace? Were range notices active? Did mariners or pilots receive warnings? Was there low-flying traffic, a drone test, a flare, a laser activity, or a training exercise that could produce an unfamiliar light or silhouette?
 
-There is also a broader UK reporting pattern. The Ministry of Defence’s 2009 UFO report list includes a Cardigan, Cardiganshire entry from 6 January 2009: “Five rather big orange things flew over the witness. He was terrified.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ final UFO-file release explains that the MoD received more than 600 UFO sightings in 2009, three times the previous year, and that many slow-moving orange-light reports resembled Chinese lanterns even when witnesses did not recognise them at the time. The same release records the MoD’s position that no sighting reported over more than 50 years had revealed evidence of an extraterrestrial presence or military threat to the UK, leading to closure of the UFO desk and hotline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+There is also a broader UK reporting pattern. The Ministry of Defence’s 2009 UFO report list includes a Cardigan, Cardiganshire entry from 6 January 2009: “Five rather big orange things flew over the witness. He was terrified.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ final UFO-file release explains that the MoD received more than 600 UFO sightings in 2009, three times the previous year, and that many slow-moving orange-light reports resembled Chinese lanterns even when witnesses did not recognise them at the time. The same release records the MoD’s position that no sighting reported over more than 50 years had revealed evidence of an extraterrestrial presence or military threat to the UK, leading to closure of the UFO desk and hotline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That older official context matters for modern Cardigan Bay reports because it shows how witness sincerity, public attention and ordinary aerial objects can combine. The Civil Aviation Authority still treats fireworks, lasers and sky lantern releases as aviation-relevant events because they can distract or endanger aircraft and may need to be notified to pilots and air traffic control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> A witness who sees an unexpected light moving silently over a dark rural coast may be accurately reporting what they saw, while still misidentifying its cause.
+That older official context matters for modern Cardigan Bay reports because it shows how witness sincerity, public attention and ordinary aerial objects can combine. The Civil Aviation Authority still treats fireworks, lasers and sky lantern releases as aviation-relevant events because they can distract or endanger aircraft and may need to be notified to pilots and air traffic control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> A witness who sees an unexpected light moving silently over a dark rural coast may be accurately reporting what they saw, while still misidentifying its cause.
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-2-dark.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,194 +332,194 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-3-dark.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_cardigan_bay_reports_15b2c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Cardigan Bay Sightings Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Cardigan Bay Sightings Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for evaluating witness observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for evaluating witness observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows what stronger documented cases look like.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows what stronger documented cases look like.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Relevant to assessing modern reports and media coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing modern reports and media coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on photographs, testimony and evidence checking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on photographs, testimony and evidence checking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="{{ '/assets/images/marketplace-covers/a76742dd9550773171fe.jpg' | relative_url }}" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="{{ '/assets/images/marketplace-covers/a76742dd9550773171fe.jpg' | relative_url }}" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="{{ '/assets/images/marketplace-covers/94043c86e0a54a515192.jpg' | relative_url }}" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="{{ '/assets/images/marketplace-covers/94043c86e0a54a515192.jpg' | relative_url }}" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="{{ '/assets/images/marketplace-covers/fbc9899233bda9908d98.jpg' | relative_url }}" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="{{ '/assets/images/marketplace-covers/fbc9899233bda9908d98.jpg' | relative_url }}" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="modern-reports-why-do-cardigan-bay-sightings-spread-cardiganshire-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,176 +725,176 @@ Within Cardiganshire’s UFO history, the modern Cardigan Bay reports are theref
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ceredigion.gov.uk  
-   Link: <a href="https://www.ceredigion.gov.uk/resident/tourism-leisure/ceredigion-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.ceredigion.gov.uk/resident/tourism-leisure/ceredigion-archives/</a>  
+   Link:<a href="https://www.ceredigion.gov.uk/resident/tourism-leisure/ceredigion-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.ceredigion.gov.uk/resident/tourism-leisure/ceredigion-archives/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: qinetiq.com  
    Title: Qineti QQineti Q  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: qinetiq.com  
    Title: Qineti QQineti Q  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rcahmw.gov.uk  
    Title: cardiganshire county history launched  
-   Link: <a href="https://rcahmw.gov.uk/cardiganshire-county-history-launched/" target="_blank" rel="noopener noreferrer nofollow">https://rcahmw.gov.uk/cardiganshire-county-history-launched/</a>  
+   Link:<a href="https://rcahmw.gov.uk/cardiganshire-county-history-launched/" target="_blank" rel="noopener noreferrer nofollow">https://rcahmw.gov.uk/cardiganshire-county-history-launched/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cardiganshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cardiganshire</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cambrian-news.co.uk  
    Title: Cambrian News Mystery as ‘UFO’ spotted over Cardigan Bay | cambrian-news.co.uk  
-   Link: <a href="https://www.cambrian-news.co.uk/news/mystery-as-ufo-spotted-over-cardigan-bay-554544" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/mystery-as-ufo-spotted-over-cardigan-bay-554544</a>  
+   Link:<a href="https://www.cambrian-news.co.uk/news/mystery-as-ufo-spotted-over-cardigan-bay-554544" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/mystery-as-ufo-spotted-over-cardigan-bay-554544</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambrian-news.co.uk  
-   Link: <a href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887</a>  
+   Link:<a href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambrian-news.co.uk  
    Title: Cambrian News UFO-logist sees new lights on horizon  
-   Link: <a href="https://www.cambrian-news.co.uk/news/ufo-logist-sees-new-lights-on-horizon-unites-sky-gazing-community-by-speaking-out-688242" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/ufo-logist-sees-new-lights-on-horizon-unites-sky-gazing-community-by-speaking-out-688242</a>  
+   Link:<a href="https://www.cambrian-news.co.uk/news/ufo-logist-sees-new-lights-on-horizon-unites-sky-gazing-community-by-speaking-out-688242" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/ufo-logist-sees-new-lights-on-horizon-unites-sky-gazing-community-by-speaking-out-688242</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cardiganshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cardiganshire</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://www.wikishire.co.uk/wiki/Cardigan" target="_blank" rel="noopener noreferrer nofollow">https://www.wikishire.co.uk/wiki/Cardigan</a>  
+   Link:<a href="https://www.wikishire.co.uk/wiki/Cardigan" target="_blank" rel="noopener noreferrer nofollow">https://www.wikishire.co.uk/wiki/Cardigan</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Aberystwyth" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aberystwyth</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Aberystwyth" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aberystwyth</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/492804727541355/posts/2735696253252180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/492804727541355/posts/2735696253252180/</a>  
+   Link:<a href="https://www.facebook.com/groups/492804727541355/posts/2735696253252180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/492804727541355/posts/2735696253252180/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: Qineti Q  
-   Link: <a href="https://www.facebook.com/qinetiqgroup/photos/photooftheweek-mod-aberporth-mod-aberporth-is-a-military-testing-range-that-was-/629004840482271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/qinetiqgroup/photos/photooftheweek-mod-aberporth-mod-aberporth-is-a-military-testing-range-that-was-/629004840482271/</a>  
+   Link:<a href="https://www.facebook.com/qinetiqgroup/photos/photooftheweek-mod-aberporth-mod-aberporth-is-a-military-testing-range-that-was-/629004840482271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/qinetiqgroup/photos/photooftheweek-mod-aberporth-mod-aberporth-is-a-military-testing-range-that-was-/629004840482271/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/418418364871784/posts/8934997986547070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418418364871784/posts/8934997986547070/</a>  
+   Link:<a href="https://www.facebook.com/groups/418418364871784/posts/8934997986547070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418418364871784/posts/8934997986547070/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: caa.co.uk  
    Title: CA P 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: caa.co.uk  
    Title: Outdoor laser lights and fireworks  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thatjamesdavies.com  
    Title: Cambrian News  
-   Link: <a href="https://www.thatjamesdavies.com/cambrian-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.thatjamesdavies.com/cambrian-news/</a>  
+   Link:<a href="https://www.thatjamesdavies.com/cambrian-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.thatjamesdavies.com/cambrian-news/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ceredigion</a>  
+   Link:<a href="https://www.britannica.com/place/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ceredigion</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: discoverceredigion.wales  
-   Link: <a href="https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/</a>  
+   Link:<a href="https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ceredigion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ceredigion</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: milfordmarina.com  
    Title: Cardigan Bay Danger Area  
-   Link: <a href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/</a>  
+   Link:<a href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nation.cymru  
    Title: bbc announces second series of paranormal exploring ufo sightings  
-   Link: <a href="https://nation.cymru/culture/bbc-announces-second-series-of-paranormal-exploring-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nation.cymru/culture/bbc-announces-second-series-of-paranormal-exploring-ufo-sightings/</a>  
+   Link:<a href="https://nation.cymru/culture/bbc-announces-second-series-of-paranormal-exploring-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nation.cymru/culture/bbc-announces-second-series-of-paranormal-exploring-ufo-sightings/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Swansea UFO Network Presents  
-   Link: <a href="https://www.youtube.com/watch?v=Y1cGtckz0xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y1cGtckz0xw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cardigan Bay Wales sightings witness Leaked footage of a UFO seen rising from the ocean during a navy operation! Breaking news...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y1cGtckz0xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y1cGtckz0xw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cardigan Bay Wales sightings witness Leaked footage of a UFO seen rising from the ocean during a navy operation! Breaking news...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ourbestmidjourneyimages/posts/1557375182662238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ourbestmidjourneyimages/posts/1557375182662238/</a>  
+   Link:<a href="https://www.facebook.com/groups/ourbestmidjourneyimages/posts/1557375182662238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ourbestmidjourneyimages/posts/1557375182662238/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226354066_Astronomy_of_Nabta_Playa" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226354066_Astronomy_of_Nabta_Playa</a>  
+   Link:<a href="https://www.researchgate.net/publication/226354066_Astronomy_of_Nabta_Playa" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226354066_Astronomy_of_Nabta_Playa</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CambrianNews/posts/a-group-of-walkers-say-they-have-captured-a-mysterious-unidentified-flying-objec/5749092075112030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CambrianNews/posts/a-group-of-walkers-say-they-have-captured-a-mysterious-unidentified-flying-objec/5749092075112030/</a>  
+   Link:<a href="https://www.facebook.com/CambrianNews/posts/a-group-of-walkers-say-they-have-captured-a-mysterious-unidentified-flying-objec/5749092075112030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CambrianNews/posts/a-group-of-walkers-say-they-have-captured-a-mysterious-unidentified-flying-objec/5749092075112030/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CambrianNews/posts/a-famed-aeron-valley-ufo-logist-has-more-reports-of-lights-on-the-horizon/957812636346385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CambrianNews/posts/a-famed-aeron-valley-ufo-logist-has-more-reports-of-lights-on-the-horizon/957812636346385/</a>  
+   Link:<a href="https://www.facebook.com/CambrianNews/posts/a-famed-aeron-valley-ufo-logist-has-more-reports-of-lights-on-the-horizon/957812636346385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CambrianNews/posts/a-famed-aeron-valley-ufo-logist-has-more-reports-of-lights-on-the-horizon/957812636346385/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GYMercury/posts/a-strange-creature-lurks-off-the-coast-in-the-film/5260575077304454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GYMercury/posts/a-strange-creature-lurks-off-the-coast-in-the-film/5260575077304454/</a>  
+   Link:<a href="https://www.facebook.com/GYMercury/posts/a-strange-creature-lurks-off-the-coast-in-the-film/5260575077304454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GYMercury/posts/a-strange-creature-lurks-off-the-coast-in-the-film/5260575077304454/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/847679366105142/posts/1911997376339997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/847679366105142/posts/1911997376339997/</a>  
+   Link:<a href="https://www.facebook.com/groups/847679366105142/posts/1911997376339997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/847679366105142/posts/1911997376339997/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: rebeccadouglas.co.uk  
-   Link: <a href="https://rebeccadouglas.co.uk/a-spectacular-aurora-welcome-chasing-northern-lights-in-cornwalls-skies/" target="_blank" rel="noopener noreferrer nofollow">https://rebeccadouglas.co.uk/a-spectacular-aurora-welcome-chasing-northern-lights-in-cornwalls-skies/</a>  
+   Link:<a href="https://rebeccadouglas.co.uk/a-spectacular-aurora-welcome-chasing-northern-lights-in-cornwalls-skies/" target="_blank" rel="noopener noreferrer nofollow">https://rebeccadouglas.co.uk/a-spectacular-aurora-welcome-chasing-northern-lights-in-cornwalls-skies/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: genfair.co.uk  
-   Link: <a href="https://genfair.co.uk/supplier/cardiganshire-family-history-society-cymdeithas-hanes-teuluoedd-ceredigion-25/" target="_blank" rel="noopener noreferrer nofollow">https://genfair.co.uk/supplier/cardiganshire-family-history-society-cymdeithas-hanes-teuluoedd-ceredigion-25/</a>  
+   Link:<a href="https://genfair.co.uk/supplier/cardiganshire-family-history-society-cymdeithas-hanes-teuluoedd-ceredigion-25/" target="_blank" rel="noopener noreferrer nofollow">https://genfair.co.uk/supplier/cardiganshire-family-history-society-cymdeithas-hanes-teuluoedd-ceredigion-25/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/roaming_in_a_vw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/roaming_in_a_vw/</a>  
+   Link:<a href="https://www.instagram.com/roaming_in_a_vw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/roaming_in_a_vw/</a>  

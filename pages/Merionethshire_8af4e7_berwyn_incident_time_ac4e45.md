@@ -248,7 +248,7 @@ image: /assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-overview
 
 ## Introduction
 
-The Berwyn Mountains incident began as an emergency, not as a polished UFO legend. On the evening of 23 January 1974, people around Bala, Llandrillo and the Berwyn range heard a violent bang, felt shaking, and saw unusual lights. Police checked with RAF Valley and air traffic control, treated the reports as a possible aircraft crash, and searches followed in difficult mountain country. The strongest surviving evidence, however, points away from a crashed craft: a real North Wales earthquake, recorded at about 8.38 pm, coincided with reports of a bright meteor or meteor-like display seen over a wide area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+The Berwyn Mountains incident began as an emergency, not as a polished UFO legend. On the evening of 23 January 1974, people around Bala, Llandrillo and the Berwyn range heard a violent bang, felt shaking, and saw unusual lights. Police checked with RAF Valley and air traffic control, treated the reports as a possible aircraft crash, and searches followed in difficult mountain country. The strongest surviving evidence, however, points away from a crashed craft: a real North Wales earthquake, recorded at about 8.38 pm, coincided with reports of a bright meteor or meteor-like display seen over a wide area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-overview.webp" | relative_url }}" alt="Overview image for Berwyn Case" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,42 +256,42 @@ That does not make the case trivial. For [Merionethshire]({{ 'merionethshire/' |
 
 ## The night of 23 January 1974
 
-The core event belongs to historic Merionethshire’s eastern mountain edge. Merioneth is a historic county of north-west Wales extending from Cardigan Bay into Snowdonia and the Berwyn Mountains; most of it now lies within Gwynedd, while its northern portion is in present-day Denbighshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span><span class="citation-popover-snippet">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span></span></span> That boundary point matters because modern accounts may call the case “Gwynedd”, “North Wales”, “Llandrillo” or “Berwyn”, while the UFO-history significance is rooted in the old Merionethshire landscape around Bala, Llandrillo and the high Berwyns.
+The core event belongs to historic Merionethshire’s eastern mountain edge. Merioneth is a historic county of north-west Wales extending from Cardigan Bay into Snowdonia and the Berwyn Mountains; most of it now lies within Gwynedd, while its northern portion is in present-day Denbighshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span><span class="citation-popover-snippet">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span></span></span> That boundary point matters because modern accounts may call the case “Gwynedd”, “North Wales”, “Llandrillo” or “Berwyn”, while the UFO-history significance is rooted in the old Merionethshire landscape around Bala, Llandrillo and the high Berwyns.
 
-The first hard anchor is the earthquake. British Geological Survey researcher R. M. W. Musson’s study gives the instrumental origin time as 20:38:00.9 or 20:38:01.6, depending on the analysis used, with an instrumental magnitude of 3.5 ML. Musson also notes that the felt effects were widespread across North Wales and beyond, and that the macroseismic evidence — reports from people who felt the shock — suggested a magnitude closer to 3.9–4.0 ML, though the true value probably lies between those estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+The first hard anchor is the earthquake. British Geological Survey researcher R. M. W. Musson’s study gives the instrumental origin time as 20:38:00.9 or 20:38:01.6, depending on the analysis used, with an instrumental magnitude of 3.5 ML. Musson also notes that the felt effects were widespread across North Wales and beyond, and that the macroseismic evidence — reports from people who felt the shock — suggested a magnitude closer to 3.9–4.0 ML, though the true value probably lies between those estimates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-For people nearby, this was not an abstract seismology entry. Musson records maximum intensity at Bala, Carrog, Corwen, Llandrillo and Maentwrog, with minor damage reports including a cracked window at Llandrillo and reports of ceiling damage farther away. The felt area stretched west to Aberdaron, north to Ormskirk near Liverpool, east to Telford, and south to Church Stretton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> In plain terms, the “impact” sensation many witnesses described has a well-supported physical cause.
+For people nearby, this was not an abstract seismology entry. Musson records maximum intensity at Bala, Carrog, Corwen, Llandrillo and Maentwrog, with minor damage reports including a cracked window at Llandrillo and reports of ceiling damage farther away. The felt area stretched west to Aberdaron, north to Ormskirk near Liverpool, east to Telford, and south to Church Stretton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> In plain terms, the “impact” sensation many witnesses described has a well-supported physical cause.
 
-The second anchor is the light in the sky. Early newspaper reports cited in Musson’s reconstruction described police receiving a report of something like a meteorite coming down in flames and exploding on Cader Fronwen, about 2 km south-east of Llandrillo and 10 km east of Bala. Other reports came from the Isle of Man, Anglesey coastguards, Formby and as far as Cumberland, with some witnesses describing green lights or “green flares”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+The second anchor is the light in the sky. Early newspaper reports cited in Musson’s reconstruction described police receiving a report of something like a meteorite coming down in flames and exploding on Cader Fronwen, about 2 km south-east of Llandrillo and 10 km east of Bala. Other reports came from the Isle of Man, Anglesey coastguards, Formby and as far as Cumberland, with some witnesses describing green lights or “green flares”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-That wide spread is important. A light seen from many places across Britain is a much better fit for a high-altitude meteor or bolide than for a single object crashing into one remote hillside. The Guardian’s account of the released files similarly notes that officials received reports of an unusual object before 10 pm and that a bright light apparently descending towards the earth was seen in many parts of Britain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+That wide spread is important. A light seen from many places across Britain is a much better fit for a high-altitude meteor or bolide than for a single object crashing into one remote hillside. The Guardian’s account of the released files similarly notes that officials received reports of an unusual object before 10 pm and that a bright light apparently descending towards the earth was seen in many parts of Britain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-1-dark.svg" | relative_url }}" alt="Berwyn Case illustration 1" data-theme-src-dark="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police, RAF and mountain rescue response
 
-The response was serious because the situation looked serious. According to Musson’s reconstruction from contemporary reporting, police were soon inundated with calls. Officers checked with RAF Valley on Anglesey and the air traffic control centre at Preston, and the officer in charge later said they had to treat the situation as if an aircraft had crashed. Within an hour, about ten officers were searching the Berwyn Mountains where lights had been reported, and emergency services were alerted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+The response was serious because the situation looked serious. According to Musson’s reconstruction from contemporary reporting, police were soon inundated with calls. Officers checked with RAF Valley on Anglesey and the air traffic control centre at Preston, and the officer in charge later said they had to treat the situation as if an aircraft had crashed. Within an hour, about ten officers were searching the Berwyn Mountains where lights had been reported, and emergency services were alerted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
 That point is often lost in later retellings. A night search does not prove that a craft came down; it proves that the initial reports contained enough uncertainty for police to act cautiously. In mountain terrain, with reports of a bang, ground movement and lights, an aircraft crash was a responsible working assumption.
 
-The RAF role also became larger in legend than in the strongest documentary reconstruction. Musson notes that the RAF mountain rescue team’s movements were later traced from the RAF Valley log by UFO researcher Andy Roberts: the team set off from Anglesey, did not reach Llandrillo until midnight, and did not set foot on the mountain until the following morning. The next morning, the RAF mountain rescue team was out at first light and was joined by police officers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+The RAF role also became larger in legend than in the strongest documentary reconstruction. Musson notes that the RAF mountain rescue team’s movements were later traced from the RAF Valley log by UFO researcher Andy Roberts: the team set off from Anglesey, did not reach Llandrillo until midnight, and did not set foot on the mountain until the following morning. The next morning, the RAF mountain rescue team was out at first light and was joined by police officers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
 This timing weakens the most dramatic “immediate recovery” versions of the story. If a secret crash retrieval had taken place within minutes or an hour, the ordinary RAF mountain rescue chronology does not supply it. It shows a delayed, practical search response by teams trying to establish whether an aircraft or meteorite impact site existed.
 
-There were also later official-record trails. The National Archives’ guide to Ministry of Defence UFO records states that AIR 2/19083 contains brief details of the Berwyn Mountains UFO incident reported in North Wales in January 1974, and that further details were made available to a member of the public in 2003 under DEFE 24/2045/1. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The case therefore did enter the British UFO-record ecosystem, but that is not the same as evidence of an extraordinary object. The MoD’s long-running UFO policy was chiefly concerned with whether reports had defence significance, not with proving or disproving alien visitation.
+There were also later official-record trails. The National Archives’ guide to Ministry of Defence UFO records states that AIR 2/19083 contains brief details of the Berwyn Mountains UFO incident reported in North Wales in January 1974, and that further details were made available to a member of the public in 2003 under DEFE 24/2045/1.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The case therefore did enter the British UFO-record ecosystem, but that is not the same as evidence of an extraordinary object. The MoD’s long-running UFO policy was chiefly concerned with whether reports had defence significance, not with proving or disproving alien visitation.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OQ3o_g9GtgY" title="Welsh &#x27;Roswell&#x27; UFO sighting explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OQ3o_g9GtgY" target="_blank" rel="noopener noreferrer">Welsh &#x27;Roswell&#x27; UFO sighting explained</a></p><p class="youtube-embed-meta">Channel: Onlooker &middot; Views: 29.4K &middot; Uploaded: August 2010 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OQ3o_g9GtgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OQ3o_g9GtgY">Open on YouTube</a></p></div></div></div>
 
 ## What was found and what was missing
 
-The most important fact in the Berwyn case is negative: no wreckage, crater, aircraft debris, meteorite impact site or recovered craft has been established from the searches. Musson’s conclusion is careful but clear. Despite reports that a meteorite had impacted in the Berwyn Mountains near the earthquake epicentre, the extensive searches made immediately afterwards suggest that this was not the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+The most important fact in the Berwyn case is negative: no wreckage, crater, aircraft debris, meteorite impact site or recovered craft has been established from the searches. Musson’s conclusion is careful but clear. Despite reports that a meteorite had impacted in the Berwyn Mountains near the earthquake epicentre, the extensive searches made immediately afterwards suggest that this was not the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-That absence matters because the alleged physical event would have been difficult to hide from the landscape. Musson points out that a magnitude between 3.5 and 4.0 ML, if caused by an impact rather than an earthquake, would be equivalent to a very large blast and would have left a significant crater. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> In other words, the “something hit the mountain hard enough to shake North Wales” idea creates a physical-evidence problem: the stronger the claimed impact, the harder it is to explain the missing crater.
+That absence matters because the alleged physical event would have been difficult to hide from the landscape. Musson points out that a magnitude between 3.5 and 4.0 ML, if caused by an impact rather than an earthquake, would be equivalent to a very large blast and would have left a significant crater.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> In other words, the “something hit the mountain hard enough to shake North Wales” idea creates a physical-evidence problem: the stronger the claimed impact, the harder it is to explain the missing crater.
 
-The earthquake itself was not missing. It was recorded by the LOWNET seismometer network, and Musson later reassessed both instrumental and felt-report data. The study places the macroseismic epicentre in the Berwyn Mountains north-east of Llandrillo, gives a poorly determined depth between 7 and 15 km, and notes that no foreshocks or aftershocks were detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> That is a much firmer evidence base than the later crashed-craft claims.
+The earthquake itself was not missing. It was recorded by the LOWNET seismometer network, and Musson later reassessed both instrumental and felt-report data. The study places the macroseismic epicentre in the Berwyn Mountains north-east of Llandrillo, gives a poorly determined depth between 7 and 15 km, and notes that no foreshocks or aftershocks were detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> That is a much firmer evidence base than the later crashed-craft claims.
 
-The meteor evidence is more awkward but still important. Musson’s paper says that lights were seen across a wider area than the earthquake was felt, and that there can be no doubt a meteor display took place as well as an earthquake that night; auroral effects were ruled out because the night was magnetically quiet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> Later discussion has refined the wording — many accounts now prefer “meteor” or “bolide” rather than implying a shower of fragments — but the essential point remains: a sky event and a ground event appear to have coincided.
+The meteor evidence is more awkward but still important. Musson’s paper says that lights were seen across a wider area than the earthquake was felt, and that there can be no doubt a meteor display took place as well as an earthquake that night; auroral effects were ruled out because the night was magnetically quiet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> Later discussion has refined the wording — many accounts now prefer “meteor” or “bolide” rather than implying a shower of fragments — but the essential point remains: a sky event and a ground event appear to have coincided.
 
 The strongest evidence therefore divides cleanly:
 
@@ -309,13 +309,13 @@ The strongest evidence therefore divides cleanly:
 <img src="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-2-dark.svg" | relative_url }}" alt="Berwyn Case illustration 2" data-theme-src-dark="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the crash story grew
 
-The later “Welsh Roswell” label did not arise simply because people were gullible. The raw ingredients were unusually powerful: a remote mountain range, a frightened village area, a real tremor, lights in the sky, and official searches. The Guardian’s account of the released files describes later claims that roads were sealed off, people were kept away, and alien bodies were taken to Porton Down — claims that gave the case its Roswell comparison but sit on a different evidential footing from the earthquake, meteor and search records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The later “Welsh Roswell” label did not arise simply because people were gullible. The raw ingredients were unusually powerful: a remote mountain range, a frightened village area, a real tremor, lights in the sky, and official searches. The Guardian’s account of the released files describes later claims that roads were sealed off, people were kept away, and alien bodies were taken to Porton Down — claims that gave the case its Roswell comparison but sit on a different evidential footing from the earthquake, meteor and search records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The case also benefited from a common UFO-history pattern: early uncertainty hardened into later certainty. On the night, officials did not immediately know what had happened. Early press reports included competing suggestions: meteorite, aircraft, earthquake, even a discounted wartime bomb theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> Once “nothing was found”, that gap could be read in two opposite ways. To sceptical investigators, it weakened the crash claim. To believers, it could be reinterpreted as evidence that something had been removed.
+The case also benefited from a common UFO-history pattern: early uncertainty hardened into later certainty. On the night, officials did not immediately know what had happened. Early press reports included competing suggestions: meteorite, aircraft, earthquake, even a discounted wartime bomb theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span> Once “nothing was found”, that gap could be read in two opposite ways. To sceptical investigators, it weakened the crash claim. To believers, it could be reinterpreted as evidence that something had been removed.
 
-One particularly vivid witness strand involves reports of a glowing red or orange light on the hillside. The Guardian cites a witness description from the released material of a “bright red light” like a large round bonfire, with other lights nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> Such testimony is not worthless; it is part of why the case became memorable. But it is also difficult evidence to use. At night, in mountain country, with search parties, vehicles, torches, farms, weather and distance effects all in play, a light seen on or near a hillside does not automatically become a landed craft.
+One particularly vivid witness strand involves reports of a glowing red or orange light on the hillside. The Guardian cites a witness description from the released material of a “bright red light” like a large round bonfire, with other lights nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> Such testimony is not worthless; it is part of why the case became memorable. But it is also difficult evidence to use. At night, in mountain country, with search parties, vehicles, torches, farms, weather and distance effects all in play, a light seen on or near a hillside does not automatically become a landed craft.
 
-The official-file trail also kept the story alive. The National Archives guide places Berwyn among “well-documented UFO sightings investigated by the Air Ministry and Ministry of Defence”, but only says that the relevant file contains brief details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> That is enough to make the case searchable and citable, but not enough to turn it into a confirmed defence mystery.
+The official-file trail also kept the story alive. The National Archives guide places Berwyn among “well-documented UFO sightings investigated by the Air Ministry and Ministry of Defence”, but only says that the relevant file contains brief details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> That is enough to make the case searchable and citable, but not enough to turn it into a confirmed defence mystery.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jLwzZdJKW0o" title="The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer">The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jLwzZdJKW0o">Open on YouTube</a></p></div></div></div>
@@ -324,17 +324,17 @@ The official-file trail also kept the story alive. The National Archives guide p
 
 A careful timeline helps separate what happened from what later attached itself to the case.
 
-**Around 8.38 pm:** A real earthquake occurs near Bala and the Berwyn Mountains. Instrumental analyses give an origin time just after 20:38 and a magnitude of 3.5 ML, while felt reports suggest the shaking may have seemed stronger locally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+**Around 8.38 pm:** A real earthquake occurs near Bala and the Berwyn Mountains. Instrumental analyses give an origin time just after 20:38 and a magnitude of 3.5 ML, while felt reports suggest the shaking may have seemed stronger locally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-**Shortly afterwards:** People across North Wales and beyond report a bang, rumbling, shaking and lights. Some assume an aircraft has crashed or that a meteorite has come down. Reports of green lights or flares come from coastal and wider regional observers, including the Isle of Man, Anglesey, Formby and Cumberland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+**Shortly afterwards:** People across North Wales and beyond report a bang, rumbling, shaking and lights. Some assume an aircraft has crashed or that a meteorite has come down. Reports of green lights or flares come from coastal and wider regional observers, including the Isle of Man, Anglesey, Formby and Cumberland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-**Within the first hour:** Police receive many calls, check with RAF Valley and Preston air traffic control, and begin treating the incident as a possible aircraft crash. Officers start searching in the Berwyn Mountains where lights had been reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+**Within the first hour:** Police receive many calls, check with RAF Valley and Preston air traffic control, and begin treating the incident as a possible aircraft crash. Officers start searching in the Berwyn Mountains where lights had been reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-**Late night:** RAF mountain rescue is mobilised from Anglesey. Later reconstruction of the RAF Valley log indicates the team did not reach Llandrillo until midnight and did not get onto the mountain until the following morning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+**Late night:** RAF mountain rescue is mobilised from Anglesey. Later reconstruction of the RAF Valley log indicates the team did not reach Llandrillo until midnight and did not get onto the mountain until the following morning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-**Morning of 24 January:** Police and RAF mountain rescue continue searching at first light. Interest from other official units was recorded, but the search did not produce a crash site, wreckage or impact evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+**Morning of 24 January:** Police and RAF mountain rescue continue searching at first light. Interest from other official units was recorded, but the search did not produce a crash site, wreckage or impact evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
-**Afterwards:** Scientific interpretation settles around two coincident events: an earthquake and a bright meteor or meteor-like display. Later UFO narratives expand the case into a crashed-craft and cover-up story, but the physical evidence remains absent. Musson’s conclusion is that the earthquake was real, the meteor coincidence attracted controversy, and the searches argue against an impact in the mountains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
+**Afterwards:** Scientific interpretation settles around two coincident events: an earthquake and a bright meteor or meteor-like display. Later UFO narratives expand the case into a crashed-craft and cover-up story, but the physical evidence remains absent. Musson’s conclusion is that the earthquake was real, the meteor coincidence attracted controversy, and the searches argue against an impact in the mountains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-3-dark.svg" | relative_url }}" alt="Berwyn Case illustration 3" data-theme-src-dark="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Merionethshire_8af4e7_berwyn_incident_time_ac4e45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,194 +351,194 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Anything Crash In The Berwyn Mountains?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Anything Crash In The Berwyn Mountains?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly relevant to famous British UFO incidents such as Berwyn.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to famous British UFO incidents such as Berwyn.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Discusses unexplained British cases and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses unexplained British cases and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers methods for weighing evidence in major UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers methods for weighing evidence in major UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides a useful comparison with another alleged crash-related incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a useful comparison with another alleged crash-related incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="berwyn-case-did-anything-crash-in-the-berwyn-mountains-merionethshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,121 +744,121 @@ For Merionethshire, that makes the Berwyn case central but also cautionary. It i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Merioneth | Cambrian Mountains, Dolgellau, Bala Lake  
-   Link: <a href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Merioneth</a>  
+   Link:<a href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Merioneth</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
+   Link:<a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nora.nerc.ac.uk  
    Title: NERC Open Research Archive Microsoft Word  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</p></details>
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NERC Open Research ArchiveMicrosoft Word - Bala_paper_Musson.doc...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Merionethshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Merionethshire</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=220" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=220</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=220" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=220</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merionethshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merionethshire</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popastro.com  
-   Link: <a href="https://www.popastro.com/meteor/2006/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2006/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2006/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2006/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo</a>  
+   Link:<a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aberdoveylondoner.com  
-   Link: <a href="https://aberdoveylondoner.com/category/bala/" target="_blank" rel="noopener noreferrer nofollow">https://aberdoveylondoner.com/category/bala/</a>  
+   Link:<a href="https://aberdoveylondoner.com/category/bala/" target="_blank" rel="noopener noreferrer nofollow">https://aberdoveylondoner.com/category/bala/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spookyisles.com  
    Title: berwyn mountains ufo  
-   Link: <a href="https://www.spookyisles.com/berwyn-mountains-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/berwyn-mountains-ufo/</a>  
+   Link:<a href="https://www.spookyisles.com/berwyn-mountains-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/berwyn-mountains-ufo/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/merioneth/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/merioneth/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/merioneth/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/merioneth/</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: An unusual encounter in the Berwyn Mountains  
-   Link: <a href="http://www.youtube.com/watch?v=UUJ2A7Aw7Bg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UUJ2A7Aw7Bg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berwyn Mountains incident 1974 documentary ‘The Welsh Roswell’ - the Berwyn mountain UFO crash, Llandrillo, Wales, January 23, 1974 Eyes...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UUJ2A7Aw7Bg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UUJ2A7Aw7Bg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berwyn Mountains incident 1974 documentary ‘The Welsh Roswell’ - the Berwyn mountain UFO crash, Llandrillo, Wales, January 23, 1974 Eyes...</p></details>
    Published: January 23, 1974  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: ‘The Welsh Roswell’  
-   Link: <a href="http://www.youtube.com/watch?v=hxo65ym4dog" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxo65ym4dog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hxo65ym4dog" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxo65ym4dog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974...</p></details>
    Published: January 23, 1974  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Berwyn Mountains "Welsh Roswell" UFO incident,  
-   Link: <a href="http://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jLwzZdJKW0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 113 Roswelsh - The Berwyn Mountain Incident...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jLwzZdJKW0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 113 Roswelsh - The Berwyn Mountain Incident...</p></details>
    Published: January 23, 1974  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sufon.co.uk  
-   Link: <a href="https://www.sufon.co.uk/berwyn-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/berwyn-mountain</a>  
+   Link:<a href="https://www.sufon.co.uk/berwyn-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/berwyn-mountain</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCymruWales/posts/exploring-a-possible-meteorite-sighting-on-the-berwyn-mountains-wynnes-welsh-70s/623952823098051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/exploring-a-possible-meteorite-sighting-on-the-berwyn-mountains-wynnes-welsh-70s/623952823098051/</a>  
+   Link:<a href="https://www.facebook.com/BBCCymruWales/posts/exploring-a-possible-meteorite-sighting-on-the-berwyn-mountains-wynnes-welsh-70s/623952823098051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/exploring-a-possible-meteorite-sighting-on-the-berwyn-mountains-wynnes-welsh-70s/623952823098051/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
+   Link:<a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: isc.ac.uk  
-   Link: <a href="https://www.isc.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.isc.ac.uk/</a>  
+   Link:<a href="https://www.isc.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.isc.ac.uk/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gatehouse-gazetteer.info  
-   Link: <a href="https://www.gatehouse-gazetteer.info/Indexs/WalesCounty/Merioneth.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gatehouse-gazetteer.info/Indexs/WalesCounty/Merioneth.html</a>  
+   Link:<a href="https://www.gatehouse-gazetteer.info/Indexs/WalesCounty/Merioneth.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gatehouse-gazetteer.info/Indexs/WalesCounty/Merioneth.html</a>  

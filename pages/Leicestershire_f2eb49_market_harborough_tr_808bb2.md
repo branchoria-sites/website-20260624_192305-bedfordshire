@@ -254,27 +254,27 @@ image: /assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-overview
 
 ## Introduction
 
-Market Harborough’s “triangle” reputation rests on two short official entries rather than a deep case file: a daytime 1998 report of an extremely fast, white or silver, flattened rugby-ball-shaped object with a “long needle” hanging below it, and a 2004 report of a large black triangular aircraft with three bright lights and a rumbling sound. The first is not strictly a triangle case, but it is often grouped with fast, shaped-object reports in [Leicestershire]({{ 'what-did-leicestershire-ufo-witnesses/' | relative_url }}); the second is the clearer black-triangle claim. Neither entry proves an exotic craft. What makes them worth examining is the contrast: one ambiguous fast object in daylight, then one more classic triangular aircraft-like report six years later, both in the Market Harborough area and both surviving mainly as brief Ministry of Defence sighting summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
+Market Harborough’s “triangle” reputation rests on two short official entries rather than a deep case file: a daytime 1998 report of an extremely fast, white or silver, flattened rugby-ball-shaped object with a “long needle” hanging below it, and a 2004 report of a large black triangular aircraft with three bright lights and a rumbling sound. The first is not strictly a triangle case, but it is often grouped with fast, shaped-object reports in [Leicestershire]({{ 'what-did-leicestershire-ufo-witnesses/' | relative_url }}); the second is the clearer black-triangle claim. Neither entry proves an exotic craft. What makes them worth examining is the contrast: one ambiguous fast object in daylight, then one more classic triangular aircraft-like report six years later, both in the Market Harborough area and both surviving mainly as brief Ministry of Defence sighting summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
 
 
 <img src="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-overview.webp" | relative_url }}" alt="Overview image for Harborough Triangle" loading="eager" decoding="sync" fetchpriority="high">
 ## What the official record actually preserves
 
-The main public source is the Ministry of Defence’s released UFO report lists, now hosted through GOV.UK. The government describes these lists as showing dates, times, locations and brief descriptions of sightings reported in the UK from 1997 to 2009, which is useful but also a warning: these are not full investigations with witness interviews, radar plots, photographs or final explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The main public source is the Ministry of Defence’s released UFO report lists, now hosted through GOV.UK. The government describes these lists as showing dates, times, locations and brief descriptions of sightings reported in the UK from 1997 to 2009, which is useful but also a warning: these are not full investigations with witness interviews, radar plots, photographs or final explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-That limitation matters strongly for Market Harborough. The entries preserve enough to say that reports were made, but not enough to reconstruct weather, aircraft traffic, exact viewing direction, duration, witness background, distance, altitude or whether the sighting was checked against local aviation records. The National Archives notes that later MoD UFO files usually contain one-off sightings, that most reports refer to lights rather than a definite craft, and that common explanations in the files include Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+That limitation matters strongly for Market Harborough. The entries preserve enough to say that reports were made, but not enough to reconstruct weather, aircraft traffic, exact viewing direction, duration, witness background, distance, altitude or whether the sighting was checked against local aviation records. The National Archives notes that later MoD UFO files usually contain one-off sightings, that most reports refer to lights rather than a definite craft, and that common explanations in the files include Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The Market Harborough cases therefore sit in the “reported but thinly documented” category. They are stronger than hearsay because they appear in official MoD data, and the 2020 LeicestershireLive roundup reproduces them from those government records. They are weaker than landmark cases because there is no public evidence of corroborating radar, multiple named witnesses, photographs, police attendance or an MoD conclusion that anything unusual entered UK airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
+The Market Harborough cases therefore sit in the “reported but thinly documented” category. They are stronger than hearsay because they appear in official MoD data, and the 2020 LeicestershireLive roundup reproduces them from those government records. They are weaker than landmark cases because there is no public evidence of corroborating radar, multiple named witnesses, photographs, police attendance or an MoD conclusion that anything unusual entered UK airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
 
 
 <img src="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-Illustration-1-dark.svg" | relative_url }}" alt="Harborough Triangle illustration 1" data-theme-src-dark="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1998 fast object report
 
-The 1998 entry is dated 17 May 1998 at 15:00 in Market Harborough, Leicestershire. The object was described as “one flattened rugby ball-shaped object, with a long needle hanging”, white or silver in colour, and “extremely fast”. LeicestershireLive’s later county roundup gives the same wording, and the MoD’s 1998 table shows the same Market Harborough entry among other national reports for that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
+The 1998 entry is dated 17 May 1998 at 15:00 in Market Harborough, Leicestershire. The object was described as “one flattened rugby ball-shaped object, with a long needle hanging”, white or silver in colour, and “extremely fast”. LeicestershireLive’s later county roundup gives the same wording, and the MoD’s 1998 table shows the same Market Harborough entry among other national reports for that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
 
 This is not a textbook black triangle. It is a daylight report of a fast, elongated or flattened shape with an appendage. The “long needle” detail is the most distinctive feature, but without a drawing, direction of travel, angle above the horizon or duration, it is hard to know whether the witness meant a protruding structure, a trail, a visual smear, a suspended feature, or an impression caused by motion.
 
-Several ordinary possibilities remain open. A fast daylight object could be an aircraft seen at an odd angle, a glinting object in sunlight, a balloon or debris at uncertain distance, or even a brief meteor-like event if the description of speed was based on a short glimpse. The National Space Centre explains that meteors are quick flashes caused by space rocks burning up at high speed, though the 1998 report’s shape and “needle” description do not neatly match a simple meteor without more detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">what was that bright light in the sky</span><span class="citation-popover-snippet">what was that bright light in the sky</span></span></span>
+Several ordinary possibilities remain open. A fast daylight object could be an aircraft seen at an odd angle, a glinting object in sunlight, a balloon or debris at uncertain distance, or even a brief meteor-like event if the description of speed was based on a short glimpse. The National Space Centre explains that meteors are quick flashes caused by space rocks burning up at high speed, though the 1998 report’s shape and “needle” description do not neatly match a simple meteor without.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">what was that bright light in the sky</span><span class="citation-popover-snippet">what was that bright light in the sky</span></span></span>
 
 The useful point is that the 1998 report broadens Market Harborough’s place in the Leicestershire record beyond “triangle UFO” folklore. It shows that the area appears in MoD data for unusual shape and speed before the better-known black triangular description of 2004. But it should not be upgraded into a triangle case unless the source wording is kept clear.
 
@@ -283,7 +283,7 @@ The useful point is that the 1998 report broadens Market Harborough’s place in
 
 ## The 2004 black triangle claim
 
-The stronger triangle entry is dated 9 January 2004 at 14:00 in Market Harborough. The MoD list describes “one large black triangular aircraft with three bright lights in a triangle formation” and adds that “there was a rumbling sound”. The local press roundup repeats the same entry under Leicestershire’s 2004 reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The stronger triangle entry is dated 9 January 2004 at 14:00 in Market Harborough. The MoD list describes “one large black triangular aircraft with three bright lights in a triangle formation” and adds that “there was a rumbling sound”. The local press roundup repeats the same entry under Leicestershire’s 2004 reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 This is unusual for a black-triangle claim in one important way: it was reported at 2 pm, not late at night. Many popular black-triangle accounts depend heavily on lights seen against a dark sky, where three separate lights can be mentally joined into a single triangular craft. Here, the wording says “large black triangular aircraft”, which suggests the witness believed they saw a body or silhouette as well as lights.
 
@@ -295,14 +295,14 @@ The time of day also changes the evidence standard. A daylight black triangular 
 <img src="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-Illustration-2-dark.svg" | relative_url }}" alt="Harborough Triangle illustration 2" data-theme-src-dark="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Leicestershire_f2eb49_market_harborough_tr_808bb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why triangle sightings are hard to judge
 
-Triangle reports are difficult because they sit at the boundary between shape perception and light interpretation. The National Archives notes that V-shaped patterns became a recurring issue in MoD correspondence from the 1980s, with public enquiries asking whether such sightings might be linked to United States aircraft such as F-117A stealth fighters or B-2 stealth bombers stationed in England, including at RAF Mildenhall and RAF Lakenheath. It also records the Belgian wave of 1989–90, when large triangular objects were reported and Belgian F-16s were scrambled, though the objects were not identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+Triangle reports are difficult because they sit at the boundary between shape perception and light interpretation. The National Archives notes that V-shaped patterns became a recurring issue in MoD correspondence from the 1980s, with public enquiries asking whether such sightings might be linked to United States aircraft such as F-117A stealth fighters or B-2 stealth bombers stationed in England, including at RAF Mildenhall and RAF Lakenheath. It also records the Belgian wave of 1989–90, when large triangular objects were reported and Belgian F-16s were scrambled, though the objects were not identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 That wider history matters because it shaped how witnesses, journalists and UFO groups interpreted triangular reports. Once “black triangle” became a recognised UFO category, three lights, a dark gap between them, or a low rumbling aircraft could be read through that template. This does not mean witnesses were inventing what they saw. It means the same sky stimulus can be described differently depending on lighting, distance, expectation and viewing time.
 
 There are several practical reasons why triangular reports can be misleading:
 
 * **Three lights can imply a solid shape.** Aircraft lights, landing lights or separate aircraft in formation can appear to form a triangle, especially when the body is not visible.
-* **Aircraft lighting is deliberately conspicuous.** UK aviation rules require aircraft at night to display anti-collision lights and, except for balloons, navigation lights intended to show the aircraft’s relative path to an observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+* **Aircraft lighting is deliberately conspicuous.** UK aviation rules require aircraft at night to display anti-collision lights and, except for balloons, navigation lights intended to show the aircraft’s relative path to an observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +312,7 @@ There are several practical reasons why triangular reports can be misleading:
 
 </div>
 
-Market Harborough is also not isolated from aviation activity in the wider Leicestershire and East Midlands sky. East Midlands Airport’s own airspace material says its controlled airspace covers aircraft arriving, departing or travelling over the airport at altitudes up to 10,500 feet, and describes the UK’s airspace as among the busiest in the world, with more than 9,000 flights overhead every day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacechange.caa.co.uk/documents/download/1244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacechange.caa.co.uk">[Airspace Change Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacechange.caa.co.uk</span><span class="citation-popover-snippet">Airspace Change Portal</span></span></span>
+Market Harborough is also not isolated from aviation activity in the wider Leicestershire and East Midlands sky. East Midlands Airport’s own airspace material says its controlled airspace covers aircraft arriving, departing or travelling over the airport at altitudes up to 10,500 feet, and describes the UK’s airspace as among the busiest in the world, with more than 9,000 flights overhead every day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacechange.caa.co.uk/documents/download/1244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacechange.caa.co.uk">[Airspace Change Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacechange.caa.co.uk</span><span class="citation-popover-snippet">Airspace Change Portal</span></span></span>
 
 That does not identify either Market Harborough sighting as an East Midlands Airport aircraft. It simply means that any Leicestershire triangle claim has to be read in a region where civil, cargo, private and sometimes military traffic can create unusual appearances, especially when a witness sees only part of an aircraft or a pattern of lights.
 
@@ -321,9 +321,9 @@ That does not identify either Market Harborough sighting as an East Midlands Air
 
 ## What later reporting changed
 
-Later reporting appears to have strengthened public visibility, not the evidential basis. The 2020 LeicestershireLive article is useful because it gathers Leicestershire’s 1997–2009 MoD entries in one accessible place and highlights the Market Harborough 1998 and 2004 reports. It does not add new witness names, images, flight checks or investigation notes for these two cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
+Later reporting appears to have strengthened public visibility, not the evidential basis. The 2020 LeicestershireLive article is useful because it gathers Leicestershire’s 1997–2009 MoD entries in one accessible place and highlights the Market Harborough 1998 and 2004 reports. It does not add new witness names, images, flight checks or investigation notes for these two cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leicestermercury.co.uk">[Leicester Mercury]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leicestermercury.co.uk</span><span class="citation-popover-title">triangular aircraft strange lights every 4614840</span><span class="citation-popover-snippet">triangular aircraft strange lights every 4614840</span></span></span>
 
-The National Archives material gives a broader caution about how MoD UFO records should be read. It says the final tranche of UFO files covered the last two years of the UFO desk, from late 2007 to November 2009, and that the desk was closed after officials concluded it served no defence purpose; the same release says ministers were told that more than 50 years of reports had produced no evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives material gives a broader caution about how MoD UFO records should be read. It says the final tranche of UFO files covered the last two years of the UFO desk, from late 2007 to November 2009, and that the desk was closed after officials concluded it served no defence purpose; the same release says ministers were told that more than 50 years of reports had produced no evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That official stance does not debunk every individual report. It does, however, explain why many local entries, including Market Harborough’s, were recorded rather than deeply investigated in public. The MoD’s concern was defence significance, not solving every puzzling object reported by a member of the public.
 
@@ -342,178 +342,178 @@ A fair reading is therefore cautious: Market Harborough has two notable official
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Market Harborough&#x27;s Triangle Truly Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Market Harborough&#x27;s Triangle Truly Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">The page relies on brief official sighting records, and this book focuses on documented military, aviation, and government UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The page relies on brief official sighting records, and this book focuses on documented military, aviation, and government UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
-        </h4>
-        <p class="fr-book-author">By David Marler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
+</h4>
+<p class="fr-book-author">By David Marler</p>
         
-        <p class="fr-book-desc">Directly matches the article&#x27;s discussion of a reported black triangular craft near Market Harborough.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the article&#x27;s discussion of a reported black triangular craft near Market Harborough.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how witness reports, shapes, and observational limitations affect UFO case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how witness reports, shapes, and observational limitations affect UFO case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores competing interpretations of unexplained aerial sightings and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores competing interpretations of unexplained aerial sightings and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="harborough-triangle-was-market-harborough-s-triangle-truly-unusual-leicestershire-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ A fair reading is therefore cautious: Market Harborough has two notable official
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ A fair reading is therefore cautious: Market Harborough has two notable official
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ A fair reading is therefore cautious: Market Harborough has two notable official
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ A fair reading is therefore cautious: Market Harborough has two notable official
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ A fair reading is therefore cautious: Market Harborough has two notable official
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,189 +719,189 @@ A fair reading is therefore cautious: Market Harborough has two notable official
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airspacechange.caa.co.uk  
    Title: Airspace Change Portal  
-   Link: <a href="https://airspacechange.caa.co.uk/documents/download/1244" target="_blank" rel="noopener noreferrer nofollow">https://airspacechange.caa.co.uk/documents/download/1244</a>  
+   Link:<a href="https://airspacechange.caa.co.uk/documents/download/1244" target="_blank" rel="noopener noreferrer nofollow">https://airspacechange.caa.co.uk/documents/download/1244</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: democracy.leics.gov.uk  
    Title: CABINET REPORT flight paths 14 Dec 2004  
-   Link: <a href="https://democracy.leics.gov.uk/documents/s10857/CABINET%20REPORT%20flight%20paths%2014%20Dec%202004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.leics.gov.uk/documents/s10857/CABINET%20REPORT%20flight%20paths%2014%20Dec%202004.pdf</a>  
+   Link:<a href="https://democracy.leics.gov.uk/documents/s10857/CABINET%20REPORT%20flight%20paths%2014%20Dec%202004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.leics.gov.uk/documents/s10857/CABINET%20REPORT%20flight%20paths%2014%20Dec%202004.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cmis.harborough.gov.uk  
-   Link: <a href="https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=4LvlasumJoSUtcv11Eql9ybdLHmgy0S3eTGLpak%2BrNiv6%2FQaLX7KUA%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D" target="_blank" rel="noopener noreferrer nofollow">https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=4LvlasumJoSUtcv11Eql9ybdLHmgy0S3eTGLpak%2BrNiv6%2FQaLX7KUA%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D</a>  
+   Link:<a href="https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=4LvlasumJoSUtcv11Eql9ybdLHmgy0S3eTGLpak%2BrNiv6%2FQaLX7KUA%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D" target="_blank" rel="noopener noreferrer nofollow">https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=4LvlasumJoSUtcv11Eql9ybdLHmgy0S3eTGLpak%2BrNiv6%2FQaLX7KUA%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cmis.harborough.gov.uk  
-   Link: <a href="https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=VHg5k6iQ0Un1DoAEXj8lo0CAvSXG4J%2BmKOd9%2BaX4RVGUoaq3woZblQ%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D" target="_blank" rel="noopener noreferrer nofollow">https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=VHg5k6iQ0Un1DoAEXj8lo0CAvSXG4J%2BmKOd9%2BaX4RVGUoaq3woZblQ%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D</a>  
+   Link:<a href="https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=VHg5k6iQ0Un1DoAEXj8lo0CAvSXG4J%2BmKOd9%2BaX4RVGUoaq3woZblQ%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D" target="_blank" rel="noopener noreferrer nofollow">https://cmis.harborough.gov.uk/CMIS5/Document.ashx?FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&amp;WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D&amp;WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&amp;czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=VHg5k6iQ0Un1DoAEXj8lo0CAvSXG4J%2BmKOd9%2BaX4RVGUoaq3woZblQ%3D%3D&amp;d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&amp;kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&amp;mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&amp;rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&amp;uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: breedonparishcouncil.gov.uk  
    Title: East Midlands Airport  
-   Link: <a href="https://www.breedonparishcouncil.gov.uk/news/2019/09/east-midlands-airport-future-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.breedonparishcouncil.gov.uk/news/2019/09/east-midlands-airport-future-airspace</a>  
+   Link:<a href="https://www.breedonparishcouncil.gov.uk/news/2019/09/east-midlands-airport-future-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.breedonparishcouncil.gov.uk/news/2019/09/east-midlands-airport-future-airspace</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: meteor showers 2026  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/meteor-showers-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/meteor-showers-2026</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/meteor-showers-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/meteor-showers-2026</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: democracy.rushcliffe.gov.uk  
    Title: rushcliffe.gov.uk East Midlands Airport  
-   Link: <a href="https://democracy.rushcliffe.gov.uk/documents/s14147/East%20Midlands%20Airport%20-%20impacts%20of%20future%20flight%20path%20changes%20and%20aircraft%20noise%20in%20general.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.rushcliffe.gov.uk/documents/s14147/East%20Midlands%20Airport%20-%20impacts%20of%20future%20flight%20path%20changes%20and%20aircraft%20noise%20in%20general.pdf</a>  
+   Link:<a href="https://democracy.rushcliffe.gov.uk/documents/s14147/East%20Midlands%20Airport%20-%20impacts%20of%20future%20flight%20path%20changes%20and%20aircraft%20noise%20in%20general.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.rushcliffe.gov.uk/documents/s14147/East%20Midlands%20Airport%20-%20impacts%20of%20future%20flight%20path%20changes%20and%20aircraft%20noise%20in%20general.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: leicestermercury.co.uk  
    Title: triangular aircraft strange lights every 4614840  
-   Link: <a href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow">https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840</a>  
+   Link:<a href="https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840" target="_blank" rel="noopener noreferrer nofollow">https://www.leicestermercury.co.uk/news/local-news/triangular-aircraft-strange-lights-every-4614840</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: spacecentre.co.uk  
    Title: what was that bright light in the sky  
-   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/</a>  
+   Link:<a href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
    Title: Anti-Collision Lights  
-   Link: <a href="https://www.caa.co.uk/media/mlsbpgub/anti-collision-lights-a-view-from-the-ground.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/mlsbpgub/anti-collision-lights-a-view-from-the-ground.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/mlsbpgub/anti-collision-lights-a-view-from-the-ground.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/mlsbpgub/anti-collision-lights-a-view-from-the-ground.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/592060026020601/posts/1077648504128415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/592060026020601/posts/1077648504128415/</a>  
+   Link:<a href="https://www.facebook.com/groups/592060026020601/posts/1077648504128415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/592060026020601/posts/1077648504128415/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalmuseumsgreenwich/videos/space-rocks/818278379030741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/videos/space-rocks/818278379030741/</a>  
+   Link:<a href="https://www.facebook.com/royalmuseumsgreenwich/videos/space-rocks/818278379030741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/videos/space-rocks/818278379030741/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained | Dudley Dorito - A black country UFO mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained | Dudley Dorito - A black country UFO mystery...</p></details>
    Published: May 2008  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: artscouncil.org.uk  
-   Link: <a href="https://www.artscouncil.org.uk/media/24469/download?attachment=" target="_blank" rel="noopener noreferrer nofollow">https://www.artscouncil.org.uk/media/24469/download?attachment=</a>  
+   Link:<a href="https://www.artscouncil.org.uk/media/24469/download?attachment=" target="_blank" rel="noopener noreferrer nofollow">https://www.artscouncil.org.uk/media/24469/download?attachment=</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Aviationexam/posts/-aircraft-lights-arent-just-for-visibility-theyre-defined-by-air-lawfrom-sunset-/1463057395855371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Aviationexam/posts/-aircraft-lights-arent-just-for-visibility-theyre-defined-by-air-lawfrom-sunset-/1463057395855371/</a>  
+   Link:<a href="https://www.facebook.com/Aviationexam/posts/-aircraft-lights-arent-just-for-visibility-theyre-defined-by-air-lawfrom-sunset-/1463057395855371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Aviationexam/posts/-aircraft-lights-arent-just-for-visibility-theyre-defined-by-air-lawfrom-sunset-/1463057395855371/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQ4ZQgdiG5z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ4ZQgdiG5z/</a>  
+   Link:<a href="https://www.instagram.com/reel/DQ4ZQgdiG5z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ4ZQgdiG5z/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW0g8TJDYvK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW0g8TJDYvK/</a>  
+   Link:<a href="https://www.instagram.com/p/DW0g8TJDYvK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW0g8TJDYvK/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EastMidsAirport/posts/east-midlands-airport-has-launched-a-new-online-tool-to-provide-advice-and-infor/1372928404874404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EastMidsAirport/posts/east-midlands-airport-has-launched-a-new-online-tool-to-provide-advice-and-infor/1372928404874404/</a>  
+   Link:<a href="https://www.facebook.com/EastMidsAirport/posts/east-midlands-airport-has-launched-a-new-online-tool-to-provide-advice-and-infor/1372928404874404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EastMidsAirport/posts/east-midlands-airport-has-launched-a-new-online-tool-to-provide-advice-and-infor/1372928404874404/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: eastmidlandsairport.com  
-   Link: <a href="https://www.eastmidlandsairport.com/community/future-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.eastmidlandsairport.com/community/future-airspace/</a>  
+   Link:<a href="https://www.eastmidlandsairport.com/community/future-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.eastmidlandsairport.com/community/future-airspace/</a>  

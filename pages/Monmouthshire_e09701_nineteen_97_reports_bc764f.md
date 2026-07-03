@@ -248,39 +248,39 @@ image: /assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-overview-s
 
 ## Introduction
 
-The 1997 Newport, Llanwern, Abergavenny and Cwmbran reports are small entries in the Ministry of Defence’s published UFO sighting lists, but they matter because they show that [Monmouthshire]({{ 'what-really-happened-in-monmouthshires/' | relative_url }})’s UFO record did not begin with the later orange-light and sky-lantern wave. In 1997, the local pattern was already varied: a cream-coloured light near the A449 at Llanwern and Newport, a black triangular object over Abergavenny, a very bright white object apparently coming down a road, and a fast small triangular object near Cwmbran. None is a strong, independently verified case. The value lies in the comparison: these reports are early, brief, geographically clustered around historic Monmouthshire, and more mixed in description than the better-known 2008–09 “orange orb” surge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+The 1997 Newport, Llanwern, Abergavenny and Cwmbran reports are small entries in the Ministry of Defence’s published UFO sighting lists, but they matter because they show that [Monmouthshire]({{ 'what-really-happened-in-monmouthshires/' | relative_url }})’s UFO record did not begin with the later orange-light and sky-lantern wave. In 1997, the local pattern was already varied: a cream-coloured light near the A449 at Llanwern and Newport, a black triangular object over Abergavenny, a very bright white object apparently coming down a road, and a fast small triangular object near Cwmbran. None is a strong, independently verified case. The value lies in the comparison: these reports are early, brief, geographically clustered around historic Monmouthshire, and more mixed in description than the better-known 2008–09 “orange orb” surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 
 <img src="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-overview.webp" | relative_url }}" alt="Overview image for 1997 Reports" loading="eager" decoding="sync" fetchpriority="high">
-For this page, Monmouthshire is used in its historic county sense. That matters because Newport, Llanwern and Cwmbran sit outside today’s smaller Monmouthshire council area, but within the historic Monmouthshire/Gwent record used by many older local and official references. Britannica notes that the present county lies within the historic county, while the historic county also included Newport, Torfaen, most of Blaenau Gwent and part of Caerphilly; the Wikimedia Commons historic-county map likewise shows Monmouthshire as one of Wales’s thirteen historic counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span></span></span>
+For this page, Monmouthshire is used in its historic county sense. That matters because Newport, Llanwern and Cwmbran sit outside today’s smaller Monmouthshire council area, but within the historic Monmouthshire/Gwent record used by many older local and official references. Britannica notes that the present county lies within the historic county, while the historic county also included Newport, Torfaen, most of Blaenau Gwent and part of Caerphilly; the Wikimedia Commons historic-county map likewise shows Monmouthshire as one of Wales’s thirteen historic counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span></span></span>
 
 ## What the 1997 entries actually say
 
-The core source is the Ministry of Defence’s published “UFO Reports 1997” table, released through GOV.UK as part of the wider set of UK UFO reports from 1997 to 2009. GOV.UK describes these documents as lists giving the date, time, location and a brief description of each sighting, not as full investigative case files. That distinction is essential: the entries preserve what was reported, but they do not show that the MoD confirmed an unusual craft, checked radar, interviewed witnesses in depth, or ruled out ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+The core source is the Ministry of Defence’s published “UFO Reports 1997” table, released through GOV.UK as part of the wider set of UK UFO reports from 1997 to 2009. GOV.UK describes these documents as lists giving the date, time, location and a brief description of each sighting, not as full investigative case files. That distinction is essential: the entries preserve what was reported, but they do not show that the MoD confirmed an unusual craft, checked radar, interviewed witnesses in depth, or ruled out ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 The Monmouthshire-related entries form a loose sequence across the year:
 
 Date and timePlace as listedCounty as listedBrief reported description18 February 1997, 22:06A449/Llanwern/NewportMonmouthshire“There was a cream coloured light.”22 May 1997, 23:10AbergavennyMonmouthshire“One large, triangular shaped object. Black in colour. Was moving to the West.”8 August 1997, 23:30AbergavennyMonmouthshire“One object, that was bigger than a car. It was white and very bright. It came down the road.”12 August 1997, 17:30“Cumbran nr Newport”Gwent“A small triangular shaped object. It had black wings, and was sausage shaped in the middle. It was moving very fast.”
 
-The spelling “Cumbran” appears to be the MoD list’s rendering of Cwmbran, near Newport, and the county label changes from Monmouthshire to Gwent for that entry. That is not unusual for this area’s UFO history: official and local references often move between historic Monmouthshire, Gwent-era administration, modern council areas and town names. The place-name issue should not be overplayed, but it is important for readers trying to understand why Newport, Llanwern and Cwmbran appear on a Monmouthshire page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The spelling “Cumbran” appears to be the MoD list’s rendering of Cwmbran, near Newport, and the county label changes from Monmouthshire to Gwent for that entry. That is not unusual for this area’s UFO history: official and local references often move between historic Monmouthshire, Gwent-era administration, modern council areas and town names. The place-name issue should not be overplayed, but it is important for readers trying to understand why Newport, Llanwern and Cwmbran appear on a Monmouthshire page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-1-dark.svg" | relative_url }}" alt="1997 Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The A449 and Llanwern light report
 
-The earliest of the group is also the thinnest. On 18 February 1997 at 22:06, the MoD list records an A449/Llanwern/Newport report in Monmouthshire: “There was a cream coloured light.” That is all the public table gives. There is no duration, direction of travel, altitude estimate, sound, weather, witness occupation, number of witnesses, photograph, radar note or later conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The earliest of the group is also the thinnest. On 18 February 1997 at 22:06, the MoD list records an A449/Llanwern/Newport report in Monmouthshire: “There was a cream coloured light.” That is all the public table gives. There is no duration, direction of travel, altitude estimate, sound, weather, witness occupation, number of witnesses, photograph, radar note or later conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-That brevity cuts both ways. It makes the report poor evidence for anything extraordinary, because a single cream-coloured light near roads, industry and urban skyglow could have many mundane causes. But it also makes the entry useful historically. It shows that a sighting from the Newport-Llanwern corridor entered the national MoD reporting stream months before the better-developed Abergavenny and Cwmbran-style entries later in the year. Llanwern itself is not just a vague label: gazetteer data places Llanwern in historic Monmouthshire, within the Newport council area and Gwent police area, which helps explain why a single local report can sit across several overlapping geographic labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llanwern%2C_Monmouthshire_27601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+That brevity cuts both ways. It makes the report poor evidence for anything extraordinary, because a single cream-coloured light near roads, industry and urban skyglow could have many mundane causes. But it also makes the entry useful historically. It shows that a sighting from the Newport-Llanwern corridor entered the national MoD reporting stream months before the better-developed Abergavenny and Cwmbran-style entries later in the year. Llanwern itself is not just a vague label: gazetteer data places Llanwern in historic Monmouthshire, within the Newport council area and Gwent police area, which helps explain why a single local report can sit across several overlapping geographic labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Llanwern%2C_Monmouthshire_27601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 The location also matters because it is not a remote hilltop sighting. The A449 and Newport/Llanwern area sits in a transport and industrial landscape, where vehicle lights, aircraft on approach routes, industrial lighting, reflections, haze and ordinary celestial objects can all be misread under certain conditions. The public MoD entry does not tell us which, if any, of those explanations fits. The safest classification is therefore “weakly documented unidentified light”, not “unexplained craft”.
 
 ## Abergavenny’s bright white object
 
-The May Abergavenny report is more visually distinctive. On 22 May 1997 at 23:10, the MoD table lists “one large, triangular shaped object”, black in colour, moving west. This is the strongest of the 1997 Monmouthshire entries if judged by shape and movement, because it describes an object rather than only a light. Even so, the entry is only a single-line summary. It gives no angular size, elevation, duration, sound, weather, witness number, flight path, or whether any aircraft activity was checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The May Abergavenny report is more visually distinctive. On 22 May 1997 at 23:10, the MoD table lists “one large, triangular shaped object”, black in colour, moving west. This is the strongest of the 1997 Monmouthshire entries if judged by shape and movement, because it describes an object rather than only a light. Even so, the entry is only a single-line summary. It gives no angular size, elevation, duration, sound, weather, witness number, flight path, or whether any aircraft activity was checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-The triangular description is worth noting because black-triangle reports were a recognised part of late twentieth-century UFO reporting in Britain and elsewhere. In the 1997 MoD table, triangular objects appear in several locations, not only Monmouthshire: for example Roath/Cardiff in February, East Woodford in March, Calne in May, and Corsham in August all received triangular descriptions of one kind or another. That wider pattern does not prove a common cause, but it warns against treating the Abergavenny entry as isolated or uniquely local. It may reflect the period’s broader sighting vocabulary as much as a distinct Monmouthshire phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The triangular description is worth noting because black-triangle reports were a recognised part of late twentieth-century UFO reporting in Britain and elsewhere. In the 1997 MoD table, triangular objects appear in several locations, not only Monmouthshire: for example Roath/Cardiff in February, East Woodford in March, Calne in May, and Corsham in August all received triangular descriptions of one kind or another. That wider pattern does not prove a common cause, but it warns against treating the Abergavenny entry as isolated or uniquely local. It may reflect the period’s broader sighting vocabulary as much as a distinct Monmouthshire phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-A second Abergavenny entry followed on 8 August 1997 at 23:30. This one described an object “bigger than a car”, white and very bright, which “came down the road.” The wording is striking because it sounds more ground-level or road-aligned than a typical distant sky-light report. But the phrase is also ambiguous. It could mean the object appeared to travel along the line of the road from the witness’s perspective, not necessarily that a physical object was literally driving or descending on the road. Without the original report form, witness statement or site details, the dramatic reading cannot be sustained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+A second Abergavenny entry followed on 8 August 1997 at 23:30. This one described an object “bigger than a car”, white and very bright, which “came down the road.” The wording is striking because it sounds more ground-level or road-aligned than a typical distant sky-light report. But the phrase is also ambiguous. It could mean the object appeared to travel along the line of the road from the witness’s perspective, not necessarily that a physical object was literally driving or descending on the road. Without the original report form, witness statement or site details, the dramatic reading cannot be sustained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The two Abergavenny reports are therefore best read together but not merged. The May report is a black triangular object moving west; the August report is a very bright white object apparently approaching along a road. They do not describe the same thing, and the available evidence does not show a continuing local flap around Abergavenny. What they do show is that Abergavenny appears more than once in the 1997 MoD data, giving it a small but real place in the historic Monmouthshire UFO record.
 
@@ -289,21 +289,21 @@ The two Abergavenny reports are therefore best read together but not merged. The
 
 ## Cwmbran’s fast triangular object
 
-The Cwmbran-area entry is dated 12 August 1997 at 17:30 and appears in the MoD table as “Cumbran nr Newport”, county “Gwent”. It describes “a small triangular shaped object” with black wings, “sausage shaped in the middle”, moving very fast. This is one of the more concrete descriptions in the local 1997 group because it includes shape, colour, structure and speed. It is also a daylight or early-evening report rather than a late-night light report, which makes it different from the February and Abergavenny entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Cwmbran-area entry is dated 12 August 1997 at 17:30 and appears in the MoD table as “Cumbran nr Newport”, county “Gwent”. It describes “a small triangular shaped object” with black wings, “sausage shaped in the middle”, moving very fast. This is one of the more concrete descriptions in the local 1997 group because it includes shape, colour, structure and speed. It is also a daylight or early-evening report rather than a late-night light report, which makes it different from the February and Abergavenny entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The description invites an aviation reading before it invites an exotic one. “Black wings” and a central “sausage” shape sound at least partly like an attempt to describe a winged object, possibly seen briefly and at speed. That could point towards a conventional aircraft, model aircraft, bird, balloon, glider-like object or perspective effect, depending on size, distance and angle. The MoD summary does not provide enough information to choose between those possibilities.
 
-The entry also demonstrates why county labelling matters. Cwmbran is strongly associated with Torfaen/Gwent in modern administrative terms, but it belongs comfortably in a historic Monmouthshire UFO page because the project’s geography follows historic county [boundaries]({{ 'boundaries-1d7267/' | relative_url }}) and recognises Gwent-era records. The change from “Monmouthshire” in the A449 and Abergavenny entries to “Gwent” in the Cwmbran entry should not be treated as evidence of a separate region; it is better understood as a records-language problem in an area whose administrative identity has changed over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span></span></span>
+The entry also demonstrates why county labelling matters. Cwmbran is strongly associated with Torfaen/Gwent in modern administrative terms, but it belongs comfortably in a historic Monmouthshire UFO page because the project’s geography follows historic county [boundaries]({{ 'boundaries-1d7267/' | relative_url }}) and recognises Gwent-era records. The change from “Monmouthshire” in the A449 and Abergavenny entries to “Gwent” in the Cwmbran entry should not be treated as evidence of a separate region; it is better understood as a records-language problem in an area whose administrative identity has changed over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span></span></span>
 
 
 <img src="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-3-dark.svg" | relative_url }}" alt="1997 Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these reports matter before the lantern wave
 
-The main reason these 1997 reports matter is comparative. In the late 2000s, many UK UFO reports involved orange lights, often in groups, moving silently and slowly. The National Archives’ 2013 material on the closing of the MoD UFO desk says 2009 reports trebled compared with the previous year, and that many accounts of slowly moving orange-light formations resembled Chinese lanterns, even though witnesses did not always recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The main reason these 1997 reports matter is comparative. In the late 2000s, many UK UFO reports involved orange lights, often in groups, moving silently and slowly. The National Archives’ 2013 material on the closing of the MoD UFO desk says 2009 reports trebled compared with the previous year, and that many accounts of slowly moving orange-light formations resembled Chinese lanterns, even though witnesses did not always recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
-By contrast, the 1997 Monmouthshire-related entries are not a simple lantern pattern. The A449/Llanwern report is a cream-coloured light; the May Abergavenny report is a black triangle; the August Abergavenny report is a very bright white object; and the Cwmbran report is a fast small triangular object with black wings and a sausage-like centre. That variety does not make them stronger evidence, but it does make them useful as older local material. They show that Monmouthshire’s UFO history contains more than the later national surge of orange lights and lantern-like sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[National Archives+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+By contrast, the 1997 Monmouthshire-related entries are not a simple lantern pattern. The A449/Llanwern report is a cream-coloured light; the May Abergavenny report is a black triangle; the August Abergavenny report is a very bright white object; and the Cwmbran report is a fast small triangular object with black wings and a sausage-like centre. That variety does not make them stronger evidence, but it does make them useful as older local material. They show that Monmouthshire’s UFO history contains more than the later national surge of orange lights and lantern-like sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-The timing is also notable. The 1997 reports fall within the period when the MoD was still receiving and collating public UFO reports, and around the time of the internal Defence Intelligence study later known as Project Condign. The National Archives explains that the MoD kept UFO records from the 1960s and that many reports describe shapes, lights and flashes, often explainable, while others are more unusual. Project Condign’s archived description states that the study assessed reports mainly for possible defence value: whether they suggested a threat to the UK or potentially interesting military technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+The timing is also notable. The 1997 reports fall within the period when the MoD was still receiving and collating public UFO reports, and around the time of the internal Defence Intelligence study later known as Project Condign. The National Archives explains that the MoD kept UFO records from the 1960s and that many reports describe shapes, lights and flashes, often explainable, while others are more unusual. Project Condign’s archived description states that the study assessed reports mainly for possible defence value: whether they suggested a threat to the UK or potentially interesting military technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 That official context is easy to misread. The existence of an MoD entry does not mean the sighting was judged extraordinary. It means a report was received and logged. For local history, that is still meaningful: it gives dates, places and descriptions that can be compared with press accounts, police logs, aircraft activity, weather data and later witness recollections. For proof of an unknown craft, it is not enough.
 
@@ -311,7 +311,7 @@ That official context is easy to misread. The existence of an MoD entry does not
 <img src="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-2-dark.svg" | relative_url }}" alt="1997 Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monmouthshire_e09701_nineteen_97_reports_bc764f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What weakens the evidence
 
-The biggest weakness is the lack of primary detail. The published MoD table does not name witnesses, provide original statements, include sketches, record interview questions, give exact observation points, or show any technical follow-up. In the 1997 Monmouthshire group, there is no public indication of radar confirmation, pilot corroboration, police pursuit, physical trace evidence, recovered material, or a later official finding that ordinary explanations had been ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+The biggest weakness is the lack of primary detail. The published MoD table does not name witnesses, provide original statements, include sketches, record interview questions, give exact observation points, or show any technical follow-up. In the 1997 Monmouthshire group, there is no public indication of radar confirmation, pilot corroboration, police pursuit, physical trace evidence, recovered material, or a later official finding that ordinary explanations had been ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 There are also ordinary explanatory pressures on each report:
 
@@ -339,194 +339,194 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Before the Lantern Wave Monmouthshire in 1997. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Before the Lantern Wave Monmouthshire in 1997. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Strong fit for late-1990s British UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for late-1990s British UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains how official reports should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official reports should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating brief sighting descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating brief sighting descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Encourages critical interpretation of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical interpretation of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift"><img src="{{ '/assets/images/marketplace-covers/0077cf775cd1852f7313.jpg' | relative_url }}" alt="Listing image for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift"><img src="{{ '/assets/images/marketplace-covers/0077cf775cd1852f7313.jpg' | relative_url }}" alt="Listing image for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 3 Grey Alien Figurines Hand Painted UFO Alien Decor Collectible AU"><img src="{{ '/assets/images/marketplace-covers/ed90a7553610f3ff57fa.jpg' | relative_url }}" alt="Listing image for Set of 3 Grey Alien Figurines Hand Painted UFO Alien Decor Collectible AU" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Set of 3 Grey Alien Figurines Hand Painted UFO Alien Decor Collectible AU</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 3 Grey Alien Figurines Hand Painted UFO Alien Decor Collectible AU"><img src="{{ '/assets/images/marketplace-covers/ed90a7553610f3ff57fa.jpg' | relative_url }}" alt="Listing image for Set of 3 Grey Alien Figurines Hand Painted UFO Alien Decor Collectible AU" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Set of 3 Grey Alien Figurines Hand Painted UFO Alien Decor Collectible AU</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1997-reports-before-the-lantern-wave-monmouthshire-in-1997-monmouthshire-ufo-collectible-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,190 +732,190 @@ That makes them useful for a county-level UFO history. They show how Monmouthshi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Monmouthshire | Wales, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Monmouthshire</a>  
+   Link:<a href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Monmouthshire</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/gwent" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/gwent</a>  
+   Link:<a href="https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/gwent" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/gwent</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commons.wikimedia.org  
    Title: File:England and Wales Historic Counties Monmouthshire map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEngland_and_Wales_Historic_Counties_Monmouthshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_and_Wales_Historic_Counties_Monmouthshire_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEngland_and_Wales_Historic_Counties_Monmouthshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_and_Wales_Historic_Counties_Monmouthshire_map.svg</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: Category:Maps of counties of Wales  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Monmouthshire Trad.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWalesMonmouthshireTrad.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWalesMonmouthshireTrad.png</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWalesMonmouthshireTrad.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWalesMonmouthshireTrad.png</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: commons.wikimedia.org  
    Title: Category:Historic counties of Wales  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_Wales</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_Wales</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Usk" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Usk</a>  
+   Link:<a href="https://www.britannica.com/place/Usk" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Usk</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Llanwern%2C_Monmouthshire_27601" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Llanwern%2C_Monmouthshire_27601</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Llanwern%2C_Monmouthshire_27601" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Llanwern%2C_Monmouthshire_27601</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Monmouthshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Monmouthshire</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177905516269509/posts/2086042202122488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/2086042202122488/</a>  
+   Link:<a href="https://www.facebook.com/groups/177905516269509/posts/2086042202122488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/2086042202122488/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Monmouthshire</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Monmouthshire</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFOs in the United Kingdom  
-   Link: <a href="https://www.youtube.com/watch?v=13DtqQ3RHt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=13DtqQ3RHt0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK &#x27;not doing enough&#x27; to investigate UFO reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=13DtqQ3RHt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=13DtqQ3RHt0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK &#x27;not doing enough&#x27; to investigate UFO reports...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: UK 'not doing enough' to investigate UFO reports  
-   Link: <a href="https://www.youtube.com/watch?v=oJJ5unxbvho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJJ5unxbvho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British UFO Files | Full UFO Documentary | Unseen Footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oJJ5unxbvho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJJ5unxbvho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British UFO Files | Full UFO Documentary | Unseen Footage...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/</a>  
+   Link:<a href="https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/</a>  
+   Link:<a href="https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/monmouthshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/monmouthshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/monmouthshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/monmouthshire/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZSA2qFsfEw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZSA2qFsfEw/</a>  
+   Link:<a href="https://www.instagram.com/p/DZSA2qFsfEw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZSA2qFsfEw/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation</a>  
+   Link:<a href="https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation</a>  

@@ -118,9 +118,9 @@ heading_title: What Really Happened Over Selkirkshire?
 page_heading_title: What Really Happened Over Selkirkshire?
 source_count: 140
 infographic_count: 3
-page_website_name: Selkirkshire UFOs
+page_website_name: Selkirkshire
 page_banner_line: Balanced evidence on Selkirkshire's sparse but intriguing UFO record.
-site_website_name: Selkirkshire UFOs
+site_website_name: Selkirkshire
 site_banner_line: Balanced evidence on Selkirkshire's sparse but intriguing UFO record.
 site_image_description: A quiet Southern Uplands valley near Selkirk under a wide afternoon sky with a small bright reflective object above the hills.
 output_language: English
@@ -695,7 +695,7 @@ That makes Selkirkshire a useful small-county case study in how UK UFO history o
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Selkirkshire?" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Selkirkshire fits on the UFO map
 
-For this project, Selkirkshire is treated as the historic county rather than simply as a modern council label. Wikishire describes the County of Selkirk as a Southern Uplands shire, with Selkirk as its county town, bordered by Peeblesshire, Midlothian, Berwickshire, Roxburghshire and Dumfriesshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Selkirkshire</span><span class="citation-popover-snippet">Wikishire Selkirkshire</span></span></span> Britannica likewise places Selkirkshire in south-eastern Scotland, in the rolling uplands cut by the Ettrick and Yarrow waters, and notes that it now lies within the Scottish Borders council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+For this project, Selkirkshire is treated as the historic county rather than simply as a modern council label. Wikishire describes the County of Selkirk as a Southern Uplands shire, with Selkirk as its county town, bordered by Peeblesshire, Midlothian, Berwickshire, Roxburghshire and Dumfriesshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Selkirkshire</span><span class="citation-popover-snippet">Wikishire Selkirkshire</span></span></span> Britannica likewise places Selkirkshire in south-eastern Scotland, in the rolling uplands cut by the Ettrick and Yarrow waters, and notes that it now lies within the Scottish Borders council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 That distinction matters for UFO research. Modern reporting may use “Scottish Borders”, “Selkirk”, “Galashiels”, “Ettrick”, or neighbouring county names, while older and MOD-era records may use historic or former administrative county labels. A reader searching only for “Scottish Borders UFOs” may miss an entry indexed as “Selkirkshire”, while a search for “Selkirk UFO” can also pick up irrelevant results from other places named Selkirk outside Scotland.
 
@@ -703,7 +703,7 @@ The landscape also affects interpretation. Selkirkshire’s open hill country, v
 
 ## The 2 February 1997 Selkirk report
 
-The core Selkirkshire UFO record is short enough to quote in substance: on 2 February 1997, at 14:25, the MOD’s public UFO report table lists “Selkirk” in “Selkirkshire” and describes the sighting as a “mirror like object” that “was flickering”. The same table places it among routine public reports from across the UK, not as a special defence incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The core Selkirkshire UFO record is short enough to quote in substance: on 2 February 1997, at 14:25, the MOD’s public UFO report table lists “Selkirk” in “Selkirkshire” and describes the sighting as a “mirror like object” that “was flickering”. The same table places it among routine public reports from across the UK, not as a special defence incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The time is important. This was a daylight or afternoon report, not a classic night-time light-in-the-sky case. A “mirror like” and “flickering” object seen in daylight points first to reflected sunlight rather than self-luminous lights. Plausible ordinary candidates include a high aircraft catching the sun, a reflective balloon, wind-blown material, a distant object rotating as it drifts, or an atmospheric optical effect. The public table does not provide enough detail to choose between them.
 
@@ -713,11 +713,11 @@ What makes the case worth preserving is not that it is spectacular, but that it 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Selkirkshire? illustration 1" data-theme-src-dark="{{ "/assets/images/Selkirkshire_8fd2aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Selkirkshire_8fd2aa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MOD record does and does not prove
 
-The GOV.UK UFO reports page describes the released files as “Unidentified Flying Object reports 1997 to 2009” and says the documents show dates, times, locations and brief descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That is exactly the level of information available for Selkirk: a dated entry in a national sightings list.
+The GOV.UK UFO reports page describes the released files as “Unidentified Flying Object reports 1997 to 2009” and says the documents show dates, times, locations and brief descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That is exactly the level of information available for Selkirk: a dated entry in a national sightings list.
 
 It is easy to overread such a listing. “Unidentified” in this context means unidentified from the information supplied, not confirmed alien, advanced, hostile, or technologically anomalous. The MOD’s public-facing UFO material collected reports from the public and other channels, but many entries are no more than short descriptions. Some reports in the same national files are plainly suggestive of ordinary [explanations]({{ 'explanations-eb120e/' | relative_url }}), including meteors, aircraft-like lights, balloons, and advertising airships.
 
-The MOD later stopped running its UFO reporting function. In a 2024 parliamentary answer, the Ministry of Defence stated that it ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released all MOD UFO files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span> That means a modern reader should not expect a continuing MOD Selkirkshire UFO file after 2009 unless the matter arose under another defence, aviation, policing, or safety category.
+The MOD later stopped running its UFO reporting function. In a 2024 parliamentary answer, the Ministry of Defence stated that it ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released all MOD UFO files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span> That means a modern reader should not expect a continuing MOD Selkirkshire UFO file after 2009 unless the matter arose under another defence, aviation, policing, or safety category.
 
 ## The most likely explanations for a “mirror like” flicker
 
@@ -725,7 +725,7 @@ A daylight “mirror like” object is a different kind of problem from a dark-s
 
 A reflective balloon or wind-borne object can flash as it rotates. A distant aircraft can briefly appear as a bright, metallic object if sunlight reflects from the fuselage or wings, especially when the aircraft itself is too far away for its shape to be recognised. A high-altitude object can also seem stationary or slow if it is moving almost directly towards or away from the observer.
 
-Atmospheric optics are also relevant. The Met Office explains that parhelia, or sun dogs, are produced when sunlight passes through hexagonal ice crystals in cirrus cloud, often appearing as bright spots on either side of the sun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Optical effects: nature&#x27;s light show</span><span class="citation-popover-snippet">Met Office Optical effects: nature&#x27;s light show</span></span></span> A sun dog would not automatically match the Selkirk report, because the MOD entry does not say the object was near the sun, coloured, paired, or fixed in position. But it is the kind of daylight sky effect that investigators would want to rule out before treating a “mirror like” flicker as unexplained.
+Atmospheric optics are also relevant. The Met Office explains that parhelia, or sun dogs, are produced when sunlight passes through hexagonal ice crystals in cirrus cloud, often appearing as bright spots on either side of the sun.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Optical effects: nature&#x27;s light show</span><span class="citation-popover-snippet">Met Office Optical effects: nature&#x27;s light show</span></span></span> A sun dog would not automatically match the Selkirk report, because the MOD entry does not say the object was near the sun, coloured, paired, or fixed in position. But it is the kind of daylight sky effect that investigators would want to rule out before treating a “mirror like” flicker as unexplained.
 
 The strongest honest conclusion is therefore modest: the Selkirk report is unresolved in the public record, but it is weakly evidenced and has several plausible conventional pathways.
 
@@ -736,7 +736,7 @@ The strongest honest conclusion is therefore modest: the Selkirk report is unres
 
 Selkirkshire has no obvious connection with a major RAF UFO case in the way that West Lothian is associated with the Livingston/Dechmont incident or Suffolk with Rendlesham Forest. Its relevance is more ordinary: rural Scottish skies sit under broader civil and military airspace, and sightings may be reported through different channels depending on who sees them and whether safety is involved.
 
-The Civil Aviation Authority has explained in an FOI response that UFO reports, if made to the CAA, would fall under the Mandatory Occurrence Reporting scheme, although that scheme is not designed specifically to capture UFO information. It is primarily an aviation-safety reporting system, with restrictions on disclosure because occurrence reports are meant to improve civil aviation safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Corporate Centre</span><span class="citation-popover-snippet">Civil Aviation Authority Corporate Centre</span></span></span>
+The Civil Aviation Authority has explained in an FOI response that UFO reports, if made to the CAA, would fall under the Mandatory Occurrence Reporting scheme, although that scheme is not designed specifically to capture UFO information. It is primarily an aviation-safety reporting system, with restrictions on disclosure because occurrence reports are meant to improve civil aviation safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Corporate Centre</span><span class="citation-popover-snippet">Civil Aviation Authority Corporate Centre</span></span></span>
 
 That matters for interpreting gaps. A local sighting might appear in MOD tables, a police log, a local newspaper, a private investigator’s archive, or nowhere public at all. Conversely, an aviation-safety report might not be released in a way that looks like a classic UFO case file. Absence from one archive is not proof that nothing was ever reported, but it does limit what can responsibly be claimed.
 
@@ -783,194 +783,194 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Selkirkshire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Selkirkshire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong fit for a page about a small Scottish county appearing in official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page about a small Scottish county appearing in official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains how UK sightings entered official channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UK sightings entered official channels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding unidentified sightings without sensationalism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding unidentified sightings without sensationalism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-selkirkshire-selkirkshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -986,7 +986,7 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1006,7 +1006,7 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1038,7 +1038,7 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1090,7 +1090,7 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1135,7 +1135,7 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1176,185 +1176,185 @@ The responsible takeaway is clear: Selkirkshire has a place in the UK UFO record
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirkshire</a>  
+   Link:<a href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirkshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Optical effects: nature's light show  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Selkirk-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirk-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Selkirk-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirk-Scotland</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
+   Link:<a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Galashiels" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Galashiels</a>  
+   Link:<a href="https://www.britannica.com/place/Galashiels" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Galashiels</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: FOI UFO DMC publishing  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Commons/1976-03-01/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1976-03-01/WrittenAnswers</a>  
+   Link:<a href="https://hansard.parliament.uk/html/Commons/1976-03-01/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1976-03-01/WrittenAnswers</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: transport.gov.scot  
-   Link: <a href="https://www.transport.gov.scot/transport-network/airports/" target="_blank" rel="noopener noreferrer nofollow">https://www.transport.gov.scot/transport-network/airports/</a>  
+   Link:<a href="https://www.transport.gov.scot/transport-network/airports/" target="_blank" rel="noopener noreferrer nofollow">https://www.transport.gov.scot/transport-network/airports/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scotborders.gov.uk  
-   Link: <a href="https://www.scotborders.gov.uk/downloads/file/682/selkirk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/downloads/file/682/selkirk.pdf</a>  
+   Link:<a href="https://www.scotborders.gov.uk/downloads/file/682/selkirk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/downloads/file/682/selkirk.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/223052" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/223052</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/223052" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/223052</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hko.gov.hk  
    Title: 00353 indepth anatomy of the atmospheric optical phenomenon sun dog  
-   Link: <a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
+   Link:<a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Selkirkshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirkshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirkshire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Corporate Centre  
-   Link: <a href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selkirkshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selkirkshire</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Sun dog  
-   Link: <a href="https://en.wikipedia.org/wiki/Sun_dog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sun_dog</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sun_dog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sun_dog</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Selkirk" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirk</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Selkirk" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirk</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/selkirkshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/selkirkshire/</a>  
+   Link:<a href="https://realcounties.com/county/selkirkshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/selkirkshire/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10162085337432280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10162085337432280/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10162085337432280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10162085337432280/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/</a>  
+   Link:<a href="https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BailiwickExpress/posts/a-crop-circle-has-mysteriously-appeared-in-a-field-in-trinity-leaving-some-islan/5244516192270425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BailiwickExpress/posts/a-crop-circle-has-mysteriously-appeared-in-a-field-in-trinity-leaving-some-islan/5244516192270425/</a>  
+   Link:<a href="https://www.facebook.com/BailiwickExpress/posts/a-crop-circle-has-mysteriously-appeared-in-a-field-in-trinity-leaving-some-islan/5244516192270425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BailiwickExpress/posts/a-crop-circle-has-mysteriously-appeared-in-a-field-in-trinity-leaving-some-islan/5244516192270425/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/travel-planning/plane" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/travel-planning/plane</a>  
+   Link:<a href="https://www.visitscotland.com/travel-planning/plane" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/travel-planning/plane</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ourairports.com  
-   Link: <a href="https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html</a>  
+   Link:<a href="https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUJYynFiMtS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUJYynFiMtS/</a>  
+   Link:<a href="https://www.instagram.com/p/DUJYynFiMtS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUJYynFiMtS/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?SearchType=freesearch%40freesearch.com&amp;TownName=Selkirk+Common++Scottish+Borders+&amp;placename=Selkirk+Common++Scottish+Borders+&amp;pwd=&amp;search_location=55.533938%2C+-2.825418&amp;search_range=10000&amp;search_type=archi_town_search" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?SearchType=freesearch%40freesearch.com&amp;TownName=Selkirk+Common++Scottish+Borders+&amp;placename=Selkirk+Common++Scottish+Borders+&amp;pwd=&amp;search_location=55.533938%2C+-2.825418&amp;search_range=10000&amp;search_type=archi_town_search</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?SearchType=freesearch%40freesearch.com&amp;TownName=Selkirk+Common++Scottish+Borders+&amp;placename=Selkirk+Common++Scottish+Borders+&amp;pwd=&amp;search_location=55.533938%2C+-2.825418&amp;search_range=10000&amp;search_type=archi_town_search" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?SearchType=freesearch%40freesearch.com&amp;TownName=Selkirk+Common++Scottish+Borders+&amp;placename=Selkirk+Common++Scottish+Borders+&amp;pwd=&amp;search_location=55.533938%2C+-2.825418&amp;search_range=10000&amp;search_type=archi_town_search</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcsheffield/posts/a-reform-uk-councillor-who-made-comments-about-monitoring-ufos-above-an-airport-/1370730038411787/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcsheffield/posts/a-reform-uk-councillor-who-made-comments-about-monitoring-ufos-above-an-airport-/1370730038411787/</a>  
+   Link:<a href="https://www.facebook.com/bbcsheffield/posts/a-reform-uk-councillor-who-made-comments-about-monitoring-ufos-above-an-airport-/1370730038411787/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcsheffield/posts/a-reform-uk-councillor-who-made-comments-about-monitoring-ufos-above-an-airport-/1370730038411787/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY27cWniAWX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY27cWniAWX/</a>  
+   Link:<a href="https://www.instagram.com/p/DY27cWniAWX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY27cWniAWX/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorvuezAkfneko73nweO-EemfpUdBTQGJ_nKq5fSgw0S8BltHIst" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorvuezAkfneko73nweO-EemfpUdBTQGJ_nKq5fSgw0S8BltHIst</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorvuezAkfneko73nweO-EemfpUdBTQGJ_nKq5fSgw0S8BltHIst" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorvuezAkfneko73nweO-EemfpUdBTQGJ_nKq5fSgw0S8BltHIst</a>  

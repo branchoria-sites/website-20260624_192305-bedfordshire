@@ -248,17 +248,17 @@ image: /assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-overview-s
 
 ## Introduction
 
-The Ministry of Defence UFO logs do show several reports from the [Huntingdonshire]({{ 'what-made-huntingdonshire-notice-strange/' | relative_url }}) area, especially Huntingdon and St Neots, but they do not show a hidden local “case file” or a sustained investigation. What survives in the public MoD tables is much thinner: dates, times, place names, counties, and brief descriptions such as a red light zig-zagging, a rod-like object seen through binoculars, dull yellow lights, or a red streak with a silver ball at its front. That makes the records useful, but mainly as evidence of how ordinary sightings entered official paperwork. They show a small cluster of brief, low-detail reports in a county with military and aviation associations, not proof of extraordinary craft over Huntingdonshire. GOV.UK describes the published set as UK UFO reports from 1997 to 2009, giving dates, times, locations and short sighting descriptions rather than full investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+The Ministry of Defence UFO logs do show several reports from the [Huntingdonshire]({{ 'what-made-huntingdonshire-notice-strange/' | relative_url }}) area, especially Huntingdon and St Neots, but they do not show a hidden local “case file” or a sustained investigation. What survives in the public MoD tables is much thinner: dates, times, place names, counties, and brief descriptions such as a red light zig-zagging, a rod-like object seen through binoculars, dull yellow lights, or a red streak with a silver ball at its front. That makes the records useful, but mainly as evidence of how ordinary sightings entered official paperwork. They show a small cluster of brief, low-detail reports in a county with military and aviation associations, not proof of extraordinary craft over Huntingdonshire. GOV.UK describes the published set as UK UFO reports from 1997 to 2009, giving dates, times, locations and short sighting descriptions rather than full investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 
 <img src="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-overview.webp" | relative_url }}" alt="Overview image for Mo D Logs" loading="eager" decoding="sync" fetchpriority="high">
 ## What The MoD Logs Are — And What They Are Not
 
-The Huntingdonshire entries sit within a national Ministry of Defence publication series, not a county-level investigation archive. The GOV.UK page lists yearly PDFs for UFO reports from 1997 to 2009 and states that the tables show the date, time, location and a brief description of each sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span> For a reader looking for dramatic evidence, that format is important: most entries are not witness statements, radar records, air traffic checks or case conclusions. They are a register of reports received.
+The Huntingdonshire entries sit within a national Ministry of Defence publication series, not a county-level investigation archive. The GOV.UK page lists yearly PDFs for UFO reports from 1997 to 2009 and states that the tables show the date, time, location and a brief description of each sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span> For a reader looking for dramatic evidence, that format is important: most entries are not witness statements, radar records, air traffic checks or case conclusions. They are a register of reports received.
 
-The National Archives gives the wider context. The MoD kept UFO records from the 1960s, and most of the surviving material describes shapes, lights and flashes, many of which could often be explained; early reports were commonly letters or phone calls from the public, sometimes from military sources, with possible explanations including Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> That is the right frame for Huntingdonshire. The local records are not meaningless, but they are sparse observations filtered through a national logging system.
+The National Archives gives the wider context. The MoD kept UFO records from the 1960s, and most of the surviving material describes shapes, lights and flashes, many of which could often be explained; early reports were commonly letters or phone calls from the public, sometimes from military sources, with possible explanations including Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> That is the right frame for Huntingdonshire. The local records are not meaningless, but they are sparse observations filtered through a national logging system.
 
-This also explains why the county label can look slightly wrong to historic-county readers. The MoD tables usually place Huntingdon and St Neots under Cambridgeshire, reflecting modern administrative geography. For this project, those entries still matter to Huntingdonshire because Huntingdon is the historic county town and St Neots lies in the south of Huntingdonshire on the Great Ouse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Huntingdonshire</span><span class="citation-popover-snippet">Wikishire Huntingdonshire</span></span></span>
+This also explains why the county label can look slightly wrong to historic-county readers. The MoD tables usually place Huntingdon and St Neots under Cambridgeshire, reflecting modern administrative geography. For this project, those entries still matter to Huntingdonshire because Huntingdon is the historic county town and St Neots lies in the south of Huntingdonshire on the Great Ouse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Huntingdonshire</span><span class="citation-popover-snippet">Wikishire Huntingdonshire</span></span></span>
 
 
 <img src="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Logs illustration 1" data-theme-src-dark="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -266,15 +266,15 @@ This also explains why the county label can look slightly wrong to historic-coun
 
 The clearest Huntingdonshire material in the MoD tables comes from a handful of entries between 2003 and 2008. They are short enough to read almost as field notes, and that brevity is the central lesson.
 
-On **19 February 2003 at 18:30**, Huntingdon was logged with the description: “Like a shooting star falling to the ground.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> This is striking language, but it also points towards one of the most common skywatching misunderstandings: a meteor or fireball can appear low, close or descending even when it is high in the atmosphere. The MoD table itself does not add duration, direction, witness number, weather, sound, fragments, or any check against astronomical reports, so the entry remains suggestive rather than strong evidence.
+On **19 February 2003 at 18:30**, Huntingdon was logged with the description: “Like a shooting star falling to the ground.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> This is striking language, but it also points towards one of the most common skywatching misunderstandings: a meteor or fireball can appear low, close or descending even when it is high in the atmosphere. The MoD table itself does not add duration, direction, witness number, weather, sound, fragments, or any check against astronomical reports, so the entry remains suggestive rather than strong evidence.
 
-On **11 February 2005**, another Huntingdon entry is even thinner. The MoD table records only that “The witness just said that it was a ‘UFO’.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> This is one of the most useful entries precisely because it is so weak. It shows that a report could enter the official table with almost no descriptive value. For local UFO history, it counts as an official sighting record; for evidence assessment, it carries little weight.
+On **11 February 2005**, another Huntingdon entry is even thinner. The MoD table records only that “The witness just said that it was a ‘UFO’.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> This is one of the most useful entries precisely because it is so weak. It shows that a report could enter the official table with almost no descriptive value. For local UFO history, it counts as an official sighting record; for evidence assessment, it carries little weight.
 
-St Neots appears twice in June 2005. On **4 June 2005 at 00:30**, the object was described as a dim red light zig-zagging eastwards and moving faster than a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> On **8 June 2005 at 16:45**, a St Neots witness reported something rod-like: silver through binoculars, grey to the naked eye, and “moving around.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> These are stronger than the bare Huntingdon “UFO” entry because they include colour, motion and viewing aid, but they still lack the details needed for a firm conclusion: no angular size, no elevation, no duration, no direction beyond the first case, no second-witness confirmation, and no recorded follow-up.
+St Neots appears twice in June 2005. On **4 June 2005 at 00:30**, the object was described as a dim red light zig-zagging eastwards and moving faster than a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> On **8 June 2005 at 16:45**, a St Neots witness reported something rod-like: silver through binoculars, grey to the naked eye, and “moving around.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> These are stronger than the bare Huntingdon “UFO” entry because they include colour, motion and viewing aid, but they still lack the details needed for a firm conclusion: no angular size, no elevation, no duration, no direction beyond the first case, no second-witness confirmation, and no recorded follow-up.
 
-On **2 November 2006 at 20:10**, Huntingdon reappears with “really dull yellow” lights that looked as if they were interacting with each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The neighbouring entry in the same table, twenty minutes later at Spalding, describes about ten orange lights moving around in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That does not prove the Huntingdon and Spalding sightings were the same event, but it places the Huntingdon report in a national pattern of multi-light reports, many of which later UFO-file commentary associated with mundane causes such as lanterns, aircraft, flares or misperceived lights.
+On **2 November 2006 at 20:10**, Huntingdon reappears with “really dull yellow” lights that looked as if they were interacting with each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The neighbouring entry in the same table, twenty minutes later at Spalding, describes about ten orange lights moving around in formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That does not prove the Huntingdon and Spalding sightings were the same event, but it places the Huntingdon report in a national pattern of multi-light reports, many of which later UFO-file commentary associated with mundane causes such as lanterns, aircraft, flares or misperceived lights.
 
-The most vivid Huntingdonshire entry is **11 February 2008 at 20:56**, when a Huntingdon witness reported a long, thick red streak shooting across the sky, with a silver ball of light at the front that grew larger and burst. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> As a description, it reads more like a transient atmospheric or astronomical event than a structured craft: a streak, a leading light, apparent expansion and a burst. But again the table stops there. It does not tell us whether other witnesses reported it, whether a meteor network later matched it, whether aircraft were in the area, or whether the MoD checked any sensor data.
+The most vivid Huntingdonshire entry is **11 February 2008 at 20:56**, when a Huntingdon witness reported a long, thick red streak shooting across the sky, with a silver ball of light at the front that grew larger and burst.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> As a description, it reads more like a transient atmospheric or astronomical event than a structured craft: a streak, a leading light, apparent expansion and a burst. But again the table stops there. It does not tell us whether other witnesses reported it, whether a meteor network later matched it, whether aircraft were in the area, or whether the MoD checked any sensor data.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g2X4EY3jbBc" title="Why Do Stars Fall from the Sky? Shooting Stars Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g2X4EY3jbBc" target="_blank" rel="noopener noreferrer">Why Do Stars Fall from the Sky? Shooting Stars Explained.</a></p><p class="youtube-embed-meta">Channel: MMH Babu</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g2X4EY3jbBc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g2X4EY3jbBc">Open on YouTube</a></p></div></div></div>
@@ -289,13 +289,13 @@ The entries fall into three broad types:
 * **Small moving lights:** the St Neots dim red light and the Huntingdon dull yellow lights fit a broader MoD-log pattern of lights that witnesses perceive as fast, zig-zagging, interacting or moving in formation.
 * **Daylight or optical-shape reports:** the St Neots rod-like object seen through binoculars is different because it occurred in the afternoon and involved a shape rather than only a light. Even so, the table does not provide enough detail to separate a distant aircraft, balloon, bird, optical effect, or genuinely unidentified object.
 
-What is missing is as important as what is present. None of these Huntingdonshire entries, in the published tables, carries a named witness, a full statement, photographs, radar confirmation, police attendance, air traffic control correlation, or a MoD conclusion. The National Archives notes that later UFO files usually contain one-off sightings and that most reports refer to lights rather than an actual ship or craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> The Huntingdonshire logs fit that national pattern closely.
+What is missing is as important as what is present. None of these Huntingdonshire entries, in the published tables, carries a named witness, a full statement, photographs, radar confirmation, police attendance, air traffic control correlation, or a MoD conclusion. The National Archives notes that later UFO files usually contain one-off sightings and that most reports refer to lights rather than an actual ship or craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> The Huntingdonshire logs fit that national pattern closely.
 
 
 <img src="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Logs illustration 2" data-theme-src-dark="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huntingdonshire_d54801_mod_sighting_logs_28fe32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why The Aviation Setting Matters, But Does Not Solve The Cases
 
-Huntingdonshire is not an empty patch of sky. It has long-standing military and aviation associations, which can influence both what people see and how they interpret it. RAF Wyton, near Huntingdon, opened in 1916 as a Royal Flying Corps training establishment and later became an important RAF and intelligence site; it is now a UK Strategic Command station and home to the National Centre for Geospatial Intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Wyton &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Wyton &#124; Royal Air Force</span></span></span> RAF Alconbury, nearby, also shaped local aviation history, with official and heritage accounts describing its development as a wartime and Cold War airfield near Huntingdon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://installations.militaryonesource.mil/in-depth-overview/raf-alconbury-raf-molesworth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: installations.militaryonesource.mil">[MilitaryINSTALLATIONS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">installations.militaryonesource.mil</span><span class="citation-popover-snippet">Open source on militaryonesource.mil.</span></span></span>
+Huntingdonshire is not an empty patch of sky. It has long-standing military and aviation associations, which can influence both what people see and how they interpret it. RAF Wyton, near Huntingdon, opened in 1916 as a Royal Flying Corps training establishment and later became an important RAF and intelligence site; it is now a UK Strategic Command station and home to the National Centre for Geospatial Intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Wyton &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Wyton &#124; Royal Air Force</span></span></span> RAF Alconbury, nearby, also shaped local aviation history, with official and heritage accounts describing its development as a wartime and Cold War airfield near Huntingdon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://installations.militaryonesource.mil/in-depth-overview/raf-alconbury-raf-molesworth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: installations.militaryonesource.mil">[MilitaryINSTALLATIONS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">installations.militaryonesource.mil</span><span class="citation-popover-snippet">Open source on militaryonesource.mil.</span></span></span>
 
 This setting does not automatically explain the MoD UFO entries. The 2003, 2005, 2006 and 2008 logs do not say “aircraft identified”, and it would be careless to retrofit explanations without evidence. But the aviation context makes caution necessary. In a district with military sites, former flying activity, major road corridors and regular aircraft traffic across eastern England, unusual lights may be noticed more often, reported more readily, and interpreted through a military lens.
 
@@ -306,9 +306,9 @@ The same point works in the other direction. A military neighbourhood does not m
 
 ## Why Thin Records Need Careful Reading
 
-The biggest mistake is to read an MoD log entry as if it were an MoD endorsement. The tables show that a report was received and recorded, not that the object was extraordinary. The MoD’s own later position was far more restrained. When the final tranche of UFO files was released, The National Archives said the MoD UFO desk closed in 2009 after officials concluded it served “no defence purpose”; ministers were told that over more than 50 years no sighting reported to the MoD had revealed anything suggesting an extraterrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The biggest mistake is to read an MoD log entry as if it were an MoD endorsement. The tables show that a report was received and recorded, not that the object was extraordinary. The MoD’s own later position was far more restrained. When the final tranche of UFO files was released, The National Archives said the MoD UFO desk closed in 2009 after officials concluded it served “no defence purpose”; ministers were told that over more than 50 years no sighting reported to the MoD had revealed anything suggesting an extraterrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That national closure decision matters for Huntingdonshire because these local entries are typical of the kind of material the desk was handling. In the final years, the MoD was receiving more reports, not better evidence. The National Archives release noted that reports trebled in the UFO desk’s last year and that the increased workload helped lead to closure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> A related National Archives transcript says the MoD did not have the resources to investigate sightings in detail, so many tended to be filed away; it also links many late-2000s reports to down-to-earth causes such as Chinese lanterns and poor-quality images of lights against dark backgrounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
+That national closure decision matters for Huntingdonshire because these local entries are typical of the kind of material the desk was handling. In the final years, the MoD was receiving more reports, not better evidence. The National Archives release noted that reports trebled in the UFO desk’s last year and that the increased workload helped lead to closure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> A related National Archives transcript says the MoD did not have the resources to investigate sightings in detail, so many tended to be filed away; it also links many late-2000s reports to down-to-earth causes such as Chinese lanterns and poor-quality images of lights against dark backgrounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
 
 For the Huntingdonshire reader, this changes the question. The useful question is not “Did the MoD prove UFOs over Huntingdon?” It is “What quality of evidence did the official record preserve?” The answer is: enough to confirm that people in and around Huntingdon and St Neots reported puzzling aerial things, but not enough to establish what most of them were.
 
@@ -325,194 +325,194 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do The Official UFO Logs Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do The Official UFO Logs Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sighting reports and evidential quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sighting reports and evidential quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how official sightings enter records and how investigations are conducted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official sightings enter records and how investigations are conducted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Most closely matches a page about government UFO logs and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most closely matches a page about government UFO logs and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fact%2C+Fiction%2C+and+Flying+Saucers+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fact, Fiction, and Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wd9EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fact, Fiction, and Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fact%2C+Fiction%2C+and+Flying+Saucers+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fact, Fiction, and Flying Saucers">Fact, Fiction, and Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman, Kathleen Marden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fact%2C+Fiction%2C+and+Flying+Saucers+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fact, Fiction, and Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wd9EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fact, Fiction, and Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fact%2C+Fiction%2C+and+Flying+Saucers+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fact, Fiction, and Flying Saucers">Fact, Fiction, and Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman, Kathleen Marden</p>
         
-        <p class="fr-book-desc">Examines the strengths and weaknesses of UFO evidence and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fact%2C+Fiction%2C+and+Flying+Saucers+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the strengths and weaknesses of UFO evidence and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fact%2C+Fiction%2C+and+Flying+Saucers+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mo-d-logs-d5be90-what-do-the-official-ufo-logs-show-huntingdonshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-official-ufo-logs-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,217 +718,217 @@ The best reading is balanced. A few entries, especially the 2005 St Neots report
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Wyton | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-wyton/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-wyton/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: democracy.huntingdonshire.gov.uk  
-   Link: <a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/g12312/Public%20reports%20pack%20Monday%2016-Nov-2009%2018.30%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/g12312/Public%20reports%20pack%20Monday%2016-Nov-2009%2018.30%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
+   Link:<a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/g12312/Public%20reports%20pack%20Monday%2016-Nov-2009%2018.30%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/g12312/Public%20reports%20pack%20Monday%2016-Nov-2009%2018.30%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: huntingdonshire.gov.uk  
    Title: exam 47 part 3  
-   Link: <a href="https://www.huntingdonshire.gov.uk/media/3758/exam-47-part-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.huntingdonshire.gov.uk/media/3758/exam-47-part-3.pdf</a>  
+   Link:<a href="https://www.huntingdonshire.gov.uk/media/3758/exam-47-part-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.huntingdonshire.gov.uk/media/3758/exam-47-part-3.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: democracy.huntingdonshire.gov.uk  
-   Link: <a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/s51763/1200967FUL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/s51763/1200967FUL.pdf</a>  
+   Link:<a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/s51763/1200967FUL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/s51763/1200967FUL.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: democracy.huntingdonshire.gov.uk  
-   Link: <a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
+   Link:<a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: democracy.huntingdonshire.gov.uk  
-   Link: <a href="https://democracy.huntingdonshire.gov.uk/Moderngov/documents/g13735/Public%20reports%20pack%20Monday%2016-Sep-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/Moderngov/documents/g13735/Public%20reports%20pack%20Monday%2016-Sep-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
+   Link:<a href="https://democracy.huntingdonshire.gov.uk/Moderngov/documents/g13735/Public%20reports%20pack%20Monday%2016-Sep-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/Moderngov/documents/g13735/Public%20reports%20pack%20Monday%2016-Sep-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scambs.gov.uk  
    Title: northstowe aap for adoption july 2007 1  
-   Link: <a href="https://www.scambs.gov.uk/media/101ljz4o/northstowe-aap-for-adoption-july-2007-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scambs.gov.uk/media/101ljz4o/northstowe-aap-for-adoption-july-2007-1.pdf</a>  
+   Link:<a href="https://www.scambs.gov.uk/media/101ljz4o/northstowe-aap-for-adoption-july-2007-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scambs.gov.uk/media/101ljz4o/northstowe-aap-for-adoption-july-2007-1.pdf</a>  
    Published: july 2007  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scambs.gov.uk  
-   Link: <a href="https://www.scambs.gov.uk/media/n5sp4lnx/02-appendix-7i-new-settlements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scambs.gov.uk/media/n5sp4lnx/02-appendix-7i-new-settlements.pdf</a>  
+   Link:<a href="https://www.scambs.gov.uk/media/n5sp4lnx/02-appendix-7i-new-settlements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scambs.gov.uk/media/n5sp4lnx/02-appendix-7i-new-settlements.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: democracy.cambridge.gov.uk  
    Title: cambridge.gov.uk Public Document Pack  
-   Link: <a href="https://democracy.cambridge.gov.uk/documents/g2606/Public%20reports%20pack%2007th-Jan-2015%2013.00%20Planning.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.cambridge.gov.uk/documents/g2606/Public%20reports%20pack%2007th-Jan-2015%2013.00%20Planning.pdf?T=10</a>  
+   Link:<a href="https://democracy.cambridge.gov.uk/documents/g2606/Public%20reports%20pack%2007th-Jan-2015%2013.00%20Planning.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.cambridge.gov.uk/documents/g2606/Public%20reports%20pack%2007th-Jan-2015%2013.00%20Planning.pdf?T=10</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: planninginspectorate.gov.uk East Park Energy  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010141-000010-EPEP%20-%20Scoping%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010141-000010-EPEP%20-%20Scoping%20Report.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010141-000010-EPEP%20-%20Scoping%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010141-000010-EPEP%20-%20Scoping%20Report.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Huntingdonshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Huntingdonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Huntingdonshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: installations.militaryonesource.mil  
-   Link: <a href="https://installations.militaryonesource.mil/in-depth-overview/raf-alconbury-raf-molesworth" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-alconbury-raf-molesworth</a>  
+   Link:<a href="https://installations.militaryonesource.mil/in-depth-overview/raf-alconbury-raf-molesworth" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-alconbury-raf-molesworth</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: RAF Alconbury  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Alconbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Alconbury</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Alconbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Alconbury</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: RAF Wyton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Wyton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Wyton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Wyton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Wyton</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdonshire</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://nl.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Huntingdonshire</a>  
+   Link:<a href="https://nl.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Huntingdonshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wikishire.co.uk  
    Title: St Neots  
-   Link: <a href="https://wikishire.co.uk/wiki/St_Neots" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/St_Neots</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/St_Neots" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/St_Neots</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
    Title: Hundreds of Huntingdonshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Hundreds_of_Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Hundreds_of_Huntingdonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Hundreds_of_Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Hundreds_of_Huntingdonshire</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: peterborougharchaeology.org  
    Title: raf alconbury  
-   Link: <a href="https://peterborougharchaeology.org/event/raf-alconbury/" target="_blank" rel="noopener noreferrer nofollow">https://peterborougharchaeology.org/event/raf-alconbury/</a>  
+   Link:<a href="https://peterborougharchaeology.org/event/raf-alconbury/" target="_blank" rel="noopener noreferrer nofollow">https://peterborougharchaeology.org/event/raf-alconbury/</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/huntingdonshire/about-huntingdonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/huntingdonshire/about-huntingdonshire/</a>  
+   Link:<a href="https://abcounties.com/huntingdonshire/about-huntingdonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/huntingdonshire/about-huntingdonshire/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2161505020706560/posts/2793320400858349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2161505020706560/posts/2793320400858349/</a>  
+   Link:<a href="https://www.facebook.com/groups/2161505020706560/posts/2793320400858349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2161505020706560/posts/2793320400858349/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/major-towns-of-huntingdonshire-are-huntingdon-ramsey-st-ives-st-neotsfalling-par/1016840917266142/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/major-towns-of-huntingdonshire-are-huntingdon-ramsey-st-ives-st-neotsfalling-par/1016840917266142/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/major-towns-of-huntingdonshire-are-huntingdon-ramsey-st-ives-st-neotsfalling-par/1016840917266142/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/major-towns-of-huntingdonshire-are-huntingdon-ramsey-st-ives-st-neotsfalling-par/1016840917266142/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/eng/HUN" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/HUN</a>  
+   Link:<a href="https://www.genuki.org.uk/big/eng/HUN" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/HUN</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Huntingdonshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Huntingdonshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Astronature1/videos/not-one-shooting-stara-whole-burst-of-fire-dozens-of-bright-pieces-racing-togeth/924823603681163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Astronature1/videos/not-one-shooting-stara-whole-burst-of-fire-dozens-of-bright-pieces-racing-togeth/924823603681163/</a>  
+   Link:<a href="https://www.facebook.com/Astronature1/videos/not-one-shooting-stara-whole-burst-of-fire-dozens-of-bright-pieces-racing-togeth/924823603681163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Astronature1/videos/not-one-shooting-stara-whole-burst-of-fire-dozens-of-bright-pieces-racing-togeth/924823603681163/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: rafalconbury.com  
-   Link: <a href="https://rafalconbury.com/" target="_blank" rel="noopener noreferrer nofollow">https://rafalconbury.com/</a>  
+   Link:<a href="https://rafalconbury.com/" target="_blank" rel="noopener noreferrer nofollow">https://rafalconbury.com/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/raf-alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/raf-alconbury.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/raf-alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/raf-alconbury.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: raf-pathfinders.com  
-   Link: <a href="https://raf-pathfinders.com/our-partners/pathfinder-collection-raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://raf-pathfinders.com/our-partners/pathfinder-collection-raf-wyton/</a>  
+   Link:<a href="https://raf-pathfinders.com/our-partners/pathfinder-collection-raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://raf-pathfinders.com/our-partners/pathfinder-collection-raf-wyton/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  

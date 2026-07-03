@@ -118,9 +118,9 @@ heading_title: What Did Worcestershire Really See?
 page_heading_title: What Did Worcestershire Really See?
 source_count: 120
 infographic_count: 3
-page_website_name: Worcestershire UFOs
+page_website_name: Worcestershire
 page_banner_line: Balanced local evidence on Worcestershire's UFO reports and explanations.
-site_website_name: Worcestershire UFOs
+site_website_name: Worcestershire
 site_banner_line: Balanced local evidence on Worcestershire's UFO reports and explanations.
 site_image_description: A quiet Worcestershire road at dusk with fields, distant town lights, and a small cluster of bright orange lights in the sky.
 output_language: English
@@ -695,15 +695,15 @@ The strongest evidence for Worcestershire is not a single spectacular landing ca
 <img src="{{ "/assets/images/Worcestershire_9671d5-overview.webp" | relative_url }}" alt="Overview image for What Did Worcestershire Really See?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as “Worcestershire” for this page?
 
-This page treats Worcestershire as the historic county at the centre of the project, while recognising that UFO reports do not respect administrative borders. Modern Worcestershire sits between the West Midlands conurbation, Herefordshire, Shropshire, Warwickshire and Gloucestershire; historic Worcestershire also has a complicated boundary history, with detached parts and later transfers that can affect older local references. Wikishire describes Worcestershire’s old boundaries as notably “ragged”, with detached parts linked to the scattered holdings of the Bishops of Worcester, while the interactive historic-county map follows the Historic Counties Standard rather than modern council boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page treats Worcestershire as the historic county at the centre of the project, while recognising that UFO reports do not respect administrative borders. Modern Worcestershire sits between the West Midlands conurbation, Herefordshire, Shropshire, Warwickshire and Gloucestershire; historic Worcestershire also has a complicated boundary history, with detached parts and later transfers that can affect older local references. Wikishire describes Worcestershire’s old boundaries as notably “ragged”, with detached parts linked to the scattered holdings of the Bishops of Worcester, while the interactive historic-county map follows the Historic Counties Standard rather than modern council boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 That matters because some reports near Redditch, Dudley, Yardley, the Malvern Hills, Evesham, Pershore, Bromsgrove or the county edges may be described differently depending on the source. A modern newspaper might use “Worcestershire”, a police force might file the matter under West Mercia, and an older historic-county source might include places that no longer sit neatly inside present administrative Worcestershire. The sensible approach is to keep Worcester, Redditch, Kidderminster, Evesham, Droitwich, Bromsgrove, Malvern and the county’s rural sky corridors at the centre, while noting when a sighting belongs to a neighbouring or cross-border pattern.
 
 ## The county’s official paper trail is thin but real
 
-The main national source for Worcestershire UFO material is the Ministry of Defence record set. The National Archives explains that the MoD kept UFO records from the 1960s and that many reports were of shapes, lights and flashes, often explainable but sometimes more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> separately hosts the MoD’s annual UFO report lists for 1997 to 2009, giving dates, times, locations and short descriptions rather than full investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The main national source for Worcestershire UFO material is the Ministry of Defence record set. The National Archives explains that the MoD kept UFO records from the 1960s and that many reports were of shapes, lights and flashes, often explainable but sometimes more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> separately hosts the MoD’s annual UFO report lists for 1997 to 2009, giving dates, times, locations and short descriptions rather than full investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Those lists are important, but they should not be overread. A line in a MoD spreadsheet is not proof of an extraordinary craft; it is proof that someone reported an unidentified sighting and that it entered a government logging process. The MoD’s own published policy was narrower than many readers expect: it examined reports for possible defence significance, not to provide a full public identification service for every light in the sky. A released MoD correspondence file states that the department looked at reports to see whether UK airspace might have been compromised by hostile or unauthorised activity, and that no UFO report had revealed such evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/50267186/defe-24-2053-1-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Open source on scribd.com.</span></span></span>
+Those lists are important, but they should not be overread. A line in a MoD spreadsheet is not proof of an extraordinary craft; it is proof that someone reported an unidentified sighting and that it entered a government logging process. The MoD’s own published policy was narrower than many readers expect: it examined reports for possible defence significance, not to provide a full public identification service for every light in the sky. A released MoD correspondence file states that the department looked at reports to see whether UK airspace might have been compromised by hostile or unauthorised activity, and that no UFO report had revealed such evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/50267186/defe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Open source on scribd.com.</span></span></span>
 
 For Worcestershire, the practical effect is that many entries are frustratingly short. They give enough to establish place, date and description, but rarely enough to test direction, altitude, weather, aircraft movements, astronomical conditions or witness reliability. The county’s UFO history is therefore less a solved mystery than a set of logged claims that need careful grading.
 
@@ -711,7 +711,7 @@ For Worcestershire, the practical effect is that many entries are frustratingly 
 <img src="{{ "/assets/images/Worcestershire_9671d5-Illustration-1-dark.svg" | relative_url }}" alt="What Did Worcestershire Really See? illustration 1" data-theme-src-dark="{{ "/assets/images/Worcestershire_9671d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Worcestershire_9671d5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Redditch case that made national lists
 
-The most striking Worcestershire entry in the better-known National Archives/Guardian selection is the Redditch sighting of 1 August 1993. The Guardian’s Datablog, extracting key cases from files released by the National Archives, lists “Redditch, Worcestershire” with the description: a cross-shaped UFO, the size of a jumbo jet, with purple and [orange lights]({{ 'orange-lights-4499ee/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The most striking Worcestershire entry in the better-known National Archives/Guardian selection is the Redditch sighting of 1 August 1993. The Guardian’s Datablog, extracting key cases from files released by the National Archives, lists “Redditch, Worcestershire” with the description: a cross-shaped UFO, the size of a jumbo jet, with purple and [orange lights]({{ 'orange-lights-4499ee/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 That description is memorable because it is more specific than the usual “light in the sky” report. It gives a shape, a scale comparison and colours. It also appeared in a national selection of notable file entries, which means it has had a longer afterlife than many local reports. Yet the case remains weak as evidence for anything beyond a witness report. The public summary does not, by itself, provide a named witness, duration, exact viewing angle, independent corroboration, radar trace, photographs, police log or later technical investigation.
 
@@ -719,18 +719,18 @@ The [Redditch case]({{ 'redditch-case/' | relative_url }}) is best treated as �
 
 ## Worcester and Evesham in the MoD annual reports
 
-The annual MoD lists give Worcestershire several less dramatic but useful entries. In the 2003 report, Worcester appears twice in August. On 14 August 2003, a witness reported a very bright white light, larger than a star, which diminished quickly until it disappeared. On 27 August 2003, another Worcester entry described a “helium type balloon”, apparently moon-sized, with flashing blue and red lights, moving north along the A38 south of Worcester. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The annual MoD lists give Worcestershire several less dramatic but useful entries. In the 2003 report, Worcester appears twice in August. On 14 August 2003, a witness reported a very bright white light, larger than a star, which diminished quickly until it disappeared. On 27 August 2003, another Worcester entry described a “helium type balloon”, apparently moon-sized, with flashing blue and red lights, moving north along the A38 south of Worcester.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 Those two entries show how varied “UFO” could mean in the official lists. The first is a classic ambiguous light report: bright, brief and lacking enough detail to separate a meteor, satellite flare, aircraft light, balloon, drone-like object or atmospheric effect. The second is more suggestive of a conventional explanation because the witness or recorder used the phrase “helium type balloon”. It may still have been unidentified to the observer, but the description already points towards a human-made object rather than an unknown craft.
 
-Evesham appears in the 2009 MoD report. On 28 October 2009 at 17:50, the entry records an “airborne craft with non-conform lighting” and a steady strong orange appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This falls in the period when orange-light reports were common across the UK. The National Archives’ final-tranche material notes that many formations of slowly moving orange lights resembled Chinese lanterns, even when observers did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> That does not automatically explain the Evesham entry, but it gives a strong caution: an orange, silent or slow-moving light in 2009 belongs to a national pattern that often had a mundane cause.
+Evesham appears in the 2009 MoD report. On 28 October 2009 at 17:50, the entry records an “airborne craft with non-conform lighting” and a steady strong orange appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This falls in the period when orange-light reports were common across the UK. The National Archives’ final-tranche material notes that many formations of slowly moving orange lights resembled Chinese lanterns, even when observers did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> That does not automatically explain the Evesham entry, but it gives a strong caution: an orange, silent or slow-moving light in 2009 belongs to a national pattern that often had a mundane cause.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_I-xlxV2OsY" title="Ross Coulthart investigates UK&#x27;s UFO Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer">Ross Coulthart investigates UK&#x27;s UFO Phenomenon</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 480.0K &middot; Uploaded: March 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_I-xlxV2OsY">Open on YouTube</a></p></div></div></div>
 
 ## The “21 sightings” claim and what it really tells us
 
-Regional reporting in 2020 described 21 UFO sightings over Worcestershire revealed in secret government files, drawing on the MoD material. The same reporting noted that the county’s examples included multiple locations and years, and later local articles referred back to those 21 sightings when covering newer cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/midlands-news/21-ufo-sightings-over-worcestershire-18246410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">21 ufo sightings over worcestershire 18246410</span><span class="citation-popover-snippet">21 ufo sightings over worcestershire 18246410</span></span></span>
+Regional reporting in 2020 described 21 UFO sightings over Worcestershire revealed in secret government files, drawing on the MoD material. The same reporting noted that the county’s examples included multiple locations and years, and later local articles referred back to those 21 sightings when covering newer cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/midlands-news/21-ufo-sightings-over-worcestershire-18246410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">21 ufo sightings over worcestershire 18246410</span><span class="citation-popover-snippet">21 ufo sightings over worcestershire 18246410</span></span></span>
 
 The number is useful as a rough orientation point, not as a definitive county total. It appears to refer to a selected set of MoD-file reports rather than every possible UFO claim ever made in Worcestershire. It excludes unreported sightings, local newspaper letters that never reached the MoD, reports held in police systems under other categories, and modern online posts. It may also include only certain date ranges or only records that were easy for journalists to extract.
 
@@ -740,11 +740,11 @@ Still, the “21 sightings” figure helps frame the county properly. Worcesters
 
 Worcestershire’s police context is especially important because the county is policed by West Mercia Police, whose force area also covers Herefordshire and Shropshire. That means a “West Mercia” UFO reference is not automatically a Worcestershire case, but some are directly relevant.
 
-A police-focused UFO database records a late October 1988 West Mercia case in which two uniformed officers reportedly saw a brilliant white light passing over the Worcestershire landscape, with several members of the public also reporting it. The same entry says West Mercia Police contacted RAF West Drayton, which suggested the object might have been a satellite burning up in the atmosphere; the database cites the Droitwich Weekly Mail of 4 November 1988. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[PRUFOS Police Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">PRUFOS Police Database ON DUTY SIGHTINGS</span><span class="citation-popover-snippet">PRUFOS Police Database ON DUTY SIGHTINGS</span></span></span>
+A police-focused UFO database records a late October 1988 West Mercia case in which two uniformed officers reportedly saw a brilliant white light passing over the Worcestershire landscape, with several members of the public also reporting it. The same entry says West Mercia Police contacted RAF West Drayton, which suggested the object might have been a satellite burning up in the atmosphere; the database cites the Droitwich Weekly Mail of 4 November 1988.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[PRUFOS Police Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">PRUFOS Police Database ON DUTY SIGHTINGS</span><span class="citation-popover-snippet">PRUFOS Police Database ON DUTY SIGHTINGS</span></span></span>
 
 This is one of the county’s better reader-facing examples because it includes police witnesses, public corroboration and an attempted official check. It also has a plausible explanation. A satellite or space debris re-entry can look startling: bright, fast, silent, sometimes fragmenting or changing intensity. The case therefore sits in the middle category: more credible than an anonymous online claim, but weakened as a UFO mystery by the contemporary RAF suggestion.
 
-Recent West Mercia FOI material shows why modern police data is hard to use. In a 2025 response about 2024 UFO/UAP-related records, West Mercia Police said the requested information was not readily retrievable and that more than 284 records included the keyword “drone”, requiring manual checking beyond the 18-hour FOI limit. However, when it searched terms such as “lights in the sky”, “ORB”, “UAV”, “USO”, “UFO”, “UAP”, “Alien”, “Extra terrestrial” and “Spaceship”, the result was nil. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmercia.police.uk/foi-ai/west-mercia-police/2025/january/foi-386809/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmercia.police.uk">[westmercia.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmercia.police.uk</span><span class="citation-popover-title">foi 386809</span><span class="citation-popover-snippet">foi 386809</span></span></span>
+Recent West Mercia FOI material shows why modern police data is hard to use. In a 2025 response about 2024 UFO/UAP-related records, West Mercia Police said the requested information was not readily retrievable and that more than 284 records included the keyword “drone”, requiring manual checking beyond the 18-hour FOI limit. However, when it searched terms such as “lights in the sky”, “ORB”, “UAV”, “USO”, “UFO”, “UAP”, “Alien”, “Extra terrestrial” and “Spaceship”, the result was nil.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmercia.police.uk/foi-ai/west-mercia-police/2025/january/foi-386809/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmercia.police.uk">[westmercia.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmercia.police.uk</span><span class="citation-popover-title">foi 386809</span><span class="citation-popover-snippet">foi 386809</span></span></span>
 
 That does not prove nobody in the force area saw anything odd in 2024. It proves something narrower but important: modern incident systems may not preserve UFO reports in a neat, searchable way, especially when terms such as “drone” now overlap with aviation, nuisance, crime and suspicious-object reporting.
 
@@ -754,9 +754,9 @@ That does not prove nobody in the force area saw anything odd in 2024. It proves
 
 Worcestershire’s geography makes ambiguous sightings quite plausible. The county has dark rural areas, ridgelines such as the Malvern Hills, broad views across the Severn and Avon valleys, and busy routes near the West Midlands conurbation. Lights can be seen from far away, and distance is notoriously hard to judge at night.
 
-The aviation and defence history adds another layer. RAF Defford, near Croome, was a major wartime and post-war centre for airborne radar development; the National Trust says it became Britain’s main station for developing airborne radar, with historically significant experiments that helped the Allied war effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome/raf-defford-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaltrust.org.uk">[National Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaltrust.org.uk</span><span class="citation-popover-snippet">Open source on nationaltrust.org.uk.</span></span></span> Defford Airfield Heritage Group records milestones including the world’s first fully automatic aircraft landing at RAF Defford in 1945 and the later transfer of the Radar Research Flying Unit because Defford’s runways were unsuitable for larger V-bombers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dahg.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dahg.org.uk">[Defford Airfield Heritage Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dahg.org.uk</span><span class="citation-popover-snippet">Open source on dahg.org.uk.</span></span></span>
+The aviation and defence history adds another layer. RAF Defford, near Croome, was a major wartime and post-war centre for airborne radar development; the National Trust says it became Britain’s main station for developing airborne radar, with historically significant experiments that helped the Allied war effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome/raf-defford-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaltrust.org.uk">[National Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaltrust.org.uk</span><span class="citation-popover-snippet">Open source on nationaltrust.org.uk.</span></span></span> Defford Airfield Heritage Group records milestones including the world’s first fully automatic aircraft landing at RAF Defford in 1945 and the later transfer of the Radar Research Flying Unit because Defford’s runways were unsuitable for larger V-bombers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dahg.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dahg.org.uk">[Defford Airfield Heritage Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dahg.org.uk</span><span class="citation-popover-snippet">Open source on dahg.org.uk.</span></span></span>
 
-Nearby RAF Pershore/Throckmorton also matters. The Airfields of Britain Conservation Trust lists Pershore, also known as RAF Pershore or Throckmorton Aerodrome, as a Worcestershire airfield used by the RAF and civil operators from 1934 to 1978. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/pershore-throckmorton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span> The International Bomber Command Centre archive notes that RAF Pershore opened in April 1941, hosted 23 Operational Training Unit with Wellingtons, and later became Throckmorton Airfield. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/21827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibccdigitalarchive.lincoln.ac.uk">[ibccdigitalarchive.lincoln.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibccdigitalarchive.lincoln.ac.uk</span><span class="citation-popover-snippet">Open source on lincoln.ac.uk.</span></span></span>
+Nearby RAF Pershore/Throckmorton also matters. The Airfields of Britain Conservation Trust lists Pershore, also known as RAF Pershore or Throckmorton Aerodrome, as a Worcestershire airfield used by the RAF and civil operators from 1934 to 1978.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/pershore-throckmorton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span> The International Bomber Command Centre archive notes that RAF Pershore opened in April 1941, hosted 23 Operational Training Unit with Wellingtons, and later became Throckmorton Airfield.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/21827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibccdigitalarchive.lincoln.ac.uk">[ibccdigitalarchive.lincoln.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibccdigitalarchive.lincoln.ac.uk</span><span class="citation-popover-snippet">Open source on lincoln.ac.uk.</span></span></span>
 
 None of this means UFO sightings around Worcestershire were secret aircraft. It means the county has a real aviation backdrop: military airfields, radar research, flight trials, civil aviation, motorway-adjacent sightlines, and later drone activity. For a witness on the ground, those ingredients increase the chance that an unfamiliar light, aircraft, balloon, lantern, re-entry, flare or display object will be perceived as anomalous.
 
@@ -764,7 +764,7 @@ None of this means UFO sightings around Worcestershire were secret aircraft. It 
 
 Many Worcestershire readers will be most interested in whether the county had a flap: a period when sightings clustered. The best candidate is not uniquely Worcestershire but national: the late-2000s surge in orange-light reports.
 
-The MoD’s 2009 report includes many entries across the UK describing orange balls, red-orange lights, silent lights, formations and objects that looked like flame. Worcestershire’s Evesham entry sits directly inside that wider pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ final UFO-file release material explicitly links many such reports to Chinese lanterns, and Sky’s coverage of the MoD closure reported that 643 sightings were logged in 2009, treble the previous year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD’s 2009 report includes many entries across the UK describing orange balls, red-orange lights, silent lights, formations and objects that looked like flame. Worcestershire’s Evesham entry sits directly inside that wider pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ final UFO-file release material explicitly links many such reports to Chinese lanterns, and Sky’s coverage of the MoD closure reported that 643 sightings were logged in 2009, treble the previous year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This does not make every 2009 report worthless. It does mean the burden of proof is higher for any Worcestershire orange-light case from that period. A strong case would need multiple independent witnesses, precise timing, direction, weather, aircraft checks, photographs or video with reference points, and ideally evidence that local lantern releases, fireworks, aircraft and satellites had been ruled out. A short MoD line about a steady orange light is interesting as a cultural and reporting trace, but weak as evidence of something extraordinary.
 
@@ -773,7 +773,7 @@ This does not make every 2009 report worthless. It does mean the burden of proof
 
 ## Modern local sightings: photographs, headlines and weaker evidence
 
-Recent Worcestershire UFO stories tend to appear through local media and online sharing. In September 2020, Birmingham Live reported that a “UFO” said to be “falling erratically” above Worcester had been photographed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/local-news/ufo-spotted-falling-erratically-skies-19015631" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">ufo spotted falling erratically skies 19015631</span><span class="citation-popover-snippet">ufo spotted falling erratically skies 19015631</span></span></span> In October 2021, a local gallery of Worcestershire’s “most baffling” UFO sightings referred back to that 27 September 2020 Worcester case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/midlands-news/gallery/pictures-worcestershires-most-baffling-ufo-21903827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">pictures worcestershires most baffling ufo 21903827</span><span class="citation-popover-snippet">pictures worcestershires most baffling ufo 21903827</span></span></span> Another 2021 regional feature mixed local UFO material with stranger folkloric claims, including a Droitwich abduction-style story and references to the MoD sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/midlands-news/droitwich-woman-vanishes-bed-object-21697239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">droitwich woman vanishes bed object 21697239</span><span class="citation-popover-snippet">droitwich woman vanishes bed object 21697239</span></span></span>
+Recent Worcestershire UFO stories tend to appear through local media and online sharing. In September 2020, Birmingham Live reported that a “UFO” said to be “falling erratically” above Worcester had been photographed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/local-news/ufo-spotted-falling-erratically-skies-19015631" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">ufo spotted falling erratically skies 19015631</span><span class="citation-popover-snippet">ufo spotted falling erratically skies 19015631</span></span></span> In October 2021, a local gallery of Worcestershire’s “most baffling” UFO sightings referred back to that 27 September 2020 Worcester case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/midlands-news/gallery/pictures-worcestershires-most-baffling-ufo-21903827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">pictures worcestershires most baffling ufo 21903827</span><span class="citation-popover-snippet">pictures worcestershires most baffling ufo 21903827</span></span></span> Another 2021 regional feature mixed local UFO material with stranger folkloric claims, including a Droitwich abduction-style story and references to the MoD sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/news/midlands-news/droitwich-woman-vanishes-bed-object-21697239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-title">droitwich woman vanishes bed object 21697239</span><span class="citation-popover-snippet">droitwich woman vanishes bed object 21697239</span></span></span>
 
 These stories are useful for showing continuing public interest, but they are usually weaker evidentially than official logs. A photograph of an odd object can be intriguing, but without original metadata, lens information, exposure details, sequence frames, location, direction, altitude estimate and independent checks, it is easy to misread birds, balloons, insects, aircraft, drones, reflections, falling debris, camera artefacts or distant lights.
 
@@ -786,11 +786,11 @@ That is not a criticism of witnesses. It is a reminder that modern images often 
 
 A fair county-level reading separates Worcestershire sightings into three broad groups.
 
-**More evidentially useful cases** include reports with institutional traces: MoD entries, police involvement, aviation checks, named locations and dates. The 1988 West Mercia/Worcestershire police-related white-light case belongs here because it involved officers, public reports and an RAF explanation attempt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[PRUFOS Police Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">PRUFOS Police Database ON DUTY SIGHTINGS</span><span class="citation-popover-snippet">PRUFOS Police Database ON DUTY SIGHTINGS</span></span></span>
+**More evidentially useful cases** include reports with institutional traces: MoD entries, police involvement, aviation checks, named locations and dates. The 1988 West Mercia/Worcestershire police-related white-light case belongs here because it involved officers, public reports and an RAF explanation attempt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[PRUFOS Police Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">PRUFOS Police Database ON DUTY SIGHTINGS</span><span class="citation-popover-snippet">PRUFOS Police Database ON DUTY SIGHTINGS</span></span></span>
 
-**Interesting but thin cases** include the Redditch 1993 cross-shaped object and the Worcester 2003 bright-light reports. They are specific enough to remember, but too short in the public record to resolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+**Interesting but thin cases** include the Redditch 1993 cross-shaped object and the Worcester 2003 bright-light reports. They are specific enough to remember, but too short in the public record to resolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-**Plausibly explained or low-weight cases** include many orange-light reports from the late 2000s, especially where the description matches lantern-like behaviour and where there is no supporting evidence beyond a brief sighting. The Evesham 2009 report is not debunked on the available public line alone, but it sits in a national context where lanterns were a major explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Plausibly explained or low-weight cases** include many orange-light reports from the late 2000s, especially where the description matches lantern-like behaviour and where there is no supporting evidence beyond a brief sighting. The Evesham 2009 report is not debunked on the available public line alone, but it sits in a national context where lanterns were a major explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 This grading is more useful than asking whether Worcestershire is a “UFO hotspot”. The county has reports, but the stronger conclusion is about evidence quality: most cases are logs of perception, not investigations with enough data to prove or disprove a cause.
 
@@ -803,194 +803,194 @@ The genuinely unresolved part of Worcestershire’s UFO history is not a hidden 
 The most worthwhile future work would be case-by-case reconstruction: obtain the exact MoD file pages for the Redditch 1993 entry, compare Worcester and Evesham reports with weather and astronomical data, search local newspaper archives around the 1988 Droitwich/West Mercia incident, and distinguish modern drone reports from older UFO-style reports. Until then, Worcestershire’s UFO record is best described as modest, locally textured and partly unresolved, with stronger evidence for recurring misidentified lights than for any confirmed extraordinary phenomenon.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Worcestershire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Worcestershire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">The page focuses on Worcestershire sightings in the context of MOD files, police reports, and archival evidence, which matches this book&#x27;...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The page focuses on Worcestershire sightings in the context of MOD files, police reports, and archival evidence, which matches this book&#x27;...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings such as lights, shapes, and unexplained aerial reports like those discussed for Worcestersh...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings such as lights, shapes, and unexplained aerial reports like those discussed for Worcestersh...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes official reporting, witness credibility, and government records, themes central to the Worcestershire discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes official reporting, witness credibility, and government records, themes central to the Worcestershire discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Drawings+from+the+National+Archives+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Drawings from the National Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PnybswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Drawings from the National Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Drawings+from+the+National+Archives+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Drawings from the National Archives">UFO Drawings from the National Archives</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Drawings+from+the+National+Archives+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Drawings from the National Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PnybswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Drawings from the National Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Drawings+from+the+National+Archives+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Drawings from the National Archives">UFO Drawings from the National Archives</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">The article relies heavily on National Archives and official records, making this a strong contextual companion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Drawings+from+the+National+Archives+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The article relies heavily on National Archives and official records, making this a strong contextual companion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Drawings+from+the+National+Archives+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-worcestershire-really-see-worcestershire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-worcestershire-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-worcestershire-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1006,7 +1006,7 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1026,7 +1026,7 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1058,7 +1058,7 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1110,7 +1110,7 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1155,7 +1155,7 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1196,254 +1196,254 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/50267186/defe-24-2053-1-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/50267186/defe-24-2053-1-1</a>  
+   Link:<a href="https://www.scribd.com/document/50267186/defe" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/50267186/defe</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: westmercia.police.uk  
    Title: foi 386809  
-   Link: <a href="https://www.westmercia.police.uk/foi-ai/west-mercia-police/2025/january/foi-386809/" target="_blank" rel="noopener noreferrer nofollow">https://www.westmercia.police.uk/foi-ai/west-mercia-police/2025/january/foi-386809/</a>  
+   Link:<a href="https://www.westmercia.police.uk/foi-ai/west-mercia-police/2025/january/foi-386809/" target="_blank" rel="noopener noreferrer nofollow">https://www.westmercia.police.uk/foi-ai/west-mercia-police/2025/january/foi-386809/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ibccdigitalarchive.lincoln.ac.uk  
-   Link: <a href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/21827" target="_blank" rel="noopener noreferrer nofollow">https://ibccdigitalarchive.lincoln.ac.uk/collections/document/21827</a>  
+   Link:<a href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/21827" target="_blank" rel="noopener noreferrer nofollow">https://ibccdigitalarchive.lincoln.ac.uk/collections/document/21827</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK</a>  
+   Link:<a href="https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: warwickshire.police.uk  
    Title: foi 568 2025 may 2025 ufo  
-   Link: <a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/</a>  
+   Link:<a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/</a>  
    Published: may 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: warwickshire.police.uk  
-   Link: <a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2021/december-2021/foi-1025--dec-21--unidentified-flying-objectunidentified-aerial-phenomena-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2021/december-2021/foi-1025--dec-21--unidentified-flying-objectunidentified-aerial-phenomena-sightings/</a>  
+   Link:<a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2021/december-2021/foi-1025--dec-21--unidentified-flying-objectunidentified-aerial-phenomena-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2021/december-2021/foi-1025--dec-21--unidentified-flying-objectunidentified-aerial-phenomena-sightings/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: e-services.worcestershire.gov.uk  
    Title: worcestershire.gov.uk Maps and Plans Search  
-   Link: <a href="https://e-services.worcestershire.gov.uk/RecordsSearch/RecordsSearch.aspx" target="_blank" rel="noopener noreferrer nofollow">https://e-services.worcestershire.gov.uk/RecordsSearch/RecordsSearch.aspx</a>  
+   Link:<a href="https://e-services.worcestershire.gov.uk/RecordsSearch/RecordsSearch.aspx" target="_blank" rel="noopener noreferrer nofollow">https://e-services.worcestershire.gov.uk/RecordsSearch/RecordsSearch.aspx</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: worcestershire.gov.uk  
-   Link: <a href="https://www.worcestershire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.worcestershire.gov.uk/</a>  
+   Link:<a href="https://www.worcestershire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.worcestershire.gov.uk/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: devon-cornwall.police.uk  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1993/272/note/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1993/272/note/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1993/272/note/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1993/272/note/made</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: radar.family  
    Title: charles rigg remembers  
-   Link: <a href="https://radar.family/2021/06/04/charles-rigg-remembers/" target="_blank" rel="noopener noreferrer nofollow">https://radar.family/2021/06/04/charles-rigg-remembers/</a>  
+   Link:<a href="https://radar.family/2021/06/04/charles-rigg-remembers/" target="_blank" rel="noopener noreferrer nofollow">https://radar.family/2021/06/04/charles-rigg-remembers/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Worcestershire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Worcestershire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News | theguardian.com  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: birminghammail.co.uk  
    Title: 21 ufo sightings over worcestershire 18246410  
-   Link: <a href="https://www.birminghammail.co.uk/news/midlands-news/21-ufo-sightings-over-worcestershire-18246410" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/21-ufo-sightings-over-worcestershire-18246410</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/midlands-news/21-ufo-sightings-over-worcestershire-18246410" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/21-ufo-sightings-over-worcestershire-18246410</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: birminghammail.co.uk  
    Title: ufo spotted falling erratically skies 19015631  
-   Link: <a href="https://www.birminghammail.co.uk/news/local-news/ufo-spotted-falling-erratically-skies-19015631" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/ufo-spotted-falling-erratically-skies-19015631</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/local-news/ufo-spotted-falling-erratically-skies-19015631" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/ufo-spotted-falling-erratically-skies-19015631</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: prufospolicedatabase.co.uk  
    Title: PRUFOS Police Database ON DUTY SIGHTINGS  
-   Link: <a href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prufospolicedatabase.co.uk/4.html</a>  
+   Link:<a href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prufospolicedatabase.co.uk/4.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationaltrust.org.uk  
-   Link: <a href="https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome/raf-defford-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome/raf-defford-museum</a>  
+   Link:<a href="https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome/raf-defford-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome/raf-defford-museum</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dahg.org.uk  
-   Link: <a href="https://dahg.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://dahg.org.uk/</a>  
+   Link:<a href="https://dahg.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://dahg.org.uk/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/pershore-throckmorton/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/pershore-throckmorton/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/pershore-throckmorton/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/pershore-throckmorton/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: birminghammail.co.uk  
    Title: pictures worcestershires most baffling ufo 21903827  
-   Link: <a href="https://www.birminghammail.co.uk/news/midlands-news/gallery/pictures-worcestershires-most-baffling-ufo-21903827" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/gallery/pictures-worcestershires-most-baffling-ufo-21903827</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/midlands-news/gallery/pictures-worcestershires-most-baffling-ufo-21903827" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/gallery/pictures-worcestershires-most-baffling-ufo-21903827</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: birminghammail.co.uk  
    Title: droitwich woman vanishes bed object 21697239  
-   Link: <a href="https://www.birminghammail.co.uk/news/midlands-news/droitwich-woman-vanishes-bed-object-21697239" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/droitwich-woman-vanishes-bed-object-21697239</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/midlands-news/droitwich-woman-vanishes-bed-object-21697239" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/droitwich-woman-vanishes-bed-object-21697239</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Worcestershire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Worcestershire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: RAF Defford  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Defford" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Defford</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Defford" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Defford</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: birminghammail.co.uk  
    Title: raft ufo sightings sparked redditch 21389879  
-   Link: <a href="https://www.birminghammail.co.uk/news/midlands-news/raft-ufo-sightings-sparked-redditch-21389879" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/raft-ufo-sightings-sparked-redditch-21389879</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/midlands-news/raft-ufo-sightings-sparked-redditch-21389879" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/midlands-news/raft-ufo-sightings-sparked-redditch-21389879</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/all-about/redditch?pageNumber=90" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/all-about/redditch?pageNumber=90</a>  
+   Link:<a href="https://www.birminghammail.co.uk/all-about/redditch?pageNumber=90" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/all-about/redditch?pageNumber=90</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/all-about/kidderminster?pageNumber=11" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/all-about/kidderminster?pageNumber=11</a>  
+   Link:<a href="https://www.birminghammail.co.uk/all-about/kidderminster?pageNumber=11" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/all-about/kidderminster?pageNumber=11</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: birminghammail.co.uk  
    Title: eight ufo sightings black country 21788569  
-   Link: <a href="https://www.birminghammail.co.uk/black-country/eight-ufo-sightings-black-country-21788569" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/black-country/eight-ufo-sightings-black-country-21788569</a>  
+   Link:<a href="https://www.birminghammail.co.uk/black-country/eight-ufo-sightings-black-country-21788569" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/black-country/eight-ufo-sightings-black-country-21788569</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/news/local-news/?pageNumber=44" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/?pageNumber=44</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/local-news/?pageNumber=44" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/?pageNumber=44</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/all-about/worcester?pageNumber=46" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/all-about/worcester?pageNumber=46</a>  
+   Link:<a href="https://www.birminghammail.co.uk/all-about/worcester?pageNumber=46" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/all-about/worcester?pageNumber=46</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/black-country/ufos-ghosts-caught-camera-black-22527016" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/black-country/ufos-ghosts-caught-camera-black-22527016</a>  
+   Link:<a href="https://www.birminghammail.co.uk/black-country/ufos-ghosts-caught-camera-black-22527016" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/black-country/ufos-ghosts-caught-camera-black-22527016</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: history.ac.uk  
-   Link: <a href="https://www.history.ac.uk/research/victoria-county-history/counties-z/worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/research/victoria-county-history/counties-z/worcestershire</a>  
+   Link:<a href="https://www.history.ac.uk/research/victoria-county-history/counties-z/worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/research/victoria-county-history/counties-z/worcestershire</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ukhousing.fandom.com  
-   Link: <a href="https://ukhousing.fandom.com/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://ukhousing.fandom.com/wiki/Worcestershire</a>  
+   Link:<a href="https://ukhousing.fandom.com/wiki/Worcestershire" target="_blank" rel="noopener noreferrer nofollow">https://ukhousing.fandom.com/wiki/Worcestershire</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WeEcmmEdVJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WeEcmmEdVJE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Playing Fetch with Dog Accidentally Records Possible UFO Zooming Through Air...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WeEcmmEdVJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WeEcmmEdVJE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man Playing Fetch with Dog Accidentally Records Possible UFO Zooming Through Air...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Man Playing Fetch with Dog Accidentally Records Possible UFO Zooming Through Air  
-   Link: <a href="https://www.youtube.com/watch?v=G47kykpRhsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G47kykpRhsc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G47kykpRhsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G47kykpRhsc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcherefordandworcester/photos/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457822950956745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/photos/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457822950956745/</a>  
+   Link:<a href="https://www.facebook.com/bbcherefordandworcester/photos/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457822950956745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/photos/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457822950956745/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/awesomevideoss/posts/check-out-this-incredible-footage-of-a-ufo-sighting-outside-a-uk-supermarket-sia/893222839638269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomevideoss/posts/check-out-this-incredible-footage-of-a-ufo-sighting-outside-a-uk-supermarket-sia/893222839638269/</a>  
+   Link:<a href="https://www.facebook.com/awesomevideoss/posts/check-out-this-incredible-footage-of-a-ufo-sighting-outside-a-uk-supermarket-sia/893222839638269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomevideoss/posts/check-out-this-incredible-footage-of-a-ufo-sighting-outside-a-uk-supermarket-sia/893222839638269/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: idcrawl.com  
-   Link: <a href="https://www.idcrawl.com/craig-mathias" target="_blank" rel="noopener noreferrer nofollow">https://www.idcrawl.com/craig-mathias</a>  
+   Link:<a href="https://www.idcrawl.com/craig-mathias" target="_blank" rel="noopener noreferrer nofollow">https://www.idcrawl.com/craig-mathias</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/</a>  
+   Link:<a href="https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUdLZuEEt5_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUdLZuEEt5_/</a>  
+   Link:<a href="https://www.instagram.com/p/DUdLZuEEt5_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUdLZuEEt5_/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: visitworcestershire.org  
-   Link: <a href="https://visitworcestershire.org/historic-worcs" target="_blank" rel="noopener noreferrer nofollow">https://visitworcestershire.org/historic-worcs</a>  
+   Link:<a href="https://visitworcestershire.org/historic-worcs" target="_blank" rel="noopener noreferrer nofollow">https://visitworcestershire.org/historic-worcs</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: visitthemalverns.org  
-   Link: <a href="https://www.visitthemalverns.org/event/history-of-raf-defford-walk-2/2026-08-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitthemalverns.org/event/history-of-raf-defford-walk-2/2026-08-06/</a>  
+   Link:<a href="https://www.visitthemalverns.org/event/history-of-raf-defford-walk-2/2026-08-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitthemalverns.org/event/history-of-raf-defford-walk-2/2026-08-06/</a>  

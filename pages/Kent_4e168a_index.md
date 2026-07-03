@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kent-4e168a-index/
 description: Focused pages that expand on What Really Happened Over Kent?.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Kent_4e168a
 parent_title: What Really Happened Over Kent?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-kent/
 
 # Explore Topics in What Really Happened Over Kent?
 
-The following pages expand on the main **[What Really Happened Over Kent?]({{ '/what-really-happened-over-kent/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened Over Kent?]({{ '/what-really-happened-over-kent/' | relative_url }})** page and cover its key branches in.
 
 - [Alitalia]({{ '/alitalia/' | relative_url }})
 - [Hotspots]({{ '/hotspots/' | relative_url }})

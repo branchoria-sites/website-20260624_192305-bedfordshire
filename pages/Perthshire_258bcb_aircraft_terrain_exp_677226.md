@@ -248,7 +248,7 @@ image: /assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-overview-soc
 
 ## Introduction
 
-[Perthshire]({{ 'what-do-perthshires-ufo-records-really/' | relative_url }})’s hills and glens make aircraft checks essential in any local UFO report. The county sits at the Highland edge, where aircraft can appear suddenly over ridges, vanish behind broken terrain, or look almost stationary when seen head-on or at long range. That does not explain every report, and it does not settle the [Calvine]({{ 'calvine-0ed402/' | relative_url }}) photograph. It does mean that the first sensible question is usually not “what was the object?”, but “what aircraft, route, height, light, weather and viewing angle could have produced this impression?” The point matters because Perthshire’s best-known case, the 1990 Calvine image, includes a jet-like aircraft that official and later analysts have treated as central rather than incidental. Andrew Robinson’s photographic analysis found that the small aircraft shape is consistent with a Harrier outline, while also warning that blur and resolution prevent conclusive identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+[Perthshire]({{ 'what-do-perthshires-ufo-records-really/' | relative_url }})’s hills and glens make aircraft checks essential in any local UFO report. The county sits at the Highland edge, where aircraft can appear suddenly over ridges, vanish behind broken terrain, or look almost stationary when seen head-on or at long range. That does not explain every report, and it does not settle the [Calvine]({{ 'calvine-0ed402/' | relative_url }}) photograph. It does mean that the first sensible question is usually not “what was the object?”, but “what aircraft, route, height, light, weather and viewing angle could have produced this impression?” The point matters because Perthshire’s best-known case, the 1990 Calvine image, includes a jet-like aircraft that official and later analysts have treated as central rather than incidental. Andrew Robinson’s photographic analysis found that the small aircraft shape is consistent with a Harrier outline, while also warning that blur and resolution prevent conclusive identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-overview.webp" | relative_url }}" alt="Overview image for Aircraft Checks" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,11 +259,11 @@ This page focuses on that mechanism: how military aircraft, low flying and Highl
 
 ## Why jets and low flying matter in the Highlands
 
-Military low flying is not an exotic explanation in Scotland. The Ministry of Defence says the UK is divided into low flying areas, with three tactical training areas: central Wales, northern Scotland, and the Borders area of southern Scotland and northern England. The MOD also publishes timetables for tactical training areas and sponsored air exercises, although those timetables do not provide a complete live account of every aircraft a witness might see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft</span><span class="citation-popover-snippet">Low flying military aircraft</span></span></span>
+Military low flying is not an exotic explanation in Scotland. The Ministry of Defence says the UK is divided into low flying areas, with three tactical training areas: central Wales, northern Scotland, and the Borders area of southern Scotland and northern England. The MOD also publishes timetables for tactical training areas and sponsored air exercises, although those timetables do not provide a complete live account of every aircraft a witness might see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft</span><span class="citation-popover-snippet">Low flying military aircraft</span></span></span>
 
-For a Perthshire UFO report, that means low-level aircraft are not a far-fetched afterthought. The UK Military Low Flying System covers open airspace from the surface to 2,000 feet, and official material describes low flying as a visual environment in which “see and avoid” principles apply. MOD guidance also distinguishes routine fixed-wing low flying from operational low flying in tactical training areas, where aircraft may operate lower in specified circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/military-low-flying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying</span><span class="citation-popover-snippet">Military low flying</span></span></span>
+For a Perthshire UFO report, that means low-level aircraft are not a far-fetched afterthought. The UK Military Low Flying System covers open airspace from the surface to 2,000 feet, and official material describes low flying as a visual environment in which “see and avoid” principles apply. MOD guidance also distinguishes routine fixed-wing low flying from operational low flying in tactical training areas, where aircraft may operate lower in specified circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/military-low-flying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying</span><span class="citation-popover-snippet">Military low flying</span></span></span>
 
-Perthshire is not the same as the northern Scotland tactical training area, and individual sightings still need local checks. But the wider Scottish aviation setting matters. RAF Lossiemouth states that low flying training is needed before deployment to operations, and that the station hosts national and international exercises that may require flying outside standard hours. RAF reporting on a major exercise also refers to Scotland’s “array of low-level flying areas” and the Tain Range as part of a challenging exercise environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+Perthshire is not the same as the northern Scotland tactical training area, and individual sightings still need local checks. But the wider Scottish aviation setting matters. RAF Lossiemouth states that low flying training is needed before deployment to operations, and that the station hosts national and international exercises that may require flying outside standard hours. RAF reporting on a major exercise also refers to Scotland’s “array of low-level flying areas” and the Tain Range as part of a challenging exercise environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 For ordinary witnesses, this produces a familiar problem: a fast jet can be heard late, seen briefly, or noticed only when it banks and catches the light. In broken Highland country, ridgelines can mask the approach, amplify or delay sound, and make the aircraft’s height hard to judge. A witness in a glen may see a light or silhouette against cloud rather than against a clear horizon. By the time the object is visible, it may already be turning away, climbing, descending or passing behind a hill.
 
@@ -286,17 +286,17 @@ These questions do not “debunk” a case by themselves. They stop a weak repor
 <img src="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Harrier question in the Calvine image
 
-The Calvine photograph is the strongest reason aircraft explanations matter in Perthshire. The reported sighting took place near Calvine, north of Pitlochry, on 4 August 1990. The public story centres on a large diamond-shaped object and a smaller jet-like aircraft in the same image. National Archives guidance on the released UFO files describes a poor-quality photocopy of a large diamond-shaped UFO over Calvine and “what was later identified as a Harrier”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The Calvine photograph is the strongest reason aircraft explanations matter in Perthshire. The reported sighting took place near Calvine, north of Pitlochry, on 4 August 1990. The public story centres on a large diamond-shaped object and a smaller jet-like aircraft in the same image. National Archives guidance on the released UFO files describes a poor-quality photocopy of a large diamond-shaped UFO over Calvine and “what was later identified as a Harrier”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-That identification has never been enough to close the case. The MoD’s own defensive press lines, as later reported from the file material, said no definite conclusion had been reached on the large diamond-shaped object, but expressed confidence that the jet aircraft was a Harrier. The same note also said there was no record of Harriers operating at the stated location, date and time, and no other reports of unusual air activity or sightings at that location and time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-title">Taipei Times The mystery behind the &#x27;best&#x27; UFO picture ever seen</span><span class="citation-popover-snippet">Taipei Times The mystery behind the &#x27;best&#x27; UFO picture ever seen</span></span></span>
+That identification has never been enough to close the case. The MoD’s own defensive press lines, as later reported from the file material, said no definite conclusion had been reached on the large diamond-shaped object, but expressed confidence that the jet aircraft was a Harrier. The same note also said there was no record of Harriers operating at the stated location, date and time, and no other reports of unusual air activity or sightings at that location and time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-title">Taipei Times The mystery behind the &#x27;best&#x27; UFO picture ever seen</span><span class="citation-popover-snippet">Taipei Times The mystery behind the &#x27;best&#x27; UFO picture ever seen</span></span></span>
 
 This creates the central tension. If the small aircraft really was a Harrier, then the case has a concrete military aviation element. If no Harrier was recorded there at the stated time, then at least one part of the story needs rechecking: the identification, the date, the time, the location, the completeness of the records, or the witness account. None of those possibilities proves a secret craft. Each changes how much weight the report can carry.
 
-Andrew Robinson’s later analysis strengthens the need for caution. He concluded that the aircraft shape is consistent with a Harrier outline, but that resolution and blur prevent a conclusive identification. He also estimated, under a 50mm lens assumption, that the aircraft was roughly 755 metres from the camera and about 117 metres above ground. Those figures are model-based, not independent proof of a flight path, but they show why the image is not merely a story about a distant dot: the aircraft-like shape is built into the geometry of the photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+Andrew Robinson’s later analysis strengthens the need for caution. He concluded that the aircraft shape is consistent with a Harrier outline, but that resolution and blur prevent a conclusive identification. He also estimated, under a 50mm lens assumption, that the aircraft was roughly 755 metres from the camera and about 117 metres above ground. Those figures are model-based, not independent proof of a flight path, but they show why the image is not merely a story about a distant dot: the aircraft-like shape is built into the geometry of the photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
 The Harrier question also helps separate two different claims that are often blurred together. One claim is modest: the photograph appears to show a real scene, with a small aircraft-like object whose shape is compatible with a Harrier. Another claim is much larger: that a military jet was actively inspecting or escorting an unknown craft. The first claim has photographic support. The second depends on the witness narrative, missing original negatives, incomplete official records and interpretation of motion that a still photograph cannot fully provide.
 
-That distinction is vital for Perthshire’s UFO history. Calvine remains unusual because the evidence has a traceable print history and official attention, not because the Harrier issue is settled. Robinson’s analysis says the surviving print is a genuine copy of the Calvine image and identical to the photocopies faxed to the MoD and to the image forms released publicly in 2009. At the same time, the report stresses limits: the location, date, photographer and object identity cannot be proven from the print alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+That distinction is vital for Perthshire’s UFO history. Calvine remains unusual because the evidence has a traceable print history and official attention, not because the Harrier issue is settled. Robinson’s analysis says the surviving print is a genuine copy of the Calvine image and identical to the photocopies faxed to the MoD and to the image forms released publicly in 2009. At the same time, the report stresses limits: the location, date, photographer and object identity cannot be proven from the print alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mQ1kGk2A88" title="The story of the Calvine UFO photograph | In Case You Missed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer">The story of the Calvine UFO photograph | In Case You Missed It</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 117.5K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mQ1kGk2A88">Open on YouTube</a></p></div></div></div>
@@ -305,9 +305,9 @@ That distinction is vital for Perthshire’s UFO history. Calvine remains unusua
 
 Highland Perthshire is visually dramatic, but it is also difficult ground for judging airborne objects. Long glens, steep ridges, low cloud and dark tree lines can remove the reference points people normally use to estimate height, speed and distance. A light near a ridge can look close or far depending on cloud, haze and the observer’s elevation. A banking aircraft can change from a visible shape to a bright glint or a single light in seconds.
 
-Aviation safety literature is useful here because pilots are trained to distrust some visual impressions. Flight Safety Foundation guidance on visual illusions says perception can be changed by ground texture, off-airport light patterns, sloping terrain, poor visibility and altered visual references. Although that guidance is written for pilots on approach, the same broad lesson applies to witnesses on the ground: the eye is not a measuring instrument when distance cues are poor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ulc.gov.pl">[ULC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ulc.gov.pl</span><span class="citation-popover-title">ULCFSF ALAR Briefing Note 5.3: Visual Illusions</span><span class="citation-popover-snippet">ULCFSF ALAR Briefing Note 5.3: Visual Illusions</span></span></span>
+Aviation safety literature is useful here because pilots are trained to distrust some visual impressions. Flight Safety Foundation guidance on visual illusions says perception can be changed by ground texture, off-airport light patterns, sloping terrain, poor visibility and altered visual references. Although that guidance is written for pilots on approach, the same broad lesson applies to witnesses on the ground: the eye is not a measuring instrument when distance cues are poor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ulc.gov.pl">[ULC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ulc.gov.pl</span><span class="citation-popover-title">ULCFSF ALAR Briefing Note 5.3: Visual Illusions</span><span class="citation-popover-snippet">ULCFSF ALAR Briefing Note 5.3: Visual Illusions</span></span></span>
 
-At night or dusk, the problem becomes sharper. Flight Safety Foundation material notes that night vision has much lower acuity than daylight vision, and the Civil Aviation Authority’s night-flying guidance explains that detail is lost in darkness, making colours and lights more prominent than the airframe or surrounding landscape. A witness may therefore report “a silent light” or “a hovering object” when they have actually seen a distant aircraft with little visible structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">in the dark</span><span class="citation-popover-snippet">in the dark</span></span></span>
+At night or dusk, the problem becomes sharper. Flight Safety Foundation material notes that night vision has much lower acuity than daylight vision, and the Civil Aviation Authority’s night-flying guidance explains that detail is lost in darkness, making colours and lights more prominent than the airframe or surrounding landscape. A witness may therefore report “a silent light” or “a hovering object” when they have actually seen a distant aircraft with little visible structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">in the dark</span><span class="citation-popover-snippet">in the dark</span></span></span>
 
 Perthshire adds three local effects that are especially relevant:
 
@@ -329,7 +329,7 @@ First, it may explain the sighting directly. A known aircraft, exercise, helicop
 
 Second, it may weaken the case without fully solving it. This is common. A report may be too vague to identify, but it may also contain standard aircraft features: flashing lights, repeated passes, engine sound, a steady course, a low-level route, or a direction consistent with nearby air traffic. Such a report should not be elevated simply because no exact aircraft record is found.
 
-Third, it may strengthen the unresolved status. If a report has a precise time, location, direction, duration, multiple independent witnesses, photographs, and negative checks against known aircraft activity, then ruling out ordinary aviation becomes meaningful. Calvine attracts attention partly because it appears to combine a distinctive object, a possible military aircraft, official handling and later photographic analysis. But even there, the aircraft element creates questions rather than certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Third, it may strengthen the unresolved status. If a report has a precise time, location, direction, duration, multiple independent witnesses, photographs, and negative checks against known aircraft activity, then ruling out ordinary aviation becomes meaningful. Calvine attracts attention partly because it appears to combine a distinctive object, a possible military aircraft, official handling and later photographic analysis. But even there, the aircraft element creates questions rather than certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For local Perthshire cases, the most useful evidence is usually mundane: exact map position, direction faced, elevation if known, time to the minute, weather, cloud base, wind, photographs before and after the event, audio, and whether aircraft lights or sound were present. A report from “near Pitlochry” or “over the hills” may be intriguing, but it is hard to assess unless the line of sight can be reconstructed.
 
@@ -350,194 +350,194 @@ For readers following Perthshire within the wider UK county UFO project, the pra
 <img src="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Perthshire_258bcb_aircraft_terrain_exp_677226-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Did Aircraft Shape Perthshire UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Did Aircraft Shape Perthshire UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and avoiding misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and avoiding misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains numerous pilot and aviation-related reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains numerous pilot and aviation-related reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Discusses military aircraft, defence records and British cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military aircraft, defence records and British cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context for how aircraft and folklore shape reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how aircraft and folklore shape reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200"><img src="{{ '/assets/images/marketplace-covers/c26cb70187148ae3ec81.jpg' | relative_url }}" alt="Listing image for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200"><img src="{{ '/assets/images/marketplace-covers/c26cb70187148ae3ec81.jpg' | relative_url }}" alt="Listing image for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2"><img src="{{ '/assets/images/marketplace-covers/1062932ee96700fde40a.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2"><img src="{{ '/assets/images/marketplace-covers/1062932ee96700fde40a.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model."><img src="{{ '/assets/images/marketplace-covers/88bd6d0c1d890215fa16.jpg' | relative_url }}" alt="Listing image for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model."><img src="{{ '/assets/images/marketplace-covers/88bd6d0c1d890215fa16.jpg' | relative_url }}" alt="Listing image for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/3ce4d3181631da7e567f.jpg' | relative_url }}" alt="Listing image for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/3ce4d3181631da7e567f.jpg' | relative_url }}" alt="Listing image for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-checks-how-much-did-aircraft-shape-perthshire-ufo-reports-perthshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ For readers following Perthshire within the wider UK county UFO project, the pra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ For readers following Perthshire within the wider UK county UFO project, the pra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ For readers following Perthshire within the wider UK county UFO project, the pra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ For readers following Perthshire within the wider UK county UFO project, the pra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ For readers following Perthshire within the wider UK county UFO project, the pra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,231 +743,231 @@ For readers following Perthshire within the wider UK county UFO project, the pra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Low flying military aircraft  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Military low flying  
-   Link: <a href="https://www.gov.uk/guidance/military-low-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/military-low-flying</a>  
+   Link:<a href="https://www.gov.uk/guidance/military-low-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/military-low-flying</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: the pattern of military low flying across the uk 20242025  
-   Link: <a href="https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20242025/the-pattern-of-military-low-flying-across-the-uk-20242025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20242025/the-pattern-of-military-low-flying-across-the-uk-20242025</a>  
+   Link:<a href="https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20242025/the-pattern-of-military-low-flying-across-the-uk-20242025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20242025/the-pattern-of-military-low-flying-across-the-uk-20242025</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: raf.mod.uk  
    Title: raf lossiemouth hosting nato allies for major exercise  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-lossiemouth-hosting-nato-allies-for-major-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-lossiemouth-hosting-nato-allies-for-major-exercise/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-lossiemouth-hosting-nato-allies-for-major-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-lossiemouth-hosting-nato-allies-for-major-exercise/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ulc.gov.pl  
    Title: ULCFSF ALAR Briefing Note 5.3: Visual Illusions  
-   Link: <a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
+   Link:<a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20232024/the-pattern-of-military-low-flying-across-the-united-kingdom-background-quality-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20232024/the-pattern-of-military-low-flying-across-the-united-kingdom-background-quality-report</a>  
+   Link:<a href="https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20232024/the-pattern-of-military-low-flying-across-the-united-kingdom-background-quality-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20232024/the-pattern-of-military-low-flying-across-the-united-kingdom-background-quality-report</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: raf.mod.uk  
    Title: air mobility force train vital flying skills  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-brize-norton/news/air-mobility-force-train-vital-flying-skills/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-brize-norton/news/air-mobility-force-train-vital-flying-skills/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-brize-norton/news/air-mobility-force-train-vital-flying-skills/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-brize-norton/news/air-mobility-force-train-vital-flying-skills/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/display-teams/red-arrows/displays/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/display-teams/red-arrows/displays/</a>  
+   Link:<a href="https://www.raf.mod.uk/display-teams/red-arrows/displays/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/display-teams/red-arrows/displays/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/leuchars-station/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/leuchars-station/flying-info/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
+   Link:<a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/sites/raf-beta/assets/5043_25WP_airclues_47_jun_25A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/sites/raf-beta/assets/5043_25WP_airclues_47_jun_25A.pdf</a>  
+   Link:<a href="https://www.raf.mod.uk/sites/raf-beta/assets/5043_25WP_airclues_47_jun_25A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/sites/raf-beta/assets/5043_25WP_airclues_47_jun_25A.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/contact-us/</a>  
+   Link:<a href="https://www.raf.mod.uk/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/contact-us/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: raf.mod.uk  
    Title: the early years of 42 tb sqn  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/the-early-years-of-42-tb-sqn/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/the-early-years-of-42-tb-sqn/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/the-early-years-of-42-tb-sqn/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/the-early-years-of-42-tb-sqn/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: recruitment.raf.mod.uk  
    Title: uk Apprenticeships | Royal Air Force  
-   Link: <a href="https://recruitment.raf.mod.uk/apprenticeships" target="_blank" rel="noopener noreferrer nofollow">https://recruitment.raf.mod.uk/apprenticeships</a>  
+   Link:<a href="https://recruitment.raf.mod.uk/apprenticeships" target="_blank" rel="noopener noreferrer nofollow">https://recruitment.raf.mod.uk/apprenticeships</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=252" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=252</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=252" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=252</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: RA2330 Issue 10  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a34ee5274a277e68e4ab/POMLFAppendix20102011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a34ee5274a277e68e4ab/POMLFAppendix20102011.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a34ee5274a277e68e4ab/POMLFAppendix20102011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a34ee5274a277e68e4ab/POMLFAppendix20102011.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Aircraft Incidents  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74c9d9ed915d502d6cb041/20569401.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: OES A3h Other Users  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7a2446e5274a319e77826e/OES_A3h_Other_Users.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a2446e5274a319e77826e/OES_A3h_Other_Users.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7a2446e5274a319e77826e/OES_A3h_Other_Users.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a2446e5274a319e77826e/OES_A3h_Other_Users.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a81c50340f0b623026990fd/UK_Military_Low_Flying-withdrawn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81c50340f0b623026990fd/UK_Military_Low_Flying-withdrawn.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a81c50340f0b623026990fd/UK_Military_Low_Flying-withdrawn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81c50340f0b623026990fd/UK_Military_Low_Flying-withdrawn.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6063061e8fa8f55b6ad297d0/CP411_-Defence_Command_Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6063061e8fa8f55b6ad297d0/CP411_-Defence_Command_Plan.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6063061e8fa8f55b6ad297d0/CP411_-Defence_Command_Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6063061e8fa8f55b6ad297d0/CP411_-Defence_Command_Plan.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a818edeed915d74e33fedca/OESEA3_A1h_Other_users.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a818edeed915d74e33fedca/OESEA3_A1h_Other_users.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a818edeed915d74e33fedca/OESEA3_A1h_Other_users.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a818edeed915d74e33fedca/OESEA3_A1h_Other_users.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/651ac89a6a423b0014f4c6ed/The_pattern_of_military_low_flying_across_the_UK_20212022__tables_.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/651ac89a6a423b0014f4c6ed/The_pattern_of_military_low_flying_across_the_UK_20212022__tables_.xlsx</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/651ac89a6a423b0014f4c6ed/The_pattern_of_military_low_flying_across_the_UK_20212022__tables_.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/651ac89a6a423b0014f4c6ed/The_pattern_of_military_low_flying_across_the_UK_20212022__tables_.xlsx</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UKDS 2012 All Chapters Revised  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a816631e5274a2e87dbd6b0/UKDS_2012_All_Chapters_-_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a816631e5274a2e87dbd6b0/UKDS_2012_All_Chapters_-_Revised.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a816631e5274a2e87dbd6b0/UKDS_2012_All_Chapters_-_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a816631e5274a2e87dbd6b0/UKDS_2012_All_Chapters_-_Revised.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5b19bdab40f0b634bd70e3b9/The_pattern_of_military_low_flying_across_the_uk_20162017_Tables.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5b19bdab40f0b634bd70e3b9/The_pattern_of_military_low_flying_across_the_uk_20162017_Tables.xlsx</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5b19bdab40f0b634bd70e3b9/The_pattern_of_military_low_flying_across_the_uk_20162017_Tables.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5b19bdab40f0b634bd70e3b9/The_pattern_of_military_low_flying_across_the_uk_20162017_Tables.xlsx</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: taipeitimes.com  
    Title: Taipei Times The mystery behind the 'best' UFO picture ever seen  
-   Link: <a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
+   Link:<a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: flightsafety.org  
    Title: in the dark  
-   Link: <a href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/in-the-dark/</a>  
+   Link:<a href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/in-the-dark/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Perthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perthshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perthshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Perthshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Perthshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Perthshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Perthshire</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/32102/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/32102/</a>  
+   Link:<a href="https://shura.shu.ac.uk/32102/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/32102/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: chinook-helicopter.com  
    Title: Visual Illusions  
-   Link: <a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
+   Link:<a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rknxu1XPi9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rknxu1XPi9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-Level Flying With The Army Air Corps In The Scottish Highlands! | Forces TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rknxu1XPi9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rknxu1XPi9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low-Level Flying With The Army Air Corps In The Scottish Highlands! | Forces TV...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Palm Tree 42, Royal Airforce Airbus A400M flying low level through the Scottish Highlands 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Palm Tree 42, Royal Airforce Airbus A400M flying low level through the Scottish Highlands 4K...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Flying the Typhoon Through the Mach Loop at Low Level  
-   Link: <a href="https://www.youtube.com/watch?v=kT7qrYi8R_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kT7qrYi8R_M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCREDIBLE 7 IN A DAY! EUROFIGHTER TYPHOON LOW LEVEL FLYING THROUGH LAKE DISTRICT • DUNMAIL RAISE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kT7qrYi8R_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kT7qrYi8R_M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCREDIBLE 7 IN A DAY! EUROFIGHTER TYPHOON LOW LEVEL FLYING THROUGH LAKE DISTRICT • DUNMAIL RAISE...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Low-Level Flying With The Army Air Corps In The Scottish Highlands! | Forces TV  
-   Link: <a href="https://www.youtube.com/watch?v=VkrjirOPoc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VkrjirOPoc4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying the Typhoon Through the Mach Loop at Low Level...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VkrjirOPoc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VkrjirOPoc4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying the Typhoon Through the Mach Loop at Low Level...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NortheastToday/posts/netsnippet-a-picture-of-a-diamond-shaped-unidentified-flying-object-taken-by-two/5608697969176602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NortheastToday/posts/netsnippet-a-picture-of-a-diamond-shaped-unidentified-flying-object-taken-by-two/5608697969176602/</a>  
+   Link:<a href="https://www.facebook.com/NortheastToday/posts/netsnippet-a-picture-of-a-diamond-shaped-unidentified-flying-object-taken-by-two/5608697969176602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NortheastToday/posts/netsnippet-a-picture-of-a-diamond-shaped-unidentified-flying-object-taken-by-two/5608697969176602/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/</a>  
+   Link:<a href="https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: banthebomb.org  
-   Link: <a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
+   Link:<a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
+   Link:<a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Burnside%2C_Perthshire_7001" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Burnside%2C_Perthshire_7001</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Burnside%2C_Perthshire_7001" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Burnside%2C_Perthshire_7001</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
+   Link:<a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  

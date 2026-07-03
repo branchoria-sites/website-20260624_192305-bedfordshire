@@ -118,9 +118,9 @@ heading_title: What Really Happened in Roxburghshire's UFO Record?
 page_heading_title: What Really Happened in Roxburghshire's UFO Record?
 source_count: 129
 infographic_count: 3
-page_website_name: Roxburghshire UFOs
+page_website_name: Roxburghshire
 page_banner_line: Balanced evidence on Border sightings, official records and likely explanations.
-site_website_name: Roxburghshire UFOs
+site_website_name: Roxburghshire
 site_banner_line: Balanced evidence on Border sightings, official records and likely explanations.
 site_image_description: A quiet night view over Kelso and the River Tweed with dark hills beyond and a small orange light high in the sky.
 output_language: English
@@ -689,17 +689,17 @@ image: /assets/images/Roxburghshire_8333b2-overview-social.jpg
 
 ## Introduction
 
-For this page, Roxburghshire means the historic county: the inland Border shire centred on Jedburgh, Hawick, Kelso, Teviotdale, Liddesdale and the Tweed. Today it sits within the Scottish Borders council area, but historic county geography matters because older UFO records, newspaper references and official lists often use county names that no longer match current administrative boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Roxburghshire</span><span class="citation-popover-snippet">Wikishire Roxburghshire</span></span></span>
+For this page, Roxburghshire means the historic county: the inland Border shire centred on Jedburgh, Hawick, Kelso, Teviotdale, Liddesdale and the Tweed. Today it sits within the Scottish Borders council area, but historic county geography matters because older UFO records, newspaper references and official lists often use county names that no longer match current administrative boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Roxburghshire</span><span class="citation-popover-snippet">Wikishire Roxburghshire</span></span></span>
 
 
 <img src="{{ "/assets/images/Roxburghshire_8333b2-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Roxburghshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## The main recorded case: Kelso, 17 August 1997
 
-The strongest county-specific UFO entry is in the Ministry of Defence’s published “UFO Reports 1997” list. The report is short, but it gives enough detail to reconstruct the claim at a basic level. At 02:30 on 17 August 1997, a sighting was recorded at Kelso, Roxburghshire. The object was described as oval, glowing orange, with a green light in the centre. The witness also reported a rushing wind sound and said the object was travelling faster than a jet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The strongest county-specific UFO entry is in the Ministry of Defence’s published “UFO Reports 1997” list. The report is short, but it gives enough detail to reconstruct the claim at a basic level. At 02:30 on 17 August 1997, a sighting was recorded at Kelso, Roxburghshire. The object was described as oval, glowing orange, with a green light in the centre. The witness also reported a rushing wind sound and said the object was travelling faster than a jet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 That combination is worth noting because it is not simply a distant “star-like light” report. The description includes shape, colour, sound and apparent speed. On the other hand, the official list gives no witness name, no direction of travel, no duration, no weather, no angular height, no number of witnesses, no radar confirmation, and no follow-up conclusion. Those absences sharply limit what can be responsibly inferred.
 
-The Kelso report sits among many other 1997 entries that show how varied MoD UFO submissions were. Nearby in the same national list are reports of bright lights, triangles, fireball-like objects, objects compared with aircraft, and possible meteors or space debris. The Kelso entry therefore should be read as an official record of a reported sighting, not as official confirmation that an extraordinary craft was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Kelso report sits among many other 1997 entries that show how varied MoD UFO submissions were. Nearby in the same national list are reports of bright lights, triangles, fireball-like objects, objects compared with aircraft, and possible meteors or space debris. The Kelso entry therefore should be read as an official record of a reported sighting, not as official confirmation that an extraordinary craft was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Roxburghshire_8333b2-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Roxburghshire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -716,11 +716,11 @@ The date is also interesting. The Kelso sighting falls in a busy stretch of the 
 
 ## The Border skies: aircraft, hills and misidentification
 
-Roxburghshire’s geography makes some reports harder to interpret. The county is rural, hilly and crossed by valleys such as Teviotdale, Tweedside and Liddesdale. Wikishire describes Roxburghshire as a mountainous inland shire, with towns concentrated in the valleys and the Cheviots forming much of the border with Northumberland. Britannica similarly places the historic county between the Tweed and Teviot valleys, the Cheviot Hills and Liddesdale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Roxburghshire</span><span class="citation-popover-snippet">Wikishire Roxburghshire</span></span></span>
+Roxburghshire’s geography makes some reports harder to interpret. The county is rural, hilly and crossed by valleys such as Teviotdale, Tweedside and Liddesdale. Wikishire describes Roxburghshire as a mountainous inland shire, with towns concentrated in the valleys and the Cheviots forming much of the border with Northumberland. Britannica similarly places the historic county between the Tweed and Teviot valleys, the Cheviot Hills and Liddesdale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Roxburghshire</span><span class="citation-popover-snippet">Wikishire Roxburghshire</span></span></span>
 
 That landscape can affect sightings in several ways. Hills can hide or reveal aircraft suddenly. Valley acoustics can make sound seem oddly placed. A light seen against dark high ground can be hard to judge for distance and size. A fast object crossing a narrow visible slice of sky can appear much quicker than it really is. None of this “debunks” the Kelso report, but it does explain why Border sightings need careful handling.
 
-Military and aviation context also matters. The Ministry of Defence says the UK is divided into [low flying]({{ 'low-flying/' | relative_url }}) areas, and identifies the Borders area of southern Scotland and northern England as one of the UK’s tactical training areas. A Civil Aviation Authority leaflet explains that in the Borders/South West Scotland tactical training area, some flights may be authorised down to 100 feet minimum separation distance, while most military low flying takes place between 250 and 600 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft: Where and when low flying happens</span><span class="citation-popover-snippet">Low flying military aircraft: Where and when low flying happens</span></span></span>
+Military and aviation context also matters. The Ministry of Defence says the UK is divided into [low flying]({{ 'low-flying/' | relative_url }}) areas, and identifies the Borders area of southern Scotland and northern England as one of the UK’s tactical training areas. A Civil Aviation Authority leaflet explains that in the Borders/South West Scotland tactical training area, some flights may be authorised down to 100 feet minimum separation distance, while most military low flying takes place between 250 and 600 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft: Where and when low flying happens</span><span class="citation-popover-snippet">Low flying military aircraft: Where and when low flying happens</span></span></span>
 
 This does not prove the Kelso object was an aircraft. The report’s orange glow, green centre and rushing sound could be read in several ways: aircraft lights and engine noise, a meteor or re-entering debris with an associated sound misperception, a fast low-level aircraft, or an object the witness genuinely could not identify. The important point is that Roxburghshire lies in a region where unusual aircraft sightings are more plausible than they would be in a completely inactive sky.
 
@@ -728,11 +728,11 @@ This does not prove the Kelso object was an aircraft. The report’s orange glow
 <img src="{{ "/assets/images/Roxburghshire_8333b2-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Roxburghshire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD records do and do not prove
 
-The MoD’s public UFO report page covers reports from 1997 to 2009 and describes the documents as lists showing date, time, location and brief description. That is exactly the kind of record the Kelso entry is: useful for locating a claim, but not a full investigation file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD’s public UFO report page covers reports from 1997 to 2009 and describes the documents as lists showing date, time, location and brief description. That is exactly the kind of record the Kelso entry is: useful for locating a claim, but not a full investigation file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The wider government position is also important. In Parliament in 2021, Lord Browne referred to the 2009 advice accepted by Sir Bob Ainsworth that, in more than 50 years, no UFO sighting had indicated a military threat to the UK and that there was no defence benefit in continuing to record, collate, analyse or investigate sightings. Baroness Goldie confirmed that the MoD held no reports on unidentified aerial phenomena and that relevant UFO desk material had been passed to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
+The wider government position is also important. In Parliament in 2021, Lord Browne referred to the 2009 advice accepted by Sir Bob Ainsworth that, in more than 50 years, no UFO sighting had indicated a military threat to the UK and that there was no defence benefit in continuing to record, collate, analyse or investigate sightings. Baroness Goldie confirmed that the MoD held no reports on unidentified aerial phenomena and that relevant UFO desk material had been passed to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
 
-Sky News reported the same underlying closure rationale when the files were released: a 2009 briefing said no MoD UFO report had revealed anything suggesting an extraterrestrial presence or military threat, while the growing number of reports was diverting resources from more valuable defence activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span><span class="citation-popover-snippet">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span></span></span>
+Sky News reported the same underlying closure rationale when the files were released: a 2009 briefing said no MoD UFO report had revealed anything suggesting an extraterrestrial presence or military threat, while the growing number of reports was diverting resources from more valuable defence activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span><span class="citation-popover-snippet">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span></span></span>
 
 For Roxburghshire, that means the Kelso entry should not be overstated. It is part of a national archive of public reports, not evidence that the MoD detected a craft, scrambled aircraft, confirmed radar returns, or considered Kelso a defence concern. The official record preserves the witness description; it does not validate the most extraordinary interpretation of it.
 
@@ -745,7 +745,7 @@ The Kelso report remains unresolved in the narrow sense that the public list doe
 
 The main conventional possibilities are:
 
-* **Low-flying aircraft:** the reported rushing sound and high apparent speed fit an aircraft possibility, especially in a region where military low flying is a known feature. The unusual colour description is less decisive, because aircraft lights can look strange at night and at distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft: Where and when low flying happens</span><span class="citation-popover-snippet">Low flying military aircraft: Where and when low flying happens</span></span></span>
+* **Low-flying aircraft:** the reported rushing sound and high apparent speed fit an aircraft possibility, especially in a region where military low flying is a known feature. The unusual colour description is less decisive, because aircraft lights can look strange at night and at distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft: Where and when low flying happens</span><span class="citation-popover-snippet">Low flying military aircraft: Where and when low flying happens</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -755,7 +755,7 @@ The main conventional possibilities are:
 
 </div>
 
-David Clarke’s work on the MoD UFO archives is useful here. He argues that the files are less a grand cover-up than a record of people seeing things they could not explain, and he notes how ordinary aircraft, optical effects, natural phenomena and popular culture shaped many reports. His examples are not Roxburghshire cases, but the interpretive lesson applies: a sincere witness and an unexplained report do not automatically produce a strong extraordinary claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+David Clarke’s work on the MoD UFO archives is useful here. He argues that the files are less a grand cover-up than a record of people seeing things they could not explain, and he notes how ordinary aircraft, optical effects, natural phenomena and popular culture shaped many reports. His examples are not Roxburghshire cases, but the interpretive lesson applies: a sincere witness and an unexplained report do not automatically produce a strong extraordinary claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Roxburghshire_8333b2-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Roxburghshire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -765,7 +765,7 @@ Within Scotland’s UFO history, Roxburghshire is a minor but real archive point
 
 That distinction is useful for readers. A county-level UFO project should not treat every area as equally dramatic. Some counties have landmark cases, police witnesses, photographs, press campaigns or declassified correspondence. Roxburghshire, on currently accessible evidence, has a thinner footprint: a Kelso MoD entry, a geography where aircraft and skywatching can plausibly intersect, and a need for careful boundary-aware research in local newspapers and archives.
 
-The historic county frame also prevents confusion. Kelso, Hawick and Jedburgh belong naturally to the Roxburghshire page. Border activity from Berwickshire, Selkirkshire, Dumfriesshire, Northumberland or Cumbria may be relevant for comparison, flight paths or regional patterns, but it should not be folded into Roxburghshire unless the evidence crosses the county boundary in a clear way. Roxburghshire was abolished as a local government county in 1975, while remaining a meaningful historic and registration county reference; modern records may instead appear under Scottish Borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/roxburgh-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Roxburgh county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Roxburgh county &#124; Scotland&#x27;s People</span></span></span>
+The historic county frame also prevents confusion. Kelso, Hawick and Jedburgh belong naturally to the Roxburghshire page. Border activity from Berwickshire, Selkirkshire, Dumfriesshire, Northumberland or Cumbria may be relevant for comparison, flight paths or regional patterns, but it should not be folded into Roxburghshire unless the evidence crosses the county boundary in a clear way. Roxburghshire was abolished as a local government county in 1975, while remaining a meaningful historic and registration county reference; modern records may instead appear under Scottish Borders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/roxburgh-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Roxburgh county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Roxburgh county &#124; Scotland&#x27;s People</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zxxpXSpQF2U" title="Scottish Aviation &amp; Prestwick Airport History - I never knew this!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zxxpXSpQF2U" target="_blank" rel="noopener noreferrer">Scottish Aviation &amp; Prestwick Airport History - I never knew this!</a></p><p class="youtube-embed-meta">Channel: Aviation Stories in MSFS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zxxpXSpQF2U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zxxpXSpQF2U">Open on YouTube</a></p></div></div></div>
@@ -779,194 +779,194 @@ A balanced county page should therefore place the case in three categories at on
 That conclusion may sound modest, but it is the most useful one. Roxburghshire’s UFO history is not a story of confirmed visitors or a hidden Border base. It is a small example of how unexplained aerial reports entered the UK system: a witness saw something strange over Kelso, the description was logged, and the later release of MoD records preserved the report without turning it into a solved case or a proven mystery.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Roxburghshire&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Roxburghshire&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores official investigations and unresolved reports similar to archived UK sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official investigations and unresolved reports similar to archived UK sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and evidence, fitting sparse historical cases such as Roxburghshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and evidence, fitting sparse historical cases such as Roxburghshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances witness reports, official records and skepticism, matching a county-level UFO records page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances witness reports, official records and skepticism, matching a county-level UFO records page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-roxburghshires-what-really-happened-in-roxburghshire-s-ufo-record-roxbur-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-roxburghshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -982,7 +982,7 @@ That conclusion may sound modest, but it is the most useful one. Roxburghshire�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1002,7 +1002,7 @@ That conclusion may sound modest, but it is the most useful one. Roxburghshire�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1034,7 +1034,7 @@ That conclusion may sound modest, but it is the most useful one. Roxburghshire�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1086,7 +1086,7 @@ That conclusion may sound modest, but it is the most useful one. Roxburghshire�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1131,7 +1131,7 @@ That conclusion may sound modest, but it is the most useful one. Roxburghshire�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1172,182 +1172,182 @@ That conclusion may sound modest, but it is the most useful one. Roxburghshire�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scotlandspeople.gov.uk  
    Title: Scotland's People Roxburgh county | Scotland's People  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/roxburgh-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/roxburgh-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/roxburgh-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/roxburgh-county</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roxburghshire | Location, History & Facts | Britannica  
-   Link: <a href="https://www.britannica.com/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Roxburghshire</a>  
+   Link:<a href="https://www.britannica.com/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Roxburghshire</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Low flying military aircraft: Where and when low flying happens  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
    Title: News UFO Desk: Why Mo D Shut Real-Life X-Files | UK News | Sky News  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531143</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531143</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: UFO Newsclipping Service 2007 06 no 455 djvu.txt  
-   Link: <a href="https://archive.org/stream/UFO_Newsclipping_Service_2007_06_no_455/UFO_Newsclipping_Service_2007_06_no_455_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Newsclipping_Service_2007_06_no_455/UFO_Newsclipping_Service_2007_06_no_455_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFO_Newsclipping_Service_2007_06_no_455/UFO_Newsclipping_Service_2007_06_no_455_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Newsclipping_Service_2007_06_no_455/UFO_Newsclipping_Service_2007_06_no_455_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/celticscotlanda04skengoog/celticscotlanda04skengoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/celticscotlanda04skengoog/celticscotlanda04skengoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/celticscotlanda04skengoog/celticscotlanda04skengoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/celticscotlanda04skengoog/celticscotlanda04skengoog_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/proceedingssoci13scotgoog/proceedingssoci13scotgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingssoci13scotgoog/proceedingssoci13scotgoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/proceedingssoci13scotgoog/proceedingssoci13scotgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingssoci13scotgoog/proceedingssoci13scotgoog_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/proceedingssoci19scotgoog/proceedingssoci19scotgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingssoci19scotgoog/proceedingssoci19scotgoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/proceedingssoci19scotgoog/proceedingssoci19scotgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingssoci19scotgoog/proceedingssoci19scotgoog_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/proceedingssoci06scotgoog/proceedingssoci06scotgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingssoci06scotgoog/proceedingssoci06scotgoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/proceedingssoci06scotgoog/proceedingssoci06scotgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingssoci06scotgoog/proceedingssoci06scotgoog_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/in.ernet.dli.2015.104919/2015.104919.Proceedings-Of-The-Society-Of-Antiquaries-Of-Scotland-1919-1920-Vol54_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.104919/2015.104919.Proceedings-Of-The-Society-Of-Antiquaries-Of-Scotland-1919-1920-Vol54_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/in.ernet.dli.2015.104919/2015.104919.Proceedings-Of-The-Society-Of-Antiquaries-Of-Scotland-1919-1920-Vol54_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.104919/2015.104919.Proceedings-Of-The-Society-Of-Antiquaries-Of-Scotland-1919-1920-Vol54_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: data.parliament.uk  
-   Link: <a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
+   Link:<a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/49610401" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/49610401</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/49610401" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/49610401</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: raf.mod.uk  
    Title: leuchars station  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/leuchars-station/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/leuchars-station/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Roxburghshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburghshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburghshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: shu.ac.uk  
-   Link: <a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
+   Link:<a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Roxburgh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburgh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Roxburgh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburgh</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roxburghshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roxburghshire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/roxburghshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/roxburghshire/</a>  
+   Link:<a href="https://realcounties.com/county/roxburghshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/roxburghshire/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: untappd.com  
-   Link: <a href="https://untappd.com/b/longtab-brewing-company-jedburgh/3691373" target="_blank" rel="noopener noreferrer nofollow">https://untappd.com/b/longtab-brewing-company-jedburgh/3691373</a>  
+   Link:<a href="https://untappd.com/b/longtab-brewing-company-jedburgh/3691373" target="_blank" rel="noopener noreferrer nofollow">https://untappd.com/b/longtab-brewing-company-jedburgh/3691373</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kids.kiddle.co  
-   Link: <a href="https://kids.kiddle.co/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Roxburghshire</a>  
+   Link:<a href="https://kids.kiddle.co/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Roxburghshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/roxburghshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/roxburghshire.html</a>  
+   Link:<a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/roxburghshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/roxburghshire.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/roxburghshire</a>  
+   Link:<a href="https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/roxburghshire</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Kelso to Jedburgh  
-   Link: <a href="http://www.youtube.com/watch?v=BSkIiYEkxww" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=BSkIiYEkxww</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish Borders landscape Kelso Jedburgh Hawick Kelso to Jedburgh August 9, 2012 ANDREW RAE...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=BSkIiYEkxww" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=BSkIiYEkxww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish Borders landscape Kelso Jedburgh Hawick Kelso to Jedburgh August 9, 2012 ANDREW RAE...</p></details>
    Published: August 9, 2012  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14i2ztm/ufo_shapes_changed_over_time_seems_to_be_a_myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14i2ztm/ufo_shapes_changed_over_time_seems_to_be_a_myth/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14i2ztm/ufo_shapes_changed_over_time_seems_to_be_a_myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14i2ztm/ufo_shapes_changed_over_time_seems_to_be_a_myth/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: banthebomb.org  
-   Link: <a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
+   Link:<a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/andythehighlander/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/andythehighlander/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/andythehighlander/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/andythehighlander/?hl=en</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61581918080948/videos/anyone-else-see-this-low-flying-aircraft-over-the-borders-today-scottishborders-/1309658704387220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61581918080948/videos/anyone-else-see-this-low-flying-aircraft-over-the-borders-today-scottishborders-/1309658704387220/</a>  
+   Link:<a href="https://www.facebook.com/61581918080948/videos/anyone-else-see-this-low-flying-aircraft-over-the-borders-today-scottishborders-/1309658704387220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61581918080948/videos/anyone-else-see-this-low-flying-aircraft-over-the-borders-today-scottishborders-/1309658704387220/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoo3D1zhq852zPI1Ne4557xRvGGnXmq_vnUuyUaQM160zgP-ps0m" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoo3D1zhq852zPI1Ne4557xRvGGnXmq_vnUuyUaQM160zgP-ps0m</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoo3D1zhq852zPI1Ne4557xRvGGnXmq_vnUuyUaQM160zgP-ps0m" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoo3D1zhq852zPI1Ne4557xRvGGnXmq_vnUuyUaQM160zgP-ps0m</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/StHelensTasmania/posts/25893121850312720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StHelensTasmania/posts/25893121850312720/</a>  
+   Link:<a href="https://www.facebook.com/groups/StHelensTasmania/posts/25893121850312720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StHelensTasmania/posts/25893121850312720/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPU_i5eDlus/?hl=ar" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPU_i5eDlus/?hl=ar</a>  
+   Link:<a href="https://www.instagram.com/p/DPU_i5eDlus/?hl=ar" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPU_i5eDlus/?hl=ar</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: adarkandscaryplace.com  
-   Link: <a href="https://adarkandscaryplace.com/james-herbert-biblio%2Fufo" target="_blank" rel="noopener noreferrer nofollow">https://adarkandscaryplace.com/james-herbert-biblio%2Fufo</a>  
+   Link:<a href="https://adarkandscaryplace.com/james-herbert-biblio%2Fufo" target="_blank" rel="noopener noreferrer nofollow">https://adarkandscaryplace.com/james-herbert-biblio%2Fufo</a>  

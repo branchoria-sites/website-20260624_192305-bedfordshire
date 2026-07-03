@@ -248,7 +248,7 @@ image: /assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-overview-
 
 ## Introduction
 
-In January 2009, a witness in Cardigan reported to the Ministry of Defence that “five rather big orange things” had flown overhead and that he was terrified. The record is useful because it is official, dated and placed in [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }}), but it is not strong proof of anything beyond an unusual-light report. The MoD entry gives no time, duration, direction, weather, photograph, radar return, named witness or investigation result. It therefore sits in the cautious middle ground of local UFO history: worth preserving, but too thin to carry dramatic claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+In January 2009, a witness in Cardigan reported to the Ministry of Defence that “five rather big orange things” had flown overhead and that he was terrified. The record is useful because it is official, dated and placed in [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }}), but it is not strong proof of anything beyond an unusual-light report. The MoD entry gives no time, duration, direction, weather, photograph, radar return, named witness or investigation result. It therefore sits in the cautious middle ground of local UFO history: worth preserving, but too thin to carry dramatic claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-overview.webp" | relative_url }}" alt="Overview image for 2009 Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,7 +259,7 @@ Its value is partly contextual. The Cardigan sighting appeared during a year whe
 
 ## What the MoD record says
 
-The official 2009 MoD UFO report is a simple table. Its columns record the date, time, town or village, area, occupation where relevant, and a short description. The Cardigan entry reads: 06-Jan-09, time not given, Cardigan, Cardiganshire, with the description that five large orange objects flew over the witness and frightened him. No occupation is recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The official 2009 MoD UFO report is a simple table. Its columns record the date, time, town or village, area, occupation where relevant, and a short description. The Cardigan entry reads: 06-Jan-09, time not given, Cardigan, Cardiganshire, with the description that five large orange objects flew over the witness and frightened him. No occupation is recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That is the whole public case, and the sparseness matters. A useful UFO report normally gains strength from details that allow testing: where the witness stood, which way the objects moved, how long they were visible, whether they made noise, whether they changed height or formation, whether other people saw them, and whether aircraft, satellites, weather effects or local events can be checked against the sighting. The Cardigan record provides almost none of that.
 
@@ -271,11 +271,11 @@ For Cardiganshire’s UFO record, this makes the case a small but clean data poi
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-Illustration-1-dark.svg" | relative_url }}" alt="2009 Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why orange-light reports surged
 
-The Cardigan report did not appear in isolation. The same MoD 2009 list contains many similar descriptions from the opening weeks of the year: four bright orange lights in Perthshire on New Year’s Day, five yellow-orange objects in formation at Nuneaton on 2 January, orange lights rising in Lancashire on 4 January, and a bright orange spherical object at Bristol later in January. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Cardigan report did not appear in isolation. The same MoD 2009 list contains many similar descriptions from the opening weeks of the year: four bright orange lights in Perthshire on New Year’s Day, five yellow-orange objects in formation at Nuneaton on 2 January, orange lights rising in Lancashire on 4 January, and a bright orange spherical object at Bristol later in January.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That pattern does not solve the Cardigan sighting, but it changes the odds. When a single county report resembles a national wave of similar brief orange-light reports, investigators have to test common explanations before treating it as a unique anomaly. In the late 2000s, sky lanterns were a frequent suspect because they can appear as silent orange or red glowing lights, drift in groups, fade out, rise or seem to vanish, and look unfamiliar to witnesses who are not expecting them.
 
-The Civil Aviation Authority’s later guidance is useful here because it treats sky lanterns, fireworks, toy balloons and directed lights as activities that can enter or affect UK airspace, distract or confuse aircrews, and require safety consideration near aviation activity. That does not prove a lantern caused the Cardigan sighting, but it shows why official and aviation-minded investigators take such objects seriously as possible explanations for orange lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The Civil Aviation Authority’s later guidance is useful here because it treats sky lanterns, fireworks, toy balloons and directed lights as activities that can enter or affect UK airspace, distract or confuse aircrews, and require safety consideration near aviation activity. That does not prove a lantern caused the Cardigan sighting, but it shows why official and aviation-minded investigators take such objects seriously as possible explanations for orange lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 Other possibilities remain possible but untested. Aircraft lights can seem strange if seen head-on, through haze, or over a dark rural horizon. Fireworks can produce bright orange points, brief clusters and falling or fading effects. Meteors usually move quickly and briefly, but witnesses sometimes use “fireball” language for bright aerial objects. Without the Cardigan sighting’s time, direction, movement, duration and weather, none of these can be confirmed or ruled out.
 
@@ -284,9 +284,9 @@ Other possibilities remain possible but untested. Aircraft lights can seem stran
 
 ## Why the 2009 date matters
 
-The date is one of the most interesting parts of the Cardigan entry. The MoD stopped recording and investigating UFO sighting reports from 1 December 2009, a note printed at the end of the same annual report. The Cardigan case therefore belongs to the final year of the UK’s routine MoD UFO logging system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The date is one of the most interesting parts of the Cardigan entry. The MoD stopped recording and investigating UFO sighting reports from 1 December 2009, a note printed at the end of the same annual report. The Cardigan case therefore belongs to the final year of the UK’s routine MoD UFO logging system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The wider closure context weakens any claim that the Cardigan entry was the start of a hidden official investigation. The National Archives’ final UFO-file release explains that the MoD UFO desk received more than 600 sightings in 2009, around three times the previous year’s total, and that ministers were told no reported sighting over more than 50 years had shown evidence of an extraterrestrial presence or a military threat to the UK. The same summary says the desk, hotline and dedicated email address were closed because the work served no defence purpose and absorbed resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The wider closure context weakens any claim that the Cardigan entry was the start of a hidden official investigation. The National Archives’ final UFO-file release explains that the MoD UFO desk received more than 600 sightings in 2009, around three times the previous year’s total, and that ministers were told no reported sighting over more than 50 years had shown evidence of an extraterrestrial presence or a military threat to the UK. The same summary says the desk, hotline and dedicated email address were closed because the work served no defence purpose and absorbed resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 For local readers, this is an important distinction. Being in an MoD file does not mean the Cardigan lights were confirmed as extraordinary; it means a report reached a department that was collecting such reports at the time. The public record shows receipt and logging, not a positive identification, interception, radar scramble or classified conclusion.
 
@@ -320,7 +320,7 @@ The absence of these details does not make the witness unreliable. It simply mea
 
 Cardigan’s 2009 orange lights are not a landmark case, but they are a useful corrective to two common mistakes. The first mistake is to dismiss all local UFO material because it lacks dramatic proof. Even a short MoD entry can show that unexplained-light reports were reaching official channels from historic Cardiganshire. The second mistake is to overstate the record because it appears in a government file. The MoD list is a reporting log, not a catalogue of confirmed unknown craft.
 
-Geographically, the entry belongs comfortably within the Cardiganshire branch. Cardigan is in modern Ceredigion and the historic county of Cardiganshire; Britannica describes Ceredigion as coterminous with the historic county, and Cardigan as lying in Ceredigion and the historic county of Cardiganshire near the mouth of the River Teifi. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Ceredigion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Ceredigion &#124; History, Geography &amp; Culture</span><span class="citation-popover-snippet">Encyclopedia Britannica Ceredigion &#124; History, Geography &amp; Culture</span></span></span>
+Geographically, the entry belongs comfortably within the Cardiganshire branch. Cardigan is in modern Ceredigion and the historic county of Cardiganshire; Britannica describes Ceredigion as coterminous with the historic county, and Cardigan as lying in Ceredigion and the historic county of Cardiganshire near the mouth of the River Teifi.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Ceredigion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Ceredigion &#124; History, Geography &amp; Culture</span><span class="citation-popover-snippet">Encyclopedia Britannica Ceredigion &#124; History, Geography &amp; Culture</span></span></span>
 
 The best reading is therefore modest but worthwhile. The 2009 Cardigan case shows how an ordinary local witness report became part of the UK’s final MoD UFO dataset. It also shows why county-level UFO history needs both preservation and restraint. The report should be remembered as a documented Cardiganshire orange-light sighting, not promoted as proof of a craft, cover-up or military incident.
 
@@ -328,194 +328,194 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
 <img src="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-Illustration-3-dark.svg" | relative_url }}" alt="2009 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_cardigan_2009_lights_448565-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Were Cardigan&#x27;s Orange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Were Cardigan&#x27;s Orange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Especially suited to a page centred on orange lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially suited to a page centred on orange lights in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Demonstrates the difference between strong and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the difference between strong and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides context for official reports and common explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official reports and common explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Useful for evaluating lantern, aircraft and light-source explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating lantern, aircraft and light-source explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure"><img src="{{ '/assets/images/marketplace-covers/b669e450c72d78b9db3e.jpg' | relative_url }}" alt="Listing image for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure"><img src="{{ '/assets/images/marketplace-covers/b669e450c72d78b9db3e.jpg' | relative_url }}" alt="Listing image for Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Disney Stitch Figurine - Lilo &amp; Stitch Blue Beige Pink Plastic Alien Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic"><img src="{{ '/assets/images/marketplace-covers/ca308bcf48209a8333c2.jpg' | relative_url }}" alt="Listing image for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic"><img src="{{ '/assets/images/marketplace-covers/ca308bcf48209a8333c2.jpg' | relative_url }}" alt="Listing image for 🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">🛸 Gemstone Alien Figurine – Green Aventurine Crystal 💚 Healing Energy &amp; Cosmic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK"><img src="{{ '/assets/images/marketplace-covers/ab97acbd4f4d26ddecd1.jpg' | relative_url }}" alt="Listing image for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK"><img src="{{ '/assets/images/marketplace-covers/ab97acbd4f4d26ddecd1.jpg' | relative_url }}" alt="Listing image for Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">Meditating Alien Ornament – Unique Space Decor Collectible Figurine UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figurine" data-ebay-reference="2009-lights-7472eb-what-were-cardigan-s-orange-lights-cardiganshire-alien-figurine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,141 +721,141 @@ The best reading is therefore modest but worthwhile. The 2009 Cardigan case show
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Ceredigion | History, Geography & Culture  
-   Link: <a href="https://www.britannica.com/place/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ceredigion</a>  
+   Link:<a href="https://www.britannica.com/place/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ceredigion</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Cardigan-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cardigan-Wales</a>  
+   Link:<a href="https://www.britannica.com/place/Cardigan-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cardigan-Wales</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arun.gov.uk  
    Title: balloon sky lantern releases  
-   Link: <a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
+   Link:<a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Aberystwyth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Aberystwyth</a>  
+   Link:<a href="https://www.britannica.com/place/Aberystwyth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Aberystwyth</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gov.gg  
    Title: CHttp Handler.ashx  
-   Link: <a href="https://www.gov.gg/CHttpHandler.ashx?id=145678&amp;p=0" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.gg/CHttpHandler.ashx?id=145678&amp;p=0</a>  
+   Link:<a href="https://www.gov.gg/CHttpHandler.ashx?id=145678&amp;p=0" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.gg/CHttpHandler.ashx?id=145678&amp;p=0</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rcahmw.gov.uk  
    Title: cardiganshire county history launched  
-   Link: <a href="https://rcahmw.gov.uk/cardiganshire-county-history-launched/" target="_blank" rel="noopener noreferrer nofollow">https://rcahmw.gov.uk/cardiganshire-county-history-launched/</a>  
+   Link:<a href="https://rcahmw.gov.uk/cardiganshire-county-history-launched/" target="_blank" rel="noopener noreferrer nofollow">https://rcahmw.gov.uk/cardiganshire-county-history-launched/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caa.co.uk  
    Title: CA P 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
    Title: Outdoor laser lights and fireworks  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ceredigion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ceredigion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ceredigion</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: discoverceredigion.wales  
-   Link: <a href="https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/</a>  
+   Link:<a href="https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverceredigion.wales/heritage-and-culture-to-explore/the-story-of-ceredigion/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Wales/comments/cg4dnh/a_map_i_made_of_the_historic_counties_of_wales/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Wales/comments/cg4dnh/a_map_i_made_of_the_historic_counties_of_wales/</a>  
+   Link:<a href="https://www.reddit.com/r/Wales/comments/cg4dnh/a_map_i_made_of_the_historic_counties_of_wales/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Wales/comments/cg4dnh/a_map_i_made_of_the_historic_counties_of_wales/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ceredigionhistory.wales  
-   Link: <a href="https://ceredigionhistory.wales/" target="_blank" rel="noopener noreferrer nofollow">https://ceredigionhistory.wales/</a>  
+   Link:<a href="https://ceredigionhistory.wales/" target="_blank" rel="noopener noreferrer nofollow">https://ceredigionhistory.wales/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: discoverceredigion.wales  
-   Link: <a href="https://www.discoverceredigion.wales/areas-of-ceredigion/ceredigion-beaches-and-coastal-communities/cardigan/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverceredigion.wales/areas-of-ceredigion/ceredigion-beaches-and-coastal-communities/cardigan/</a>  
+   Link:<a href="https://www.discoverceredigion.wales/areas-of-ceredigion/ceredigion-beaches-and-coastal-communities/cardigan/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverceredigion.wales/areas-of-ceredigion/ceredigion-beaches-and-coastal-communities/cardigan/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/jj.14491616" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/jj.14491616</a>  
+   Link:<a href="https://www.jstor.org/stable/jj.14491616" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/jj.14491616</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/Cardiganshire-County-History-Medieval-Modern/dp/1786834529?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Cardiganshire-County-History-Medieval-Modern/dp/1786834529?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.de/Cardiganshire-County-History-Medieval-Modern/dp/1786834529?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Cardiganshire-County-History-Medieval-Modern/dp/1786834529?tag=searcht-20</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cardiganshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cardiganshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cardiganshire</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: farnham-as.co.uk  
-   Link: <a href="https://www.farnham-as.co.uk/laser-pointer-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.farnham-as.co.uk/laser-pointer-safety/</a>  
+   Link:<a href="https://www.farnham-as.co.uk/laser-pointer-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.farnham-as.co.uk/laser-pointer-safety/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: waterstones.com  
-   Link: <a href="https://www.waterstones.com/book/operation-of-directed-light-fireworks-toy-balloons-and-sky-lanterns-within-uk-airspace/civil-aviation-authority/9780117924833" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/operation-of-directed-light-fireworks-toy-balloons-and-sky-lanterns-within-uk-airspace/civil-aviation-authority/9780117924833</a>  
+   Link:<a href="https://www.waterstones.com/book/operation-of-directed-light-fireworks-toy-balloons-and-sky-lanterns-within-uk-airspace/civil-aviation-authority/9780117924833" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/operation-of-directed-light-fireworks-toy-balloons-and-sky-lanterns-within-uk-airspace/civil-aviation-authority/9780117924833</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/the-county-of-cardigan-ceredigion-is-a-coastal-shire-in-west-walescardiganshire-/701882702095300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-cardigan-ceredigion-is-a-coastal-shire-in-west-walescardiganshire-/701882702095300/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/the-county-of-cardigan-ceredigion-is-a-coastal-shire-in-west-walescardiganshire-/701882702095300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-cardigan-ceredigion-is-a-coastal-shire-in-west-walescardiganshire-/701882702095300/</a>  

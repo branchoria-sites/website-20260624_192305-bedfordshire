@@ -248,18 +248,18 @@ image: /assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-overvie
 
 ## Introduction
 
-The 2001 North Wales lights are best understood as a small case family, not as a single isolated mystery over Caernarfon. The key official entries are two Ministry of Defence reports five minutes apart on 7 February 2001: one from Caernarfon describing a star-like green object with red on the side, apparently descending towards the witness’s house, and one from Amlwch on Anglesey describing a blue glow turning green, breaking up and leaving smoke. The reports matter because they sit just before a documented UK fireball run on 8 and 9 February 2001, when the Society for Popular Astronomy received multi-site reports of bright, colourful meteors over Wales, northern England and Scotland. That does not prove the Caernarfon sighting was a meteor, but it makes a regional sky-event explanation much more plausible than a purely local craft or object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 2001 North Wales lights are best understood as a small case family, not as a single isolated mystery over Caernarfon. The key official entries are two Ministry of Defence reports five minutes apart on 7 February 2001: one from Caernarfon describing a star-like green object with red on the side, apparently descending towards the witness’s house, and one from Amlwch on Anglesey describing a blue glow turning green, breaking up and leaving smoke. The reports matter because they sit just before a documented UK fireball run on 8 and 9 February 2001, when the Society for Popular Astronomy received multi-site reports of bright, colourful meteors over Wales, northern England and Scotland. That does not prove the Caernarfon sighting was a meteor, but it makes a regional sky-event explanation much more plausible than a purely local craft or object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-overview.webp" | relative_url }}" alt="Overview image for 2001 Lights" loading="eager" decoding="sync" fetchpriority="high">
-This page treats [Caernarfonshire]({{ 'what-was-seen-over-caernarfonshire/' | relative_url }}) in its historic-county sense: Caernarfon is inside the county, while Amlwch is across the water on Anglesey. The cross-county comparison is still useful because sky events do not respect county lines, and a bright object high in the atmosphere can be reported from widely separated places. The Wikimedia historic-counties map identifies Caernarfonshire as one of Wales’s thirteen historic counties, while Wikishire describes it as a north-west Welsh shire dominated by mountain and coastal geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map Caernarfonshire.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map Caernarfonshire.svg</span></span></span>
+This page treats [Caernarfonshire]({{ 'what-was-seen-over-caernarfonshire/' | relative_url }}) in its historic-county sense: Caernarfon is inside the county, while Amlwch is across the water on Anglesey. The cross-county comparison is still useful because sky events do not respect county lines, and a bright object high in the atmosphere can be reported from widely separated places. The Wikimedia historic-counties map identifies Caernarfonshire as one of Wales’s thirteen historic counties, while Wikishire describes it as a north-west Welsh shire dominated by mountain and coastal geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map Caernarfonshire.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map Caernarfonshire.svg</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
 
 ## Caernarfon and Amlwch reports side by side
 
-The official MoD list is brief, but the timing is the first clue. At 19:40 on 7 February 2001, the Caernarfon entry says the object “initially looked like a star”, appeared as if it was going to crash into the witness’s house, and was green with red on the side. At 19:45, the Amlwch entry describes one object with a blue glow that turned green, broke up and left smoke, and seemed very large. These are not full witness statements, radar files or investigation notes; GOV.UK describes the published series as UFO reports from 1997 to 2009 giving dates, times, locations and brief descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The official MoD list is brief, but the timing is the first clue. At 19:40 on 7 February 2001, the Caernarfon entry says the object “initially looked like a star”, appeared as if it was going to crash into the witness’s house, and was green with red on the side. At 19:45, the Amlwch entry describes one object with a blue glow that turned green, broke up and left smoke, and seemed very large. These are not full witness statements, radar files or investigation notes; GOV.UK describes the published series as UFO reports from 1997 to 2009 giving dates, times, locations and brief descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 Placed side by side, the two reports have three overlapping features: a bright point-like or glowing object, green colouring, and a sense of descent or breakup. The Amlwch wording is especially meteor-like because “broke up” and “left smoke” are common fireball clues. The Caernarfon wording is more ambiguous: a star-like object that seems to approach a house could be a meteor seen on a shallow path, an aircraft or helicopter seen head-on, or a perspective effect in which a distant object appears much closer than it is.
 
@@ -269,11 +269,11 @@ The five-minute gap cuts both ways. It may indicate two separate reports of the 
 <img src="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-1-dark.svg" | relative_url }}" alt="2001 Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fireball clues in the wider UK pattern
 
-The strongest reason to test a natural explanation is what happened immediately afterwards. On 8 February 2001, the MoD list includes several entries that sound like fireballs: a Staffordshire object “burning up in the sky” and breaking into pieces, a Preston orange ball “on fire”, a Lincoln object like a rocket, a Wrangle object with a bright ball and long tail, and a West Yorkshire report of a “huge fireball”. On 9 February, there are further descriptions of multi-coloured or orange objects with tapered or structured appearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The strongest reason to test a natural explanation is what happened immediately afterwards. On 8 February 2001, the MoD list includes several entries that sound like fireballs: a Staffordshire object “burning up in the sky” and breaking into pieces, a Preston orange ball “on fire”, a Lincoln object like a rocket, a Wrangle object with a bright ball and long tail, and a West Yorkshire report of a “huge fireball”. On 9 February, there are further descriptions of multi-coloured or orange objects with tapered or structured appearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The Society for Popular Astronomy’s Meteor Section separately recorded four fireballs across 8–9 and 9–10 February 2001. Its special report says the 8 February 19:42 UT event generated 25 sightings from Scotland down to Greater Manchester, Cheshire and North Wales, and estimated a shallow atmospheric track beginning over Cumbria and ending over County Durham. The same report notes colour reports including blue, green, yellow-red and orange, and says several witnesses saw fragmentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and 9 2001</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and 9 2001</span></span></span>
+The Society for Popular Astronomy’s Meteor Section separately recorded four fireballs across 8–9 and 9–10 February 2001. Its special report says the 8 February 19:42 UT event generated 25 sightings from Scotland down to Greater Manchester, Cheshire and North Wales, and estimated a shallow atmospheric track beginning over Cumbria and ending over County Durham. The same report notes colour reports including blue, green, yellow-red and orange, and says several witnesses saw fragmentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and</span></span></span>
 
-That 8 February fireball was not the Caernarfon event, because it was a day later. Its value is comparative. It shows that, in the same narrow early-February window, witnesses across Britain were seeing bright, colourful, fragmenting objects that entered both astronomy logs and UFO-style report lists. The SPA’s annual 2001 fireball summary also records the 8 February event as at least magnitude -5 or -6 with 25 reports from Wales, northern England and Scotland, plus a 9 February 20:21 event that may have reached between magnitude -5 and -9 and fragmented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">fireball sightings from 2001</span><span class="citation-popover-snippet">fireball sightings from 2001</span></span></span>
+That 8 February fireball was not the Caernarfon event, because it was a day later. Its value is comparative. It shows that, in the same narrow early-February window, witnesses across Britain were seeing bright, colourful, fragmenting objects that entered both astronomy logs and UFO-style report lists. The SPA’s annual 2001 fireball summary also records the 8 February event as at least magnitude -5 or -6 with 25 reports from Wales, northern England and Scotland, plus a 9 February 20:21 event that may have reached between magnitude -5 and -9 and fragmented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">fireball sightings from 2001</span><span class="citation-popover-snippet">fireball sightings from 2001</span></span></span>
 
 For the Caernarfonshire case, that wider pattern weakens an exotic reading. It does not close the case, because the documented SPA fireball with a reconstructed trajectory is dated 8 February, not 7 February. But it shows that “green object, apparent descent, breakup, smoke, fireball-like appearance” was not an isolated North Wales motif that week. It was part of a short-lived pattern of bright meteor and meteor-like reports across the UK.
 
@@ -282,30 +282,30 @@ For the Caernarfonshire case, that wider pattern weakens an exotic reading. It d
 
 ## Why distance and direction matter at night
 
-A bright meteor can look local even when it is tens of kilometres high. NASA’s Center for Near Earth Object Studies describes meteors as the visible paths of small asteroid or comet fragments entering the atmosphere at high speed, and defines a fireball as an unusually bright meteor. The SPA similarly defines a fireball as an especially bright meteor and notes that, when reports come from more than one location, they can be combined to estimate a trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+A bright meteor can look local even when it is tens of kilometres high. NASA’s Center for Near Earth Object Studies describes meteors as the visible paths of small asteroid or comet fragments entering the atmosphere at high speed, and defines a fireball as an unusually bright meteor. The SPA similarly defines a fireball as an especially bright meteor and notes that, when reports come from more than one location, they can be combined to estimate a trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-This is why the Caernarfon report’s “going to crash into the witness’s house” phrase should be handled carefully. It is an honest perception, not a measured distance. At night, with no clear scale, a high object descending behind a roofline, hill, cloud bank or mountain ridge can appear dangerously close. Caernarfonshire’s geography adds to the problem: historic Caernarfonshire is coastal and mountainous, and most settlement lies around coastal land and valleys rather than on an open plain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This is why the Caernarfon report’s “going to crash into the witness’s house” phrase should be handled carefully. It is an honest perception, not a measured distance. At night, with no clear scale, a high object descending behind a roofline, hill, cloud bank or mountain ridge can appear dangerously close. Caernarfonshire’s geography adds to the problem: historic Caernarfonshire is coastal and mountainous, and most settlement lies around coastal land and valleys rather than on an open plain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The colour clues are also suggestive but not decisive. Fireballs can be reported as green, blue, orange, red or white, depending on composition, brightness, speed, atmospheric effects and witness perception. The SPA’s 8 February 2001 report recorded exactly that kind of colour spread, while the MoD list records green in the Caernarfon entry, blue-to-green in the Amlwch entry, and green again in the Staffordshire report the following evening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and 9 2001</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and 9 2001</span></span></span>
+The colour clues are also suggestive but not decisive. Fireballs can be reported as green, blue, orange, red or white, depending on composition, brightness, speed, atmospheric effects and witness perception. The SPA’s 8 February 2001 report recorded exactly that kind of colour spread, while the MoD list records green in the Caernarfon entry, blue-to-green in the Amlwch entry, and green again in the Staffordshire report the following evening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and</span></span></span>
 
-Smoke is stronger evidence than colour, but even that needs care. The International Meteor Organization explains that large meteoroids can leave material distributed along their path, producing a smoke train or visible train after the bright meteor itself has gone. The Amlwch report’s “left smoke” line therefore fits a fireball scenario better than an aircraft-light scenario, though the MoD table does not say whether the smoke was seen clearly, how long it lasted, or whether it was actually a luminous train interpreted as smoke. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
+Smoke is stronger evidence than colour, but even that needs care. The International Meteor Organization explains that large meteoroids can leave material distributed along their path, producing a smoke train or visible train after the bright meteor itself has gone. The Amlwch report’s “left smoke” line therefore fits a fireball scenario better than an aircraft-light scenario, though the MoD table does not say whether the smoke was seen clearly, how long it lasted, or whether it was actually a luminous train interpreted as smoke.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-2-dark.svg" | relative_url }}" alt="2001 Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD record can and cannot prove
 
-The MoD entry is valuable because it anchors the case in an official public record rather than later folklore. It gives a date, time, place and concise description. It also allows comparison with adjacent entries in the same national list. That is enough to show that the Caernarfon report belongs in Caernarfonshire’s UFO history, but it is not enough to make it a strong unexplained case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD entry is valuable because it anchors the case in an official public record rather than later folklore. It gives a date, time, place and concise description. It also allows comparison with adjacent entries in the same national list. That is enough to show that the Caernarfon report belongs in Caernarfonshire’s UFO history, but it is not enough to make it a strong unexplained case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The missing evidence is just as important as the recorded evidence. A stronger case would need exact viewing direction, angle above the horizon, duration, weather, number of witnesses, whether the object was silent, whether any aircraft were nearby, and whether the Caernarfon and Amlwch witnesses were describing the same track. There is no radar confirmation in the published entry, no pilot report tied to this incident, and no official conclusion saying the object remained unexplained after investigation.
 
-The broader history of the MoD UFO desk also warns against over-reading these short entries. The National Archives transcript of the 2013 final file release says the MoD closed its UFO desk and hotline in November 2009 after decades of collecting and sometimes investigating reports, and that many later reports were simply filed away because resources were limited. That does not invalidate the 2001 reports, but it reminds readers that the presence of an item in an MoD UFO list means “reported to the MoD”, not “verified as extraordinary”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
+The broader history of the MoD UFO desk also warns against over-reading these short entries. The National Archives transcript of the 2013 final file release says the MoD closed its UFO desk and hotline in November 2009 after decades of collecting and sometimes investigating reports, and that many later reports were simply filed away because resources were limited. That does not invalidate the 2001 reports, but it reminds readers that the presence of an item in an MoD UFO list means “reported to the MoD”, not “verified as extraordinary”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
 
 ## A cautious reading for Caernarfonshire’s UFO history
 
-The fairest assessment is that the 7 February 2001 Caernarfon report remains unresolved in the narrow sense that the published data do not identify a specific object. But it is not a high-strangeness case. Its most distinctive details — star-like brightness, green and red colouring, apparent descent, and proximity to the Amlwch blue-green breakup report — are all compatible with a meteor or fireball-style event, especially when read against the documented 8–9 February UK fireball pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The fairest assessment is that the 7 February 2001 Caernarfon report remains unresolved in the narrow sense that the published data do not identify a specific object. But it is not a high-strangeness case. Its most distinctive details — star-like brightness, green and red colouring, apparent descent, and proximity to the Amlwch blue-green breakup report — are all compatible with a meteor or fireball-style event, especially when read against the documented 8–9 February UK fireball pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 For the Caernarfonshire branch, the case is useful less as proof of a strange craft than as a lesson in regional interpretation. A report centred on Caernarfon cannot be judged only by drawing a tight circle around the town. The nearby Amlwch entry, the following night’s fireball reports, and the known difficulty of estimating distance and direction at night all change the reading. The most evidence-led position is therefore modest: the 2001 North Wales lights are a credible local UFO report in the archival sense, but the balance of clues points towards a regional sky event or a cluster of fireball-like sightings rather than a confirmed unexplained vehicle over Caernarfonshire.
 
@@ -313,194 +313,194 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
 <img src="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-3-dark.svg" | relative_url }}" alt="2001 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6_north_wales_2001_lig_d6812e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the 2001 Lights a Regional Sky Event?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the 2001 Lights a Regional Sky Event?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Especially relevant to light sightings, meteors and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially relevant to light sightings, meteors and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Encourages evidence-based examination of unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based examination of unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Relevant to official reporting and interpretation of unusual lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to official reporting and interpretation of unusual lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s discussion of possible meteor and fireball explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s discussion of possible meteor and fireball explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d078dcf46ee71c446b07.jpg' | relative_url }}" alt="Listing image for Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d078dcf46ee71c446b07.jpg' | relative_url }}" alt="Listing image for Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="2001-lights-were-the-2001-lights-a-regional-sky-event-caernarfonshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,175 +706,175 @@ For the Caernarfonshire branch, the case is useful less as proof of a strange cr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Wales Historic Counties map Caernarfonshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: popastro.com  
    Title: bright fireballs from the uk february 8 and 9 2001  
-   Link: <a href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfonshire</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: popastro.com  
    Title: fireball sightings from 2001  
-   Link: <a href="https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: popastro.com  
    Title: Sky Watchers  
-   Link: <a href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/fireball-sightings/</a>  
+   Link:<a href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/fireball-sightings/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: popastro.com  
-   Link: <a href="https://www.popastro.com/meteor/2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: popastro.com  
    Title: annual review 2001  
-   Link: <a href="https://www.popastro.com/meteor/annual-review-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/annual-review-2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/annual-review-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/annual-review-2001/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: popastro.com  
    Title: section reports 1998 2010  
-   Link: <a href="https://www.popastro.com/meteor/section-reports-1998-2010/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/section-reports-1998-2010/</a>  
+   Link:<a href="https://www.popastro.com/meteor/section-reports-1998-2010/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/section-reports-1998-2010/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: popastro.com  
    Title: Welcome to the Society for Popular Astronomy  
-   Link: <a href="https://www.popastro.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/</a>  
+   Link:<a href="https://www.popastro.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: popastro.com  
    Title: leonids 2000  
-   Link: <a href="https://www.popastro.com/meteor/2000/11/30/leonids-2000/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2000/11/30/leonids-2000/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2000/11/30/leonids-2000/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2000/11/30/leonids-2000/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Caernarfon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caernarfon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfon</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/docs/04trains.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/docs/04trains.pdf</a>  
+   Link:<a href="https://www.imo.net/docs/04trains.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/docs/04trains.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: fireball.imo.net  
    Title: browse events  
-   Link: <a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
+   Link:<a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Caernarfon" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfon</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Caernarfon" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfon</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;North Wales&quot; UFO MoD files 2001 Not Alone Up There — UFO Caught on Parachute Cam #UFOs #ufo #UAP #UAPs #ovni UFONOMENON...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;North Wales&quot; UFO MoD files 2001 Not Alone Up There — UFO Caught on Parachute Cam #UFOs #ufo #UAP #UAPs #ovni UFONOMENON...</p></details>
    Published: August 2011  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 2 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 2 (audio with slides)...</p></details>
    Published: May 2008  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: onelook.com  
-   Link: <a href="https://www.onelook.com/?loc=olthes1&amp;w=Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.onelook.com/?loc=olthes1&amp;w=Caernarfonshire</a>  
+   Link:<a href="https://www.onelook.com/?loc=olthes1&amp;w=Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.onelook.com/?loc=olthes1&amp;w=Caernarfonshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
+   Link:<a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPi58JyCXYe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPi58JyCXYe/</a>  
+   Link:<a href="https://www.instagram.com/reel/DPi58JyCXYe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPi58JyCXYe/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIS10/posts/look-a-green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-s/1388483719974190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/posts/look-a-green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-s/1388483719974190/</a>  
+   Link:<a href="https://www.facebook.com/WIS10/posts/look-a-green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-s/1388483719974190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/posts/look-a-green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-s/1388483719974190/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVrchTblAGd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVrchTblAGd/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DVrchTblAGd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVrchTblAGd/?hl=en</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/</a>  
+   Link:<a href="https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheStraitsTimes/posts/bolides-are-fireballs-that-explode-in-a-bright-flash-often-with-visible-fragment/975627508057743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStraitsTimes/posts/bolides-are-fireballs-that-explode-in-a-bright-flash-often-with-visible-fragment/975627508057743/</a>  
+   Link:<a href="https://www.facebook.com/TheStraitsTimes/posts/bolides-are-fireballs-that-explode-in-a-bright-flash-often-with-visible-fragment/975627508057743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStraitsTimes/posts/bolides-are-fireballs-that-explode-in-a-bright-flash-often-with-visible-fragment/975627508057743/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/caernarfonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/caernarfonshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/caernarfonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/caernarfonshire/</a>  

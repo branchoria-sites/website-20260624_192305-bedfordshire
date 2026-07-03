@@ -248,7 +248,7 @@ image: /assets/images/Renfrewshire_6a148e_renfrew_shape_shifti_a7a25a-overview-s
 
 ## Introduction
 
-The March 2022 Renfrew “shape-shifting light” is best treated as a weak but useful modern UFO case: interesting enough to preserve in [Renfrewshire]({{ 'what-really-happened-in-renfrewshires/' | relative_url }})’s sighting record, but too dependent on a short phone video to carry much evidential weight. The reported object was a small yellow light filmed over Renfrew at about 7.25pm on 3 March 2022, apparently changing form after the camera zoomed in and then disappearing into haze. Local coverage itself raised the most likely caution: the “shape-shifting” may have been the phone camera struggling to focus on a bright point in the sky, possibly something ordinary such as the International Space Station, an aircraft, or another illuminated object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+The March 2022 Renfrew “shape-shifting light” is best treated as a weak but useful modern UFO case: interesting enough to preserve in [Renfrewshire]({{ 'what-really-happened-in-renfrewshires/' | relative_url }})’s sighting record, but too dependent on a short phone video to carry much evidential weight. The reported object was a small yellow light filmed over Renfrew at about 7.25pm on 3 March 2022, apparently changing form after the camera zoomed in and then disappearing into haze. Local coverage itself raised the most likely caution: the “shape-shifting” may have been the phone camera struggling to focus on a bright point in the sky, possibly something ordinary such as the International Space Station, an aircraft, or another illuminated object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 
 
 <img src="{{ "/assets/images/Renfrewshire_6a148e_renfrew_shape_shifti_a7a25a-overview.webp" | relative_url }}" alt="Overview image for Renfrew Clip" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,9 +256,9 @@ That makes the clip valuable within Renfrewshire UFO history not because it prov
 
 ## What the witness filmed in March 2022
 
-The core account is short. Glasgow Live reported on 4 March 2022 that a member of the public had filmed what appeared to be a small yellow light in the sky above Renfrew at around 7.25pm the previous evening. The report said the light seemed to change form rapidly once the camera zoomed in, remained visible for just under a minute, and then appeared to disappear into haze. The witness described it as a “shape shifting UFO”, while the article itself immediately floated a camera-focus explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+The core account is short. Glasgow Live reported on 4 March 2022 that a member of the public had filmed what appeared to be a small yellow light in the sky above Renfrew at around 7.25pm the previous evening. The report said the light seemed to change form rapidly once the camera zoomed in, remained visible for just under a minute, and then appeared to disappear into haze. The witness described it as a “shape shifting UFO”, while the article itself immediately floated a camera-focus explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 
-A later Scotland-wide roundup, drawing on UFO Identified’s 2022 report, preserved the Renfrew entry in almost the same form: “March 3, 7.25pm — Renfrew: Small yellow light changing form at remarkable speed before disappearing into a haze.” That matters because it shows the report did not vanish as a one-day local oddity; it entered a broader UK UFO database and became part of Scotland’s 2022 sighting pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Full list of UFO sightings in Scotland over past year as</span><span class="citation-popover-snippet">Daily Record Full list of UFO sightings in Scotland over past year as</span></span></span>
+A later Scotland-wide roundup, drawing on UFO Identified’s 2022 report, preserved the Renfrew entry in almost the same form: “March 3, 7.25pm — Renfrew: Small yellow light changing form at remarkable speed before disappearing into a haze.” That matters because it shows the report did not vanish as a one-day local oddity; it entered a broader UK UFO database and became part of Scotland’s 2022 sighting pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Full list of UFO sightings in Scotland over past year as</span><span class="citation-popover-snippet">Daily Record Full list of UFO sightings in Scotland over past year as</span></span></span>
 
 Still, the details available to the public are limited. There is no published full witness statement giving compass direction, elevation, exact filming location, weather conditions, phone model, zoom level, duration before filming, or whether the light was visible to the naked eye in the same “shape-shifting” form. Without those details, the case cannot be tested in the same way as a well-documented aviation or astronomical incident.
 
@@ -272,22 +272,22 @@ A phone camera is very good at making a convenient record of everyday scenes. It
 
 The “shape-shifting” label therefore has to be handled cautiously. A distant light that grows, flattens, pulses or changes outline in a phone video may be doing none of those things physically. It may be out of focus. It may be clipped by overexposure. It may be smeared by motion. It may be affected by the camera’s image processing as the phone tries to sharpen and stabilise a low-light scene.
 
-Autofocus is especially relevant. Photography guidance from Cambridge in Colour notes that autofocus performance is strongly affected by light level, subject contrast, and camera or subject motion. A small bright point in a dark sky gives a camera very little detail to lock onto; if the system hunts back and forth, the point can swell into a blob, shrink, distort, or momentarily seem to change shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeincolour.com/tutorials/camera-autofocus.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeincolour.com">[Cambridge in Colour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeincolour.com</span><span class="citation-popover-snippet">Open source on cambridgeincolour.com.</span></span></span>
+Autofocus is especially relevant. Photography guidance from Cambridge in Colour notes that autofocus performance is strongly affected by light level, subject contrast, and camera or subject motion. A small bright point in a dark sky gives a camera very little detail to lock onto; if the system hunts back and forth, the point can swell into a blob, shrink, distort, or momentarily seem to change shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeincolour.com/tutorials/camera-autofocus.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeincolour.com">[Cambridge in Colour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeincolour.com</span><span class="citation-popover-snippet">Open source on cambridgeincolour.com.</span></span></span>
 
-Digital zoom adds another weakness. Unlike true optical magnification, digital zoom enlarges a cropped portion of the sensor image and can emphasise blockiness, blur and processing artefacts. A camera-phone guide on common mistakes describes digital zoom as producing blocky, artefact-prone, lower-grade images, which is exactly the sort of failure mode that can make a small light look like a structured object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://allaboutsymbian.com/features/item/12847_Avoiding_the_5_most_common_cam.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutsymbian.com">[allaboutsymbian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutsymbian.com</span><span class="citation-popover-title">Six of the most common camera phone mistakes</span><span class="citation-popover-snippet">Six of the most common camera phone mistakes</span></span></span>
+Digital zoom adds another weakness. Unlike true optical magnification, digital zoom enlarges a cropped portion of the sensor image and can emphasise blockiness, blur and processing artefacts. A camera-phone guide on common mistakes describes digital zoom as producing blocky, artefact-prone, lower-grade images, which is exactly the sort of failure mode that can make a small light look like a structured object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://allaboutsymbian.com/features/item/12847_Avoiding_the_5_most_common_cam.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutsymbian.com">[allaboutsymbian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutsymbian.com</span><span class="citation-popover-title">Six of the most common camera phone mistakes</span><span class="citation-popover-snippet">Six of the most common camera phone mistakes</span></span></span>
 
-This does not mean every phone UFO video is automatically false. It means that a phone video of a small point light is not the same as a close-up image of an object. In the Renfrew case, the publicly reported behaviour is almost perfectly aligned with a camera-risk profile: a single light, night-time or post-twilight sky, zooming, haze, and apparent transformation only after magnification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+This does not mean every phone UFO video is automatically false. It means that a phone video of a small point light is not the same as a close-up image of an object. In the Renfrew case, the publicly reported behaviour is almost perfectly aligned with a camera-risk profile: a single light, night-time or post-twilight sky, zooming, haze, and apparent transformation only after magnification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-r2oaQWmqkk" title="&quot;Pyramid UFO&quot; - NEW FOOTAGE. It&#x27;s Just Bokeh, not a Pyramid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-r2oaQWmqkk" target="_blank" rel="noopener noreferrer">&quot;Pyramid UFO&quot; - NEW FOOTAGE. It&#x27;s Just Bokeh, not a Pyramid</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 433.1K &middot; Uploaded: April 2021 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-r2oaQWmqkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-r2oaQWmqkk">Open on YouTube</a></p></div></div></div>
 
 ## ISS, aircraft and other checks
 
-The International Space Station was mentioned by Glasgow Live as one possible ordinary explanation, and it is a sensible check rather than a confirmed answer. NASA describes the ISS as a visible object that can be tracked for viewing opportunities using its Spot the Station service, while amateur astronomy guidance notes that it can appear as a bright, steady light moving smoothly across the sky and can be seen without equipment during suitable evening or morning passes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The International Space Station was mentioned by Glasgow Live as one possible ordinary explanation, and it is a sensible check rather than a confirmed answer. NASA describes the ISS as a visible object that can be tracked for viewing opportunities using its Spot the Station service, while amateur astronomy guidance notes that it can appear as a bright, steady light moving smoothly across the sky and can be seen without equipment during suitable evening or morning passes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 However, the ISS explanation should not be overstated without a verified pass for Renfrew at the exact time, direction and elevation. A good identification would require matching the object’s movement across the sky with an ISS prediction for Renfrew or nearby Glasgow on 3 March 2022 at about 7.25pm. If the predicted pass was absent, too low, in the wrong direction, or at the wrong time, the ISS would weaken as an explanation. If it matched closely, the “shape-shifting” would likely belong to the phone image rather than the station itself.
 
-Aircraft are at least as important in this case. Renfrew lies in the practical observation landscape of Glasgow Airport, and the airport’s own airspace consultation material explains that aircraft arrive into the wind, with runway direction changing accordingly. It also notes that below 7,000 feet, arriving aircraft may be vectored by air traffic control before lining up on final approach, producing dispersion across the airspace rather than one simple fixed line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
+Aircraft are at least as important in this case. Renfrew lies in the practical observation landscape of Glasgow Airport, and the airport’s own airspace consultation material explains that aircraft arrive into the wind, with runway direction changing accordingly. It also notes that below 7,000 feet, arriving aircraft may be vectored by air traffic control before lining up on final approach, producing dispersion across the airspace rather than one simple fixed line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
 
 That matters because a distant aircraft light seen head-on can look almost stationary, bright and star-like. As the angle changes, landing lights, navigation lights, haze and cloud can create apparent changes in brightness or shape. If the phone then zooms in and struggles to focus, the recorded image can look much odder than the aircraft looked to the eye. The Renfrew clip cannot be confidently assigned to an aircraft from public reporting alone, but the area’s air-traffic context makes aircraft a necessary first check rather than a fallback excuse.
 
@@ -297,7 +297,7 @@ Other routine checks would include bright planets, satellites other than the ISS
 
 The reported disappearance into haze is one of the most useful clues. Haze can reduce contrast, scatter light, and make a bright point look larger or softer than it is. It also gives a camera less edge detail to focus on. In practical terms, a light seen through haze can fade without the object doing anything dramatic: it may pass behind thin cloud, move into a dimmer angle, enter shadow, turn away, or simply become too low-contrast for the camera to hold.
 
-For a viewer, that can feel like a disappearance. For an investigator, it is a warning that the final moment of the clip may say more about visibility conditions than about the object. The Glasgow Live account says the object appeared to disappear into haze at the end of a video lasting just under a minute; that is consistent with an ordinary light becoming less visible as well as with something genuinely leaving view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+For a viewer, that can feel like a disappearance. For an investigator, it is a warning that the final moment of the clip may say more about visibility conditions than about the object. The Glasgow Live account says the object appeared to disappear into haze at the end of a video lasting just under a minute; that is consistent with an ordinary light becoming less visible as well as with something genuinely leaving view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 
 The haze point also helps explain why still frames from such clips can mislead. A single frame may show a dramatic blob, crescent, ring or smeared shape. But if that shape changes with focus, zoom or hand movement, it is not reliable evidence of the object’s structure. In a case like Renfrew, the sequence of camera behaviour is more important than the strangest-looking frame.
 
@@ -305,11 +305,11 @@ The haze point also helps explain why still frames from such clips can mislead. 
 <img src="{{ "/assets/images/Renfrewshire_6a148e_renfrew_shape_shifti_a7a25a-Illustration-2-dark.svg" | relative_url }}" alt="Renfrew Clip illustration 2" data-theme-src-dark="{{ "/assets/images/Renfrewshire_6a148e_renfrew_shape_shifti_a7a25a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Renfrewshire_6a148e_renfrew_shape_shifti_a7a25a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 2022 reporting adds, and what it does not
 
-UFO Identified’s 2022 report gives useful national context. It says the report was based on 497 UK sightings received up to 16 January 2023, and that its sources included UFOIdentified.co.uk, MUFON, NUFORC, local and national media, social media, UK police forces, the Ministry of Defence, the Civil Aviation Authority and others. It also notes that more than half of the 2022 reports relied on witness testimony alone, while photo and video evidence formed only part of the remaining evidence base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSImg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">The UK UFO Report 2022 final.docx (1</span><span class="citation-popover-snippet">The UK UFO Report 2022 final.docx (1</span></span></span>
+UFO Identified’s 2022 report gives useful national context. It says the report was based on 497 UK sightings received up to 16 January 2023, and that its sources included UFOIdentified.co.uk, MUFON, NUFORC, local and national media, social media, UK police forces, the Ministry of Defence, the Civil Aviation Authority and others. It also notes that more than half of the 2022 reports relied on witness testimony alone, while photo and video evidence formed only part of the remaining evidence base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSImg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">The UK UFO Report 2022 final.docx (1</span><span class="citation-popover-snippet">The UK UFO Report 2022 final.docx (1</span></span></span>
 
 That context helps place Renfrew in the right category. It is not an official Ministry of Defence case file, nor a pilot report, nor a radar-linked event. It is a public-facing local-media video report that was later repeated in a Scotland-wide sighting list. The evidence is better than a bare rumour because there was footage and local reporting; it is weaker than a robust investigation because the key verification data were not published.
 
-The same UFO Identified report says “star-like” and “orb” were the most commonly reported shapes in 2022, and that many sightings took the form of “lights in the sky”. The Renfrew clip fits that wider pattern: a light first, an interpretation second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSImg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">The UK UFO Report 2022 final.docx (1</span><span class="citation-popover-snippet">The UK UFO Report 2022 final.docx (1</span></span></span>
+The same UFO Identified report says “star-like” and “orb” were the most commonly reported shapes in 2022, and that many sightings took the form of “lights in the sky”. The Renfrew clip fits that wider pattern: a light first, an interpretation second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSImg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">The UK UFO Report 2022 final.docx (1</span><span class="citation-popover-snippet">The UK UFO Report 2022 final.docx (1</span></span></span>
 
 This is important for readers because “UFO” in such databases does not mean “alien craft”. It means the reported object was unidentified by the witness or in the available account. The useful question is not whether the witness was sincere — there is no reason to assume otherwise — but whether the public evidence supports the stronger claim that the light itself was physically changing shape.
 
@@ -319,11 +319,11 @@ The best evidence for the Renfrew case is that it had a precise date, approximat
 
 The main doubts are stronger than the positive evidence. They are not minor technicalities; they go to the heart of the claim.
 
-* **The “shape-shift” appears tied to zoom.** The public account says the light changed form once the camera zoomed in, which makes camera behaviour a central suspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+* **The “shape-shift” appears tied to zoom.** The public account says the light changed form once the camera zoomed in, which makes camera behaviour a central suspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 * **The object is described as a light, not a resolved craft.** A small yellow point does not provide enough detail to infer structure.
 * **The clip was short.** Just under a minute is useful for showing a moment, but not enough to reconstruct a full track across the sky.
 * **No public direction or elevation is given.** Without those, ISS, aircraft, planet and satellite checks remain incomplete.
-* **Renfrew is near a major airport environment.** Glasgow Airport arrival patterns vary with wind and air traffic control vectoring, so ordinary aircraft can appear in changing parts of the local sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
+* **Renfrew is near a major airport environment.** Glasgow Airport arrival patterns vary with wind and air traffic control vectoring, so ordinary aircraft can appear in changing parts of the local sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
 
 A fair classification would be: unresolved in the public record, but not strongly anomalous. The ordinary explanations are not proven, but they are plausible and well matched to the evidence.
 
@@ -332,7 +332,7 @@ A fair classification would be: unresolved in the public record, but not strongl
 
 ## How later reporting affected the case
 
-Later reporting did not significantly strengthen the Renfrew claim. The Daily Record’s 2023 Scotland roundup repeated the sighting as part of a list of 2022 UFO reports, but it did not add a new witness interview, a technical analysis of the video, aviation data, astronomy checks, or official investigation results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Full list of UFO sightings in Scotland over past year as</span><span class="citation-popover-snippet">Daily Record Full list of UFO sightings in Scotland over past year as</span></span></span>
+Later reporting did not significantly strengthen the Renfrew claim. The Daily Record’s 2023 Scotland roundup repeated the sighting as part of a list of 2022 UFO reports, but it did not add a new witness interview, a technical analysis of the video, aviation data, astronomy checks, or official investigation results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Full list of UFO sightings in Scotland over past year as</span><span class="citation-popover-snippet">Daily Record Full list of UFO sightings in Scotland over past year as</span></span></span>
 
 That means the case’s status has stayed largely the same since the first local report. It remains an interesting phone-video sighting, not a developed investigation. In fact, later repetition may slightly weaken the dramatic reading if readers mistake repeated listing for corroboration. A sighting can appear in multiple places while still relying on the same original evidence.
 
@@ -365,194 +365,194 @@ A reliable reconstruction would ask:
 Those questions are not bureaucratic box-ticking. They decide whether the case is about an object in the sky or an artefact in the recording. For now, the balance of evidence favours caution: the Renfrew light was genuinely unidentified in the reported clip, but the “shape-shifting” claim is more likely to be a phone-camera doubt than a reliable description of a physical transformation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Renfrew&#x27;s Shape Shifting Light Really Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Renfrew&#x27;s Shape Shifting Light Really Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing witness observations and visual anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing witness observations and visual anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers comparison with more substantial UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers comparison with more substantial UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how people interpret ambiguous visual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people interpret ambiguous visual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses perception, evidence and mistaken interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses perception, evidence and mistaken interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="renfrew-clip-was-renfrew-s-shape-shifting-light-really-strange-renfrewshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ Those questions are not bureaucratic box-ticking. They decide whether the case i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ Those questions are not bureaucratic box-ticking. They decide whether the case i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ Those questions are not bureaucratic box-ticking. They decide whether the case i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ Those questions are not bureaucratic box-ticking. They decide whether the case i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ Those questions are not bureaucratic box-ticking. They decide whether the case i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,204 +758,204 @@ Those questions are not bureaucratic box-ticking. They decide whether the case i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: allaboutsymbian.com  
    Title: Six of the most common camera phone mistakes  
-   Link: <a href="https://allaboutsymbian.com/features/item/12847_Avoiding_the_5_most_common_cam.php" target="_blank" rel="noopener noreferrer nofollow">https://allaboutsymbian.com/features/item/12847_Avoiding_the_5_most_common_cam.php</a>  
+   Link:<a href="https://allaboutsymbian.com/features/item/12847_Avoiding_the_5_most_common_cam.php" target="_blank" rel="noopener noreferrer nofollow">https://allaboutsymbian.com/features/item/12847_Avoiding_the_5_most_common_cam.php</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/spot-the-station/</a>  
+   Link:<a href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/spot-the-station/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: img1.wsimg.com  
    Title: The UK UFO Report 2022 final.docx (1)  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf</a>  
+   Link:<a href="https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c67061d1-f509-4fa3-8c80-6cf13d6e2001/The%20UK%20UFO%20Report%202022%20final.docx%20%281%29.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/spot" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/spot</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/spot" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/spot</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scotland.police.uk  
    Title: UF O Sighting  
-   Link: <a href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/</a>  
+   Link:<a href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoidentified.co.uk  
    Title: ufo report 2022 1  
-   Link: <a href="https://ufoidentified.co.uk/ufo-report-2022-1" target="_blank" rel="noopener noreferrer nofollow">https://ufoidentified.co.uk/ufo-report-2022-1</a>  
+   Link:<a href="https://ufoidentified.co.uk/ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://ufoidentified.co.uk/ufo-report</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufoidentified.co.uk  
-   Link: <a href="https://ufoidentified.co.uk/spotlight" target="_blank" rel="noopener noreferrer nofollow">https://ufoidentified.co.uk/spotlight</a>  
+   Link:<a href="https://ufoidentified.co.uk/spotlight" target="_blank" rel="noopener noreferrer nofollow">https://ufoidentified.co.uk/spotlight</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: glasgowlive.co.uk  
    Title: Glasgow Live Watch as 'shape-shifting UFO' captured in skies above Renfrew  
-   Link: <a href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410</a>  
+   Link:<a href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dailyrecord.co.uk  
    Title: Daily Record Full list of UFO sightings in Scotland over past year as  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridgeincolour.com  
-   Link: <a href="https://www.cambridgeincolour.com/tutorials/camera-autofocus.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeincolour.com/tutorials/camera-autofocus.htm</a>  
+   Link:<a href="https://www.cambridgeincolour.com/tutorials/camera-autofocus.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeincolour.com/tutorials/camera-autofocus.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: glasgowairport.consultationonline.co.uk  
    Title: Glasgow Airport Current arrival routes  
-   Link: <a href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/</a>  
+   Link:<a href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: glasgowlive.co.uk  
    Title: glasgow man left startled after 24354607  
-   Link: <a href="https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-left-startled-after-24354607" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-left-startled-after-24354607</a>  
+   Link:<a href="https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-left-startled-after-24354607" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-left-startled-after-24354607</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/</a>  
+   Link:<a href="https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/at-the-airport/twilight-bag-drop/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/at-the-airport/twilight-bag-drop/</a>  
+   Link:<a href="https://www.glasgowairport.com/at-the-airport/twilight-bag-drop/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/at-the-airport/twilight-bag-drop/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf</a>  
+   Link:<a href="https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/</a>  
+   Link:<a href="https://www.glasgowairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: glasgowairport.com  
    Title: about us  
-   Link: <a href="https://www.glasgowairport.com/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/about-us/</a>  
+   Link:<a href="https://www.glasgowairport.com/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/about-us/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/creativetravelco/videos/glasgow-airport-now-have-a-new-airline-partner-join-the-twilight-bag-dropbritish/1284403686720588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/creativetravelco/videos/glasgow-airport-now-have-a-new-airline-partner-join-the-twilight-bag-dropbritish/1284403686720588/</a>  
+   Link:<a href="https://www.facebook.com/creativetravelco/videos/glasgow-airport-now-have-a-new-airline-partner-join-the-twilight-bag-dropbritish/1284403686720588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/creativetravelco/videos/glasgow-airport-now-have-a-new-airline-partner-join-the-twilight-bag-dropbritish/1284403686720588/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/sun/uk/glasgow?month=3" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/uk/glasgow?month=3</a>  
+   Link:<a href="https://www.timeanddate.com/sun/uk/glasgow?month=3" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/uk/glasgow?month=3</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Glasgow Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Glasgow_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glasgow_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Airport</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: www1.renfrewshire.gov.uk  
    Title: renfrewshire.gov.uk Annual accounts  
-   Link: <a href="https://www1.renfrewshire.gov.uk/article/2292/Annual-accounts" target="_blank" rel="noopener noreferrer nofollow">https://www1.renfrewshire.gov.uk/article/2292/Annual-accounts</a>  
+   Link:<a href="https://www1.renfrewshire.gov.uk/article/2292/Annual-accounts" target="_blank" rel="noopener noreferrer nofollow">https://www1.renfrewshire.gov.uk/article/2292/Annual-accounts</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dailyrecord.co.uk  
    Title: stunned scots man captures ufo 27367800  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/stunned-scots-man-captures-ufo-27367800" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/stunned-scots-man-captures-ufo-27367800</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/stunned-scots-man-captures-ufo-27367800" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/stunned-scots-man-captures-ufo-27367800</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=c_tJ43UF0Nw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c_tJ43UF0Nw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=c_tJ43UF0Nw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c_tJ43UF0Nw</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6JwwbdswP60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6JwwbdswP60</a>  
+   Link:<a href="https://www.youtube.com/watch?v=6JwwbdswP60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6JwwbdswP60</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Public Sector Fraud Authority Annual Report 2022 2023  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6554919250475b000dc5b5e0/Public_Sector_Fraud_Authority_Annual_Report_2022-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6554919250475b000dc5b5e0/Public_Sector_Fraud_Authority_Annual_Report_2022-2023.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6554919250475b000dc5b5e0/Public_Sector_Fraud_Authority_Annual_Report_2022-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6554919250475b000dc5b5e0/Public_Sector_Fraud_Authority_Annual_Report_2022-2023.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: uk.finance.yahoo.com  
-   Link: <a href="https://uk.finance.yahoo.com/quote/SPOT/" target="_blank" rel="noopener noreferrer nofollow">https://uk.finance.yahoo.com/quote/SPOT/</a>  
+   Link:<a href="https://uk.finance.yahoo.com/quote/SPOT/" target="_blank" rel="noopener noreferrer nofollow">https://uk.finance.yahoo.com/quote/SPOT/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/united-kingdom/glasgow/glasgow-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-kingdom/glasgow/glasgow-international-airport</a>  
+   Link:<a href="https://www.kupi.com/en-ae/explore/united-kingdom/glasgow/glasgow-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-kingdom/glasgow/glasgow-international-airport</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: exceptthekylesandwesternisles.blogspot.com  
-   Link: <a href="https://exceptthekylesandwesternisles.blogspot.com/2009/12/renfrew-airport-that-disappeared.html" target="_blank" rel="noopener noreferrer nofollow">https://exceptthekylesandwesternisles.blogspot.com/2009/12/renfrew-airport-that-disappeared.html</a>  
+   Link:<a href="https://exceptthekylesandwesternisles.blogspot.com/2009/12/renfrew-airport-that-disappeared.html" target="_blank" rel="noopener noreferrer nofollow">https://exceptthekylesandwesternisles.blogspot.com/2009/12/renfrew-airport-that-disappeared.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: suntoday.org  
-   Link: <a href="https://www.suntoday.org/sunrise-sunset/2026/march.html" target="_blank" rel="noopener noreferrer nofollow">https://www.suntoday.org/sunrise-sunset/2026/march.html</a>  
+   Link:<a href="https://www.suntoday.org/sunrise-sunset/2026/march.html" target="_blank" rel="noopener noreferrer nofollow">https://www.suntoday.org/sunrise-sunset/2026/march.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Glasgow_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Glasgow_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Glasgow_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Glasgow_Airport</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: spotvirtual.com  
-   Link: <a href="https://www.spotvirtual.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotvirtual.com/en/</a>  
+   Link:<a href="https://www.spotvirtual.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotvirtual.com/en/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: "Pyramid UFO"  
-   Link: <a href="http://www.youtube.com/watch?v=-r2oaQWmqkk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-r2oaQWmqkk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Donut UFO - Quick Explanation - It&#x27;s Bokeh...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-r2oaQWmqkk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-r2oaQWmqkk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Donut UFO - Quick Explanation - It&#x27;s Bokeh...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: What I mean by Glare (vs. Flare, vs. UFO)  
-   Link: <a href="http://www.youtube.com/watch?v=q3Oeaot9eX0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=q3Oeaot9eX0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO: Why Does the Glare Rotate When the Horizon Does Not?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=q3Oeaot9eX0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=q3Oeaot9eX0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO: Why Does the Glare Rotate When the Horizon Does Not?...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/glasgowlive/posts/a-resident-in-bellshill-was-left-baffled-when-she-looked-in-the-sky-and-saw-a-st/810178141295527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/glasgowlive/posts/a-resident-in-bellshill-was-left-baffled-when-she-looked-in-the-sky-and-saw-a-st/810178141295527/</a>  
+   Link:<a href="https://www.facebook.com/glasgowlive/posts/a-resident-in-bellshill-was-left-baffled-when-she-looked-in-the-sky-and-saw-a-st/810178141295527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/glasgowlive/posts/a-resident-in-bellshill-was-left-baffled-when-she-looked-in-the-sky-and-saw-a-st/810178141295527/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
+   Link:<a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/videos/for-25-years-the-international-space-station-iss-has-floated-above-our-heads-hos/835162586007060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/videos/for-25-years-the-international-space-station-iss-has-floated-above-our-heads-hos/835162586007060/</a>  
+   Link:<a href="https://www.facebook.com/skynews/videos/for-25-years-the-international-space-station-iss-has-floated-above-our-heads-hos/835162586007060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/videos/for-25-years-the-international-space-station-iss-has-floated-above-our-heads-hos/835162586007060/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/gla/arrivals" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/gla/arrivals</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/gla/arrivals" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/gla/arrivals</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/gla" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/gla</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/gla" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/gla</a>  

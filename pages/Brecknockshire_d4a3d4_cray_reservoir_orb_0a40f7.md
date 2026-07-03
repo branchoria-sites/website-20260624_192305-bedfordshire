@@ -254,22 +254,22 @@ image: /assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-overview-s
 
 ## Introduction
 
-The Cray Reservoir orb report is one of the more vivid pieces of [Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }}) UFO lore: two men travelling late at night in August 1991 said they saw a huge glowing sphere over the reservoir, followed by five smaller orbs connected to it by filament-like strands. The problem is not that the story is dull or easily dismissed; it is that the public sourcing is late, narrow and difficult to check. The best available account appears in the Swansea UFO Network database, where the exact August date is stated as unknown and the source is a 2015 presentation by witness Brian Harry plus an interview conducted a few days later. That means the case rests heavily on retrospective testimony rather than a contemporary police, press, aviation or Ministry of Defence file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
+The Cray Reservoir orb report is one of the more vivid pieces of [Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }}) UFO lore: two men travelling late at night in August 1991 said they saw a huge glowing sphere over the reservoir, followed by five smaller orbs connected to it by filament-like strands. The problem is not that the story is dull or easily dismissed; it is that the public sourcing is late, narrow and difficult to check. The best available account appears in the Swansea UFO Network database, where the exact August date is stated as unknown and the source is a 2015 presentation by witness Brian Harry plus an interview conducted a few days later. That means the case rests heavily on retrospective testimony rather than a contemporary police, press, aviation or Ministry of Defence file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
 
 
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-overview.webp" | relative_url }}" alt="Overview image for Cray Orb" loading="eager" decoding="sync" fetchpriority="high">
-Within Brecknockshire’s UFO history, the case matters because it shows both the appeal and the risk of upland Welsh UFO reporting. Cray Reservoir, also known as Crai Reservoir, sits in the Bannau Brycheiniog landscape near the A4067, a dark, remote road setting where night lights can seem dramatic and where distance, reflection, weather and limited reference points can make a sighting hard to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnewrestate.co.uk/fishing-cray-reservoir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnewrestate.co.uk">[Cnewr Estate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnewrestate.co.uk</span><span class="citation-popover-title">fishing cray reservoir</span><span class="citation-popover-snippet">fishing cray reservoir</span></span></span>
+Within Brecknockshire’s UFO history, the case matters because it shows both the appeal and the risk of upland Welsh UFO reporting. Cray Reservoir, also known as Crai Reservoir, sits in the Bannau Brycheiniog landscape near the A4067, a dark, remote road setting where night lights can seem dramatic and where distance, reflection, weather and limited reference points can make a sighting hard to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnewrestate.co.uk/fishing-cray-reservoir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnewrestate.co.uk">[Cnewr Estate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnewrestate.co.uk</span><span class="citation-popover-title">fishing cray reservoir</span><span class="citation-popover-snippet">fishing cray reservoir</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0SfTiXy6QKg" title="The Pentyrch UFO Incident - Full 3D CGI Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer">The Pentyrch UFO Incident - Full 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 600.3K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0SfTiXy6QKg">Open on YouTube</a></p></div></div></div>
 
 ## The August 1991 witness account
 
-The core report says that Brian Harry was driving a truck from Brecon towards Swansea with Robert Griffiths, described as a primary school headteacher, at about 11.50 pm on an August night in 1991. As they passed Cnewr on the A4067, they reportedly saw a very large orb of yellowish light over Cray Reservoir in the valley. The account says the light was bright enough to illuminate the surrounding fields, making sheep and cattle visible, and that the animals did not appear disturbed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
+The core report says that Brian Harry was driving a truck from Brecon towards Swansea with Robert Griffiths, described as a primary school headteacher, at about 11.50 pm on an August night in 1991. As they passed Cnewr on the A4067, they reportedly saw a very large orb of yellowish light over Cray Reservoir in the valley. The account says the light was bright enough to illuminate the surrounding fields, making sheep and cattle visible, and that the animals did not appear disturbed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
 
-The description then becomes more elaborate. According to the SUFON case entry, the main orb was estimated at several hundred feet across, with a bright orange rim and a deeper orange-purple centre. Harry drove on for about half a mile before finding somewhere safe to stop. When the two men got out, five smaller orbs were said to have appeared around the main one, spread over the reservoir and still linked to it by what the witness interpreted as filaments of energy. The account also says there was no sound, no apparent effect on the truck engine, and a mild warmth felt by Harry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
+The description then becomes more elaborate. According to the SUFON case entry, the main orb was estimated at several hundred feet across, with a bright orange rim and a deeper orange-purple centre. Harry drove on for about half a mile before finding somewhere safe to stop. When the two men got out, five smaller orbs were said to have appeared around the main one, spread over the reservoir and still linked to it by what the witness interpreted as filaments of energy. The account also says there was no sound, no apparent effect on the truck engine, and a mild warmth felt by Harry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
 
-The reported ending is just as striking. After about eight minutes, all six lights were said to vanish suddenly, followed by a silvery-white flash spreading across the ground from the area of the reservoir. A car then appeared from the Swansea direction shortly afterwards. Harry later produced a sketch, and SUFON attributes the public version to his presentation at a SUFON meeting on 28 July 2015 and an interview by Emlyn Williams on 31 July 2015. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
+The reported ending is just as striking. After about eight minutes, all six lights were said to vanish suddenly, followed by a silvery-white flash spreading across the ground from the area of the reservoir. A car then appeared from the Swansea direction shortly afterwards. Harry later produced a sketch, and SUFON attributes the public version to his presentation at a SUFON meeting on 28 July 2015 and an interview by Emlyn Williams on 31 July 2015.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span>
 
 Taken at face value, this is not a simple “light in the sky” report. It contains multiple observational claims: large apparent size, low position over a reservoir, changes in configuration, illumination of the landscape, silence, warmth, timed duration, two named witnesses and a remembered route. Those details make the story memorable. They also create more points that should, in principle, be checkable.
 
@@ -277,11 +277,11 @@ Taken at face value, this is not a simple “light in the sky” report. It cont
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-1-dark.svg" | relative_url }}" alt="Cray Orb illustration 1" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the reservoir setting matters
 
-Cray Reservoir is not just scenery in this case. The geography is part of the evidence problem. The reservoir lies by the A4067 in the Brecon Beacons/Bannau Brycheiniog National Park, with public descriptions noting car access from the road and around 3 km of shoreline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnewrestate.co.uk/fishing-cray-reservoir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnewrestate.co.uk">[Cnewr Estate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnewrestate.co.uk</span><span class="citation-popover-title">fishing cray reservoir</span><span class="citation-popover-snippet">fishing cray reservoir</span></span></span> Fishing Wales describes Crai Reservoir, the Welsh spelling, as just off the A4067 near the village of Crai and north of the Western Black Mountain range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fishingwales.net/fly-fishing-crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fishingwales.net">[Fishing in Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fishingwales.net</span><span class="citation-popover-title">fly fishing crai reservoir</span><span class="citation-popover-snippet">fly fishing crai reservoir</span></span></span>
+Cray Reservoir is not just scenery in this case. The geography is part of the evidence problem. The reservoir lies by the A4067 in the Brecon Beacons/Bannau Brycheiniog National Park, with public descriptions noting car access from the road and around 3 km of shoreline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnewrestate.co.uk/fishing-cray-reservoir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnewrestate.co.uk">[Cnewr Estate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnewrestate.co.uk</span><span class="citation-popover-title">fishing cray reservoir</span><span class="citation-popover-snippet">fishing cray reservoir</span></span></span> Fishing Wales describes Crai Reservoir, the Welsh spelling, as just off the A4067 near the village of Crai and north of the Western Black Mountain range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fishingwales.net/fly-fishing-crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fishingwales.net">[Fishing in Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fishingwales.net</span><span class="citation-popover-title">fly fishing crai reservoir</span><span class="citation-popover-snippet">fly fishing crai reservoir</span></span></span>
 
-That roadside-and-valley arrangement matters for a night report. A witness travelling by vehicle may see a light at changing angles while descending, climbing or passing trees, farm buildings and lay-bys. The SUFON account itself says the witnesses lost sight of part of the event while looking for a safe place to stop because pine trees partly obscured the view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span> That does not disprove the report, but it does complicate any reconstruction of object size, position and movement.
+That roadside-and-valley arrangement matters for a night report. A witness travelling by vehicle may see a light at changing angles while descending, climbing or passing trees, farm buildings and lay-bys. The SUFON account itself says the witnesses lost sight of part of the event while looking for a safe place to stop because pine trees partly obscured the view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span> That does not disprove the report, but it does complicate any reconstruction of object size, position and movement.
 
-The wider night-sky context cuts both ways. Bannau Brycheiniog is now promoted as an International Dark Sky Reserve, with the National Park site saying that on clear nights visitors can see the Milky Way, major constellations, bright nebulas and meteor showers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bannaubrycheiniog.org/thingstodo/stargazing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bannaubrycheiniog.org">[Bannau Brycheiniog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bannaubrycheiniog.org</span><span class="citation-popover-title">Bannau Brycheiniog Stargazing</span><span class="citation-popover-snippet">Bannau Brycheiniog Stargazing</span></span></span> Dark skies make genuine aerial lights easier to notice, but they also make ordinary or distant sources appear unusually vivid. A bright planet, aircraft light, meteor, flare, distant vehicle light, reflection, low cloud illumination or atmospheric effect may look stranger in a remote valley than it would near street lighting.
+The wider night-sky context cuts both ways. Bannau Brycheiniog is now promoted as an International Dark Sky Reserve, with the National Park site saying that on clear nights visitors can see the Milky Way, major constellations, bright nebulas and meteor showers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bannaubrycheiniog.org/thingstodo/stargazing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bannaubrycheiniog.org">[Bannau Brycheiniog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bannaubrycheiniog.org</span><span class="citation-popover-title">Bannau Brycheiniog Stargazing</span><span class="citation-popover-snippet">Bannau Brycheiniog Stargazing</span></span></span> Dark skies make genuine aerial lights easier to notice, but they also make ordinary or distant sources appear unusually vivid. A bright planet, aircraft light, meteor, flare, distant vehicle light, reflection, low cloud illumination or atmospheric effect may look stranger in a remote valley than it would near street lighting.
 
 The reservoir itself adds another layer. Water can reflect light, and a dark valley can remove scale cues. A glow seen over or reflected from water may be hard to place in three-dimensional space, especially from a road above or beside the basin. The public Cray account describes an object “over” the reservoir, but without contemporary photographs, a precise stopping point, bearing, elevation or weather record, that placement remains a witness judgement rather than a measured location.
 
@@ -294,13 +294,13 @@ The most important weakness is not that the witnesses are obviously unreliable. 
 
 Three problems stand out.
 
-**The date is incomplete.** SUFON states that the exact date in August 1991 is not known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span> That is a serious limitation. Without a date, it is difficult to check the Moon phase, weather, aircraft movements, military exercises, meteor activity, press reports or other local witnesses.
+**The date is incomplete.** SUFON states that the exact date in August 1991 is not known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span> That is a serious limitation. Without a date, it is difficult to check the Moon phase, weather, aircraft movements, military exercises, meteor activity, press reports or other local witnesses.
 
-**The public source is late.** The case appears to have entered the easily searchable public record through SUFON material based on a 2015 witness presentation and interview, roughly twenty-four years after the alleged event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span> Long-delayed testimony can still be sincere, but memory tends to become more vulnerable to compression, later interpretation and narrative smoothing over time.
+**The public source is late.** The case appears to have entered the easily searchable public record through SUFON material based on a 2015 witness presentation and interview, roughly twenty-four years after the alleged event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-snippet">august 1991 cray reservoir, brecon beacons</span><span class="citation-popover-meta">Published: august 1991</span></span></span> Long-delayed testimony can still be sincere, but memory tends to become more vulnerable to compression, later interpretation and narrative smoothing over time.
 
 **The corroboration is thin.** The account includes a second named witness, Robert Griffiths, but the public SUFON page does not present a separate, independently quoted statement from him in the same way it presents Harry’s recollection. Nor does the currently visible public material point to a contemporaneous local newspaper report, police log, Civil Aviation Authority notification, RAF response or MoD case file for this specific sighting.
 
-This matters because the United Kingdom’s official UFO material, where it exists, is often valuable precisely because it preserves the original form of reports. The National Archives explains that the MoD’s UFO files include material that varies greatly in content, while its research guide notes that surviving records are mainly documents relating to official policy and Parliamentary business rather than a complete investigative record of every local sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> In other words, absence from the obvious official trail would not automatically disprove Cray, but it would make the story harder to verify.
+This matters because the United Kingdom’s official UFO material, where it exists, is often valuable precisely because it preserves the original form of reports. The National Archives explains that the MoD’s UFO files include material that varies greatly in content, while its research guide notes that surviving records are mainly documents relating to official policy and Parliamentary business rather than a complete investigative record of every local sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> In other words, absence from the obvious official trail would not automatically disprove Cray, but it would make the story harder to verify.
 
 
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-2-dark.svg" | relative_url }}" alt="Cray Orb illustration 2" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,7 +312,7 @@ A reconstruction would need to answer practical questions, not just repeat the d
 
 The claim would be weakened if the only available evidence remains a single late narrative, especially if independent confirmation from the second witness cannot be found. It would also be weakened by a plausible dated match to a known source of light, such as an aircraft, flare, searchlight, meteorological effect or event in the area. The story’s most unusual features — enormous apparent size, multiple connected orbs, landscape-wide illumination and a ground flash — are precisely the features that most need independent support.
 
-The existence of later Cray Reservoir entries in the SUFON database does not by itself corroborate the 1991 case. SUFON’s list includes later reports at or near Cray Reservoir, including an orange orb in August 2015, a large bright white dome in autumn 2015 and a white light in August 2016. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/sufon-database-list" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">sufon database list</span><span class="citation-popover-snippet">sufon database list</span></span></span> Those entries may show that the location attracts UFO-style reports, but they could also reflect the same environmental issue: a dark reservoir road where ordinary or ambiguous lights are memorable.
+The existence of later Cray Reservoir entries in the SUFON database does not by itself corroborate the 1991 case. SUFON’s list includes later reports at or near Cray Reservoir, including an orange orb in August 2015, a large bright white dome in autumn 2015 and a white light in August 2016.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/sufon-database-list" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">sufon database list</span><span class="citation-popover-snippet">sufon database list</span></span></span> Those entries may show that the location attracts UFO-style reports, but they could also reflect the same environmental issue: a dark reservoir road where ordinary or ambiguous lights are memorable.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/feeNml73k2E" title="Cray/Crai reservoir ramble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=feeNml73k2E" target="_blank" rel="noopener noreferrer">Cray/Crai reservoir ramble</a></p><p class="youtube-embed-meta">Channel: Smoggiewalks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=feeNml73k2E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=feeNml73k2E">Open on YouTube</a></p></div></div></div>
@@ -329,194 +329,194 @@ That does not make the case useless. It makes it a good test case for how to han
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-3-dark.svg" | relative_url }}" alt="Cray Orb illustration 3" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Something Strange Hover Over Cray Reservoir?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Something Strange Hover Over Cray Reservoir?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for analysing unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for analysing unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Excellent fit for assessing a single witness-led orb report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for assessing a single witness-led orb report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores unusual encounters and recurring motifs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unusual encounters and recurring motifs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO-reporting context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO-reporting context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="cray-orb-did-something-strange-hover-over-cray-reservoir-brecknockshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ That does not make the case useless. It makes it a good test case for how to han
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ That does not make the case useless. It makes it a good test case for how to han
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ That does not make the case useless. It makes it a good test case for how to han
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ That does not make the case useless. It makes it a good test case for how to han
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ That does not make the case useless. It makes it a good test case for how to han
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,202 +722,202 @@ That does not make the case useless. It makes it a good test case for how to han
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Swansea UFO Network Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=z79TUZj8R_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z79TUZj8R_E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentyrch UFO Incident - Full 3D CGI Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z79TUZj8R_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z79TUZj8R_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentyrch UFO Incident - Full 3D CGI Animation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sufon.co.uk  
    Title: august 1991 cray reservoir, brecon beacons  
-   Link: <a href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons</a>  
+   Link:<a href="https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/august-1991-cray-reservoir%2C-brecon-beacons</a>  
    Published: august 1991  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnewrestate.co.uk  
    Title: fishing cray reservoir  
-   Link: <a href="https://cnewrestate.co.uk/fishing-cray-reservoir" target="_blank" rel="noopener noreferrer nofollow">https://cnewrestate.co.uk/fishing-cray-reservoir</a>  
+   Link:<a href="https://cnewrestate.co.uk/fishing-cray-reservoir" target="_blank" rel="noopener noreferrer nofollow">https://cnewrestate.co.uk/fishing-cray-reservoir</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fishingwales.net  
    Title: fly fishing crai reservoir  
-   Link: <a href="https://fishingwales.net/fly-fishing-crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://fishingwales.net/fly-fishing-crai-reservoir/</a>  
+   Link:<a href="https://fishingwales.net/fly-fishing-crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://fishingwales.net/fly-fishing-crai-reservoir/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bannaubrycheiniog.org  
    Title: Bannau Brycheiniog Stargazing  
-   Link: <a href="https://bannaubrycheiniog.org/thingstodo/stargazing/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/thingstodo/stargazing/</a>  
+   Link:<a href="https://bannaubrycheiniog.org/thingstodo/stargazing/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/thingstodo/stargazing/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sufon.co.uk  
    Title: sufon database list  
-   Link: <a href="https://www.sufon.co.uk/sufon-database-list" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/sufon-database-list</a>  
+   Link:<a href="https://www.sufon.co.uk/sufon-database-list" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/sufon-database-list</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SwanseaUFONetwork/posts/incase-you-missed-itdue-to-illness-shows-252627-havent-been-posted-yet-but-here-/5696671423756388/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SwanseaUFONetwork/posts/incase-you-missed-itdue-to-illness-shows-252627-havent-been-posted-yet-but-here-/5696671423756388/</a>  
+   Link:<a href="https://www.facebook.com/SwanseaUFONetwork/posts/incase-you-missed-itdue-to-illness-shows-252627-havent-been-posted-yet-but-here-/5696671423756388/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SwanseaUFONetwork/posts/incase-you-missed-itdue-to-illness-shows-252627-havent-been-posted-yet-but-here-/5696671423756388/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Crai Reservoir  
-   Link: <a href="https://en.wikipedia.org/wiki/Crai_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crai_Reservoir</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crai_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crai_Reservoir</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/accessions/2014/14digests/wales.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2014/14digests/wales.htm</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/accessions/2014/14digests/wales.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2014/14digests/wales.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: uk accession 2017.txt  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fishingwales.net  
    Title: crai reservoir  
-   Link: <a href="https://fishingwales.net/fishing-locations/crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://fishingwales.net/fishing-locations/crai-reservoir/</a>  
+   Link:<a href="https://fishingwales.net/fishing-locations/crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://fishingwales.net/fishing-locations/crai-reservoir/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: visitwales.com  
-   Link: <a href="https://www.visitwales.com/destinations/mid-wales/powys/five-top-spots-stargazing-around-brecon" target="_blank" rel="noopener noreferrer nofollow">https://www.visitwales.com/destinations/mid-wales/powys/five-top-spots-stargazing-around-brecon</a>  
+   Link:<a href="https://www.visitwales.com/destinations/mid-wales/powys/five-top-spots-stargazing-around-brecon" target="_blank" rel="noopener noreferrer nofollow">https://www.visitwales.com/destinations/mid-wales/powys/five-top-spots-stargazing-around-brecon</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gostargazing.co.uk  
-   Link: <a href="https://gostargazing.co.uk/events/locations/brecon-crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/events/locations/brecon-crai-reservoir/</a>  
+   Link:<a href="https://gostargazing.co.uk/events/locations/brecon-crai-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/events/locations/brecon-crai-reservoir/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: peoplescollection.wales  
-   Link: <a href="https://www.peoplescollection.wales/items/1596281" target="_blank" rel="noopener noreferrer nofollow">https://www.peoplescollection.wales/items/1596281</a>  
+   Link:<a href="https://www.peoplescollection.wales/items/1596281" target="_blank" rel="noopener noreferrer nofollow">https://www.peoplescollection.wales/items/1596281</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cnewrestate.co.uk  
    Title: filming brecon beacons  
-   Link: <a href="https://cnewrestate.co.uk/filming-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow">https://cnewrestate.co.uk/filming-brecon-beacons</a>  
+   Link:<a href="https://cnewrestate.co.uk/filming-brecon-beacons" target="_blank" rel="noopener noreferrer nofollow">https://cnewrestate.co.uk/filming-brecon-beacons</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bannaubrycheiniog.org  
-   Link: <a href="https://bannaubrycheiniog.org/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/</a>  
+   Link:<a href="https://bannaubrycheiniog.org/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: bannaubrycheiniog.org  
-   Link: <a href="https://bannaubrycheiniog.org/blogs/dark-skies-in-bannau-brycheiniog-brecon-beacons-where-to-experience-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/blogs/dark-skies-in-bannau-brycheiniog-brecon-beacons-where-to-experience-the-night-sky/</a>  
+   Link:<a href="https://bannaubrycheiniog.org/blogs/dark-skies-in-bannau-brycheiniog-brecon-beacons-where-to-experience-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/blogs/dark-skies-in-bannau-brycheiniog-brecon-beacons-where-to-experience-the-night-sky/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bannaubrycheiniog.org  
    Title: Dark Sky Wales  
-   Link: <a href="https://bannaubrycheiniog.org/businesses/dark-sky-wales/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/businesses/dark-sky-wales/</a>  
+   Link:<a href="https://bannaubrycheiniog.org/businesses/dark-sky-wales/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/businesses/dark-sky-wales/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: beacons-npa.gov.uk  
-   Link: <a href="https://www.beacons-npa.gov.uk/wp-content/uploads/LCA-5-PROFILE_final_120930.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/LCA-5-PROFILE_final_120930.pdf</a>  
+   Link:<a href="https://www.beacons-npa.gov.uk/wp-content/uploads/LCA-5-PROFILE_final_120930.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/LCA-5-PROFILE_final_120930.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: beacons-npa.gov.uk  
-   Link: <a href="https://beacons-npa.gov.uk/learning/dark-sky-festival-resources/family-activities/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/learning/dark-sky-festival-resources/family-activities/</a>  
+   Link:<a href="https://beacons-npa.gov.uk/learning/dark-sky-festival-resources/family-activities/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/learning/dark-sky-festival-resources/family-activities/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: routeyou.com  
    Title: Cray Reservoir  
-   Link: <a href="https://www.routeyou.com/en-gb/location/view/48036195" target="_blank" rel="noopener noreferrer nofollow">https://www.routeyou.com/en-gb/location/view/48036195</a>  
+   Link:<a href="https://www.routeyou.com/en-gb/location/view/48036195" target="_blank" rel="noopener noreferrer nofollow">https://www.routeyou.com/en-gb/location/view/48036195</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pitchup.com  
-   Link: <a href="https://www.pitchup.com/area-guides/national-parks/bannau-brycheiniog/stargazing/" target="_blank" rel="noopener noreferrer nofollow">https://www.pitchup.com/area-guides/national-parks/bannau-brycheiniog/stargazing/</a>  
+   Link:<a href="https://www.pitchup.com/area-guides/national-parks/bannau-brycheiniog/stargazing/" target="_blank" rel="noopener noreferrer nofollow">https://www.pitchup.com/area-guides/national-parks/bannau-brycheiniog/stargazing/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/119441938068660/posts/26020499057536260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119441938068660/posts/26020499057536260/</a>  
+   Link:<a href="https://www.facebook.com/groups/119441938068660/posts/26020499057536260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119441938068660/posts/26020499057536260/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
+   Link:<a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/breconbeaconsnationalpark/posts/chasing-dark-skies-in-bannau-brycheiniog-here-are-our-top-3-places-to-look-up-an/1270623351858977/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/breconbeaconsnationalpark/posts/chasing-dark-skies-in-bannau-brycheiniog-here-are-our-top-3-places-to-look-up-an/1270623351858977/</a>  
+   Link:<a href="https://www.facebook.com/breconbeaconsnationalpark/posts/chasing-dark-skies-in-bannau-brycheiniog-here-are-our-top-3-places-to-look-up-an/1270623351858977/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/breconbeaconsnationalpark/posts/chasing-dark-skies-in-bannau-brycheiniog-here-are-our-top-3-places-to-look-up-an/1270623351858977/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/photoshopnogo/52463552711" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/photoshopnogo/52463552711</a>  
+   Link:<a href="https://www.flickr.com/photos/photoshopnogo/52463552711" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/photoshopnogo/52463552711</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: gps-routes.co.uk  
-   Link: <a href="https://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/cray-reservoir-walking-route" target="_blank" rel="noopener noreferrer nofollow">https://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/cray-reservoir-walking-route</a>  
+   Link:<a href="https://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/cray-reservoir-walking-route" target="_blank" rel="noopener noreferrer nofollow">https://www.gps-routes.co.uk/routes/home.nsf/RoutesLinksWalks/cray-reservoir-walking-route</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/cray-reservoir-brecon-beacons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/cray-reservoir-brecon-beacons.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/cray-reservoir-brecon-beacons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/cray-reservoir-brecon-beacons.html</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/418418364871784/posts/6719753054738252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418418364871784/posts/6719753054738252/</a>  
+   Link:<a href="https://www.facebook.com/groups/418418364871784/posts/6719753054738252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418418364871784/posts/6719753054738252/</a>  

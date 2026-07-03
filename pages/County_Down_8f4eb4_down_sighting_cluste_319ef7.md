@@ -248,15 +248,15 @@ image: /assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-overview-so
 
 ## Introduction
 
-The Downpatrick, Saintfield and Newtownards sighting cluster is not a single [County Down]({{ 'what-really-happened-in-county-downs-ufo/' | relative_url }}) “UFO hotspot” in the strong sense. It is better understood as a loose pattern of scattered reports: a 2021 police mention of a “spaceship and flashing lights” in the Downpatrick area, a later 2021 Saintfield report of a dome-shaped object with eight lights, and repeated Newtownards entries in Ministry of Defence logs from 2008. These records matter because they show how County Down’s UFO history is built: short official entries, local geography, occasional striking witness descriptions, and very limited follow-up. They preserve evidence of public reporting, but they do not prove a recurring craft, route, or phenomenon. The strongest conclusion is modest: this part of County Down generated several reportable sky claims across different years, while the surviving records are too thin to turn that repetition into a solved mystery or a confirmed anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+The Downpatrick, Saintfield and Newtownards sighting cluster is not a single [County Down]({{ 'what-really-happened-in-county-downs-ufo/' | relative_url }}) “UFO hotspot” in the strong sense. It is better understood as a loose pattern of scattered reports: a 2021 police mention of a “spaceship and flashing lights” in the Downpatrick area, a later 2021 Saintfield report of a dome-shaped object with eight lights, and repeated Newtownards entries in Ministry of Defence logs from 2008. These records matter because they show how County Down’s UFO history is built: short official entries, local geography, occasional striking witness descriptions, and very limited follow-up. They preserve evidence of public reporting, but they do not prove a recurring craft, route, or phenomenon. The strongest conclusion is modest: this part of County Down generated several reportable sky claims across different years, while the surviving records are too thin to turn that repetition into a solved mystery or a confirmed anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-overview.webp" | relative_url }}" alt="Overview image for Sightings Cluster" loading="eager" decoding="sync" fetchpriority="high">
-For this page, County Down is treated as the historic county on Ulster’s eastern coast, named from Downpatrick and including Newtownards, Saintfield and the surrounding Strangford Lough landscape. That matters because modern council boundaries and policing records do not always map neatly onto historic county identity, while the UFO reports themselves usually use everyday place names rather than carefully defined administrative geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">unty Down</span><span class="citation-popover-snippet">unty Down</span></span></span>
+For this page, County Down is treated as the historic county on Ulster’s eastern coast, named from Downpatrick and including Newtownards, Saintfield and the surrounding Strangford Lough landscape. That matters because modern council boundaries and policing records do not always map neatly onto historic county identity, while the UFO reports themselves usually use everyday place names rather than carefully defined administrative geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">unty Down</span><span class="citation-popover-snippet">unty Down</span></span></span>
 
 ## Why these three places look like a cluster
 
-Downpatrick, Saintfield and Newtownards sit close enough to be read together, but the evidence does not show one continuous flap. Downpatrick and Saintfield appear in the Police Service of Northern Ireland’s 2021 UFO-related reports, while Newtownards appears in the older Ministry of Defence reporting lists from 2008. The pattern is therefore archival rather than dramatic: the same broad part of County Down keeps surfacing in official or semi-official sighting material, but with gaps in time, detail and investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+Downpatrick, Saintfield and Newtownards sit close enough to be read together, but the evidence does not show one continuous flap. Downpatrick and Saintfield appear in the Police Service of Northern Ireland’s 2021 UFO-related reports, while Newtownards appears in the older Ministry of Defence reporting lists from 2008. The pattern is therefore archival rather than dramatic: the same broad part of County Down keeps surfacing in official or semi-official sighting material, but with gaps in time, detail and investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
 The cluster is still worth examining because it captures three different kinds of local UFO record:
 
@@ -269,29 +269,29 @@ The cluster is still worth examining because it captures three different kinds o
 
 </div>
 
-This combination is typical of County Down’s UFO record. It is not dominated by one famous crash, a radar pursuit, or a military confrontation. Instead, the county’s public UFO history is made from town-level reports that become interesting when compared with one another. GOV.UK describes the released UK UFO reports for 1997 to 2009 as lists of dates, times, locations and brief sighting descriptions, which is exactly the kind of sparse material that underpins the Newtownards part of this cluster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+This combination is typical of County Down’s UFO record. It is not dominated by one famous crash, a radar pursuit, or a military confrontation. Instead, the county’s public UFO history is made from town-level reports that become interesting when compared with one another. GOV.UK describes the released UK UFO reports for 1997 to 2009 as lists of dates, times, locations and brief sighting descriptions, which is exactly the kind of sparse material that underpins the Newtownards part of this cluster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Cluster illustration 1" data-theme-src-dark="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Downpatrick reports and later police mentions
 
-The most prominent recent Downpatrick entry comes from PSNI material reported in December 2021. According to PA-based coverage carried by several outlets, police received eight UFO-related reports across Northern Ireland during 2021, up from six in 2020 and four in 2019. One of those 2021 reports, dated 17 January, concerned “a spaceship and flashing lights” in the Downpatrick area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+The most prominent recent Downpatrick entry comes from PSNI material reported in December 2021. According to PA-based coverage carried by several outlets, police received eight UFO-related reports across Northern Ireland during 2021, up from six in 2020 and four in 2019. One of those 2021 reports, dated 17 January, concerned “a spaceship and flashing lights” in the Downpatrick area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
-That wording is eye-catching, but it should be read carefully. The public report does not provide a witness name, viewing direction, duration, altitude estimate, weather conditions, aircraft checks, astronomical checks or any published image. It is therefore a useful record of what someone reported, not a strong evidential case for what was actually in the sky. The same PSNI-linked reporting said the police database includes categories such as UFOs, aerial phenomena, unidentified aerial phenomena, lights in the sky, aliens and extraterrestrials, and that no investigations were carried out in relation to the 2021 incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+That wording is eye-catching, but it should be read carefully. The public report does not provide a witness name, viewing direction, duration, altitude estimate, weather conditions, aircraft checks, astronomical checks or any published image. It is therefore a useful record of what someone reported, not a strong evidential case for what was actually in the sky. The same PSNI-linked reporting said the police database includes categories such as UFOs, aerial phenomena, unidentified aerial phenomena, lights in the sky, aliens and extraterrestrials, and that no investigations were carried out in relation to the 2021 incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
-Downpatrick’s geography also matters. It is a historic and county town in south-eastern Northern Ireland, located where the River Quoilé broadens towards Strangford Lough. A sighting described only as being in the “Downpatrick area” could cover a town, roads, open countryside, the lough-side sky, or distant lights seen from higher ground. Without a precise vantage point, even ordinary explanations such as aircraft, drones, distant vehicles, bright planets, searchlights or reflections become hard to test properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Downpatrick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Downpatrick &#124; Saint Patrick&#x27;s City, Ancient Capital,</span><span class="citation-popover-snippet">Encyclopedia Britannica Downpatrick &#124; Saint Patrick&#x27;s City, Ancient Capital,</span></span></span>
+Downpatrick’s geography also matters. It is a historic and county town in south-eastern Northern Ireland, located where the River Quoilé broadens towards Strangford Lough. A sighting described only as being in the “Downpatrick area” could cover a town, roads, open countryside, the lough-side sky, or distant lights seen from higher ground. Without a precise vantage point, even ordinary explanations such as aircraft, drones, distant vehicles, bright planets, searchlights or reflections become hard to test properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Downpatrick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Downpatrick &#124; Saint Patrick&#x27;s City, Ancient Capital,</span><span class="citation-popover-snippet">Encyclopedia Britannica Downpatrick &#124; Saint Patrick&#x27;s City, Ancient Capital,</span></span></span>
 
 The Downpatrick report therefore strengthens the case for a local sighting cluster only in a limited way. It shows that people in the area still report unusual aerial experiences to police, but it does not supply enough information to rank the case as strong, independently corroborated, or unresolved after investigation.
 
 ## Saintfield’s dome-shaped object claim
 
-Saintfield is the most visually memorable part of this cluster. In July 2021, a report was made of a dome-shaped object with eight lights in the sky in the Saintfield area. This was listed in the same round of PSNI-related reporting as the Downpatrick entry, alongside other Northern Ireland reports such as lights, discs, CCTV images and unusual bright lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+Saintfield is the most visually memorable part of this cluster. In July 2021, a report was made of a dome-shaped object with eight lights in the sky in the Saintfield area. This was listed in the same round of PSNI-related reporting as the Downpatrick entry, alongside other Northern Ireland reports such as lights, discs, CCTV images and unusual bright lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
 The description matters because “dome-shaped object with eight lights” is more specific than a generic “UFO” or “strange light”. It gives readers something to picture, and it suggests that the witness interpreted the lights as belonging to one object rather than as separate points. That is the kind of detail that can make a sighting feel stronger at first glance.
 
-Even so, the evidential limits are severe. The public record does not say whether the eight lights were steady or flashing, whether they moved together, whether the object made sound, how long it was observed, whether there were other witnesses, or whether any photo or video was checked. It also does not say whether the report was assessed against aircraft, drones, lanterns, celestial objects, or local events. The PSNI-linked coverage explicitly stated that no investigations were carried out into the incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">unexplained sightings northern ireland ufo 5640611 Dec2021</span><span class="citation-popover-snippet">unexplained sightings northern ireland ufo 5640611 Dec2021</span></span></span>
+Even so, the evidential limits are severe. The public record does not say whether the eight lights were steady or flashing, whether they moved together, whether the object made sound, how long it was observed, whether there were other witnesses, or whether any photo or video was checked. It also does not say whether the report was assessed against aircraft, drones, lanterns, celestial objects, or local events. The PSNI-linked coverage explicitly stated that no investigations were carried out into the incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">unexplained sightings northern ireland ufo 5640611 Dec2021</span><span class="citation-popover-snippet">unexplained sightings northern ireland ufo 5640611 Dec2021</span></span></span>
 
-Saintfield’s location adds a further reason for caution. It lies roughly between Belfast and Downpatrick, in a commuter and road corridor where lights in the sky may be seen against busy urban, suburban and rural backgrounds. Local tourism and area guides describe Saintfield as being about halfway between Belfast and Downpatrick, which helps explain why a sky report there might be geographically ambiguous: a witness could be looking towards Belfast, towards Downpatrick, over open countryside, or across a flight path or road-lit horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoversaintfield.com/about-saintfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoversaintfield.com">[discoversaintfield.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoversaintfield.com</span><span class="citation-popover-snippet">Open source on discoversaintfield.com.</span></span></span>
+Saintfield’s location adds a further reason for caution. It lies roughly between Belfast and Downpatrick, in a commuter and road corridor where lights in the sky may be seen against busy urban, suburban and rural backgrounds. Local tourism and area guides describe Saintfield as being about halfway between Belfast and Downpatrick, which helps explain why a sky report there might be geographically ambiguous: a witness could be looking towards Belfast, towards Downpatrick, over open countryside, or across a flight path or road-lit horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoversaintfield.com/about-saintfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoversaintfield.com">[discoversaintfield.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoversaintfield.com</span><span class="citation-popover-snippet">Open source on discoversaintfield.com.</span></span></span>
 
 The Saintfield claim is therefore the cluster’s best “shape” report, but not its strongest proof. It is a distinctive description preserved through police reporting, weakened by the lack of published investigation and supporting data.
 
@@ -300,11 +300,11 @@ The Saintfield claim is therefore the cluster’s best “shape” report, but n
 
 ## Newtownards repetition in the archive
 
-Newtownards is the strongest reason to call this a cluster rather than a pair of one-off modern reports. In the Ministry of Defence’s 2008 UFO report list, Newtownards appears more than once. One entry says “No Firm Date”, “Not stated” for time, “Newtownards”, “County Down”, with the brief description “A UFO”, and notes that the message was taken on 6 May 2008. Another later entry again lists “No Firm Date”, “Not stated”, “Newtownards”, “County Down”, “A UFO”, with the message taken on 2 July 2008. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+Newtownards is the strongest reason to call this a cluster rather than a pair of one-off modern reports. In the Ministry of Defence’s 2008 UFO report list, Newtownards appears more than once. One entry says “No Firm Date”, “Not stated” for time, “Newtownards”, “County Down”, with the brief description “A UFO”, and notes that the message was taken on 6 May 2008. Another later entry again lists “No Firm Date”, “Not stated”, “Newtownards”, “County Down”, “A UFO”, with the message taken on 2 July 2008.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 Those entries are important but thin. They show that Newtownards generated at least two recorded MoD UFO messages in 2008, yet they do not tell the reader what was seen. There is no shape, colour, number of lights, movement, direction, witness occupation, distance, sound, duration or follow-up note in the public list. In evidential terms, repetition helps establish that the place name recurred in the archive; it does not establish that the same phenomenon recurred over Newtownards.
 
-Newtownards also sits in an aviation-relevant setting. Newtownards Airfield, also known as Ards Airport, has a long local aviation history: the first recorded landing took place in June 1934 and the airport was officially opened on 31 August 1934. It is associated with the Ulster Flying Club, which describes itself as a long-established flying organisation offering aviation services and training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitardsandnorthdown.com/things-to-do/attractions-and-activities/newtownards-airfield" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitardsandnorthdown.com">[Ards &amp; North Down]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitardsandnorthdown.com</span><span class="citation-popover-title">Ards &amp; North Down Newtownards Airfield</span><span class="citation-popover-snippet">Ards &amp; North Down Newtownards Airfield</span></span></span>
+Newtownards also sits in an aviation-relevant setting. Newtownards Airfield, also known as Ards Airport, has a long local aviation history: the first recorded landing took place in June 1934 and the airport was officially opened on 31 August 1934. It is associated with the Ulster Flying Club, which describes itself as a long-established flying organisation offering aviation services and training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitardsandnorthdown.com/things-to-do/attractions-and-activities/newtownards-airfield" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitardsandnorthdown.com">[Ards &amp; North Down]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitardsandnorthdown.com</span><span class="citation-popover-title">Ards &amp; North Down Newtownards Airfield</span><span class="citation-popover-snippet">Ards &amp; North Down Newtownards Airfield</span></span></span>
 
 That does not explain the 2008 “A UFO” entries by itself. The MoD log does not give enough detail to connect the reports to aircraft, training flights or any particular airfield activity. But Newtownards is not an isolated dark-sky location with no aviation context. For any serious assessment of future or better-documented sightings there, aircraft movements, light aircraft activity, drones, air displays, lanterns, bright planets and weather conditions would all need to be checked before treating a report as anomalous.
 
@@ -312,23 +312,23 @@ That does not explain the 2008 “A UFO” entries by itself. The MoD log does n
 
 The key distinction is between **a recorded sighting report** and **a verified unexplained event**. The Downpatrick, Saintfield and Newtownards material clearly proves that people reported unusual things in this part of County Down. It does not prove that a single object, route or phenomenon repeatedly appeared.
 
-The Ministry of Defence lists are especially useful because they preserve otherwise fleeting reports. GOV.UK identifies the 1997 to 2009 material as UFO report lists containing dates, times, locations and brief sighting descriptions. The National Archives’ UFO collection also shows how varied the MoD files are, ranging from policy correspondence to reports of unusual lights, alleged encounters and public communications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Ministry of Defence lists are especially useful because they preserve otherwise fleeting reports. GOV.UK identifies the 1997 to 2009 material as UFO report lists containing dates, times, locations and brief sighting descriptions. The National Archives’ UFO collection also shows how varied the MoD files are, ranging from policy correspondence to reports of unusual lights, alleged encounters and public communications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The weakness is built into the format. A table entry such as “A UFO” is a record of a message, not a full case file. It does not tell us whether the witness was experienced, whether multiple people saw the same thing, whether radar or air traffic control was consulted, whether the object behaved unusually, or whether the report was later reclassified. The same applies, in a different way, to the PSNI-era reports: the 2021 Downpatrick and Saintfield claims are more vivid in wording, but the public accounts still lack the technical detail needed for a confident judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+The weakness is built into the format. A table entry such as “A UFO” is a record of a message, not a full case file. It does not tell us whether the witness was experienced, whether multiple people saw the same thing, whether radar or air traffic control was consulted, whether the object behaved unusually, or whether the report was later reclassified. The same applies, in a different way, to the PSNI-era reports: the 2021 Downpatrick and Saintfield claims are more vivid in wording, but the public accounts still lack the technical detail needed for a confident judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
-The later official position also affects how these cases should be read. The UK Ministry of Defence ceased investigating UFO or UAP reports in 2009, and a 2024 parliamentary answer stated that the department had not classified new material on the subject since then and had no current plan for a dedicated investigative team. That means modern Northern Ireland reports may be logged by police or reported through media, but they do not automatically enter the older MoD-style UFO investigation process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The later official position also affects how these cases should be read. The UK Ministry of Defence ceased investigating UFO or UAP reports in 2009, and a 2024 parliamentary answer stated that the department had not classified new material on the subject since then and had no current plan for a dedicated investigative team. That means modern Northern Ireland reports may be logged by police or reported through media, but they do not automatically enter the older MoD-style UFO investigation process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-2-dark.svg" | relative_url }}" alt="Sightings Cluster illustration 2" data-theme-src-dark="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Plausible explanations and unresolved gaps
 
-The most cautious reading is that this is a reporting cluster, not a proven UFO hotspot. Several ordinary explanations could fit parts of the material, but none can be assigned confidently without more detail.
+The most cautious reading is that this is a reporting cluster, not a proven UFO hotspot. Several ordinary explanations could fit parts of the material, but none can be assigned confidently without.
 
-For Downpatrick, “flashing lights” could suggest aircraft, drones, emergency activity, distant vehicles on elevated roads, reflections, or a celestial object seen under unusual conditions. The phrase “spaceship” tells us how the witness or report characterised it, but not what it objectively was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
+For Downpatrick, “flashing lights” could suggest aircraft, drones, emergency activity, distant vehicles on elevated roads, reflections, or a celestial object seen under unusual conditions. The phrase “spaceship” tells us how the witness or report characterised it, but not what it objectively was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span>
 
-For Saintfield, a dome-shaped object with eight lights could reflect one structured object, but it could also arise from a line or pattern of lights being visually grouped by the observer. Drones, aircraft seen at odd angles, illuminated balloons, lanterns, reflections on glass, or lights on low cloud are all possibilities in principle. The problem is that the public record does not supply the practical details needed to test those explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">unexplained sightings northern ireland ufo 5640611 Dec2021</span><span class="citation-popover-snippet">unexplained sightings northern ireland ufo 5640611 Dec2021</span></span></span>
+For Saintfield, a dome-shaped object with eight lights could reflect one structured object, but it could also arise from a line or pattern of lights being visually grouped by the observer. Drones, aircraft seen at odd angles, illuminated balloons, lanterns, reflections on glass, or lights on low cloud are all possibilities in principle. The problem is that the public record does not supply the practical details needed to test those explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">unexplained sightings northern ireland ufo 5640611 Dec2021</span><span class="citation-popover-snippet">unexplained sightings northern ireland ufo 5640611 Dec2021</span></span></span>
 
-For Newtownards, the repeated 2008 entries are impossible to explain from the published wording alone because the description is simply “A UFO”. The aviation setting makes conventional checks especially important, but the MoD list does not say what checks, if any, were made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+For Newtownards, the repeated 2008 entries are impossible to explain from the published wording alone because the description is simply “A UFO”. The aviation setting makes conventional checks especially important, but the MoD list does not say what checks, if any, were made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 The most honest classification is therefore mixed:
 
@@ -350,7 +350,7 @@ That does not make the cluster worthless. It makes it useful in a different way:
 
 This cluster matters because it shows County Down’s UFO history at its normal scale. The county’s record is not built mainly from spectacular, heavily investigated incidents. It is built from brief entries, local press summaries, police database mentions and the occasional striking description. Downpatrick, Saintfield and Newtownards sit neatly inside that pattern.
 
-Newtownards gives the historical anchor through the MoD archive. Downpatrick and Saintfield show that after the MoD UFO desk closed, people in County Down and wider Northern Ireland still reported unusual aerial experiences to police. The shift from MoD logs to PSNI mentions is important: it changes the kind of record available to the public. Older entries may be dry and tabular, while later ones may appear through Freedom of Information responses and news reports rather than through a central defence archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+Newtownards gives the historical anchor through the MoD archive. Downpatrick and Saintfield show that after the MoD UFO desk closed, people in County Down and wider Northern Ireland still reported unusual aerial experiences to police. The shift from MoD logs to PSNI mentions is important: it changes the kind of record available to the public. Older entries may be dry and tabular, while later ones may appear through Freedom of Information responses and news reports rather than through a central defence archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 The cluster also helps prevent overclaiming. A “hotspot” sounds like a place where unusual objects repeatedly appear under well-documented conditions. The evidence here supports a softer claim: this area of County Down has produced multiple recorded reports across time, but the reports are scattered, uneven and mostly under-described. That is still historically meaningful. It tells us where people reported unusual sightings, how institutions recorded them, and why many local UFO cases remain unresolved mainly because the surviving information is too thin.
 
@@ -361,7 +361,7 @@ The cluster also helps prevent overclaiming. A “hotspot” sounds like a place
 
 Downpatrick, Saintfield and Newtownards form a credible local sighting cluster only if “cluster” means repeated reports in a shared county setting. They do not amount to a proven UFO corridor, a confirmed flap, or a single recurring phenomenon.
 
-The best evidence is documentary: MoD list entries for Newtownards in 2008 and PSNI-linked reporting for Downpatrick and Saintfield in 2021. The main doubts are equally clear: lack of named witnesses in the public accounts, lack of precise viewing data, no published investigation for the 2021 police reports, and MoD descriptions too short to assess in the Newtownards cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+The best evidence is documentary: MoD list entries for Newtownards in 2008 and PSNI-linked reporting for Downpatrick and Saintfield in 2021. The main doubts are equally clear: lack of named witnesses in the public accounts, lack of precise viewing data, no published investigation for the 2021 police reports, and MoD descriptions too short to assess in the Newtownards cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 The most useful way to read the cluster is not as proof of extraordinary visitors, but as a compact example of County Down’s wider UFO pattern. Local people saw or believed they saw unusual things; some reports reached official systems; the records survived; and later readers are left with suggestive fragments rather than decisive answers. That makes the cluster historically interesting, but evidentially modest.
 
@@ -369,194 +369,194 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
 <img src="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-3-dark.svg" | relative_url }}" alt="Sightings Cluster illustration 3" data-theme-src-dark="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Down_8f4eb4_down_sighting_cluste_319ef7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is There a County Down UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is There a County Down UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful broader reading on credible reporting and official engagement with sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful broader reading on credible reporting and official engagement with sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFOs that Never Were on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vTt_PQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFOs that Never Were" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFOs that Never Were">The UFOs that Never Were</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Andy Roberts et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFOs that Never Were on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vTt_PQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFOs that Never Were" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFOs that Never Were">The UFOs that Never Were</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Andy Roberts et al.</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s cautious treatment of clusters, repetition, and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s cautious treatment of clusters, repetition, and unresolved sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly relates to official records, local sightings, and the limits of short report entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to official records, local sightings, and the limits of short report entries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits the page&#x27;s question of whether repeated local reports amount to a hotspot.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page&#x27;s question of whether repeated local reports amount to a hotspot.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFOs that Never Were</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFOs that Never Were</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sightings-cluster-is-there-a-county-down-ufo-hotspot-county-down-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-there-a-county-down-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,216 +762,216 @@ The most useful way to read the cluster is not as proof of extraordinary visitor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thejournal.ie  
    Title: unexplained sightings northern ireland ufo 5640611 Dec2021  
-   Link: <a href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/</a>  
+   Link:<a href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Downpatrick | Saint Patrick's City, Ancient Capital,  
-   Link: <a href="https://www.britannica.com/place/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Downpatrick</a>  
+   Link:<a href="https://www.britannica.com/place/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Downpatrick</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discoversaintfield.com  
-   Link: <a href="https://discoversaintfield.com/about-saintfield/" target="_blank" rel="noopener noreferrer nofollow">https://discoversaintfield.com/about-saintfield/</a>  
+   Link:<a href="https://discoversaintfield.com/about-saintfield/" target="_blank" rel="noopener noreferrer nofollow">https://discoversaintfield.com/about-saintfield/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79ff09e5274a34770e3813/27th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79ff09e5274a34770e3813/27th_Round_Irish_Sea_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79ff09e5274a34770e3813/27th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79ff09e5274a34770e3813/27th_Round_Irish_Sea_Blocks_AA.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 2026 04 16 Worker and Temporary Worker.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/69e0a5e520b52e41448688be/2026-04-16_-_Worker_and_Temporary_Worker.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/69e0a5e520b52e41448688be/2026-04-16_-_Worker_and_Temporary_Worker.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/69e0a5e520b52e41448688be/2026-04-16_-_Worker_and_Temporary_Worker.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/69e0a5e520b52e41448688be/2026-04-16_-_Worker_and_Temporary_Worker.csv</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 26th Round Irish Sea Blocks AA  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7a1b2640f0b66a2fbffef5/26th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a1b2640f0b66a2fbffef5/26th_Round_Irish_Sea_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7a1b2640f0b66a2fbffef5/26th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a1b2640f0b66a2fbffef5/26th_Round_Irish_Sea_Blocks_AA.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Press Gazette Submission  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/browse/Cities-Towns-C-G/11" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/browse/Cities-Towns-C-G/11</a>  
+   Link:<a href="https://www.britannica.com/browse/Cities-Towns-C-G/11" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/browse/Cities-Towns-C-G/11</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: find-and-update.company-information.service.gov.uk  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/NI004971/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/NI004971/officers</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/NI004971/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/NI004971/officers</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ardsandnorthdown.gov.uk  
    Title: Armed Forces Day Lands at Ards Airfield  
-   Link: <a href="https://www.ardsandnorthdown.gov.uk/article/2566/Armed-Forces-Day-Lands-at-Ards-Airfield" target="_blank" rel="noopener noreferrer nofollow">https://www.ardsandnorthdown.gov.uk/article/2566/Armed-Forces-Day-Lands-at-Ards-Airfield</a>  
+   Link:<a href="https://www.ardsandnorthdown.gov.uk/article/2566/Armed-Forces-Day-Lands-at-Ards-Airfield" target="_blank" rel="noopener noreferrer nofollow">https://www.ardsandnorthdown.gov.uk/article/2566/Armed-Forces-Day-Lands-at-Ards-Airfield</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: The Guardian'Aliens in bedroom': UFO sightings on the rise in Northern  
-   Link: <a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
+   Link:<a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
    Title: unty Down  
-   Link: <a href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Down</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Down</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: visitardsandnorthdown.com  
    Title: Ards & North Down Newtownards Airfield  
-   Link: <a href="https://www.visitardsandnorthdown.com/things-to-do/attractions-and-activities/newtownards-airfield" target="_blank" rel="noopener noreferrer nofollow">https://www.visitardsandnorthdown.com/things-to-do/attractions-and-activities/newtownards-airfield</a>  
+   Link:<a href="https://www.visitardsandnorthdown.com/things-to-do/attractions-and-activities/newtownards-airfield" target="_blank" rel="noopener noreferrer nofollow">https://www.visitardsandnorthdown.com/things-to-do/attractions-and-activities/newtownards-airfield</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Saintfield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saintfield</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Saintfield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saintfield</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Downpatrick</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Downpatrick</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: County Down  
-   Link: <a href="https://en.wikipedia.org/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Down</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Down</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Northern_Ireland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Northern_Ireland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Northern_Ireland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Northern_Ireland</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/lookup/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/lookup/</a>  
+   Link:<a href="https://wikishire.co.uk/lookup/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/lookup/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Downpatrick</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Downpatrick</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: visitardsandnorthdown.com  
    Title: Ulster Flying Club  
-   Link: <a href="https://www.visitardsandnorthdown.com/things-to-do/ulster-flying-club-p681331" target="_blank" rel="noopener noreferrer nofollow">https://www.visitardsandnorthdown.com/things-to-do/ulster-flying-club-p681331</a>  
+   Link:<a href="https://www.visitardsandnorthdown.com/things-to-do/ulster-flying-club-p681331" target="_blank" rel="noopener noreferrer nofollow">https://www.visitardsandnorthdown.com/things-to-do/ulster-flying-club-p681331</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Rise in unexplained sightings in skies across Northern Ireland  
-   Link: <a href="https://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4F6AoeMyps0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UTV Live Feature - UFOs over Bangor, County Down...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4F6AoeMyps0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTV Live Feature - UFOs over Bangor, County Down...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: UTV Live Feature  
-   Link: <a href="https://www.youtube.com/watch?v=EAXC97qA32M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAXC97qA32M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EAXC97qA32M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAXC97qA32M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: republicworld.com  
-   Link: <a href="https://www.republicworld.com/world-news/aliens-in-bedroom-to-strange-cctv-images-northern-ireland-reports-bizarre-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.republicworld.com/world-news/aliens-in-bedroom-to-strange-cctv-images-northern-ireland-reports-bizarre-sightings</a>  
+   Link:<a href="https://www.republicworld.com/world-news/aliens-in-bedroom-to-strange-cctv-images-northern-ireland-reports-bizarre-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.republicworld.com/world-news/aliens-in-bedroom-to-strange-cctv-images-northern-ireland-reports-bizarre-sightings</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/county_down/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_down/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/county_down/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_down/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: irishtourism.com  
-   Link: <a href="https://www.irishtourism.com/downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtourism.com/downpatrick</a>  
+   Link:<a href="https://www.irishtourism.com/downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtourism.com/downpatrick</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/visions.ireland/posts/downpatrick-county-down-ireland/1657365507655840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visions.ireland/posts/downpatrick-county-down-ireland/1657365507655840/</a>  
+   Link:<a href="https://www.facebook.com/visions.ireland/posts/downpatrick-county-down-ireland/1657365507655840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visions.ireland/posts/downpatrick-county-down-ireland/1657365507655840/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: visitmournegullionstrangford.com  
-   Link: <a href="https://www.visitmournegullionstrangford.com/explore/cities-towns-and-villages/downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmournegullionstrangford.com/explore/cities-towns-and-villages/downpatrick</a>  
+   Link:<a href="https://www.visitmournegullionstrangford.com/explore/cities-towns-and-villages/downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmournegullionstrangford.com/explore/cities-towns-and-villages/downpatrick</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/belfastnewsletter/posts/from-a-silent-flying-object-making-its-way-towards-the-belfast-docks-to-suspicio/1147803624014966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/belfastnewsletter/posts/from-a-silent-flying-object-making-its-way-towards-the-belfast-docks-to-suspicio/1147803624014966/</a>  
+   Link:<a href="https://www.facebook.com/belfastnewsletter/posts/from-a-silent-flying-object-making-its-way-towards-the-belfast-docks-to-suspicio/1147803624014966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/belfastnewsletter/posts/from-a-silent-flying-object-making-its-way-towards-the-belfast-docks-to-suspicio/1147803624014966/</a>  

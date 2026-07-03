@@ -254,7 +254,7 @@ image: /assets/images/Lancashire_07656d_mod_lancashire_files_08a221-overview-soc
 
 ## Introduction
 
-The Ministry of Defence UFO files on [Lancashire]({{ 'what-did-lancashire-witnesses-really-see/' | relative_url }}) prove one important thing: reports from the county did reach official channels. They do not prove that the objects were alien craft, experimental aircraft, or even physically unusual. The published MoD tables are mostly brief logs: date, time, place, reporter occupation where known, and a short description. That makes them valuable as evidence of reporting patterns, but weak as evidence for extraordinary conclusions. GOV.UK describes the released material as UK UFO reports from 1997 to 2009, showing dates, times, locations and brief sighting descriptions, not as confirmed case solutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence UFO files on [Lancashire]({{ 'what-did-lancashire-witnesses-really-see/' | relative_url }}) prove one important thing: reports from the county did reach official channels. They do not prove that the objects were alien craft, experimental aircraft, or even physically unusual. The published MoD tables are mostly brief logs: date, time, place, reporter occupation where known, and a short description. That makes them valuable as evidence of reporting patterns, but weak as evidence for extraordinary conclusions. GOV.UK describes the released material as UK UFO reports from 1997 to 2009, showing dates, times, locations and brief sighting descriptions, not as confirmed case solutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-overview.webp" | relative_url }}" alt="Overview image for Mo D Files" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,11 +262,11 @@ For Lancashire, the most useful entries are clustered around places such as Burn
 
 ## Why the MoD tables matter for Lancashire
 
-The Lancashire entries sit inside a national record-keeping system that was never designed to prove every reported object. The National Archives explains that MoD UFO records go back to the 1960s and that most describe shapes, lights and flashes, often explainable, while a smaller number are more unusual. It also notes that many early reports were letters or phone calls from the public, sometimes from military sources, and that common explanations in the files included Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The Lancashire entries sit inside a national record-keeping system that was never designed to prove every reported object. The National Archives explains that MoD UFO records go back to the 1960s and that most describe shapes, lights and flashes, often explainable, while a smaller number are more unusual. It also notes that many early reports were letters or phone calls from the public, sometimes from military sources, and that common explanations in the files included Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-That framing is essential for reading the Lancashire material. A report appearing in an MoD table means the sighting was logged by the state; it does not mean the state verified the witness’s interpretation. In many cases the tables preserve only the first report, not the investigation a reader might expect from a police file or an air-accident inquiry. The National Archives is explicit that later files usually contain one-off sightings and that most reports concern lights rather than a clear craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+That framing is essential for reading the Lancashire material. A report appearing in an MoD table means the sighting was logged by the state; it does not mean the state verified the witness’s interpretation. In many cases the tables preserve only the first report, not the investigation a reader might expect from a police file or an air-accident inquiry. The National Archives is explicit that later files usually contain one-off sightings and that most reports concern lights rather than a clear craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The county boundary issue also matters. This page treats Lancashire in the historic-county sense used by the wider county-map project, while recognising that official and media records often use modern administrative names. Britannica notes that Lancashire’s administrative, geographic and historic counties occupy “somewhat different areas”; the historic county includes places now associated with Greater Manchester, Merseyside and Cumbria, while modern administrative Lancashire is narrower. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span><span class="citation-popover-snippet">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span></span></span> This is why older or official records can complicate searches: a table entry marked “Lancashire” may not always match a modern county-council map, and a place historically associated with Lancashire may appear today under a different administrative heading.
+The county boundary issue also matters. This page treats Lancashire in the historic-county sense used by the wider county-map project, while recognising that official and media records often use modern administrative names. Britannica notes that Lancashire’s administrative, geographic and historic counties occupy “somewhat different areas”; the historic county includes places now associated with Greater Manchester, Merseyside and Cumbria, while modern administrative Lancashire is narrower.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span><span class="citation-popover-snippet">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span></span></span> This is why older or official records can complicate searches: a table entry marked “Lancashire” may not always match a modern county-council map, and a place historically associated with Lancashire may appear today under a different administrative heading.
 
 
 <img src="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Files illustration 1" data-theme-src-dark="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -274,20 +274,20 @@ The county boundary issue also matters. This page treats Lancashire in the histo
 
 Lancashire’s MoD entries are not all equally useful. The strongest ones are not “strong” because they prove something exotic, but because they give concrete locations, dates and descriptions that can be compared with weather, aircraft activity, astronomy and local reporting.
 
-In the 1999 MoD table, Burnley appears in a February entry describing a “disc with lights” that was hovering. The same table includes a nearby sequence of short reports in which other objects are described as bright lights, discs or objects with flashing lights, and one Chingford entry is explicitly caveated as possibly an advertising balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> For Lancashire UFO history, the Burnley item is memorable because it uses the classic language of a “disc”, but its evidential value is limited by the absence of duration, direction, witness count, photographs, radar data or a recorded explanation.
+In the 1999 MoD table, Burnley appears in a February entry describing a “disc with lights” that was hovering. The same table includes a nearby sequence of short reports in which other objects are described as bright lights, discs or objects with flashing lights, and one Chingford entry is explicitly caveated as possibly an advertising balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> For Lancashire UFO history, the Burnley item is memorable because it uses the classic language of a “disc”, but its evidential value is limited by the absence of duration, direction, witness count, photographs, radar data or a recorded explanation.
 
-The 2009 MoD table gives several clearer Lancashire anchors. On 8 January 2009, Blackpool is listed with a report of a green light with a white light on the outer rim, said to have flown over hills and disappeared after passing a motorway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> On 4 January 2009, Haslingden/Rossendale appears with “four or more moving bright solid orange lights”, followed by eight similar objects rising vertically over the side of a valley and making no sound; the same screenshoted table page shows how such reports were recorded in compact spreadsheet form rather than as full narrative investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 MoD table gives several clearer Lancashire anchors. On 8 January 2009, Blackpool is listed with a report of a green light with a white light on the outer rim, said to have flown over hills and disappeared after passing a motorway.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> On 4 January 2009, Haslingden/Rossendale appears with “four or more moving bright solid orange lights”, followed by eight similar objects rising vertically over the side of a valley and making no sound; the same screenshoted table page shows how such reports were recorded in compact spreadsheet form rather than as full narrative investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-Rossendale appears again on 6 February 2009, this time with a “blue and purple flashing light over the moors for 30 minutes”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That entry is useful because it names the moorland setting and gives a duration, but it still leaves major questions unanswered: exactly where was the witness standing, what was the bearing, how high did the light appear, was it stationary or moving, and were any aircraft, emergency vehicles, astronomical objects or ground lights checked? The table does not say.
+Rossendale appears again on 6 February 2009, this time with a “blue and purple flashing light over the moors for 30 minutes”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That entry is useful because it names the moorland setting and gives a duration, but it still leaves major questions unanswered: exactly where was the witness standing, what was the bearing, how high did the light appear, was it stationary or moving, and were any aircraft, emergency vehicles, astronomical objects or ground lights checked? The table does not say.
 
-Preston is more frustrating. Later summaries of the MoD data often include Preston among Lancashire’s reported locations, but the official tables are sparse at the individual-entry level. A local 2023 LancsLive report, using a modern UFO-spotting website rather than MoD records, shows that Blackpool, Preston, Chorley, Leyland, Blackburn, Burnley and Cleveleys continued to appear in public sighting claims between January 2021 and May 2023. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancs.live">[lancs.live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancs.live</span><span class="citation-popover-title">Lancashire UFO sightings mapped as sightings reported</span><span class="citation-popover-snippet">Lancashire UFO sightings mapped as sightings reported</span></span></span> That later material helps show continuity in local reporting culture, but it should not be blended carelessly with the MoD files. The MoD tables are official logs; modern website maps are public-submitted datasets with different standards and different weaknesses.
+Preston is more frustrating. Later summaries of the MoD data often include Preston among Lancashire’s reported locations, but the official tables are sparse at the individual-entry level. A local 2023 LancsLive report, using a modern UFO-spotting website rather than MoD records, shows that Blackpool, Preston, Chorley, Leyland, Blackburn, Burnley and Cleveleys continued to appear in public sighting claims between January 2021 and May 2023.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancs.live">[lancs.live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancs.live</span><span class="citation-popover-title">Lancashire UFO sightings mapped as sightings reported</span><span class="citation-popover-snippet">Lancashire UFO sightings mapped as sightings reported</span></span></span> That later material helps show continuity in local reporting culture, but it should not be blended carelessly with the MoD files. The MoD tables are official logs; modern website maps are public-submitted datasets with different standards and different weaknesses.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## What the MoD recorded and what it left out
 
-The MoD tables are best read as a triage record. They capture enough to show that a report existed, but often not enough to decide what was seen. GOV.UK’s own description of the dataset is modest: the documents show dates, times, locations and brief descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That modesty is important, because a one-line entry can look more dramatic when detached from the limitations of the form.
+The MoD tables are best read as a triage record. They capture enough to show that a report existed, but often not enough to decide what was seen. GOV.UK’s own description of the dataset is modest: the documents show dates, times, locations and brief descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That modesty is important, because a one-line entry can look more dramatic when detached from the limitations of the form.
 
 For Lancashire readers, the most common missing pieces are the ones that would turn a curious entry into a testable case:
 
@@ -308,11 +308,11 @@ This does not make the files worthless. It makes them a particular kind of evide
 <img src="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Files illustration 2" data-theme-src-dark="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official files are not official confirmation
 
-A common misunderstanding is that “in the MoD files” means “confirmed by the MoD”. The released records do not support that reading. The National Archives notes that reports often involved ordinary lights or shapes, and that many could be explained by conventional causes such as Venus, aircraft, balloons or satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> The Lancashire entries fit that pattern: the descriptions are often vivid, but the records are not case files with a final verdict.
+A common misunderstanding is that “in the MoD files” means “confirmed by the MoD”. The released records do not support that reading. The National Archives notes that reports often involved ordinary lights or shapes, and that many could be explained by conventional causes such as Venus, aircraft, balloons or satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> The Lancashire entries fit that pattern: the descriptions are often vivid, but the records are not case files with a final verdict.
 
-The closure of the MoD UFO desk reinforces this point. A National Archives press release on the final tranche of files states that the desk received more than 600 sightings and reports in 2009, treble the previous year, but that the work was judged to “serve no defence purpose”. It also records that ministers were told that more than 50 years of reports had produced no evidence of extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The closure of the MoD UFO desk reinforces this point. A National Archives press release on the final tranche of files states that the desk received more than 600 sightings and reports in 2009, treble the previous year, but that the work was judged to “serve no defence purpose”. It also records that ministers were told that more than 50 years of reports had produced no evidence of extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Parliamentary discussion after the desk closed says the same thing in more current language. In 2021, Baroness Goldie told the House of Lords that the MoD held no reports on unidentified aerial phenomena, that relevant UFO-desk material had been passed to The National Archives, and that the department focused on actual threats substantiated by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span> She also said the MoD had no plans to conduct its own UAP report because over more than 50 years no such reporting had indicated a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
+Parliamentary discussion after the desk closed says the same thing in more current language. In 2021, Baroness Goldie told the House of Lords that the MoD held no reports on unidentified aerial phenomena, that relevant UFO-desk material had been passed to The National Archives, and that the department focused on actual threats substantiated by evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span> She also said the MoD had no plans to conduct its own UAP report because over more than 50 years no such reporting had indicated a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
 
 That does not mean every Lancashire report was “solved”. It means the MoD’s threshold was defence significance, not public curiosity. A light could remain unidentified in a table because the data was too thin, because no defence concern was apparent, or because no further inquiry was considered worthwhile. “Unidentified” in this setting often means “not identified from the information supplied”, not “shown to be unknown technology”.
 
@@ -321,11 +321,11 @@ That does not mean every Lancashire report was “solved”. It means the MoD’
 
 ## The most likely explanation pattern
 
-The Lancashire entries fall into patterns familiar across the wider UK files. Orange lights moving silently in groups are consistent with reports often associated with lanterns, flares or other illuminated objects, although an individual case should not be labelled without checking the circumstances. The National Archives notes that occasional events produced multiple reports nationally, including advertising airships and satellite re-entries, and that most reports were lights rather than clear craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The Lancashire entries fall into patterns familiar across the wider UK files. Orange lights moving silently in groups are consistent with reports often associated with lanterns, flares or other illuminated objects, although an individual case should not be labelled without checking the circumstances. The National Archives notes that occasional events produced multiple reports nationally, including advertising airships and satellite re-entries, and that most reports were lights rather than clear craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 The Blackpool and Rossendale examples show why local geography can make reports feel stranger. A light seen over hills, moors or a motorway can appear to change speed or height as it crosses a ridgeline or disappears behind terrain. A stationary astronomical object can seem to hover over a landmark. Aircraft approaching or turning can show unusual colour combinations depending on angle, weather and distance. None of those possibilities proves a given Lancashire sighting mundane, but they are the first checks a serious reading should make.
 
-There is also a social pattern. Local reporting did not stop with the closure of the MoD desk. LancsLive reported nearly 30 Lancashire sightings in a public UFO-spotting dataset between January 2021 and May 2023, including claims from Blackpool, Preston, Chorley, Leyland, Blackburn, Burnley and Cleveleys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancs.live">[lancs.live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancs.live</span><span class="citation-popover-title">Lancashire UFO sightings mapped as sightings reported</span><span class="citation-popover-snippet">Lancashire UFO sightings mapped as sightings reported</span></span></span> The continuity is interesting, but it also underlines the need to separate official archival evidence from modern self-reported sightings. Both can map public experience; neither automatically confirms unusual craft.
+There is also a social pattern. Local reporting did not stop with the closure of the MoD desk. LancsLive reported nearly 30 Lancashire sightings in a public UFO-spotting dataset between January 2021 and May 2023, including claims from Blackpool, Preston, Chorley, Leyland, Blackburn, Burnley and Cleveleys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancs.live">[lancs.live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancs.live</span><span class="citation-popover-title">Lancashire UFO sightings mapped as sightings reported</span><span class="citation-popover-snippet">Lancashire UFO sightings mapped as sightings reported</span></span></span> The continuity is interesting, but it also underlines the need to separate official archival evidence from modern self-reported sightings. Both can map public experience; neither automatically confirms unusual craft.
 
 
 <img src="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-3-dark.svg" | relative_url }}" alt="Mo D Files illustration 3" data-theme-src-dark="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lancashire_07656d_mod_lancashire_files_08a221-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,194 +342,194 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Lancashire&#x27;s Mo D UFO Files Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Lancashire&#x27;s Mo D UFO Files Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are classified and assessed, useful for interpreting Lancashire reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are classified and assessed, useful for interpreting Lancashire reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances witness reports, official records, and skepticism in a way that matches the Lancashire evidence-focused approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances witness reports, official records, and skepticism in a way that matches the Lancashire evidence-focused approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Niib0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little History of Lancashire">The Little History of Lancashire</a>
-        </h4>
-        <p class="fr-book-author">By HUGH. HOLLINGHURST</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Niib0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little History of Lancashire">The Little History of Lancashire</a>
+</h4>
+<p class="fr-book-author">By HUGH. HOLLINGHURST</p>
         
-        <p class="fr-book-desc">Explains the historic county’s extent and development, helping readers understand why older reports may use different Lancashire definiti...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the historic county’s extent and development, helping readers understand why older reports may use different Lancashire definiti...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z9AWAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Lancashire">A History of Lancashire</a>
-        </h4>
-        <p class="fr-book-author">By John Joseph Bagley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z9AWAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Lancashire">A History of Lancashire</a>
+</h4>
+<p class="fr-book-author">By John Joseph Bagley</p>
         
-        <p class="fr-book-desc">Provides deep context on Lancashire as a historic county and how its identity evolved over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides deep context on Lancashire as a historic county and how its identity evolved over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little History of Lancashire</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little History of Lancashire</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mo-d-files-5096d9-what-do-lancashire-s-mo-d-ufo-files-prove-lancashire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-lancashire-s-mod-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,190 +735,190 @@ Their public value is still real. They show how Lancashire fits into the UK’s 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Lancashire | England, Map, & History  
-   Link: <a href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lancashire-county-England</a>  
+   Link:<a href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lancashire-county-England</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lancs.live  
    Title: Lancashire UFO sightings mapped as sightings reported  
-   Link: <a href="https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788</a>  
+   Link:<a href="https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/lancashire-news/interactive-map-shows-lancashire-spots-27476788</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Press Gazette Submission  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lancs.live  
    Title: like chewy mint 49 ufo 19183651  
-   Link: <a href="https://www.lancs.live/news/lancashire-news/like-chewy-mint-49-ufo-19183651" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/lancashire-news/like-chewy-mint-49-ufo-19183651</a>  
+   Link:<a href="https://www.lancs.live/news/lancashire-news/like-chewy-mint-49-ufo-19183651" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/lancashire-news/like-chewy-mint-49-ufo-19183651</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/West-Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Lancashire</a>  
+   Link:<a href="https://www.britannica.com/place/West-Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Lancashire</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Preston-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Preston-England</a>  
+   Link:<a href="https://www.britannica.com/place/Preston-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Preston-England</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/summary/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Lancashire-county-England</a>  
+   Link:<a href="https://www.britannica.com/summary/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Lancashire-county-England</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: are.na  
-   Link: <a href="https://www.are.na/block/131556" target="_blank" rel="noopener noreferrer nofollow">https://www.are.na/block/131556</a>  
+   Link:<a href="https://www.are.na/block/131556" target="_blank" rel="noopener noreferrer nofollow">https://www.are.na/block/131556</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lancashire.gov.uk  
-   Link: <a href="https://www.lancashire.gov.uk/lancashire-insight/geographies-of-lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/lancashire-insight/geographies-of-lancashire/</a>  
+   Link:<a href="https://www.lancashire.gov.uk/lancashire-insight/geographies-of-lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/lancashire-insight/geographies-of-lancashire/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/384926985723985/posts/859666621583350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/859666621583350/</a>  
+   Link:<a href="https://www.facebook.com/groups/384926985723985/posts/859666621583350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/859666621583350/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lancashire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lancashire</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lancashire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lancashire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lancashire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lancashire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: lan-opc.org.uk  
-   Link: <a href="https://www.lan-opc.org.uk/Bolton-le-Moors/maps.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lan-opc.org.uk/Bolton-le-Moors/maps.html</a>  
+   Link:<a href="https://www.lan-opc.org.uk/Bolton-le-Moors/maps.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lan-opc.org.uk/Bolton-le-Moors/maps.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: baseview.uk  
    Title: Greater Manchester  
-   Link: <a href="https://www.baseview.uk/county/greater-manchester" target="_blank" rel="noopener noreferrer nofollow">https://www.baseview.uk/county/greater-manchester</a>  
+   Link:<a href="https://www.baseview.uk/county/greater-manchester" target="_blank" rel="noopener noreferrer nofollow">https://www.baseview.uk/county/greater-manchester</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Mo D Releases Secret UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=oaWnBgh4AVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oaWnBgh4AVQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Kill Him? The Strange Death of Zigmund Adamski | Shaun Ryder On UFOs | Episode 4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oaWnBgh4AVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oaWnBgh4AVQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Kill Him? The Strange Death of Zigmund Adamski | Shaun Ryder On UFOs | Episode 4...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/336409379770446/posts/7456697571074889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/336409379770446/posts/7456697571074889/</a>  
+   Link:<a href="https://www.facebook.com/groups/336409379770446/posts/7456697571074889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/336409379770446/posts/7456697571074889/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/is-greater-manchester-really-a-county-the-area-was-created-in-1974-as-part-of-lo/1244662024484029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/is-greater-manchester-really-a-county-the-area-was-created-in-1974-as-part-of-lo/1244662024484029/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/is-greater-manchester-really-a-county-the-area-was-created-in-1974-as-part-of-lo/1244662024484029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/is-greater-manchester-really-a-county-the-area-was-created-in-1974-as-part-of-lo/1244662024484029/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/lancashire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/lancashire/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: forl.co.uk  
-   Link: <a href="https://forl.co.uk/the-beginning-of-the-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://forl.co.uk/the-beginning-of-the-confusion/</a>  
+   Link:<a href="https://forl.co.uk/the-beginning-of-the-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://forl.co.uk/the-beginning-of-the-confusion/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/the-largest-lancashire-towns-include-accrington-ashton-u-lyne-barrow-in-furness-/1024770146473219/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-largest-lancashire-towns-include-accrington-ashton-u-lyne-barrow-in-furness-/1024770146473219/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/the-largest-lancashire-towns-include-accrington-ashton-u-lyne-barrow-in-furness-/1024770146473219/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-largest-lancashire-towns-include-accrington-ashton-u-lyne-barrow-in-furness-/1024770146473219/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/blackpoolgazette/posts/there-have-been-77-recorded-ufo-sightings-in-lancashire-making-it-one-of-the-uks/10163327906815898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/blackpoolgazette/posts/there-have-been-77-recorded-ufo-sightings-in-lancashire-making-it-one-of-the-uks/10163327906815898/</a>  
+   Link:<a href="https://www.facebook.com/blackpoolgazette/posts/there-have-been-77-recorded-ufo-sightings-in-lancashire-making-it-one-of-the-uks/10163327906815898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/blackpoolgazette/posts/there-have-been-77-recorded-ufo-sightings-in-lancashire-making-it-one-of-the-uks/10163327906815898/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lancslive/posts/this-ufo-was-spotted-in-the-skies-above-rossendale-earlier-this-yearbut-if-the-d/674598564688992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lancslive/posts/this-ufo-was-spotted-in-the-skies-above-rossendale-earlier-this-yearbut-if-the-d/674598564688992/</a>  
+   Link:<a href="https://www.facebook.com/lancslive/posts/this-ufo-was-spotted-in-the-skies-above-rossendale-earlier-this-yearbut-if-the-d/674598564688992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lancslive/posts/this-ufo-was-spotted-in-the-skies-above-rossendale-earlier-this-yearbut-if-the-d/674598564688992/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: tntmagazine.com  
    Title: uk government allow public access to ministry of defence ufo reports archive  
-   Link: <a href="https://www.tntmagazine.com/archive/uk-government-allow-public-access-to-ministry-of-defence-ufo-reports-archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/uk-government-allow-public-access-to-ministry-of-defence-ufo-reports-archive/</a>  
+   Link:<a href="https://www.tntmagazine.com/archive/uk-government-allow-public-access-to-ministry-of-defence-ufo-reports-archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/uk-government-allow-public-access-to-ministry-of-defence-ufo-reports-archive/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
    Published: February 2010  

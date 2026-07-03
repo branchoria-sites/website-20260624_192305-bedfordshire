@@ -248,22 +248,22 @@ image: /assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-overview-soc
 
 ## Introduction
 
-Burgh Marsh matters to [Cumberland]({{ 'what-really-happened-in-cumberlands-ufo/' | relative_url }})’s UFO history because it gave the Solway Spaceman photograph a landscape that already felt cinematic: a wide, tidal saltmarsh on the edge of England and Scotland, close to Carlisle, Hadrian’s Wall country and Cold War missile testing associations. The famous image itself belongs to the wider Solway Spaceman case, but this page focuses on why the setting and later folklore made the story grow. The strongest evidence still supports a modest conclusion: Burgh Marsh helped turn an ambiguous family photograph into a durable local legend, not because the marsh proves an extraordinary event, but because its openness, borderland atmosphere, press appeal and missile-age associations gave the mystery room to expand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke+2National Landscapes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr David Clarke</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+Burgh Marsh matters to [Cumberland]({{ 'what-really-happened-in-cumberlands-ufo/' | relative_url }})’s UFO history because it gave the Solway Spaceman photograph a landscape that already felt cinematic: a wide, tidal saltmarsh on the edge of England and Scotland, close to Carlisle, Hadrian’s Wall country and Cold War missile testing associations. The famous image itself belongs to the wider Solway Spaceman case, but this page focuses on why the setting and later folklore made the story grow. The strongest evidence still supports a modest conclusion: Burgh Marsh helped turn an ambiguous family photograph into a durable local legend, not because the marsh proves an extraordinary event, but because its openness, borderland atmosphere, press appeal and missile-age associations gave the mystery room to expand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr David Clarke</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-overview.webp" | relative_url }}" alt="Overview image for Burgh Marsh" loading="eager" decoding="sync" fetchpriority="high">
-In historic-county terms, the story belongs to Cumberland’s Solway coast. Modern sources often describe the location as Cumbria, but Burgh by Sands sits in the old Cumberland frame used by this project, and Wikishire places the western end of Hadrian’s Wall at Burgh by Sands on the Solway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Cumberland</span><span class="citation-popover-snippet">Wikishire Cumberland</span></span></span>
+In historic-county terms, the story belongs to Cumberland’s Solway coast. Modern sources often describe the location as Cumbria, but Burgh by Sands sits in the old Cumberland frame used by this project, and Wikishire places the western end of Hadrian’s Wall at Burgh by Sands on the Solway.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Cumberland</span><span class="citation-popover-snippet">Wikishire Cumberland</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FkAjr4cJ6jI" title="The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FkAjr4cJ6jI" target="_blank" rel="noopener noreferrer">The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle.</a></p><p class="youtube-embed-meta">Channel: Very Nearly Interesting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FkAjr4cJ6jI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FkAjr4cJ6jI">Open on YouTube</a></p></div></div></div>
 
 ## The Solway coast as a dramatic setting
 
-Burgh Marsh is not just a backdrop in the Solway Spaceman story. It is one of the reasons the photograph became memorable. The scene is exposed, low and open, with long sightlines across the Solway Firth towards Dumfries and Galloway. National Landscapes describes the Solway Coast as “low, open, and windswept”, with wide views and a large intertidal range that creates a changing landscape of marsh, mudflat and seascape. That physical openness makes the photograph’s puzzle easier to imagine: a child in the foreground, a pale shape behind her, and a vast estuary setting that feels empty enough for people to ask, “Where did it come from?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://national-landscapes.org.uk/national-landscapes/solway-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: national-landscapes.org.uk">[National Landscapes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">national-landscapes.org.uk</span><span class="citation-popover-snippet">Open source on national-landscapes.org.uk.</span></span></span>
+Burgh Marsh is not just a backdrop in the Solway Spaceman story. It is one of the reasons the photograph became memorable. The scene is exposed, low and open, with long sightlines across the Solway Firth towards Dumfries and Galloway. National Landscapes describes the Solway Coast as “low, open, and windswept”, with wide views and a large intertidal range that creates a changing landscape of marsh, mudflat and seascape. That physical openness makes the photograph’s puzzle easier to imagine: a child in the foreground, a pale shape behind her, and a vast estuary setting that feels empty enough for people to ask, “Where did it come from?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://national-landscapes.org.uk/national-landscapes/solway-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: national-landscapes.org.uk">[National Landscapes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">national-landscapes.org.uk</span><span class="citation-popover-snippet">Open source on national-landscapes.org.uk.</span></span></span>
 
-The marsh also has a practical ambiguity that suits folklore. Burgh Marsh lies in a tidal environment; local wetland guidance warns that Solway marshes can be cut off by the rising tide. The Upper Solway Flats and Marshes are part of a cross-border protected site, and the wider Upper Solway is described as one of Britain’s major continuous intertidal habitats. This is not a neat, enclosed village green where every object and passer-by would be easy to account for. It is a shifting edge landscape, and that matters when a story depends on distance, exposure, weather, light and a possibly misread figure in a photograph. solwaywetlands.org.uk+2publications.naturalengland.org.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://solwaywetlands.org.uk/winter-birding-saltmarsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaywetlands.org.uk">[solwaywetlands.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaywetlands.org.uk</span><span class="citation-popover-title">Winter Birding on the Saltmarsh &#124; Solway Wetlands</span><span class="citation-popover-snippet">Winter Birding on the Saltmarsh &#124; Solway Wetlands</span></span></span>
+The marsh also has a practical ambiguity that suits folklore. Burgh Marsh lies in a tidal environment; local wetland guidance warns that Solway marshes can be cut off by the rising tide. The Upper Solway Flats and Marshes are part of a cross-border protected site, and the wider Upper Solway is described as one of Britain’s major continuous intertidal habitats. This is not a neat, enclosed village green where every object and passer-by would be easy to account for. It is a shifting edge landscape, and that matters when a story depends on distance, exposure, weather, light and a possibly misread figure in a photograph. solwaywetlands.org.uk+2publications.naturalengland.org.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://solwaywetlands.org.uk/winter-birding-saltmarsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaywetlands.org.uk">[solwaywetlands.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaywetlands.org.uk</span><span class="citation-popover-title">Winter Birding on the Saltmarsh &#124; Solway Wetlands</span><span class="citation-popover-snippet">Winter Birding on the Saltmarsh &#124; Solway Wetlands</span></span></span>
 
-There is also older historical weight at Burgh by Sands. The Solway Coast National Landscape notes that King Edward I died on Burgh Marsh in 1307 while preparing another campaign against Scotland, and that he had camped there because his army could cross towards Scotland at low tide. That does not make the Spaceman photograph more evidential, but it does show why the place already carried a borderland story before modern UFO culture reached it. Burgh Marsh was already a place of crossings, armies, tides and national edges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwaycoast-nl.org.uk/towns-and-villages/burgh-by-sands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaycoast-nl.org.uk">[solwaycoast-nl.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaycoast-nl.org.uk</span><span class="citation-popover-title">Burgh by Sands – Solway Coast National Landscape</span><span class="citation-popover-snippet">Burgh by Sands – Solway Coast National Landscape</span></span></span>
+There is also older historical weight at Burgh by Sands. The Solway Coast National Landscape notes that King Edward I died on Burgh Marsh in 1307 while preparing another campaign against Scotland, and that he had camped there because his army could cross towards Scotland at low tide. That does not make the Spaceman photograph more evidential, but it does show why the place already carried a borderland story before modern UFO culture reached it. Burgh Marsh was already a place of crossings, armies, tides and national edges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwaycoast-nl.org.uk/towns-and-villages/burgh-by-sands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaycoast-nl.org.uk">[solwaycoast-nl.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaycoast-nl.org.uk</span><span class="citation-popover-title">Burgh by Sands – Solway Coast National Landscape</span><span class="citation-popover-snippet">Burgh by Sands – Solway Coast National Landscape</span></span></span>
 
 That sense of place helps explain why the case has remained so portable. A puzzling image taken in an ordinary back garden might have become a curiosity. A puzzling image taken on a tidal border marsh, near the edge of England, in the age of rockets and surveillance, had more narrative power. The marsh made the incident feel both local and oddly international.
 
@@ -271,13 +271,13 @@ That sense of place helps explain why the case has remained so portable. A puzzl
 <img src="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-1-dark.svg" | relative_url }}" alt="Burgh Marsh illustration 1" data-theme-src-dark="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Blue Streak and Woomera claims in the story
 
-The Cold War element entered the Solway Spaceman legend through Blue Streak, Britain’s missile and space-launch programme. Blue Streak began as a ballistic missile project and was later adapted for satellite-launch work. Historic England lists a surviving Blue Streak rocket at RAF Spadeadam, describing it as a symbol of Britain’s Cold War independent nuclear deterrent and its superpower aspirations. The National Space Centre also notes that about 3,240 hectares of moorland in Cumbria were selected for the Spadeadam Rocket Establishment, where Blue Streak missiles were to be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1413245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-title">Historic England RAF Spadeadam: Blue Streak Rocket, Kingwater</span><span class="citation-popover-snippet">Historic England RAF Spadeadam: Blue Streak Rocket, Kingwater</span></span></span>
+The Cold War element entered the Solway Spaceman legend through Blue Streak, Britain’s missile and space-launch programme. Blue Streak began as a ballistic missile project and was later adapted for satellite-launch work. Historic England lists a surviving Blue Streak rocket at RAF Spadeadam, describing it as a symbol of Britain’s Cold War independent nuclear deterrent and its superpower aspirations. The National Space Centre also notes that about 3,240 hectares of moorland in Cumbria were selected for the Spadeadam Rocket Establishment, where Blue Streak missiles were to be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1413245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-title">Historic England RAF Spadeadam: Blue Streak Rocket, Kingwater</span><span class="citation-popover-snippet">Historic England RAF Spadeadam: Blue Streak Rocket, Kingwater</span></span></span>
 
-This matters because Spadeadam was close enough to the Solway story to encourage a connection in the public imagination. The National Space Centre’s account explicitly places Templeton’s Burgh Marsh outing “just a few miles away” from the Spadeadam Blue Streak test site, while explaining that Blue Streak’s launch work moved into the European Launcher Development Organisation context, with Woomera in South Australia as the launch site. The geography therefore created a tempting chain: Burgh Marsh, Spadeadam, Blue Streak, Woomera, rockets, security and the Space Race. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span><span class="citation-popover-snippet">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span></span></span>
+This matters because Spadeadam was close enough to the Solway story to encourage a connection in the public imagination. The National Space Centre’s account explicitly places Templeton’s Burgh Marsh outing “just a few miles away” from the Spadeadam Blue Streak test site, while explaining that Blue Streak’s launch work moved into the European Launcher Development Organisation context, with Woomera in South Australia as the launch site. The geography therefore created a tempting chain: Burgh Marsh, Spadeadam, Blue Streak, Woomera, rockets, security and the Space Race.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span><span class="citation-popover-snippet">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span></span></span>
 
-The folklore claim is more dramatic than the evidence. Later versions of the story say that a Blue Streak launch at Woomera was halted after figures resembling the Solway “spaceman” were seen on the firing range. David Clarke and Andy Roberts’ investigation treats that as a good example of how the case accumulated extra layers. Their account notes that letters in the National Archives referred to both the “Cumberland spaceman” and a mysterious object in rocket-launch film, but later Ministry of Defence inquiries found the supposedly missing film was not secret or missing: it was a British Pathé newsreel, with the object beside the rocket explained as a lens reflection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The folklore claim is more dramatic than the evidence. Later versions of the story say that a Blue Streak launch at Woomera was halted after figures resembling the Solway “spaceman” were seen on the firing range. David Clarke and Andy Roberts’ investigation treats that as a good example of how the case accumulated extra layers. Their account notes that letters in the National Archives referred to both the “Cumberland spaceman” and a mysterious object in rocket-launch film, but later Ministry of Defence inquiries found the supposedly missing film was not secret or missing: it was a British Pathé newsreel, with the object beside the rocket explained as a lens reflection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
-The timing also weakens the more dramatic version. Clarke’s account says there were aborted Woomera launch attempts before the 5 June 1964 test shown in the Pathé footage, but gives mundane reasons reported for those aborts: bad weather on 25 May and a systems fault on 2 June. It then concludes that there is no contemporaneous newspaper or official source proving that a “spaceman” figure was seen at Woomera, and no real evidence linking the Solway photograph to the rocket footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The timing also weakens the more dramatic version. Clarke’s account says there were aborted Woomera launch attempts before the 5 June 1964 test shown in the Pathé footage, but gives mundane reasons reported for those aborts: bad weather on 25 May and a systems fault on 2 June. It then concludes that there is no contemporaneous newspaper or official source proving that a “spaceman” figure was seen at Woomera, and no real evidence linking the Solway photograph to the rocket footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
 That does not make the Blue Streak strand irrelevant. It makes it revealing. The Woomera story shows how Cold War technology can act as a folklore amplifier. Once the Cumberland photograph was attached to a missile programme, the mystery no longer sat only on a local marsh. It seemed to reach into defence secrecy, international test ranges and government files. For UFO history, that mechanism is often more important than the literal claim.
 
@@ -286,13 +286,13 @@ That does not make the Blue Streak strand irrelevant. It makes it revealing. The
 
 ## How Men in Black claims changed the feel of the case
 
-The later “Men in Black” element also helped Burgh Marsh become more than a photographic puzzle. Templeton said that two men visited him at Carlisle fire station, dressed in black, driving a black Jaguar, and asked to be taken to the place where the photograph was taken. In Clarke and Roberts’ account, the men allegedly said they were from “the Ministry”, referred to each other by numbers, and abandoned Templeton after he told them he had not seen the figure at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The later “Men in Black” element also helped Burgh Marsh become more than a photographic puzzle. Templeton said that two men visited him at Carlisle fire station, dressed in black, driving a black Jaguar, and asked to be taken to the place where the photograph was taken. In Clarke and Roberts’ account, the men allegedly said they were from “the Ministry”, referred to each other by numbers, and abandoned Templeton after he told them he had not seen the figure at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
-As a story, this is powerful because it moves the mystery back onto the marsh. The photograph might have been a one-frame anomaly, but the claimed visit turned Burgh Marsh into a scene of investigation: two unidentified men, an official-sounding card, local place names they could not pronounce, and a return to the exact spot. It gave the legend a second act, one that sounded like surveillance or intimidation rather than a simple photographic mistake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+As a story, this is powerful because it moves the mystery back onto the marsh. The photograph might have been a one-frame anomaly, but the claimed visit turned Burgh Marsh into a scene of investigation: two unidentified men, an official-sounding card, local place names they could not pronounce, and a return to the exact spot. It gave the legend a second act, one that sounded like surveillance or intimidation rather than a simple photographic mistake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
-The problem is that the “Men in Black” claim is not well supported by independent evidence. Clarke’s account says the case became entangled with government-cover-up narratives and that fact and fantasy became difficult to separate. The Paris Review’s summary of Clarke’s National Archives work similarly notes that surviving RAF and Ministry of Defence files mentioning the Solway Spaceman do not identify the figure in the photograph or substantiate the more dramatic claims around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The problem is that the “Men in Black” claim is not well supported by independent evidence. Clarke’s account says the case became entangled with government-cover-up narratives and that fact and fantasy became difficult to separate. The Paris Review’s summary of Clarke’s National Archives work similarly notes that surviving RAF and Ministry of Defence files mentioning the Solway Spaceman do not identify the figure in the photograph or substantiate the more dramatic claims around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
-There is also a revealing contemporary doubt. Clarke reports that when journalists asked Carlisle police about the alleged security meeting, Detective Chief Inspector Stanley Armstrong said he knew nothing of it and had advised Templeton that he should have taken the car number and reported the incident. Templeton then reportedly played down the encounter, saying it looked like a leg-pull and that he was sure the men were not security agents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+There is also a revealing contemporary doubt. Clarke reports that when journalists asked Carlisle police about the alleged security meeting, Detective Chief Inspector Stanley Armstrong said he knew nothing of it and had advised Templeton that he should have taken the car number and reported the incident. Templeton then reportedly played down the encounter, saying it looked like a leg-pull and that he was sure the men were not security agents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
 For readers trying to assess the case, that distinction is important. The Men in Black strand is part of the folklore of Burgh Marsh, but it is not strong evidence that a government agency investigated an alien or unknown being. It is better understood as the kind of story that made the photograph more memorable after publication: a mystery that acquired official shadows even when the surviving record did not confirm them.
 
@@ -300,13 +300,13 @@ For readers trying to assess the case, that distinction is important. The Men in
 <img src="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-2-dark.svg" | relative_url }}" alt="Burgh Marsh illustration 2" data-theme-src-dark="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How place, press and folklore reinforced each other
 
-The Solway Spaceman story grew because several ingredients worked together. The first was the family-photo simplicity of the original claim: Carlisle firefighter Jim Templeton photographed his daughter on the Solway Marshes, then noticed the pale figure only after the film was developed. Clarke’s account begins with exactly that ordinary-to-strange transition: a keen amateur photographer, a child’s portrait and a shop assistant pointing out the “big fellow” in the processed image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The Solway Spaceman story grew because several ingredients worked together. The first was the family-photo simplicity of the original claim: Carlisle firefighter Jim Templeton photographed his daughter on the Solway Marshes, then noticed the pale figure only after the film was developed. Clarke’s account begins with exactly that ordinary-to-strange transition: a keen amateur photographer, a child’s portrait and a shop assistant pointing out the “big fellow” in the processed image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
-The second ingredient was press travel. The Paris Review’s account of Clarke’s National Archives material says the story appeared in The Cumberland News and was then republished as far away as Australia, with hundreds of letters arriving at the Templeton household. That wider circulation mattered because it brought the photograph into the same media world as spaceflight, Cold War anxieties and UFO speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theparisreview.org">[The Paris Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theparisreview.org</span><span class="citation-popover-title">The Paris Review UFO Drawings from the National Archives</span><span class="citation-popover-snippet">The Paris Review UFO Drawings from the National Archives</span></span></span>
+The second ingredient was press travel. The Paris Review’s account of Clarke’s National Archives material says the story appeared in The Cumberland News and was then republished as far away as Australia, with hundreds of letters arriving at the Templeton household. That wider circulation mattered because it brought the photograph into the same media world as spaceflight, Cold War anxieties and UFO speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theparisreview.org">[The Paris Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theparisreview.org</span><span class="citation-popover-title">The Paris Review UFO Drawings from the National Archives</span><span class="citation-popover-snippet">The Paris Review UFO Drawings from the National Archives</span></span></span>
 
 The third ingredient was the marsh itself. Burgh Marsh gave the press a setting that could be described in a sentence and pictured in the reader’s mind: wild scenery, open estuary, northern edge, child, flowers, white figure. In UFO folklore, a place often becomes part of the evidence even when it is not evidence in a technical sense. The Solway landscape made the story feel less like a studio trick and more like an encounter with an exposed, watchful horizon.
 
-The fourth ingredient was sceptical resistance. A story often lasts longer when it can be partly explained but not emotionally settled. Clarke’s later interpretation, reported in summaries of the case, is that the figure was probably Templeton’s wife, Annie, caught from behind and overexposed so that a pale blue dress appeared white. That explanation fits the photographic setting better than an exotic visitor, but it does not erase the cultural life of the image. It changes the case from “proof of a spaceman” into a study of how perception, family memory, press framing and place can create a lasting mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Solway Firth Spaceman</span><span class="citation-popover-snippet">Solway Firth Spaceman</span></span></span>
+The fourth ingredient was sceptical resistance. A story often lasts longer when it can be partly explained but not emotionally settled. Clarke’s later interpretation, reported in summaries of the case, is that the figure was probably Templeton’s wife, Annie, caught from behind and overexposed so that a pale blue dress appeared white. That explanation fits the photographic setting better than an exotic visitor, but it does not erase the cultural life of the image. It changes the case from “proof of a spaceman” into a study of how perception, family memory, press framing and place can create a lasting mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Solway Firth Spaceman</span><span class="citation-popover-snippet">Solway Firth Spaceman</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rAh048UuKRg" title="The Solway Spaceman Enigma - One Of Britain&#x27;s Most Mysterious Photographs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rAh048UuKRg" target="_blank" rel="noopener noreferrer">The Solway Spaceman Enigma - One Of Britain&#x27;s Most Mysterious Photographs</a></p><p class="youtube-embed-meta">Channel: Shrouded Hand</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rAh048UuKRg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rAh048UuKRg">Open on YouTube</a></p></div></div></div>
@@ -323,194 +323,194 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
 <img src="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-3-dark.svg" | relative_url }}" alt="Burgh Marsh illustration 3" data-theme-src-dark="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cumberland_f993d3_burgh_marsh_folklore_7aefeb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Burgh Marsh Made the Mystery Grow. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Burgh Marsh Made the Mystery Grow. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains how sightings become enduring legends through media, folklore and culture, matching the page&#x27;s focus on myth growth around Burgh...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings become enduring legends through media, folklore and culture, matching the page&#x27;s focus on myth growth around Burgh...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context for famous UK UFO cases and the interaction of reports, publicity and official narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for famous UK UFO cases and the interaction of reports, publicity and official narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0-HZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of the Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land">The Lore of the Land</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0-HZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of the Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land">The Lore of the Land</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-        <p class="fr-book-desc">Places local legends and landscape-based storytelling into a wider English folklore tradition relevant to Cumberland and the Solway coast.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local legends and landscape-based storytelling into a wider English folklore tradition relevant to Cumberland and the Solway coast.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vanishing+Hitch+Hiker%3A+American+Urban+Legends+and+Their+Meanings+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vanishing Hitch Hiker: American Urban Legends and Their Meanings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Vanishing+Hitch+Hiker%3A+American+Urban+Legends+and+Their+Meanings+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vanishing Hitch Hiker: American Urban Legends and Their Meanings">The Vanishing Hitch Hiker: American Urban Legends and Their M...</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vanishing+Hitch+Hiker%3A+American+Urban+Legends+and+Their+Meanings+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vanishing Hitch Hiker: American Urban Legends and Their Meanings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Vanishing+Hitch+Hiker%3A+American+Urban+Legends+and+Their+Meanings+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vanishing Hitch Hiker: American Urban Legends and Their Meanings">The Vanishing Hitch Hiker: American Urban Legends and Their M...</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">Helps explain the mechanisms by which stories, press coverage and local belief reinforce one another.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Vanishing+Hitch+Hiker%3A+American+Urban+Legends+and+Their+Meanings+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain the mechanisms by which stories, press coverage and local belief reinforce one another.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Vanishing+Hitch+Hiker%3A+American+Urban+Legends+and+Their+Meanings+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+the+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of the Land</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+the+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of the Land</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK"><img src="{{ '/assets/images/marketplace-covers/89247864efbc4b335b2c.jpg' | relative_url }}" alt="Listing image for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK"><img src="{{ '/assets/images/marketplace-covers/89247864efbc4b335b2c.jpg' | relative_url }}" alt="Listing image for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural"><img src="{{ '/assets/images/marketplace-covers/3d733175583c46b8d50a.jpg' | relative_url }}" alt="Listing image for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural"><img src="{{ '/assets/images/marketplace-covers/3d733175583c46b8d50a.jpg' | relative_url }}" alt="Listing image for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="{{ '/assets/images/marketplace-covers/b44c6b930f57b977d67d.jpg' | relative_url }}" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="{{ '/assets/images/marketplace-covers/b44c6b930f57b977d67d.jpg' | relative_url }}" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="burgh-marsh-why-burgh-marsh-made-the-mystery-grow-cumberland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,235 +716,235 @@ The balanced reading is therefore neither dismissive nor credulous. Burgh Marsh 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr David Clarke  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Spaceman photograph |...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Spaceman photograph |...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: solwaywetlands.org.uk  
    Title: Winter Birding on the Saltmarsh | Solway Wetlands  
-   Link: <a href="https://solwaywetlands.org.uk/winter-birding-saltmarsh" target="_blank" rel="noopener noreferrer nofollow">https://solwaywetlands.org.uk/winter-birding-saltmarsh</a>  
+   Link:<a href="https://solwaywetlands.org.uk/winter-birding-saltmarsh" target="_blank" rel="noopener noreferrer nofollow">https://solwaywetlands.org.uk/winter-birding-saltmarsh</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publications.naturalengland.org.uk  
    Title: European Site Conservation Objectives for Upper Solway Flats and Marshes SPA  
-   Link: <a href="https://publications.naturalengland.org.uk/publication/5377753788448768" target="_blank" rel="noopener noreferrer nofollow">https://publications.naturalengland.org.uk/publication/5377753788448768</a>  
+   Link:<a href="https://publications.naturalengland.org.uk/publication/5377753788448768" target="_blank" rel="noopener noreferrer nofollow">https://publications.naturalengland.org.uk/publication/5377753788448768</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: solwaycoast-nl.org.uk  
    Title: Burgh by Sands – Solway Coast National Landscape  
-   Link: <a href="https://www.solwaycoast-nl.org.uk/towns-and-villages/burgh-by-sands/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/towns-and-villages/burgh-by-sands/</a>  
+   Link:<a href="https://www.solwaycoast-nl.org.uk/towns-and-villages/burgh-by-sands/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/towns-and-villages/burgh-by-sands/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Solway Firth Spaceman  
-   Link: <a href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth_Spaceman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth_Spaceman</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Astronauta de Solway  
-   Link: <a href="https://pt.wikipedia.org/wiki/Astronauta_de_Solway" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Astronauta_de_Solway</a>  
+   Link:<a href="https://pt.wikipedia.org/wiki/Astronauta_de_Solway" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Astronauta_de_Solway</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: solwaycoast-nl.org.uk  
-   Link: <a href="https://www.solwaycoast-nl.org.uk/places-to-explore/nature/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/places-to-explore/nature/</a>  
+   Link:<a href="https://www.solwaycoast-nl.org.uk/places-to-explore/nature/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/places-to-explore/nature/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: solwaycoast-nl.org.uk  
-   Link: <a href="https://www.solwaycoast-nl.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/</a>  
+   Link:<a href="https://www.solwaycoast-nl.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: solwaycoast-nl.org.uk  
-   Link: <a href="https://www.solwaycoast-nl.org.uk/category/plan-your-visit/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/category/plan-your-visit/</a>  
+   Link:<a href="https://www.solwaycoast-nl.org.uk/category/plan-your-visit/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/category/plan-your-visit/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: solwaywetlands.org.uk  
-   Link: <a href="https://solwaywetlands.org.uk/visit-solway-wetlands-centre-and-rspb-campfield-marsh-reserve" target="_blank" rel="noopener noreferrer nofollow">https://solwaywetlands.org.uk/visit-solway-wetlands-centre-and-rspb-campfield-marsh-reserve</a>  
+   Link:<a href="https://solwaywetlands.org.uk/visit-solway-wetlands-centre-and-rspb-campfield-marsh-reserve" target="_blank" rel="noopener noreferrer nofollow">https://solwaywetlands.org.uk/visit-solway-wetlands-centre-and-rspb-campfield-marsh-reserve</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: publications.naturalengland.org.uk  
    Title: naturalengland.org.uk Solway Firth EMS  
-   Link: <a href="https://publications.naturalengland.org.uk/publication/3189597" target="_blank" rel="noopener noreferrer nofollow">https://publications.naturalengland.org.uk/publication/3189597</a>  
+   Link:<a href="https://publications.naturalengland.org.uk/publication/3189597" target="_blank" rel="noopener noreferrer nofollow">https://publications.naturalengland.org.uk/publication/3189597</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Blue Streak (missile)  
-   Link: <a href="https://en.wikipedia.org/wiki/Blue_Streak_%28missile%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Blue_Streak_%28missile%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Blue_Streak_%28missile%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Blue_Streak_%28missile%29</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Solway Firth  
-   Link: <a href="https://en.wikipedia.org/wiki/Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Burgh by Sands  
-   Link: <a href="https://en.wikipedia.org/wiki/Burgh_by_Sands" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burgh_by_Sands</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Burgh_by_Sands" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burgh_by_Sands</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Kosmonauta z Solway Firth  
-   Link: <a href="https://pl.wikipedia.org/wiki/Kosmonauta_z_Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Kosmonauta_z_Solway_Firth</a>  
+   Link:<a href="https://pl.wikipedia.org/wiki/Kosmonauta_z_Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Kosmonauta_z_Solway_Firth</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: national-landscapes.org.uk  
-   Link: <a href="https://national-landscapes.org.uk/national-landscapes/solway-coast" target="_blank" rel="noopener noreferrer nofollow">https://national-landscapes.org.uk/national-landscapes/solway-coast</a>  
+   Link:<a href="https://national-landscapes.org.uk/national-landscapes/solway-coast" target="_blank" rel="noopener noreferrer nofollow">https://national-landscapes.org.uk/national-landscapes/solway-coast</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Cumberland  
-   Link: <a href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cumberland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cumberland</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: historicengland.org.uk  
    Title: Historic England RAF Spadeadam: Blue Streak Rocket, Kingwater  
-   Link: <a href="https://historicengland.org.uk/listing/the-list/list-entry/1413245" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1413245</a>  
+   Link:<a href="https://historicengland.org.uk/listing/the-list/list-entry/1413245" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1413245</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spacecentre.co.uk  
    Title: National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?  
-   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/</a>  
+   Link:<a href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theparisreview.org  
    Title: The Paris Review UFO Drawings from the National Archives  
-   Link: <a href="https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/</a>  
+   Link:<a href="https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: drdavidclarke.co.uk  
    Title: Solway Spaceman mystery is 50 years old  
-   Link: <a href="https://drdavidclarke.co.uk/2014/05/23/solway-spaceman-mystery-is-50-years-old/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2014/05/23/solway-spaceman-mystery-is-50-years-old/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2014/05/23/solway-spaceman-mystery-is-50-years-old/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2014/05/23/solway-spaceman-mystery-is-50-years-old/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: drdavidclarke.co.uk  
    Title: Solway spaceman  
-   Link: <a href="https://drdavidclarke.co.uk/tag/solway-spaceman/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/solway-spaceman/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/solway-spaceman/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/solway-spaceman/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/tag/mib/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/mib/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/mib/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/mib/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/aliens/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/aliens/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
    Title: Burgh by Sands  
-   Link: <a href="https://wikishire.co.uk/wiki/Burgh_by_Sands" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Burgh_by_Sands</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Burgh_by_Sands" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Burgh_by_Sands</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
    Title: Category:Wards of Cumberland  
-   Link: <a href="https://wikishire.co.uk/wiki/Category%3AWards_of_Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3AWards_of_Cumberland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Category%3AWards_of_Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3AWards_of_Cumberland</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ian-duncan.co.uk  
    Title: The Solway Spaceman  
-   Link: <a href="https://ian-duncan.co.uk/2024/05/21/the-solway-spaceman/" target="_blank" rel="noopener noreferrer nofollow">https://ian-duncan.co.uk/2024/05/21/the-solway-spaceman/</a>  
+   Link:<a href="https://ian-duncan.co.uk/2024/05/21/the-solway-spaceman/" target="_blank" rel="noopener noreferrer nofollow">https://ian-duncan.co.uk/2024/05/21/the-solway-spaceman/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: slipknot.fandom.com  
    Title: Solway Firth  
-   Link: <a href="https://slipknot.fandom.com/wiki/Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://slipknot.fandom.com/wiki/Solway_Firth</a>  
+   Link:<a href="https://slipknot.fandom.com/wiki/Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://slipknot.fandom.com/wiki/Solway_Firth</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: es.scribd.com  
    Title: Solway Spaceman  
-   Link: <a href="https://es.scribd.com/document/552922561/Solway-Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/552922561/Solway-Spaceman</a>  
+   Link:<a href="https://es.scribd.com/document/552922561/Solway-Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/552922561/Solway-Spaceman</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: heritagegateway.org.uk  
-   Link: <a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1009804" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1009804</a>  
+   Link:<a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1009804" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1009804</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: lakesguides.co.uk  
    Title: Burgh by Sands  
-   Link: <a href="https://www.lakesguides.co.uk/html/lgaz/lk01914.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.lakesguides.co.uk/html/lgaz/lk01914.htm</a>  
+   Link:<a href="https://www.lakesguides.co.uk/html/lgaz/lk01914.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.lakesguides.co.uk/html/lgaz/lk01914.htm</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: historicengland.org.uk  
-   Link: <a href="https://historicengland.org.uk/research/results/reports/8007/SolwayBasinWesternMixed" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/research/results/reports/8007/SolwayBasinWesternMixed</a>  
+   Link:<a href="https://historicengland.org.uk/research/results/reports/8007/SolwayBasinWesternMixed" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/research/results/reports/8007/SolwayBasinWesternMixed</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: collection.sciencemuseumgroup.org.uk  
    Title: blue streak  
-   Link: <a href="https://collection.sciencemuseumgroup.org.uk/objects/co8019259/blue-streak" target="_blank" rel="noopener noreferrer nofollow">https://collection.sciencemuseumgroup.org.uk/objects/co8019259/blue-streak</a>  
+   Link:<a href="https://collection.sciencemuseumgroup.org.uk/objects/co8019259/blue-streak" target="_blank" rel="noopener noreferrer nofollow">https://collection.sciencemuseumgroup.org.uk/objects/co8019259/blue-streak</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nature.scot  
    Title: Solway Firth  
-   Link: <a href="https://www.nature.scot/sites/default/files/special-area-conservation/8377/conservation-and-management-advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/sites/default/files/special-area-conservation/8377/conservation-and-management-advice.pdf</a>  
+   Link:<a href="https://www.nature.scot/sites/default/files/special-area-conservation/8377/conservation-and-management-advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/sites/default/files/special-area-conservation/8377/conservation-and-management-advice.pdf</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Solway Firth Spaceman Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=FkAjr4cJ6jI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FkAjr4cJ6jI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Children of Woolpit, Solway Spaceman, Hawaiian Cryptids | EP.132 | Ninjas Are Butterflies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FkAjr4cJ6jI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FkAjr4cJ6jI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Children of Woolpit, Solway Spaceman, Hawaiian Cryptids | EP.132 | Ninjas Are Butterflies...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: The Solway Spaceman Enigma  
-   Link: <a href="https://www.youtube.com/watch?v=rAh048UuKRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rAh048UuKRg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rAh048UuKRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rAh048UuKRg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NEiayE02hhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NEiayE02hhA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Case of the Solway Spaceman...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NEiayE02hhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NEiayE02hhA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Case of the Solway Spaceman...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: greatenglishchurches.co.uk  
-   Link: <a href="https://greatenglishchurches.co.uk/html/a_saunter_by_the_solway.html" target="_blank" rel="noopener noreferrer nofollow">https://greatenglishchurches.co.uk/html/a_saunter_by_the_solway.html</a>  
+   Link:<a href="https://greatenglishchurches.co.uk/html/a_saunter_by_the_solway.html" target="_blank" rel="noopener noreferrer nofollow">https://greatenglishchurches.co.uk/html/a_saunter_by_the_solway.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: antiquemaps.com  
-   Link: <a href="https://www.antiquemaps.com/bc/cumberland/" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemaps.com/bc/cumberland/</a>  
+   Link:<a href="https://www.antiquemaps.com/bc/cumberland/" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemaps.com/bc/cumberland/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/photosofcumbria/posts/4023970871178501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/photosofcumbria/posts/4023970871178501/</a>  
+   Link:<a href="https://www.facebook.com/groups/photosofcumbria/posts/4023970871178501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/photosofcumbria/posts/4023970871178501/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: familysearch.org  
-   Link: <a href="https://www.familysearch.org/en/wiki/Burgh_by_Sands%2C_Cumberland%2C_England_Genealogy" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Burgh_by_Sands%2C_Cumberland%2C_England_Genealogy</a>  
+   Link:<a href="https://www.familysearch.org/en/wiki/Burgh_by_Sands%2C_Cumberland%2C_England_Genealogy" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Burgh_by_Sands%2C_Cumberland%2C_England_Genealogy</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/zaq7dd/for_over_50_years_many_believed_the_entity_behind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/zaq7dd/for_over_50_years_many_believed_the_entity_behind/</a>  
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/zaq7dd/for_over_50_years_many_believed_the_entity_behind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/zaq7dd/for_over_50_years_many_believed_the_entity_behind/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Burgh_By_Sands_CP%2C_Cumberland_313662" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Burgh_By_Sands_CP%2C_Cumberland_313662</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Burgh_By_Sands_CP%2C_Cumberland_313662" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Burgh_By_Sands_CP%2C_Cumberland_313662</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/2173" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/2173</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/2173" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/2173</a>  

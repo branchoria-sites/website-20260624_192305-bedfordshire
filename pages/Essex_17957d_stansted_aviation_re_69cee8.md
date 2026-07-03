@@ -248,31 +248,31 @@ image: /assets/images/Essex_17957d_stansted_aviation_re_69cee8-overview-social.j
 
 ## Introduction
 
-London Stansted gives [Essex]({{ 'what-was-really-seen-over-essex/' | relative_url }})’s UFO history an unusually practical edge: some reports are not just “strange lights” seen from a garden, but possible aviation-safety events in controlled airport airspace. The best-known modern claim is a 2022 Essex Police log in which a Ryanair aircraft climbing out of Stansted was said to have passed within 20 metres of a black object at about 4,000 feet. A second 2022 Stansted Airport entry involved TCAS alerts to an object near aircraft on approach, but no pilots visually confirmed it. These cases matter because they sit at the overlap between UFO language, drone risk, air-traffic procedures and media amplification. The evidence supports concern about possible unknown objects or drones near aircraft, but it does not establish exotic craft. The strongest reading is cautious: Stansted is a useful Essex case study in how an unidentified aviation report can be serious without being otherworldly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police+2Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
+London Stansted gives [Essex]({{ 'what-was-really-seen-over-essex/' | relative_url }})’s UFO history an unusually practical edge: some reports are not just “strange lights” seen from a garden, but possible aviation-safety events in controlled airport airspace. The best-known modern claim is a 2022 Essex Police log in which a Ryanair aircraft climbing out of Stansted was said to have passed within 20 metres of a black object at about 4,000 feet. A second 2022 Stansted Airport entry involved TCAS alerts to an object near aircraft on approach, but no pilots visually confirmed it. These cases matter because they sit at the overlap between UFO language, drone risk, air-traffic procedures and media amplification. The evidence supports concern about possible unknown objects or drones near aircraft, but it does not establish exotic craft. The strongest reading is cautious: Stansted is a useful Essex case study in how an unidentified aviation report can be serious without being otherworldly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
 
 
 <img src="{{ "/assets/images/Essex_17957d_stansted_aviation_re_69cee8-overview.webp" | relative_url }}" alt="Overview image for Stansted" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Stansted belongs in the Essex UFO story
 
-Stansted Airport is not a marginal local airstrip. It is in Uttlesford, Essex, and the airport’s own facts page describes it as London’s third airport, serving more than 27 million passengers a year, operating 24 hours a day and using a single 3,049-metre runway. That combination of heavy commercial traffic, night operations, departure paths, approach paths and surrounding rural skies makes it exactly the sort of place where reports of unusual objects can become safety questions rather than simple curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/facts-and-figures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanstedairport.com">[Stansted Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanstedairport.com</span><span class="citation-popover-title">Stansted Airport Facts and figures &#124; London Stansted Airport</span><span class="citation-popover-snippet">Stansted Airport Facts and figures &#124; London Stansted Airport</span></span></span>
+Stansted Airport is not a marginal local airstrip. It is in Uttlesford, Essex, and the airport’s own facts page describes it as London’s third airport, serving more than 27 million passengers a year, operating 24 hours a day and using a single 3,049-metre runway. That combination of heavy commercial traffic, night operations, departure paths, approach paths and surrounding rural skies makes it exactly the sort of place where reports of unusual objects can become safety questions rather than simple curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/facts-and-figures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanstedairport.com">[Stansted Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanstedairport.com</span><span class="citation-popover-title">Stansted Airport Facts and figures &#124; London Stansted Airport</span><span class="citation-popover-snippet">Stansted Airport Facts and figures &#124; London Stansted Airport</span></span></span>
 
 For Essex UFO research, this changes the standard of interpretation. A light over Chelmsford or a fast object seen from a home may be filed as a witness report, but a suspected object near a Stansted departure or approach intersects with pilots, air-traffic control, airport police, drone procedures and collision-avoidance technology. That does not make the object “alien”; it makes the report operationally important. In airport airspace, an unidentified object can be a drone, balloon, model aircraft, another aircraft with a transponder issue, a radar or TCAS artefact, or a genuine visual unknown. The key question is not whether the word UFO appears, but whether the report contains enough detail to assess risk.
 
-This is also why Stansted reports should not be read in isolation from UK Airprox Board material. The UK Airprox Board says its purpose is to improve air safety from Airprox occurrences reported in UK airspace, and defines an Airprox as a situation where, in the opinion of a pilot or air traffic services personnel, aircraft distance, relative positions and speed may have compromised safety. The Board also notes that small unmanned aircraft Airprox reports may be classified as drones, balloons, model aircraft or unknown objects, and that the difference can depend heavily on a pilot’s brief wording during a fleeting encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board+2Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+This is also why Stansted reports should not be read in isolation from UK Airprox Board material. The UK Airprox Board says its purpose is to improve air safety from Airprox occurrences reported in UK airspace, and defines an Airprox as a situation where, in the opinion of a pilot or air traffic services personnel, aircraft distance, relative positions and speed may have compromised safety. The Board also notes that small unmanned aircraft Airprox reports may be classified as drones, balloons, model aircraft or unknown objects, and that the difference can depend heavily on a pilot’s brief wording during a fleeting encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Essex_17957d_stansted_aviation_re_69cee8-Illustration-1-dark.svg" | relative_url }}" alt="Stansted illustration 1" data-theme-src-dark="{{ "/assets/images/Essex_17957d_stansted_aviation_re_69cee8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Essex_17957d_stansted_aviation_re_69cee8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2022 Ryanair near-miss claim
 
-The most eye-catching Stansted-linked case appears in Essex Police’s published UFO reports for 2014 to 2024. The 2022 entry says a Ryanair aircraft was climbing out from Stansted at 4,000 feet and was “just over the St Elizabeth Centre” when the pilot saw a black object. The same log says the object passed within 20 metres of the aircraft, that the plane was travelling at 230 mph, and that the object was travelling north to south. It also records a possible drone explanation, while adding that drone monitoring equipment at the airport had not picked it up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
+The most eye-catching Stansted-linked case appears in Essex Police’s published UFO reports for 2014 to 2024. The 2022 entry says a Ryanair aircraft was climbing out from Stansted at 4,000 feet and was “just over the St Elizabeth Centre” when the pilot saw a black object. The same log says the object passed within 20 metres of the aircraft, that the plane was travelling at 230 mph, and that the object was travelling north to south. It also records a possible drone explanation, while adding that drone monitoring equipment at the airport had not picked it up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
 
 That is a striking entry, but the wording needs careful handling. It is an Essex Police incident summary, not a full accident-investigation report. It gives no aircraft registration, flight number, exact date, radar track, weather, cockpit transcript, air-traffic-control recording, photograph or recovered object. It also uses the broad police call category “UFO”, which in this context means unidentified flying object in the plain descriptive sense, not a conclusion about origin. The most credible claim supported by the record is therefore limited: a pilot reportedly saw a black object close to a Ryanair aircraft departing Stansted, and the object was not identified in that public police summary.
 
-The drone point is especially important. At 4,000 feet, a drone would already be far above the normal legal height limit for most UK drone and model aircraft operations. The Civil Aviation Authority says drones and model aircraft must not be flown more than 120 metres, or 400 feet, from the closest point of the earth’s surface, and NATS describes airport Flight Restriction Zones where unmanned aircraft may not be flown without permission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The drone point is especially important. At 4,000 feet, a drone would already be far above the normal legal height limit for most UK drone and model aircraft operations. The Civil Aviation Authority says drones and model aircraft must not be flown more than 120 metres, or 400 feet, from the closest point of the earth’s surface, and NATS describes airport Flight Restriction Zones where unmanned aircraft may not be flown without permission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 A drone explanation is therefore plausible in shape and behaviour, but problematic in altitude and detection. It would imply either an unlawful or authorised but unrecognised flight, an unusually capable craft, a mistaken height or distance estimate, or a non-drone object mistaken for one. The fact that airport drone monitoring equipment reportedly did not detect it weakens a simple “definite drone” conclusion, but it does not strengthen an exotic one. Detection systems have coverage and classification limits, while visual estimates made at high speed can be very difficult.
 
-The strongest safety comparison comes from UK Airprox Board material around the same period. In December 2021, a B737 departing Stansted from Runway 22 reported a suspected drone or white lighted object at about 3,500 feet, roughly 3 nautical miles south-west of Stansted. The aircraft continued, no damage was found after engineering inspection, Stansted airport police were informed, and the Board concluded that the altitude and description meant it could not determine the nature of the unknown object. It assessed the event as Category C, meaning safety was reduced but there was no risk of collision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Airprox BoardMonthly meeting January 2022 &#124; UK Airprox Board...</span><span class="citation-popover-meta">Published: January 2022</span></span></span>
+The strongest safety comparison comes from UK Airprox Board material around the same period. In December 2021, a B737 departing Stansted from Runway 22 reported a suspected drone or white lighted object at about 3,500 feet, roughly 3 nautical miles south-west of Stansted. The aircraft continued, no damage was found after engineering inspection, Stansted airport police were informed, and the Board concluded that the altitude and description meant it could not determine the nature of the unknown object. It assessed the event as Category C, meaning safety was reduced but there was no risk of collision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Airprox BoardMonthly meeting January 2022 &#124; UK Airprox Board...</span><span class="citation-popover-meta">Published: January 2022</span></span></span>
 
 That Airprox case does not prove the Ryanair police-log case, but it shows that Stansted-area crews have made comparable high-altitude unknown-object reports in formal aviation channels. It also shows how aviation investigators tend to avoid overclaiming: even with pilot testimony, ATC involvement and radar review, the Board may still classify an object as unknown rather than force a drone label.
 
@@ -281,13 +281,13 @@ That Airprox case does not prove the Ryanair police-log case, but it shows that 
 
 ## TCAS alerts, drone checks and visual non-sightings
 
-The second key Stansted entry in the Essex Police log is less dramatic but arguably more instructive. In 2022, an incident at Stansted Airport was “placed on as UFO” after three aircraft reportedly had an object in their vicinity. The tower informant said two aircraft reported an object about 500 feet below them while coming in to land on Runway 22; the closest was said to be 20 km away. The log adds that on approach, two to three miles out, their TCAS — Traffic Collision Avoidance System — alerted them to something at around 500 feet, but none of the pilots could see anything when they looked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
+The second key Stansted entry in the Essex Police log is less dramatic but arguably more instructive. In 2022, an incident at Stansted Airport was “placed on as UFO” after three aircraft reportedly had an object in their vicinity. The tower informant said two aircraft reported an object about 500 feet below them while coming in to land on Runway 22; the closest was said to be 20 km away. The log adds that on approach, two to three miles out, their TCAS — Traffic Collision Avoidance System — alerted them to something at around 500 feet, but none of the pilots could see anything when they looked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
 
 This is a good example of why “UFO near airport” headlines can mislead. A TCAS alert is not the same thing as a pilot seeing a solid craft. TCAS is designed to help aircraft avoid other transponder-equipped aircraft; it is not a general-purpose alien detector, and it is not normally how a small hobby drone would be seen. When a report says pilots were alerted by TCAS but saw nothing visually, the most cautious interpretation is an unresolved traffic or signal-related safety report, not a confirmed object in the ordinary visual sense.
 
 The “none of the pilots could see anything” detail matters. It weakens claims that several pilots jointly observed a visible craft. What the police log records is more subtle: an operational alert, an airport tower report, aircraft on approach, and an absence of visual confirmation. That makes it significant for safety analysis but thin for UFO evidence.
 
-The Airprox Board’s own explanatory material supports this caution. It says small unmanned aircraft reports often involve fleeting encounters, with the reporting pilot able to give only an outline description; the distinction between a drone, model aircraft and unknown object can depend on wording. In the Stansted TCAS log, the evidential problem is even sharper because there was apparently no visual description at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+The Airprox Board’s own explanatory material supports this caution. It says small unmanned aircraft reports often involve fleeting encounters, with the reporting pilot able to give only an outline description; the distinction between a drone, model aircraft and unknown object can depend on wording. In the Stansted TCAS log, the evidential problem is even sharper because there was apparently no visual description at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
 There is also a distance issue. The police log says the closest reported object was 20 km away, while aircraft were on approach two to three miles out when TCAS alerted. Without the original ATC data, aircraft identities, transponder returns or a formal investigation report, it is hard to reconstruct exactly what “closest” refers to. This is not a reason to dismiss the report; it is a reason to avoid turning a compressed call log into a precise near-collision narrative.
 
@@ -297,11 +297,11 @@ There is also a distance issue. The police log says the closest reported object 
 
 Stansted’s airspace is a demanding visual environment. A departing or arriving crew has limited time, high workload and changing angles of view. Objects that would be unremarkable from the ground can seem startling when seen briefly against cloud, sun glare, night sky or the clutter of approach lights and aircraft traffic. Conversely, genuinely hazardous objects may be hard to see until they are close.
 
-UK aviation language helps separate the safety question from the UFO question. The UK Airprox Board’s risk categories run from Category A, where serious risk of collision existed, to Category C, where no risk of collision existed or risk was averted, and Category D, where the risk could not be determined from available evidence. These categories assess what happened for aviation safety; they do not certify the identity or origin of a reported object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+UK aviation language helps separate the safety question from the UFO question. The UK Airprox Board’s risk categories run from Category A, where serious risk of collision existed, to Category C, where no risk of collision existed or risk was averted, and Category D, where the risk could not be determined from available evidence. These categories assess what happened for aviation safety; they do not certify the identity or origin of a reported object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
-A December 2021 Stansted-area Airprox shows the practical method. The B737 crew reported a white lighted object or suspected drone on departure; the controller and NATS Safety Investigation reviewed the circumstances; radar showed the aircraft’s position, but no radar contacts were visible for the reported object. The Board ultimately treated it as an unknown object and rated it Category C. That combination — credible pilot report, no radar contact, no identification, no collision risk found — is exactly the kind of grey zone that airport UFO stories often occupy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Airprox BoardMonthly meeting January 2022 &#124; UK Airprox Board...</span><span class="citation-popover-meta">Published: January 2022</span></span></span>
+A December 2021 Stansted-area Airprox shows the practical method. The B737 crew reported a white lighted object or suspected drone on departure; the controller and NATS Safety Investigation reviewed the circumstances; radar showed the aircraft’s position, but no radar contacts were visible for the reported object. The Board ultimately treated it as an unknown object and rated it Category C. That combination — credible pilot report, no radar contact, no identification, no collision risk found — is exactly the kind of grey zone that airport UFO stories often occupy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Airprox BoardMonthly meeting January 2022 &#124; UK Airprox Board...</span><span class="citation-popover-meta">Published: January 2022</span></span></span>
 
-The February 2022 Airprox near Erwarton, in the Clacton Control Area, shows a more serious variant from the wider Essex airspace environment. A B737 descending through FL110 had a first officer report a black object with four rotors passing extremely close; the captain reported the drone sighting to Stansted ATC. The Board judged that the description was sufficient to indicate it could have been a drone and assessed it as Category A, meaning a serious risk of collision had existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/march/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+The February 2022 Airprox near Erwarton, in the Clacton Control Area, shows a more serious variant from the wider Essex airspace environment. A B737 descending through FL110 had a first officer report a black object with four rotors passing extremely close; the captain reported the drone sighting to Stansted ATC. The Board judged that the description was sufficient to indicate it could have been a drone and assessed it as Category A, meaning a serious risk of collision had existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/march/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
 That case is not a Stansted Airport approach-path UFO in the popular sense, but it matters for the Essex branch because it shows the real safety stakes behind some “black object” reports. A drone-like object near a commercial aircraft can be a genuine risk even when nobody is claiming anything extraterrestrial. In that sense, the sober aviation files are more important than the sensational headlines: they show that unidentified or unauthorised objects are a real operational concern, while also showing that investigators can classify risk without making extraordinary claims.
 
@@ -310,9 +310,9 @@ That case is not a Stansted Airport approach-path UFO in the popular sense, but 
 
 ## What the evidence supports — and what it does not
 
-The Stansted material supports three careful conclusions. First, the airport area has generated UFO-labelled police reports involving pilots, ATC-style information and possible collision concern. Secondly, some comparable Stansted and Essex airspace events appear in formal Airprox material, where they are treated as safety occurrences rather than paranormal cases. Thirdly, drone or unknown-object [explanations]({{ 'explanations/' | relative_url }}) are more evidence-compatible than exotic-craft claims, even when a drone has not been confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police+2Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
+The Stansted material supports three careful conclusions. First, the airport area has generated UFO-labelled police reports involving pilots, ATC-style information and possible collision concern. Secondly, some comparable Stansted and Essex airspace events appear in formal Airprox material, where they are treated as safety occurrences rather than paranormal cases. Thirdly, drone or unknown-object [explanations]({{ 'explanations/' | relative_url }}) are more evidence-compatible than exotic-craft claims, even when a drone has not been confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
 
-It does not support a claim that UFOs, in the popular extraterrestrial sense, threatened aircraft near Stansted. The 2022 Ryanair case is serious because a pilot reportedly saw a black object very close to an aircraft; it is weak as extraordinary evidence because the public record is only a brief police summary. The TCAS case is serious because multiple aircraft and the tower were involved; it is weak as a visual UFO case because the pilots reportedly saw nothing when they looked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
+It does not support a claim that UFOs, in the popular extraterrestrial sense, threatened aircraft near Stansted. The 2022 Ryanair case is serious because a pilot reportedly saw a black object very close to an aircraft; it is weak as extraordinary evidence because the public record is only a brief police summary. The TCAS case is serious because multiple aircraft and the tower were involved; it is weak as a visual UFO case because the pilots reportedly saw nothing when they looked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
 
 The main doubts are therefore not about whether the reports exist. They do. The doubts concern identification, distance, altitude, detection, and how much detail survives in public records. [Police logs]({{ 'police-logs-c6c7e1/' | relative_url }}) compress events for incident handling. Local and national media can then turn “unidentified object” into “UFO near-miss”, which is technically understandable but easily overread. Aviation investigators, by contrast, tend to preserve uncertainty: “unknown object”, “could have been a drone”, “no radar contacts visible”, “safety reduced”, “no risk of collision” or “serious risk” are all narrower claims than the headline language suggests.
 
@@ -324,9 +324,9 @@ For readers following Essex UFO history, Stansted is best understood as a critiq
 
 A useful Stansted UFO claim should be judged by aviation evidence, not by how dramatic the headline sounds. The strongest reports will name or document the aircraft type, time, altitude, location, runway, air-traffic-control involvement, radar or TCAS data, pilot sighting details, drone-detection results, police involvement and any UK Airprox Board assessment. A report that has several of those features deserves attention even if it remains unexplained.
 
-A weaker report may still be sincere, but it should be labelled accordingly. A single police-log summary, a second-hand media account, or a claim with no visual confirmation should not be treated as proof of a craft. The Stansted TCAS entry is a good example: it matters because aircraft systems and the tower were involved, yet the lack of visual sighting makes it poor evidence for a physical UFO seen by pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
+A weaker report may still be sincere, but it should be labelled accordingly. A single police-log summary, a second-hand media account, or a claim with no visual confirmation should not be treated as proof of a craft. The Stansted TCAS entry is a good example: it matters because aircraft systems and the tower were involved, yet the lack of visual sighting makes it poor evidence for a physical UFO seen by pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[Essex Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">UFO Reports 2014 to 2024 &#124; Essex Police...</span></span></span>
 
-Drone law also gives readers a practical reality check. The CAA’s 400-foot general height rule and NATS’s airport Flight Restriction Zone rules mean that any drone-like object reported near Stansted at thousands of feet would be highly abnormal unless specially authorised or misestimated. That makes the safety concern sharper, but it also means investigators need more than a brief sighting to decide what was actually there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Drone law also gives readers a practical reality check. The CAA’s 400-foot general height rule and NATS’s airport Flight Restriction Zone rules mean that any drone-like object reported near Stansted at thousands of feet would be highly abnormal unless specially authorised or misestimated. That makes the safety concern sharper, but it also means investigators need more than a brief sighting to decide what was actually there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 Stansted’s place in Essex UFO history is therefore not that it proves unusual craft are targeting airliners. Its value is more grounded: it shows how a modern county UFO file can overlap with one of the UK’s busiest aviation environments, where misidentification, drone risk, equipment alerts and pilot testimony all have to be weighed together. The result is a more cautious but more useful story — not “UFOs threatened Stansted aircraft”, but “some Stansted-area aviation reports remain unidentified, and the safety context makes them worth reading carefully.”
 
@@ -335,194 +335,194 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did UFOs Threaten Aircraft Near Stansted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did UFOs Threaten Aircraft Near Stansted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how unexplained aerial reports should be evaluated and categorized, fitting aviation-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unexplained aerial reports should be evaluated and categorized, fitting aviation-related sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines large numbers of reported sightings and the challenge of separating genuine unknowns from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines large numbers of reported sightings and the challenge of separating genuine unknowns from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches the page&#x27;s overlap between unidentified objects, aircraft safety, pilots and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the page&#x27;s overlap between unidentified objects, aircraft safety, pilots and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xslaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xslaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Discusses evidence assessment and competing explanations for unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence assessment and competing explanations for unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="stansted-did-ufos-threaten-aircraft-near-stansted-essex-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,202 +728,202 @@ Stansted’s place in Essex UFO history is therefore not that it proves unusual 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports 2014 to 2024 | Essex Police...</p></details>
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports 2014 to 2024 | Essex Police...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: essex.police.uk  
    Title: Get Paginated Results  
-   Link: <a href="https://www.essex.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=4&amp;q=Traffic+accident&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=4&amp;q=Traffic+accident&amp;tdte=</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=4&amp;q=Traffic+accident&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=4&amp;q=Traffic+accident&amp;tdte=</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
+   Link:<a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/wp-content/uploads/2023/03/AirportFactsheets-March23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/wp-content/uploads/2023/03/AirportFactsheets-March23.pdf</a>  
+   Link:<a href="https://www.nats.aero/wp-content/uploads/2023/03/AirportFactsheets-March23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/wp-content/uploads/2023/03/AirportFactsheets-March23.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsf.nats.aero  
    Title: aero Drone and Model Aircraft  
-   Link: <a href="https://nsf.nats.aero/drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://nsf.nats.aero/drones-and-model-aircraft/</a>  
+   Link:<a href="https://nsf.nats.aero/drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://nsf.nats.aero/drones-and-model-aircraft/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nats.aero  
    Title: About airspace  
-   Link: <a href="https://www.nats.aero/airspace/about-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/about-airspace/</a>  
+   Link:<a href="https://www.nats.aero/airspace/about-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/about-airspace/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
    Title: drone no fly zone around uk airports to be extended to 5km 11642498  
-   Link: <a href="https://news.sky.com/story/drone-no-fly-zone-around-uk-airports-to-be-extended-to-5km-11642498" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/drone-no-fly-zone-around-uk-airports-to-be-extended-to-5km-11642498</a>  
+   Link:<a href="https://news.sky.com/story/drone-no-fly-zone-around-uk-airports-to-be-extended-to-5km-11642498" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/drone-no-fly-zone-around-uk-airports-to-be-extended-to-5km-11642498</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cityoflondon.police.uk  
-   Link: <a href="https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airprox BoardMonthly meeting January 2022 | UK Airprox Board...</p></details>
+   Link:<a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/january/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airprox BoardMonthly meeting January 2022 | UK Airprox Board...</p></details>
    Published: January 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/the-airprox-process/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/the-airprox-process/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stanstedairport.com  
    Title: Stansted Airport Facts and figures | London Stansted Airport  
-   Link: <a href="https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/facts-and-figures/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/facts-and-figures/</a>  
+   Link:<a href="https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/facts-and-figures/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/facts-and-figures/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/report-an-airprox/how-to-submit-an-airprox-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/how-to-submit-an-airprox-report/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/report-an-airprox/how-to-submit-an-airprox-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/how-to-submit-an-airprox-report/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/march/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/march/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/march/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/march/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/november/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/november/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/november/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/reports-and-analysis/monthly-airprox-reviews/airprox-reports-2022/november/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: airproxboard.org.uk  
    Title: Consolidated Drone/Balloon/Model/Unknown Object  
-   Link: <a href="https://www.airproxboard.org.uk/media/orudrgwu/november-2022-drone-summary-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/orudrgwu/november-2022-drone-summary-sheet.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/orudrgwu/november-2022-drone-summary-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/orudrgwu/november-2022-drone-summary-sheet.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/learn-more/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/learn-more/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/media/ajgfzthc/bluebook35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/ajgfzthc/bluebook35.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/ajgfzthc/bluebook35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/ajgfzthc/bluebook35.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/report-an-airprox/report-an-airprox-as-a-pilot/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/hj3lejew/20200131-engagement-document-final-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/hj3lejew/20200131-engagement-document-final-redacted.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/hj3lejew/20200131-engagement-document-final-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/hj3lejew/20200131-engagement-document-final-redacted.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/vpwnuoee/stal-cap-1135-appendix-c-business-of-stansted-airport-limited-non-con.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/vpwnuoee/stal-cap-1135-appendix-c-business-of-stansted-airport-limited-non-con.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/vpwnuoee/stal-cap-1135-appendix-c-business-of-stansted-airport-limited-non-con.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/vpwnuoee/stal-cap-1135-appendix-c-business-of-stansted-airport-limited-non-con.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
    Title: airprox investigation and the occurrence reporting regulations  
-   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/</a>  
+   Link:<a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: stanstedairport.com  
-   Link: <a href="https://www.stanstedairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanstedairport.com/</a>  
+   Link:<a href="https://www.stanstedairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanstedairport.com/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: stanstedairport.com  
-   Link: <a href="https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/airport-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/airport-history/</a>  
+   Link:<a href="https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/airport-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanstedairport.com/about-us/london-stansted-airport-and-mag/airport-history/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Traffic collision avoidance system  
-   Link: <a href="https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: essexlive.news  
    Title: stansted airport labelled ufo hotspot 9094587  
-   Link: <a href="https://www.essexlive.news/whats-on/stansted-airport-labelled-ufo-hotspot-9094587" target="_blank" rel="noopener noreferrer nofollow">https://www.essexlive.news/whats-on/stansted-airport-labelled-ufo-hotspot-9094587</a>  
+   Link:<a href="https://www.essexlive.news/whats-on/stansted-airport-labelled-ufo-hotspot-9094587" target="_blank" rel="noopener noreferrer nofollow">https://www.essexlive.news/whats-on/stansted-airport-labelled-ufo-hotspot-9094587</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: routesonline.com  
    Title: About | London Stansted Airport  
-   Link: <a href="https://www.routesonline.com/airports/7444/london-stansted-airport/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.routesonline.com/airports/7444/london-stansted-airport/about/</a>  
+   Link:<a href="https://www.routesonline.com/airports/7444/london-stansted-airport/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.routesonline.com/airports/7444/london-stansted-airport/about/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
    Title: essex police uk airport ufo reports 20142025  
-   Link: <a href="https://www.reddit.com/r/UFOPilotReports/comments/1kreivh/essex_police_uk_airport_ufo_reports_20142025/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOPilotReports/comments/1kreivh/essex_police_uk_airport_ufo_reports_20142025/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOPilotReports/comments/1kreivh/essex_police_uk_airport_ufo_reports_20142025/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOPilotReports/comments/1kreivh/essex_police_uk_airport_ufo_reports_20142025/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ovb2uMYstwY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone NEAR-MISS with EASYJET AIRBUS A320, or not?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ovb2uMYstwY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone NEAR-MISS with EASYJET AIRBUS A320, or not?...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: A Pilot Risks His Career to Report a UFO  
-   Link: <a href="https://www.youtube.com/watch?v=d2KOrjmsDRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d2KOrjmsDRc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d2KOrjmsDRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d2KOrjmsDRc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Pilot Reports a UFO Just Flying By his Plane | "Creepy!"  
-   Link: <a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7AgcmoSecg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7AgcmoSecg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude  
-   Link: <a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7carMw8ndvM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Pilot Risks His Career to Report a UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7carMw8ndvM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Pilot Risks His Career to Report a UFO...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NATSAero/videos/controlled-and-uncontrolled-airspace/2864131453873501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATSAero/videos/controlled-and-uncontrolled-airspace/2864131453873501/</a>  
+   Link:<a href="https://www.facebook.com/NATSAero/videos/controlled-and-uncontrolled-airspace/2864131453873501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATSAero/videos/controlled-and-uncontrolled-airspace/2864131453873501/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
+   Link:<a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: gatwickairport.com  
-   Link: <a href="https://www.gatwickairport.com/company/noise-airspace/drone-safety.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gatwickairport.com/company/noise-airspace/drone-safety.html</a>  
+   Link:<a href="https://www.gatwickairport.com/company/noise-airspace/drone-safety.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gatwickairport.com/company/noise-airspace/drone-safety.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: eliteairporttransfer.co.uk  
-   Link: <a href="https://eliteairporttransfer.co.uk/the-ultimate-guide-to-stansted-airport-everything-you-need-to-know-for-a-smooth-journey/" target="_blank" rel="noopener noreferrer nofollow">https://eliteairporttransfer.co.uk/the-ultimate-guide-to-stansted-airport-everything-you-need-to-know-for-a-smooth-journey/</a>  
+   Link:<a href="https://eliteairporttransfer.co.uk/the-ultimate-guide-to-stansted-airport-everything-you-need-to-know-for-a-smooth-journey/" target="_blank" rel="noopener noreferrer nofollow">https://eliteairporttransfer.co.uk/the-ultimate-guide-to-stansted-airport-everything-you-need-to-know-for-a-smooth-journey/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: londoncityairport.com  
-   Link: <a href="https://www.londoncityairport.com/corporate/environment/safeguarding/drone-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/environment/safeguarding/drone-safety</a>  
+   Link:<a href="https://www.londoncityairport.com/corporate/environment/safeguarding/drone-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/environment/safeguarding/drone-safety</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: unisco.com  
-   Link: <a href="https://www.unisco.com/international-airports/london-stansted-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.unisco.com/international-airports/london-stansted-airport</a>  
+   Link:<a href="https://www.unisco.com/international-airports/london-stansted-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.unisco.com/international-airports/london-stansted-airport</a>  

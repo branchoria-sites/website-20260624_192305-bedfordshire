@@ -248,15 +248,15 @@ image: /assets/images/County_Armagh_f58b12_abbey_park_triangle_6ff541-overview-s
 
 ## Introduction
 
-The Abbey Park triangle report is one of the clearest recent examples of how UFO-style sightings in [County Armagh]({{ 'county-armagh/' | relative_url }}) now enter the public record: not through the old Ministry of Defence UFO desk, but through police call logs and Freedom of Information releases. In 2025, a caller from Abbey Park in Armagh reported “three orange lights in the sky in a perfect triangle which moved then dispersed” to the Police Service of Northern Ireland. The report was logged, but police said the 2025 UFO reports were “solely noted for information”, with no ongoing matter and no lines of inquiry identified at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+The Abbey Park triangle report is one of the clearest recent examples of how UFO-style sightings in [County Armagh]({{ 'county-armagh/' | relative_url }}) now enter the public record: not through the old Ministry of Defence UFO desk, but through police call logs and Freedom of Information releases. In 2025, a caller from Abbey Park in Armagh reported “three orange lights in the sky in a perfect triangle which moved then dispersed” to the Police Service of Northern Ireland. The report was logged, but police said the 2025 UFO reports were “solely noted for information”, with no ongoing matter and no lines of inquiry identified at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12_abbey_park_triangle_6ff541-overview.webp" | relative_url }}" alt="Overview image for Abbey Triangle" loading="eager" decoding="sync" fetchpriority="high">
-That makes the case useful but limited. It is not a proven craft sighting, and it does not appear to have produced photographs, radar evidence, aviation alerts, or witness follow-up in the public record. Its value is different: it shows what a modern Armagh UFO report looks like after the MoD stopped collecting sightings in 2009, and why police records can preserve a striking account without proving what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+That makes the case useful but limited. It is not a proven craft sighting, and it does not appear to have produced photographs, radar evidence, aviation alerts, or witness follow-up in the public record. Its value is different: it shows what a modern Armagh UFO report looks like after the MoD stopped collecting sightings in 2009, and why police records can preserve a striking account without proving what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 ## The three orange lights report
 
-The publicly reported details are brief. The location was Abbey Park in Armagh; the report came via the 101 non-emergency number; the description was of three orange lights arranged as a “perfect triangle”; and the lights moved before dispersing. The same FOI-based account said PSNI received three 2025 reports categorised as UFOs and none categorised as aliens. The other two were a 101 call about a UFO “above the airport/docks” from an address recorded as Cypress Park, believed to refer to Cyprus Park in east Belfast, and a 999 call from Coleraine in which “UFO” was heard before the call cleared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+The publicly reported details are brief. The location was Abbey Park in Armagh; the report came via the 101 non-emergency number; the description was of three orange lights arranged as a “perfect triangle”; and the lights moved before dispersing. The same FOI-based account said PSNI received three 2025 reports categorised as UFOs and none categorised as aliens. The other two were a 101 call about a UFO “above the airport/docks” from an address recorded as Cypress Park, believed to refer to Cyprus Park in east Belfast, and a 999 call from Coleraine in which “UFO” was heard before the call cleared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
 For County Armagh, the Abbey Park entry matters because it is local, recent, and administratively visible. Many UFO stories survive as rumours, social media posts, or retellings. This one reached a public authority and later appeared in press coverage based on an FOI response. That gives it a firmer paper trail than a purely anecdotal sighting, but the paper trail is still thin: a call log records that someone reported an observation, not that the observation was independently verified.
 
@@ -268,9 +268,9 @@ The wording also matters. “Three orange lights” is a familiar modern UFO-rep
 
 Triangle sightings tend to stick in memory because they feel organised. A single light may be dismissed as a star, aircraft, drone, satellite, or lantern. Three lights in a stable pattern look more deliberate. That is why even short reports can become locally memorable: the witness is not just reporting brightness or colour, but apparent geometry.
 
-The National Archives’ overview of UK UFO records helps put this in perspective. It notes that most MoD UFO records describe shapes, lights and flashes, many of which can often be explained, while later files usually contain one-off sightings and occasional events with multiple reports. It also notes that most reports refer to lights being spotted rather than an actual ship or craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives’ overview of UK UFO records helps put this in perspective. It notes that most MoD UFO records describe shapes, lights and flashes, many of which can often be explained, while later files usually contain one-off sightings and occasional events with multiple reports. It also notes that most reports refer to lights being spotted rather than an actual ship or craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-Triangle-shaped reports also have a longer history in UK UFO discussions. The National Archives describes public enquiries about V-shaped patterns from the 1980s onwards, including questions about whether such sightings might have been connected with US stealth aircraft. It also summarises the 1990 Belgian triangle wave, where large triangular objects were reported and Belgian F-16s were scrambled, though the object was not identified and the UK did not investigate because there was no evidence of a threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+Triangle-shaped reports also have a longer history in UK UFO discussions. The National Archives describes public enquiries about V-shaped patterns from the 1980s onwards, including questions about whether such sightings might have been connected with US stealth aircraft. It also summarises the 1990 Belgian triangle wave, where large triangular objects were reported and Belgian F-16s were scrambled, though the object was not identified and the UK did not investigate because there was no evidence of a threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 The Abbey Park case should not be elevated into that class of incident. There is no public evidence of radar tracking, military involvement, multiple independent witnesses, aircraft interception, or official concern. The comparison is useful only because it shows why “triangle” is a powerful shape in UFO reporting. It turns a sparse light sighting into a story that feels structured.
 
@@ -281,21 +281,21 @@ The Abbey Park case should not be elevated into that class of incident. There is
 
 A PSNI log is evidence that a report was made. It is not, by itself, evidence that the reported object was extraordinary. This distinction is essential for reading the Abbey Park case fairly.
 
-Police FOI logs in Northern Ireland show how broad these records can be. A June 2025 PSNI disclosure listed calls containing terms such as UFO, UAP, alien and spaceship, with entries ranging from a small object with lights in Crumlin, to a Belfast report of a silent flying object with a vapour trail and red and green lights, to a Bangor caller who said she had phone footage of a bright star-like object that changed colour and flew across the sky like a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNISightings &#124; PSNI</span><span class="citation-popover-snippet">PSNISightings &#124; PSNI</span></span></span>
+Police FOI logs in Northern Ireland show how broad these records can be. A June 2025 PSNI disclosure listed calls containing terms such as UFO, UAP, alien and spaceship, with entries ranging from a small object with lights in Crumlin, to a Belfast report of a silent flying object with a vapour trail and red and green lights, to a Bangor caller who said she had phone footage of a bright star-like object that changed colour and flew across the sky like a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNISightings &#124; PSNI</span><span class="citation-popover-snippet">PSNISightings &#124; PSNI</span></span></span>
 
 That variety shows the strength and weakness of police data. The strength is that it captures what people actually say when they call. The weakness is that the categories are not scientific classifications. A call can be logged because a witness used a keyword, because a dispatcher summarised it that way, or because an FOI search later pulled it out of the system. The resulting record may lack duration, direction, elevation, weather, exact viewing position, independent witnesses, camera metadata, aircraft checks, satellite checks, or follow-up interviews.
 
-The Abbey Park report appears to sit in that same category of public-service logging. Police said the 2025 UFO reports were noted for information only, with nothing ongoing and no lines of inquiry identified. They also said PSNI works with other organisations “as and when circumstances require”, which implies that a UFO-labelled call would need some additional policing, safety, aviation, or public-order reason before it became an active matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+The Abbey Park report appears to sit in that same category of public-service logging. Police said the 2025 UFO reports were noted for information only, with nothing ongoing and no lines of inquiry identified. They also said PSNI works with other organisations “as and when circumstances require”, which implies that a UFO-labelled call would need some additional policing, safety, aviation, or public-order reason before it became an active matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12_abbey_park_triangle_6ff541-Illustration-2-dark.svg" | relative_url }}" alt="Abbey Triangle illustration 2" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12_abbey_park_triangle_6ff541-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12_abbey_park_triangle_6ff541-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why modern Armagh sightings do not go to the old MoD route
 
-The Abbey Park report belongs to the post-MoD-desk era. GOV.UK still hosts the Ministry of Defence’s historic UFO report lists for 1997 to 2009, described as showing dates, times, locations and brief descriptions of sightings. But that publication is an archive of the old reporting system, not an active reporting route. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Abbey Park report belongs to the post-MoD-desk era. GOV.UK still hosts the Ministry of Defence’s historic UFO report lists for 1997 to 2009, described as showing dates, times, locations and brief descriptions of sightings. But that publication is an archive of the old reporting system, not an active reporting route.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The National Archives explains that the MoD kept UFO records from the 1960s, and that older reports could include location, movement, distance and weather details, although they often gave no clear reason for the sighting. The final tranche of files covered the last years of the MoD UFO desk from late 2007 to November 2009, including policy, correspondence and sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives explains that the MoD kept UFO records from the 1960s, and that older reports could include location, movement, distance and weather details, although they often gave no clear reason for the sighting. The final tranche of files covered the last years of the MoD UFO desk from late 2007 to November 2009, including policy, correspondence and sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The desk closed because the MoD concluded it no longer served a defence purpose. The National Archives’ release material quotes Dr David Clarke saying the files showed why the MoD decided, after 60 years, that it no longer needed to keep tabs on sightings, even those from credible witnesses such as police officers and pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The desk closed because the MoD concluded it no longer served a defence purpose. The National Archives’ release material quotes Dr David Clarke saying the files showed why the MoD decided, after 60 years, that it no longer needed to keep tabs on sightings, even those from credible witnesses such as police officers and pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That shift changes the evidential landscape for County Armagh. Older sightings may appear in MoD lists or National Archives material. Modern sightings are more likely to surface through PSNI FOI logs, local journalism, civilian UFO groups, social media, or aviation-related channels if there is a safety issue. The Abbey Park triangle is therefore not just a sighting story; it is a governance story about where unexplained-sky reports go when there is no central UK UFO desk.
 
@@ -306,9 +306,9 @@ That shift changes the evidential landscape for County Armagh. Older sightings m
 
 Nothing in the public Abbey Park record allows a confident explanation. The report is too short. Still, several ordinary possibilities are worth considering before treating the sighting as an unknown craft.
 
-Orange lights moving in formation can be caused by sky lanterns, aircraft seen at a distance, drones, flares, reflections, satellites, or other aerial objects whose spacing only appears fixed from the observer’s viewpoint. The National Archives notes that past UFO files often involved lights and flashes that could be explained, including by Venus, high-altitude aircraft, weather balloons and satellites, and that satellite re-entries and advertising airships produced multiple reports in some cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+Orange lights moving in formation can be caused by sky lanterns, aircraft seen at a distance, drones, flares, reflections, satellites, or other aerial objects whose spacing only appears fixed from the observer’s viewpoint. The National Archives notes that past UFO files often involved lights and flashes that could be explained, including by Venus, high-altitude aircraft, weather balloons and satellites, and that satellite re-entries and advertising airships produced multiple reports in some cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-Drones are especially relevant to modern reports, although the Abbey Park account does not specifically mention drone-like sound, altitude, speed, or manoeuvres. The Civil Aviation Authority says drones and model aircraft flown at night in the Open Category must have a green flashing light turned on, which means a clearly orange three-light triangle would not neatly match the current official night-light requirement. That does not rule drones out, because hobby drones can carry other lights, be viewed through atmospheric haze, or be misdescribed at distance, but it cautions against making “drone” an automatic answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Drones are especially relevant to modern reports, although the Abbey Park account does not specifically mention drone-like sound, altitude, speed, or manoeuvres. The Civil Aviation Authority says drones and model aircraft flown at night in the Open Category must have a green flashing light turned on, which means a clearly orange three-light triangle would not neatly match the current official night-light requirement. That does not rule drones out, because hobby drones can carry other lights, be viewed through atmospheric haze, or be misdescribed at distance, but it cautions against making “drone” an automatic answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 The best unresolved questions are practical rather than dramatic. How long did the sighting last? Were the lights silent? Did they move together before dispersing, or did they only appear aligned briefly? Were there other witnesses in Abbey Park or elsewhere in Armagh city? Was there video, and if so, does it preserve the apparent triangle or only three bright points? Without those details, the case remains a recorded report, not a strong unexplained case.
 
@@ -318,7 +318,7 @@ The best unresolved questions are practical rather than dramatic. How long did t
 
 Abbey Park is not County Armagh’s most detailed UFO account, but it is one of its most useful modern examples. It shows the present-day chain: a witness sees something unusual, calls police, the incident is logged, and later the public learns about it through FOI-based reporting. That is a different kind of evidence from older MoD-era lists, and it needs a different kind of reading.
 
-For a county-level UFO history, the case has three main lessons. First, modern official traces may be decentralised. Researchers looking for post-2009 Armagh sightings should not expect a single defence archive to hold everything. Secondly, a police record can be valuable even when no investigation follows, because it fixes a place, a rough description and the fact of a report. Thirdly, low report numbers do not necessarily mean low sighting numbers. Former MoD UFO investigator Nick Pope argued in relation to the PSNI figures that many witnesses may not report sightings because they fear they will not be taken seriously, or may report to the military, media, or civilian UFO groups rather than police. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+For a county-level UFO history, the case has three main lessons. First, modern official traces may be decentralised. Researchers looking for post-2009 Armagh sightings should not expect a single defence archive to hold everything. Secondly, a police record can be valuable even when no investigation follows, because it fixes a place, a rough description and the fact of a report. Thirdly, low report numbers do not necessarily mean low sighting numbers. Former MoD UFO investigator Nick Pope argued in relation to the PSNI figures that many witnesses may not report sightings because they fear they will not be taken seriously, or may report to the military, media, or civilian UFO groups rather than police.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
 The careful conclusion is modest. The Abbey Park triangle should be treated as an unresolved light report with a credible administrative trail but limited evidential depth. It strengthens the picture of County Armagh as a place where occasional striking sky reports enter official or media records. It does not, on the present evidence, establish the presence of an unknown craft over Armagh.
 
@@ -327,194 +327,194 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Was the Abbey Park Triangle?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Was the Abbey Park Triangle?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official reports should be interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official reports should be interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores well-documented sightings and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores well-documented sightings and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Places local reports in a wider UFO discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local reports in a wider UFO discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Ideal for assessing a triangle-light report with limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for assessing a triangle-light report with limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag"><img src="{{ '/assets/images/marketplace-covers/f6d31781dc1a520bbb0d.jpg' | relative_url }}" alt="Listing image for 5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">5PCS Aviation Remove Before Flight Keychain – Double Sided Embroidered Jet Tag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="abbey-triangle-what-was-the-abbey-park-triangle-county-armagh-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,145 +720,145 @@ The careful conclusion is modest. The Abbey Park triangle should be treated as a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: psni.police.uk  
    Title: PSNISightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: psni.police.uk  
    Title: ufo sightings  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: devon-cornwall.police.uk  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: standard.co.uk  
    Title: psni northern ireland nick pope belfast ministry of defence b1264593  
-   Link: <a href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html</a>  
+   Link:<a href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: belfastlive.co.uk  
-   Link: <a href="https://www.belfastlive.co.uk/all-about/psni?pageNumber=35" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/all-about/psni?pageNumber=35</a>  
+   Link:<a href="https://www.belfastlive.co.uk/all-about/psni?pageNumber=35" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/all-about/psni?pageNumber=35</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5JXWh5bF5eg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Ireland Police Reports a Increase In UFO Sightings In 2020...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5JXWh5bF5eg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Ireland Police Reports a Increase In UFO Sightings In 2020...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=YR02LLEnQzA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YR02LLEnQzA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex MOD Nick Pope discusses UFO report that ‘can’t rule out’ aliens or Russian hypersonic weapons...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YR02LLEnQzA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YR02LLEnQzA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex MOD Nick Pope discusses UFO report that ‘can’t rule out’ aliens or Russian hypersonic weapons...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Rise in unexplained sightings in skies across Northern Ireland  
-   Link: <a href="http://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4F6AoeMyps0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4F6AoeMyps0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uHLRqxEmwks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Northern Ireland&quot; UFO police Northern Ireland Police Reports a Increase In UFO Sightings In 2020 EarthFilesEarthsHistory...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uHLRqxEmwks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Northern Ireland&quot; UFO police Northern Ireland Police Reports a Increase In UFO Sightings In 2020 EarthFilesEarthsHistory...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=ucHUeZIKUAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ucHUeZIKUAo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ucHUeZIKUAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ucHUeZIKUAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/33356299/A_Preliminary_Analysis_of_125_Reports_of_Orange_Luminous_Spheroid_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33356299/A_Preliminary_Analysis_of_125_Reports_of_Orange_Luminous_Spheroid_UAP</a>  
+   Link:<a href="https://www.academia.edu/33356299/A_Preliminary_Analysis_of_125_Reports_of_Orange_Luminous_Spheroid_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33356299/A_Preliminary_Analysis_of_125_Reports_of_Orange_Luminous_Spheroid_UAP</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25296971623318373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25296971623318373/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25296971623318373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25296971623318373/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i0hvob/orbs_and_sky_lanterns_cross_analysis_pt1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i0hvob/orbs_and_sky_lanterns_cross_analysis_pt1/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1i0hvob/orbs_and_sky_lanterns_cross_analysis_pt1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i0hvob/orbs_and_sky_lanterns_cross_analysis_pt1/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nfuonline.com  
-   Link: <a href="https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/</a>  
+   Link:<a href="https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cj48me/saw_three_lights_in_a_triangle_formation_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cj48me/saw_three_lights_in_a_triangle_formation_which/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cj48me/saw_three_lights_in_a_triangle_formation_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cj48me/saw_three_lights_in_a_triangle_formation_which/</a>  

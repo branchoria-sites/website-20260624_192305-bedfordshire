@@ -248,7 +248,7 @@ image: /assets/images/Gloucestershire_03cc40_modern_sighting_clus_847b76-overvie
 
 ## Introduction
 
-Modern [Gloucestershire]({{ 'what-really-happened-over/' | relative_url }}) UFO reporting is best read as a pattern of public skywatching rather than a run of strong, unresolved cases. Between January 2021 and May 2023, local reporting based on UFO Identified data listed 13 Gloucestershire sightings, spread across Cheltenham, Cirencester, Coleford, Dursley, Gloucester and rural villages; a later regional update put the county figure at 18 sightings between January 2021 and December 2023. The reports are interesting because they show where people are still looking up, what kinds of objects they describe, and how modern UFO culture reaches local towns. They are weak, however, because most are short witness accounts of lights, orbs, flashes or star-like objects, usually without independent witnesses, radar, flight data, clear video, or formal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+Modern [Gloucestershire]({{ 'what-really-happened-over/' | relative_url }}) UFO reporting is best read as a pattern of public skywatching rather than a run of strong, unresolved cases. Between January 2021 and May 2023, local reporting based on UFO Identified data listed 13 Gloucestershire sightings, spread across Cheltenham, Cirencester, Coleford, Dursley, Gloucester and rural villages; a later regional update put the county figure at 18 sightings between January 2021 and December 2023. The reports are interesting because they show where people are still looking up, what kinds of objects they describe, and how modern UFO culture reaches local towns. They are weak, however, because most are short witness accounts of lights, orbs, flashes or star-like objects, usually without independent witnesses, radar, flight data, clear video, or formal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40_modern_sighting_clus_847b76-overview.webp" | relative_url }}" alt="Overview image for Modern Sightings" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,11 +256,11 @@ That does not make the witnesses foolish or dishonest. A light can be genuinely 
 
 ## Reports from 2021 to 2023
 
-The clearest modern cluster comes from a Gloucestershire Live map published in August 2023, drawing on UFO Identified’s UK sighting database. It recorded 13 county reports from January 2021 to May 2023. The named locations give the pattern its local shape: Gloucester and Cheltenham appear alongside Cirencester, Coleford and Dursley, with other reports from villages and smaller settlements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+The clearest modern cluster comes from a Gloucestershire Live map published in August 2023, drawing on UFO Identified’s UK sighting database. It recorded 13 county reports from January 2021 to May 2023. The named locations give the pattern its local shape: Gloucester and Cheltenham appear alongside Cirencester, Coleford and Dursley, with other reports from villages and smaller settlements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
-The individual descriptions are vivid but brief. In Cheltenham, one August 2022 report described an orb-shaped light hovering above a building, making no sound, dimming and then disappearing. Another Cheltenham report from January 2023 described a bright, star-like object that looked rather like the International Space Station before moving sideways, reversing direction and vanishing. Cirencester’s February 2022 report was also “star-like”, said to move like a satellite before stopping, retracing its course and changing direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+The individual descriptions are vivid but brief. In Cheltenham, one August 2022 report described an orb-shaped light hovering above a building, making no sound, dimming and then disappearing. Another Cheltenham report from January 2023 described a bright, star-like object that looked rather like the International Space Station before moving sideways, reversing direction and vanishing. Cirencester’s February 2022 report was also “star-like”, said to move like a satellite before stopping, retracing its course and changing direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
-Gloucester supplied two of the more dramatic accounts in the same list. In April 2021, a witness reported multiple bright orb-like objects zig-zagging and surrounded by what they described as an “energy substance”. In November 2021, another report described a red saucer shape, followed by a second object, before both moved quickly towards the ground. Coleford’s July 2021 entry described blue pulsing lights changing direction and merging, while Dursley’s March 2022 report was a flash and wave of blue light above house roofs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+Gloucester supplied two of the more dramatic accounts in the same list. In April 2021, a witness reported multiple bright orb-like objects zig-zagging and surrounded by what they described as an “energy substance”. In November 2021, another report described a red saucer shape, followed by a second object, before both moved quickly towards the ground. Coleford’s July 2021 entry described blue pulsing lights changing direction and merging, while Dursley’s March 2022 report was a flash and wave of blue light above house roofs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
 These reports matter within Gloucestershire’s UFO history because they show continuity after the Ministry of Defence stopped collecting and investigating public UFO reports. They do not resemble the county’s landmark 1952 [Little Rissington]({{ 'little-rissington/' | relative_url }}) case, which involved trained aircrew and an RAF setting. Instead, they belong to the post-MoD era: decentralised, internet-collected, locally mapped and usually dependent on what one observer managed to notice and describe.
 
@@ -272,9 +272,9 @@ The 2021–2023 Gloucestershire material is a “case family” rather than one 
 
 That makes the cluster useful but limited. It is useful because repeated descriptions can reveal public reporting habits: people notice unusual points of light, compare them with familiar objects such as satellites or the International Space Station, and report them when the movement seems wrong. It is limited because the same descriptions can be produced by very different sources: aircraft seen head-on, drones, satellites, meteors, reflections, searchlights, fireworks, sky lanterns, birds catching light, camera artefacts, or simple errors in distance and speed judgement.
 
-A later 2024 local-regional article, again using UFO Identified’s annual data, said 18 sightings were recorded across Gloucestershire between January 2021 and December 2023. Nationally, the same reporting stream said UFO Identified documented 395 UK sightings in 2023, down from 497 in 2022. That places Gloucestershire in a wider UK pattern: the county is active enough to appear on modern maps, but not presented as a major national hotspot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-title">interactive map shows every ufo 9185084</span><span class="citation-popover-snippet">interactive map shows every ufo 9185084</span></span></span>
+A later 2024 local-regional article, again using UFO Identified’s annual data, said 18 sightings were recorded across Gloucestershire between January 2021 and December 2023. Nationally, the same reporting stream said UFO Identified documented 395 UK sightings in 2023, down from 497 in 2022. That places Gloucestershire in a wider UK pattern: the county is active enough to appear on modern maps, but not presented as a major national hotspot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-title">interactive map shows every ufo 9185084</span><span class="citation-popover-snippet">interactive map shows every ufo 9185084</span></span></span>
 
-The geography also matters. Gloucester and Cheltenham sit close to Gloucestershire Airport at Staverton, between the two urban areas. The airport describes itself as the UK’s busiest general aviation airport by aircraft movements in 2023. That does not explain every sighting, but it does mean that aircraft lights, training flights, helicopters and general aviation activity have to be considered before treating local lights as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershireairport.co.uk/about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershireairport.co.uk">[gloucestershireairport.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershireairport.co.uk</span><span class="citation-popover-title">About us – Gloucestershire Airport</span><span class="citation-popover-snippet">About us – Gloucestershire Airport</span></span></span>
+The geography also matters. Gloucester and Cheltenham sit close to Gloucestershire Airport at Staverton, between the two urban areas. The airport describes itself as the UK’s busiest general aviation airport by aircraft movements in 2023. That does not explain every sighting, but it does mean that aircraft lights, training flights, helicopters and general aviation activity have to be considered before treating local lights as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershireairport.co.uk/about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershireairport.co.uk">[gloucestershireairport.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershireairport.co.uk</span><span class="citation-popover-title">About us – Gloucestershire Airport</span><span class="citation-popover-snippet">About us – Gloucestershire Airport</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.4K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
@@ -285,13 +285,13 @@ The most repeated modern Gloucestershire descriptions are not structured craft w
 
 Several common categories stand out in the county reports:
 
-**Star-like objects:** Cheltenham and Cirencester both had reports in which the witness compared the object with a satellite or the ISS before describing a movement that seemed inconsistent with that explanation. This is a classic weak-but-interesting form: the witness has made an ordinary comparison, but the account still rests on memory and perception rather than trackable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+**Star-like objects:** Cheltenham and Cirencester both had reports in which the witness compared the object with a satellite or the ISS before describing a movement that seemed inconsistent with that explanation. This is a classic weak-but-interesting form: the witness has made an ordinary comparison, but the account still rests on memory and perception rather than trackable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
-**Orbs and hovering lights:** Gloucester and Cheltenham reports used orb-like language. “Orb” is a flexible word: it can mean a round light, a blurred point source, a camera effect, or an object whose actual shape cannot be seen. In a UFO archive, “orb” is therefore a description of appearance, not proof of a spherical craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+**Orbs and hovering lights:** Gloucester and Cheltenham reports used orb-like language. “Orb” is a flexible word: it can mean a round light, a blurred point source, a camera effect, or an object whose actual shape cannot be seen. In a UFO archive, “orb” is therefore a description of appearance, not proof of a spherical craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
-**Coloured flashes and blue light:** Coleford and Dursley produced blue-light descriptions. These are memorable, but colour alone is not a strong identifier. Aircraft lights, drone LEDs, emergency lights reflected on low cloud, electrical events, fireworks and optical effects can all generate sudden colour impressions. The Dursley report’s “flash and wave” phrasing is striking, yet it also shows the problem: a brief flash is very difficult to investigate after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+**Coloured flashes and blue light:** Coleford and Dursley produced blue-light descriptions. These are memorable, but colour alone is not a strong identifier. Aircraft lights, drone LEDs, emergency lights reflected on low cloud, electrical events, fireworks and optical effects can all generate sudden colour impressions. The Dursley report’s “flash and wave” phrasing is striking, yet it also shows the problem: a brief flash is very difficult to investigate after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
-**Red saucer language:** The Gloucester “red saucer” report is the most traditional UFO-shaped phrase in the modern set. Even there, the evidence remains a short account rather than a documented incident with multiple lines of confirmation. It is historically interesting because it echoes older flying-saucer imagery, but the report’s strength depends on whether any independent witnesses, images, flight checks or environmental data can support it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
+**Red saucer language:** The Gloucester “red saucer” report is the most traditional UFO-shaped phrase in the modern set. Even there, the evidence remains a short account rather than a documented incident with multiple lines of confirmation. It is historically interesting because it echoes older flying-saucer imagery, but the report’s strength depends on whether any independent witnesses, images, flight checks or environmental data can support it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[gloucestershirelive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-snippet">Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40_modern_sighting_clus_847b76-Illustration-2-dark.svg" | relative_url }}" alt="Modern Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Gloucestershire_03cc40_modern_sighting_clus_847b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gloucestershire_03cc40_modern_sighting_clus_847b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -299,15 +299,15 @@ Several common categories stand out in the county reports:
 
 Modern Gloucestershire sightings usually stay weak because they begin and end as witness narratives. A witness sees something odd, describes it briefly, and the report is added to a database or local map. That can preserve public testimony, but it rarely supplies the information needed to separate an unexplained sighting from an explained one.
 
-The Ministry of Defence context is important here. The MoD ceased investigating UFO or UAP reports in 2009, and a December 2024 parliamentary answer stated that it had not classified new material on the subject since; it also repeated the department’s position that, over more than 50 years, no reported sighting had indicated a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The Ministry of Defence context is important here. The MoD ceased investigating UFO or UAP reports in 2009, and a December 2024 parliamentary answer stated that it had not classified new material on the subject since; it also repeated the department’s position that, over more than 50 years, no reported sighting had indicated a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
-That leaves modern county-level reporting in a looser environment. Reports may be collected by civilian groups, local media, social platforms or police incident logs, but they are not automatically subjected to a standard official UFO investigation. The National Archives notes that older UFO reports often included location, movement, distance and weather details, and sometimes annotations about possible local explanations. Modern public reports often contain fewer verifiable details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+That leaves modern county-level reporting in a looser environment. Reports may be collected by civilian groups, local media, social platforms or police incident logs, but they are not automatically subjected to a standard official UFO investigation. The National Archives notes that older UFO reports often included location, movement, distance and weather details, and sometimes annotations about possible local explanations. Modern public reports often contain fewer verifiable details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 The strongest modern Gloucestershire report would include at least some of the following: exact time and location, viewing direction, duration, weather, photos or video with original metadata, multiple independent witnesses from different positions, checks against flight-tracking data, satellite passes, astronomical events and local drone activity. Most short reports do not reach that level.
 
-Drones are one reason the evidential threshold has risen. The Civil Aviation Authority says drones must remain within rules such as not flying above 120 metres, avoiding restricted airspace, and being kept in direct sight; it also says a drone or model aircraft flown at night must have a green flashing light. Around Gloucestershire Airport, drone operators intending to fly within 2 nautical miles of the aerodrome must apply in advance, with applications assessed by Gloucestershire Police. A legal or illegal drone can still look strange to a witness who does not know it is there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAWhere you can fly &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAWhere you can fly &#124; UK Civil Aviation Authority</span></span></span>
+Drones are one reason the evidential threshold has risen. The Civil Aviation Authority says drones must remain within rules such as not flying above 120 metres, avoiding restricted airspace, and being kept in direct sight; it also says a drone or model aircraft flown at night must have a green flashing light. Around Gloucestershire Airport, drone operators intending to fly within 2 nautical miles of the aerodrome must apply in advance, with applications assessed by Gloucestershire Police. A legal or illegal drone can still look strange to a witness who does not know it is there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAWhere you can fly &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAWhere you can fly &#124; UK Civil Aviation Authority</span></span></span>
 
-Satellites are another modern complication. Starlink trains are widely reported as UFO-like because they can appear as a line of bright moving lights shortly after launch, especially after sunset or before sunrise. Space.com’s 2026 guide notes that these trains are often mistaken for UFOs and that the satellites reflect sunlight rather than carrying lights of their own. Gloucestershire Live had already warned local readers about Starlink passes in 2020, showing that this explanation has become part of the county’s skywatching context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
+Satellites are another modern complication. Starlink trains are widely reported as UFO-like because they can appear as a line of bright moving lights shortly after launch, especially after sunset or before sunrise. Space.com’s 2026 guide notes that these trains are often mistaken for UFOs and that the satellites reflect sunlight rather than carrying lights of their own. Gloucestershire Live had already warned local readers about Starlink passes in 2020, showing that this explanation has become part of the county’s skywatching context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eBLcIW3pOSU" title="The Epicentre Of UFO Activity In The UK | Our Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eBLcIW3pOSU" target="_blank" rel="noopener noreferrer">The Epicentre Of UFO Activity In The UK | Our Life</a></p><p class="youtube-embed-meta">Channel: True Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eBLcIW3pOSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eBLcIW3pOSU">Open on YouTube</a></p></div></div></div>
@@ -337,194 +337,194 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are People Still Reporting Lights Over Gloucestershire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are People Still Reporting Lights Over Gloucestershire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating witness reports against stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating witness reports against stronger documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are assessed and why many sightings remain unresolved but weakly evidenced.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are assessed and why many sightings remain unresolved but weakly evidenced.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines what separates anecdotal sightings from cases with stronger supporting data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines what separates anecdotal sightings from cases with stronger supporting data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Addresses contemporary UFO reporting culture and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses contemporary UFO reporting culture and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MA02 Vintage Celestial Map Planisphaerium Coeleste Astronomy Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/c4182fb0b511d8ee693e.jpg' | relative_url }}" alt="Listing image for MA02 Vintage Celestial Map Planisphaerium Coeleste Astronomy Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MA02 Vintage Celestial Map Planisphaerium Coeleste Astronomy Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MA02 Vintage Celestial Map Planisphaerium Coeleste Astronomy Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/c4182fb0b511d8ee693e.jpg' | relative_url }}" alt="Listing image for MA02 Vintage Celestial Map Planisphaerium Coeleste Astronomy Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MA02 Vintage Celestial Map Planisphaerium Coeleste Astronomy Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MP67 Vintage 1700 Zodiac Astronomy Constellations Celestial Map Poster A1/A2/A3"><img src="{{ '/assets/images/marketplace-covers/da74fff425eae5ea3bbf.jpg' | relative_url }}" alt="Listing image for MP67 Vintage 1700 Zodiac Astronomy Constellations Celestial Map Poster A1/A2/A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MP67 Vintage 1700 Zodiac Astronomy Constellations Celestial Map Poster A1/A2/A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MP67 Vintage 1700 Zodiac Astronomy Constellations Celestial Map Poster A1/A2/A3"><img src="{{ '/assets/images/marketplace-covers/da74fff425eae5ea3bbf.jpg' | relative_url }}" alt="Listing image for MP67 Vintage 1700 Zodiac Astronomy Constellations Celestial Map Poster A1/A2/A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MP67 Vintage 1700 Zodiac Astronomy Constellations Celestial Map Poster A1/A2/A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy diagram earth other planets 1874 VINTAGE science posters print"><img src="{{ '/assets/images/marketplace-covers/e85671b1db334aea5420.jpg' | relative_url }}" alt="Listing image for Astronomy diagram earth other planets 1874 VINTAGE science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy diagram earth other planets 1874 VINTAGE science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy diagram earth other planets 1874 VINTAGE science posters print"><img src="{{ '/assets/images/marketplace-covers/e85671b1db334aea5420.jpg' | relative_url }}" alt="Listing image for Astronomy diagram earth other planets 1874 VINTAGE science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy diagram earth other planets 1874 VINTAGE science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="modern-sightings-why-are-people-still-reporting-lights-over-gloucestershire-gloucestershire-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,213 +730,213 @@ On that standard, the modern Gloucestershire cluster remains weak but not worthl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gloucestershirelive.co.uk  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</p></details>
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every UFO sighting reported in Gloucestershire including &#x27;bizarre flash&#x27; and &#x27;light hovering above building&#x27; - Gloucestershire Live...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gloucestershirelive.co.uk  
    Title: interactive map shows every ufo 9185084  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gloucestershireairport.co.uk  
    Title: About us – Gloucestershire Airport  
-   Link: <a href="https://www.gloucestershireairport.co.uk/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/about-us</a>  
+   Link:<a href="https://www.gloucestershireairport.co.uk/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/about-us</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: caa.co.uk  
    Title: CAAWhere you can fly | UK Civil Aviation Authority  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gloucestershireairport.co.uk  
    Title: Drones and Tall Equipment – Gloucestershire Airport  
-   Link: <a href="https://www.gloucestershireairport.co.uk/operations/drones-cranes" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/operations/drones-cranes</a>  
+   Link:<a href="https://www.gloucestershireairport.co.uk/operations/drones-cranes" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/operations/drones-cranes</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gloucestershirelive.co.uk  
    Title: elon musks starlink satellites pass 4068977  
-   Link: <a href="https://www.gloucestershirelive.co.uk/whats-on/whats-on-news/elon-musks-starlink-satellites-pass-4068977" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/whats-on/whats-on-news/elon-musks-starlink-satellites-pass-4068977</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/whats-on/whats-on-news/elon-musks-starlink-satellites-pass-4068977" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/whats-on/whats-on-news/elon-musks-starlink-satellites-pass-4068977</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gloucestershirelive.co.uk  
    Title: truth out there see ufo 9718140  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gloucestershirelive.co.uk  
    Title: ufo map shows bizarre encounters 8755124  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gloucestershirelive.co.uk  
    Title: mystery lights cheltenham gloucester ufo 2015610  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gloucestershirelive.co.uk  
    Title: so what strange lights sky 90504  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/so-what-strange-lights-sky-90504" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/so-what-strange-lights-sky-90504</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/so-what-strange-lights-sky-90504" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/so-what-strange-lights-sky-90504</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gloucestershirelive.co.uk  
    Title: answers those baffling lights above 2233902  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/answers-those-baffling-lights-above-2233902" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/answers-those-baffling-lights-above-2233902</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/answers-those-baffling-lights-above-2233902" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/answers-those-baffling-lights-above-2233902</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gloucestershireairport.co.uk  
-   Link: <a href="https://www.gloucestershireairport.co.uk/airport-directory" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/airport-directory</a>  
+   Link:<a href="https://www.gloucestershireairport.co.uk/airport-directory" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/airport-directory</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
+   Link:<a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gloucestershire.police.uk  
-   Link: <a href="https://www.gloucestershire.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: westmidlands.police.uk  
-   Link: <a href="https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/" target="_blank" rel="noopener noreferrer nofollow">https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/</a>  
+   Link:<a href="https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/" target="_blank" rel="noopener noreferrer nofollow">https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/772532730279139/posts/1234306870768387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/772532730279139/posts/1234306870768387/</a>  
+   Link:<a href="https://www.facebook.com/groups/772532730279139/posts/1234306870768387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/772532730279139/posts/1234306870768387/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GlosAirport/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlosAirport/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/GlosAirport/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlosAirport/?locale=en_GB</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: General Aviation  
-   Link: <a href="https://www.youtube.com/watch?v=8wElbdEeiOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wElbdEeiOA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=8wElbdEeiOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wElbdEeiOA</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: democracy.gloucester.gov.uk  
    Title: gloucester.gov.uk Agenda item  
-   Link: <a href="https://democracy.gloucester.gov.uk/mgAi.aspx?ID=39943" target="_blank" rel="noopener noreferrer nofollow">https://democracy.gloucester.gov.uk/mgAi.aspx?ID=39943</a>  
+   Link:<a href="https://democracy.gloucester.gov.uk/mgAi.aspx?ID=39943" target="_blank" rel="noopener noreferrer nofollow">https://democracy.gloucester.gov.uk/mgAi.aspx?ID=39943</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
    Title: Gloucestershire Airport  
-   Link: <a href="https://wikishire.co.uk/wiki/Gloucestershire_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Gloucestershire_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Gloucestershire_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Gloucestershire_Airport</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Bizarre UFO Sightings Spotted By Pilots | Strange But True | Our Life  
-   Link: <a href="https://www.youtube.com/watch?v=eBLcIW3pOSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBLcIW3pOSU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentyrch UFO Incident | Hiding the Evidence of Human-Alien Combat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eBLcIW3pOSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBLcIW3pOSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentyrch UFO Incident | Hiding the Evidence of Human-Alien Combat...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSEq1veESP7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSEq1veESP7/</a>  
+   Link:<a href="https://www.instagram.com/reel/DSEq1veESP7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSEq1veESP7/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tn2xs8/anyone_live_in_the_uk_been_seeing_stuff_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tn2xs8/anyone_live_in_the_uk_been_seeing_stuff_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tn2xs8/anyone_live_in_the_uk_been_seeing_stuff_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tn2xs8/anyone_live_in_the_uk_been_seeing_stuff_in_the/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
+   Link:<a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: gamaaviation.com  
-   Link: <a href="https://www.gamaaviation.com/locations/gloucester-airport-staverton/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamaaviation.com/locations/gloucester-airport-staverton/</a>  
+   Link:<a href="https://www.gamaaviation.com/locations/gloucester-airport-staverton/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamaaviation.com/locations/gloucester-airport-staverton/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GloucesterPoliceDepartment/posts/drones-are-prohibited-over-all-events-at-%EF%B8%8F%EF%B8%8F%EF%B8%8Ffollow-the-page-below-for-all-event-/1128572052642971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GloucesterPoliceDepartment/posts/drones-are-prohibited-over-all-events-at-%EF%B8%8F%EF%B8%8F%EF%B8%8Ffollow-the-page-below-for-all-event-/1128572052642971/</a>  
+   Link:<a href="https://www.facebook.com/GloucesterPoliceDepartment/posts/drones-are-prohibited-over-all-events-at-%EF%B8%8F%EF%B8%8F%EF%B8%8Ffollow-the-page-below-for-all-event-/1128572052642971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GloucesterPoliceDepartment/posts/drones-are-prohibited-over-all-events-at-%EF%B8%8F%EF%B8%8F%EF%B8%8Ffollow-the-page-below-for-all-event-/1128572052642971/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/glosairport/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/glosairport/</a>  
+   Link:<a href="https://www.instagram.com/glosairport/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/glosairport/</a>  

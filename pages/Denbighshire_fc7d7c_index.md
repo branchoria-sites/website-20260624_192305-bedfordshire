@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /denbighshire-fc7d7c-index/
 description: Focused pages that expand on What Really Happened in Denbighshire's....
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Denbighshire_fc7d7c
 parent_title: What Really Happened in Denbighshire's...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-denbighshires/
 
 # Explore Topics in What Really Happened in Denbighshire's...
 
-The following pages expand on the main **[What Really Happened in Denbighshire's...]({{ '/what-really-happened-in-denbighshires/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Denbighshire's...]({{ '/what-really-happened-in-denbighshires/' | relative_url }})** page and cover its key branches in.
 
 - [Berwyn Border]({{ '/berwyn-border/' | relative_url }})
 - [Modern Lights]({{ '/modern-lights/' | relative_url }})

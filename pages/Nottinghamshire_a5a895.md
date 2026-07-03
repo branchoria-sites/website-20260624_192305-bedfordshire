@@ -118,9 +118,9 @@ heading_title: What Did Nottinghamshire Really See?
 page_heading_title: What Did Nottinghamshire Really See?
 source_count: 141
 infographic_count: 3
-page_website_name: Nottinghamshire UFOs
+page_website_name: Nottinghamshire
 page_banner_line: Balanced county UFO history from official files, local archives, sightings, and sceptical checks.
-site_website_name: Nottinghamshire UFOs
+site_website_name: Nottinghamshire
 site_banner_line: Balanced county UFO history from official files, local archives, sightings, and sceptical checks.
 site_image_description: A night view over Nottinghamshire rooftops with small orange lights in the sky and a civic building below.
 output_language: English
@@ -695,19 +695,19 @@ That makes the county useful precisely because it shows how UK UFO history often
 <img src="{{ "/assets/images/Nottinghamshire_a5a895-overview.webp" | relative_url }}" alt="Overview image for What Did Nottinghamshire Really See?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as “Nottinghamshire” here?
 
-This page uses Nottinghamshire as the historic county focus, following the UK historic-county mapping approach used by Wikishire and Wikimedia Commons. The Wikimedia Commons historic-county map file describes the British Isles and historic counties as a county framework rooted in the period before the late nineteenth-century local government reforms, while Wikishire says its interactive map follows the Historic Counties Standard and Historic County Borders Project data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+This page uses Nottinghamshire as the historic county focus, following the UK historic-county mapping approach used by Wikishire and Wikimedia Commons. The Wikimedia Commons historic-county map file describes the British Isles and historic counties as a county framework rooted in the period before the late nineteenth-century local government reforms, while Wikishire says its interactive map follows the Historic Counties Standard and Historic County Borders Project data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
 That matters because UFO reports rarely respect neat administrative boundaries. Long Eaton appears in some Ministry of Defence UFO tables under Nottinghamshire, although modern readers may associate it with Derbyshire. Nottingham Airport, East Midlands Airport flight paths, police reporting areas, local press coverage and witness travel routes can all blur county edges. For this page, Nottinghamshire remains the centre of gravity, but neighbouring Derbyshire, Leicestershire, Lincolnshire and South Yorkshire are relevant where flight paths, press markets or nearby sightings help explain the evidence.
 
 ## The official record: Nottinghamshire in the MoD UFO files
 
-The strongest starting point is the Ministry of Defence’s published UFO report lists. GOV.UK describes these as UK UFO reports from 1997 to 2009, giving date, time, location and a brief description of each sighting. They are not proof that the objects were extraordinary; they are administrative records of reports received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The strongest starting point is the Ministry of Defence’s published UFO report lists. GOV.UK describes these as UK UFO reports from 1997 to 2009, giving date, time, location and a brief description of each sighting. They are not proof that the objects were extraordinary; they are administrative records of reports received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Several Nottinghamshire-linked entries stand out. On 29 December 1997, a pilot reported a single spherical object “over Nottingham”, roughly 5–7 feet across, metallic and high-gloss, with a “machined appearance”. On 30 July 2001, Nottingham was listed for a bright orangey-red circular object moving in a regular figure-of-eight pattern. On 15 April 2002, Nottingham produced a more striking entry: three silver triangular objects in formation, reportedly followed closely by a police helicopter. Later that year, on 11 November 2002, another Nottingham entry described eight objects joining into a circle, separating, moving independently and joining again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Several Nottinghamshire-linked entries stand out. On 29 December 1997, a pilot reported a single spherical object “over Nottingham”, roughly 5–7 feet across, metallic and high-gloss, with a “machined appearance”. On 30 July 2001, Nottingham was listed for a bright orangey-red circular object moving in a regular figure-of-eight pattern. On 15 April 2002, Nottingham produced a more striking entry: three silver triangular objects in formation, reportedly followed closely by a police helicopter. Later that year, on 11 November 2002, another Nottingham entry described eight objects joining into a circle, separating, moving independently and joining again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The 2004 Retford case became the county’s most visible MoD-era image case. The MoD’s 2004 table lists an object seen over Retford Town Hall at 23:08 on 27 January 2004. Later reporting on the released files said the image was examined by defence imagery experts, who reached no firm conclusion but suggested the illuminated plane of the object passing through the centre of the frame might point to a lens anomaly, such as moisture on the lens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 2004 Retford case became the county’s most visible MoD-era image case. The MoD’s 2004 table lists an object seen over Retford Town Hall at 23:08 on 27 January 2004. Later reporting on the released files said the image was examined by defence imagery experts, who reached no firm conclusion but suggested the illuminated plane of the object passing through the centre of the frame might point to a lens anomaly, such as moisture on the lens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2007 and 2009 lists show a different kind of Nottinghamshire pattern: repeated night-time lights. Long Eaton is listed on 3 March 2007 with a fast-moving curved, diamond-shaped object. In 2009, Cropwell Bishop produced a report of three orange lights arranged vertically, in four sets; West Bridgford produced about 100 flashing white lights moving rapidly in an arc; Nottingham produced two orange lights in parallel formation; Long Eaton produced a large bright yellow hovering object; and Mansfield produced a red-and-orange object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2007 and 2009 lists show a different kind of Nottinghamshire pattern: repeated night-time lights. Long Eaton is listed on 3 March 2007 with a fast-moving curved, diamond-shaped object. In 2009, Cropwell Bishop produced a report of three orange lights arranged vertically, in four sets; West Bridgford produced about 100 flashing white lights moving rapidly in an arc; Nottingham produced two orange lights in parallel formation; Long Eaton produced a large bright yellow hovering object; and Mansfield produced a red-and-orange object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 These entries are valuable because they are contemporaneous official summaries, but they are thin evidence. Most are one-line descriptions. They rarely include photographs, radar confirmation, named witnesses, weather checks, flight-track analysis or follow-up investigation. They tell us what was reported; they do not tell us what was in the sky.
 
@@ -715,17 +715,17 @@ These entries are valuable because they are contemporaneous official summaries, 
 <img src="{{ "/assets/images/Nottinghamshire_a5a895-Illustration-1-dark.svg" | relative_url }}" alt="What Did Nottinghamshire Really See? illustration 1" data-theme-src-dark="{{ "/assets/images/Nottinghamshire_a5a895-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nottinghamshire_a5a895-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Retford Town Hall: a memorable photo, but not a solved mystery
 
-The Retford Town Hall case is the most reader-friendly Nottinghamshire example because it has place, date, image and official attention. The claim was simple: a “flying saucer” was photographed outside Retford Town Hall in January 2004. When the MoD files were later released, Sky News and other outlets highlighted the case because defence experts had examined the submitted image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">mod releases secret files on ufo sightings 10486718</span><span class="citation-popover-snippet">mod releases secret files on ufo sightings 10486718</span></span></span>
+The Retford Town Hall case is the most reader-friendly Nottinghamshire example because it has place, date, image and official attention. The claim was simple: a “flying saucer” was photographed outside Retford Town Hall in January 2004. When the MoD files were later released, Sky News and other outlets highlighted the case because defence experts had examined the submitted image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">mod releases secret files on ufo sightings 10486718</span><span class="citation-popover-snippet">mod releases secret files on ufo sightings 10486718</span></span></span>
 
-The key point is that the official reading was cautious, not dramatic. The Defence Geographic and Imagery Intelligence Agency did not confirm a craft. Its reported comment was that no definitive conclusion could be drawn, while also noting a possible lens anomaly. That is exactly the kind of result that often gets lost in retellings: the image was interesting enough to be examined, but not strong enough to establish an extraordinary event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">mod releases secret files on ufo sightings 10486718</span><span class="citation-popover-snippet">mod releases secret files on ufo sightings 10486718</span></span></span>
+The key point is that the official reading was cautious, not dramatic. The Defence Geographic and Imagery Intelligence Agency did not confirm a craft. Its reported comment was that no definitive conclusion could be drawn, while also noting a possible lens anomaly. That is exactly the kind of result that often gets lost in retellings: the image was interesting enough to be examined, but not strong enough to establish an extraordinary event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">mod releases secret files on ufo sightings 10486718</span><span class="citation-popover-snippet">mod releases secret files on ufo sightings 10486718</span></span></span>
 
 For Nottinghamshire’s UFO history, Retford matters less as proof of a flying saucer and more as a case study in how a local sighting becomes a national file-release story. A single image, a recognisable civic landmark and a phrase such as “defence experts” can make a case sound stronger than the underlying assessment. The better reading is unresolved-but-weak: worth recording, but not a robust identification challenge without the original image context, camera details, weather conditions and independent corroboration.
 
 ## Nottingham’s local UFO culture was more organised than many readers expect
 
-Nottinghamshire’s UFO history is not just a list of sightings. It also includes a local investigation culture. A 2019 LeftLion article describes how Nottingham and the wider East Midlands developed a network of UFO enthusiasts after the Second World War, with newsletters, international correspondence and [local archives]({{ 'local-archives/' | relative_url }}). It identifies the National Unidentified Flying Object Investigation Society, chaired by local author and historian Robert W. Morrell from Meadow Lane, as a notable Nottingham-linked group whose material was preserved in Nottingham Central Library. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
+Nottinghamshire’s UFO history is not just a list of sightings. It also includes a local investigation culture. A 2019 LeftLion article describes how Nottingham and the wider East Midlands developed a network of UFO enthusiasts after the Second World War, with newsletters, international correspondence and [local archives]({{ 'local-archives/' | relative_url }}). It identifies the National Unidentified Flying Object Investigation Society, chaired by local author and historian Robert W. Morrell from Meadow Lane, as a notable Nottingham-linked group whose material was preserved in Nottingham Central Library.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
 
-This local culture was not simply credulous. The same account describes Morrell as a sceptical figure within UFO circles, and notes that NUFOIS material often explained sightings as mundane phenomena such as satellites. LeftLion gives two Nottingham examples that are especially useful: bright white lights over West Bridgford were later attributed to floodlights from the City Ground, while a mysterious orange light reported to police was traced to flares set off by a drunken barge pilot on the Trent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
+This local culture was not simply credulous. The same account describes Morrell as a sceptical figure within UFO circles, and notes that NUFOIS material often explained sightings as mundane phenomena such as satellites. LeftLion gives two Nottingham examples that are especially useful: bright white lights over West Bridgford were later attributed to floodlights from the City Ground, while a mysterious orange light reported to police was traced to flares set off by a drunken barge pilot on the Trent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
 
 Those stories are important because they show the value of local follow-up. A vague “light in the sky” can become interesting when several people report it, but it can also become ordinary once investigators check the ground conditions. Nottinghamshire’s local record therefore cuts both ways: it preserves reports that might otherwise vanish, while also showing how many impressive claims weaken when ordinary explanations are tested.
 
@@ -734,17 +734,17 @@ Those stories are important because they show the value of local follow-up. A va
 
 ## The Flying Bedstead and why aviation history matters
 
-One of Nottinghamshire’s most unusual “UFO-like” episodes was not extraterrestrial at all. In the 1950s, Rolls-Royce developed the Thrust Measuring Rig at Hucknall Aerodrome. The ungainly vertical-take-off test machine, nicknamed the “Flying Bedstead”, could understandably look bizarre to witnesses used to conventional aircraft. LeftLion cites it as a vivid example of how post-war experimental aviation could feed the public imagination around strange machines in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
+One of Nottinghamshire’s most unusual “UFO-like” episodes was not extraterrestrial at all. In the 1950s, Rolls-Royce developed the Thrust Measuring Rig at Hucknall Aerodrome. The ungainly vertical-take-off test machine, nicknamed the “Flying Bedstead”, could understandably look bizarre to witnesses used to conventional aircraft. LeftLion cites it as a vivid example of how post-war experimental aviation could feed the public imagination around strange machines in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
 
 This is a useful local caution. Nottinghamshire sits in a region shaped by aviation, industry, airfields, military routes and test activity. A witness can be honest and still misread an unfamiliar aircraft, helicopter, drone, lantern, flare, satellite train or floodlight effect. The “Flying Bedstead” does not explain later reports, but it explains a recurring interpretive problem: a strange-looking object is not automatically an otherworldly one.
 
-The MoD’s own wider approach fits this caution. The National Archives says the Ministry of Defence kept UFO records from the 1960s and that most describe shapes, lights and flashes that can often be explained, with some more unusual cases remaining. Its research guide also notes that official reporting began in the early 1950s, but that many early files were lost because, until 1967, MoD policy was to destroy UFO files after five years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD’s own wider approach fits this caution. The National Archives says the Ministry of Defence kept UFO records from the 1960s and that most describe shapes, lights and flashes that can often be explained, with some more unusual cases remaining. Its research guide also notes that official reporting began in the early 1950s, but that many early files were lost because, until 1967, MoD policy was to destroy UFO files after five years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 ## The 2009 orange-light cluster and the lantern problem
 
-The year 2009 is particularly relevant for Nottinghamshire because several local entries match a national pattern of orange lights. Cropwell Bishop, Nottingham, Long Eaton, Mansfield and West Bridgford all appear in that year’s MoD reporting, with descriptions including orange lights, orbs, parallel formations and groups of lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The year 2009 is particularly relevant for Nottinghamshire because several local entries match a national pattern of orange lights. Cropwell Bishop, Nottingham, Long Eaton, Mansfield and West Bridgford all appear in that year’s MoD reporting, with descriptions including orange lights, orbs, parallel formations and groups of lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-This does not mean all those sightings have the same explanation, but the timing matters. The National Archives’ 2013 UFO highlights guide says the 2008–09 upsurge in sighting reports made the workload of the single official responsible for UFO reports unmanageable and began affecting other defence work. A National Archives video transcript on the final UFO-file releases also describes many late MoD reports as orange ball-shaped phenomena, often in clusters, moving silently in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+This does not mean all those sightings have the same explanation, but the timing matters. The National Archives’ 2013 UFO highlights guide says the 2008–09 upsurge in sighting reports made the workload of the single official responsible for UFO reports unmanageable and began affecting other defence work. A National Archives video transcript on the final UFO-file releases also describes many late MoD reports as orange ball-shaped phenomena, often in clusters, moving silently in formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 That pattern is consistent with the Chinese lantern problem that affected many UK UFO reports in the late 2000s. Lanterns can appear as silent orange balls, drift in groups, fade out one by one, and look controlled when wind carries them on similar paths. This does not automatically solve every Nottinghamshire entry, especially where witnesses describe very fast motion or unusual manoeuvres, but it makes the 2009 cluster less mysterious than it may look in isolation.
 
@@ -752,19 +752,19 @@ That pattern is consistent with the Chinese lantern problem that affected many U
 <img src="{{ "/assets/images/Nottinghamshire_a5a895-Illustration-2-dark.svg" | relative_url }}" alt="What Did Nottinghamshire Really See? illustration 2" data-theme-src-dark="{{ "/assets/images/Nottinghamshire_a5a895-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nottinghamshire_a5a895-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Thieves Wood: Nottinghamshire’s alleged crash story is weakly evidenced
 
-The most dramatic Nottinghamshire UFO claim is the alleged 1987 Thieves Wood crash near Mansfield and Annesley. Online retellings describe lights, explosions, damaged houses, helicopters, cordons, armed guards and rumours that a craft came down near Thieves Wood or Annesley Hollow. A 2012 paranormal blog gives a version of that story, and later listings of local strange-tales books refer to an alleged UFO crash at Thieves Wood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theparanormalnetwork.wordpress.com/2012/02/11/did-a-ufo-crash-in-hucknall-in-november-1987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theparanormalnetwork.wordpress.com">[Paranormal Network Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theparanormalnetwork.wordpress.com</span><span class="citation-popover-title">did a ufo crash in hucknall in november 1987</span><span class="citation-popover-snippet">did a ufo crash in hucknall in november 1987</span><span class="citation-popover-meta">Published: november 1987</span></span></span>
+The most dramatic Nottinghamshire UFO claim is the alleged 1987 Thieves Wood crash near Mansfield and Annesley. Online retellings describe lights, explosions, damaged houses, helicopters, cordons, armed guards and rumours that a craft came down near Thieves Wood or Annesley Hollow. A 2012 paranormal blog gives a version of that story, and later listings of local strange-tales books refer to an alleged UFO crash at Thieves Wood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theparanormalnetwork.wordpress.com/2012/02/11/did-a-ufo-crash-in-hucknall-in-november-1987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theparanormalnetwork.wordpress.com">[Paranormal Network Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theparanormalnetwork.wordpress.com</span><span class="citation-popover-title">did a ufo crash in hucknall in november 1987</span><span class="citation-popover-snippet">did a ufo crash in hucknall in november 1987</span><span class="citation-popover-meta">Published: november 1987</span></span></span>
 
-The difficulty is that public evidence has not kept pace with the story. A 2025 Freedom of Information request to Nottinghamshire Police asked for records from 1 December 1987 to 1 January 1988 mentioning UFOs, UAPs, lights in the sky, aliens or extraterrestrial beings. Nottinghamshire Police replied that searches failed to locate relevant records and that the requested 1987–88 period “isn’t documented”, so the force did not hold the requested information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know Our Ref</span><span class="citation-popover-snippet">What Do They Know Our Ref</span></span></span>
+The difficulty is that public evidence has not kept pace with the story. A 2025 Freedom of Information request to Nottinghamshire Police asked for records from 1 December 1987 to 1 January 1988 mentioning UFOs, UAPs, lights in the sky, aliens or extraterrestrial beings. Nottinghamshire Police replied that searches failed to locate relevant records and that the requested 1987–88 period “isn’t documented”, so the force did not hold the requested information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know Our Ref</span><span class="citation-popover-snippet">What Do They Know Our Ref</span></span></span>
 
 That does not absolutely prove nothing happened; old records can be incomplete, misfiled or destroyed. But it does mean the public evidential position is weak. A serious account would need contemporaneous local newspaper reports, emergency-service logs, named witnesses, repair records, military records, photographs, radar data or verifiable statements from officials. Without those, Thieves Wood belongs in Nottinghamshire UFO folklore rather than in the same evidential category as dated MoD report entries.
 
 ## Police records and recent reporting show continuing interest, not confirmation
 
-Modern Nottinghamshire UFO reporting has shifted away from the MoD and towards police Freedom of Information requests, civilian databases, local press and social media. A 2022 WhatDoTheyKnow request asked Nottinghamshire Police for UFO/UAP reports for 2022, including reports mentioning UFOs, UAPs, lights in the sky, aliens or extraterrestrial beings; the request page records it as successful, though the detailed attachment is not easily readable through the live page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UFO/UAP sightings - a Freedom of Information request to Nottinghamshire Police - WhatDoTheyKnow...</span></span></span>
+Modern Nottinghamshire UFO reporting has shifted away from the MoD and towards police Freedom of Information requests, civilian databases, local press and social media. A 2022 WhatDoTheyKnow request asked Nottinghamshire Police for UFO/UAP reports for 2022, including reports mentioning UFOs, UAPs, lights in the sky, aliens or extraterrestrial beings; the request page records it as successful, though the detailed attachment is not easily readable through the live page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UFO/UAP sightings - a Freedom of Information request to Nottinghamshire Police - WhatDoTheyKnow...</span></span></span>
 
-Local media coverage has also kept the subject alive. Nottinghamshire Live reported in March 2024 that 19 UFO sightings had been recorded in Nottinghamshire over the previous three years: five in 2021, seven in 2022 and seven in 2023. That reporting drew on the modern civilian collection work of UFO Identified, whose own site describes its database as an overview of UK UFO sightings reported since 2021, updated from a wide range of sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghampost.com/news/local-news/new-details-every-ufo-sighting-9186247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghampost.com">[Nottingham Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghampost.com</span><span class="citation-popover-title">new details every ufo sighting 9186247</span><span class="citation-popover-snippet">new details every ufo sighting 9186247</span></span></span>
+Local media coverage has also kept the subject alive. Nottinghamshire Live reported in March 2024 that 19 UFO sightings had been recorded in Nottinghamshire over the previous three years: five in 2021, seven in 2022 and seven in 2023. That reporting drew on the modern civilian collection work of UFO Identified, whose own site describes its database as an overview of UK UFO sightings reported since 2021, updated from a wide range of sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghampost.com/news/local-news/new-details-every-ufo-sighting-9186247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghampost.com">[Nottingham Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghampost.com</span><span class="citation-popover-title">new details every ufo sighting 9186247</span><span class="citation-popover-snippet">new details every ufo sighting 9186247</span></span></span>
 
-One recent Nottinghamshire example picked up nationally was a 2023 Worksop report described as a “flying saucer illuminated by varying red glowing spheres”. The Mirror’s 2024 interactive-map coverage also noted that UFO Identified documented 395 UK sightings in 2023, down from 497 in 2022 and 413 in 2021, and said the most common 2023 sighting type was “star-like”, followed by orbs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/uk-news/interactive-map-shows-every-ufo-32422239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">interactive map shows every ufo 32422239</span><span class="citation-popover-snippet">interactive map shows every ufo 32422239</span></span></span>
+One recent Nottinghamshire example picked up nationally was a 2023 Worksop report described as a “flying saucer illuminated by varying red glowing spheres”. The Mirror’s 2024 interactive-map coverage also noted that UFO Identified documented 395 UK sightings in 2023, down from 497 in 2022 and 413 in 2021, and said the most common 2023 sighting type was “star-like”, followed by orbs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/uk-news/interactive-map-shows-every-ufo-32422239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">interactive map shows every ufo 32422239</span><span class="citation-popover-snippet">interactive map shows every ufo 32422239</span></span></span>
 
 These figures should be handled carefully. Civilian UFO databases are useful for spotting patterns, but their inputs can include social media posts, press reports, direct witness submissions and FOI material of uneven quality. They measure reports, not verified unknown craft.
 
@@ -773,7 +773,7 @@ These figures should be handled carefully. Civilian UFO databases are useful for
 
 ## How the MoD’s closure changes the meaning of later sightings
 
-A common misunderstanding is that a modern UK UFO report must still be going into a secret MoD investigative machine. Publicly, that is not the case. The Guardian reported that the MoD closed its UFO desk in 2009 after deciding it served no defence purpose and diverted staff from more valuable defence work. A 2024 parliamentary answer similarly stated that the MoD ceased investigating UFO or UAP reports in 2009 and had not classified new material on the subject since. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span><span class="citation-popover-snippet">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span></span></span>
+A common misunderstanding is that a modern UK UFO report must still be going into a secret MoD investigative machine. Publicly, that is not the case. The Guardian reported that the MoD closed its UFO desk in 2009 after deciding it served no defence purpose and diverted staff from more valuable defence work. A 2024 parliamentary answer similarly stated that the MoD ceased investigating UFO or UAP reports in 2009 and had not classified new material on the subject since.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span><span class="citation-popover-snippet">The Guardian No time for aliens: how the Mo D tried to prove no one&#x27;s out</span></span></span>
 
 For Nottinghamshire, that means post-2009 sightings usually enter a different evidence ecosystem: police logs if someone reports concern or danger, civilian UFO groups, local newspapers, social media, aviation forums, satellite-tracking communities or private investigators. The absence of an MoD file after 2009 is therefore not suspicious on its own; it reflects a change in official policy.
 
@@ -789,9 +789,9 @@ The most likely explanations vary by case, but several recur across the county r
 
 **Satellites and satellite trains:** Fast, silent points of light moving in straight lines are often satellites. Modern Starlink trains can look especially strange to first-time observers, although they post-date the MoD’s 1997–2009 reporting period.
 
-**Flares, floodlights and ground sources:** Nottingham’s own local investigation culture produced examples where a sky mystery traced back to Trent flares or City Ground floodlights. These are reminders that the source of a “sky” sighting may be on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
+**Flares, floodlights and ground sources:** Nottingham’s own local investigation culture produced examples where a sky mystery traced back to Trent flares or City Ground floodlights. These are reminders that the source of a “sky” sighting may be on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
 
-**Photographic artefacts:** The Retford Town Hall case shows why image-only sightings need caution. A lens anomaly, reflection, droplet or motion blur can create a convincing “object” in a photograph, especially at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">mod releases secret files on ufo sightings 10486718</span><span class="citation-popover-snippet">mod releases secret files on ufo sightings 10486718</span></span></span>
+**Photographic artefacts:** The Retford Town Hall case shows why image-only sightings need caution. A lens anomaly, reflection, droplet or motion blur can create a convincing “object” in a photograph, especially at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">mod releases secret files on ufo sightings 10486718</span><span class="citation-popover-snippet">mod releases secret files on ufo sightings 10486718</span></span></span>
 
 **Genuinely unresolved reports:** Some entries remain unresolved in the ordinary sense: there is not enough public evidence to identify them. That is different from evidence of aliens or advanced craft. “Unidentified” means the report lacks a firm explanation, not that the most extraordinary explanation has been established.
 
@@ -801,11 +801,11 @@ The most likely explanations vary by case, but several recur across the county r
 
 Nottinghamshire’s value is not that it contains a definitive case. It is that it captures the middle layer of UK UFO history: local witnesses, local investigators, brief official logs, press amplification, plausible mundane explanations and persistent folklore.
 
-The county has several evidence tiers. At the strongest public level are dated official MoD entries such as the 1997 pilot report over Nottingham, the 2002 triangular-objects report, the 2004 Retford Town Hall image entry, and the 2009 cluster of orange-light sightings. These are real records, but usually too short to settle. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The county has several evidence tiers. At the strongest public level are dated official MoD entries such as the 1997 pilot report over Nottingham, the 2002 triangular-objects report, the 2004 Retford Town Hall image entry, and the 2009 cluster of orange-light sightings. These are real records, but usually too short to settle. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-At the next level is local investigative history: NUFOIS, Robert W. Morrell, Nottingham Central Library material, and local debunking examples. This material is culturally important because it shows that Nottinghamshire UFO interest was organised, literate and sometimes sceptical rather than merely sensational. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
+At the next level is local investigative history: NUFOIS, Robert W. Morrell, Nottingham Central Library material, and local debunking examples. This material is culturally important because it shows that Nottinghamshire UFO interest was organised, literate and sometimes sceptical rather than merely sensational.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-title">Left Lion Area NG1: UFO Sightings in Nottingham</span><span class="citation-popover-snippet">Left Lion Area NG1: UFO Sightings in Nottingham</span></span></span>
 
-At the weakest level are dramatic crash narratives such as Thieves Wood, where the story is memorable but the publicly available supporting record is thin. The 2025 Nottinghamshire Police FOI response does not validate the crash claim; it says relevant records for the requested 1987–88 period were not held. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know Our Ref</span><span class="citation-popover-snippet">What Do They Know Our Ref</span></span></span>
+At the weakest level are dramatic crash narratives such as Thieves Wood, where the story is memorable but the publicly available supporting record is thin. The 2025 Nottinghamshire Police FOI response does not validate the crash claim; it says relevant records for the requested 1987–88 period were not held.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know Our Ref</span><span class="citation-popover-snippet">What Do They Know Our Ref</span></span></span>
 
 ## A balanced verdict
 
@@ -818,194 +818,194 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Nottinghamshire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Nottinghamshire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page’s focus on official reports, witness testimony, uncertainty, and documented UFO cases rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page’s focus on official reports, witness testimony, uncertainty, and documented UFO cases rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers government records, witness accounts, and the wider UFO reporting culture reflected in Nottinghamshire’s history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government records, witness accounts, and the wider UFO reporting culture reflected in Nottinghamshire’s history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing reports of lights, discs, triangles, and unexplained aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing reports of lights, discs, triangles, and unexplained aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how local legends and stories—such as crash narratives and regional folklore—develop around UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how local legends and stories—such as crash narratives and regional folklore—develop around UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-did-nottinghamshire-really-see-nottinghamshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1021,7 +1021,7 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1041,7 +1041,7 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1073,7 +1073,7 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1125,7 +1125,7 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1170,7 +1170,7 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1211,389 +1211,389 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know Our Ref  
-   Link: <a href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987/response/2902124/attach/4/NOTTS%20RESPONSE%20LETTER%2025.013584.pdf?cookie_passthrough=1</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_33" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_33</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP sightings - a Freedom of Information request to Nottinghamshire Police - WhatDoTheyKnow...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_33" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_33</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP sightings - a Freedom of Information request to Nottinghamshire Police - WhatDoTheyKnow...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:England Historic Counties Nottinghamshire map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Nottinghamshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Nottinghamshire_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Nottinghamshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Nottinghamshire_map.svg</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: Category:Maps of counties of England  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 with ridings.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commons.wikimedia.org  
    Title: File:England Nottinghamshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglandNottinghamshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglandNottinghamshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglandNottinghamshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglandNottinghamshire.svg</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:English ceremonial counties 2010.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: whatdotheyknow.com  
    Title: UF O Sightings in Derbyshire  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: whatdotheyknow.com  
    Title: the pentyrch ufo incident in 201  
-   Link: <a href="https://www.whatdotheyknow.com/request/the_pentyrch_ufo_incident_in_201" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/the_pentyrch_ufo_incident_in_201</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/the_pentyrch_ufo_incident_in_201" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/the_pentyrch_ufo_incident_in_201</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_44" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_44</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_44" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_44</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: whatdotheyknow.com  
    Title: large rectangle ufo 1987  
-   Link: <a href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/large_rectangle_ufo_1987</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: whatdotheyknow.com  
    Title: Paranormal Activity, Witchcraft, UFO Sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u?unfold=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/paranormal_activity_witchcraft_u?unfold=1</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: whatdotheyknow.com  
    Title: Nottinghamshire Police  
-   Link: <a href="https://www.whatdotheyknow.com/body/nottinghamshire_police/successful?page=10" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/nottinghamshire_police/successful?page=10</a>  
+   Link:<a href="https://www.whatdotheyknow.com/body/nottinghamshire_police/successful?page=10" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/nottinghamshire_police/successful?page=10</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: whatdotheyknow.com  
    Title: Paranormal Activity  
-   Link: <a href="https://www.whatdotheyknow.com/request/paranormal_activity_4?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/paranormal_activity_4?unfold=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/paranormal_activity_4?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/paranormal_activity_4?unfold=1</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_48" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_48</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_48" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_48</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: whatdotheyknow.com  
    Title: Robert G Farmer  
-   Link: <a href="https://www.whatdotheyknow.com/user/robert_g_farmer" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/user/robert_g_farmer</a>  
+   Link:<a href="https://www.whatdotheyknow.com/user/robert_g_farmer" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/user/robert_g_farmer</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: whatdotheyknow.com  
    Title: reports and statements made on w  
-   Link: <a href="https://www.whatdotheyknow.com/request/reports_and_statements_made_on_w" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/reports_and_statements_made_on_w</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/reports_and_statements_made_on_w" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/reports_and_statements_made_on_w</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: whatdotheyknow.com  
    Title: UAP/UFO sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/uapufo_sightings_9" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_9</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/uapufo_sightings_9" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_9</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: westmidlands.police.uk  
-   Link: <a href="https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/" target="_blank" rel="noopener noreferrer nofollow">https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/</a>  
+   Link:<a href="https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/" target="_blank" rel="noopener noreferrer nofollow">https://www.westmidlands.police.uk/foi-ai/west-midlands-police/disclosure-log/2024/october/ufo-sightings-foi-ref-1454a24/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/summary-of-public-records-transferred-2016-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/summary-of-public-records-transferred-2016-2017.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/summary-of-public-records-transferred-2016-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/summary-of-public-records-transferred-2016-2017.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: accessioning report 11 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/accessioning-report-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessioning-report-11-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/accessioning-report-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessioning-report-11-12.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-44. <a id="endnote-44"></a>
-   Source: nationalarchives.gov.uk  
-   Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
-
-45. <a id="endnote-45"></a>
-   Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/wagtail-documents/3/summary-of-public-records-2024-2025.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/wagtail-documents/3/summary-of-public-records-2024-2025.xlsx</a>  
-
-46. <a id="endnote-46"></a>
+44.<a id="endnote-44"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
 
-47. <a id="endnote-47"></a>
+45.<a id="endnote-45"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/accessions/2005/05digests/military.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2005/05digests/military.htm</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/wagtail-documents/3/summary-of-public-records-2024-2025.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/wagtail-documents/3/summary-of-public-records-2024-2025.xlsx</a>  
 
-48. <a id="endnote-48"></a>
+46.<a id="endnote-46"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/25/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/25/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
 
-49. <a id="endnote-49"></a>
+47.<a id="endnote-47"></a>
+   Source: nationalarchives.gov.uk  
+   Link:<a href="https://www.nationalarchives.gov.uk/accessions/2005/05digests/military.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2005/05digests/military.htm</a>  
+
+48.<a id="endnote-48"></a>
+   Source: nationalarchives.gov.uk  
+   Title: Help with your research Archives  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/25/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/25/</a>  
+
+49.<a id="endnote-49"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: democracy.gedling.gov.uk  
    Title: Public reports pack Wednesday 22 Nov 2017 18.00 Planning Committee  
-   Link: <a href="https://democracy.gedling.gov.uk/documents/g2194/Public%20reports%20pack%20Wednesday%2022-Nov-2017%2018.00%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.gedling.gov.uk/documents/g2194/Public%20reports%20pack%20Wednesday%2022-Nov-2017%2018.00%20Planning%20Committee.pdf?T=10</a>  
+   Link:<a href="https://democracy.gedling.gov.uk/documents/g2194/Public%20reports%20pack%20Wednesday%2022-Nov-2017%2018.00%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.gedling.gov.uk/documents/g2194/Public%20reports%20pack%20Wednesday%2022-Nov-2017%2018.00%20Planning%20Committee.pdf?T=10</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
+   Link:<a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: erewash.gov.uk  
-   Link: <a href="https://www.erewash.gov.uk/sites/default/files/2025-02/CD8a%20%E2%80%93%20SA%20Scoping%20Report%20%28Appendix%20A%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erewash.gov.uk/sites/default/files/2025-02/CD8a%20%E2%80%93%20SA%20Scoping%20Report%20%28Appendix%20A%29.pdf</a>  
+   Link:<a href="https://www.erewash.gov.uk/sites/default/files/2025-02/CD8a%20%E2%80%93%20SA%20Scoping%20Report%20%28Appendix%20A%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erewash.gov.uk/sites/default/files/2025-02/CD8a%20%E2%80%93%20SA%20Scoping%20Report%20%28Appendix%20A%29.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: leftlion.co.uk  
    Title: Left Lion Area NG1: UFO Sightings in Nottingham  
-   Link: <a href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow">https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/</a>  
+   Link:<a href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow">https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: theparanormalnetwork.wordpress.com  
    Title: did a ufo crash in hucknall in november 1987  
-   Link: <a href="https://theparanormalnetwork.wordpress.com/2012/02/11/did-a-ufo-crash-in-hucknall-in-november-1987/" target="_blank" rel="noopener noreferrer nofollow">https://theparanormalnetwork.wordpress.com/2012/02/11/did-a-ufo-crash-in-hucknall-in-november-1987/</a>  
+   Link:<a href="https://theparanormalnetwork.wordpress.com/2012/02/11/did-a-ufo-crash-in-hucknall-in-november-1987/" target="_blank" rel="noopener noreferrer nofollow">https://theparanormalnetwork.wordpress.com/2012/02/11/did-a-ufo-crash-in-hucknall-in-november-1987/</a>  
    Published: november 1987  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: nottinghampost.com  
    Title: new details every ufo sighting 9186247  
-   Link: <a href="https://www.nottinghampost.com/news/local-news/new-details-every-ufo-sighting-9186247" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghampost.com/news/local-news/new-details-every-ufo-sighting-9186247</a>  
+   Link:<a href="https://www.nottinghampost.com/news/local-news/new-details-every-ufo-sighting-9186247" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghampost.com/news/local-news/new-details-every-ufo-sighting-9186247</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: mirror.co.uk  
    Title: interactive map shows every ufo 32422239  
-   Link: <a href="https://www.mirror.co.uk/news/uk-news/interactive-map-shows-every-ufo-32422239" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/uk-news/interactive-map-shows-every-ufo-32422239</a>  
+   Link:<a href="https://www.mirror.co.uk/news/uk-news/interactive-map-shows-every-ufo-32422239" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/uk-news/interactive-map-shows-every-ufo-32422239</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: theguardian.com  
    Title: The Guardian No time for aliens: how the Mo D tried to prove no one's out  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: historiccountiestrust.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: mirror.co.uk  
    Title: ufo sightings revealed 146832  
-   Link: <a href="https://www.mirror.co.uk/news/weird-news/ufo-sightings-revealed-146832" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/ufo-sightings-revealed-146832</a>  
+   Link:<a href="https://www.mirror.co.uk/news/weird-news/ufo-sightings-revealed-146832" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/ufo-sightings-revealed-146832</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: mirror.co.uk  
    Title: alien day 2024 new map 32666821  
-   Link: <a href="https://www.mirror.co.uk/news/weird-news/alien-day-2024-new-map-32666821" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/alien-day-2024-new-map-32666821</a>  
+   Link:<a href="https://www.mirror.co.uk/news/weird-news/alien-day-2024-new-map-32666821" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/alien-day-2024-new-map-32666821</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: nottinghamhiddenhistoryteam.wordpress.com  
-   Link: <a href="https://nottinghamhiddenhistoryteam.wordpress.com/category/nottinghamshire-folklore/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://nottinghamhiddenhistoryteam.wordpress.com/category/nottinghamshire-folklore/page/2/</a>  
+   Link:<a href="https://nottinghamhiddenhistoryteam.wordpress.com/category/nottinghamshire-folklore/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://nottinghamhiddenhistoryteam.wordpress.com/category/nottinghamshire-folklore/page/2/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: nottinghampost.com  
    Title: cigar shaped ufo mansfield among 8654356  
-   Link: <a href="https://www.nottinghampost.com/news/nottingham-news/cigar-shaped-ufo-mansfield-among-8654356" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghampost.com/news/nottingham-news/cigar-shaped-ufo-mansfield-among-8654356</a>  
+   Link:<a href="https://www.nottinghampost.com/news/nottingham-news/cigar-shaped-ufo-mansfield-among-8654356" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghampost.com/news/nottingham-news/cigar-shaped-ufo-mansfield-among-8654356</a>  
 
 ### Additional References
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: youtube.com  
    Title: Nick Frost's A Very British UFO Hoax  
-   Link: <a href="https://www.youtube.com/watch?v=jP6_Yg0p8G8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jP6_Yg0p8G8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;We saw a disk with coloured lights round it&#x27; | Sharon Rowlands on her sighting of a UFO in Bonsall...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jP6_Yg0p8G8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jP6_Yg0p8G8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;We saw a disk with coloured lights round it&#x27; | Sharon Rowlands on her sighting of a UFO in Bonsall...</p></details>
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b0jn_I-IHGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0jn_I-IHGA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b0jn_I-IHGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0jn_I-IHGA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: youtube.com  
    Title: The Epicentre Of UFO Activity In The UK | Our Life  
-   Link: <a href="https://www.youtube.com/watch?v=eBLcIW3pOSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBLcIW3pOSU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings over England – ITN Special Report (1966)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eBLcIW3pOSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBLcIW3pOSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings over England – ITN Special Report (1966)...</p></details>
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/</a>  
+   Link:<a href="https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Elton_on_the_Hill%2C_Nottinghamshire_290033" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Elton_on_the_Hill%2C_Nottinghamshire_290033</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Elton_on_the_Hill%2C_Nottinghamshire_290033" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Elton_on_the_Hill%2C_Nottinghamshire_290033</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/20722646442/posts/10163162530701443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/20722646442/posts/10163162530701443/</a>  
+   Link:<a href="https://www.facebook.com/groups/20722646442/posts/10163162530701443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/20722646442/posts/10163162530701443/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: gnplan.org.uk  
-   Link: <a href="https://www.gnplan.org.uk/media/1vbhzr4i/sa-appendix-a-review-of-plans-and-programmes-september-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gnplan.org.uk/media/1vbhzr4i/sa-appendix-a-review-of-plans-and-programmes-september-2024.pdf</a>  
+   Link:<a href="https://www.gnplan.org.uk/media/1vbhzr4i/sa-appendix-a-review-of-plans-and-programmes-september-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gnplan.org.uk/media/1vbhzr4i/sa-appendix-a-review-of-plans-and-programmes-september-2024.pdf</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: nutritionmodels.com  
-   Link: <a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
+   Link:<a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  

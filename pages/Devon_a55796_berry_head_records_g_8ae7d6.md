@@ -248,7 +248,7 @@ image: /assets/images/Devon_a55796_berry_head_records_g_8ae7d6-overview-social.j
 
 ## Introduction
 
-The Berry Head story is one of [Devon]({{ 'what-really-happened-in-devons-ufo-skies/' | relative_url }})’s more useful UFO cases precisely because the record is missing. The reported incident is simple enough: on 28 April 1967, a dome-shaped object was said to have hovered over Brixham for about an hour, with later summaries adding that it was seen from HM Coastguard’s Berry Head station. But the strongest modern document connected with the case is not a sighting report. It is a 2020 Freedom of Information response from the Maritime and Coastguard Agency saying that the relevant Berry Head CG12 station record is no longer held. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The Berry Head story is one of [Devon]({{ 'what-really-happened-in-devons-ufo-skies/' | relative_url }})’s more useful UFO cases precisely because the record is missing. The reported incident is simple enough: on 28 April 1967, a dome-shaped object was said to have hovered over Brixham for about an hour, with later summaries adding that it was seen from HM Coastguard’s Berry Head station. But the strongest modern document connected with the case is not a sighting report. It is a 2020 Freedom of Information response from the Maritime and Coastguard Agency saying that the relevant Berry Head CG12 station record is no longer held.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 
 <img src="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-overview.webp" | relative_url }}" alt="Overview image for Berry Head" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,11 +259,11 @@ That gap does not prove the sighting was false. It does mean the case should be 
 
 ## The reported coastal sighting
 
-The usual version places the event at Brixham, on the south Devon coast, around noon on 28 April 1967. Later retellings describe a dome-shaped object at about 1,600 feet, visible for roughly an hour, sometimes with the striking detail of a “door” on its side. A personal recollection posted in 2017 repeats the same core details and adds that the writer also remembered the event from childhood in Brixham. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://paulstamp.me/2017/07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulstamp.me">[particular writes of passage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulstamp.me</span><span class="citation-popover-snippet">Open source on paulstamp.me.</span></span></span>
+The usual version places the event at Brixham, on the south Devon coast, around noon on 28 April 1967. Later retellings describe a dome-shaped object at about 1,600 feet, visible for roughly an hour, sometimes with the striking detail of a “door” on its side. A personal recollection posted in 2017 repeats the same core details and adds that the writer also remembered the event from childhood in Brixham.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://paulstamp.me/2017/07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulstamp.me">[particular writes of passage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulstamp.me</span><span class="citation-popover-snippet">Open source on paulstamp.me.</span></span></span>
 
-The case also appears in modern paranormal catalogues in a much thinner form. The Paranormal Database lists “Domed Craft” at “Brixham (Devon) - Skies over town”, dated 28 April 1967, and says the craft hovered for around an hour before disappearing. Significantly, that entry marks the source as “Needs Review”, which is an important warning against treating the listing as a primary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[paranormaldatabase.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">The Paranormal Database</span><span class="citation-popover-snippet">The Paranormal Database</span></span></span>
+The case also appears in modern paranormal catalogues in a much thinner form. The Paranormal Database lists “Domed Craft” at “Brixham (Devon) - Skies over town”, dated 28 April 1967, and says the craft hovered for around an hour before disappearing. Significantly, that entry marks the source as “Needs Review”, which is an important warning against treating the listing as a primary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[paranormaldatabase.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">The Paranormal Database</span><span class="citation-popover-snippet">The Paranormal Database</span></span></span>
 
-This is why the Berry Head angle became so attractive to later readers. A Coastguard station on a headland overlooking Torbay sounds like the kind of observation point that might have produced a disciplined, time-stamped official log. Berry Head itself is a prominent headland in front of Brixham, now better known to visitors as a National Nature Reserve with wide views across Torbay and surviving Napoleonic fortifications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.countryside-trust.org.uk/visit/brixham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryside-trust.org.uk">[Torbay Coast &amp; Countryside Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryside-trust.org.uk</span><span class="citation-popover-title">Torbay Coast &amp; Countryside Trust Things To Do Brixham</span><span class="citation-popover-snippet">Torbay Coast &amp; Countryside Trust Things To Do Brixham</span></span></span>
+This is why the Berry Head angle became so attractive to later readers. A Coastguard station on a headland overlooking Torbay sounds like the kind of observation point that might have produced a disciplined, time-stamped official log. Berry Head itself is a prominent headland in front of Brixham, now better known to visitors as a National Nature Reserve with wide views across Torbay and surviving Napoleonic fortifications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.countryside-trust.org.uk/visit/brixham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryside-trust.org.uk">[Torbay Coast &amp; Countryside Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryside-trust.org.uk</span><span class="citation-popover-title">Torbay Coast &amp; Countryside Trust Things To Do Brixham</span><span class="citation-popover-snippet">Torbay Coast &amp; Countryside Trust Things To Do Brixham</span></span></span>
 
 The problem is that most accessible versions of the story are not independent witness statements. They are summaries of summaries. The same handful of details — Brixham, 28 April 1967, dome-shaped object, one hour, Coastguard station — recur, but usually without a scan of the original Coastguard log, a named duty officer, a contemporaneous full witness statement, or a traceable Ministry of Defence case file attached to the claim.
 
@@ -271,15 +271,15 @@ The problem is that most accessible versions of the story are not independent wi
 <img src="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-Illustration-1-dark.svg" | relative_url }}" alt="Berry Head illustration 1" data-theme-src-dark="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing Coastguard documentation
 
-The decisive modern document is the Maritime and Coastguard Agency’s 23 October 2020 response to a Freedom of Information request asking for “the report or log from the 28th April 1967 at Berry Head coastguard station” relating to sightings made that day. The agency’s answer was that it did not have the requested information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">Sighting of UFO Berry Head April 1967 - a Freedom of Information request to Maritime and Coastguard Agency - WhatDoTheyKnow...</span><span class="citation-popover-meta">Published: April 1967</span></span></span>
+The decisive modern document is the Maritime and Coastguard Agency’s 23 October 2020 response to a Freedom of Information request asking for “the report or log from the 28th April 1967 at Berry Head coastguard station” relating to sightings made that day. The agency’s answer was that it did not have the requested information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">Sighting of UFO Berry Head April 1967 - a Freedom of Information request to Maritime and Coastguard Agency - WhatDoTheyKnow...</span><span class="citation-popover-meta">Published: April 1967</span></span></span>
 
-The response gives a practical records-history explanation. Berry Head Coastguard station was attached to MRCC Brixham, the Maritime Rescue Co-ordination Centre. When MRCC Brixham closed on 31 October 2014, Berry Head Coastguard moved sites; the old MRCC Brixham site retained only an unmanned remote access radio station holding radio equipment, with no remaining documentation there. The agency said most old information no longer useful at the site was disposed of on 31 October 2014. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The response gives a practical records-history explanation. Berry Head Coastguard station was attached to MRCC Brixham, the Maritime Rescue Co-ordination Centre. When MRCC Brixham closed on 31 October 2014, Berry Head Coastguard moved sites; the old MRCC Brixham site retained only an unmanned remote access radio station holding radio equipment, with no remaining documentation there. The agency said most old information no longer useful at the site was disposed of on 31 October 2014.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
-The form-name detail is particularly important. The MCA stated that remaining Berry Head information was in the CG19 station log, which replaced the previous CG12 station record documentation in 1975. In this case, the earliest information in the CG19 log dated only from 1976. The key sentence is blunt: “The CG12 record from Berry Head is no longer held by HM Coastguard.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The form-name detail is particularly important. The MCA stated that remaining Berry Head information was in the CG19 station log, which replaced the previous CG12 station record documentation in 1975. In this case, the earliest information in the CG19 log dated only from 1976. The key sentence is blunt: “The CG12 record from Berry Head is no longer held by HM Coastguard.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 That answer narrows what can responsibly be claimed. It is fair to say there is a reported 1967 Brixham/Berry Head UFO sighting. It is not fair to say that the accessible Coastguard archive currently confirms the sighting in detail. The alleged official observation may once have been logged, but the known FOI trail says the relevant Berry Head record is no longer in HM Coastguard’s possession.
 
-The MCA did check one nearby line of evidence. It located the CG12 station record for Beer Coastguard station, dating back to 1 January 1960, but found no mention there of the sighting. The agency added that this might simply be because Beer is some distance from Berry Head. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The MCA did check one nearby line of evidence. It located the CG12 station record for Beer Coastguard station, dating back to 1 January 1960, but found no mention there of the sighting. The agency added that this might simply be because Beer is some distance from Berry Head.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_p9yTJaee6g" title="Police Officers Describe UFO Encounter (1967)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer">Police Officers Describe UFO Encounter (1967)</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 399.7K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_p9yTJaee6g">Open on YouTube</a></p></div></div></div>
@@ -288,7 +288,7 @@ The MCA did check one nearby line of evidence. It located the CG12 station recor
 
 Berry Head is not best read as a “lost proof” case. It is better read as a records gap case. In UFO history, that distinction matters. A lost or destroyed record can leave a report unresolved, but it also removes the very detail needed to test whether the object was unusual, misidentified, exaggerated, or later embellished.
 
-The National Archives’ public guide to UK UFO reports helps explain the wider pattern. It says the Ministry of Defence kept UFO records from the 1960s onward, and that many reports were of shapes, lights and flashes that could often be explained. It also notes that before the 1960s, the MOD destroyed UFO material after five years, and that reports were retained after public interest increased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives’ public guide to UK UFO reports helps explain the wider pattern. It says the Ministry of Defence kept UFO records from the 1960s onward, and that many reports were of shapes, lights and flashes that could often be explained. It also notes that before the 1960s, the MOD destroyed UFO material after five years, and that reports were retained after public interest increased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 That national context does not answer the Berry Head question directly, because a Coastguard station log is not the same thing as an MoD UFO file. But it shows why British UFO archives are uneven. Some records survive because they became part of MoD correspondence, Parliamentary business or defence files. Others remain in local, operational or newspaper channels and can vanish when station paperwork is replaced, moved, or judged no longer useful.
 
@@ -302,13 +302,13 @@ A fair assessment should neither dismiss the Brixham witnesses out of hand nor u
 
 Three questions help keep the case in proportion.
 
-**What is the earliest recoverable source?** A contemporary Torbay or Devon newspaper report would be more valuable than a modern web summary. A named Coastguard log entry would be stronger still. At present, the accessible record trail is strongest for the later absence of the Berry Head station record, not for the original observation itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+**What is the earliest recoverable source?** A contemporary Torbay or Devon newspaper report would be more valuable than a modern web summary. A named Coastguard log entry would be stronger still. At present, the accessible record trail is strongest for the later absence of the Berry Head station record, not for the original observation itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
-**Are the details independent or copied?** The one-hour duration, dome shape and Coastguard reference recur in several modern versions, but repetition is not the same as corroboration. The Paranormal Database entry is explicitly marked “Needs Review”, while other modern summaries are brief and unsourced or semi-sourced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[paranormaldatabase.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">The Paranormal Database</span><span class="citation-popover-snippet">The Paranormal Database</span></span></span>
+**Are the details independent or copied?** The one-hour duration, dome shape and Coastguard reference recur in several modern versions, but repetition is not the same as corroboration. The Paranormal Database entry is explicitly marked “Needs Review”, while other modern summaries are brief and unsourced or semi-sourced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[paranormaldatabase.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">The Paranormal Database</span><span class="citation-popover-snippet">The Paranormal Database</span></span></span>
 
 **Would the alleged observation have generated other records?** A daylight object over Brixham for around an hour might plausibly have produced local press reports, police logs, harbour or aviation notes, Coastguard paperwork, or MoD correspondence. The absence of an easily accessible Coastguard log does not rule those out, but it means the case depends on finding parallel records rather than leaning on the missing station book.
 
-This is also where 1967 itself matters. Britain saw a charged UFO atmosphere that year, including a notorious September hoax in which aircraft engineering apprentices planted fake saucers across southern England. That episode mobilised police, bomb disposal, RAF helicopters and MoD intelligence before being exposed as a practical joke. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+This is also where 1967 itself matters. Britain saw a charged UFO atmosphere that year, including a notorious September hoax in which aircraft engineering apprentices planted fake saucers across southern England. That episode mobilised police, bomb disposal, RAF helicopters and MoD intelligence before being exposed as a practical joke.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 The hoax was not the Berry Head sighting and should not be used to debunk it by association. Its relevance is narrower: it shows that 1967 was a year in which flying-saucer stories could travel fast, attract official attention, and become part of a wider climate of expectation. In that atmosphere, a coastal sighting could be remembered vividly even if its paperwork later vanished.
 
@@ -319,7 +319,7 @@ The hoax was not the Berry Head sighting and should not be used to debunk it by 
 
 The most careful wording is this: a UFO sighting was reported over Brixham on 28 April 1967, with later accounts linking it to Berry Head Coastguard station, but the surviving public evidence is thin and the relevant Coastguard station record is not held by HM Coastguard. That makes it an unresolved archive problem, not a confirmed close encounter.
 
-The official records gap slightly weakens the case as evidence for an unusual object, because it removes the best route to checking time, bearing, weather, witness roles, instruments used, and whether any ordinary explanation was noted at the time. It also weakens claims that the Coastguard observation can be cited as a firm official confirmation. The 2020 MCA response confirms the record trail problem, not the UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The official records gap slightly weakens the case as evidence for an unusual object, because it removes the best route to checking time, bearing, weather, witness roles, instruments used, and whether any ordinary explanation was noted at the time. It also weakens claims that the Coastguard observation can be cited as a firm official confirmation. The 2020 MCA response confirms the record trail problem, not the UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 At the same time, the gap does not erase the local story. The Brixham report still belongs in Devon’s UFO history because it shows how coastal sightings are preserved: partly through local memory, partly through paranormal catalogues, partly through later online retelling, and partly through the negative evidence of an official request that found the key station record missing. For a county with busy sea horizons, headlands, aviation routes and strong local press traditions, that is a useful lesson.
 
@@ -329,194 +329,194 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
 <img src="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-Illustration-3-dark.svg" | relative_url }}" alt="Berry Head illustration 3" data-theme-src-dark="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_berry_head_records_g_8ae7d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened to the Berry Head Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened to the Berry Head Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how UFO reports are evaluated when documentation is incomplete or contested.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how UFO reports are evaluated when documentation is incomplete or contested.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes documentary evidence, witness credibility, and the limits of official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documentary evidence, witness credibility, and the limits of official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Fits the article’s focus on unresolved historical claims and missing records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the article’s focus on unresolved historical claims and missing records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Appeals to readers interested in how extraordinary claims are pursued through historical records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers interested in how extraordinary claims are pursued through historical records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)"><img src="{{ '/assets/images/marketplace-covers/609a69e7a79fa0ba9f84.jpg' | relative_url }}" alt="Listing image for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)"><img src="{{ '/assets/images/marketplace-covers/609a69e7a79fa0ba9f84.jpg' | relative_url }}" alt="Listing image for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/c508e797108ba28595be.jpg' | relative_url }}" alt="Listing image for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/c508e797108ba28595be.jpg' | relative_url }}" alt="Listing image for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/aec77946d64ae5160cdc.jpg' | relative_url }}" alt="Listing image for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/aec77946d64ae5160cdc.jpg' | relative_url }}" alt="Listing image for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="berry-head-what-happened-to-the-berry-head-record-devon-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,163 +722,163 @@ The Berry Head case therefore works best as a caution beside Devon’s more docu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april/response/1663671/attach/3/Response%20Letter%20ID3573.pdf?cookie_passthrough=1</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: paranormaldatabase.com  
    Title: The Paranormal Database  
-   Link: <a href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1</a>  
+   Link:<a href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=1</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting of UFO Berry Head April 1967 - a Freedom of Information request to Maritime and Coastguard Agency - WhatDoTheyKnow...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/sighting_of_ufo_berry_head_april</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting of UFO Berry Head April 1967 - a Freedom of Information request to Maritime and Coastguard Agency - WhatDoTheyKnow...</p></details>
    Published: April 1967  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201213/cmselect/cmtran/writev/coastguard/m13.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmselect/cmtran/writev/coastguard/m13.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201213/cmselect/cmtran/writev/coastguard/m13.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmselect/cmtran/writev/coastguard/m13.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: paranormaldatabase.com  
-   Link: <a href="https://paranormaldatabase.com/devon/devodata.php/1000?pageNum_paradata=2" target="_blank" rel="noopener noreferrer nofollow">https://paranormaldatabase.com/devon/devodata.php/1000?pageNum_paradata=2</a>  
+   Link:<a href="https://paranormaldatabase.com/devon/devodata.php/1000?pageNum_paradata=2" target="_blank" rel="noopener noreferrer nofollow">https://paranormaldatabase.com/devon/devodata.php/1000?pageNum_paradata=2</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: paulstamp.me  
-   Link: <a href="https://paulstamp.me/2017/07/" target="_blank" rel="noopener noreferrer nofollow">https://paulstamp.me/2017/07/</a>  
+   Link:<a href="https://paulstamp.me/2017/07/" target="_blank" rel="noopener noreferrer nofollow">https://paulstamp.me/2017/07/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: countryside-trust.org.uk  
    Title: Torbay Coast & Countryside Trust Things To Do Brixham  
-   Link: <a href="https://www.countryside-trust.org.uk/visit/brixham/" target="_blank" rel="noopener noreferrer nofollow">https://www.countryside-trust.org.uk/visit/brixham/</a>  
+   Link:<a href="https://www.countryside-trust.org.uk/visit/brixham/" target="_blank" rel="noopener noreferrer nofollow">https://www.countryside-trust.org.uk/visit/brixham/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry</a>  
+   Link:<a href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Berry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berry</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Berry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berry</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Brixham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brixham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brixham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brixham</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/record?catid=1772222&amp;catln=6" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/record?catid=1772222&amp;catln=6</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/record?catid=1772222&amp;catln=6" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/record?catid=1772222&amp;catln=6</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: Website search results: ufo UFOs · Help with your research  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/politics/2007/may/03/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2007/may/03/spaceexploration.military</a>  
+   Link:<a href="https://www.theguardian.com/politics/2007/may/03/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2007/may/03/spaceexploration.military</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
    Title: mca foi and eir disclosure log january to june 2021.ods  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/620505b5d3bf7f3149a3e136/mca-foi-and-eir-disclosure-log-january-to-june-2021.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/620505b5d3bf7f3149a3e136/mca-foi-and-eir-disclosure-log-january-to-june-2021.ods</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/620505b5d3bf7f3149a3e136/mca-foi-and-eir-disclosure-log-january-to-june-2021.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/620505b5d3bf7f3149a3e136/mca-foi-and-eir-disclosure-log-january-to-june-2021.ods</a>  
    Published: june 2021  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: GOV.UK  
    Title: major search after reports of cliff drama in torquay  
-   Link: <a href="https://www.gov.uk/government/news/major-search-after-reports-of-cliff-drama-in-torquay" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/major-search-after-reports-of-cliff-drama-in-torquay</a>  
+   Link:<a href="https://www.gov.uk/government/news/major-search-after-reports-of-cliff-drama-in-torquay" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/major-search-after-reports-of-cliff-drama-in-torquay</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: hm coastguard rescue coordination centre contact details  
-   Link: <a href="https://www.gov.uk/guidance/hm-coastguard-rescue-coordination-centre-contact-details" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/hm-coastguard-rescue-coordination-centre-contact-details</a>  
+   Link:<a href="https://www.gov.uk/guidance/hm-coastguard-rescue-coordination-centre-contact-details" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/hm-coastguard-rescue-coordination-centre-contact-details</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: brixhamtowncouncil.gov.uk  
-   Link: <a href="https://www.brixhamtowncouncil.gov.uk/places-to-visit/" target="_blank" rel="noopener noreferrer nofollow">https://www.brixhamtowncouncil.gov.uk/places-to-visit/</a>  
+   Link:<a href="https://www.brixhamtowncouncil.gov.uk/places-to-visit/" target="_blank" rel="noopener noreferrer nofollow">https://www.brixhamtowncouncil.gov.uk/places-to-visit/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berry head coastguard devon ufo Ghost caught on camera in daylight on a Scottish river...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berry head coastguard devon ufo Ghost caught on camera in daylight on a Scottish river...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=2D72mta0yPI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2D72mta0yPI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where do UFOs come from? (1967) | RetroFocus...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2D72mta0yPI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2D72mta0yPI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where do UFOs come from? (1967) | RetroFocus...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_p9yTJaee6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO News: &quot;Rendlesham Incident&quot; Documents Missing in British National Archives -- Report...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_p9yTJaee6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO News: &quot;Rendlesham Incident&quot; Documents Missing in British National Archives -- Report...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=xuaI9LaR5m4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xuaI9LaR5m4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=xuaI9LaR5m4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xuaI9LaR5m4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: booking.com  
-   Link: <a href="https://www.booking.com/city/gb/brixham-aireborough.en-gb.html" target="_blank" rel="noopener noreferrer nofollow">https://www.booking.com/city/gb/brixham-aireborough.en-gb.html</a>  
+   Link:<a href="https://www.booking.com/city/gb/brixham-aireborough.en-gb.html" target="_blank" rel="noopener noreferrer nofollow">https://www.booking.com/city/gb/brixham-aireborough.en-gb.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: seriouseats.com  
-   Link: <a href="https://www.seriouseats.com/berry-types-what-are-olallieberries-tayberries-loganberries" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/berry-types-what-are-olallieberries-tayberries-loganberries</a>  
+   Link:<a href="https://www.seriouseats.com/berry-types-what-are-olallieberries-tayberries-loganberries" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/berry-types-what-are-olallieberries-tayberries-loganberries</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: bto.org  
-   Link: <a href="https://www.bto.org/learn/about-birds/behaviour/bird-behaviour-eating-berries-and-fruit/id-guide-berries" target="_blank" rel="noopener noreferrer nofollow">https://www.bto.org/learn/about-birds/behaviour/bird-behaviour-eating-berries-and-fruit/id-guide-berries</a>  
+   Link:<a href="https://www.bto.org/learn/about-birds/behaviour/bird-behaviour-eating-berries-and-fruit/id-guide-berries" target="_blank" rel="noopener noreferrer nofollow">https://www.bto.org/learn/about-birds/behaviour/bird-behaviour-eating-berries-and-fruit/id-guide-berries</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: berryworld.com  
-   Link: <a href="https://www.berryworld.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.berryworld.com/en-gb</a>  
+   Link:<a href="https://www.berryworld.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.berryworld.com/en-gb</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: x.com  
-   Link: <a href="https://x.com/BerryHeadCRT" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BerryHeadCRT</a>  
+   Link:<a href="https://x.com/BerryHeadCRT" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BerryHeadCRT</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/berryheadcoastguard/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/berryheadcoastguard/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/berryheadcoastguard/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/berryheadcoastguard/?locale=en_GB</a>  

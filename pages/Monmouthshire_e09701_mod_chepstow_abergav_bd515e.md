@@ -254,17 +254,17 @@ image: /assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-overview-
 
 ## Introduction
 
-Chepstow and Abergavenny appear in the Ministry of Defence UFO sighting lists as brief, striking entries rather than fully developed case files. That is the central lesson of these [Monmouthshire]({{ 'what-really-happened-in-monmouthshires/' | relative_url }}) records: dramatic witness descriptions could reach the national reporting system, but often emerged in public release as only a date, time, place and a few words of summary. The Chepstow entry from February 2009 describes a silver object “the size of a large car” with flames flickering underneath; Abergavenny appears in 1997 with a black triangular object, a bright white object “bigger than a car”, and in 2009 with the stark description “Two UFOs.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Chepstow and Abergavenny appear in the Ministry of Defence UFO sighting lists as brief, striking entries rather than fully developed case files. That is the central lesson of these [Monmouthshire]({{ 'what-really-happened-in-monmouthshires/' | relative_url }}) records: dramatic witness descriptions could reach the national reporting system, but often emerged in public release as only a date, time, place and a few words of summary. The Chepstow entry from February 2009 describes a silver object “the size of a large car” with flames flickering underneath; Abergavenny appears in 1997 with a black triangular object, a bright white object “bigger than a car”, and in 2009 with the stark description “Two UFOs.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-overview.webp" | relative_url }}" alt="Overview image for Mo D Entries" loading="eager" decoding="sync" fetchpriority="high">
-These entries matter because they are official records of reports received, not proof that unusual craft were present over Monmouthshire. They show what members of the public told the MoD, how little detail survived in the published lists, and why local UFO history has to be read carefully: the most vivid line in a government spreadsheet can still be too thin to support a firm conclusion. GOV.UK describes the released lists as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+These entries matter because they are official records of reports received, not proof that unusual craft were present over Monmouthshire. They show what members of the public told the MoD, how little detail survived in the published lists, and why local UFO history has to be read carefully: the most vivid line in a government spreadsheet can still be too thin to support a firm conclusion. GOV.UK describes the released lists as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 ## Why the MoD lists matter for Monmouthshire
 
-For a county-level UFO history, the MoD lists are useful because they confirm that certain Monmouthshire-area sightings were not just later folklore, message-board rumour or local newspaper colour. Somebody reported them to the national defence system, and those reports were logged. In the GOV.UK release, the Ministry of Defence is named as the source, and the page gathers yearly UFO report documents from 1997 through 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+For a county-level UFO history, the MoD lists are useful because they confirm that certain Monmouthshire-area sightings were not just later folklore, message-board rumour or local newspaper colour. Somebody reported them to the national defence system, and those reports were logged. In the GOV.UK release, the Ministry of Defence is named as the source, and the page gathers yearly UFO report documents from 1997 through 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The records are especially important for Chepstow and Abergavenny because neither place has a single famous, well-documented incident comparable with Britain’s best-known UFO cases. Instead, their value lies in the texture of the official lists: a handful of compact reports showing the kinds of sightings that reached Whitehall from south-east Wales. Chepstow sits on the Wye and Severn edge of historic Monmouthshire, while Abergavenny anchors the north of the modern county; both also fall naturally within the wider Gwent/Monmouthshire geography used in many late twentieth-century records. Britannica notes that the present county of Monmouthshire lies within the historic county, while the historic county also included Newport and Torfaen, most of Blaenau Gwent and part of Caerphilly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span></span></span>
+The records are especially important for Chepstow and Abergavenny because neither place has a single famous, well-documented incident comparable with Britain’s best-known UFO cases. Instead, their value lies in the texture of the official lists: a handful of compact reports showing the kinds of sightings that reached Whitehall from south-east Wales. Chepstow sits on the Wye and Severn edge of historic Monmouthshire, while Abergavenny anchors the north of the modern county; both also fall naturally within the wider Gwent/Monmouthshire geography used in many late twentieth-century records. Britannica notes that the present county of Monmouthshire lies within the historic county, while the historic county also included Newport and Torfaen, most of Blaenau Gwent and part of Caerphilly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Monmouthshire &#124; Wales, Map, History, &amp; Facts</span></span></span>
 
 That boundary point is not just local-history tidiness. The MoD lists often use labels such as “Monmouthshire” or “Gwent” depending on date, administrative habit and the source of the report. The Chepstow and 2009 Abergavenny entries are listed under Gwent, while the 1997 Abergavenny entries use Monmouthshire. Read as a county evidence trail, they belong together; read as modern council-only data, they can look artificially split.
 
@@ -272,11 +272,11 @@ That boundary point is not just local-history tidiness. The MoD lists often use 
 <img src="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Entries illustration 1" data-theme-src-dark="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Chepstow car-sized object report
 
-The most vivid Chepstow entry appears in the 2009 MoD list. It is dated 22 February 2009 at 01:10 and located at Chepstow, Gwent. The description is short but memorable: a single object, the size of a large car, silver, with flames flickering from the underside, which then moved up and away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The most vivid Chepstow entry appears in the 2009 MoD list. It is dated 22 February 2009 at 01:10 and located at Chepstow, Gwent. The description is short but memorable: a single object, the size of a large car, silver, with flames flickering from the underside, which then moved up and away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 As a witness claim, this is stronger in imagery than in evidence. The report gives a place, a time and a distinctive description, but it does not provide the witness’s full statement, viewing direction, duration, distance estimate, weather, astronomical checks, aircraft checks, photographs, radar correlation or an MoD conclusion. The phrase “flames flickering from the underside” makes the report sound dramatic, yet it also opens several ordinary possibilities: a firework or pyrotechnic seen at an odd angle, a lantern-like object, a burning or reflective object caught in wind, or a misjudged aircraft or helicopter light. None of those explanations is proven by the line itself; the point is that the public record is too compressed to discriminate between them.
 
-The date also matters. The Chepstow report sits in the final year of the MoD’s UFO desk, when the National Archives later said the number of reports rose sharply. A National Archives press release about the final tranche of UFO files states that the UFO Desk received more than 600 sightings and reports in 2009, treble the previous year, and that officials saw the desk as serving “no defence purpose” while generating correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> In that context, the Chepstow entry looks less like an isolated defence alarm and more like one vivid item in a crowded national reporting wave.
+The date also matters. The Chepstow report sits in the final year of the MoD’s UFO desk, when the National Archives later said the number of reports rose sharply. A National Archives press release about the final tranche of UFO files states that the UFO Desk received more than 600 sightings and reports in 2009, treble the previous year, and that officials saw the desk as serving “no defence purpose” while generating correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> In that context, the Chepstow entry looks less like an isolated defence alarm and more like one vivid item in a crowded national reporting wave.
 
 This does not make the report worthless. It preserves a specific claim from Chepstow at a specific time, and it shows that the witness or reporter thought it serious enough to pass on. But it also shows the weakness of many official UFO datasets: the most eye-catching description may be exactly the point where the reader most wants extra evidence, and exactly where the published list gives least.
 
@@ -285,11 +285,11 @@ This does not make the report worthless. It preserves a specific claim from Chep
 
 ## The brief Abergavenny entries
 
-Abergavenny appears more than once in the MoD material, but the entries are uneven. The 1997 list includes a sighting on 22 May 1997 at 23:10: “One large, triangular shaped object. Black in colour. Was moving to the West.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> That is an important entry because it belongs to the black-triangle family of reports that appears repeatedly in late twentieth-century British UFO material. In this case, however, the published line gives no size estimate beyond “large”, no sound information, no lights, no altitude, no duration and no indication that the object was tracked independently.
+Abergavenny appears more than once in the MoD material, but the entries are uneven. The 1997 list includes a sighting on 22 May 1997 at 23:10: “One large, triangular shaped object. Black in colour. Was moving to the West.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> That is an important entry because it belongs to the black-triangle family of reports that appears repeatedly in late twentieth-century British UFO material. In this case, however, the published line gives no size estimate beyond “large”, no sound information, no lights, no altitude, no duration and no indication that the object was tracked independently.
 
-A second 1997 Abergavenny entry is stranger in wording. On 8 August 1997 at 23:30, the list records “One object” bigger than a car, white and very bright, which “came down the road.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> That phrase could be read in several ways. It may mean the object appeared to move along the line of a road, descended towards a road, or was seen from a road. Without the original report form, it is not safe to turn the wording into a close-encounter narrative. What the list really preserves is a witness impression: large, bright, near enough or low enough to be compared with a car, and described in relation to a road.
+A second 1997 Abergavenny entry is stranger in wording. On 8 August 1997 at 23:30, the list records “One object” bigger than a car, white and very bright, which “came down the road.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> That phrase could be read in several ways. It may mean the object appeared to move along the line of a road, descended towards a road, or was seen from a road. Without the original report form, it is not safe to turn the wording into a close-encounter narrative. What the list really preserves is a witness impression: large, bright, near enough or low enough to be compared with a car, and described in relation to a road.
 
-The 2009 Abergavenny entry is even more compressed. The MoD list records 4 April 2009 at 21:02, Abergavenny, Gwent, with the description simply “Two UFOs.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That is useful as a count and a location, but almost nothing else. It does not say whether the objects were lights, shapes, aircraft-like, lantern-like, silent, fast, hovering, filmed, witnessed by one person or seen by several people.
+The 2009 Abergavenny entry is even more compressed. The MoD list records 4 April 2009 at 21:02, Abergavenny, Gwent, with the description simply “Two UFOs.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That is useful as a count and a location, but almost nothing else. It does not say whether the objects were lights, shapes, aircraft-like, lantern-like, silent, fast, hovering, filmed, witnessed by one person or seen by several people.
 
 This thinness is itself a finding. Abergavenny’s MoD record contains claims that could sound interesting in a local retelling, especially the black triangle and the car-sized bright object, but the released summaries do not provide enough detail to rank them as strong unexplained cases. They are better treated as official traces of reported observations than as established incidents.
 
@@ -297,13 +297,13 @@ This thinness is itself a finding. Abergavenny’s MoD record contains claims th
 <img src="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Entries illustration 2" data-theme-src-dark="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monmouthshire_e09701_mod_chepstow_abergav_bd515e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How these reports fit the 2008–09 orange-light wave
 
-The Chepstow entry should also be read against the national pattern in 2009. The MoD list for that year is full of orange lights, fireballs, glowing spheres and silent objects, many of them reported in groups. Around the same pages as the Chepstow item, the list includes multiple bright orange or fireball-like sightings from other parts of the UK, including objects described as orange, spherical, silent or fading out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Later in the same year, the list repeatedly records formations of orange lights and witnesses sometimes explicitly raise lanterns as a possible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Chepstow entry should also be read against the national pattern in 2009. The MoD list for that year is full of orange lights, fireballs, glowing spheres and silent objects, many of them reported in groups. Around the same pages as the Chepstow item, the list includes multiple bright orange or fireball-like sightings from other parts of the UK, including objects described as orange, spherical, silent or fading out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Later in the same year, the list repeatedly records formations of orange lights and witnesses sometimes explicitly raise lanterns as a possible explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The National Archives’ release on the closure of the UFO desk makes this connection explicit. It says briefings about the 2009 surge suggested the increase could partly reflect the craze for releasing Chinese lanterns at weddings and public holidays. David Clarke, quoted in the release, said many accounts of orange lights moving slowly across the sky described the appearance of Chinese lanterns, even though witnesses did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives’ release on the closure of the UFO desk makes this connection explicit. It says briefings about the 2009 surge suggested the increase could partly reflect the craze for releasing Chinese lanterns at weddings and public holidays. David Clarke, quoted in the release, said many accounts of orange lights moving slowly across the sky described the appearance of Chinese lanterns, even though witnesses did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That does not automatically explain the Chepstow car-sized silver object. Its wording is not the standard “orange lights in formation” description. But the wider reporting environment matters: in 2009, the MoD was receiving a large volume of public sightings, many of which were later considered consistent with lanterns or other ordinary aerial lights. A careful reading therefore keeps two ideas in view at once. The Chepstow report is distinctive enough to deserve noting, but it comes from a period when unusual-looking lights were being widely reported and often had prosaic explanations.
 
-The local press record around Abergavenny points in a similar direction. In September 2008, the Abergavenny Chronicle reported “orange balls of light” seen over Monmouthshire, with witnesses calling the newsroom and one account describing about 20 lights moving in a “strange wave” over Raglan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abergavennychronicle.com/news/ufo-in-monmouthshire-67423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abergavennychronicle.com">[Abergavenny Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abergavennychronicle.com</span><span class="citation-popover-title">Abergavenny Chronicle UFO in Monmouthshire? &#124; abergavennychronicle.com</span><span class="citation-popover-snippet">Abergavenny Chronicle UFO in Monmouthshire? &#124; abergavennychronicle.com</span></span></span> In August 2009, the paper reported footage of unidentified objects over Abergavenny, described as circling and producing apparent beams of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abergavennychronicle.com/news/ufos-in-abergavenny-skies-68010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abergavennychronicle.com">[Abergavenny Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abergavennychronicle.com</span><span class="citation-popover-title">Abergavenny Chronicle UFOs in Abergavenny skies?</span><span class="citation-popover-snippet">Abergavenny Chronicle UFOs in Abergavenny skies?</span></span></span> These local stories do not prove a link to the MoD entries, but they show that Abergavenny-area sky reports were part of a broader late-2000s atmosphere in which unusual lights were being noticed, filmed, reported and debated.
+The local press record around Abergavenny points in a similar direction. In September 2008, the Abergavenny Chronicle reported “orange balls of light” seen over Monmouthshire, with witnesses calling the newsroom and one account describing about 20 lights moving in a “strange wave” over Raglan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abergavennychronicle.com/news/ufo-in-monmouthshire-67423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abergavennychronicle.com">[Abergavenny Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abergavennychronicle.com</span><span class="citation-popover-title">Abergavenny Chronicle UFO in Monmouthshire? &#124; abergavennychronicle.com</span><span class="citation-popover-snippet">Abergavenny Chronicle UFO in Monmouthshire? &#124; abergavennychronicle.com</span></span></span> In August 2009, the paper reported footage of unidentified objects over Abergavenny, described as circling and producing apparent beams of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abergavennychronicle.com/news/ufos-in-abergavenny-skies-68010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abergavennychronicle.com">[Abergavenny Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abergavennychronicle.com</span><span class="citation-popover-title">Abergavenny Chronicle UFOs in Abergavenny skies?</span><span class="citation-popover-snippet">Abergavenny Chronicle UFOs in Abergavenny skies?</span></span></span> These local stories do not prove a link to the MoD entries, but they show that Abergavenny-area sky reports were part of a broader late-2000s atmosphere in which unusual lights were being noticed, filmed, reported and debated.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGYEQlBvJIc" title="Pentagon releases declassified UFO files detailing more than 400 incidents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files detailing more than 400 incidents</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 175.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGYEQlBvJIc">Open on YouTube</a></p></div></div></div>
@@ -314,9 +314,9 @@ The Chepstow and Abergavenny records are best read as dataset evidence. They pro
 
 The MoD lists can help answer three practical questions. First, they confirm that a reported sighting existed in the official reporting stream. Secondly, they preserve the minimum public details: date, time, place and a short description. Thirdly, they allow comparison across years and places, showing whether a local report looks isolated or part of a wider pattern. For Chepstow and Abergavenny, the answer is mixed: the 1997 Abergavenny triangle looks like a classic late twentieth-century shape report, while the 2009 entries sit inside a national surge of brief light and object reports.
 
-What the lists cannot do is equally important. They usually do not include the original witness questionnaire, follow-up correspondence, names, exact locations, sightlines, weather checks, aircraft movements or astronomical analysis. They also do not necessarily distinguish between “unidentified by the witness”, “unidentified after inquiry” and “not investigated in depth”. GOV.UK’s description of the release is modest: the documents show dates, times, locations and brief descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+What the lists cannot do is equally important. They usually do not include the original witness questionnaire, follow-up correspondence, names, exact locations, sightlines, weather checks, aircraft movements or astronomical analysis. They also do not necessarily distinguish between “unidentified by the witness”, “unidentified after inquiry” and “not investigated in depth”. GOV.UK’s description of the release is modest: the documents show dates, times, locations and brief descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The closure of the UFO desk reinforces that caution. The National Archives release says that by 2009 the MoD concluded that no sighting reported to it in more than 50 years had revealed anything suggesting an extra-terrestrial presence or military threat to the UK, and that the hotline and dedicated email address were closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> That statement does not mean every report was explained. It means the MoD did not regard the stream of reports as producing defence-relevant evidence.
+The closure of the UFO desk reinforces that caution. The National Archives release says that by 2009 the MoD concluded that no sighting reported to it in more than 50 years had revealed anything suggesting an extra-terrestrial presence or military threat to the UK, and that the hotline and dedicated email address were closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> That statement does not mean every report was explained. It means the MoD did not regard the stream of reports as producing defence-relevant evidence.
 
 For Monmouthshire, that leaves a balanced conclusion. Chepstow and Abergavenny are not empty entries in the county’s UFO record: they contain vivid public claims, including a car-sized silver object over Chepstow, a black triangle over Abergavenny, and a bright object “bigger than a car” near Abergavenny. But their public evidential weight is limited by the format of the MoD lists. They are valuable starting points for local UFO history, not finished investigations.
 
@@ -337,162 +337,162 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Mo D Record in Monmouthshire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Mo D Record in Monmouthshire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides context for British UFO reports and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for British UFO reports and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful for understanding evidence standards in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding evidence standards in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps classify and evaluate reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps classify and evaluate reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Welsh+Triangle+Margaret+Fry+and+Joan+Munton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Welsh Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Welsh+Triangle+Margaret+Fry+and+Joan+Munton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh Triangle">The Welsh Triangle</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Fry and Joan Munton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Welsh+Triangle+Margaret+Fry+and+Joan+Munton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Welsh Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Welsh+Triangle+Margaret+Fry+and+Joan+Munton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh Triangle">The Welsh Triangle</a>
+</h4>
+<p class="fr-book-author">By Margaret Fry and Joan Munton</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Welsh+Triangle+Margaret+Fry+and+Joan+Munton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Welsh+Triangle+Margaret+Fry+and+Joan+Munton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-entries-what-did-the-mo-d-record-in-monmouthshire-monmouthshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -508,7 +508,7 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -528,7 +528,7 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -560,7 +560,7 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -612,7 +612,7 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -657,7 +657,7 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -698,229 +698,229 @@ The fairest classification is therefore cautious. The Chepstow report is vivid b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Monmouthshire | Wales, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Monmouthshire</a>  
+   Link:<a href="https://www.britannica.com/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Monmouthshire</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/advanced-search?_cr=FS&amp;_d=FS&amp;_dss=range&amp;_hb=tna&amp;_ro=any&amp;_st=adv" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/advanced-search?_cr=FS&amp;_d=FS&amp;_dss=range&amp;_hb=tna&amp;_ro=any&amp;_st=adv</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/advanced-search?_cr=FS&amp;_d=FS&amp;_dss=range&amp;_hb=tna&amp;_ro=any&amp;_st=adv" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/advanced-search?_cr=FS&amp;_d=FS&amp;_dss=range&amp;_hb=tna&amp;_ro=any&amp;_st=adv</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531310" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531310</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531310" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531310</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532479" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532479</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532479" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532479</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://nationalarchives.gov.uk/documents/transcript_cab_195_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.uk/documents/transcript_cab_195_5.pdf</a>  
+   Link:<a href="https://nationalarchives.gov.uk/documents/transcript_cab_195_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.uk/documents/transcript_cab_195_5.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.ukchapter 1  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/transcript-cab195-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/transcript-cab195-10.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/transcript-cab195-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/transcript-cab195-10.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Cabinet minutes  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_6_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_6_transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_6_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_6_transcript.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: bsi 0002  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0002.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0002.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2009/3015/part/22/made?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2009/3015/part/22/made?view=plain</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2009/3015/part/22/made?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2009/3015/part/22/made?view=plain</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County [Boundaries](&#123;&#123; 'boundaries-1d7267/' | relative_url &#125;&#125;) of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: meetings.westoxon.gov.uk  
-   Link: <a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
+   Link:<a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: gwent.police.uk  
    Title: 202124756 ufouap sightings  
-   Link: <a href="https://www.gwent.police.uk/foi-ai/gwent-police/disclosure2/2021/12---december/202124756---ufouap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.gwent.police.uk/foi-ai/gwent-police/disclosure2/2021/12---december/202124756---ufouap-sightings/</a>  
+   Link:<a href="https://www.gwent.police.uk/foi-ai/gwent-police/disclosure2/2021/12---december/202124756---ufouap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.gwent.police.uk/foi-ai/gwent-police/disclosure2/2021/12---december/202124756---ufouap-sightings/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abergavennychronicle.com  
    Title: Abergavenny Chronicle UFO in Monmouthshire? | abergavennychronicle.com  
-   Link: <a href="https://www.abergavennychronicle.com/news/ufo-in-monmouthshire-67423" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/ufo-in-monmouthshire-67423</a>  
+   Link:<a href="https://www.abergavennychronicle.com/news/ufo-in-monmouthshire-67423" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/ufo-in-monmouthshire-67423</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: abergavennychronicle.com  
    Title: Abergavenny Chronicle UFOs in Abergavenny skies?  
-   Link: <a href="https://www.abergavennychronicle.com/news/ufos-in-abergavenny-skies-68010" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/ufos-in-abergavenny-skies-68010</a>  
+   Link:<a href="https://www.abergavennychronicle.com/news/ufos-in-abergavenny-skies-68010" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/ufos-in-abergavenny-skies-68010</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: Abergavenny Chronicle  
-   Link: <a href="https://www.facebook.com/abergavenny.chronicle/photos/a-video-that-some-suggest-could-be-evidence-of-aliens-circling-above-abergavenny/1604693524994407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abergavenny.chronicle/photos/a-video-that-some-suggest-could-be-evidence-of-aliens-circling-above-abergavenny/1604693524994407/</a>  
+   Link:<a href="https://www.facebook.com/abergavenny.chronicle/photos/a-video-that-some-suggest-could-be-evidence-of-aliens-circling-above-abergavenny/1604693524994407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abergavenny.chronicle/photos/a-video-that-some-suggest-could-be-evidence-of-aliens-circling-above-abergavenny/1604693524994407/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Monmouthshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Monmouthshire</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Monmouthshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Monmouthshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: abergavennychronicle.com  
    Title: watch are these aliens circling above abergavenny or something else 913195  
-   Link: <a href="https://www.abergavennychronicle.com/news/watch-are-these-aliens-circling-above-abergavenny-or-something-else-913195" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/watch-are-these-aliens-circling-above-abergavenny-or-something-else-913195</a>  
+   Link:<a href="https://www.abergavennychronicle.com/news/watch-are-these-aliens-circling-above-abergavenny-or-something-else-913195" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/watch-are-these-aliens-circling-above-abergavenny-or-something-else-913195</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: abergavennychronicle.com  
    Title: lights in the night skies 70652  
-   Link: <a href="https://www.abergavennychronicle.com/news/lights-in-the-night-skies-70652" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/lights-in-the-night-skies-70652</a>  
+   Link:<a href="https://www.abergavennychronicle.com/news/lights-in-the-night-skies-70652" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/lights-in-the-night-skies-70652</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abergavennychronicle.com  
    Title: abergavenny man claims aliens walk amongst us 708041  
-   Link: <a href="https://www.abergavennychronicle.com/news/abergavenny-man-claims-aliens-walk-amongst-us-708041" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/abergavenny-man-claims-aliens-walk-amongst-us-708041</a>  
+   Link:<a href="https://www.abergavennychronicle.com/news/abergavenny-man-claims-aliens-walk-amongst-us-708041" target="_blank" rel="noopener noreferrer nofollow">https://www.abergavennychronicle.com/news/abergavenny-man-claims-aliens-walk-amongst-us-708041</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Monmouthshire</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Monmouthshire</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFO Files: All of the videos from latest Defense Department release  
-   Link: <a href="http://www.youtube.com/watch?v=VOinXr2uruI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VOinXr2uruI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence UFO files explained UK The Declassified UK UFO Files Hidden for Deca MindVeltra...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=VOinXr2uruI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VOinXr2uruI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence UFO files explained UK The Declassified UK UFO Files Hidden for Deca MindVeltra...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Pentagon releases declassified UFO files detailing more than 400 incidents  
-   Link: <a href="http://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGYEQlBvJIc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files: All of the videos from latest Defense Department release...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGYEQlBvJIc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files: All of the videos from latest Defense Department release...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: New UFO files paint 'very clear' picture of alien contact | News Nation Prime  
-   Link: <a href="http://www.youtube.com/watch?v=4Hyx1i9Qppg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4Hyx1i9Qppg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My thoughts on the first round of UFO files...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=4Hyx1i9Qppg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4Hyx1i9Qppg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My thoughts on the first round of UFO files...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Declassified UK UFO Files Hidden for Decades  
-   Link: <a href="http://www.youtube.com/watch?v=B3REQzpUC_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=B3REQzpUC_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO files paint &#x27;very clear&#x27; picture of alien contact | NewsNation Prime...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=B3REQzpUC_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=B3REQzpUC_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO files paint &#x27;very clear&#x27; picture of alien contact | NewsNation Prime...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: My thoughts on the first round of UFO files  
-   Link: <a href="http://www.youtube.com/watch?v=rXch3N4CBIE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rXch3N4CBIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rXch3N4CBIE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rXch3N4CBIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/</a>  
+   Link:<a href="https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1936340996602709/posts/2355511098019028/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/326376127522978/posts/2417430888417481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326376127522978/posts/2417430888417481/</a>  
+   Link:<a href="https://www.facebook.com/groups/326376127522978/posts/2417430888417481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326376127522978/posts/2417430888417481/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/monmouth-wales-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/monmouth-wales-map.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/monmouth-wales-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/monmouth-wales-map.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/monmouthshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/monmouthshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/monmouthshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/monmouthshire/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Monmouthshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Monmouthshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Monmouthshire</a>  

@@ -254,7 +254,7 @@ image: /assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-overview-soci
 
 ## Introduction
 
-The MoD [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }}) sighting logs prove something modest but useful: people in and around Derbyshire did report strange lights and objects to the UK’s official UFO reporting system, especially during the national surge of 2008–09. They do not prove that any Derbyshire sighting was an extraterrestrial craft, a secret aircraft, or even a fully investigated mystery. The published files are mainly short administrative entries: date, time, place and a brief description. GOV.UK describes the series as UFO reports from 1997 to 2009 showing “dates and times, location and a brief description of the sighting”, which is exactly the level of evidence these Derbyshire entries usually provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }}) sighting logs prove something modest but useful: people in and around Derbyshire did report strange lights and objects to the UK’s official UFO reporting system, especially during the national surge of 2008–09. They do not prove that any Derbyshire sighting was an extraterrestrial craft, a secret aircraft, or even a fully investigated mystery. The published files are mainly short administrative entries: date, time, place and a brief description. GOV.UK describes the series as UFO reports from 1997 to 2009 showing “dates and times, location and a brief description of the sighting”, which is exactly the level of evidence these Derbyshire entries usually provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-overview.webp" | relative_url }}" alt="Overview image for Mo D Logs" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,21 +262,21 @@ For Derbyshire, the value of the logs is that they separate verifiable reporting
 
 ## What the MoD logs were actually recording
 
-The Ministry of Defence kept UFO records for decades, and The National Archives now holds many of those records. The National Archives’ public guide says most reports describe “shapes, lights and flashes”, many of which can often be explained, while others are more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> That framing is important for Derbyshire because the county’s entries mostly fall into the common “lights in the sky” category rather than detailed close encounters with corroborating radar, photographs, physical traces or named official witnesses.
+The Ministry of Defence kept UFO records for decades, and The National Archives now holds many of those records. The National Archives’ public guide says most reports describe “shapes, lights and flashes”, many of which can often be explained, while others are more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> That framing is important for Derbyshire because the county’s entries mostly fall into the common “lights in the sky” category rather than detailed close encounters with corroborating radar, photographs, physical traces or named official witnesses.
 
 In practice, the late MoD sighting lists were not full case files in the style of a police investigation. They were logs. Some entries are vivid, such as “seven orange orbs” at Buxton or a “round shape” at Dronfield. Others are almost empty, such as “A UFO”, “A sighting”, “Lights in sky”, or “No description provided”. The logs preserve a public-reporting trail, but they often leave out the witness name, precise viewing direction, weather, aircraft checks, astronomical checks and follow-up outcome.
 
-The bigger national context also matters. The 2013 National Archives highlights guide says MoD received an average of about 150 UFO reports per year from 2000 to 2007, then 208 in 2008 and 643 by 30 November 2009. That made 2009 the second highest year recorded by MoD since 1978. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> Derbyshire’s 2009 entries therefore sit inside a national reporting surge, not an isolated Derbyshire-only flap.
+The bigger national context also matters. The 2013 National Archives highlights guide says MoD received an average of about 150 UFO reports per year from 2000 to 2007, then 208 in 2008 and 643 by 30 November 2009. That made 2009 the second highest year recorded by MoD since 1978.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> Derbyshire’s 2009 entries therefore sit inside a national reporting surge, not an isolated Derbyshire-only flap.
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Logs illustration 1" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Derbyshire entries in 2008
 
-The 2008 MoD log contains a small but varied set of Derbyshire reports. The first appears on 30 January at Darley Moor, where the witness reported “two strange beams of light” hovering above trees before moving towards the Staffordshire border. A few weeks later, on 12 February, Buxton was logged with only the phrase “Something ‘very strange’”, and on 23 February Derby produced a longer entry: a light or object said to hover, remain visible seven hours later, then move quickly and zig-zag across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2008 MoD log contains a small but varied set of Derbyshire reports. The first appears on 30 January at Darley Moor, where the witness reported “two strange beams of light” hovering above trees before moving towards the Staffordshire border. A few weeks later, on 12 February, Buxton was logged with only the phrase “Something ‘very strange’”, and on 23 February Derby produced a longer entry: a light or object said to hover, remain visible seven hours later, then move quickly and zig-zag across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-By summer, the Derbyshire entries became more recognisably “night light” reports. On 21 July, the A6 near Buxton produced a description of a distant bright light “like a huge star” and a wide-shaped object with white and coloured lights that disappeared overhead. On 13 October, Buxton appears again, this time with seven orange orbs in a formation of three and two pairs, moving generally in a straight line but with some “dancing” in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+By summer, the Derbyshire entries became more recognisably “night light” reports. On 21 July, the A6 near Buxton produced a description of a distant bright light “like a huge star” and a wide-shaped object with white and coloured lights that disappeared overhead. On 13 October, Buxton appears again, this time with seven orange orbs in a formation of three and two pairs, moving generally in a straight line but with some “dancing” in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Two later 2008 entries are weaker as evidence because they have “No Firm Date”. One was logged as Linton/Swadlincote, described only as “triangular lights on strange objects”, with the message taken on 24 June. Another was Chesterfield, described simply as “A UFO”, with the message taken on 15 December. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Two later 2008 entries are weaker as evidence because they have “No Firm Date”. One was logged as Linton/Swadlincote, described only as “triangular lights on strange objects”, with the message taken on 24 June. Another was Chesterfield, described simply as “A UFO”, with the message taken on 15 December.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 Taken together, the 2008 Derbyshire entries prove that reports were coming from several parts of the county: Darley Moor, Buxton, Derby, the A6 near Buxton, Linton/Swadlincote and Chesterfield. They also show three recurring features: lights rather than structured craft, sparse descriptions, and several cases where no follow-up evidence appears in the public log.
 
@@ -285,15 +285,15 @@ Taken together, the 2008 Derbyshire entries prove that reports were coming from 
 
 ## Derbyshire entries in 2009
 
-Derbyshire’s 2009 MoD entries are more numerous and more clustered. April alone contains several: Chesterfield on 11 April with several [orange lights]({{ 'orange-lights-b4079e/' | relative_url }}), Derby on 13 April with orangey lights moving towards each other and then stationary, and Smalley on 14 April with a round yellow ball that looked as if it had a parachute or helmet shape above it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Derbyshire’s 2009 MoD entries are more numerous and more clustered. April alone contains several: Chesterfield on 11 April with several [orange lights]({{ 'orange-lights-b4079e/' | relative_url }}), Derby on 13 April with orangey lights moving towards each other and then stationary, and Smalley on 14 April with a round yellow ball that looked as if it had a parachute or helmet shape above it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-May and June continue the pattern. Chapel-en-le-Frith was logged on 31 May after a witness watching shooting stars saw two bright luminous orange objects “like birds or swans”. Chesterfield appears again on 2 June with the bare phrase “A sighting”, then on 26 June with “twelve bright lights in the sky” moving slowly. Hope Valley appears on 27 June with red objects, silent and low, possibly going over Bakewell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+May and June continue the pattern. Chapel-en-le-Frith was logged on 31 May after a witness watching shooting stars saw two bright luminous orange objects “like birds or swans”. Chesterfield appears again on 2 June with the bare phrase “A sighting”, then on 26 June with “twelve bright lights in the sky” moving slowly. Hope Valley appears on 27 June with red objects, silent and low, possibly going over Bakewell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-August brings another cluster. Chesterfield was logged on 22 August as “Lights in sky”; Derby on 24 August as “Saw a UFO”; Derby again on 25 August as “Seven aircraft over Derby”; and Dronfield on 27 August as a round shape that lightened and darkened with a dark shape behind it, with no engine noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+August brings another cluster. Chesterfield was logged on 22 August as “Lights in sky”; Derby on 24 August as “Saw a UFO”; Derby again on 25 August as “Seven aircraft over Derby”; and Dronfield on 27 August as a round shape that lightened and darkened with a dark shape behind it, with no engine noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The most concentrated Derbyshire run comes at the end of October and into early November. Chesterfield on 27 October reported bright orange spheres getting smaller as they moved away. Barlborough, later that night, reported lights or orbs with trails moving in a circular pattern. Alvaston on 28 October described two silent glowing crosses, 50 metres apart, with more seen five or six minutes later. Derby appears on the same date with a journalist entry but no description, then again on 31 October with a circular object with yellow and white lights. Matlock appears on 1 November with a very bright light changing to green and making no noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The most concentrated Derbyshire run comes at the end of October and into early November. Chesterfield on 27 October reported bright orange spheres getting smaller as they moved away. Barlborough, later that night, reported lights or orbs with trails moving in a circular pattern. Alvaston on 28 October described two silent glowing crosses, 50 metres apart, with more seen five or six minutes later. Derby appears on the same date with a journalist entry but no description, then again on 31 October with a circular object with yellow and white lights. Matlock appears on 1 November with a very bright light changing to green and making no noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-This 2009 pattern matters because it resembles the national late-2000s reporting surge: many orange, red or glowing lights, often silent, often in groups, and often seen in warm-weather or outdoor social contexts. The National Archives highlights guide explicitly links many 2008–09 reports to the Chinese lantern craze, noting that many people who saw floating orange lights for the first time believed they were UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+This 2009 pattern matters because it resembles the national late-2000s reporting surge: many orange, red or glowing lights, often silent, often in groups, and often seen in warm-weather or outdoor social contexts. The National Archives highlights guide explicitly links many 2008–09 reports to the Chinese lantern craze, noting that many people who saw floating orange lights for the first time believed they were UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Logs illustration 2" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_mod_derbyshire_logs_13cb4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,9 +303,9 @@ The Derbyshire MoD entries are official records, but “official” does not mea
 
 That distinction is clearest in entries with very little content. “A UFO”, “A sighting”, “Lights in sky” and “No description provided” are historically useful because they show reporting activity, but evidentially weak because they provide almost nothing to test. Even more detailed descriptions, such as lights zig-zagging, orbs in formation, or a green-changing light, are still witness descriptions rather than verified measurements.
 
-The MoD’s own institutional position became increasingly clear by 2009. A National Archives press release on the final tranche of files says the UFO desk had received over 600 reports in 2009, that the workload was increasing, and that the files said the desk “serves no defence purpose and merely encourages the generation of correspondence”. The same release records that Defence Minister Bob Ainsworth was told that in more than 50 years no UFO report to MoD had revealed anything suggesting an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The MoD’s own institutional position became increasingly clear by 2009. A National Archives press release on the final tranche of files says the UFO desk had received over 600 reports in 2009, that the workload was increasing, and that the files said the desk “serves no defence purpose and merely encourages the generation of correspondence”. The same release records that Defence Minister Bob Ainsworth was told that in more than 50 years no UFO report to MoD had revealed anything suggesting an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That line has not disappeared. In a 2024 parliamentary answer, the Ministry of Defence said it ceased to investigate UFO or UAP reports in 2009, had not classified new material on the subject since, had no plan to create a dedicated team, and that files created up to 2009 had been released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[questions-statements.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">Written questions and answers</span><span class="citation-popover-snippet">Written questions and answers</span></span></span>
+That line has not disappeared. In a 2024 parliamentary answer, the Ministry of Defence said it ceased to investigate UFO or UAP reports in 2009, had not classified new material on the subject since, had no plan to create a dedicated team, and that files created up to 2009 had been released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[questions-statements.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">Written questions and answers</span><span class="citation-popover-snippet">Written questions and answers</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzbK905kwc" title="UFO file release October 2008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer">UFO file release October 2008</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 19.5K &middot; Uploaded: October 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzbK905kwc">Open on YouTube</a></p></div></div></div>
@@ -337,194 +337,194 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Mo D Files Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Mo D Files Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly connects to British UFO reports, government files, and the kind of documentary evidence cited in Derbyshire cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to British UFO reports, government files, and the kind of documentary evidence cited in Derbyshire cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing unexplained sightings similar to those found in Derbyshire folklore and repo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing unexplained sightings similar to those found in Derbyshire folklore and repo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports should be evaluated and classified, matching the page&#x27;s focus on whether an apparent hotspot represents a genuin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports should be evaluated and classified, matching the page&#x27;s focus on whether an apparent hotspot represents a genuin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people detect patterns and create narratives, directly relevant to assessing whether a named hotspot reflects evidence or fo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people detect patterns and create narratives, directly relevant to assessing whether a named hotspot reflects evidence or fo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster"><img src="{{ '/assets/images/marketplace-covers/6e09750f89e5cbb62f69.jpg' | relative_url }}" alt="Listing image for Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster"><img src="{{ '/assets/images/marketplace-covers/6e09750f89e5cbb62f69.jpg' | relative_url }}" alt="Listing image for Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/1392921c6f437cdc78d4.jpg' | relative_url }}" alt="Listing image for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/1392921c6f437cdc78d4.jpg' | relative_url }}" alt="Listing image for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Large Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/6dba760dd80fceb0ff83.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Large Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Large Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Large Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/6dba760dd80fceb0ff83.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Large Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Large Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="mo-d-logs-what-do-the-mo-d-files-actually-show-derbyshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,132 +730,132 @@ For Derbyshire’s UFO history, the MoD files are therefore best used as a map o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: questions-statements.parliament.uk  
    Title: Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0dMlej9QJg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0dMlej9QJg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
    Published: June 2013  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release August 2009...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release August 2009...</p></details>
    Published: February 2010  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KbzbK905kwc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release March 2009...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KbzbK905kwc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release March 2009...</p></details>
    Published: October 2008  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release February 2010...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release February 2010...</p></details>
    Published: March 2009  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: disclosurearchives.com  
    Title: united kingdom mod ufo files  
-   Link: <a href="https://disclosurearchives.com/government-archives/united-kingdom-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/government-archives/united-kingdom-mod-ufo-files</a>  
+   Link:<a href="https://disclosurearchives.com/government-archives/united-kingdom-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/government-archives/united-kingdom-mod-ufo-files</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kcIF5INyAec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release June 2012...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kcIF5INyAec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release June 2012...</p></details>
    Published: August 2009  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release June 2013...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release June 2013...</p></details>
    Published: August 2011  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Vrt5LdhcxWw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vrt5LdhcxWw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release August 2011...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vrt5LdhcxWw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vrt5LdhcxWw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release August 2011...</p></details>
    Published: June 2012  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: drdavidclarke.co.uk  
    Title: The End of the UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  

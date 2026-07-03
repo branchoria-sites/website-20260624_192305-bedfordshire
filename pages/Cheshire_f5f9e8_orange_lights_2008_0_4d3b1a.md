@@ -248,7 +248,7 @@ image: /assets/images/Cheshire_f5f9e8_orange_lights_2008_0_4d3b1a-overview-socia
 
 ## Introduction
 
-[Cheshire]({{ 'what-did-cheshire-really-see/' | relative_url }})’s orange-light reports in 2008-09 were not a single dramatic encounter, but a short wave of night-sky accounts in which witnesses described silent lights, lines, repeated paths and loose formations. The clearest official examples are the Waverton/Chester formation of 18 lights in June 2008, the Northwich line of four lights in May 2009, the Winsford sequence of orange lights two weeks later, and the Widnes report of 14 objects one after another in October 2009. These sightings matter because they sit at the exact point where the Ministry of Defence was being overwhelmed by public reports, many of them probably caused by sky lanterns, while still logging them as “UFO” reports when no immediate identification was made. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+[Cheshire]({{ 'what-did-cheshire-really-see/' | relative_url }})’s orange-light reports in 2008-09 were not a single dramatic encounter, but a short wave of night-sky accounts in which witnesses described silent lights, lines, repeated paths and loose formations. The clearest official examples are the Waverton/Chester formation of 18 lights in June 2008, the Northwich line of four lights in May 2009, the Winsford sequence of orange lights two weeks later, and the Widnes report of 14 objects one after another in October 2009. These sightings matter because they sit at the exact point where the Ministry of Defence was being overwhelmed by public reports, many of them probably caused by sky lanterns, while still logging them as “UFO” reports when no immediate identification was made. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Cheshire_f5f9e8_orange_lights_2008_0_4d3b1a-overview.webp" | relative_url }}" alt="Overview image for Orange Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,11 +256,11 @@ The best reading is cautious. The reports are real as records of what people sai
 
 ## Why 2008-09 Stands Out in Cheshire
 
-The late-2000s wave should be read against the Ministry of Defence’s final years of UFO reporting. GOV.UK’s released listings describe UK UFO reports from 1997 to 2009 and give dates, times, locations and brief descriptions rather than full investigative case files. That distinction is important: the Cheshire entries are official logs, not official confirmations that something extraordinary was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The late-2000s wave should be read against the Ministry of Defence’s final years of UFO reporting. GOV.UK’s released listings describe UK UFO reports from 1997 to 2009 and give dates, times, locations and brief descriptions rather than full investigative case files. That distinction is important: the Cheshire entries are official logs, not official confirmations that something extraordinary was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Cheshire Live’s later review of the same official material counted 43 Cheshire cases across the 1997-2009 period, ranging from bright lights to triangular and star-shaped objects. Its 2008 and 2009 entries highlight exactly the cluster covered here: Waverton/Chester, Wettenhall/Winsford, Sandbach, Northwich, Winsford, Chester, Widnes and Hill Green near Wilmslow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
+Cheshire Live’s later review of the same official material counted 43 Cheshire cases across the 1997-2009 period, ranging from bright lights to triangular and star-shaped objects. Its 2008 and 2009 entries highlight exactly the cluster covered here: Waverton/Chester, Wettenhall/Winsford, Sandbach, Northwich, Winsford, Chester, Widnes and Hill Green near Wilmslow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
 
-The broader national context makes the pattern less mysterious but more interesting. The National Archives’ release on the closure of the MoD UFO desk said the final files covered late 2007 to November 2009, and that the desk received more than 600 sightings and reports in 2009, treble the previous year. The same release states that officials saw the surge as partly linked to the popularity of Chinese lanterns at weddings and public holidays, with Dr David Clarke noting that many accounts of slow-moving orange-light formations fitted that appearance even when witnesses did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The broader national context makes the pattern less mysterious but more interesting. The National Archives’ release on the closure of the MoD UFO desk said the final files covered late 2007 to November 2009, and that the desk received more than 600 sightings and reports in 2009, treble the previous year. The same release states that officials saw the surge as partly linked to the popularity of Chinese lanterns at weddings and public holidays, with Dr David Clarke noting that many accounts of slow-moving orange-light formations fitted that appearance even when witnesses did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 For Cheshire, that means the orange-light wave is best treated as a case family: a group of similar reports from the same period, not a single event with one shared cause. Some may have been lanterns, some may have been aircraft, balloons or other lights, and a few remain too under-described to assess with confidence.
 
@@ -268,15 +268,15 @@ For Cheshire, that means the orange-light wave is best treated as a case family:
 <img src="{{ "/assets/images/Cheshire_f5f9e8_orange_lights_2008_0_4d3b1a-Illustration-1-dark.svg" | relative_url }}" alt="Orange Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Cheshire_f5f9e8_orange_lights_2008_0_4d3b1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cheshire_f5f9e8_orange_lights_2008_0_4d3b1a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Waverton and Chester Formation Reports
 
-The strongest 2008 anchor is the Waverton/Chester report from 15 June 2008 at 22:45. The MoD list records “a formation of eighteen lights” over Waverton/Chester, Cheshire. The witness description compared them to a “flock of helicopters” with lights on, but added that they gave off no sound, with only a slight rattle reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The strongest 2008 anchor is the Waverton/Chester report from 15 June 2008 at 22:45. The MoD list records “a formation of eighteen lights” over Waverton/Chester, Cheshire. The witness description compared them to a “flock of helicopters” with lights on, but added that they gave off no sound, with only a slight rattle reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 That combination is exactly why the case is memorable. Eighteen lights is enough to feel organised, and the helicopter comparison gives the reader a sense of spacing, movement and apparent scale. At the same time, the absence of normal helicopter noise weakens a literal helicopter explanation, unless the lights were much farther away than the witness assumed, masked by local sound conditions, or not helicopters at all.
 
-The obvious sceptical candidate is a group launch of lanterns or similar small airborne lights. Lanterns can rise and drift together, spread out irregularly, appear to hold a loose formation, and make little or no sound to a ground observer. The Civil Aviation Authority’s CAP 736 guidance treats sky lanterns, toy balloons, fireworks and directed lights as activities that can affect UK airspace, and notes that event information helps the aviation community assess possible impacts on flight safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The obvious sceptical candidate is a group launch of lanterns or similar small airborne lights. Lanterns can rise and drift together, spread out irregularly, appear to hold a loose formation, and make little or no sound to a ground observer. The Civil Aviation Authority’s CAP 736 guidance treats sky lanterns, toy balloons, fireworks and directed lights as activities that can affect UK airspace, and notes that event information helps the aviation community assess possible impacts on flight safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 What keeps the Waverton report from being neatly “solved” is the lack of local corroborating detail in the released log. There is no named event, launch site, wind record, photograph, radar note or aviation cross-check in the public listing. The report therefore sits in a common middle category: plausible ordinary explanations exist, but the official summary is too brief to prove which one applies.
 
-A second Chester-related entry from 2009 is less formation-like but fits the orange-light theme. On 6 August 2009 at 21:25, Cheshire Live’s summary of the official list describes a Chester “orb shape” glowing on the underside only, orange in colour, before the orange faded and the object looked like a black shadow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
+A second Chester-related entry from 2009 is less formation-like but fits the orange-light theme. On 6 August 2009 at 21:25, Cheshire Live’s summary of the official list describes a Chester “orb shape” glowing on the underside only, orange in colour, before the orange faded and the object looked like a black shadow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
 
 That description is harder to interpret because it moves from light to dark silhouette. It could reflect a lantern whose flame became obscured or went out, an aircraft or balloon seen in changing light, or a witness struggling to describe a distant object as brightness and contrast changed. It is weaker than Waverton as a formation case, but useful because it shows the same colour language turning up in Chester-area reporting.
 
@@ -287,19 +287,19 @@ That description is harder to interpret because it moves from light to dark silh
 
 The 2009 reports are more revealing as a pattern than as individual mysteries. They cluster around lights in lines, repeated routes and objects appearing one after another — exactly the features that make people suspect an organised formation, but also exactly the features that can be produced by multiple lanterns released over a short period.
 
-On 9 May 2009 at 22:10, the MoD list records a Northwich report of four big lights in a line formation. The brief description says two dropped down while the other two moved quickly into the distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+On 9 May 2009 at 22:10, the MoD list records a Northwich report of four big lights in a line formation. The brief description says two dropped down while the other two moved quickly into the distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 The Northwich report is striking because it includes a change in relative motion: not merely four lights drifting, but a split between two that “dropped down” and two that moved away. That could sound like controlled manoeuvring. It could also happen if some lights were extinguishing, descending, passing behind cloud or trees, or being judged at different distances without a clear reference point. The released record gives no duration, direction, weather, apparent altitude or corroborating witnesses, so its evidential weight remains limited.
 
-The Winsford report from 23 May 2009 is more lantern-like in wording. The MoD list says an orange light was travelling from the south, followed by two more orange lights on the same path, then five more and then two more. They made no noise and were at “the height of a helicopter”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Winsford report from 23 May 2009 is more lantern-like in wording. The MoD list says an orange light was travelling from the south, followed by two more orange lights on the same path, then five more and then two more. They made no noise and were at “the height of a helicopter”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 This is one of the most important Cheshire entries because it describes a repeated path rather than one object. A procession of orange lights, arriving in small groups and following the same route, is consistent with lanterns drifting on the same wind. It is also the kind of sight that can feel highly organised from the ground: the witness sees a route, a sequence and a shared colour, and the mind naturally asks what could be coordinating them.
 
-Widnes adds a different texture. On 10 October 2009 at 12:20, the 2009 MoD list records “fourteen objects one every minute” with no sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Widnes adds a different texture. On 10 October 2009 at 12:20, the 2009 MoD list records “fourteen objects one every minute” with no sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 The time is unusual because many orange-light reports are late evening or night-time. A 12:20 sighting may mean midday, unless the log format or witness timing was ambiguous. If it was daylight, orange lanterns are less visually dominant than at night, and other possibilities such as balloons, aircraft seen in sequence, drifting objects, or even misreported time become more important. The released description is so short that it is better treated as a weak formation-style record rather than a strong orange-light case.
 
-Other Cheshire entries around the same period add background but not much proof. Sandbach had a 3-4 January 2009 report of an orange/yellow light, while Hill Green near Wilmslow had a 29 November 2009 report of two orange lights moving slowly, making no noise and veering in a different direction, with the witness saying flashing lights made them unlike aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Other Cheshire entries around the same period add background but not much proof. Sandbach had a 3-4 January 2009 report of an orange/yellow light, while Hill Green near Wilmslow had a 29 November 2009 report of two orange lights moving slowly, making no noise and veering in a different direction, with the witness saying flashing lights made them unlike aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Taken together, the Cheshire pattern is clear: people were reporting orange, yellow or bright lights that seemed silent, repeated, grouped or formation-like. The difficulty is that the public record rarely gives enough detail to separate a genuinely anomalous case from a familiar object seen under unfamiliar conditions.
 
@@ -309,7 +309,7 @@ Taken together, the Cheshire pattern is clear: people were reporting orange, yel
 
 Sky lanterns are the leading explanation for many late-2000s orange-light sightings, but they should not be used as a lazy answer for every case. The strongest lantern indicators are slow movement, orange or red-orange glow, silence, multiple objects, repeated paths, lights fading out, and sightings around evenings, weekends, weddings, parties or public events.
 
-Several Cheshire reports match parts of that pattern. Winsford’s sequence of lights following the same path is especially suggestive. Waverton’s 18 lights also fits a mass-release scenario if the objects were drifting together, though the “slight rattle” and helicopter comparison complicate the picture. Northwich’s split motion could be lanterns at different stages of flight, but the phrase “moved off quickly” leaves room for other interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Several Cheshire reports match parts of that pattern. Winsford’s sequence of lights following the same path is especially suggestive. Waverton’s 18 lights also fits a mass-release scenario if the objects were drifting together, though the “slight rattle” and helicopter comparison complicate the picture. Northwich’s split motion could be lanterns at different stages of flight, but the phrase “moved off quickly” leaves room for other interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 The lantern explanation is strengthened by national evidence from the same period. The National Archives release explicitly connected the 2009 reporting surge with a craze for Chinese lanterns, and Dr David Clarke singled out slow-moving orange-light formations as matching the appearance of lanterns.
 
@@ -324,7 +324,7 @@ The key point is not that every report was “just lanterns”. It is that lante
 
 ## What the Evidence Can and Cannot Show
 
-The strongest evidence for the Cheshire orange-light wave is the existence of official and local reporting. The MoD logs preserve dates, times, places and short witness descriptions; Cheshire Live later made those entries easier for local readers to find and compare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The strongest evidence for the Cheshire orange-light wave is the existence of official and local reporting. The MoD logs preserve dates, times, places and short witness descriptions; Cheshire Live later made those entries easier for local readers to find and compare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The weakest part is the lack of investigative depth. The public entries do not show detailed interviews, triangulation between witnesses, weather checks, aircraft movement analysis, radar correlation or physical evidence. They are mostly one-paragraph sightings. That does not make the witnesses unreliable, but it does mean the records are not strong enough to support claims of unknown craft operating over Cheshire.
 
@@ -341,7 +341,7 @@ A fair assessment would sort the cases like this:
 
 </div>
 
-The MoD’s own closure context also matters. The National Archives release states that the UFO desk was closed after officials concluded it served no defence purpose, and that no reported sighting over more than 50 years had revealed evidence of an extra-terrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The MoD’s own closure context also matters. The National Archives release states that the UFO desk was closed after officials concluded it served no defence purpose, and that no reported sighting over more than 50 years had revealed evidence of an extra-terrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That does not “debunk” each Cheshire sighting individually. It does, however, frame them as low-evidence public reports within a much larger administrative and cultural surge, rather than as cases that triggered serious defence concern.
 
@@ -351,7 +351,7 @@ That does not “debunk” each Cheshire sighting individually. It does, however
 
 The 2008-09 orange-light wave is one of the best Cheshire examples of how UFO history often works at county level. It is not about one spectacular secret. It is about patterns: repeated reports, similar descriptions, local place names, official logging, press reuse and later sceptical reinterpretation.
 
-It also shows why geography needs careful handling. Cheshire can mean the historic county used in this project’s map frame, the modern ceremonial county, or present-day unitary authority areas such as Cheshire West and Chester, Cheshire East, Halton and Warrington. Historic Cheshire also has a wider relationship with places around the Wirral and Mersey than modern administrative shorthand sometimes suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts</span></span></span>
+It also shows why geography needs careful handling. Cheshire can mean the historic county used in this project’s map frame, the modern ceremonial county, or present-day unitary authority areas such as Cheshire West and Chester, Cheshire East, Halton and Warrington. Historic Cheshire also has a wider relationship with places around the Wirral and Mersey than modern administrative shorthand sometimes suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Cheshire &#124; England, Map, History, &amp; Facts</span></span></span>
 
 That matters for this wave because reports at Chester, Waverton, Northwich, Winsford and Widnes sit in a sky region shaped by the Dee and Mersey corridors, neighbouring North Wales, Merseyside, Greater Manchester and regional aviation routes. A light seen over one town may have originated, drifted or flown from somewhere outside the modern council area.
 
@@ -362,194 +362,194 @@ The lasting value of the orange-light reports is therefore not that they prove a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Cheshire See So Many Orange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Cheshire See So Many Orange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page about officially logged orange-light sightings and government UFO reporting practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about officially logged orange-light sightings and government UFO reporting practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how clusters of lights and observational reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how clusters of lights and observational reports are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides contemporary context for official UFO reporting and unexplained aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contemporary context for official UFO reporting and unexplained aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Encourages readers to compare modern light-formation reports with historical patterns of unusual sky observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages readers to compare modern light-formation reports with historical patterns of unusual sky observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-45176e-why-did-cheshire-see-so-many-orange-lights-cheshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The lasting value of the orange-light reports is therefore not that they prove a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The lasting value of the orange-light reports is therefore not that they prove a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The lasting value of the orange-light reports is therefore not that they prove a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The lasting value of the orange-light reports is therefore not that they prove a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The lasting value of the orange-light reports is therefore not that they prove a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,205 +755,205 @@ The lasting value of the orange-light reports is therefore not that they prove a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cheshire-live.co.uk  
    Title: The 43 mysterious 'UFO' sightings recorded in Cheshire over 13 years  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Cheshire | England, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-county-England</a>  
+   Link:<a href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-county-England</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Wirral" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wirral</a>  
+   Link:<a href="https://www.britannica.com/place/Wirral" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wirral</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cheshire-live.co.uk  
    Title: cheshire ufo sighting mod 16996980  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cheshire-live.co.uk  
-   Link: <a href="https://www.cheshire-live.co.uk/all-about/wirral?pageNumber=14" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/wirral?pageNumber=14</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/all-about/wirral?pageNumber=14" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/wirral?pageNumber=14</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cheshire-live.co.uk  
    Title: Ministry of Defence  
-   Link: <a href="https://www.cheshire-live.co.uk/all-about/ministry-of-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/ministry-of-defence</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/all-about/ministry-of-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/ministry-of-defence</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cheshire-live.co.uk  
    Title: Chester & Cheshire news  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/?pageNumber=1136" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/?pageNumber=1136</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/?pageNumber=1136" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/?pageNumber=1136</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cheshire-live.co.uk  
-   Link: <a href="https://www.cheshire-live.co.uk/all-about/beeston?pageNumber=2" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/beeston?pageNumber=2</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/all-about/beeston?pageNumber=2" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/beeston?pageNumber=2</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cheshire-live.co.uk  
-   Link: <a href="https://www.cheshire-live.co.uk/all-about/cheshire?pageNumber=141" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/cheshire?pageNumber=141</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/all-about/cheshire?pageNumber=141" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/cheshire?pageNumber=141</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cheshire-live.co.uk  
-   Link: <a href="https://www.cheshire-live.co.uk/all-about/malpas?pageNumber=7" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/malpas?pageNumber=7</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/all-about/malpas?pageNumber=7" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/all-about/malpas?pageNumber=7</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Cheshire-West-and-Chester" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-West-and-Chester</a>  
+   Link:<a href="https://www.britannica.com/place/Cheshire-West-and-Chester" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-West-and-Chester</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newcastle.gov.uk  
-   Link: <a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
+   Link:<a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: carmarthenshire.gov.wales  
    Title: wales Sky lanterns / balloons  
-   Link: <a href="https://www.carmarthenshire.gov.wales/council-services/environmental-health/sky-lanterns-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.carmarthenshire.gov.wales/council-services/environmental-health/sky-lanterns-balloons/</a>  
+   Link:<a href="https://www.carmarthenshire.gov.wales/council-services/environmental-health/sky-lanterns-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.carmarthenshire.gov.wales/council-services/environmental-health/sky-lanterns-balloons/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: moderngov.halton.gov.uk  
    Title: Sky Lantern and Helium Balloon Releases  
-   Link: <a href="https://moderngov.halton.gov.uk/documents/s49888/Sky%20Lantern%20and%20Helium%20Balloon%20Releases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.halton.gov.uk/documents/s49888/Sky%20Lantern%20and%20Helium%20Balloon%20Releases.pdf</a>  
+   Link:<a href="https://moderngov.halton.gov.uk/documents/s49888/Sky%20Lantern%20and%20Helium%20Balloon%20Releases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.halton.gov.uk/documents/s49888/Sky%20Lantern%20and%20Helium%20Balloon%20Releases.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: southend.gov.uk  
-   Link: <a href="https://www.southend.gov.uk/downloads/file/7586/balloon-and-lantern-sky-release-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.southend.gov.uk/downloads/file/7586/balloon-and-lantern-sky-release-guidance</a>  
+   Link:<a href="https://www.southend.gov.uk/downloads/file/7586/balloon-and-lantern-sky-release-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.southend.gov.uk/downloads/file/7586/balloon-and-lantern-sky-release-guidance</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: brighton-hove.gov.uk  
-   Link: <a href="https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/events-and-filming/sky-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/events-and-filming/sky-lanterns</a>  
+   Link:<a href="https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/events-and-filming/sky-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/events-and-filming/sky-lanterns</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cheshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cheshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: myheritage.com  
-   Link: <a href="https://www.myheritage.com/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://www.myheritage.com/wiki/Cheshire</a>  
+   Link:<a href="https://www.myheritage.com/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://www.myheritage.com/wiki/Cheshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Wirral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Wirral</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Wirral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Wirral</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NzIkcc9SFXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NzIkcc9SFXQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People left confused over flashing lights across the Mersey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NzIkcc9SFXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NzIkcc9SFXQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People left confused over flashing lights across the Mersey...</p></details>
    Published: November 2008  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/</a>  
+   Link:<a href="https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManchesterEveningNews/posts/bizarre-moment-a-reform-councillor-kieran-lay-said-he-wants-a-report-into-ufos-b/1452869183542109/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: astronomytrek.com  
-   Link: <a href="https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/</a>  
+   Link:<a href="https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/cheshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/cheshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/cheshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/cheshire/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: carlscam.com  
-   Link: <a href="https://www.carlscam.com/boundary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.carlscam.com/boundary.htm</a>  
+   Link:<a href="https://www.carlscam.com/boundary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.carlscam.com/boundary.htm</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cheshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cheshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/</a>  
+   Link:<a href="https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/?hl=en-gb</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/does-uk-blind-spot-ufo-233648483.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/does-uk-blind-spot-ufo-233648483.html</a>  
+   Link:<a href="https://www.aol.com/articles/does-uk-blind-spot-ufo-233648483.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/does-uk-blind-spot-ufo-233648483.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  

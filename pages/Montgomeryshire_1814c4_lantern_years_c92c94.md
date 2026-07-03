@@ -254,23 +254,23 @@ image: /assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-overview-socia
 
 ## Introduction
 
-The Newtown and Llanidloes reports are small cases, but they are useful because they show how late-2000s “lights in the sky” reports entered police and UFO records during the Chinese-lantern surge. In June 2008, Newtown, Powys, produced a brief report of flashing balls of light believed to be two UFOs. In May 2009, Llanidloes produced a more revealing entry: three orange lights were reported as UFOs, but an object was seized and identified as a night lantern. Both towns sit within the historic [Montgomeryshire]({{ 'what-really-happened-over-2ade50/' | relative_url }}) frame used for this county project, even though modern reporting commonly files them under Powys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph+2Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-snippet">Open source on telegraph.co.uk.</span></span></span>
+The Newtown and Llanidloes reports are small cases, but they are useful because they show how late-2000s “lights in the sky” reports entered police and UFO records during the Chinese-lantern surge. In June 2008, Newtown, Powys, produced a brief report of flashing balls of light believed to be two UFOs. In May 2009, Llanidloes produced a more revealing entry: three orange lights were reported as UFOs, but an object was seized and identified as a night lantern. Both towns sit within the historic [Montgomeryshire]({{ 'what-really-happened-over-2ade50/' | relative_url }}) frame used for this county project, even though modern reporting commonly files them under Powys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[telegraph.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-snippet">Open source on telegraph.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-overview.webp" | relative_url }}" alt="Overview image for Lantern Years" loading="eager" decoding="sync" fetchpriority="high">
-These are not strong cases for extraordinary craft. Their value is more practical: they show the reporting mechanism at work. A vague light report at Newtown remained unresolved in public summaries, while the Llanidloes case moved from “UFO” to an identified lantern. That before-and-after contrast helps explain why Montgomeryshire’s late-2000s UFO record is best read as a local example of a wider UK pattern, not as an isolated mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
+These are not strong cases for extraordinary craft. Their value is more practical: they show the reporting mechanism at work. A vague light report at Newtown remained unresolved in public summaries, while the Llanidloes case moved from “UFO” to an identified lantern. That before-and-after contrast helps explain why Montgomeryshire’s late-2000s UFO record is best read as a local example of a wider UK pattern, not as an isolated mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
 
 ## Why Newtown and Llanidloes belong in Montgomeryshire
 
-For this project, Montgomeryshire means the historic Welsh county rather than the wider modern local-government label of Powys. That distinction matters because police and press reports often use “Powys”, while the mapped county history being followed here uses the older county frame. DataMapWales notes that Montgomeryshire was one of the historic counties created after the Marcher Lordships were abolished under the Laws in Wales Acts, while the Gazetteer of British Place Names places both Llanidloes and Newtown in the Severn corridor of Montgomeryshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[datamap.gov.wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">metadata detail</span><span class="citation-popover-snippet">metadata detail</span></span></span>
+For this project, Montgomeryshire means the historic Welsh county rather than the wider modern local-government label of Powys. That distinction matters because police and press reports often use “Powys”, while the mapped county history being followed here uses the older county frame. DataMapWales notes that Montgomeryshire was one of the historic counties created after the Marcher Lordships were abolished under the Laws in Wales Acts, while the Gazetteer of British Place Names places both Llanidloes and Newtown in the Severn corridor of Montgomeryshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[datamap.gov.wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">metadata detail</span><span class="citation-popover-snippet">metadata detail</span></span></span>
 
-The geography also matters for interpretation. Llanidloes is described as a Montgomeryshire town high in the mountains near the Hafren Forest and the upper Severn, while Newtown is identified as the county’s largest town on the River Severn. That does not make unusual lights more exotic, but it does shape how witnesses see them: in darker rural or semi-rural settings, a small airborne light can appear more isolated, slower, brighter or stranger than it might over a city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Llanidloes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+The geography also matters for interpretation. Llanidloes is described as a Montgomeryshire town high in the mountains near the Hafren Forest and the upper Severn, while Newtown is identified as the county’s largest town on the River Severn. That does not make unusual lights more exotic, but it does shape how witnesses see them: in darker rural or semi-rural settings, a small airborne light can appear more isolated, slower, brighter or stranger than it might over a city.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Llanidloes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-1-dark.svg" | relative_url }}" alt="Lantern Years illustration 1" data-theme-src-dark="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Newtown flashing lights
 
-The public account of the Newtown incident is extremely brief. The strongest available summaries describe a June 2008 report in Newtown, Powys, of “flashing balls” or “flashing balls of light” believed to be two UFOs. WalesOnline later listed the case among Welsh police UFO reports from the previous decade, and the Telegraph’s 2011 report on unusual Welsh police calls also placed the Newtown sighting in June 2008. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-snippet">Open source on telegraph.co.uk.</span></span></span>
+The public account of the Newtown incident is extremely brief. The strongest available summaries describe a June 2008 report in Newtown, Powys, of “flashing balls” or “flashing balls of light” believed to be two UFOs. WalesOnline later listed the case among Welsh police UFO reports from the previous decade, and the Telegraph’s 2011 report on unusual Welsh police calls also placed the Newtown sighting in June 2008.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-snippet">Open source on telegraph.co.uk.</span></span></span>
 
 That wording is important because it tells us both something and not very much. It tells us the report involved more than one light, that the lights were flashing, and that the caller or log treated them as possibly two UFOs. It does not give the exact time, viewing direction, duration, weather, witness number, altitude estimate, sound, photographs, radar data, aircraft checks or any later official conclusion. On the public evidence, Newtown is therefore a weakly documented sighting, not a case that can bear a heavy claim.
 
@@ -281,11 +281,11 @@ Its likely explanations remain broad. “Flashing balls of light” could descri
 
 ## Llanidloes orange lights
 
-The Llanidloes report is more useful because it contains a built-in resolution. WalesOnline’s police-record summary describes the 2009 Llanidloes case as three orange lights thought to be UFOs, with an object seized and then found to be a night lantern. The Telegraph’s earlier report places the Llanidloes incident in May 2009 and similarly describes three orange lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-snippet">Open source on telegraph.co.uk.</span></span></span>
+The Llanidloes report is more useful because it contains a built-in resolution. WalesOnline’s police-record summary describes the 2009 Llanidloes case as three orange lights thought to be UFOs, with an object seized and then found to be a night lantern. The Telegraph’s earlier report places the Llanidloes incident in May 2009 and similarly describes three orange lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-snippet">Open source on telegraph.co.uk.</span></span></span>
 
 That final detail changes the status of the case. Many light reports remain ambiguous because the object is never recovered and the account depends only on memory. Llanidloes is different: at least one physical object was apparently available to police or local responders and was identified as a lantern. That does not prove that every light seen by every witness was the same object, but it makes the lantern explanation the best available reading of the public record.
 
-The case also matches the visual language of the period. Across the UK in 2008 and 2009, official UFO logs repeatedly recorded orange, red-orange or fireball-like lights, often seen in groups, moving slowly, making no sound, fading away or appearing to travel in loose formation. The Ministry of Defence’s 2009 published sighting table begins with multiple orange-light entries, including grouped orange lights and objects described as bright, glowing or flame-like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The case also matches the visual language of the period. Across the UK in 2008 and 2009, official UFO logs repeatedly recorded orange, red-orange or fireball-like lights, often seen in groups, moving slowly, making no sound, fading away or appearing to travel in loose formation. The Ministry of Defence’s 2009 published sighting table begins with multiple orange-light entries, including grouped orange lights and objects described as bright, glowing or flame-like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-2-dark.svg" | relative_url }}" alt="Lantern Years illustration 2" data-theme-src-dark="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -293,9 +293,9 @@ The case also matches the visual language of the period. Across the UK in 2008 a
 
 Chinese or night lanterns created a problem for UFO reporting because they behaved just strangely enough to look structured without being aircraft. A lantern is small, silent, wind-driven and flame-lit. Seen at night, especially at a distance, it can look like a glowing orb. Several released together can resemble a formation. As the fuel burns out or cloud, distance and angle change, the light can appear to fade, climb, vanish or change speed.
 
-The National Archives’ 2013 UFO-file material describes the final years of the Ministry of Defence UFO desk as a period when sightings surged. Its press release says the desk received more than 600 UFO sightings and reports in 2009, roughly treble the previous year, and that the growing workload was part of the reason the desk was closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives’ 2013 UFO-file material describes the final years of the Ministry of Defence UFO desk as a period when sightings surged. Its press release says the desk received more than 600 UFO sightings and reports in 2009, roughly treble the previous year, and that the growing workload was part of the reason the desk was closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-A National Archives video transcript gives the clearest mechanism. Dr David Clarke describes the period as one when the Ministry was receiving many reports of orange ball-shaped phenomena, often in clusters, bobbing silently and moving in formation. In one widely reported 2008 Shropshire case involving soldiers, the apparent UFO cluster was later linked to Chinese lanterns released at a nearby wedding party. That comparison matters for Montgomeryshire because Shropshire borders the eastern side of the historic county and shares part of the same regional sky culture and media environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+A National Archives video transcript gives the clearest mechanism. Dr David Clarke describes the period as one when the Ministry was receiving many reports of orange ball-shaped phenomena, often in clusters, bobbing silently and moving in formation. In one widely reported 2008 Shropshire case involving soldiers, the apparent UFO cluster was later linked to Chinese lanterns released at a nearby wedding party. That comparison matters for Montgomeryshire because Shropshire borders the eastern side of the historic county and shares part of the same regional sky culture and media environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vgFJUjLxyZo" title="Christmas Craft Fair | Minerva Arts Centre, Llanidloes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vgFJUjLxyZo" target="_blank" rel="noopener noreferrer">Christmas Craft Fair | Minerva Arts Centre, Llanidloes</a></p><p class="youtube-embed-meta">Channel: The Tenterhook Times</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vgFJUjLxyZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vgFJUjLxyZo">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ The contrast is useful:
 
 * **Newtown, 2008:** a short “flashing balls of light” report, publicly unresolved but weakly evidenced.
 * **Llanidloes, 2009:** three orange lights, with a recovered object identified as a night lantern.
-* **Wider UK setting:** many 2008–2009 reports involved orange, fire-like, silent or grouped lights, while the MoD was facing a surge in public reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
+* **Wider UK setting:** many 2008–2009 reports involved orange, fire-like, silent or grouped lights, while the MoD was facing a surge in public reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
 
 </div>
 
@@ -321,11 +321,11 @@ This does not mean every late-2000s light report in Montgomeryshire can be dismi
 <img src="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-3-dark.svg" | relative_url }}" alt="Lantern Years illustration 3" data-theme-src-dark="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montgomeryshire_1814c4_lantern_years_c92c94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How strong is the evidence?
 
-The evidence for the Newtown and Llanidloes reports is uneven. Both appear in secondary press accounts based on police records, rather than in a full public case file with witness statements, maps or technical analysis. That limits what can responsibly be said. The reports establish that calls or logs existed; they do not provide enough detail to reconstruct the sky event minute by minute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
+The evidence for the Newtown and Llanidloes reports is uneven. Both appear in secondary press accounts based on police records, rather than in a full public case file with witness statements, maps or technical analysis. That limits what can responsibly be said. The reports establish that calls or logs existed; they do not provide enough detail to reconstruct the sky event minute by minute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
 
 Llanidloes is the stronger of the two because it contains an explanation, not because it is more mysterious. The recovered object identified as a night lantern gives the case a firmer evidential endpoint. Newtown, by contrast, remains a brief report with no public resolution. In UFO-history terms, that makes Llanidloes an explained local case and Newtown a low-information entry, not a major unresolved incident.
 
-The MoD context also lowers the evidential weight of these reports. The National Archives’ released material says the MoD closed its UFO desk after concluding that, across more than 50 years, no sighting reported to the department had revealed evidence of an extraterrestrial presence or a military threat to the UK. That judgement does not solve every individual sighting, but it explains why cases such as Newtown and Llanidloes were increasingly treated as public-correspondence and reporting issues rather than defence investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The MoD context also lowers the evidential weight of these reports. The National Archives’ released material says the MoD closed its UFO desk after concluding that, across more than 50 years, no sighting reported to the department had revealed evidence of an extraterrestrial presence or a military threat to the UK. That judgement does not solve every individual sighting, but it explains why cases such as Newtown and Llanidloes were increasingly treated as public-correspondence and reporting issues rather than defence investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3-7hud_NmhY" title="Llanidloes Pumpkin Festival 2021 | Mid Wales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3-7hud_NmhY" target="_blank" rel="noopener noreferrer">Llanidloes Pumpkin Festival 2021 | Mid Wales</a></p><p class="youtube-embed-meta">Channel: The Tenterhook Times</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3-7hud_NmhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3-7hud_NmhY">Open on YouTube</a></p></div></div></div>
@@ -337,194 +337,194 @@ The Newtown and Llanidloes lights matter because they capture a change in the la
 For Montgomeryshire, this means the “lantern years” should not be read as a dramatic county flap. They are better understood as a local expression of a national reporting surge. Newtown shows how a sparse lights-in-the-sky call could become a UFO entry. Llanidloes shows how the same pathway could end in identification once a physical object was found. Together, they make the county’s late-2000s record more understandable, not more sensational.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Orange Lights Became UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Orange Lights Became UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how ordinary observations become UFO reports and how sightings should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how ordinary observations become UFO reports and how sightings should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official reporting systems and the difference between reports and explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official reporting systems and the difference between reports and explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers understand why unusual lights are often interpreted as extraordinary events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why unusual lights are often interpreted as extraordinary events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based investigation of unusual claims and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based investigation of unusual claims and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="lantern-years-when-orange-lights-became-ufo-reports-montgomeryshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-orange-lights-became-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For Montgomeryshire, this means the “lantern years” should not be read as a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For Montgomeryshire, this means the “lantern years” should not be read as a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For Montgomeryshire, this means the “lantern years” should not be read as a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For Montgomeryshire, this means the “lantern years” should not be read as a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For Montgomeryshire, this means the “lantern years” should not be read as a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,145 +730,145 @@ For Montgomeryshire, this means the “lantern years” should not be read as a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: datamap.gov.wales  
    Title: metadata detail  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: datamap.gov.wales  
-   Link: <a href="https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt</a>  
+   Link:<a href="https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/catalogue/csw_to_extra_format/a131e4ae-b944-11ef-8c46-36cc4a04afda/Historic%20County%20Boundaries%20of%20Wales.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dyfed-powys.police.uk  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: south-wales.police.uk  
    Title: foi 76225  
-   Link: <a href="https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/" target="_blank" rel="noopener noreferrer nofollow">https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/</a>  
+   Link:<a href="https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/" target="_blank" rel="noopener noreferrer nofollow">https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: historicwales.gov.uk  
-   Link: <a href="https://www.historicwales.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicwales.gov.uk/</a>  
+   Link:<a href="https://www.historicwales.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicwales.gov.uk/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: place names within the united kingdom  
-   Link: <a href="https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom</a>  
+   Link:<a href="https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: llanidloes.com  
-   Link: <a href="https://www.llanidloes.com/genealogy/" target="_blank" rel="noopener noreferrer nofollow">https://www.llanidloes.com/genealogy/</a>  
+   Link:<a href="https://www.llanidloes.com/genealogy/" target="_blank" rel="noopener noreferrer nofollow">https://www.llanidloes.com/genealogy/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html</a>  
+   Link:<a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/8474946/Zombies-UFOs-witches-...-theyve-seen-them-all-in-Wales.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: walesonline.co.uk  
    Title: ufos wales police reveal locations 1837150  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Llanidloes" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Llanidloes</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Llanidloes" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Llanidloes</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wikishire.co.uk  
    Title: Newtown, Montgomeryshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Newtown%2C_Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Newtown%2C_Montgomeryshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Newtown%2C_Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Newtown%2C_Montgomeryshire</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Montgomeryshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Montgomeryshire</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Llanidloes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Llanidloes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Llanidloes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Llanidloes</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montgomeryshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montgomeryshire</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/</a>  
+   Link:<a href="https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-builder-from-a-welsh-town-has-said-he-was-taken-aback-when-he-spotted-what-he-/787478256738214/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Montgomeryshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Montgomeryshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Montgomeryshire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AroundTenby/posts/last-night-over-penally-mysterious-glowing-orbs-in-the-sky-either-ufos-have-fina/1437385021723616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AroundTenby/posts/last-night-over-penally-mysterious-glowing-orbs-in-the-sky-either-ufos-have-fina/1437385021723616/</a>  
+   Link:<a href="https://www.facebook.com/AroundTenby/posts/last-night-over-penally-mysterious-glowing-orbs-in-the-sky-either-ufos-have-fina/1437385021723616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AroundTenby/posts/last-night-over-penally-mysterious-glowing-orbs-in-the-sky-either-ufos-have-fina/1437385021723616/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/1106/names" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/1106/names</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/1106/names" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/1106/names</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Llanidloes%2C_Montgomeryshire_27442" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Llanidloes%2C_Montgomeryshire_27442</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Llanidloes%2C_Montgomeryshire_27442" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Llanidloes%2C_Montgomeryshire_27442</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/montgomeryshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/montgomeryshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/montgomeryshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/montgomeryshire/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/</a>  
+   Link:<a href="https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: datacymru.databasic.io  
-   Link: <a href="https://datacymru.databasic.io/static/files/activity-materials/en_CY/UFO_Sightings_Reported_Wales.csv" target="_blank" rel="noopener noreferrer nofollow">https://datacymru.databasic.io/static/files/activity-materials/en_CY/UFO_Sightings_Reported_Wales.csv</a>  
+   Link:<a href="https://datacymru.databasic.io/static/files/activity-materials/en_CY/UFO_Sightings_Reported_Wales.csv" target="_blank" rel="noopener noreferrer nofollow">https://datacymru.databasic.io/static/files/activity-materials/en_CY/UFO_Sightings_Reported_Wales.csv</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Montgomeryshire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Montgomeryshire&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Montgomeryshire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Montgomeryshire&amp;type=em</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: independent.co.uk  
    Title: nick pope ufo mod ministry of defence northern ireland b2474519  
-   Link: <a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pembrokeshire-b220ff-index/
 description: Focused pages that expand on Pembrokeshire.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Pembrokeshire_b220ff
 parent_title: Pembrokeshire
@@ -16,7 +16,7 @@ parent_permalink: /pembrokeshire/
 
 # Explore Topics in Pembrokeshire
 
-The following pages expand on the main **[Pembrokeshire]({{ '/pembrokeshire/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Pembrokeshire]({{ '/pembrokeshire/' | relative_url }})** page and cover its key branches in.
 
 - [School Sighting]({{ '/school-sighting/' | relative_url }})
 - [Little Haven]({{ '/little-haven/' | relative_url }})

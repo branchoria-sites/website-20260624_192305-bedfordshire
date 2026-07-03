@@ -118,9 +118,9 @@ heading_title: What Really Happened in Midlothian's UFO Reports?
 page_heading_title: What Really Happened in Midlothian's UFO Reports?
 source_count: 99
 infographic_count: 3
-page_website_name: Midlothian UFOs
+page_website_name: Midlothian
 page_banner_line: Balanced evidence on historic Midlothian's reported UFO sightings.
-site_website_name: Midlothian UFOs
+site_website_name: Midlothian
 site_banner_line: Balanced evidence on historic Midlothian's reported UFO sightings.
 site_image_description: A night view across the Pentland Hills towards Edinburgh, with small unexplained lights above the dark ridge line.
 output_language: English
@@ -689,26 +689,26 @@ image: /assets/images/Midlothian_ff4e39-overview-social.jpg
 
 ## Which Midlothian is meant here?
 
-This page uses **[historic Midlothian]({{ 'boundaries-c78321/' | relative_url }})**, also known for much of its history as Edinburghshire, as the geographic frame. That matters because several relevant reports are listed by the MoD as “Edinburgh, Midlothian” or “Colinton/Edinburgh, Midlothian”, even though modern local government boundaries now separate the City of Edinburgh from Midlothian Council. Scotland’s People describes Midlothian as a county in eastern Scotland, also known as Edinburghshire, with counties as local government areas abolished in Scotland in 1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-snippet">Open source on scotlandspeople.gov.uk.</span></span></span>
+This page uses **[historic Midlothian]({{ 'boundaries-c78321/' | relative_url }})**, also known for much of its history as Edinburghshire, as the geographic frame. That matters because several relevant reports are listed by the MoD as “Edinburgh, Midlothian” or “Colinton/Edinburgh, Midlothian”, even though modern local government boundaries now separate the City of Edinburgh from Midlothian Council. Scotland’s People describes Midlothian as a county in eastern Scotland, also known as Edinburghshire, with counties as local government areas abolished in Scotland in 1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-snippet">Open source on scotlandspeople.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Midlothian_ff4e39-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Midlothian&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-Historic Midlothian included Edinburgh and stretched across a wider area than the present council area. Britannica notes that Midlothian’s history was closely tied to Edinburgh and that the county was known as Edinburghshire until the 20th century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Midlothian-former-county-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Midlothian &#124; Scotland, United Kingdom</span><span class="citation-popover-snippet">Encyclopedia Britannica Midlothian &#124; Scotland, United Kingdom</span></span></span> Wikishire describes the historic county as lying between the Firth of Forth and neighbouring counties including East Lothian, West Lothian, Peeblesshire, Selkirkshire and Berwickshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Midlothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Historic Midlothian included Edinburgh and stretched across a wider area than the present council area. Britannica notes that Midlothian’s history was closely tied to Edinburgh and that the county was known as Edinburghshire until the 20th century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Midlothian-former-county-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Midlothian &#124; Scotland, United Kingdom</span><span class="citation-popover-snippet">Encyclopedia Britannica Midlothian &#124; Scotland, United Kingdom</span></span></span> Wikishire describes the historic county as lying between the Firth of Forth and neighbouring counties including East Lothian, West Lothian, Peeblesshire, Selkirkshire and Berwickshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Midlothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 For UFO evidence, this means the boundary line is not just administrative housekeeping. A sighting over the [Pentland Hills]({{ 'pentland-hills/' | relative_url }}), a report from Colinton, or a light seen from Edinburgh but apparently over rural ground may sit awkwardly across modern council boundaries. The practical approach is to keep the centre of gravity on historic Midlothian while recognising that aviation routes, newspaper coverage, police responses and sky visibility do not follow county borders.
 
 ## What the official records actually show
 
-The most useful official source for Midlothian is the UK Government’s published set of UFO reports for 1997 to 2009. The GOV.UK page describes these as reports showing dates, times, locations and brief descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> These lists are valuable because they preserve the basic public reporting record, but they are also limited: many entries are one-line summaries with no named witness, no photographs, no weather reconstruction, no aircraft check and no final explanation.
+The most useful official source for Midlothian is the UK Government’s published set of UFO reports for 1997 to 2009. The GOV.UK page describes these as reports showing dates, times, locations and brief descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> These lists are valuable because they preserve the basic public reporting record, but they are also limited: many entries are one-line summaries with no named witness, no photographs, no weather reconstruction, no aircraft check and no final explanation.
 
 Several Midlothian-linked entries stand out:
 
-* **15 April 1998, Musselburgh, Midlothian:** two bright “jelly fish shaped” objects were reported moving south-east at 2 am. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **8 November 1999, Penicuik, Midlothian:** an object “looked like a star” but had blue and red flashing lights and kept a constant position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **23 February 2000, Colinton/Edinburgh, Midlothian:** one very bright oval object with a “tail like a kite” was reported moving very fast horizontally to the west before dipping and disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **2006, Midlothian, Scotland:** a “weird light” was reported as moving in “all sorts of weird directions”, with the message taken in January 2007 for an event said to have occurred sometime in December 2006. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
-* **2007, Bonnyrigg, Midlothian:** sixty lights were reported at 5.15 am, moving fast; some were red, some blue, and thirty reportedly changed to orange while in a triangle formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
-* **9 and 10 October 2009, Edinburgh, Midlothian:** one report gave no details, while another described two silent objects, with one similar object reportedly seen three weeks earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **15 April 1998, Musselburgh, Midlothian:** two bright “jelly fish shaped” objects were reported moving south-east at 2 am.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **8 November 1999, Penicuik, Midlothian:** an object “looked like a star” but had blue and red flashing lights and kept a constant position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **23 February 2000, Colinton/Edinburgh, Midlothian:** one very bright oval object with a “tail like a kite” was reported moving very fast horizontally to the west before dipping and disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **2006, Midlothian, Scotland:** a “weird light” was reported as moving in “all sorts of weird directions”, with the message taken in January 2007 for an event said to have occurred sometime in December 2006.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **2007, Bonnyrigg, Midlothian:** sixty lights were reported at 5.15 am, moving fast; some were red, some blue, and thirty reportedly changed to orange while in a triangle formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+* **9 and 10 October 2009, Edinburgh, Midlothian:** one report gave no details, while another described two silent objects, with one similar object reportedly seen three weeks earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Taken together, these entries show a local record dominated by lights, colours, motion and formation claims. They do not show a strong chain of corroboration. None of the Midlothian entries above appears in the available summaries as a radar case, a pilot report, a military-base incident, or a case with physical traces. That does not make them worthless; it simply keeps them in the “reported but weakly resolved” category.
 
@@ -716,11 +716,11 @@ Taken together, these entries show a local record dominated by lights, colours, 
 <img src="{{ "/assets/images/Midlothian_ff4e39-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Midlothian&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Midlothian_ff4e39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Midlothian_ff4e39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Bonnyrigg lights are the most striking local entry
 
-The Bonnyrigg report is the most visually dramatic Midlothian entry in the MoD lists because it gives a large number: sixty lights, moving fast, with colour changes and a triangle formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> For a reader, that sounds more impressive than a single light or a star-like object. It also raises the obvious question: if dozens of lights were visible, why is there not a larger public record?
+The Bonnyrigg report is the most visually dramatic Midlothian entry in the MoD lists because it gives a large number: sixty lights, moving fast, with colour changes and a triangle formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> For a reader, that sounds more impressive than a single light or a star-like object. It also raises the obvious question: if dozens of lights were visible, why is there not a larger public record?
 
-That gap is exactly why the case should be handled carefully. The MoD entry says the message was taken from an answerphone on 23 October 2007 and gives “No Firm Date”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> That weakens the evidential value because the exact date is essential for checking weather, aircraft, astronomical objects, firework events, lantern releases, satellite passes or other local activity.
+That gap is exactly why the case should be handled carefully. The MoD entry says the message was taken from an answerphone on 23 October 2007 and gives “No Firm Date”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> That weakens the evidential value because the exact date is essential for checking weather, aircraft, astronomical objects, firework events, lantern releases, satellite passes or other local activity.
 
-The description also resembles a wider late-2000s pattern in UK UFO reports: multiple orange or coloured lights, formations, silent movement and uncertain scale. The same 2007 MoD file includes other reports of many lights elsewhere in Britain, including “sixty orange glowing lights” in Uckfield and twenty orange lights appearing after a flash in Trowbridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> This does not prove the Bonnyrigg report was the same phenomenon, but it shows that it was not an isolated reporting style.
+The description also resembles a wider late-2000s pattern in UK UFO reports: multiple orange or coloured lights, formations, silent movement and uncertain scale. The same 2007 MoD file includes other reports of many lights elsewhere in Britain, including “sixty orange glowing lights” in Uckfield and twenty orange lights appearing after a flash in Trowbridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> This does not prove the Bonnyrigg report was the same phenomenon, but it shows that it was not an isolated reporting style.
 
 A fair assessment is that Bonnyrigg is **interesting but not strong**. It has a memorable description and an official listing, but the absence of a firm date, named witnesses, images, independent confirmation or investigation record means it cannot bear much weight.
 
@@ -729,29 +729,29 @@ A fair assessment is that Bonnyrigg is **interesting but not strong**. It has a 
 
 ## Penicuik, Colinton and Edinburgh: the recurring “bright light” problem
 
-The Penicuik report from November 1999 is a classic example of a UFO entry that sounds mysterious but has several ordinary possibilities. The object was described as star-like, with blue and red flashing lights, and it kept a constant position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> A stationary light with colour scintillation can be caused by a bright star or planet seen through turbulent air, while red, blue and white flashing can also suggest aircraft lights seen at a distance. The MoD summary does not give direction, duration, elevation, weather or whether the witness used binoculars, so the case cannot be confidently resolved.
+The Penicuik report from November 1999 is a classic example of a UFO entry that sounds mysterious but has several ordinary possibilities. The object was described as star-like, with blue and red flashing lights, and it kept a constant position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> A stationary light with colour scintillation can be caused by a bright star or planet seen through turbulent air, while red, blue and white flashing can also suggest aircraft lights seen at a distance. The MoD summary does not give direction, duration, elevation, weather or whether the witness used binoculars, so the case cannot be confidently resolved.
 
-The Colinton/Edinburgh report from February 2000 is more dynamic: a very bright oval object with a kite-like tail moved fast westwards, dipped and disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That description could point towards a meteor, re-entering debris, a fireball, an aircraft seen under unusual lighting, or another transient sky event. Again, without direction precision, duration, angular size or corroborating reports, the label “unidentified” mostly reflects incomplete data.
+The Colinton/Edinburgh report from February 2000 is more dynamic: a very bright oval object with a kite-like tail moved fast westwards, dipped and disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That description could point towards a meteor, re-entering debris, a fireball, an aircraft seen under unusual lighting, or another transient sky event. Again, without direction precision, duration, angular size or corroborating reports, the label “unidentified” mostly reflects incomplete data.
 
-The October 2009 Edinburgh reports are particularly important because they came just before the MoD stopped recording and investigating UFO sightings. One Edinburgh/Midlothian entry gives no details; another says two silent objects were seen and that one object had been seen three weeks earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> In the same part of the 2009 file, many UK reports describe orange, red or glowing lights, and a Leith entry explicitly states that the witness thought the objects could be Chinese lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That nearby context matters: it shows how common lantern-like reports had become by the end of the MoD’s public UFO-reporting period.
+The October 2009 Edinburgh reports are particularly important because they came just before the MoD stopped recording and investigating UFO sightings. One Edinburgh/Midlothian entry gives no details; another says two silent objects were seen and that one object had been seen three weeks earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> In the same part of the 2009 file, many UK reports describe orange, red or glowing lights, and a Leith entry explicitly states that the witness thought the objects could be Chinese lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That nearby context matters: it shows how common lantern-like reports had become by the end of the MoD’s public UFO-reporting period.
 
 ## The Pentland Hills and the modern “UFO lights” cycle
 
-The Pentland Hills sit at the edge of the Edinburgh and Midlothian skywatching story because they provide dark ridges, open views and a natural backdrop for lights seen from populated areas. Modern local media have reported “UFO” lights around the Pentlands, but at least one widely shared 2022 episode was later explained as night runners rather than aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edinburghlive.co.uk">[Edinburgh Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edinburghlive.co.uk</span><span class="citation-popover-title">edinburgh locals mesmerised ufos pentland 23450021</span><span class="citation-popover-snippet">edinburgh locals mesmerised ufos pentland 23450021</span></span></span>
+The Pentland Hills sit at the edge of the Edinburgh and Midlothian skywatching story because they provide dark ridges, open views and a natural backdrop for lights seen from populated areas. Modern local media have reported “UFO” lights around the Pentlands, but at least one widely shared 2022 episode was later explained as night runners rather than aerial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edinburghlive.co.uk">[Edinburgh Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edinburghlive.co.uk</span><span class="citation-popover-title">edinburgh locals mesmerised ufos pentland 23450021</span><span class="citation-popover-snippet">edinburgh locals mesmerised ufos pentland 23450021</span></span></span>
 
 That example is useful because it shows how local UFO stories can form without anything being in the sky at all. A line of lights on a hillside, headtorches moving along a ridge, drones, aircraft, satellites, lanterns or reflections can all be read as aerial phenomena when the observer lacks distance and scale cues. The Pentlands are also close enough to Edinburgh’s urban population for sightings to spread quickly through social media and local news.
 
-Aviation adds another layer. Edinburgh Airport states that its main runway operates in two directions, with aircraft arriving from the west and departing east when Runway 06 is in use, and arriving from the east and departing west when Runway 24 is in use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span> Airport material also explains that departure routes are shaped by Standard Instrument Departures and wind direction, while arrivals are routed by air traffic control to maintain separation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span> None of this explains every Midlothian report, but it is a crucial part of the local sceptical toolkit.
+Aviation adds another layer. Edinburgh Airport states that its main runway operates in two directions, with aircraft arriving from the west and departing east when Runway 06 is in use, and arriving from the east and departing west when Runway 24 is in use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span> Airport material also explains that departure routes are shaped by Standard Instrument Departures and wind direction, while arrivals are routed by air traffic control to maintain separation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span> None of this explains every Midlothian report, but it is a crucial part of the local sceptical toolkit.
 
 
 <img src="{{ "/assets/images/Midlothian_ff4e39-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Midlothian&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Midlothian_ff4e39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Midlothian_ff4e39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD did, and did not, investigate
 
-The Ministry of Defence did not exist as a paranormal research body. Its interest in UFO reports was mainly whether anything posed a defence or air-safety concern. The National Archives states that the MoD’s UFO files contain a wide variety of material, including policy documents, correspondence and reports of unusual encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> It also notes that many older files were lost because, until 1967, MoD policy was to destroy UFO files after five years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The Ministry of Defence did not exist as a paranormal research body. Its interest in UFO reports was mainly whether anything posed a defence or air-safety concern. The National Archives states that the MoD’s UFO files contain a wide variety of material, including policy documents, correspondence and reports of unusual encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> It also notes that many older files were lost because, until 1967, MoD policy was to destroy UFO files after five years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 By the late 1990s and 2000s, the public reporting system often produced brief spreadsheet-like entries rather than detailed case files. That is exactly what the Midlothian evidence looks like: enough to show that people made reports, not enough to show that the sightings were deeply investigated.
 
-The closure of the MoD UFO desk is central to interpreting the 2009 Midlothian reports. The 2009 MoD report itself notes that, from 1 December 2009, policy changed and UFO sighting reports were no longer recorded or investigated by the department. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ release notes say the UFO desk was staffed by civil servants, received technical advice from DI55, and was closed in November 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span> In a 2021 House of Lords exchange, the government confirmed that the UFO desk had closed in 2009 and that relevant material had been passed to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
+The closure of the MoD UFO desk is central to interpreting the 2009 Midlothian reports. The 2009 MoD report itself notes that, from 1 December 2009, policy changed and UFO sighting reports were no longer recorded or investigated by the department.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ release notes say the UFO desk was staffed by civil servants, received technical advice from DI55, and was closed in November 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span> In a 2021 House of Lords exchange, the government confirmed that the UFO desk had closed in 2009 and that relevant material had been passed to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
 
 For Midlothian, that means there is a documentary cliff-edge. Earlier reports may appear in MoD lists; later sightings are more likely to survive as police logs, local news items, social media posts, civilian UFO databases or private witness accounts, which vary greatly in reliability.
 
@@ -762,11 +762,11 @@ For Midlothian, that means there is a documentary cliff-edge. Earlier reports ma
 
 The Midlothian record is best divided into three practical categories.
 
-**Unresolved but weakly evidenced:** Bonnyrigg 2007, Colinton/Edinburgh 2000 and Musselburgh 1998 sit here. Each has an official record and a distinctive description, but none has the detail needed for a robust reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+**Unresolved but weakly evidenced:** Bonnyrigg 2007, Colinton/Edinburgh 2000 and Musselburgh 1998 sit here. Each has an official record and a distinctive description, but none has the detail needed for a robust reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
-**Probably ordinary but not formally identified:** Penicuik 1999 and several Edinburgh light reports fit this group. The descriptions resemble stars, aircraft, lanterns or other common sky stimuli, but the records do not include enough information for a firm explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Probably ordinary but not formally identified:** Penicuik 1999 and several Edinburgh light reports fit this group. The descriptions resemble stars, aircraft, lanterns or other common sky stimuli, but the records do not include enough information for a firm explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Explained local scares:** The Pentland Hills “UFO lights” episode that turned out to be night runners belongs here. It is valuable precisely because it shows how an unusual-looking scene can be misread before later context resolves it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edinburghlive.co.uk">[Edinburgh Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edinburghlive.co.uk</span><span class="citation-popover-title">edinburgh locals mesmerised ufos pentland 23450021</span><span class="citation-popover-snippet">edinburgh locals mesmerised ufos pentland 23450021</span></span></span>
+**Explained local scares:** The Pentland Hills “UFO lights” episode that turned out to be night runners belongs here. It is valuable precisely because it shows how an unusual-looking scene can be misread before later context resolves it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edinburghlive.co.uk">[Edinburgh Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edinburghlive.co.uk</span><span class="citation-popover-title">edinburgh locals mesmerised ufos pentland 23450021</span><span class="citation-popover-snippet">edinburgh locals mesmerised ufos pentland 23450021</span></span></span>
 
 This is not a dismissal of witnesses. People can accurately report that they saw something puzzling while still misjudging distance, altitude, speed or scale. Night skies are especially difficult because a light with no visible background reference can appear to hover, accelerate, change direction or form a pattern when the actual cause is much more ordinary.
 
@@ -785,194 +785,194 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Midlothian&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Midlothian&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for understanding unidentified sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for understanding unidentified sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a county-wide overview built around official sighting summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a county-wide overview built around official sighting summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Relevant to British UFO reporting systems and cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to British UFO reporting systems and cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides modern context for interpreting UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern context for interpreting UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-midlothians-ufo-what-really-happened-in-midlothian-s-ufo-reports-midloth-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -988,7 +988,7 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1008,7 +1008,7 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1040,7 +1040,7 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1092,7 +1092,7 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1137,7 +1137,7 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1178,212 +1178,212 @@ The most balanced conclusion is that Midlothian has a modest but genuine place i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/midlothian-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/midlothian-county</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Midlothian | Scotland, United Kingdom  
-   Link: <a href="https://www.britannica.com/place/Midlothian-former-county-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Midlothian-former-county-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Midlothian-former-county-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Midlothian-former-county-Scotland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
    Title: onshore er  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78c33940f0b63247699f9f/onshore-er.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78c33940f0b63247699f9f/onshore-er.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78c33940f0b63247699f9f/onshore-er.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78c33940f0b63247699f9f/onshore-er.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Midlothian" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Midlothian</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Midlothian" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Midlothian</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: edinburghlive.co.uk  
    Title: edinburgh locals mesmerised ufos pentland 23450021  
-   Link: <a href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-locals-mesmerised-ufos-pentland-23450021</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: edi.noiselab.casper.aero  
-   Link: <a href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/content/2/flight-path-usage/</a>  
+   Link:<a href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/content/2/flight-path-usage/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: edinburghlive.co.uk  
    Title: edinburgh man spots strange ufo 33207050  
-   Link: <a href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-man-spots-strange-ufo-33207050" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-man-spots-strange-ufo-33207050</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-man-spots-strange-ufo-33207050" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-man-spots-strange-ufo-33207050</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: edinburghlive.co.uk  
    Title: Edinburgh News  
-   Link: <a href="https://www.edinburghlive.co.uk/news/edinburgh-news/?pageNumber=1321" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/?pageNumber=1321</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/edinburgh-news/?pageNumber=1321" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/?pageNumber=1321</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: edinburghlive.co.uk  
-   Link: <a href="https://www.edinburghlive.co.uk/best-in-edinburgh/edinburgh-itsu-opening-date-confirmed-23450675" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/best-in-edinburgh/edinburgh-itsu-opening-date-confirmed-23450675</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/best-in-edinburgh/edinburgh-itsu-opening-date-confirmed-23450675" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/best-in-edinburgh/edinburgh-itsu-opening-date-confirmed-23450675</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: edinburghlive.co.uk  
-   Link: <a href="https://www.edinburghlive.co.uk/all-about/pentlands?pageNumber=3" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/all-about/pentlands?pageNumber=3</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/all-about/pentlands?pageNumber=3" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/all-about/pentlands?pageNumber=3</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: edinburghlive.co.uk  
    Title: throwback edinburgh images remember iconic 23451240  
-   Link: <a href="https://www.edinburghlive.co.uk/news/history/throwback-edinburgh-images-remember-iconic-23451240" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/history/throwback-edinburgh-images-remember-iconic-23451240</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/history/throwback-edinburgh-images-remember-iconic-23451240" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/history/throwback-edinburgh-images-remember-iconic-23451240</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: edinburghlive.co.uk  
-   Link: <a href="https://www.edinburghlive.co.uk/news/edinburgh-news/covid-scotland-hospitalisations-highest-pandemic-23455204" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/covid-scotland-hospitalisations-highest-pandemic-23455204</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/edinburgh-news/covid-scotland-hospitalisations-highest-pandemic-23455204" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/covid-scotland-hospitalisations-highest-pandemic-23455204</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: edinburghlive.co.uk  
-   Link: <a href="https://www.edinburghlive.co.uk/all-about/granton?pageNumber=12" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/all-about/granton?pageNumber=12</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/all-about/granton?pageNumber=12" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/all-about/granton?pageNumber=12</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: edinburghlive.co.uk  
-   Link: <a href="https://www.edinburghlive.co.uk/news/edinburgh-news/midlothian-man-smashes-up-strangers-23454125" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/midlothian-man-smashes-up-strangers-23454125</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/edinburgh-news/midlothian-man-smashes-up-strangers-23454125" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/midlothian-man-smashes-up-strangers-23454125</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: edinburghlive.co.uk  
    Title: scottish council slammed local after 23451059  
-   Link: <a href="https://www.edinburghlive.co.uk/news/edinburgh-news/scottish-council-slammed-local-after-23451059" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/scottish-council-slammed-local-after-23451059</a>  
+   Link:<a href="https://www.edinburghlive.co.uk/news/edinburgh-news/scottish-council-slammed-local-after-23451059" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghlive.co.uk/news/edinburgh-news/scottish-council-slammed-local-after-23451059</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: beamsinvestigations.org  
-   Link: <a href="https://www.beamsinvestigations.org/archives-ufo-reports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.beamsinvestigations.org/archives-ufo-reports.html</a>  
+   Link:<a href="https://www.beamsinvestigations.org/archives-ufo-reports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.beamsinvestigations.org/archives-ufo-reports.html</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: The Dechmont Woods Case Documentary | Official Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sxNdBY5NImo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Did Ancient Aliens Visit Scotland?[https://www.youtube.com/watch?v=C_IqDWxuUOI...&quot;](https://www.youtube.com/watch?v=C_IqDWxuUOI...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sxNdBY5NImo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Did Ancient Aliens Visit Scotland?[https://www.youtube.com/watch?v=C_IqDWxuUOI...&quot;](https://www.youtube.com/watch?v=C_IqDWxuUOI...&quot;)...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: 3,000 UFO Reports & No Official Answers in The Falkirk Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dechmont Woods Case Documentary | Official Trailer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dechmont Woods Case Documentary | Official Trailer...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: childrensleisure.co.uk  
-   Link: <a href="https://www.childrensleisure.co.uk/west-lothian-c112.html" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensleisure.co.uk/west-lothian-c112.html</a>  
+   Link:<a href="https://www.childrensleisure.co.uk/west-lothian-c112.html" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensleisure.co.uk/west-lothian-c112.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scottishwomenswalkinggroup/posts/dechmont-law-trigpoint-ufo-site-woodlands-edinburgh-lothians-borders-scottish-wo/893890462780995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishwomenswalkinggroup/posts/dechmont-law-trigpoint-ufo-site-woodlands-edinburgh-lothians-borders-scottish-wo/893890462780995/</a>  
+   Link:<a href="https://www.facebook.com/scottishwomenswalkinggroup/posts/dechmont-law-trigpoint-ufo-site-woodlands-edinburgh-lothians-borders-scottish-wo/893890462780995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishwomenswalkinggroup/posts/dechmont-law-trigpoint-ufo-site-woodlands-edinburgh-lothians-borders-scottish-wo/893890462780995/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Edinburgh/comments/7j3u1e/does_this_picture_show_a_ufo_over_the_pentland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edinburgh/comments/7j3u1e/does_this_picture_show_a_ufo_over_the_pentland/</a>  
+   Link:<a href="https://www.reddit.com/r/Edinburgh/comments/7j3u1e/does_this_picture_show_a_ufo_over_the_pentland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edinburgh/comments/7j3u1e/does_this_picture_show_a_ufo_over_the_pentland/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/</a>  
+   Link:<a href="https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
+   Link:<a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Fountainbridge%2C_Midlothian_16768" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Fountainbridge%2C_Midlothian_16768</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Fountainbridge%2C_Midlothian_16768" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Fountainbridge%2C_Midlothian_16768</a>  

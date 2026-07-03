@@ -689,21 +689,21 @@ image: /assets/images/Caernarfonshire_667de6-overview-social.jpg
 
 ## Introduction
 
-For this page, Caernarfonshire is treated as the historic county in north-west Wales, not simply the modern Gwynedd council area. That matters because UFO reports are usually logged by modern place names, police areas or broad “North Wales” labels, while the historic-county frame follows older boundaries around Caernarfon, the Llŷn Peninsula, the north-western mainland coast and the mountains of Eryri. Wikishire describes Caernarfonshire as a north-west Welsh shire, and the Wikimedia Commons historic-counties map marks it as one of Wales’s thirteen historic counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this page, Caernarfonshire is treated as the historic county in north-west Wales, not simply the modern Gwynedd council area. That matters because UFO reports are usually logged by modern place names, police areas or broad “North Wales” labels, while the historic-county frame follows older boundaries around Caernarfon, the Llŷn Peninsula, the north-western mainland coast and the mountains of Eryri. Wikishire describes Caernarfonshire as a north-west Welsh shire, and the Wikimedia Commons historic-counties map marks it as one of Wales’s thirteen historic counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6-overview.webp" | relative_url }}" alt="Overview image for What Was Seen Over Caernarfonshire?" loading="eager" decoding="sync" fetchpriority="high">
 ## What the official files actually show
 
-The strongest starting point is not folklore but the Ministry of Defence’s published UFO report lists. GOV.UK describes these as “Unidentified Flying Object reports 1997 to 2009”, giving dates, times, locations and brief descriptions rather than full investigations or conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The strongest starting point is not folklore but the Ministry of Defence’s published UFO report lists. GOV.UK describes these as “Unidentified Flying Object reports 1997 to 2009”, giving dates, times, locations and brief descriptions rather than full investigations or conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 Two entries are especially relevant to Caernarfonshire:
 
-On 11 February 1999 at 18:45, a sighting was logged at “Caernarvon, Gwynedd”. The brief description says it was a single aircraft or object “that had rotors” and displayed blue, red and white strobes. That wording is important: the report itself already contains a conventional clue. Rotors and coloured strobes are not typical evidence for an extraordinary craft; they are much more consistent with a helicopter or another identifiable aircraft seen under confusing light or distance conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+On 11 February 1999 at 18:45, a sighting was logged at “Caernarvon, Gwynedd”. The brief description says it was a single aircraft or object “that had rotors” and displayed blue, red and white strobes. That wording is important: the report itself already contains a conventional clue. Rotors and coloured strobes are not typical evidence for an extraordinary craft; they are much more consistent with a helicopter or another identifiable aircraft seen under confusing light or distance conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-On 7 February 2001 at 19:40, a report from Caernarfon described something that “initially looked like a star”, appeared as though it might crash into the witness’s house, and showed green with red on the side. Five minutes later, an Amlwch, Anglesey report described a blue glow turning green, breaking up and leaving smoke. Amlwch is outside Caernarfonshire, but the near-simultaneous timing across North Wales matters because it points away from a purely local event and towards a regional sky phenomenon or multiple misidentified objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+On 7 February 2001 at 19:40, a report from Caernarfon described something that “initially looked like a star”, appeared as though it might crash into the witness’s house, and showed green with red on the side. Five minutes later, an Amlwch, Anglesey report described a blue glow turning green, breaking up and leaving smoke. Amlwch is outside Caernarfonshire, but the near-simultaneous timing across North Wales matters because it points away from a purely local event and towards a regional sky phenomenon or multiple misidentified objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2001 entry is harder to dismiss than the 1999 one only because the description is less self-explanatory. Yet it also has familiar features: bright star-like appearance, coloured light, apparent descent, and a witness impression of closeness. Those are common ingredients in meteor, aircraft, flare, lantern and perspective-based reports. A nearby 8 February 2001 cluster in the same MoD list includes several “fireball” or burning-object descriptions around Britain, and the Society for Popular Astronomy separately recorded bright UK fireballs on 8 and 9 February 2001. That does not prove the Caernarfon sighting was a meteor, but it makes a natural sky explanation plausible in the wider pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and 9 2001</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and 9 2001</span></span></span>
+The 2001 entry is harder to dismiss than the 1999 one only because the description is less self-explanatory. Yet it also has familiar features: bright star-like appearance, coloured light, apparent descent, and a witness impression of closeness. Those are common ingredients in meteor, aircraft, flare, lantern and perspective-based reports. A nearby 8 February 2001 cluster in the same MoD list includes several “fireball” or burning-object descriptions around Britain, and the Society for Popular Astronomy separately recorded bright UK fireballs on 8 and 9 February 2001. That does not prove the Caernarfon sighting was a meteor, but it makes a natural sky explanation plausible in the wider pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[SkyWatchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6-Illustration-1-dark.svg" | relative_url }}" alt="What Was Seen Over Caernarfonshire? illustration 1" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -711,30 +711,30 @@ The 2001 entry is harder to dismiss than the 1999 one only because the descripti
 
 Caernarfonshire is a good landscape for misread sky events because it combines dark skies, mountains, coast, military aviation routes and changing weather. Lights can appear to descend behind ridges, vanish into cloud, reflect from water or seem closer than they are. In a mountainous county, the difference between “over the village”, “over the mountain” and “far beyond the horizon” can be difficult for a witness to judge at night.
 
-The county also has real aviation history. RAF Llandwrog, near Caernarfon, opened during the Second World War and later became associated with the beginnings of organised RAF mountain rescue. The Airfields of Britain Conservation Trust notes Llandwrog as a major airfield and records that Flight Lieutenant George Graham established the first organised RAF mountain rescue unit there in early 1943. The RAF itself describes the Mountain Rescue Service as having begun at RAF Llandwrog in 1943. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/llandwrog-caernarfon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
+The county also has real aviation history. RAF Llandwrog, near Caernarfon, opened during the Second World War and later became associated with the beginnings of organised RAF mountain rescue. The Airfields of Britain Conservation Trust notes Llandwrog as a major airfield and records that Flight Lieutenant George Graham established the first organised RAF mountain rescue unit there in early 1943. The RAF itself describes the Mountain Rescue Service as having begun at RAF Llandwrog in 1943.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/llandwrog-caernarfon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
 
-That history matters for UFO interpretation, not because it implies secret aircraft, but because it places Caernarfonshire inside a long-standing aviation culture. Aircraft accidents in the North Wales mountains, search activity, training flights, helicopters and later civil aviation all make the sky busier and more varied than a casual visitor might expect. The former RAF site reopened in civil use and is now associated with Caernarfon Airport and aviation heritage at Dinas Dinlle, so sightings near Caernarfon cannot be interpreted responsibly without first considering ordinary aircraft activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caernarfon_Airworld_Aviation_Museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caernarfon Airworld Aviation Museum</span><span class="citation-popover-snippet">Caernarfon Airworld Aviation Museum</span></span></span>
+That history matters for UFO interpretation, not because it implies secret aircraft, but because it places Caernarfonshire inside a long-standing aviation culture. Aircraft accidents in the North Wales mountains, search activity, training flights, helicopters and later civil aviation all make the sky busier and more varied than a casual visitor might expect. The former RAF site reopened in civil use and is now associated with Caernarfon Airport and aviation heritage at Dinas Dinlle, so sightings near Caernarfon cannot be interpreted responsibly without first considering ordinary aircraft activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caernarfon_Airworld_Aviation_Museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caernarfon Airworld Aviation Museum</span><span class="citation-popover-snippet">Caernarfon Airworld Aviation Museum</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qWACaJwnsYI" title="GREAT ORME SSSI UKs 3rd Place For UFO Sightings. Circular Historic Walk + Welsh History With Anna" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qWACaJwnsYI" target="_blank" rel="noopener noreferrer">GREAT ORME SSSI UKs 3rd Place For UFO Sightings. Circular Historic Walk + Welsh History With Anna</a></p><p class="youtube-embed-meta">Channel: FX  Wales ~ Anna &amp; Alf</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qWACaJwnsYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qWACaJwnsYI">Open on YouTube</a></p></div></div></div>
 
 ## The Caernarfon Castle video and the problem with modern clips
 
-The most public-facing modern Caernarfonshire UFO item is the 2015 clip reported by the Daily Post, showing a small dark object apparently hovering over Caernarfon Castle. The article says the 40-second clip appeared to have been filmed from the Maes in Caernarfon and showed a small dark object over the town’s landmark castle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo caernarfon castle film clip 10019052</span><span class="citation-popover-snippet">ufo caernarfon castle film clip 10019052</span></span></span>
+The most public-facing modern Caernarfonshire UFO item is the 2015 clip reported by the Daily Post, showing a small dark object apparently hovering over Caernarfon Castle. The article says the 40-second clip appeared to have been filmed from the Maes in Caernarfon and showed a small dark object over the town’s landmark castle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo caernarfon castle film clip 10019052</span><span class="citation-popover-snippet">ufo caernarfon castle film clip 10019052</span></span></span>
 
 This is exactly the kind of case that feels compelling to viewers but is weak as evidence unless the basics are pinned down. A short video can show that something appeared in the frame, but it may not establish distance, size, height, speed, wind direction, camera zoom, lens artefacts or whether the object was a bird, balloon, drone, plastic bag, distant aircraft, insect near the lens or genuine unknown. The castle gives the image a memorable setting, but a landmark in the foreground does not by itself locate the object in three-dimensional space.
 
-The case therefore matters more as a media example than as a breakthrough sighting. It shows how a local visual oddity can become a shareable “UFO over landmark” story even when the evidence is too thin to support a strong conclusion. Later North Wales Live/Daily Post “X-Files” retrospectives returned to Caernarfonshire material, including the 2001 reports and the castle clip, but the public record available from those summaries does not appear to add decisive new investigation, radar evidence or named expert analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-were-11776749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales x files were 11776749</span><span class="citation-popover-snippet">north wales x files were 11776749</span></span></span>
+The case therefore matters more as a media example than as a breakthrough sighting. It shows how a local visual oddity can become a shareable “UFO over landmark” story even when the evidence is too thin to support a strong conclusion. Later North Wales Live/Daily Post “X-Files” retrospectives returned to Caernarfonshire material, including the 2001 reports and the castle clip, but the public record available from those summaries does not appear to add decisive new investigation, radar evidence or named expert analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-were-11776749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales x files were 11776749</span><span class="citation-popover-snippet">north wales x files were 11776749</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6-Illustration-2-dark.svg" | relative_url }}" alt="What Was Seen Over Caernarfonshire? illustration 2" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD files can and cannot prove
 
-The MoD lists are valuable because they preserve dates, places and witness descriptions in a consistent national format. They are not proof that the objects were extraordinary. GOV.UK’s publication page presents the files as report lists, not as solved case files, and the entries are often brief enough that later checking is difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD lists are valuable because they preserve dates, places and witness descriptions in a consistent national format. They are not proof that the objects were extraordinary. GOV.UK’s publication page presents the files as report lists, not as solved case files, and the entries are often brief enough that later checking is difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The National Archives explains that official reporting, analysis and recording of UFO sightings began in the early 1950s, while many early files were destroyed under older retention rules. It also notes that most surviving MoD UFO files from 1970 onward were reviewed for release because of public interest. This helps explain why county-level UFO history can feel patchy: the archive is not a complete census of everything seen in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives explains that official reporting, analysis and recording of UFO sightings began in the early 1950s, while many early files were destroyed under older retention rules. It also notes that most surviving MoD UFO files from 1970 onward were reviewed for release because of public interest. This helps explain why county-level UFO history can feel patchy: the archive is not a complete census of everything seen in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MoD’s official posture also changed. The National Archives’ final-tranche material says the last released files covered the final two years of the UFO desk, from late 2007 to November 2009, and included the reasons behind its closure. GOV.UK’s 2009 report itself notes that from 1 December 2009 the department no longer recorded or investigated UFO sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD’s official posture also changed. The National Archives’ final-tranche material says the last released files covered the final two years of the UFO desk, from late 2007 to November 2009, and included the reasons behind its closure. GOV.UK’s 2009 report itself notes that from 1 December 2009 the department no longer recorded or investigated UFO sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Caernarfonshire, this means the best official trail is strongest between 1997 and 2009 and weaker afterwards. Later sightings may exist in local media, police logs, social media or private investigator files, but they no longer flow into the same MoD reporting system. That makes post-2009 comparison difficult: a fall in official entries does not necessarily mean a fall in sightings, only a change in recording.
 
@@ -745,11 +745,11 @@ For Caernarfonshire, this means the best official trail is strongest between 199
 
 The Caernarfonshire record is interesting, but the doubts are substantial.
 
-The 1999 Caernarvon report is weak as an unexplained case because the description includes rotors and navigation-like strobes. It may have felt strange to the witness, but the wording points strongly towards a helicopter or aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 1999 Caernarvon report is weak as an unexplained case because the description includes rotors and navigation-like strobes. It may have felt strange to the witness, but the wording points strongly towards a helicopter or aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2001 Caernarfon report is more ambiguous, but it sits close in time to another North Wales report at Amlwch and to a broader period of bright fireball reporting in Britain. The witness’s impression that the object might crash into the house is vivid, but apparent descent is a classic problem in night-sky observation: a distant object dropping behind buildings, hills or cloud can seem dangerously close. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 2001 Caernarfon report is more ambiguous, but it sits close in time to another North Wales report at Amlwch and to a broader period of bright fireball reporting in Britain. The witness’s impression that the object might crash into the house is vivid, but apparent descent is a classic problem in night-sky observation: a distant object dropping behind buildings, hills or cloud can seem dangerously close.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2015 Caernarfon Castle clip has the opposite problem: it is visual, but apparently lacks enough supporting data. Without a known camera position, lens setting, object distance, wind, flight path checks and original file analysis, the clip remains a curiosity rather than a robust case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo caernarfon castle film clip 10019052</span><span class="citation-popover-snippet">ufo caernarfon castle film clip 10019052</span></span></span>
+The 2015 Caernarfon Castle clip has the opposite problem: it is visual, but apparently lacks enough supporting data. Without a known camera position, lens setting, object distance, wind, flight path checks and original file analysis, the clip remains a curiosity rather than a robust case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo caernarfon castle film clip 10019052</span><span class="citation-popover-snippet">ufo caernarfon castle film clip 10019052</span></span></span>
 
 The broader North Wales setting can also mislead. RAF Valley on Anglesey, military training, civil airports, mountain rescue helicopters and coastal flight paths can produce unfamiliar lights and movements. Some of that activity lies outside historic Caernarfonshire, but it crosses the same skies and media area, so readers should be cautious about drawing hard boundaries around what a witness might have seen.
 
@@ -757,7 +757,7 @@ The broader North Wales setting can also mislead. RAF Valley on Anglesey, milita
 <img src="{{ "/assets/images/Caernarfonshire_667de6-Illustration-3-dark.svg" | relative_url }}" alt="What Was Seen Over Caernarfonshire? illustration 3" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Caernarfonshire fits the wider Welsh UFO map
 
-Caernarfonshire should not be confused with Wales’s better-known UFO clusters. The Berwyn Mountains incident of 1974 is usually associated with Merionethshire/Denbighshire border geography rather than Caernarfonshire, and the Broad Haven school and Pembrokeshire flap of 1977 belongs in south-west Wales. Those cases are more famous because they involve larger witness clusters, stronger local mythology and heavier later media treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mythslegendsodditiesnorth-east-wales.co.uk">[Curious Clwyd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mythslegendsodditiesnorth-east-wales.co.uk</span><span class="citation-popover-snippet">Open source on mythslegendsodditiesnorth-east-wales.co.uk.</span></span></span>
+Caernarfonshire should not be confused with Wales’s better-known UFO clusters. The Berwyn Mountains incident of 1974 is usually associated with Merionethshire/Denbighshire border geography rather than Caernarfonshire, and the Broad Haven school and Pembrokeshire flap of 1977 belongs in south-west Wales. Those cases are more famous because they involve larger witness clusters, stronger local mythology and heavier later media treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mythslegendsodditiesnorth-east-wales.co.uk">[Curious Clwyd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mythslegendsodditiesnorth-east-wales.co.uk</span><span class="citation-popover-snippet">Open source on mythslegendsodditiesnorth-east-wales.co.uk.</span></span></span>
 
 Caernarfonshire’s contribution is different. It is a county of small, scattered reports that illustrate how local UFO history often really works: not as a single dramatic event, but as a record of brief sightings, uncertain descriptions, later newspaper revivals and competing ordinary explanations. The county’s mountains and aviation sites make it a useful comparison point for neighbouring Anglesey, Merionethshire and Denbighshire, where military aviation, coastal skies and mountain-search stories also shape interpretation.
 
@@ -773,194 +773,194 @@ The evidence for Caernarfonshire is real but limited. There are official MoD ent
 That does not make the county irrelevant. It makes it a good example of the middle ground in UFO history: cases that were unusual enough to be reported, preserved or publicised, but not strong enough to carry extraordinary claims. The best reading is evidence-led and modest. The 1999 case is probably conventional. The 2001 case remains interesting but plausibly natural or aviation-related. The 2015 castle clip is visually memorable but evidentially thin. Together, they show why local UFO history is often less about proving a mystery than about understanding how people, places, aircraft, weather, archives and media turn fleeting sky events into lasting local stories.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Was Seen Over Caernarfonshire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Was Seen Over Caernarfonshire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers official reports, aviation cases and government records similar to the sightings discussed for Caernarfonshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers official reports, aviation cases and government records similar to the sightings discussed for Caernarfonshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to the MoD reporting system referenced throughout the county&#x27;s UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to the MoD reporting system referenced throughout the county&#x27;s UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings, misidentifications and unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings, misidentifications and unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores patterns in reports rather than focusing on single dramatic incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores patterns in reports rather than focusing on single dramatic incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-was-seen-over-caernarfonshire-caernarfonshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-seen-over-caernarfonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-seen-over-caernarfonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -976,7 +976,7 @@ That does not make the county irrelevant. It makes it a good example of the midd
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -996,7 +996,7 @@ That does not make the county irrelevant. It makes it a good example of the midd
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1028,7 +1028,7 @@ That does not make the county irrelevant. It makes it a good example of the midd
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1080,7 +1080,7 @@ That does not make the county irrelevant. It makes it a good example of the midd
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1125,7 +1125,7 @@ That does not make the county irrelevant. It makes it a good example of the midd
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1166,254 +1166,254 @@ That does not make the county irrelevant. It makes it a good example of the midd
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Caernarfon Airworld Aviation Museum  
-   Link: <a href="https://en.wikipedia.org/wiki/Caernarfon_Airworld_Aviation_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfon_Airworld_Aviation_Museum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caernarfon_Airworld_Aviation_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfon_Airworld_Aviation_Museum</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Gwynedd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gwynedd</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gwynedd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gwynedd</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: RAF Llandwrog  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Llandwrog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Llandwrog</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Llandwrog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Llandwrog</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfonshire</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Nick Pope (journalist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Meteorite fall  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: List of Horizon (British TV series) episodes  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Horizon_%28British_TV_series%29_episodes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Horizon_%28British_TV_series%29_episodes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Horizon_%28British_TV_series%29_episodes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Horizon_%28British_TV_series%29_episodes</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dailypost.co.uk  
    Title: ufo caernarfon castle film clip 10019052  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-caernarfon-castle-film-clip--10019052</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfonshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: popastro.com  
    Title: bright fireballs from the uk february 8 and 9 2001  
-   Link: <a href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/llandwrog-caernarfon/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/llandwrog-caernarfon/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/llandwrog-caernarfon/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/llandwrog-caernarfon/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dailypost.co.uk  
    Title: north wales x files were 11776749  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-were-11776749" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-were-11776749</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-were-11776749" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-were-11776749</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dailypost.co.uk  
    Title: north wales x files ufo 11586824  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11586824" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11586824</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11586824" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11586824</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mythslegendsodditiesnorth-east-wales.co.uk  
-   Link: <a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
+   Link:<a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: dailypost.co.uk  
    Title: north wales x files mod 12262253  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-mod-12262253" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-mod-12262253</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-mod-12262253" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-mod-12262253</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dailypost.co.uk  
    Title: north wales ufo hotspots disclosed 18252255  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: dailypost.co.uk  
    Title: ufo sightings revealed north wales 2866835  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-sightings-revealed-north-wales-2866835" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-sightings-revealed-north-wales-2866835</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-sightings-revealed-north-wales-2866835" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-sightings-revealed-north-wales-2866835</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: jhmovie.fandom.com  
    Title: Unidentified flying object  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Gwynedd" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gwynedd</a>  
+   Link:<a href="https://www.britannica.com/place/Gwynedd" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gwynedd</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: The Brutal History of Caernarfon Castle | Edward I's Fortress of Conquest  
-   Link: <a href="https://www.youtube.com/watch?v=3CdT028eEVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3CdT028eEVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caernarfon Castle History / King Edward I&#x27;s Mighty Medieval Fortress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3CdT028eEVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3CdT028eEVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caernarfon Castle History / King Edward I&#x27;s Mighty Medieval Fortress...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Berwyn Mountains Wales UFO incident  
-   Link: <a href="https://www.youtube.com/watch?v=QOcXDK0Vgec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QOcXDK0Vgec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brutal History of Caernarfon Castle | Edward I&#x27;s Fortress of Conquest...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QOcXDK0Vgec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QOcXDK0Vgec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brutal History of Caernarfon Castle | Edward I&#x27;s Fortress of Conquest...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qWACaJwnsYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qWACaJwnsYI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentyrch North Wales UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qWACaJwnsYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qWACaJwnsYI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentyrch North Wales UFO Incident...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northwaleslive/videos/spectacular-and-impressive-were-some-of-the-words-used-to-describe-a-fireball-th/3112052545640569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/videos/spectacular-and-impressive-were-some-of-the-words-used-to-describe-a-fireball-th/3112052545640569/</a>  
+   Link:<a href="https://www.facebook.com/northwaleslive/videos/spectacular-and-impressive-were-some-of-the-words-used-to-describe-a-fireball-th/3112052545640569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/videos/spectacular-and-impressive-were-some-of-the-words-used-to-describe-a-fireball-th/3112052545640569/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: svmc.info  
-   Link: <a href="https://svmc.info/wp-content/uploads/2018/01/1989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://svmc.info/wp-content/uploads/2018/01/1989.pdf</a>  
+   Link:<a href="https://svmc.info/wp-content/uploads/2018/01/1989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://svmc.info/wp-content/uploads/2018/01/1989.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/</a>  
+   Link:<a href="https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aussiehistory/posts/3798180143650686/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/cpsyfa/bob_lazar_the_zeta_reticuli_star_system_and_nms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/cpsyfa/bob_lazar_the_zeta_reticuli_star_system_and_nms/</a>  
+   Link:<a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/cpsyfa/bob_lazar_the_zeta_reticuli_star_system_and_nms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/cpsyfa/bob_lazar_the_zeta_reticuli_star_system_and_nms/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: archaeologydataservice.ac.uk  
-   Link: <a href="https://archaeologydataservice.ac.uk/data-catalogue/resource/e086fac0268ce32f18efd0fe5c5d27242aa215e99e81df72f902d935dddf4159" target="_blank" rel="noopener noreferrer nofollow">https://archaeologydataservice.ac.uk/data-catalogue/resource/e086fac0268ce32f18efd0fe5c5d27242aa215e99e81df72f902d935dddf4159</a>  
+   Link:<a href="https://archaeologydataservice.ac.uk/data-catalogue/resource/e086fac0268ce32f18efd0fe5c5d27242aa215e99e81df72f902d935dddf4159" target="_blank" rel="noopener noreferrer nofollow">https://archaeologydataservice.ac.uk/data-catalogue/resource/e086fac0268ce32f18efd0fe5c5d27242aa215e99e81df72f902d935dddf4159</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/caernarfonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/caernarfonshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/caernarfonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/caernarfonshire/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/675748873553112/posts/1303815084079818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/675748873553112/posts/1303815084079818/</a>  
+   Link:<a href="https://www.facebook.com/groups/675748873553112/posts/1303815084079818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/675748873553112/posts/1303815084079818/</a>  

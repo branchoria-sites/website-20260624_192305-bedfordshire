@@ -248,7 +248,7 @@ image: /assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-overview-soc
 
 ## Introduction
 
-[Wigtownshire]({{ 'why-wigtownshire-still-matters-to-ufo/' | relative_url }}) was probably **not** a Scottish UFO hotspot in the usual sense. It does not have the repeated public sighting waves associated with Bonnybridge, the enduring folklore of the Falkirk Triangle, or the later photographic fame of Calvine. Its importance is narrower but, in evidential terms, unusually strong: the 4 April 1957 RAF [West Freugh radar]({{ 'west-freugh/' | relative_url }}) case near Stranraer. That case matters because several military radar units were involved, the Air Ministry took it seriously, the story reached Parliament and the Joint Intelligence Committee, and an official technical report concluded that five radar-reflecting objects remained unidentified. In other words, Wigtownshire looks less like a recurring “hotspot” and more like a county whose UFO reputation rests on one serious official incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+[Wigtownshire]({{ 'why-wigtownshire-still-matters-to-ufo/' | relative_url }}) was probably **not** a Scottish UFO hotspot in the usual sense. It does not have the repeated public sighting waves associated with Bonnybridge, the enduring folklore of the Falkirk Triangle, or the later photographic fame of Calvine. Its importance is narrower but, in evidential terms, unusually strong: the 4 April 1957 RAF [West Freugh radar]({{ 'west-freugh/' | relative_url }}) case near Stranraer. That case matters because several military radar units were involved, the Air Ministry took it seriously, the story reached Parliament and the Joint Intelligence Committee, and an official technical report concluded that five radar-reflecting objects remained unidentified. In other words, Wigtownshire looks less like a recurring “hotspot” and more like a county whose UFO reputation rests on one serious official incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-overview.webp" | relative_url }}" alt="Overview image for Hotspot Test" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,11 +259,11 @@ That distinction is useful because “hotspot” can mean different things. It c
 
 ## West Freugh versus repeated flaps
 
-The West Freugh case sits in historic Wigtownshire’s south-western military landscape, not in a tourist trail of repeated UFO lore. MOD West Freugh is about 10 km south-east of Stranraer on the northern side of [Luce Bay]({{ 'luce-bay/' | relative_url }}), and today QinetiQ describes it as a range supporting airborne and ground test activity for the UK defence programme. That matters because a radar case at such a site is not simply a story about someone seeing a strange light from a garden; it belongs to a setting where airspace, weapons trials, aircraft movements and radar interpretation were already part of daily working life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+The West Freugh case sits in historic Wigtownshire’s south-western military landscape, not in a tourist trail of repeated UFO lore. MOD West Freugh is about 10 km south-east of Stranraer on the northern side of [Luce Bay]({{ 'luce-bay/' | relative_url }}), and today QinetiQ describes it as a range supporting airborne and ground test activity for the UK defence programme. That matters because a radar case at such a site is not simply a story about someone seeing a strange light from a garden; it belongs to a setting where airspace, weapons trials, aircraft movements and radar interpretation were already part of daily working life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
-The National Archives’ research guide places the 1957 West Freugh incident among the more “well-documented” UFO sightings investigated by the Air Ministry and Ministry of Defence. It says AIR 2/18564 and AIR 20/9320 include reports from RAF stations including West Freugh, and that the incident involved UFOs tracked by several trailer-mounted radar units at an RAF bombing range in southern Scotland. The same guide notes that press leakage led to national interest, Parliamentary questions and Joint Intelligence Committee attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The National Archives’ research guide places the 1957 West Freugh incident among the more “well-documented” UFO sightings investigated by the Air Ministry and Ministry of Defence. It says AIR 2/18564 and AIR 20/9320 include reports from RAF stations including West Freugh, and that the incident involved UFOs tracked by several trailer-mounted radar units at an RAF bombing range in southern Scotland. The same guide notes that press leakage led to national interest, Parliamentary questions and Joint Intelligence Committee attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The official conclusion is the reason West Freugh still stands out. The DDI (Tech) report stated that the incident was due to “five reflecting objects of unidentified type and origin” and considered it unlikely that they were conventional aircraft, meteorological balloons or charged clouds. That is not proof of an exotic craft, but it is a stronger archival position than the usual “insufficient information” response attached to many sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The official conclusion is the reason West Freugh still stands out. The DDI (Tech) report stated that the incident was due to “five reflecting objects of unidentified type and origin” and considered it unlikely that they were conventional aircraft, meteorological balloons or charged clouds. That is not proof of an exotic craft, but it is a stronger archival position than the usual “insufficient information” response attached to many sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 A flap is different. A flap is a wave: many reports, repeated public claims, local press attention, investigators returning again and again, and a place gradually gaining a reputation. On that test, Wigtownshire is weak. The available public record does not show West Freugh becoming the centre of decades of recurring local reports. It shows a sharp, official, technically interesting incident in 1957, followed by later archival rediscovery and discussion.
 
@@ -273,9 +273,9 @@ That is why comparing Wigtownshire with Scotland’s better-known UFO locations 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-Illustration-1-dark.svg" | relative_url }}" alt="Hotspot Test illustration 1" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Bonnybridge changes the comparison
 
-Bonnybridge, near Falkirk, is the clearest contrast. In the 1990s and 2000s, Bonnybridge and the wider Falkirk area became known as the Bonnybridge or Falkirk Triangle, a phrase modelled on the Bermuda Triangle and used in media coverage of repeated UFO claims. A University of Glasgow-linked project on UFO practice in Scotland describes the area as the centre of a wave of sightings that attracted intense local, national and international attention. Falkirk Council has also hosted public-history programming on the Bonnybridge UFO triangle, including discussion of the human side of the wave, media representation and hopes for economic benefit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle</span></span></span>
+Bonnybridge, near Falkirk, is the clearest contrast. In the 1990s and 2000s, Bonnybridge and the wider Falkirk area became known as the Bonnybridge or Falkirk Triangle, a phrase modelled on the Bermuda Triangle and used in media coverage of repeated UFO claims. A University of Glasgow-linked project on UFO practice in Scotland describes the area as the centre of a wave of sightings that attracted intense local, national and international attention. Falkirk Council has also hosted public-history programming on the Bonnybridge UFO triangle, including discussion of the human side of the wave, media representation and hopes for economic benefit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle</span></span></span>
 
-Bonnybridge therefore passes the popular hotspot test in ways Wigtownshire does not. It has a recurring local brand, a long-running public narrative, named campaigners, media repetition and an association with large numbers of alleged sightings. The commonly repeated claim of roughly 300 sightings a year should be treated cautiously, because it is often repeated in popular and journalistic sources rather than presented as a clean, audited official count. Still, the claim itself became part of Bonnybridge’s identity, and reputable newspapers were reporting Scotland-wide “300 close encounters every year” claims as early as 2002. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Scots lead the way for UFO sightings &#124; UK news</span><span class="citation-popover-snippet">The Guardian Scots lead the way for UFO sightings &#124; UK news</span></span></span>
+Bonnybridge therefore passes the popular hotspot test in ways Wigtownshire does not. It has a recurring local brand, a long-running public narrative, named campaigners, media repetition and an association with large numbers of alleged sightings. The commonly repeated claim of roughly 300 sightings a year should be treated cautiously, because it is often repeated in popular and journalistic sources rather than presented as a clean, audited official count. Still, the claim itself became part of Bonnybridge’s identity, and reputable newspapers were reporting Scotland-wide “300 close encounters every year” claims as early as 2002.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Scots lead the way for UFO sightings &#124; UK news</span><span class="citation-popover-snippet">The Guardian Scots lead the way for UFO sightings &#124; UK news</span></span></span>
 
 The difference is not simply “many sightings versus one sighting”. It is “social hotspot versus archival case”. Bonnybridge became a place people talked about, visited, filmed, investigated and sometimes promoted. Wigtownshire’s West Freugh case became a document-heavy reference point for researchers interested in official British UFO files, radar evidence and Cold War defence handling.
 
@@ -286,9 +286,9 @@ That contrast also affects sceptical assessment. Bonnybridge’s volume can be i
 
 ## Other Scottish cases show why “hotspot” is not one thing
 
-Bonnybridge is the obvious hotspot comparison, but Scotland’s UFO map has other kinds of landmark case. The 1979 Robert Taylor or Dechmont Law incident in West Lothian is famous because Taylor claimed he was attacked by a strange craft and the matter was treated by police as a possible assault. Obituaries and later reporting have repeatedly described it as a uniquely police-involved British UFO case, although that does not make the claimed craft real; it means the injuries and circumstances were unusual enough to trigger an ordinary criminal-investigation route. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-title">robert taylor</span><span class="citation-popover-snippet">robert taylor</span></span></span>
+Bonnybridge is the obvious hotspot comparison, but Scotland’s UFO map has other kinds of landmark case. The 1979 Robert Taylor or Dechmont Law incident in West Lothian is famous because Taylor claimed he was attacked by a strange craft and the matter was treated by police as a possible assault. Obituaries and later reporting have repeatedly described it as a uniquely police-involved British UFO case, although that does not make the claimed craft real; it means the injuries and circumstances were unusual enough to trigger an ordinary criminal-investigation route.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-title">robert taylor</span><span class="citation-popover-snippet">robert taylor</span></span></span>
 
-Calvine, in Perthshire, represents another category again: the photographic mystery. In 1990, two hikers reportedly photographed a diamond-shaped object near Calvine, with the images passing through press and Ministry of Defence channels. Decades later, renewed research by David Clarke and others turned the case into one of Scotland’s most discussed UFO photographs, with continuing disagreement over whether it shows an unknown craft, a misidentified object, a hoax, or some classified aviation-related episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Calvine, in Perthshire, represents another category again: the photographic mystery. In 1990, two hikers reportedly photographed a diamond-shaped object near Calvine, with the images passing through press and Ministry of Defence channels. Decades later, renewed research by David Clarke and others turned the case into one of Scotland’s most discussed UFO photographs, with continuing disagreement over whether it shows an unknown craft, a misidentified object, a hoax, or some classified aviation-related episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 These cases help place Wigtownshire correctly. Dechmont is a close-encounter and police-story case. Calvine is a photo-and-secrecy case. Bonnybridge is a repeated-report and media-identity case. West Freugh is a radar-and-official-assessment case. Calling all of them “hotspots” flattens the important differences between evidence types.
 
@@ -300,11 +300,11 @@ West Freugh’s particular strength is that it was difficult for officials to di
 
 A credible county-level UFO hotspot needs more than a nickname. For this Wigtownshire comparison, three tests are especially useful.
 
-**First, recurrence.** Are reports spread across years, locations and witness groups, or is the county known mainly for one incident? Wigtownshire’s public UFO identity is concentrated around West Freugh. Bonnybridge and the Falkirk area perform much more strongly on recurrence, at least in public and media terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle</span></span></span>
+**First, recurrence.** Are reports spread across years, locations and witness groups, or is the county known mainly for one incident? Wigtownshire’s public UFO identity is concentrated around West Freugh. Bonnybridge and the Falkirk area perform much more strongly on recurrence, at least in public and media terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle</span></span></span>
 
-**Second, evidence quality.** Are reports supported by radar, [official files]({{ 'official-files-5dbfad/' | relative_url }}), police records, photographs, air-traffic data or multiple independent witnesses? Wigtownshire performs unusually well here because the West Freugh case entered Air Ministry and Joint Intelligence Committee channels and received a technical conclusion that did not reduce it to aircraft, balloons or charged clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+**Second, evidence quality.** Are reports supported by radar, [official files]({{ 'official-files-5dbfad/' | relative_url }}), police records, photographs, air-traffic data or multiple independent witnesses? Wigtownshire performs unusually well here because the West Freugh case entered Air Ministry and Joint Intelligence Committee channels and received a technical conclusion that did not reduce it to aircraft, balloons or charged clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-**Third, explanatory control.** Has anyone seriously tested the obvious alternatives? This is where many hotspot claims weaken. A place with many reports may simply have more people looking up, more local encouragement to report, or more lights from aircraft, satellites and other everyday sources. The National Archives’ release on the closure of the MoD UFO desk is a useful caution: officials noted that many later reports, especially formations of orange lights, resembled Chinese lanterns, and the MoD closed its UFO desk after concluding that over more than 50 years no sighting had revealed evidence of an extra-terrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+**Third, explanatory control.** Has anyone seriously tested the obvious alternatives? This is where many hotspot claims weaken. A place with many reports may simply have more people looking up, more local encouragement to report, or more lights from aircraft, satellites and other everyday sources. The National Archives’ release on the closure of the MoD UFO desk is a useful caution: officials noted that many later reports, especially formations of orange lights, resembled Chinese lanterns, and the MoD closed its UFO desk after concluding that over more than 50 years no sighting had revealed evidence of an extra-terrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 Those tests produce a balanced result. Wigtownshire is not a hotspot by volume. It is a high-value case county. Bonnybridge is a hotspot by reputation and repeated reporting. Calvine and Dechmont are landmark Scottish cases, but not necessarily county-wide hotspots in the statistical sense. The word “hotspot” is useful only when the reader knows which test is being applied.
 
@@ -313,9 +313,9 @@ Those tests produce a balanced result. Wigtownshire is not a hotspot by volume. 
 
 ## Why Wigtownshire should not be overclaimed
 
-The temptation with West Freugh is to treat official uncertainty as proof of something extraordinary. That goes too far. The Air Ministry’s conclusion that the objects were unidentified and unlikely to be conventional aircraft, balloons or charged clouds is significant, but it does not identify what the radar returns were. It says what investigators could not comfortably explain from the evidence they had. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The temptation with West Freugh is to treat official uncertainty as proof of something extraordinary. That goes too far. The Air Ministry’s conclusion that the objects were unidentified and unlikely to be conventional aircraft, balloons or charged clouds is significant, but it does not identify what the radar returns were. It says what investigators could not comfortably explain from the evidence they had.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The wider official record also argues against turning one strong case into a grand conclusion. The National Archives research guide says the MoD logged more than 11,000 UFO reports between 1959 and 2007, yet official statistical analysis in the late 1960s found no evidence that reports had anything other than mundane explanations. Later, when the UFO desk closed, the stated defence position was that decades of reports had not shown an extra-terrestrial presence or military threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The wider official record also argues against turning one strong case into a grand conclusion. The National Archives research guide says the MoD logged more than 11,000 UFO reports between 1959 and 2007, yet official statistical analysis in the late 1960s found no evidence that reports had anything other than mundane explanations. Later, when the UFO desk closed, the stated defence position was that decades of reports had not shown an extra-terrestrial presence or military threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 That does not make West Freugh unimportant. It makes it more interesting in a restrained way. It is one of the cases where the normal official language of dismissal becomes less tidy. It also shows why county-level UFO history should not be measured only by the number of stories a place accumulates. A single well-documented case can matter more than dozens of loosely described lights, provided its limits are stated clearly.
 
@@ -325,194 +325,194 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
 <img src="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-Illustration-3-dark.svg" | relative_url }}" alt="Hotspot Test illustration 3" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_hotspot_comparison_b8d555-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Wigtownshire Ever a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Wigtownshire Ever a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing case concentrations and report quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing case concentrations and report quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights well-documented cases versus folklore hotspots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights well-documented cases versus folklore hotspots.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Relevant to hotspot myths and regional traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to hotspot myths and regional traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides British comparisons for notable cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides British comparisons for notable cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="hotspot-test-was-wigtownshire-ever-a-ufo-hotspot-wigtownshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,181 +718,181 @@ For Wigtownshire, the fair conclusion is therefore quite specific: the county wa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/</a>  
+   Link:<a href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: economist.com  
    Title: robert taylor  
-   Link: <a href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/obituary/2007/03/29/robert-taylor</a>  
+   Link:<a href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/obituary/2007/03/29/robert-taylor</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: api.parliament.uk  
    Title: west freugh airfield  
-   Link: <a href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: content.time.com  
-   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: content.time.com  
-   Link: <a href="https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/where-we-are</a>  
+   Link:<a href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/where-we-are</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkirk Triangle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkirk Triangle...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Falkirk Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=njptFNslTZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=njptFNslTZg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s UFO Capital - Bonnybridge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=njptFNslTZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=njptFNslTZg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s UFO Capital - Bonnybridge...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufos.ac.uk  
    Title: UFOs The Bonnybridge (or Falkirk) Triangle  
-   Link: <a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
+   Link:<a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian Scots lead the way for UFO sightings | UK news  
-   Link: <a href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/24/kirstyscott</a>  
+   Link:<a href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/24/kirstyscott</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: The Guardian UFOs have earned a new name  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: MOD West Freugh  
-   Link: <a href="https://en.wikipedia.org/wiki/MOD_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/MOD_West_Freugh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/MOD_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/MOD_West_Freugh</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/</a>  
+   Link:<a href="https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/888274961677678/posts/1531225874049247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/888274961677678/posts/1531225874049247/</a>  
+   Link:<a href="https://www.facebook.com/groups/888274961677678/posts/1531225874049247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/888274961677678/posts/1531225874049247/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufos.ac.uk  
-   Link: <a href="https://ufos.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/</a>  
+   Link:<a href="https://ufos.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufos.ac.uk  
    Title: Author: Gavin Miller  
-   Link: <a href="https://ufos.ac.uk/author/gmiller/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/author/gmiller/</a>  
+   Link:<a href="https://ufos.ac.uk/author/gmiller/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/author/gmiller/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver</a>  
+   Link:<a href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
+   Link:<a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: westlothian.gov.uk  
    Title: Dechmont Law UFO  
-   Link: <a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
+   Link:<a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: military-history.fandom.com  
    Title: RAF West Freugh  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_West_Freugh</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_West_Freugh</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: parkdeanresorts.co.uk  
    Title: the falkirk triangle  
-   Link: <a href="https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/</a>  
+   Link:<a href="https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hangar1publishing.com  
    Title: ufo hotspot  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The Town with the Most UFO Sightings in the World  
-   Link: <a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: sundaypost.com  
-   Link: <a href="https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/</a>  
+   Link:<a href="https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: faroutmagazine.co.uk  
-   Link: <a href="https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/</a>  
+   Link:<a href="https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: blaze.tv  
-   Link: <a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
+   Link:<a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOopJ8Km-i1ykcIU3l4qYKFcokHgTaYg7KGe9NbN0S4mm-EGQw8kB" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOopJ8Km-i1ykcIU3l4qYKFcokHgTaYg7KGe9NbN0S4mm-EGQw8kB</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOopJ8Km-i1ykcIU3l4qYKFcokHgTaYg7KGe9NbN0S4mm-EGQw8kB" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOopJ8Km-i1ykcIU3l4qYKFcokHgTaYg7KGe9NbN0S4mm-EGQw8kB</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOop8N7grF-ogRf7SDrN_eCUe6tAq5WBkFhcbYC9iWJzbFhgMYugz" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOop8N7grF-ogRf7SDrN_eCUe6tAq5WBkFhcbYC9iWJzbFhgMYugz</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOop8N7grF-ogRf7SDrN_eCUe6tAq5WBkFhcbYC9iWJzbFhgMYugz" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOop8N7grF-ogRf7SDrN_eCUe6tAq5WBkFhcbYC9iWJzbFhgMYugz</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOor3jad2J5lrB3X0hhhqBNPBsPxvF1Mi7dn_rqKxc1Rxovllvbxu" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOor3jad2J5lrB3X0hhhqBNPBsPxvF1Mi7dn_rqKxc1Rxovllvbxu</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOor3jad2J5lrB3X0hhhqBNPBsPxvF1Mi7dn_rqKxc1Rxovllvbxu" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOor3jad2J5lrB3X0hhhqBNPBsPxvF1Mi7dn_rqKxc1Rxovllvbxu</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/</a>  
+   Link:<a href="https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/</a>  

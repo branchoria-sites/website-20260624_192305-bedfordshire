@@ -254,7 +254,7 @@ image: /assets/images/Rutland_424243_military_skies_ba8d68-overview-social.jpg
 
 ## Introduction
 
-[Rutland]({{ 'why-is-rutlands-ufo-record-so-quiet/' | relative_url }})’s former military airfields help explain why unusual lights in the county have often been read through an aviation lens rather than treated as evidence of a major UFO mystery. RAF Cottesmore and RAF North Luffenham put fast jets, training aircraft, runway lights, radar, Cold War missile infrastructure and military rumour into a very small rural county. That does not make Rutland a hidden UFO hotspot. The public record is thin: the clearest Ministry of Defence sighting entry for Rutland is the 20 March 2009 Exton report of a “large bright light” moving south to north at high speed, first mistaken for a planet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">20:15. Flitwick. Bedfordshire. Two UFOs. Orange globes that... UFO Reports 2009. 15-Apr-09. 20:30. Dover. Kent. Two objects, five...</span></span></span>
+[Rutland]({{ 'why-is-rutlands-ufo-record-so-quiet/' | relative_url }})’s former military airfields help explain why unusual lights in the county have often been read through an aviation lens rather than treated as evidence of a major UFO mystery. RAF Cottesmore and RAF North Luffenham put fast jets, training aircraft, runway lights, radar, Cold War missile infrastructure and military rumour into a very small rural county. That does not make Rutland a hidden UFO hotspot. The public record is thin: the clearest Ministry of Defence sighting entry for Rutland is the 20 March 2009 Exton report of a “large bright light” moving south to north at high speed, first mistaken for a planet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">20:15. Flitwick. Bedfordshire. Two UFOs. Orange globes that... UFO Reports 2009. 15-Apr-09. 20:30. Dover. Kent. Two objects, five...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-overview.webp" | relative_url }}" alt="Overview image for Military Skies" loading="eager" decoding="sync" fetchpriority="high">
@@ -265,7 +265,7 @@ The more useful question is therefore not whether Rutland’s airfields “prove
 
 ## Why Rutland’s airfields matter to UFO interpretation
 
-Rutland is small, rural and visually open, but it has carried a disproportionate military footprint. Rutland County Council’s own armed-forces summary notes that RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940, with both bases used by Bomber Command during the Second World War and later tied into Cold War operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/armed-forces/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-snippet">IntroductionMilitary bases in Rutland. RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940. The bases hosted Bomber Command cre...</span></span></span> The Lord-Lieutenant of Rutland similarly describes twentieth-century military life in the county as largely focused on Cottesmore and North Luffenham, with post-war links to the V-bomber force, Thor nuclear missiles, Tornado training and the final RAF Harriers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rutlandlordlieutenant.org/rutland-and-the-armed-forces/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutlandlordlieutenant.org">[Rutland Lord-Lieutenant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutlandlordlieutenant.org</span><span class="citation-popover-title">rutland and the armed forces</span><span class="citation-popover-snippet">rutland and the armed forces</span></span></span>
+Rutland is small, rural and visually open, but it has carried a disproportionate military footprint. Rutland County Council’s own armed-forces summary notes that RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940, with both bases used by Bomber Command during the Second World War and later tied into Cold War operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/armed-forces/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-snippet">IntroductionMilitary bases in Rutland. RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940. The bases hosted Bomber Command cre...</span></span></span> The Lord-Lieutenant of Rutland similarly describes twentieth-century military life in the county as largely focused on Cottesmore and North Luffenham, with post-war links to the V-bomber force, Thor nuclear missiles, Tornado training and the final RAF Harriers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rutlandlordlieutenant.org/rutland-and-the-armed-forces/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutlandlordlieutenant.org">[Rutland Lord-Lieutenant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutlandlordlieutenant.org</span><span class="citation-popover-title">rutland and the armed forces</span><span class="citation-popover-snippet">rutland and the armed forces</span></span></span>
 
 That history matters because many UFO reports are really reports of uncertainty: a witness sees a light, hears a sound, notices speed or silence, and lacks enough context to identify it. In Rutland, the background context included real military aircraft, real airfield lighting and real defence installations. That makes aviation explanations unusually important even when no specific aircraft can be matched to a sighting.
 
@@ -275,11 +275,11 @@ It also helps explain why Rutland’s UFO record feels different from counties w
 <img src="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-Illustration-1-dark.svg" | relative_url }}" alt="Military Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## RAF Cottesmore and RAF North Luffenham
 
-RAF Cottesmore was the more visible late twentieth-century presence. Historic England’s research record describes the station’s later use by Harrier jet squadrons of the RAF and Royal Navy, notes its association with the Harrier force from 1999, and records that the last Harrier flew from Cottesmore in December 2010 before RAF operations ceased and the site moved towards Army use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1392710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagegateway.org.uk">[Heritage Gateway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagegateway.org.uk</span><span class="citation-popover-title">Results Single.aspx</span><span class="citation-popover-snippet">Results Single.aspx</span></span></span> Rutland County Council now identifies Kendrew Barracks as the former RAF Cottesmore site, established as a barracks in 2012. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/armed-forces/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-snippet">IntroductionMilitary bases in Rutland. RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940. The bases hosted Bomber Command cre...</span></span></span>
+RAF Cottesmore was the more visible late twentieth-century presence. Historic England’s research record describes the station’s later use by Harrier jet squadrons of the RAF and Royal Navy, notes its association with the Harrier force from 1999, and records that the last Harrier flew from Cottesmore in December 2010 before RAF operations ceased and the site moved towards Army use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1392710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagegateway.org.uk">[Heritage Gateway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagegateway.org.uk</span><span class="citation-popover-title">Results Single.aspx</span><span class="citation-popover-snippet">Results Single.aspx</span></span></span> Rutland County Council now identifies Kendrew Barracks as the former RAF Cottesmore site, established as a barracks in 2012.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/armed-forces/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-snippet">IntroductionMilitary bases in Rutland. RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940. The bases hosted Bomber Command cre...</span></span></span>
 
 For UFO interpretation, Cottesmore is important for three reasons. First, jet activity could put bright, fast-moving lights into skies that otherwise felt dark and quiet. Secondly, the Harrier had a distinctive public profile: it was noisy, dramatic, capable of unusual flight behaviour compared with conventional aircraft, and strongly associated with Cottesmore in its final RAF years. Thirdly, local people had reason to connect unexplained sky events with the base even when the object was not military at all.
 
-RAF North Luffenham adds a different kind of texture. The Airfields of Britain Conservation Trust lists North Luffenham as a Rutland airfield used from December 1940 until 23 October 1997, later becoming an Army barracks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/north-luffenham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span> Its Cold War role was especially significant: Historic England records a Thor missile main base at the former RAF North Luffenham, constructed in 1959 and operational until 1963, now Grade II* listed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1400806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-snippet">Open source on historicengland.org.uk.</span></span></span>
+RAF North Luffenham adds a different kind of texture. The Airfields of Britain Conservation Trust lists North Luffenham as a Rutland airfield used from December 1940 until 23 October 1997, later becoming an Army barracks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/north-luffenham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span> Its Cold War role was especially significant: Historic England records a Thor missile main base at the former RAF North Luffenham, constructed in 1959 and operational until 1963, now Grade II* listed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1400806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-snippet">Open source on historicengland.org.uk.</span></span></span>
 
 That missile history is not evidence of UFO activity. But it is the kind of local fact that can give later rumours a stronger emotional charge. A strange light near an ordinary village may be dismissed as a plane. A strange light near a former bomber, missile and radar-linked station is more likely to be folded into stories about secrecy, defence activity and “what the military knew”.
 
@@ -290,11 +290,11 @@ That missile history is not evidence of UFO activity. But it is the kind of loca
 
 The strongest airfield-related explanation for many Rutland-style UFO impressions is simple: aircraft do not always look like aircraft from the ground. A landing light seen head-on can appear stationary, then suddenly move when the angle changes. A fast jet at distance can look silent if the sound arrives late or is masked by wind. Multiple aircraft in formation can be mistaken for a single structured object. Aircraft turning towards or away from a viewer can seem to accelerate or vanish.
 
-Rutland’s landscape evidence supports the point that airfield infrastructure was visually prominent. A Rutland landscape assessment described the physical and visual influence of the Cottesmore airfield extending beyond its perimeter, with runway approach lights stretching eastwards towards the A1 and appearing as “alien structures” in arable fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-title">Landscape Character Assessment of Rutland (2003</span><span class="citation-popover-snippet">Landscape Character Assessment of Rutland (2003</span></span></span> That wording is not a UFO claim; it is a planning description. Yet it is revealing. It shows that even official landscape observers registered the airfield’s lighting and structures as visually unusual in the rural setting.
+Rutland’s landscape evidence supports the point that airfield infrastructure was visually prominent. A Rutland landscape assessment described the physical and visual influence of the Cottesmore airfield extending beyond its perimeter, with runway approach lights stretching eastwards towards the A1 and appearing as “alien structures” in arable fields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-title">Landscape Character Assessment of Rutland (2003</span><span class="citation-popover-snippet">Landscape Character Assessment of Rutland (2003</span></span></span> That wording is not a UFO claim; it is a planning description. Yet it is revealing. It shows that even official landscape observers registered the airfield’s lighting and structures as visually unusual in the rural setting.
 
-Noise evidence points in the same direction. A Rutland landscape sensitivity study quoted local landscape character observations that road and rail brought some movement into the Vale, but that jet aircraft flying overhead from RAF Cottesmore were more disturbing to the area’s otherwise quiet rural character. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Sensitivity%20and%20Capacity%20Study%20%28May%202010%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-title">Landscape Sensitivity and Capacity Study (May 2010</span><span class="citation-popover-snippet">Landscape Sensitivity and Capacity Study (May 2010</span><span class="citation-popover-meta">Published: May 2010</span></span></span> That is exactly the kind of contrast that shapes witness perception: a dark rural sky, a sudden light, a delayed roar, or no obvious sound at all.
+Noise evidence points in the same direction. A Rutland landscape sensitivity study quoted local landscape character observations that road and rail brought some movement into the Vale, but that jet aircraft flying overhead from RAF Cottesmore were more disturbing to the area’s otherwise quiet rural character.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Sensitivity%20and%20Capacity%20Study%20%28May%202010%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-title">Landscape Sensitivity and Capacity Study (May 2010</span><span class="citation-popover-snippet">Landscape Sensitivity and Capacity Study (May 2010</span><span class="citation-popover-meta">Published: May 2010</span></span></span> That is exactly the kind of contrast that shapes witness perception: a dark rural sky, a sudden light, a delayed roar, or no obvious sound at all.
 
-The [Exton sighting]({{ 'exton-sighting/' | relative_url }}) of 20 March 2009 sits neatly in this interpretive zone. The MoD table records a large bright light east of Exton, moving south to north at high speed and initially mistaken for a planet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">20:15. Flitwick. Bedfordshire. Two UFOs. Orange globes that... UFO Reports 2009. 15-Apr-09. 20:30. Dover. Kent. Two objects, five...</span></span></span> Exton lies within the wider Cottesmore Plateau area named in Rutland’s landscape character work, alongside settlements including Cottesmore, Greetham and Market Overton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-title">Landscape Character Assessment of Rutland (2003</span><span class="citation-popover-snippet">Landscape Character Assessment of Rutland (2003</span></span></span> The report does not say the object was connected with RAF Cottesmore. But the geography makes an aviation explanation worth considering before any more exotic reading.
+The [Exton sighting]({{ 'exton-sighting/' | relative_url }}) of 20 March 2009 sits neatly in this interpretive zone. The MoD table records a large bright light east of Exton, moving south to north at high speed and initially mistaken for a planet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">20:15. Flitwick. Bedfordshire. Two UFOs. Orange globes that... UFO Reports 2009. 15-Apr-09. 20:30. Dover. Kent. Two objects, five...</span></span></span> Exton lies within the wider Cottesmore Plateau area named in Rutland’s landscape character work, alongside settlements including Cottesmore, Greetham and Market Overton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rutland.gov.uk">[Rutland County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rutland.gov.uk</span><span class="citation-popover-title">Landscape Character Assessment of Rutland (2003</span><span class="citation-popover-snippet">Landscape Character Assessment of Rutland (2003</span></span></span> The report does not say the object was connected with RAF Cottesmore. But the geography makes an aviation explanation worth considering before any more exotic reading.
 
 The difficulty is that the published MoD entry is too brief to identify the cause. It gives no duration, no exact line of sight, no witness position, no weather, no aircraft check and no astronomical reconstruction. A fast light could be an aircraft, meteor, satellite, lantern, reflection or misjudged planet depending on the missing details. The airfield context narrows the sensible questions; it does not supply a firm answer.
 
@@ -304,17 +304,17 @@ The difficulty is that the published MoD entry is too brief to identify the caus
 
 Rutland’s airfield rumours become weakest when they move from “there were military skies here” to “therefore the military was involved in UFO events”. The first claim is well supported. The second needs case-specific evidence, and that is mostly absent from the public record.
 
-The Ministry of Defence’s published UFO report tables are modest documents. GOV.UK describes the 1997–2009 material as lists showing dates, times, locations and brief descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting...</span></span></span> They are not full investigative files and they do not, by themselves, establish that an object was extraordinary. The Exton entry is therefore best read as a documented report, not a solved case and not a defence-linked mystery.
+The Ministry of Defence’s published UFO report tables are modest documents. GOV.UK describes the 1997–2009 material as lists showing dates, times, locations and brief descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting...</span></span></span> They are not full investigative files and they do not, by themselves, establish that an object was extraordinary. The Exton entry is therefore best read as a documented report, not a solved case and not a defence-linked mystery.
 
 This distinction matters because airfields attract three overlapping kinds of rumour:
 
 **Operational rumour:** people see or hear real aircraft, then speculate about what they were doing. Around Cottesmore, this could include Harrier operations, training movements, night flying or aircraft transiting to and from other bases.
 
-**Infrastructure rumour:** people notice lights, masts, radar, approach systems, fenced land or former missile structures and attach mystery to them. North Luffenham’s Thor missile remains are historically important, but their existence does not convert later lights into UFO evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1400806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-snippet">Open source on historicengland.org.uk.</span></span></span>
+**Infrastructure rumour:** people notice lights, masts, radar, approach systems, fenced land or former missile structures and attach mystery to them. North Luffenham’s Thor missile remains are historically important, but their existence does not convert later lights into UFO evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1400806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-snippet">Open source on historicengland.org.uk.</span></span></span>
 
 **Secrecy rumour:** because RAF sites are associated with restricted access and defence work, the absence of public detail can be misread as confirmation. In practice, absence of detail more often means the public record is incomplete, routine, lost, unpublished or never collected in the first place.
 
-There is also a radar-related caution. Planning documents from the wider region show that RAF Cottesmore’s Watchman radar and Precision Approach Radar were relevant to wind-farm objections, with the Ministry of Defence arguing that turbines could reduce radar sensitivity and create “false aircraft” returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://moderngov.southkesteven.gov.uk/documents/s6858/JJ%20-%20Windfarm.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moderngov.southkesteven.gov.uk">[South Kesteven District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moderngov.southkesteven.gov.uk</span><span class="citation-popover-title">JJ Windfarm</span><span class="citation-popover-snippet">JJ Windfarm</span></span></span> This is useful context because it shows Cottesmore was part of a real technical air-traffic environment, not just a vague military name. But it should not be overstated. Radar clutter in planning disputes is not evidence of UFOs; it is evidence that military aviation systems can produce technical ambiguities of their own.
+There is also a radar-related caution. Planning documents from the wider region show that RAF Cottesmore’s Watchman radar and Precision Approach Radar were relevant to wind-farm objections, with the Ministry of Defence arguing that turbines could reduce radar sensitivity and create “false aircraft” returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://moderngov.southkesteven.gov.uk/documents/s6858/JJ%20-%20Windfarm.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moderngov.southkesteven.gov.uk">[South Kesteven District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moderngov.southkesteven.gov.uk</span><span class="citation-popover-title">JJ Windfarm</span><span class="citation-popover-snippet">JJ Windfarm</span></span></span> This is useful context because it shows Cottesmore was part of a real technical air-traffic environment, not just a vague military name. But it should not be overstated. Radar clutter in planning disputes is not evidence of UFOs; it is evidence that military aviation systems can produce technical ambiguities of their own.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/shxh2_CUASg" title="LOST AIRFIELDS • RAF NORTH LUFFENHAM | MEMBERS ADDITION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=shxh2_CUASg" target="_blank" rel="noopener noreferrer">LOST AIRFIELDS • RAF NORTH LUFFENHAM | MEMBERS ADDITION</a></p><p class="youtube-embed-meta">Channel: Ted Coningsby</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=shxh2_CUASg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=shxh2_CUASg">Open on YouTube</a></p></div></div></div>
@@ -331,194 +331,194 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
 <img src="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-Illustration-3-dark.svg" | relative_url }}" alt="Military Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rutland_424243_military_skies_ba8d68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Rutland&#x27;s Airfields Shape UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Rutland&#x27;s Airfields Shape UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how UFO reports are interpreted and investigated, matching the article&#x27;s focus on sightings and explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how UFO reports are interpreted and investigated, matching the article&#x27;s focus on sightings and explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military, aviation, and government perspectives on unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military, aviation, and government perspectives on unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Places UFO reports within the wider context of unexplained events and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places UFO reports within the wider context of unexplained events and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Provides context for military bases, secrecy, radar systems, and Cold War-era interpretations of unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military bases, secrecy, radar systems, and Cold War-era interpretations of unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="military-skies-1946a9-did-rutland-s-airfields-shape-ufo-reports-rutland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-rutland-s-airfields-shape-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,233 +724,233 @@ For readers tracing Rutland’s place in UK UFO history, the county is therefore
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20:15. Flitwick. Bedfordshire. Two UFOs. Orange globes that... UFO Reports 2009. 15-Apr-09. 20:30. Dover. Kent. Two objects, five...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20:15. Flitwick. Bedfordshire. Two UFOs. Orange globes that... UFO Reports 2009. 15-Apr-09. 20:30. Dover. Kent. Two objects, five...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rutland.gov.uk  
    Title: Rutland County Council  
-   Link: <a href="https://www.rutland.gov.uk/armed-forces/introduction" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/armed-forces/introduction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionMilitary bases in Rutland. RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940. The bases hosted Bomber Command cre...</p></details>
+   Link:<a href="https://www.rutland.gov.uk/armed-forces/introduction" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/armed-forces/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionMilitary bases in Rutland. RAF Cottesmore opened in 1938 and RAF North Luffenham in 1940. The bases hosted Bomber Command cre...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rutland.gov.uk  
    Title: Landscape Character Assessment of Rutland (2003)  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Character%20Assessment%20of%20Rutland%20%282003%29.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rutland.gov.uk  
    Title: Landscape Sensitivity and Capacity Study (May 2010)  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Sensitivity%20and%20Capacity%20Study%20%28May%202010%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Sensitivity%20and%20Capacity%20Study%20%28May%202010%29.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Sensitivity%20and%20Capacity%20Study%20%28May%202010%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-09/Landscape%20Sensitivity%20and%20Capacity%20Study%20%28May%202010%29.pdf</a>  
    Published: May 2010  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: moderngov.southkesteven.gov.uk  
    Title: JJ Windfarm  
-   Link: <a href="https://moderngov.southkesteven.gov.uk/documents/s6858/JJ%20-%20Windfarm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/s6858/JJ%20-%20Windfarm.pdf</a>  
+   Link:<a href="https://moderngov.southkesteven.gov.uk/documents/s6858/JJ%20-%20Windfarm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/s6858/JJ%20-%20Windfarm.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rutland.gov.uk  
    Title: statement of significance  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2022-10/SGB4%20-St%20George%27s%20Barracks%20Statement%20of%20%20Historic%20Significance%20%28September%202018%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-10/SGB4%20-St%20George%27s%20Barracks%20Statement%20of%20%20Historic%20Significance%20%28September%202018%29.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2022-10/SGB4%20-St%20George%27s%20Barracks%20Statement%20of%20%20Historic%20Significance%20%28September%202018%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-10/SGB4%20-St%20George%27s%20Barracks%20Statement%20of%20%20Historic%20Significance%20%28September%202018%29.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rutland.gov.uk  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2022-10/ENV1c%20-%20Landscape%20Sensitivity%20and%20Capacity%20Study%20-%20Land%20around%20the%20Local%20Service%20Centres%20%28July%202012%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-10/ENV1c%20-%20Landscape%20Sensitivity%20and%20Capacity%20Study%20-%20Land%20around%20the%20Local%20Service%20Centres%20%28July%202012%29.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2022-10/ENV1c%20-%20Landscape%20Sensitivity%20and%20Capacity%20Study%20-%20Land%20around%20the%20Local%20Service%20Centres%20%28July%202012%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-10/ENV1c%20-%20Landscape%20Sensitivity%20and%20Capacity%20Study%20-%20Land%20around%20the%20Local%20Service%20Centres%20%28July%202012%29.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rutland.gov.uk  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1a_landscape_character_assessment_part_1_dec_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1a_landscape_character_assessment_part_1_dec_2022.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1a_landscape_character_assessment_part_1_dec_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1a_landscape_character_assessment_part_1_dec_2022.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rutland.gov.uk  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1b_landscape_character_assessment_part_2_dec_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1b_landscape_character_assessment_part_2_dec_2022.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1b_landscape_character_assessment_part_2_dec_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2025-02/ev8.1b_landscape_character_assessment_part_2_dec_2022.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rutland.gov.uk  
    Title: Cottesmore Neighbourhood Plan  
-   Link: <a href="https://www.rutland.gov.uk/sites/default/files/2022-10/Cottesmore%20Neighbourhood%20Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-10/Cottesmore%20Neighbourhood%20Plan.pdf</a>  
+   Link:<a href="https://www.rutland.gov.uk/sites/default/files/2022-10/Cottesmore%20Neighbourhood%20Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutland.gov.uk/sites/default/files/2022-10/Cottesmore%20Neighbourhood%20Plan.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0110022-000002-EN0110022_EIA_Scoping_Report_Kilnside%20Energy%20Park_Part_1_Main_Text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0110022-000002-EN0110022_EIA_Scoping_Report_Kilnside%20Energy%20Park_Part_1_Main_Text.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0110022-000002-EN0110022_EIA_Scoping_Report_Kilnside%20Energy%20Park_Part_1_Main_Text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0110022-000002-EN0110022_EIA_Scoping_Report_Kilnside%20Energy%20Park_Part_1_Main_Text.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010154-000802-East%20Midlands%20Region%20Landscape%20Character%20Assessment%2C%20Natural%20England%20%282010%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010154-000802-East%20Midlands%20Region%20Landscape%20Character%20Assessment%2C%20Natural%20England%20%282010%29.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010154-000802-East%20Midlands%20Region%20Landscape%20Character%20Assessment%2C%20Natural%20England%20%282010%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010154-000802-East%20Midlands%20Region%20Landscape%20Character%20Assessment%2C%20Natural%20England%20%282010%29.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: moderngov.southkesteven.gov.uk  
    Title: Public reports pack 25th Sep 2009 10.30 Planning Committee  
-   Link: <a href="https://moderngov.southkesteven.gov.uk/documents/g2404/Public%20reports%20pack%2025th-Sep-2009%2010.30%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/g2404/Public%20reports%20pack%2025th-Sep-2009%2010.30%20Planning%20Committee.pdf?T=10</a>  
+   Link:<a href="https://moderngov.southkesteven.gov.uk/documents/g2404/Public%20reports%20pack%2025th-Sep-2009%2010.30%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/g2404/Public%20reports%20pack%2025th-Sep-2009%2010.30%20Planning%20Committee.pdf?T=10</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uttlesford.gov.uk  
-   Link: <a href="https://www.uttlesford.gov.uk/media/12665/Uttlesford-full-LCA/pdf/Uttlesford_full_LCA.pdf?m=1701352785163" target="_blank" rel="noopener noreferrer nofollow">https://www.uttlesford.gov.uk/media/12665/Uttlesford-full-LCA/pdf/Uttlesford_full_LCA.pdf?m=1701352785163</a>  
+   Link:<a href="https://www.uttlesford.gov.uk/media/12665/Uttlesford-full-LCA/pdf/Uttlesford_full_LCA.pdf?m=1701352785163" target="_blank" rel="noopener noreferrer nofollow">https://www.uttlesford.gov.uk/media/12665/Uttlesford-full-LCA/pdf/Uttlesford_full_LCA.pdf?m=1701352785163</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: marine.gov.scot  
-   Link: <a href="https://marine.gov.scot/sites/default/files/additional_-_consultation_responses_advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/additional_-_consultation_responses_advice.pdf</a>  
+   Link:<a href="https://marine.gov.scot/sites/default/files/additional_-_consultation_responses_advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/additional_-_consultation_responses_advice.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: basingstoke.gov.uk  
    Title: Landscape Character Assessment  
-   Link: <a href="https://www.basingstoke.gov.uk/content/doclib/3246.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.basingstoke.gov.uk/content/doclib/3246.pdf</a>  
+   Link:<a href="https://www.basingstoke.gov.uk/content/doclib/3246.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.basingstoke.gov.uk/content/doclib/3246.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rochford.gov.uk  
    Title: evibase EB6 essex landscape character asssess2003pt1  
-   Link: <a href="https://www.rochford.gov.uk/sites/default/files/2022-11/evibase_EB6_essex_landscape_character_asssess2003pt1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rochford.gov.uk/sites/default/files/2022-11/evibase_EB6_essex_landscape_character_asssess2003pt1.pdf</a>  
+   Link:<a href="https://www.rochford.gov.uk/sites/default/files/2022-11/evibase_EB6_essex_landscape_character_asssess2003pt1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rochford.gov.uk/sites/default/files/2022-11/evibase_EB6_essex_landscape_character_asssess2003pt1.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: her.northamptonshire.gov.uk  
-   Link: <a href="https://her.northamptonshire.gov.uk/Monument/MNN37131/" target="_blank" rel="noopener noreferrer nofollow">https://her.northamptonshire.gov.uk/Monument/MNN37131/</a>  
+   Link:<a href="https://her.northamptonshire.gov.uk/Monument/MNN37131/" target="_blank" rel="noopener noreferrer nofollow">https://her.northamptonshire.gov.uk/Monument/MNN37131/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: landscape character assessment  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5aabd31340f0b64ab4b7576e/landscape-character-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5aabd31340f0b64ab4b7576e/landscape-character-assessment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5aabd31340f0b64ab4b7576e/landscape-character-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5aabd31340f0b64ab4b7576e/landscape-character-assessment.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 1990to1999.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: FOI2017 02002  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a822282ed915d74e6235f7e/FOI2017-02002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a822282ed915d74e6235f7e/FOI2017-02002.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a822282ed915d74e6235f7e/FOI2017-02002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a822282ed915d74e6235f7e/FOI2017-02002.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: north-norfolk.gov.uk  
    Title: landscape character assessment  
-   Link: <a href="https://www.north-norfolk.gov.uk/media/1271/landscape_character_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.north-norfolk.gov.uk/media/1271/landscape_character_assessment.pdf</a>  
+   Link:<a href="https://www.north-norfolk.gov.uk/media/1271/landscape_character_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.north-norfolk.gov.uk/media/1271/landscape_character_assessment.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fdean.gov.uk  
-   Link: <a href="https://www.fdean.gov.uk/media/yvqf5iaz/forest-of-dean-district-landscape-character-assessment-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fdean.gov.uk/media/yvqf5iaz/forest-of-dean-district-landscape-character-assessment-report.pdf</a>  
+   Link:<a href="https://www.fdean.gov.uk/media/yvqf5iaz/forest-of-dean-district-landscape-character-assessment-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fdean.gov.uk/media/yvqf5iaz/forest-of-dean-district-landscape-character-assessment-report.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rutlandlordlieutenant.org  
    Title: rutland and the armed forces  
-   Link: <a href="https://rutlandlordlieutenant.org/rutland-and-the-armed-forces/" target="_blank" rel="noopener noreferrer nofollow">https://rutlandlordlieutenant.org/rutland-and-the-armed-forces/</a>  
+   Link:<a href="https://rutlandlordlieutenant.org/rutland-and-the-armed-forces/" target="_blank" rel="noopener noreferrer nofollow">https://rutlandlordlieutenant.org/rutland-and-the-armed-forces/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: heritagegateway.org.uk  
    Title: Results Single.aspx  
-   Link: <a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1392710" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1392710</a>  
+   Link:<a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1392710" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1392710</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/north-luffenham/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/north-luffenham/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/north-luffenham/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/north-luffenham/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: historicengland.org.uk  
-   Link: <a href="https://historicengland.org.uk/listing/the-list/list-entry/1400806" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1400806</a>  
+   Link:<a href="https://historicengland.org.uk/listing/the-list/list-entry/1400806" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1400806</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: RAF Cottesmore  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Cottesmore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Cottesmore</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Cottesmore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Cottesmore</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: RAF North Luffenham  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_North_Luffenham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_North_Luffenham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_North_Luffenham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_North_Luffenham</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: military-history.fandom.com  
    Title: RAF Cottesmore  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_Cottesmore" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Cottesmore</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_Cottesmore" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Cottesmore</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: heritagegateway.org.uk  
    Title: Heritage Gateway  
-   Link: <a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=7&amp;uid=1477255" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=7&amp;uid=1477255</a>  
+   Link:<a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=7&amp;uid=1477255" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=7&amp;uid=1477255</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: trackdays.co.uk  
    Title: kendrew barracks  
-   Link: <a href="https://www.trackdays.co.uk/tracks/kendrew-barracks/" target="_blank" rel="noopener noreferrer nofollow">https://www.trackdays.co.uk/tracks/kendrew-barracks/</a>  
+   Link:<a href="https://www.trackdays.co.uk/tracks/kendrew-barracks/" target="_blank" rel="noopener noreferrer nofollow">https://www.trackdays.co.uk/tracks/kendrew-barracks/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ukairfields.org.uk  
-   Link: <a href="https://www.ukairfields.org.uk/cottesmore.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/cottesmore.html</a>  
+   Link:<a href="https://www.ukairfields.org.uk/cottesmore.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/cottesmore.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: autopaintrepairs.co.uk  
    Title: raf north luffenham  
-   Link: <a href="https://www.autopaintrepairs.co.uk/raf-north-luffenham/" target="_blank" rel="noopener noreferrer nofollow">https://www.autopaintrepairs.co.uk/raf-north-luffenham/</a>  
+   Link:<a href="https://www.autopaintrepairs.co.uk/raf-north-luffenham/" target="_blank" rel="noopener noreferrer nofollow">https://www.autopaintrepairs.co.uk/raf-north-luffenham/</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RdaNIpp-sdM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RdaNIpp-sdM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Day Of The UK Harrier Jet Force, RAF Cottesmore 2010...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RdaNIpp-sdM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RdaNIpp-sdM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Day Of The UK Harrier Jet Force, RAF Cottesmore 2010...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KG5Ys8H1JUY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KG5Ys8H1JUY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOST AIRFIELDS • RAF NORTH LUFFENHAM | MEMBERS ADDITION...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KG5Ys8H1JUY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KG5Ys8H1JUY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOST AIRFIELDS • RAF NORTH LUFFENHAM | MEMBERS ADDITION...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: LOST AIRFIELDS • RAF NORTH LUFFENHAM | MEMBERS ADDITION  
-   Link: <a href="https://www.youtube.com/watch?v=shxh2_CUASg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=shxh2_CUASg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disaster In The Sky: The Shocking Crash of Vulcan XM604...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=shxh2_CUASg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=shxh2_CUASg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disaster In The Sky: The Shocking Crash of Vulcan XM604...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/multimedia/archive/03604/Telegraph1916_2104_3604310a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03604/Telegraph1916_2104_3604310a.pdf</a>  
+   Link:<a href="https://www.telegraph.co.uk/multimedia/archive/03604/Telegraph1916_2104_3604310a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03604/Telegraph1916_2104_3604310a.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1466729883775310/posts/2413682625746693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1466729883775310/posts/2413682625746693/</a>  
+   Link:<a href="https://www.facebook.com/groups/1466729883775310/posts/2413682625746693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1466729883775310/posts/2413682625746693/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/rethinkwales/posts/846852781647111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rethinkwales/posts/846852781647111/</a>  
+   Link:<a href="https://www.facebook.com/groups/rethinkwales/posts/846852781647111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rethinkwales/posts/846852781647111/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: rafnorthluffenhamheritage.me.uk  
-   Link: <a href="https://www.rafnorthluffenhamheritage.me.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafnorthluffenhamheritage.me.uk/</a>  
+   Link:<a href="https://www.rafnorthluffenhamheritage.me.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafnorthluffenhamheritage.me.uk/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/raf-cottesmore.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/raf-cottesmore.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/raf-cottesmore.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/raf-cottesmore.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: rutlandcounty.moderngov.co.uk  
-   Link: <a href="https://rutlandcounty.moderngov.co.uk/documents/s9531/Report%20No.%20132-2017%20Appendix%201%20and%202%20Local%20Plan%20Review%20-%20Consultative%20Draft%20and%20Policies%20Maps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rutlandcounty.moderngov.co.uk/documents/s9531/Report%20No.%20132-2017%20Appendix%201%20and%202%20Local%20Plan%20Review%20-%20Consultative%20Draft%20and%20Policies%20Maps.pdf</a>  
+   Link:<a href="https://rutlandcounty.moderngov.co.uk/documents/s9531/Report%20No.%20132-2017%20Appendix%201%20and%202%20Local%20Plan%20Review%20-%20Consultative%20Draft%20and%20Policies%20Maps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rutlandcounty.moderngov.co.uk/documents/s9531/Report%20No.%20132-2017%20Appendix%201%20and%202%20Local%20Plan%20Review%20-%20Consultative%20Draft%20and%20Policies%20Maps.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: rutlandhistory.org  
-   Link: <a href="https://www.rutlandhistory.org/rutlandrecord/rr20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutlandhistory.org/rutlandrecord/rr20.pdf</a>  
+   Link:<a href="https://www.rutlandhistory.org/rutlandrecord/rr20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rutlandhistory.org/rutlandrecord/rr20.pdf</a>  

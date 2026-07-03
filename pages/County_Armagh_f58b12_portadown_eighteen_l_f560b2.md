@@ -254,7 +254,7 @@ image: /assets/images/County_Armagh_f58b12_portadown_eighteen_l_f560b2-overview-
 
 ## Introduction
 
-Portadown’s best-known UFO entry is not a dramatic close encounter, but a single sparse line in the Ministry of Defence’s released 2005 sighting list: at 23:10 on 24 January 2005, in Portadown, “There were eighteen lights moving across the sky.” That is enough to make it one of [County Armagh]({{ 'county-armagh/' | relative_url }})’s clearest official UFO records, but not enough to make it a strong unexplained case. The record gives a date, time, place and short description; it does not give a witness statement, direction of travel, duration, colour, altitude, weather, photographs, radar data or follow-up finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Portadown’s best-known UFO entry is not a dramatic close encounter, but a single sparse line in the Ministry of Defence’s released 2005 sighting list: at 23:10 on 24 January 2005, in Portadown, “There were eighteen lights moving across the sky.” That is enough to make it one of [County Armagh]({{ 'county-armagh/' | relative_url }})’s clearest official UFO records, but not enough to make it a strong unexplained case. The record gives a date, time, place and short description; it does not give a witness statement, direction of travel, duration, colour, altitude, weather, photographs, radar data or follow-up finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12_portadown_eighteen_l_f560b2-overview.webp" | relative_url }}" alt="Overview image for Portadown Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,13 +262,13 @@ That evidence gap is the point. The Portadown report matters because it shows bo
 
 ## What the MoD list actually records
 
-The Portadown entry appears in the MoD’s “UFO Reports 2005” table, which is part of the wider GOV.UK release of UK UFO reports from 1997 to 2009. GOV.UK describes these files as listing dates, times, locations and brief descriptions of sightings, which is exactly the format used for the Portadown case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Portadown entry appears in the MoD’s “UFO Reports 2005” table, which is part of the wider GOV.UK release of UK UFO reports from 1997 to 2009. GOV.UK describes these files as listing dates, times, locations and brief descriptions of sightings, which is exactly the format used for the Portadown case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The exact entry is brief: “24-Jan-05”, “23:10”, “Portadown”, “Northern Ireland”, followed by “There were eighteen lights moving across the sky.” The “occupation of reporter” field is blank, and there is no extra note naming an aircraft, astronomical body, police source, newspaper source or investigation outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The exact entry is brief: “24-Jan-05”, “23:10”, “Portadown”, “Northern Ireland”, followed by “There were eighteen lights moving across the sky.” The “occupation of reporter” field is blank, and there is no extra note naming an aircraft, astronomical body, police source, newspaper source or investigation outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-Portadown itself sits in County Armagh, on the River Bann in the north of the county, about 23 miles south-west of Belfast. That location matters for this project because the MoD table uses the broad label “Northern Ireland”, while the historic-county reading places the sighting within County Armagh’s UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Portadown itself sits in County Armagh, on the River Bann in the north of the county, about 23 miles south-west of Belfast. That location matters for this project because the MoD table uses the broad label “Northern Ireland”, while the historic-county reading places the sighting within County Armagh’s UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The wording gives three useful clues, but each is incomplete. First, the witness or call handler counted eighteen lights, which suggests a grouped or repeated phenomenon rather than a single bright object. Secondly, the lights were “moving across the sky”, which points away from a fixed star or planet, but not away from aircraft, lanterns or satellites. Thirdly, the time was late evening, 23:10, when artificial lights are easier to notice and harder to judge for distance, height and speed. The record does not say whether the lights were in a line, cluster, triangle, V-shape or loose stream, so the most important pattern information is missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The wording gives three useful clues, but each is incomplete. First, the witness or call handler counted eighteen lights, which suggests a grouped or repeated phenomenon rather than a single bright object. Secondly, the lights were “moving across the sky”, which points away from a fixed star or planet, but not away from aircraft, lanterns or satellites. Thirdly, the time was late evening, 23:10, when artificial lights are easier to notice and harder to judge for distance, height and speed. The record does not say whether the lights were in a line, cluster, triangle, V-shape or loose stream, so the most important pattern information is missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12_portadown_eighteen_l_f560b2-Illustration-1-dark.svg" | relative_url }}" alt="Portadown Lights illustration 1" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12_portadown_eighteen_l_f560b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12_portadown_eighteen_l_f560b2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -276,7 +276,7 @@ The wording gives three useful clues, but each is incomplete. First, the witness
 
 Eighteen is the detail that makes the Portadown report memorable. A single moving light can easily be dismissed as a plane, bright satellite or meteor. Eighteen lights feel more deliberate: a formation, a procession, or a coordinated event. Yet multiple lights are not automatically stronger UFO evidence. They often widen the range of ordinary explanations.
 
-The MoD’s own 2005 list shows how common vague light reports were. Nearby entries in the same table include “lights seen in the sky”, “beam of light seen”, “a group of lights in the sky”, “a number of orange lights”, “lights that seemed to be dancing in the sky” and “four orange lights above the witnesses house”. The Portadown line stands out for the count, but not for detailed supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The MoD’s own 2005 list shows how common vague light reports were. Nearby entries in the same table include “lights seen in the sky”, “beam of light seen”, “a group of lights in the sky”, “a number of orange lights”, “lights that seemed to be dancing in the sky” and “four orange lights above the witnesses house”. The Portadown line stands out for the count, but not for detailed supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 This matters because witness descriptions of night lights often compress several unknowns into one confident impression. A person may count separated points of light correctly while still misjudging their distance, size, altitude or whether they belong to one object. Eighteen lights could mean eighteen separate objects, lights on one or more aircraft, lanterns drifting in the same wind, satellites crossing the same viewing area, or a line of lights seen briefly through cloud. The MoD line does not let us choose between those options.
 
@@ -288,11 +288,11 @@ The Portadown entry is too thin for a firm debunking, but it is not too thin for
 
 **Aircraft or aircraft lights** are an obvious possibility, especially if the lights moved steadily and were seen for more than a few seconds. A distant line of aircraft, aircraft on similar headings, or lights seen through broken cloud can look stranger than they are. The Portadown record gives no direction of travel, no sound description and no duration, so aircraft cannot be confirmed or ruled out from the released line.
 
-**Sky lanterns** are another plausible category for grouped lights, especially when witnesses describe orange or amber lights moving silently and slowly. The Portadown record does not give a colour, which weakens this comparison, but the general mechanism matters: lanterns are small flame-powered paper objects that drift with the wind and can appear as moving lights at night. UK aviation bodies have treated lantern releases as relevant to airspace safety, with the Civil Aviation Authority advising event organisers to contact it about major firework, laser or sky lantern activity near airfields or regular aircraft routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+**Sky lanterns** are another plausible category for grouped lights, especially when witnesses describe orange or amber lights moving silently and slowly. The Portadown record does not give a colour, which weakens this comparison, but the general mechanism matters: lanterns are small flame-powered paper objects that drift with the wind and can appear as moving lights at night. UK aviation bodies have treated lantern releases as relevant to airspace safety, with the Civil Aviation Authority advising event organisers to contact it about major firework, laser or sky lantern activity near airfields or regular aircraft routes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-There is also a specific reason lanterns can be misread. A Trading Standards-linked industry code warned that red or orange sky lanterns may be mistaken for distress flares, and fire services have long highlighted the risks posed by floating lanterns once released. Those safety concerns do not prove lanterns caused the Portadown report, but they show why drifting night lights can generate official concern and public misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: author-portal.tradingstandards.uk">[Author Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">author-portal.tradingstandards.uk</span><span class="citation-popover-title">Author Portal Industry Code of Practice: Sky Lanterns</span><span class="citation-popover-snippet">Author Portal Industry Code of Practice: Sky Lanterns</span></span></span>
+There is also a specific reason lanterns can be misread. A Trading Standards-linked industry code warned that red or orange sky lanterns may be mistaken for distress flares, and fire services have long highlighted the risks posed by floating lanterns once released. Those safety concerns do not prove lanterns caused the Portadown report, but they show why drifting night lights can generate official concern and public misidentification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: author-portal.tradingstandards.uk">[Author Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">author-portal.tradingstandards.uk</span><span class="citation-popover-title">Author Portal Industry Code of Practice: Sky Lanterns</span><span class="citation-popover-snippet">Author Portal Industry Code of Practice: Sky Lanterns</span></span></span>
 
-**Meteors or fireballs** are less neat for a count of eighteen, but still relevant if the sighting involved fragments, a brief streaking event, or a witness interpreting a broken trail as multiple lights. Meteor reports across the UK and Ireland can trigger widespread UFO-style speculation when bright objects cross the sky, as later public reports of fireballs over Northern Ireland and the wider UK demonstrate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishcentral.com/news/fireball-sighting-above-northern-ireland-prompts-hunt-for-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishcentral.com">[IrishCentral.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishcentral.com</span><span class="citation-popover-snippet">Open source on irishcentral.com.</span></span></span>
+**Meteors or fireballs** are less neat for a count of eighteen, but still relevant if the sighting involved fragments, a brief streaking event, or a witness interpreting a broken trail as multiple lights. Meteor reports across the UK and Ireland can trigger widespread UFO-style speculation when bright objects cross the sky, as later public reports of fireballs over Northern Ireland and the wider UK demonstrate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishcentral.com/news/fireball-sighting-above-northern-ireland-prompts-hunt-for-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishcentral.com">[IrishCentral.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishcentral.com</span><span class="citation-popover-snippet">Open source on irishcentral.com.</span></span></span>
 
 **Satellites or space debris** are also possible in principle, though the 2005 date predates the modern Starlink era that has made “train” sightings familiar to many observers. Without direction, angular speed, spacing, brightness and duration, the Portadown entry cannot be matched to a satellite pass from the public MoD summary alone.
 
@@ -303,7 +303,7 @@ The important point is not that any one explanation wins. It is that several ord
 
 ## Why sparse records limit the case
 
-The Portadown sighting is official in one limited sense: it appears in a released MoD list. That does not mean the MoD validated it as unexplained, investigated it in depth, or found it defence-relevant. The public table is a summary list, not a full case file. GOV.UK’s own description of the release emphasises the simple fields: date, time, location and brief description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Portadown sighting is official in one limited sense: it appears in a released MoD list. That does not mean the MoD validated it as unexplained, investigated it in depth, or found it defence-relevant. The public table is a summary list, not a full case file. GOV.UK’s own description of the release emphasises the simple fields: date, time, location and brief description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 The missing evidence is not a minor inconvenience. For this case, the absent details are exactly the details needed to assess it:
 
@@ -322,9 +322,9 @@ The missing evidence is not a minor inconvenience. For this case, the absent det
 
 Without those details, the case cannot support a strong claim. It remains a logged sighting rather than a tested mystery.
 
-This is consistent with the wider history of the UK UFO desk. The National Archives’ briefing material explains that, for the MoD, UFO reports were treated in defence terms: the issue was whether a sighting suggested a threat to national security, not whether it proved extraterrestrial activity. The same briefing notes that most UFO reports investigated historically turned out to have ordinary explanations such as bright stars and planets, meteors, artificial satellites, balloons, aircraft seen from unusual angles and space junk burning up in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+This is consistent with the wider history of the UK UFO desk. The National Archives’ briefing material explains that, for the MoD, UFO reports were treated in defence terms: the issue was whether a sighting suggested a threat to national security, not whether it proved extraterrestrial activity. The same briefing notes that most UFO reports investigated historically turned out to have ordinary explanations such as bright stars and planets, meteors, artificial satellites, balloons, aircraft seen from unusual angles and space junk burning up in the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-When the final tranche of UFO files was released, The National Archives said the MoD closed its UFO desk and hotline in 2009. Its press release stated that the desk had received more than 600 UFO sightings in 2009, but that officials had been told no UFO report over more than 50 years had revealed anything suggesting an extra-terrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+When the final tranche of UFO files was released, The National Archives said the MoD closed its UFO desk and hotline in 2009. Its press release stated that the desk had received more than 600 UFO sightings in 2009, but that officials had been told no UFO report over more than 50 years had revealed anything suggesting an extra-terrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 That policy background helps explain why the Portadown line is so frustratingly short. The MoD system was not designed as a local historical investigation service for every unusual light report. It was a defence filter. If a report did not raise an apparent air-defence issue, the public trace might be no more than a line in a table.
 
@@ -355,7 +355,7 @@ That distinction prevents both overclaiming and over-dismissal. The Portadown li
 
 ## The balanced assessment
 
-The Portadown case is best described as a documented but thinly evidenced multiple-light sighting. The known facts are simple: at 23:10 on 24 January 2005, a report from Portadown in Northern Ireland described eighteen lights moving across the sky, and that report appeared in the MoD’s released 2005 UFO list. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Portadown case is best described as a documented but thinly evidenced multiple-light sighting. The known facts are simple: at 23:10 on 24 January 2005, a report from Portadown in Northern Ireland described eighteen lights moving across the sky, and that report appeared in the MoD’s released 2005 UFO list.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 The main doubts are just as important. The released record does not identify the witness, give a full statement, preserve a sketch, record weather or direction, mention radar, or show a follow-up conclusion. Ordinary explanations remain plausible, especially aircraft, lanterns, satellites or other night-sky misidentifications, but none can be proved from the line alone.
 
@@ -366,162 +366,162 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Eighteen Lights Cross Portadown?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Eighteen Lights Cross Portadown?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to sparse official sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to sparse official sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official cases with limited but notable evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official cases with limited but notable evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broader context for contemporary UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for contemporary UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Shows how to evaluate multiple-light sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to evaluate multiple-light sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="portadown-lights-why-did-eighteen-lights-cross-portadown-county-armagh-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,191 +727,191 @@ For County Armagh’s UFO history, Portadown’s eighteen lights are therefore n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: caa.co.uk  
    Title: CAAOutdoor laser lights and fireworks  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: irishcentral.com  
-   Link: <a href="https://www.irishcentral.com/news/fireball-sighting-above-northern-ireland-prompts-hunt-for-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.irishcentral.com/news/fireball-sighting-above-northern-ireland-prompts-hunt-for-meteor</a>  
+   Link:<a href="https://www.irishcentral.com/news/fireball-sighting-above-northern-ireland-prompts-hunt-for-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.irishcentral.com/news/fireball-sighting-above-northern-ireland-prompts-hunt-for-meteor</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: armaghbanbridgecraigavon.gov.uk  
-   Link: <a href="https://www.armaghbanbridgecraigavon.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.armaghbanbridgecraigavon.gov.uk/</a>  
+   Link:<a href="https://www.armaghbanbridgecraigavon.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.armaghbanbridgecraigavon.gov.uk/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: armaghbanbridgecraigavon.gov.uk  
    Title: District Electoral Areas  
-   Link: <a href="https://www.armaghbanbridgecraigavon.gov.uk/wp-content/uploads/2019/09/District-Electoral-Areas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armaghbanbridgecraigavon.gov.uk/wp-content/uploads/2019/09/District-Electoral-Areas.pdf</a>  
+   Link:<a href="https://www.armaghbanbridgecraigavon.gov.uk/wp-content/uploads/2019/09/District-Electoral-Areas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armaghbanbridgecraigavon.gov.uk/wp-content/uploads/2019/09/District-Electoral-Areas.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psni.police.uk  
    Title: ufo sightings  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metoffice.gov.uk  
    Title: how to see the perseid meteor shower 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: minutes.belfastcity.gov.uk  
    Title: Public reports pack 17th Nov 2015 17.00 Planning Committee  
-   Link: <a href="https://minutes.belfastcity.gov.uk/%28S%281w3lda453fhw0f55xyxindbs%29%29/documents/g320/Public%20reports%20pack%2017th-Nov-2015%2017.00%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://minutes.belfastcity.gov.uk/%28S%281w3lda453fhw0f55xyxindbs%29%29/documents/g320/Public%20reports%20pack%2017th-Nov-2015%2017.00%20Planning%20Committee.pdf?T=10</a>  
+   Link:<a href="https://minutes.belfastcity.gov.uk/%28S%281w3lda453fhw0f55xyxindbs%29%29/documents/g320/Public%20reports%20pack%2017th-Nov-2015%2017.00%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://minutes.belfastcity.gov.uk/%28S%281w3lda453fhw0f55xyxindbs%29%29/documents/g320/Public%20reports%20pack%2017th-Nov-2015%2017.00%20Planning%20Committee.pdf?T=10</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: infrastructure-ni.gov.uk  
-   Link: <a href="https://www.infrastructure-ni.gov.uk/news/armagh-banbridge-and-craigavon-borough-council-receives-update-road-infrastructure-projects-202526" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure-ni.gov.uk/news/armagh-banbridge-and-craigavon-borough-council-receives-update-road-infrastructure-projects-202526</a>  
+   Link:<a href="https://www.infrastructure-ni.gov.uk/news/armagh-banbridge-and-craigavon-borough-council-receives-update-road-infrastructure-projects-202526" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure-ni.gov.uk/news/armagh-banbridge-and-craigavon-borough-council-receives-update-road-infrastructure-projects-202526</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Portadown</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Portadown</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
    Title: unty Armagh  
-   Link: <a href="https://wikishire.co.uk/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Armagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Armagh</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: author-portal.tradingstandards.uk  
    Title: Author Portal Industry Code of Practice: Sky Lanterns  
-   Link: <a href="https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf</a>  
+   Link:<a href="https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portadown</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portadown</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
    Title: Category:Towns and villages in County Armagh  
-   Link: <a href="https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_County_Armagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_County_Armagh</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
    Title: The Birches, County Armagh  
-   Link: <a href="https://wikishire.co.uk/wiki/The_Birches%2C_County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/The_Birches%2C_County_Armagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/The_Birches%2C_County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/The_Birches%2C_County_Armagh</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Portadown</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Portadown</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/irl/ARM/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/irl/ARM/Portadown</a>  
+   Link:<a href="https://www.genuki.org.uk/big/irl/ARM/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/irl/ARM/Portadown</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: eire.fandom.com  
-   Link: <a href="https://eire.fandom.com/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://eire.fandom.com/wiki/Portadown</a>  
+   Link:<a href="https://eire.fandom.com/wiki/Portadown" target="_blank" rel="noopener noreferrer nofollow">https://eire.fandom.com/wiki/Portadown</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files David Clarke UFO file release May 2008 Part 1 (audio with slides) The National Archives UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files David Clarke UFO file release May 2008 Part 1 (audio with slides) The National Archives UK...</p></details>
    Published: August 2011  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rtenews/posts/a-fireball-seen-shooting-through-the-skies-above-parts-of-northern-ireland-and-s/6135857786443172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-fireball-seen-shooting-through-the-skies-above-parts-of-northern-ireland-and-s/6135857786443172/</a>  
+   Link:<a href="https://www.facebook.com/rtenews/posts/a-fireball-seen-shooting-through-the-skies-above-parts-of-northern-ireland-and-s/6135857786443172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-fireball-seen-shooting-through-the-skies-above-parts-of-northern-ireland-and-s/6135857786443172/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: eanifunding.org.uk  
-   Link: <a href="https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Armagh-Banbridge-and-Craigavon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Armagh-Banbridge-and-Craigavon.pdf</a>  
+   Link:<a href="https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Armagh-Banbridge-and-Craigavon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Armagh-Banbridge-and-Craigavon.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: genealogieonline.nl  
-   Link: <a href="https://www.genealogieonline.nl/en/over-de-plaats/2640085/portadown" target="_blank" rel="noopener noreferrer nofollow">https://www.genealogieonline.nl/en/over-de-plaats/2640085/portadown</a>  
+   Link:<a href="https://www.genealogieonline.nl/en/over-de-plaats/2640085/portadown" target="_blank" rel="noopener noreferrer nofollow">https://www.genealogieonline.nl/en/over-de-plaats/2640085/portadown</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/armaghbanbridgecraigavon/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/armaghbanbridgecraigavon/</a>  
+   Link:<a href="https://www.facebook.com/armaghbanbridgecraigavon/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/armaghbanbridgecraigavon/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewZealandBrand/posts/bright-lights-move-across-the-sky-uap-or-strange-satellite-or-drone-1-bright-lig/1107355098058588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewZealandBrand/posts/bright-lights-move-across-the-sky-uap-or-strange-satellite-or-drone-1-bright-lig/1107355098058588/</a>  
+   Link:<a href="https://www.facebook.com/NewZealandBrand/posts/bright-lights-move-across-the-sky-uap-or-strange-satellite-or-drone-1-bright-lig/1107355098058588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewZealandBrand/posts/bright-lights-move-across-the-sky-uap-or-strange-satellite-or-drone-1-bright-lig/1107355098058588/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Craigavon-district-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Craigavon-district-Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Craigavon-district-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Craigavon-district-Northern-Ireland</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: manchesterhive.com  
-   Link: <a href="https://www.manchesterhive.com/display/9781526128874/9781526128874.00007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.manchesterhive.com/display/9781526128874/9781526128874.00007.pdf</a>  
+   Link:<a href="https://www.manchesterhive.com/display/9781526128874/9781526128874.00007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.manchesterhive.com/display/9781526128874/9781526128874.00007.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nature.scot  
-   Link: <a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
+   Link:<a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/</a>  
+   Link:<a href="https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/</a>  

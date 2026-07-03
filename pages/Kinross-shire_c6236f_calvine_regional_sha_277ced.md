@@ -254,7 +254,7 @@ image: /assets/images/Kinross-shire_c6236f_calvine_regional_sha_277ced-overview-
 
 ## Introduction
 
-The Calvine photograph matters to [Kinross-shire]({{ 'what-really-happened-in-kinross-shire/' | relative_url }}) UFO history mainly because it is nearby, famous and easily misfiled under the modern “Perth and Kinross” label. It should not, however, be treated as a Kinross-shire case. The reported sighting took place on 4 August 1990 near Calvine, above the hamlet in Highland Perthshire, well north of historic Kinross-shire’s Loch Leven-centred area. That boundary point is not pedantry: it changes how the case should be used on a county-by-county UFO map. Calvine can explain why people in and around Kinross-shire may talk about this part of Scotland as UFO-relevant, but it cannot supply Kinross-shire with a landmark incident of its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span><span class="citation-popover-snippet">It was long a poor farming region until the 19th century, when modern farming methods improved...</span></span></span>
+The Calvine photograph matters to [Kinross-shire]({{ 'what-really-happened-in-kinross-shire/' | relative_url }}) UFO history mainly because it is nearby, famous and easily misfiled under the modern “Perth and Kinross” label. It should not, however, be treated as a Kinross-shire case. The reported sighting took place on 4 August 1990 near Calvine, above the hamlet in Highland Perthshire, well north of historic Kinross-shire’s Loch Leven-centred area. That boundary point is not pedantry: it changes how the case should be used on a county-by-county UFO map. Calvine can explain why people in and around Kinross-shire may talk about this part of Scotland as UFO-relevant, but it cannot supply Kinross-shire with a landmark incident of its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span><span class="citation-popover-snippet">It was long a poor farming region until the 19th century, when modern farming methods improved...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f_calvine_regional_sha_277ced-overview.webp" | relative_url }}" alt="Overview image for Calvine" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,21 +262,21 @@ Its real value for a Kinross-shire page is comparative. Calvine shows how one st
 
 ## What the Calvine case involved
 
-The core Calvine story is simple, but the evidential trail is unusually tangled. Two young men reportedly saw a large diamond-shaped object while walking on moorland above Calvine on the evening of 4 August 1990. They were said to have taken six photographs and passed them to the Glasgow-based Daily Record. The material then reached RAF press officer Craig Lindsay and the Ministry of Defence, but the newspaper did not publish the story at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-snippet">Centre For Contemporary LegendCALVINECraig Lindsay and the Calvine UFO. Dr David Clarke has provided a range of information regarding the...</span></span></span>
+The core Calvine story is simple, but the evidential trail is unusually tangled. Two young men reportedly saw a large diamond-shaped object while walking on moorland above Calvine on the evening of 4 August 1990. They were said to have taken six photographs and passed them to the Glasgow-based Daily Record. The material then reached RAF press officer Craig Lindsay and the Ministry of Defence, but the newspaper did not publish the story at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-snippet">Centre For Contemporary LegendCALVINECraig Lindsay and the Calvine UFO. Dr David Clarke has provided a range of information regarding the...</span></span></span>
 
-The case became famous not because it was promptly public, but because it remained half-known for decades. MoD documents released through The National Archives helped confirm that officials had handled material connected with a diamond-shaped object and an aircraft identified as a Harrier, while later research by David Clarke traced the surviving print held by Craig Lindsay. In 2022 Lindsay donated that print and associated material to Sheffield Hallam University Special Collections, giving researchers a physical object to analyse rather than just a rumour about a missing photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The case became famous not because it was promptly public, but because it remained half-known for decades. MoD documents released through The National Archives helped confirm that officials had handled material connected with a diamond-shaped object and an aircraft identified as a Harrier, while later research by David Clarke traced the surviving print held by Craig Lindsay. In 2022 Lindsay donated that print and associated material to Sheffield Hallam University Special Collections, giving researchers a physical object to analyse rather than just a rumour about a missing photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Andrew Robinson’s photographic work is important because it narrowed some claims while leaving the central mystery unresolved. His analysis concluded that the Lindsay print is a genuine copy of the original Calvine photograph examined by the MoD in 1990, and that the visible image shows no evidence of negative or print-based manipulation. That does not prove the object was an extraordinary craft. It means that, as far as the examined print can show, the image is more likely to be a real photograph of a scene in front of the camera than a later composite or darkroom fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span><span class="citation-popover-snippet">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span></span></span>
+Andrew Robinson’s photographic work is important because it narrowed some claims while leaving the central mystery unresolved. His analysis concluded that the Lindsay print is a genuine copy of the original Calvine photograph examined by the MoD in 1990, and that the visible image shows no evidence of negative or print-based manipulation. That does not prove the object was an extraordinary craft. It means that, as far as the examined print can show, the image is more likely to be a real photograph of a scene in front of the camera than a later composite or darkroom fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span><span class="citation-popover-snippet">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span></span></span>
 
-That distinction is crucial for a public-facing UFO history. A photograph can be authentic as a photograph while still being staged, misread, hoaxed in front of the camera, or unresolved for more ordinary reasons. Calvine remains a strong case in the sense that it has a surviving image, an MoD-linked paper trail and serious later analysis. It remains weak in the sense that the original witnesses have not given a full public account, the exact location has not been conclusively matched, and key original materials and analysis are still missing or uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFOs have earned a new name</span><span class="citation-popover-snippet">The Guardian UFOs have earned a new name</span></span></span>
+That distinction is crucial for a public-facing UFO history. A photograph can be authentic as a photograph while still being staged, misread, hoaxed in front of the camera, or unresolved for more ordinary reasons. Calvine remains a strong case in the sense that it has a surviving image, an MoD-linked paper trail and serious later analysis. It remains weak in the sense that the original witnesses have not given a full public account, the exact location has not been conclusively matched, and key original materials and analysis are still missing or uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFOs have earned a new name</span><span class="citation-popover-snippet">The Guardian UFOs have earned a new name</span></span></span>
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f_calvine_regional_sha_277ced-Illustration-1-dark.svg" | relative_url }}" alt="Calvine illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f_calvine_regional_sha_277ced-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f_calvine_regional_sha_277ced-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why it is outside Kinross-shire
 
-The main boundary problem is caused by modern administrative language. Calvine is now in the Perth and Kinross council area, and that phrase can make it sound as though the case naturally belongs in any “Kinross” discussion. Historic county geography says otherwise. Calvine is recorded by Historic Environment Scotland’s Trove database as being in the former county of Perthshire, within the Blair Atholl parish area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trove.scot/place/131596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.scot">[Trove Scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.scot</span><span class="citation-popover-snippet">Calvine &#124; PlaceFind out about Calvine on trove.scot, a website from Historic Environment Scotland that holds details of more than 340000...</span></span></span>
+The main boundary problem is caused by modern administrative language. Calvine is now in the Perth and Kinross council area, and that phrase can make it sound as though the case naturally belongs in any “Kinross” discussion. Historic county geography says otherwise. Calvine is recorded by Historic Environment Scotland’s Trove database as being in the former county of Perthshire, within the Blair Atholl parish area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trove.scot/place/131596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.scot">[Trove Scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.scot</span><span class="citation-popover-snippet">Calvine &#124; PlaceFind out about Calvine on trove.scot, a website from Historic Environment Scotland that holds details of more than 340000...</span></span></span>
 
-Kinross-shire, by contrast, is the small historic county around Loch Leven, Kinross, [Milnathort]({{ 'milnathort/' | relative_url }}), Cleish, Portmoak and nearby parishes. Encyclopaedia Britannica describes Kinross-shire as a central Scottish historic county lying wholly within the modern Perth and Kinross council area and centred on the Loch Leven basin and surrounding hills. That means “inside Perth and Kinross” is not the same as “inside historic Kinross-shire”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span><span class="citation-popover-snippet">It was long a poor farming region until the 19th century, when modern farming methods improved...</span></span></span>
+Kinross-shire, by contrast, is the small historic county around Loch Leven, Kinross, [Milnathort]({{ 'milnathort/' | relative_url }}), Cleish, Portmoak and nearby parishes. Encyclopaedia Britannica describes Kinross-shire as a central Scottish historic county lying wholly within the modern Perth and Kinross council area and centred on the Loch Leven basin and surrounding hills. That means “inside Perth and Kinross” is not the same as “inside historic Kinross-shire”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kinross-shire &#124; Highland, Loch Leven, Stirling</span><span class="citation-popover-snippet">It was long a poor farming region until the 19th century, when modern farming methods improved...</span></span></span>
 
 For this project’s mapped county framework, that difference is decisive. A modern council area is useful for newspapers, archives, tourism pages and present-day public services. A historic county map is useful for consistent county-by-county comparison. Calvine can appear in regional discussion because Perthshire and Kinross-shire now share administrative and media space, but it should not be used to inflate the historic Kinross-shire record.
 
@@ -291,7 +291,7 @@ Calvine affects Kinross-shire by changing the expectations readers bring to near
 
 That influence works in three main ways.
 
-**First, Calvine raises the evidential bar.** Compared with ordinary sighting-list entries, Calvine has a named date, a claimed sequence of six photographs, a surviving print, RAF and MoD involvement, and later specialist analysis. The National Archives’ wider UFO guidance notes that MoD records include many reports of lights, shapes and flashes, many of which have ordinary [explanations]({{ 'explanations-752596/' | relative_url }}), while a smaller number are more unusual. Calvine sits in that unusual category because it generated photographic and official interest, not because it has been solved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+**First, Calvine raises the evidential bar.** Compared with ordinary sighting-list entries, Calvine has a named date, a claimed sequence of six photographs, a surviving print, RAF and MoD involvement, and later specialist analysis. The National Archives’ wider UFO guidance notes that MoD records include many reports of lights, shapes and flashes, many of which have ordinary [explanations]({{ 'explanations-752596/' | relative_url }}), while a smaller number are more unusual. Calvine sits in that unusual category because it generated photographic and official interest, not because it has been solved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 **Second, Calvine makes media geography slippery.** Regional reporting naturally groups places by current administrative areas, circulation zones and recognisable labels. Calvine can therefore be presented as a “Perth and Kinross” mystery, which is true in a modern council sense but misleading if the reader is using historic counties. Kinross-shire’s own page needs to acknowledge that regional pull without letting it redraw the county.
 
@@ -303,9 +303,9 @@ That influence works in three main ways.
 
 Calvine does not prove that Kinross-shire was a UFO hotspot. It does not establish a flap across Loch Leven, Milnathort or Kinross. It does not show that the MoD treated Kinross-shire itself as a special area. It also does not supply direct evidence of repeated military encounters over the historic county.
 
-The MoD’s broader approach helps keep this in proportion. The department’s UFO desk closed in 2009 after officials concluded that the work served no defence purpose, despite a large volume of public reports that year. The final released files show how many UFO reports were logged as correspondence rather than treated as deep investigations. That background does not dismiss Calvine, but it does caution against turning every regional sighting into a major defence case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD’s broader approach helps keep this in proportion. The department’s UFO desk closed in 2009 after officials concluded that the work served no defence purpose, despite a large volume of public reports that year. The final released files show how many UFO reports were logged as correspondence rather than treated as deep investigations. That background does not dismiss Calvine, but it does caution against turning every regional sighting into a major defence case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The Calvine file also contains its own unresolved doubts. The surviving print is not the same as having the original negatives, the full original witness testimony, the complete MoD image analysis and identified witnesses willing to be questioned publicly. Later explanations have ranged from secret aircraft to a suspended model, a staged object, a reflection, or a misread landscape feature. Some of those theories are speculative or contested, but their existence shows why the case should be presented as unresolved rather than confirmed evidence of an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the calvine photographs mod response to mps questions</span><span class="citation-popover-snippet">the calvine photographs mod response to mps questions</span></span></span>
+The Calvine file also contains its own unresolved doubts. The surviving print is not the same as having the original negatives, the full original witness testimony, the complete MoD image analysis and identified witnesses willing to be questioned publicly. Later explanations have ranged from secret aircraft to a suspended model, a staged object, a reflection, or a misread landscape feature. Some of those theories are speculative or contested, but their existence shows why the case should be presented as unresolved rather than confirmed evidence of an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the calvine photographs mod response to mps questions</span><span class="citation-popover-snippet">the calvine photographs mod response to mps questions</span></span></span>
 
 For Kinross-shire, the safest conclusion is therefore limited but useful: Calvine is part of the surrounding interpretive landscape. It helps explain why readers may connect central Scotland, Highland Perthshire, military aircraft and UFO photography in their minds. It does not change the evidential status of sightings actually inside historic Kinross-shire.
 
@@ -333,194 +333,194 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Calvine Shadows Kinross shire UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Calvine Shadows Kinross shire UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Case Files of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2UJEYgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Case Files of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Case Files of Scotland">UFO Case Files of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Robinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Case Files of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2UJEYgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Case Files of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Case Files of Scotland">UFO Case Files of Scotland</a>
+</h4>
+<p class="fr-book-author">By Malcolm Robinson</p>
         
-        <p class="fr-book-desc">Directly connects the Calvine discussion to Scotland-wide UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects the Calvine discussion to Scotland-wide UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official records and evidence issues similar to those discussed around Calvine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official records and evidence issues similar to those discussed around Calvine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides balanced coverage of major UFO cases and helps place Calvine in wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced coverage of major UFO cases and helps place Calvine in wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for understanding how landmark cases such as Calvine are assessed and compared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how landmark cases such as Calvine are assessed and compared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Case Files of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Case Files of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calvine-why-calvine-shadows-kinross-shire-ufo-history-kinross-shire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-calvine-shadows-kinross-shire-ufo-history-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,199 +726,199 @@ That approach keeps the page honest. Calvine remains one of Scotland’s most di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Kinross-shire | Highland, Loch Leven, Stirling  
-   Link: <a href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross-shire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It was long a poor farming region until the 19th century, when modern farming methods improved...</p></details>
+   Link:<a href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross-shire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was long a poor farming region until the 19th century, when modern farming methods improved...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trove.scot  
-   Link: <a href="https://www.trove.scot/place/131596" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/131596</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine | PlaceFind out about Calvine on trove.scot, a website from Historic Environment Scotland that holds details of more than 340000...</p></details>
+   Link:<a href="https://www.trove.scot/place/131596" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/131596</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine | PlaceFind out about Calvine on trove.scot, a website from Historic Environment Scotland that holds details of more than 340000...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shura.shu.ac.uk  
    Title: andrew robinson calvine analysis paper  
-   Link: <a href="https://shura.shu.ac.uk/37006/1/andrew_robinson_calvine_analysis_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/37006/1/andrew_robinson_calvine_analysis_paper.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/37006/1/andrew_robinson_calvine_analysis_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/37006/1/andrew_robinson_calvine_analysis_paper.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Kinross" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross</a>  
+   Link:<a href="https://www.britannica.com/place/Kinross" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre For Contemporary LegendCALVINECraig Lindsay and the Calvine UFO. Dr David Clarke has provided a range of information regarding the...</p></details>
+   Link:<a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre For Contemporary LegendCALVINECraig Lindsay and the Calvine UFO. Dr David Clarke has provided a range of information regarding the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian What really happened in Calvine?  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind the best UFO picture ever seenIn August 1990, two hikers near Calvine, Scotland, allegedly witnessed a diamond-shaped...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind the best UFO picture ever seenIn August 1990, two hikers near Calvine, Scotland, allegedly witnessed a diamond-shaped...</p></details>
    Published: August 1990  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian UFOs have earned a new name  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/ufos-have-earned-a-new-name-and-the-right-to-serious-study</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drdavidclarke.co.uk  
    Title: the calvine photographs mod response to mps questions  
-   Link: <a href="https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: drdavidclarke.co.uk  
    Title: 35 Years of Mystery  
-   Link: <a href="https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: drdavidclarke.co.uk  
    Title: The Calvine UFO photograph – revealed  
-   Link: <a href="https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/32102/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/32102/</a>  
+   Link:<a href="https://shura.shu.ac.uk/32102/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/32102/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/37006/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/37006/</a>  
+   Link:<a href="https://shura.shu.ac.uk/37006/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/37006/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/34877/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/</a>  
+   Link:<a href="https://shura.shu.ac.uk/34877/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: shu.ac.uk  
    Title: ufo archives  
-   Link: <a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
+   Link:<a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
    Title: cas 318549 h8g1b0  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/436524201369100/posts/1218227796532066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436524201369100/posts/1218227796532066/</a>  
+   Link:<a href="https://www.facebook.com/groups/436524201369100/posts/1218227796532066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436524201369100/posts/1218227796532066/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/tag/sheffield-hallam-university/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/tag/sheffield-hallam-university/</a>  
+   Link:<a href="https://contemporarylegend.co.uk/tag/sheffield-hallam-university/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/tag/sheffield-hallam-university/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
+   Link:<a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mo4A_gRr90w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mo4A_gRr90w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mo4A_gRr90w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mo4A_gRr90w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History  
-   Link: <a href="https://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8JV0xnHHfHo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8JV0xnHHfHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Insider Reveals Most INSANE UFO Photo Ever Captured...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Insider Reveals Most INSANE UFO Photo Ever Captured...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Photo: The Clearest Proof of Aliens or Just Another Hoax? | Wion Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Photo: The Clearest Proof of Aliens or Just Another Hoax? | Wion Podcast...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/a-newly-declassified-set-of-ufo-related-fbi-and-pentagon-documents-has-reignited/1408215801352603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/a-newly-declassified-set-of-ufo-related-fbi-and-pentagon-documents-has-reignited/1408215801352603/</a>  
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/a-newly-declassified-set-of-ufo-related-fbi-and-pentagon-documents-has-reignited/1408215801352603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/a-newly-declassified-set-of-ufo-related-fbi-and-pentagon-documents-has-reignited/1408215801352603/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/calvine-scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/calvine-scotland.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/calvine-scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/calvine-scotland.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: amazingresults.com  
-   Link: <a href="https://www.amazingresults.com/property/calvine-pitlochry/" target="_blank" rel="noopener noreferrer nofollow">https://www.amazingresults.com/property/calvine-pitlochry/</a>  
+   Link:<a href="https://www.amazingresults.com/property/calvine-pitlochry/" target="_blank" rel="noopener noreferrer nofollow">https://www.amazingresults.com/property/calvine-pitlochry/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Tourism-g5011987-Calvine_Perth_and_Kinross_Scotland-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g5011987-Calvine_Perth_and_Kinross_Scotland-Vacations.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/Tourism-g5011987-Calvine_Perth_and_Kinross_Scotland-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g5011987-Calvine_Perth_and_Kinross_Scotland-Vacations.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mynbc15/posts/dept-of-defense-releases-never-before-seen-ufo-files-photos/1439915004839454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mynbc15/posts/dept-of-defense-releases-never-before-seen-ufo-files-photos/1439915004839454/</a>  
+   Link:<a href="https://www.facebook.com/mynbc15/posts/dept-of-defense-releases-never-before-seen-ufo-files-photos/1439915004839454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mynbc15/posts/dept-of-defense-releases-never-before-seen-ufo-files-photos/1439915004839454/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/</a>  

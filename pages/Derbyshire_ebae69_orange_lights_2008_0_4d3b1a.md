@@ -248,7 +248,7 @@ image: /assets/images/Derbyshire_ebae69_orange_lights_2008_0_4d3b1a-overview-soc
 
 ## Introduction
 
-Many of [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }})’s late-2008 and 2009 “orange light” UFO reports are best understood as part of a wider British sky-lantern wave rather than as a separate county mystery. The Ministry of Defence’s public UFO logs show Derbyshire entries describing orange or yellow balls, orbs, fireballs and slow formations over places including Buxton, Chesterfield, Derby, High Peak, New Mills, Hope Valley, Swadlincote and Dronfield. Some reports remain too brief to identify with confidence, but the repeated pattern — silent orange lights, groups, straight-line drift, fading, and “fireball” descriptions — closely matches the explanations that MoD-linked commentators and The National Archives later associated with Chinese lanterns. GOV.UK Assets+3GOV.UK+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+Many of [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }})’s late-2008 and 2009 “orange light” UFO reports are best understood as part of a wider British sky-lantern wave rather than as a separate county mystery. The Ministry of Defence’s public UFO logs show Derbyshire entries describing orange or yellow balls, orbs, fireballs and slow formations over places including Buxton, Chesterfield, Derby, High Peak, New Mills, Hope Valley, Swadlincote and Dronfield. Some reports remain too brief to identify with confidence, but the repeated pattern — silent orange lights, groups, straight-line drift, fading, and “fireball” descriptions — closely matches the explanations that MoD-linked commentators and The National Archives later associated with Chinese lanterns. GOV.UK Assets+3GOV.UK+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_orange_lights_2008_0_4d3b1a-overview.webp" | relative_url }}" alt="Overview image for Orange Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,11 +256,11 @@ This matters because it changes how Derbyshire’s UFO history should be read. T
 
 ## The 2008-09 national surge
 
-The orange-light pattern in Derbyshire sits inside a sharp national rise in UFO reporting. GOV.UK’s released UFO report collection covers 1997 to 2009 and gives dates, times, locations and short descriptions, rather than full investigations for each case. The National Archives later described the final tranche of MoD UFO files as covering the last two years of the UFO desk, from late 2007 until November 2009, when the dedicated hotline and email address were closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The orange-light pattern in Derbyshire sits inside a sharp national rise in UFO reporting. GOV.UK’s released UFO report collection covers 1997 to 2009 and gives dates, times, locations and short descriptions, rather than full investigations for each case. The National Archives later described the final tranche of MoD UFO files as covering the last two years of the UFO desk, from late 2007 until November 2009, when the dedicated hotline and email address were closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The scale of the surge is important. The National Archives press release says the UFO desk received over 600 sightings and reports in 2009, about three times the previous year’s total. It also notes that officials considered the desk to serve “no defence purpose” and that ministers were told no MoD UFO report in more than 50 years had revealed evidence of an extra-terrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The scale of the surge is important. The National Archives press release says the UFO desk received over 600 sightings and reports in 2009, about three times the previous year’s total. It also notes that officials considered the desk to serve “no defence purpose” and that ministers were told no MoD UFO report in more than 50 years had revealed evidence of an extra-terrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-The lantern explanation was not an afterthought invented for Derbyshire alone. The same National Archives material says briefings considered the craze for releasing Chinese lanterns at weddings and public holidays as one reason for the increase. David Clarke, who worked on the file releases and wrote on the MoD UFO archive, described many accounts as “formations of orange lights moving slowly across the sky” that looked like Chinese lanterns, even though witnesses did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The lantern explanation was not an afterthought invented for Derbyshire alone. The same National Archives material says briefings considered the craze for releasing Chinese lanterns at weddings and public holidays as one reason for the increase. David Clarke, who worked on the file releases and wrote on the MoD UFO archive, described many accounts as “formations of orange lights moving slowly across the sky” that looked like Chinese lanterns, even though witnesses did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 Derbyshire’s late reports therefore belong to a national reporting environment. People were seeing more silent orange lights; newspapers and MoD releases were encouraging public attention; and the official recording system was still open, even though most entries were not being investigated in depth.
 
@@ -270,13 +270,13 @@ Derbyshire’s late reports therefore belong to a national reporting environment
 
 A sky lantern is a small paper hot-air balloon lifted by a flame or fuel cell. From the ground at night, especially at a distance, it can appear as a glowing orange, amber, red or yellow ball. It may rise, drift, seem to hover, dim, flare, fade, split from a group, or move in a loose line. Because it has no engine, it is often silent. That combination made it a powerful UFO generator in 2008-09.
 
-The MoD’s own logs contain the Derbyshire pattern clearly. On 13 October 2008, Buxton produced a report of “seven orange orbs” in a formation of three and two pairs, moving generally in a straight line but with some “dancing” in the sky. In February 2009, Swadlincote had “15 fireballs in the sky”. On 11 April 2009, Chesterfield had several orange lights, three close together and others in a horizontal line. Two days later, Derby had two orangey lights moving towards each other, joined by a third ball of light, with later hovering and disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The MoD’s own logs contain the Derbyshire pattern clearly. On 13 October 2008, Buxton produced a report of “seven orange orbs” in a formation of three and two pairs, moving generally in a straight line but with some “dancing” in the sky. In February 2009, Swadlincote had “15 fireballs in the sky”. On 11 April 2009, Chesterfield had several orange lights, three close together and others in a horizontal line. Two days later, Derby had two orangey lights moving towards each other, joined by a third ball of light, with later hovering and disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Several later Derbyshire entries fit the same broad profile. On 26 June 2009, Chesterfield reported twelve bright lights moving slowly. On 27 June, Hope Valley reported red objects moving slowly, not high and silent, possibly going over Bakewell. On 1 August, New Mills in High Peak reported nine bright orange circular shapes gliding across the sky for a couple of minutes. On 26 September, High Peak reported eight orange lights over a house. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Several later Derbyshire entries fit the same broad profile. On 26 June 2009, Chesterfield reported twelve bright lights moving slowly. On 27 June, Hope Valley reported red objects moving slowly, not high and silent, possibly going over Bakewell. On 1 August, New Mills in High Peak reported nine bright orange circular shapes gliding across the sky for a couple of minutes. On 26 September, High Peak reported eight orange lights over a house.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 These entries do not prove lanterns in each individual case. The logs rarely include wind direction, exact viewing angle, duration, weather, photographs, launch location, or follow-up checks with nearby events. But taken as a family of reports, the fit is strong. They cluster around the same features The National Archives highlighted nationally: orange lights, formations, summer and autumn evenings, short sightings, slow movement, silence and fading.
 
-The aviation context also helps explain why lanterns could look unfamiliar. The Civil Aviation Authority now explicitly includes sky lantern releases in its displays and events guidance, because such releases can distract or endanger aircraft and pilots or air traffic control may need advance warning for major events. That does not make every orange light a lantern, but it underlines that lanterns are real aerial objects capable of entering ordinary airspace and causing confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The aviation context also helps explain why lanterns could look unfamiliar. The Civil Aviation Authority now explicitly includes sky lantern releases in its displays and events guidance, because such releases can distract or endanger aircraft and pilots or air traffic control may need advance warning for major events. That does not make every orange light a lantern, but it underlines that lanterns are real aerial objects capable of entering ordinary airspace and causing confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
@@ -287,13 +287,13 @@ The public MoD spreadsheets are useful, but they are blunt instruments. They wer
 
 In Derbyshire, the 2008-09 orange-light family includes several useful types:
 
-**Classic lantern-like formations.** Buxton’s seven orange orbs in October 2008, Chesterfield’s several orange lights in April 2009, Chesterfield’s twelve slow bright lights in June 2009, New Mills’ nine orange circular shapes in August 2009, and High Peak’s eight orange lights in September 2009 all fall into this category. The strongest common feature is multiple warm-coloured lights moving together or appearing in loose formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+**Classic lantern-like formations.** Buxton’s seven orange orbs in October 2008, Chesterfield’s several orange lights in April 2009, Chesterfield’s twelve slow bright lights in June 2009, New Mills’ nine orange circular shapes in August 2009, and High Peak’s eight orange lights in September 2009 all fall into this category. The strongest common feature is multiple warm-coloured lights moving together or appearing in loose formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-**Fireball language.** Swadlincote’s February 2009 report of “15 fireballs” is brief, but it uses a description often associated with lanterns, meteors, fireworks or flares depending on duration and movement. The phrase “not aircraft” records the witness’s judgement, not an independent identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Fireball language.** Swadlincote’s February 2009 report of “15 fireballs” is brief, but it uses a description often associated with lanterns, meteors, fireworks or flares depending on duration and movement. The phrase “not aircraft” records the witness’s judgement, not an independent identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Low-detail but intriguing entries.** Some reports are too sparse to do much with: “a sighting” at Chesterfield on 2 June 2009, “saw a UFO” in Derby on 24 August, and “no description provided” for a journalist’s Derby report on 28 October. These may be locally interesting because they show reporting activity, but they add little evidence for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Low-detail but intriguing entries.** Some reports are too sparse to do much with: “a sighting” at Chesterfield on 2 June 2009, “saw a UFO” in Derby on 24 August, and “no description provided” for a journalist’s Derby report on 28 October. These may be locally interesting because they show reporting activity, but they add little evidence for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Reports with awkward details.** Some entries resist a simple lantern label. On 7 May 2009, High Peak reported three bright small lights close together, flashing rapidly, looking as if they were on fire but “clearly were not”, travelling in a straight line at an estimated 100-150 mph and returning eight minutes later. Dronfield on 27 August described a round shape lightening and darkening with a dark shape behind it and no engine noise. Chesterfield on 27 October reported bright orange spheres getting smaller as they receded, while Barlborough later that night described orbs with trails moving in a circular repeating sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Reports with awkward details.** Some entries resist a simple lantern label. On 7 May 2009, High Peak reported three bright small lights close together, flashing rapidly, looking as if they were on fire but “clearly were not”, travelling in a straight line at an estimated 100-150 mph and returning eight minutes later. Dronfield on 27 August described a round shape lightening and darkening with a dark shape behind it and no engine noise. Chesterfield on 27 October reported bright orange spheres getting smaller as they receded, while Barlborough later that night described orbs with trails moving in a circular repeating sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Those awkward details do not make the cases strong proof of something exotic. Estimated speed and height are notoriously hard to judge at night without knowing an object’s size or distance. “Flashing” may be atmospheric twinkling, intermittent flame, partial cloud, camera effects or aircraft lighting. “Circular movement” could be genuine, misperceived, or a sign that another explanation such as aircraft, searchlights, fireworks, reflections or multiple separate objects should be considered. The honest conclusion is narrower: some Derbyshire entries fit lanterns very well; others remain weakly sourced and not safely identifiable.
 
@@ -303,7 +303,7 @@ Those awkward details do not make the cases strong proof of something exotic. Es
 
 A recurring feature of the 2008-09 material is that witnesses often stressed what the lights were not: not aircraft, not helicopters, not stars, not satellites. That is understandable. A silent glowing object without red and green navigation lights does not behave like the aircraft many people are used to seeing. A lantern drifting on the wind can also seem to move “under control”, especially if several lanterns rise and fade at different moments.
 
-The National Archives highlights guide notes that many people who saw floating lights for the first time believed they were UFOs, and that formations of orange lights were filmed on mobile phones by witnesses who were amazed, stunned or frightened. It also records that some sightings were made during everyday outdoor moments: walking dogs, smoking, family barbecues or sitting in hot tubs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The National Archives highlights guide notes that many people who saw floating lights for the first time believed they were UFOs, and that formations of orange lights were filmed on mobile phones by witnesses who were amazed, stunned or frightened. It also records that some sightings were made during everyday outdoor moments: walking dogs, smoking, family barbecues or sitting in hot tubs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 That is a good match for Derbyshire’s geography. The county has towns, villages and open horizons within short distances of each other. In the Peak District and High Peak, dark ridgelines and uneven ground can make distance and altitude hard to estimate. In the Derby, Chesterfield and Swadlincote areas, lights may be seen against urban glow, nearby roads, aircraft routes, fireworks, events or drifting smoke. A lantern launched from a wedding, party, pub garden or private field can be seen later by someone who has no idea where it came from.
 
@@ -316,11 +316,11 @@ The key point is not that witnesses were foolish. It is that the visual conditio
 
 A balanced Derbyshire account should not flatten every report into “just lanterns”. Some 2008-09 entries either lack enough detail or include features that deserve caution.
 
-The 30 January 2008 Darley Moor report described two very bright beams of light hovering above trees and then moving towards the Staffordshire border. That is not a classic orange-lantern description. It could involve lights, reflections, aircraft, ground-based illumination or something else, but the released line is too short to decide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 30 January 2008 Darley Moor report described two very bright beams of light hovering above trees and then moving towards the Staffordshire border. That is not a classic orange-lantern description. It could involve lights, reflections, aircraft, ground-based illumination or something else, but the released line is too short to decide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The 23 February 2008 Derby report is also unlike the simple lantern cluster. It described a light or object hovering from left to right, still present seven hours later, then moving quickly and zig-zagging. A seven-hour duration is much more suggestive of an astronomical object, distant fixed light, misperceived aircraft pattern or repeated observations than a single sky lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 23 February 2008 Derby report is also unlike the simple lantern cluster. It described a light or object hovering from left to right, still present seven hours later, then moving quickly and zig-zagging. A seven-hour duration is much more suggestive of an astronomical object, distant fixed light, misperceived aircraft pattern or repeated observations than a single sky lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Some 2009 Derbyshire reports combine lantern-like colour with other claimed behaviour. The 13 April Derby lights were described as moving towards each other, becoming stationary and disappearing, followed by another hovering light. The 7 May High Peak report included rapid flashing and a claimed return after eight minutes. The 28 October Alvaston report described two glowing crosses, 50 metres apart, silent, with more appearing five or six minutes later, and the witness interpreted them as an intelligent craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Some 2009 Derbyshire reports combine lantern-like colour with other claimed behaviour. The 13 April Derby lights were described as moving towards each other, becoming stationary and disappearing, followed by another hovering light. The 7 May High Peak report included rapid flashing and a claimed return after eight minutes. The 28 October Alvaston report described two glowing crosses, 50 metres apart, silent, with more appearing five or six minutes later, and the witness interpreted them as an intelligent craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 These cases show why “unidentified” should be used carefully. They are not strong enough to establish extraordinary craft, but they are also not individually solved from the public spreadsheet alone. The most reliable classification is “unresolved in the record, plausibly ordinary, evidence too thin for a firm conclusion”.
 
@@ -339,194 +339,194 @@ At the same time, the records remain worth preserving. They capture what people 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Derbyshire&#x27;s Orange Lights Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Derbyshire&#x27;s Orange Lights Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page examining reported UFO sightings and how evidence is assessed, making it useful for readers wanting broader context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page examining reported UFO sightings and how evidence is assessed, making it useful for readers wanting broader context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores sighting classifications and investigation methods relevant to evaluating orange-light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores sighting classifications and investigation methods relevant to evaluating orange-light reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides a broader framework for understanding unusual aerial reports and how cultural interpretations shape them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broader framework for understanding unusual aerial reports and how cultural interpretations shape them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Offers modern discussion of unexplained aerial phenomena, complementing historical British sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers modern discussion of unexplained aerial phenomena, complementing historical British sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="orange-lights-b4079e-were-derbyshire-s-orange-lights-really-ufos-derbyshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ At the same time, the records remain worth preserving. They capture what people 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ At the same time, the records remain worth preserving. They capture what people 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ At the same time, the records remain worth preserving. They capture what people 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ At the same time, the records remain worth preserving. They capture what people 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ At the same time, the records remain worth preserving. They capture what people 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,157 +732,157 @@ At the same time, the records remain worth preserving. They capture what people 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sky.com  
-   Link: <a href="https://www.sky.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/</a>  
+   Link:<a href="https://www.sky.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/uk" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/uk</a>  
+   Link:<a href="https://news.sky.com/uk" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/uk</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sky.com  
-   Link: <a href="https://www.sky.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/help</a>  
+   Link:<a href="https://www.sky.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/help</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sky.com  
-   Link: <a href="https://www.sky.com/tv" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/tv</a>  
+   Link:<a href="https://www.sky.com/tv" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/tv</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sky.com  
-   Link: <a href="https://www.sky.com/shop/mobile" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/shop/mobile</a>  
+   Link:<a href="https://www.sky.com/shop/mobile" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/shop/mobile</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/organisations/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/civil-aviation-authority</a>  
+   Link:<a href="https://www.gov.uk/government/organisations/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/civil-aviation-authority</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arun.gov.uk  
-   Link: <a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
+   Link:<a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: moderngov.southkesteven.gov.uk  
    Title: ENV729 report  
-   Link: <a href="https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf</a>  
+   Link:<a href="https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/</a>  
+   Link:<a href="https://www.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Civil Aviation Authority (United Kingdom)  
-   Link: <a href="https://en.wikipedia.org/wiki/Civil_Aviation_Authority_%28United_Kingdom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civil_Aviation_Authority_%28United_Kingdom%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Civil_Aviation_Authority_%28United_Kingdom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civil_Aviation_Authority_%28United_Kingdom%29</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uk.linkedin.com  
    Title: civil aviation authority  
-   Link: <a href="https://uk.linkedin.com/company/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/civil-aviation-authority</a>  
+   Link:<a href="https://uk.linkedin.com/company/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/civil-aviation-authority</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.senedd.wales  
    Title: sky lanterns  
-   Link: <a href="https://research.senedd.wales/research-articles/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://research.senedd.wales/research-articles/sky-lanterns/</a>  
+   Link:<a href="https://research.senedd.wales/research-articles/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://research.senedd.wales/research-articles/sky-lanterns/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/</a>  
+   Link:<a href="https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: astronomytrek.com  
-   Link: <a href="https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/</a>  
+   Link:<a href="https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caainternational.com  
-   Link: <a href="https://caainternational.com/" target="_blank" rel="noopener noreferrer nofollow">https://caainternational.com/</a>  
+   Link:<a href="https://caainternational.com/" target="_blank" rel="noopener noreferrer nofollow">https://caainternational.com/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/derbyshireandpeakdistrictwalks/posts/895497054349053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/derbyshireandpeakdistrictwalks/posts/895497054349053/</a>  
+   Link:<a href="https://www.facebook.com/groups/derbyshireandpeakdistrictwalks/posts/895497054349053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/derbyshireandpeakdistrictwalks/posts/895497054349053/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skygroup.sky  
-   Link: <a href="https://www.skygroup.sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.skygroup.sky/</a>  
+   Link:<a href="https://www.skygroup.sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.skygroup.sky/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hwfire.org.uk  
-   Link: <a href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/</a>  
+   Link:<a href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sky/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sky/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/sky/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sky/?locale=en_GB</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wmfs.net  
-   Link: <a href="https://www.wmfs.net/safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.wmfs.net/safety/sky-lanterns/</a>  
+   Link:<a href="https://www.wmfs.net/safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.wmfs.net/safety/sky-lanterns/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ho8vk6/sky_lanterns_whilst_not_an_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ho8vk6/sky_lanterns_whilst_not_an_explanation_for_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ho8vk6/sky_lanterns_whilst_not_an_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ho8vk6/sky_lanterns_whilst_not_an_explanation_for_the/</a>  

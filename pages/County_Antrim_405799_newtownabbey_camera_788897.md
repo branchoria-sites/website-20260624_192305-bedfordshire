@@ -254,17 +254,17 @@ image: /assets/images/County_Antrim_405799_newtownabbey_camera_788897-overview-s
 
 ## Introduction
 
-Newtownabbey’s camera-linked UFO reports are interesting precisely because they sound, at first, more solid than a simple “I saw a light” account. In 2021, police-recorded Northern Ireland reports included “strange images” on CCTV at a house in the Newtownabbey area. In 2024, another Newtownabbey caller said his wife had seen a UFO through a camera in May and that it had returned every night since, described as a bright light with holes underneath. The difficulty is that neither public account includes the original footage, camera details, exact direction, weather, exposure settings, or independent checks. That leaves the Newtownabbey material as a useful [County Antrim]({{ 'county-antrim/' | relative_url }}) evidence lesson rather than a strong proof case: cameras can preserve a mystery, but they do not automatically explain it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</span><span class="citation-popover-meta">Published: December 26, 2021</span></span></span>
+Newtownabbey’s camera-linked UFO reports are interesting precisely because they sound, at first, more solid than a simple “I saw a light” account. In 2021, police-recorded Northern Ireland reports included “strange images” on CCTV at a house in the Newtownabbey area. In 2024, another Newtownabbey caller said his wife had seen a UFO through a camera in May and that it had returned every night since, described as a bright light with holes underneath. The difficulty is that neither public account includes the original footage, camera details, exact direction, weather, exposure settings, or independent checks. That leaves the Newtownabbey material as a useful [County Antrim]({{ 'county-antrim/' | relative_url }}) evidence lesson rather than a strong proof case: cameras can preserve a mystery, but they do not automatically explain it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</span><span class="citation-popover-meta">Published: December 26, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-overview.webp" | relative_url }}" alt="Overview image for Camera Claims" loading="eager" decoding="sync" fetchpriority="high">
 ## The 2021 and 2024 Newtownabbey Reports
 
-The 2021 Newtownabbey entry sits inside a small but noticeable rise in PSNI-recorded UFO-type reports. Press Association reporting, carried by The Guardian and other outlets, said the Police Service of Northern Ireland received eight such reports in 2021, up from six in 2020 and four in 2019. The same report listed several different kinds of claims, including an “odd disc” in the Slemish area of County Antrim and, in July, “strange images” on CCTV at a house in the Newtownabbey area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</span><span class="citation-popover-meta">Published: December 26, 2021</span></span></span>
+The 2021 Newtownabbey entry sits inside a small but noticeable rise in PSNI-recorded UFO-type reports. Press Association reporting, carried by The Guardian and other outlets, said the Police Service of Northern Ireland received eight such reports in 2021, up from six in 2020 and four in 2019. The same report listed several different kinds of claims, including an “odd disc” in the Slemish area of County Antrim and, in July, “strange images” on CCTV at a house in the Newtownabbey area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</span><span class="citation-popover-meta">Published: December 26, 2021</span></span></span>
 
 That phrase is important. It does not say that police obtained the footage, analysed it, confirmed an object in the sky, checked the camera against aircraft movements, or found anything unexplained after investigation. It says that a report was received. The public wording gives a place, a month, and the fact that CCTV was involved, but not the visual content needed to judge the case. A reader cannot tell from the released description whether the “strange images” were lights in the sky, reflections on glass, insects close to the lens, lens flare, compression artefacts, or something else.
 
-The 2024 report is more detailed but still limited. The PSNI’s own disclosure log lists “Sighting 3, Newtownabbey, 27/10/2024” and says the caller reported that his wife observed a UFO through their camera in May, that it had visited every night since, and that it was a “bright light with holes in the bottom”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span> Press Association reporting described the same report as the final Newtownabbey-area UFO report of 2024 and added that the three 2024 UFO reports were “noted for information by police”, with no indication of an investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingnews.ie">[BreakingNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingnews.ie</span><span class="citation-popover-title">three reported ufo sightings across greater belfast in 2024 1711615</span><span class="citation-popover-snippet">three reported ufo sightings across greater belfast in 2024 1711615</span></span></span>
+The 2024 report is more detailed but still limited. The PSNI’s own disclosure log lists “Sighting 3, Newtownabbey, 27/10/2024” and says the caller reported that his wife observed a UFO through their camera in May, that it had visited every night since, and that it was a “bright light with holes in the bottom”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span> Press Association reporting described the same report as the final Newtownabbey-area UFO report of 2024 and added that the three 2024 UFO reports were “noted for information by police”, with no indication of an investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingnews.ie">[BreakingNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingnews.ie</span><span class="citation-popover-title">three reported ufo sightings across greater belfast in 2024 1711615</span><span class="citation-popover-snippet">three reported ufo sightings across greater belfast in 2024 1711615</span></span></span>
 
 That “every night since” element cuts both ways. To a witness, repetition can make a sighting feel stronger: something is not just glimpsed once, but seen again and again through a camera. To an investigator, repetition often makes ordinary explanations more testable. A nightly light may point towards a fixed astronomical object, a regular aircraft path, a distant lamp or mast light, a reflection from the same window angle, a neighbour’s security lighting, or a camera-night-vision effect that recurs under similar conditions.
 
@@ -276,22 +276,22 @@ CCTV can improve a UFO report in one obvious way: it may preserve a time-stamped
 
 But CCTV is not a neutral human eye. Domestic and security cameras are usually built for property monitoring, not for identifying small or distant aerial objects. They may use wide-angle lenses, automatic exposure, night vision, infrared illumination, motion-triggered recording, low frame rates and heavy compression. These features can make an ordinary object look odder than it appeared in real time. A bright point may bloom into a large patch. A small insect near the lens may look like a fast-moving orb. A reflection may appear to hover in space.
 
-This is why the original file matters. UK policing guidance on video-based evidence stresses clear procedures for retrieving CCTV and preserving the integrity of the evidence; the government collection on digital imaging and CCTV notes that retrieval and processing of CCTV evidence is now incorporated into the Forensic Science Regulator’s statutory code of practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/collections/digital-imaging-cctv-and-video-based-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Digital imaging, CCTV and video based evidence</span><span class="citation-popover-snippet">Digital imaging, CCTV and video based evidence</span></span></span> In plainer terms, a phone recording of a monitor, a cropped clip, a social-media upload, or a verbal description of footage is much weaker than the native file from the recording system, with its time data and technical context intact.
+This is why the original file matters. UK policing guidance on video-based evidence stresses clear procedures for retrieving CCTV and preserving the integrity of the evidence; the government collection on digital imaging and CCTV notes that retrieval and processing of CCTV evidence is now incorporated into the Forensic Science Regulator’s statutory code of practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/collections/digital-imaging-cctv-and-video-based-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Digital imaging, CCTV and video based evidence</span><span class="citation-popover-snippet">Digital imaging, CCTV and video based evidence</span></span></span> In plainer terms, a phone recording of a monitor, a cropped clip, a social-media upload, or a verbal description of footage is much weaker than the native file from the recording system, with its time data and technical context intact.
 
-The metadata problem is not only a police issue. Evidence-verification guidance from eyeWitness to Atrocities explains that useful video metadata can include location, date, time, device time and related signals, while warning that ordinary camera apps do not always record location and time in a way that can withstand scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eyewitness.global/Using-metadata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eyewitness.global">[eyewitness.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eyewitness.global</span><span class="citation-popover-title">eye Witness &#124; Using metadata to prove the reliability and validity of footage</span><span class="citation-popover-snippet">eye Witness &#124; Using metadata to prove the reliability and validity of footage</span></span></span> For Newtownabbey, the available public record does not give that level of detail. It tells us that cameras were involved, but not whether the recordings were preserved, whether timestamps were correct, or whether anyone checked the line of sight.
+The metadata problem is not only a police issue. Evidence-verification guidance from eyeWitness to Atrocities explains that useful video metadata can include location, date, time, device time and related signals, while warning that ordinary camera apps do not always record location and time in a way that can withstand scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eyewitness.global/Using-metadata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eyewitness.global">[eyewitness.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eyewitness.global</span><span class="citation-popover-title">eye Witness &#124; Using metadata to prove the reliability and validity of footage</span><span class="citation-popover-snippet">eye Witness &#124; Using metadata to prove the reliability and validity of footage</span></span></span> For Newtownabbey, the available public record does not give that level of detail. It tells us that cameras were involved, but not whether the recordings were preserved, whether timestamps were correct, or whether anyone checked the line of sight.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ## Reflections, Exposure and Repeat Sightings
 
-The most likely weak points in a Newtownabbey-style camera claim are not exotic. They are the familiar ways cameras turn light into misleading images. Infrared night vision can reflect from nearby surfaces; external light sources can create bright spots; dust particles can appear as out-of-focus circles; and camera position or dome-cover issues can add glare or ghosting. CCTV lighting specialists describe infrared reflection, nearby light pollution, sun-visor position, sealing-ring problems and floating dust as common reasons for bright or white spots in CCTV footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iluminarinc.com/bright-spots-on-cctv-video-footage-5-reasons-they-appear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iluminarinc.com">[Iluminar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iluminarinc.com</span><span class="citation-popover-title">Iluminar Bright Spots on CCTV Footage: 5 Reasons &amp; Fixes</span><span class="citation-popover-snippet">Iluminar Bright Spots on CCTV Footage: 5 Reasons &amp; Fixes</span></span></span>
+The most likely weak points in a Newtownabbey-style camera claim are not exotic. They are the familiar ways cameras turn light into misleading images. Infrared night vision can reflect from nearby surfaces; external light sources can create bright spots; dust particles can appear as out-of-focus circles; and camera position or dome-cover issues can add glare or ghosting. CCTV lighting specialists describe infrared reflection, nearby light pollution, sun-visor position, sealing-ring problems and floating dust as common reasons for bright or white spots in CCTV footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iluminarinc.com/bright-spots-on-cctv-video-footage-5-reasons-they-appear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iluminarinc.com">[Iluminar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iluminarinc.com</span><span class="citation-popover-title">Iluminar Bright Spots on CCTV Footage: 5 Reasons &amp; Fixes</span><span class="citation-popover-snippet">Iluminar Bright Spots on CCTV Footage: 5 Reasons &amp; Fixes</span></span></span>
 
 That does not debunk either Newtownabbey report on its own. The public record does not show enough to say, “it was dust”, “it was Venus”, “it was an aircraft”, or “it was a reflection”. The fair conclusion is narrower: the camera element does not, by itself, make the sighting strong. A camera can capture a real aerial object, but it can also create a repeatable illusion from the same physical setup. If a bright light appears nightly through the same camera, a careful check would start with the camera’s mounting, nearby glass, outdoor lights, reflective surfaces, lens cleanliness, infrared mode, and whether the object appears when viewed directly by eye from the same position.
 
 The 2024 description of a “bright light with holes in the bottom” is especially hard to interpret without images. “Holes” could mean dark patches in an overexposed light, gaps between multiple lights, camera processing artefacts, a patterned underside of a physical object, or a witness’s natural attempt to describe an unclear shape. In video evidence, a vivid description can be sincere and still be technically ambiguous.
 
-There is a useful comparison from official UAP imagery work outside the UK. The US All-domain Anomaly Resolution Office lists cases where video footage was insufficient to make a determination, and others where infrared footage was resolved as birds, balloons or prosaic aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> The point for County Antrim is not to import US institutions into a UK case, but to show the general evidence principle: even specialist video can remain unresolved or become ordinary once movement, sensor type and context are examined.
+There is a useful comparison from official UAP imagery work outside the UK. The US All-domain Anomaly Resolution Office lists cases where video footage was insufficient to make a determination, and others where infrared footage was resolved as birds, balloons or prosaic aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> The point for County Antrim is not to import US institutions into a UK case, but to show the general evidence principle: even specialist video can remain unresolved or become ordinary once movement, sensor type and context are examined.
 
 
 <img src="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-Illustration-2-dark.svg" | relative_url }}" alt="Camera Claims illustration 2" data-theme-src-dark="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -299,9 +299,9 @@ There is a useful comparison from official UAP imagery work outside the UK. The 
 
 Newtownabbey matters because it represents the modern, camera-heavy phase of local UFO reporting. Older county sightings often depended on witness memory, newspaper description, sketches, or brief official logs. The Newtownabbey cases show a newer expectation: if something odd happens near a house, doorbell, phone, dashcam or CCTV system, people assume the camera should settle the matter. Often it does not.
 
-The local setting also matters. Newtownabbey lies within the greater Belfast urban area, where skies are full of potential confounders: aircraft routes, helicopters, drones, street lighting, house lights, port and airport directions, weather glow, and reflections from windows or camera covers. The 2024 PSNI list places the Newtownabbey camera report alongside a Belfast report of an object with a vapour trail, no sound, and green and red flashing lights heading towards the docks, and a Bangor phone-recorded report of a bright star-like object changing colour before flying like a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span> Those neighbouring reports do not explain Newtownabbey, but they show the ordinary interpretive field in which local UFO reports are recorded.
+The local setting also matters. Newtownabbey lies within the greater Belfast urban area, where skies are full of potential confounders: aircraft routes, helicopters, drones, street lighting, house lights, port and airport directions, weather glow, and reflections from windows or camera covers. The 2024 PSNI list places the Newtownabbey camera report alongside a Belfast report of an object with a vapour trail, no sound, and green and red flashing lights heading towards the docks, and a Bangor phone-recorded report of a bright star-like object changing colour before flying like a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span> Those neighbouring reports do not explain Newtownabbey, but they show the ordinary interpretive field in which local UFO reports are recorded.
 
-The PSNI role should also be kept in proportion. [Police logs]({{ 'police-logs-c66011/' | relative_url }}) are valuable because they show that a report was made and give a fixed date, place and description. They are not the same as an aviation, astronomical or forensic conclusion. In the 2024 reporting, the PSNI’s treatment of the three UFO reports as information-only entries strongly weakens any claim that Newtownabbey became an officially investigated case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingnews.ie">[BreakingNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingnews.ie</span><span class="citation-popover-title">three reported ufo sightings across greater belfast in 2024 1711615</span><span class="citation-popover-snippet">three reported ufo sightings across greater belfast in 2024 1711615</span></span></span>
+The PSNI role should also be kept in proportion. [Police logs]({{ 'police-logs-c66011/' | relative_url }}) are valuable because they show that a report was made and give a fixed date, place and description. They are not the same as an aviation, astronomical or forensic conclusion. In the 2024 reporting, the PSNI’s treatment of the three UFO reports as information-only entries strongly weakens any claim that Newtownabbey became an officially investigated case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingnews.ie">[BreakingNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingnews.ie</span><span class="citation-popover-title">three reported ufo sightings across greater belfast in 2024 1711615</span><span class="citation-popover-snippet">three reported ufo sightings across greater belfast in 2024 1711615</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ The fairest reading is that Newtownabbey has two public camera-linked UFO report
 
 A useful reader test is to separate four different questions:
 
-* **Was something reported?** Yes. Both the 2021 and 2024 Newtownabbey camera-linked reports appear in reputable reporting or the PSNI disclosure log. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</span><span class="citation-popover-meta">Published: December 26, 2021</span></span></span>
+* **Was something reported?** Yes. Both the 2021 and 2024 Newtownabbey camera-linked reports appear in reputable reporting or the PSNI disclosure log.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</span><span class="citation-popover-meta">Published: December 26, 2021</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,194 +331,194 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
 <img src="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-Illustration-3-dark.svg" | relative_url }}" alt="Camera Claims illustration 3" data-theme-src-dark="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Antrim_405799_newtownabbey_camera_788897-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Newtownabbey Cameras Strengthen the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Newtownabbey Cameras Strengthen the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of corroborated evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of corroborated evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides wider context for contemporary reports and recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for contemporary reports and recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Investigations Manual">The UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Investigations Manual">The UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Covers photographs, recordings and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers photographs, recordings and witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Covers photographs, recordings and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers photographs, recordings and witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Investigations Manual</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Investigations+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Investigations Manual</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="camera-claims-do-newtownabbey-cameras-strengthen-the-case-county-antrim-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,169 +724,169 @@ That is the real lesson of the Newtownabbey reports for County Antrim’s UFO hi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psni.police.uk  
    Title: PSNIUFO Sightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: breakingnews.ie  
    Title: three reported ufo sightings across greater belfast in 2024 1711615  
-   Link: <a href="https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html</a>  
+   Link:<a href="https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/three-reported-ufo-sightings-across-greater-belfast-in-2024-1711615.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Digital imaging, CCTV and video based evidence  
-   Link: <a href="https://www.gov.uk/government/collections/digital-imaging-cctv-and-video-based-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/digital-imaging-cctv-and-video-based-evidence</a>  
+   Link:<a href="https://www.gov.uk/government/collections/digital-imaging-cctv-and-video-based-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/digital-imaging-cctv-and-video-based-evidence</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: recovery and aquisition of video evidence v30  
-   Link: <a href="https://www.gov.uk/government/publications/recovery-and-acquisition-of-video-evidence/recovery-and-aquisition-of-video-evidence-v30" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/recovery-and-acquisition-of-video-evidence/recovery-and-aquisition-of-video-evidence-v30</a>  
+   Link:<a href="https://www.gov.uk/government/publications/recovery-and-acquisition-of-video-evidence/recovery-and-aquisition-of-video-evidence-v30" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/recovery-and-acquisition-of-video-evidence/recovery-and-aquisition-of-video-evidence-v30</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eyewitness.global  
    Title: eye Witness | Using metadata to prove the reliability and validity of footage  
-   Link: <a href="https://www.eyewitness.global/Using-metadata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/Using-metadata.html</a>  
+   Link:<a href="https://www.eyewitness.global/Using-metadata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/Using-metadata.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: breakingnews.ie  
-   Link: <a href="https://www.breakingnews.ie/ireland/reports-of-unexplained-sightings-in-skies-above-northern-ireland-increase-1233771.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/reports-of-unexplained-sightings-in-skies-above-northern-ireland-increase-1233771.html</a>  
+   Link:<a href="https://www.breakingnews.ie/ireland/reports-of-unexplained-sightings-in-skies-above-northern-ireland-increase-1233771.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/reports-of-unexplained-sightings-in-skies-above-northern-ireland-increase-1233771.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: college.police.uk  
-   Link: <a href="https://www.college.police.uk/guidance/investigation/investigative-strategies/cctv" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/investigation/investigative-strategies/cctv</a>  
+   Link:<a href="https://www.college.police.uk/guidance/investigation/investigative-strategies/cctv" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/investigation/investigative-strategies/cctv</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: library.college.police.uk  
    Title: Framework Video Evidence v3.1 2022  
-   Link: <a href="https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.1-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.1-2022.pdf</a>  
+   Link:<a href="https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.1-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.1-2022.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: library.college.police.uk  
    Title: Framework Video Evidence v3.0 2022  
-   Link: <a href="https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.0-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.0-2022.pdf</a>  
+   Link:<a href="https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.0-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.college.police.uk/docs/NPCC/Framework-Video-Evidence-v3.0-2022.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: antrimandnewtownabbey.gov.uk  
    Title: cctv grant programme 2025  
-   Link: <a href="https://antrimandnewtownabbey.gov.uk/business/support-for-businesses/cctv-grant-programme-2025/" target="_blank" rel="noopener noreferrer nofollow">https://antrimandnewtownabbey.gov.uk/business/support-for-businesses/cctv-grant-programme-2025/</a>  
+   Link:<a href="https://antrimandnewtownabbey.gov.uk/business/support-for-businesses/cctv-grant-programme-2025/" target="_blank" rel="noopener noreferrer nofollow">https://antrimandnewtownabbey.gov.uk/business/support-for-businesses/cctv-grant-programme-2025/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Recovery and Acquisition of Video Evidence v3 0  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/62a9f18fd3bf7f036bb12944/Recovery_and_Acquisition_of_Video_Evidence_v3-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62a9f18fd3bf7f036bb12944/Recovery_and_Acquisition_of_Video_Evidence_v3-0.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/62a9f18fd3bf7f036bb12944/Recovery_and_Acquisition_of_Video_Evidence_v3-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62a9f18fd3bf7f036bb12944/Recovery_and_Acquisition_of_Video_Evidence_v3-0.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: derbyshire.police.uk  
-   Link: <a href="https://www.derbyshire.police.uk/SysSiteAssets/foi-media/derbyshire/policies/cctv-and-multimedia-within-criminal-investigations-july-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshire.police.uk/SysSiteAssets/foi-media/derbyshire/policies/cctv-and-multimedia-within-criminal-investigations-july-2025.pdf</a>  
+   Link:<a href="https://www.derbyshire.police.uk/SysSiteAssets/foi-media/derbyshire/policies/cctv-and-multimedia-within-criminal-investigations-july-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshire.police.uk/SysSiteAssets/foi-media/derbyshire/policies/cctv-and-multimedia-within-criminal-investigations-july-2025.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: npcc.police.uk  
-   Link: <a href="https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/publications-log/2020/national-digital-forensic-science-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/publications-log/2020/national-digital-forensic-science-strategy.pdf</a>  
+   Link:<a href="https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/publications-log/2020/national-digital-forensic-science-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/publications-log/2020/national-digital-forensic-science-strategy.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: met.police.uk  
-   Link: <a href="https://www.met.police.uk/foi-ai/metropolitan-police/disclosure-2024/july-2024/retention-period-cctv-image-footage/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/foi-ai/metropolitan-police/disclosure-2024/july-2024/retention-period-cctv-image-footage/</a>  
+   Link:<a href="https://www.met.police.uk/foi-ai/metropolitan-police/disclosure-2024/july-2024/retention-period-cctv-image-footage/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/foi-ai/metropolitan-police/disclosure-2024/july-2024/retention-period-cctv-image-footage/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: The Guardian'Aliens in bedroom': UFO sightings on the rise in Northern  
-   Link: <a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2021 — 26 Dec 2021 — UFO sighting reports on the Police Service of Northern Ireland (PSNI) database include unidentified fly...</p></details>
    Published: December 26, 2021  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: iluminarinc.com  
    Title: Iluminar Bright Spots on CCTV Footage: 5 Reasons & Fixes  
-   Link: <a href="https://www.iluminarinc.com/bright-spots-on-cctv-video-footage-5-reasons-they-appear/" target="_blank" rel="noopener noreferrer nofollow">https://www.iluminarinc.com/bright-spots-on-cctv-video-footage-5-reasons-they-appear/</a>  
+   Link:<a href="https://www.iluminarinc.com/bright-spots-on-cctv-video-footage-5-reasons-they-appear/" target="_blank" rel="noopener noreferrer nofollow">https://www.iluminarinc.com/bright-spots-on-cctv-video-footage-5-reasons-they-appear/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: 6 Checks to Vet Any UFO Video in 60 Seconds  
-   Link: <a href="http://www.youtube.com/watch?v=wjAjKyzFpMA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wjAjKyzFpMA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO&quot; CCTV explanation insect dust lens flare TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #Shorts | History H...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wjAjKyzFpMA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wjAjKyzFpMA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO&quot; CCTV explanation insect dust lens flare TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #Shorts | History H...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XuKenlhD504</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Checks to Vet Any UFO Video in 60 Seconds...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XuKenlhD504</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Checks to Vet Any UFO Video in 60 Seconds...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Breakdown of the Pentagon UFO videos with Mick West  
-   Link: <a href="http://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4X1PRDbtiF0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick West...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4X1PRDbtiF0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick West...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY</a>  
+   Link:<a href="https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sundayworld1/videos/increase-in-ufo-sightings-reported-to-police-in-northern-ireland/433662594456525/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sundayworld1/videos/increase-in-ufo-sightings-reported-to-police-in-northern-ireland/433662594456525/</a>  
+   Link:<a href="https://www.facebook.com/sundayworld1/videos/increase-in-ufo-sightings-reported-to-police-in-northern-ireland/433662594456525/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sundayworld1/videos/increase-in-ufo-sightings-reported-to-police-in-northern-ireland/433662594456525/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cctvcameraworld.com  
-   Link: <a href="https://www.cctvcameraworld.com/infrared-ir-glare-issues/" target="_blank" rel="noopener noreferrer nofollow">https://www.cctvcameraworld.com/infrared-ir-glare-issues/</a>  
+   Link:<a href="https://www.cctvcameraworld.com/infrared-ir-glare-issues/" target="_blank" rel="noopener noreferrer nofollow">https://www.cctvcameraworld.com/infrared-ir-glare-issues/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: intaforensics.com  
-   Link: <a href="https://www.intaforensics.com/services/digital-forensics/forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.intaforensics.com/services/digital-forensics/forensic-video-analysis/</a>  
+   Link:<a href="https://www.intaforensics.com/services/digital-forensics/forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.intaforensics.com/services/digital-forensics/forensic-video-analysis/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cyfor.co.uk  
-   Link: <a href="https://cyfor.co.uk/digital-forensics/forensic-cctv-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://cyfor.co.uk/digital-forensics/forensic-cctv-analysis/</a>  
+   Link:<a href="https://cyfor.co.uk/digital-forensics/forensic-cctv-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://cyfor.co.uk/digital-forensics/forensic-cctv-analysis/</a>  

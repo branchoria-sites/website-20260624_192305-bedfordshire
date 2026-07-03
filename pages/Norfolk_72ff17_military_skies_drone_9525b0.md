@@ -258,29 +258,29 @@ image: /assets/images/Norfolk_72ff17_military_skies_drone_9525b0-overview-social
 
 
 <img src="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-overview.webp" | relative_url }}" alt="Overview image for Military Skies" loading="eager" decoding="sync" fetchpriority="high">
-The key point is not that “military base” equals “UFO”. It is that Norfolk’s air bases make the county unusually prone to ambiguous sky reports. Some reports are likely ordinary aircraft or legally flown drones. Some may be unauthorised drone activity of real security interest. A smaller number remain thinly documented or unresolved. The 2024 drone sightings over RAF Feltwell and neighbouring US-used bases show the modern version of an old problem: what the public calls a mystery in the sky may be an aviation, security, policing or perception problem long before it is evidence of anything exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force+2USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</span></span></span>
+The key point is not that “military base” equals “UFO”. It is that Norfolk’s air bases make the county unusually prone to ambiguous sky reports. Some reports are likely ordinary aircraft or legally flown drones. Some may be unauthorised drone activity of real security interest. A smaller number remain thinly documented or unresolved. The 2024 drone sightings over RAF Feltwell and neighbouring US-used bases show the modern version of an old problem: what the public calls a mystery in the sky may be an aviation, security, policing or perception problem long before it is evidence of anything exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[mod.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</span></span></span>
 
 ## Why RAF Marham changes how Norfolk sees the sky
 
-RAF Marham is not a minor aviation landmark. The RAF describes it as the home of the F-35 Lightning, a fifth-generation multi-role stealth fighter, and says more than 3,600 service personnel, civil servants and contractors work at the station. That alone changes the sighting environment around west Norfolk: military fast jets are part of local life, aircraft noise can arrive suddenly, and unusual lighting or flight profiles may be seen by people who are not aviation specialists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</span></span></span>
+RAF Marham is not a minor aviation landmark. The RAF describes it as the home of the F-35 Lightning, a fifth-generation multi-role stealth fighter, and says more than 3,600 service personnel, civil servants and contractors work at the station. That alone changes the sighting environment around west Norfolk: military fast jets are part of local life, aircraft noise can arrive suddenly, and unusual lighting or flight profiles may be seen by people who are not aviation specialists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</span></span></span>
 
-The F-35 connection is especially important for modern UFO interpretation. The aircraft is not “mysterious” in the sense of being secret from the public, but it is unfamiliar to many observers compared with older civil aircraft. The RAF says the UK received its first F-35B in 2012 and made RAF Marham the primary base for the aircraft; 617 Squadron is also based at Marham and now flies the F-35B Lightning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">lightning f35b</span><span class="citation-popover-snippet">lightning f35b</span></span></span>
+The F-35 connection is especially important for modern UFO interpretation. The aircraft is not “mysterious” in the sense of being secret from the public, but it is unfamiliar to many observers compared with older civil aircraft. The RAF says the UK received its first F-35B in 2012 and made RAF Marham the primary base for the aircraft; 617 Squadron is also based at Marham and now flies the F-35B Lightning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">lightning f35b</span><span class="citation-popover-snippet">lightning f35b</span></span></span>
 
-From the ground, the ingredients for confusion are obvious. A witness may see bright points of light, hear delayed or hard-to-place engine noise, or watch aircraft manoeuvring in a way that does not resemble a scheduled airliner. In poor weather, at dusk, or from a moving car, even ordinary aviation can become difficult to judge. RAF Marham’s own flying-information page recognises that increased night flying can disturb local residents and says updates are published through the station’s social media channels. That is a useful reminder that some “strange night activity” near Marham may have a simple source: announced or routine military flying that the individual witness did not know about. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+From the ground, the ingredients for confusion are obvious. A witness may see bright points of light, hear delayed or hard-to-place engine noise, or watch aircraft manoeuvring in a way that does not resemble a scheduled airliner. In poor weather, at dusk, or from a moving car, even ordinary aviation can become difficult to judge. RAF Marham’s own flying-information page recognises that increased night flying can disturb local residents and says updates are published through the station’s social media channels. That is a useful reminder that some “strange night activity” near Marham may have a simple source: announced or routine military flying that the individual witness did not know about.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-Marham also has a dedicated security dimension. Number 6 RAF Police & Security Squadron, based at RAF Marham, is described by the RAF as providing policing, security and counter-intelligence to secure the F-35 Force and protect the F-35 platform, people and programme. In UFO terms, this matters because sensitive bases invite two opposite mistakes. One mistake is to dismiss every odd sighting as “just military”. The other is to assume that any unexplained light near a sensitive site must be connected to hidden technology or hostile surveillance. The better reading is narrower: Marham gives Norfolk a real aviation context, but each claim still needs its own evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/squadrons/6-raf-police-security-squadron-f35/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+Marham also has a dedicated security dimension. Number 6 RAF Police & Security Squadron, based at RAF Marham, is described by the RAF as providing policing, security and counter-intelligence to secure the F-35 Force and protect the F-35 platform, people and programme. In UFO terms, this matters because sensitive bases invite two opposite mistakes. One mistake is to dismiss every odd sighting as “just military”. The other is to assume that any unexplained light near a sensitive site must be connected to hidden technology or hostile surveillance. The better reading is narrower: Marham gives Norfolk a real aviation context, but each claim still needs its own evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/squadrons/6-raf-police-security-squadron-f35/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-1-dark.svg" | relative_url }}" alt="Military Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Feltwell and the East Anglian security puzzle
 
-RAF Feltwell is a Norfolk site, but it cannot be understood in isolation. It is part of a wider East Anglian military geography that includes RAF Lakenheath and RAF Mildenhall in Suffolk. The 48th Force Support Squadron describes the 48th Fighter Wing community as including RAF Lakenheath and RAF Feltwell, while the RAF Lakenheath units page says the wing hosts thousands of active-duty personnel, civilians and family members across RAF Lakenheath and RAF Feltwell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lakenheathfss.com/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheathfss.com">[RAF Lakenheath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheathfss.com</span><span class="citation-popover-snippet">Open source on lakenheathfss.com.</span></span></span>
+RAF Feltwell is a Norfolk site, but it cannot be understood in isolation. It is part of a wider East Anglian military geography that includes RAF Lakenheath and RAF Mildenhall in Suffolk. The 48th Force Support Squadron describes the 48th Fighter Wing community as including RAF Lakenheath and RAF Feltwell, while the RAF Lakenheath units page says the wing hosts thousands of active-duty personnel, civilians and family members across RAF Lakenheath and RAF Feltwell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lakenheathfss.com/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheathfss.com">[RAF Lakenheath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheathfss.com</span><span class="citation-popover-snippet">Open source on lakenheathfss.com.</span></span></span>
 
 That cross-county structure is important for Norfolk UFO pages because many “Norfolk” sky stories are really East Anglian sky stories. A light seen from Norfolk may relate to activity over Suffolk. A security incident reported as affecting “UK bases” may include one Norfolk site and several non-Norfolk sites. A local witness may use the nearest place name, while official statements use base names and military commands. This is why county-based UFO history has to be careful with boundaries: Norfolk remains the centre of gravity here, but Feltwell’s significance comes from its place in a wider US-used base network.
 
-The most concrete recent example came in November 2024. U.S. Air Forces in Europe – Air Forces Africa said small unmanned aerial systems had continued to be spotted “in the vicinity of and over” RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford since 20 November. The statement added that installation leaders had determined that none of the incursions had affected base residents, facilities or assets, while also saying that force-protection measures would not be discussed in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+The most concrete recent example came in November 2024. U.S. Air Forces in Europe – Air Forces Africa said small unmanned aerial systems had continued to be spotted “in the vicinity of and over” RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford since 20 November. The statement added that installation leaders had determined that none of the incursions had affected base residents, facilities or assets, while also saying that force-protection measures would not be discussed in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-Press reporting at the time gives the public-facing shape of the incident. The Guardian reported that small UASs were seen between 20 and 22 November over RAF Lakenheath, RAF Mildenhall and RAF Feltwell, and that the USAF said the number fluctuated and the drones varied in size and configuration. Reuters later reported that sightings had occurred from 20 to 26 November over the three USAF bases in Suffolk and Norfolk, and that the Ministry of Defence said it was supporting the US Air Force response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Press reporting at the time gives the public-facing shape of the incident. The Guardian reported that small UASs were seen between 20 and 22 November over RAF Lakenheath, RAF Mildenhall and RAF Feltwell, and that the USAF said the number fluctuated and the drones varied in size and configuration. Reuters later reported that sightings had occurred from 20 to 26 November over the three USAF bases in Suffolk and Norfolk, and that the Ministry of Defence said it was supporting the US Air Force response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 This was not a classic UFO case in the old sense. The objects were publicly described as drones or small unmanned aerial systems, not as unknown craft performing impossible manoeuvres. Yet the episode belongs in Norfolk’s UFO history because it shows how the language has changed. A generation ago, clustered lights near air bases might have been filed as UFO sightings. In the 2020s, the same kind of uncertainty is often routed through drone security, counter-drone capability, hostile-state speculation and airspace law.
 
@@ -291,11 +291,11 @@ This was not a classic UFO case in the old sense. The objects were publicly desc
 
 Drones have made skywatching harder because they occupy the awkward space between the ordinary and the suspicious. A small drone may be legal and harmless in one place, illegal near a protected aerodrome, or a genuine security concern over a military site. To a witness at night, those categories may look almost identical.
 
-The Civil Aviation Authority’s Drone and Model Aircraft Code says drones and model aircraft must not be flown more than 120 metres, or 400 feet, from the closest point of the earth’s surface. The same guidance warns pilots to look and listen for other aircraft that may be below that height, including air ambulances, police helicopters and low-flying military aircraft. It also says operators must check restrictions and hazards before flying, including restricted airspace around places such as military ranges and government buildings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The Civil Aviation Authority’s Drone and Model Aircraft Code says drones and model aircraft must not be flown more than 120 metres, or 400 feet, from the closest point of the earth’s surface. The same guidance warns pilots to look and listen for other aircraft that may be below that height, including air ambulances, police helicopters and low-flying military aircraft. It also says operators must check restrictions and hazards before flying, including restricted airspace around places such as military ranges and government buildings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 For UFO interpretation, those rules create a useful test. If a light is low, slow, hovering, changing direction and close enough to be within line of sight, a drone becomes a plausible explanation. If it is near a base, the question then changes from “what was that?” to “was it authorised, unauthorised, misidentified, or not a drone at all?” That is a more precise question than simply calling it a UFO.
 
-Flight restriction zones add another layer. UK guidance on small unmanned aircraft states that drones must not be flown within the flight restriction zone of a protected aerodrome without permission, and that such zones apply to small unmanned aircraft of any mass. The CAA’s current code similarly warns against flying in airport or spaceport flight restriction zones and tells operators to follow flying restrictions and check for hazards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scilly.gov.uk/drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scilly.gov.uk">[Isles of Scilly Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scilly.gov.uk</span><span class="citation-popover-snippet">Open source on scilly.gov.uk.</span></span></span>
+Flight restriction zones add another layer. UK guidance on small unmanned aircraft states that drones must not be flown within the flight restriction zone of a protected aerodrome without permission, and that such zones apply to small unmanned aircraft of any mass. The CAA’s current code similarly warns against flying in airport or spaceport flight restriction zones and tells operators to follow flying restrictions and check for hazards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scilly.gov.uk/drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scilly.gov.uk">[Isles of Scilly Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scilly.gov.uk</span><span class="citation-popover-snippet">Open source on scilly.gov.uk.</span></span></span>
 
 This matters around Norfolk because a witness may not know whether a drone has permission. A base security team may treat a sighting as a serious incursion, while a member of the public sees only a small light. Conversely, a member of the public may interpret a normal aircraft or distant light as a “drone over the base” because drone stories are already in the news. Modern drone confusion is therefore not just about machines in the air; it is also about the expectations people bring to what they see.
 
@@ -303,9 +303,9 @@ This matters around Norfolk because a witness may not know whether a drone has p
 <img src="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-2-dark.svg" | relative_url }}" alt="Military Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why orange lights, aircraft and drones get mixed together
 
-Norfolk already had a pattern of low-information light reports before the recent drone era. The Ministry of Defence’s 2009 UFO report list included a sighting on 7 February 2009 between Norwich and Lenwade: “ten orange orbs” with slightly pulsating [orange lights]({{ 'orange-lights-c6cbe7/' | relative_url }}), no noise, and not like navigation lights. The same MoD document notes that from 1 December 2009 the department no longer recorded or investigated UFO sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Norfolk already had a pattern of low-information light reports before the recent drone era. The Ministry of Defence’s 2009 UFO report list included a sighting on 7 February 2009 between Norwich and Lenwade: “ten orange orbs” with slightly pulsating [orange lights]({{ 'orange-lights-c6cbe7/' | relative_url }}), no noise, and not like navigation lights. The same MoD document notes that from 1 December 2009 the department no longer recorded or investigated UFO sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-That detail is useful because “orange orbs” are exactly the kind of sighting that can sit uneasily between categories. They may be lanterns, aircraft, drones, reflections, distant lights, or something not confidently identified from the available description. Reports from 2009 also show how quickly local sightings could cluster across East Anglia. Contemporary coverage described bright orange lights seen across Norfolk and as far south as Suffolk, with places including Norwich, Dereham, Downham Market, Holkham and Caister appearing in reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newindianexpress.com/amp/story/world/2009/Aug/12/ufo-spotted-over-east-anglia-77175.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newindianexpress.com">[The New Indian Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newindianexpress.com</span><span class="citation-popover-title">The New Indian Express UFO spotted over East Anglia</span><span class="citation-popover-snippet">The New Indian Express UFO spotted over East Anglia</span></span></span>
+That detail is useful because “orange orbs” are exactly the kind of sighting that can sit uneasily between categories. They may be lanterns, aircraft, drones, reflections, distant lights, or something not confidently identified from the available description. Reports from 2009 also show how quickly local sightings could cluster across East Anglia. Contemporary coverage described bright orange lights seen across Norfolk and as far south as Suffolk, with places including Norwich, Dereham, Downham Market, Holkham and Caister appearing in reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newindianexpress.com/amp/story/world/2009/Aug/12/ufo-spotted-over-east-anglia-77175.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newindianexpress.com">[The New Indian Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newindianexpress.com</span><span class="citation-popover-title">The New Indian Express UFO spotted over East Anglia</span><span class="citation-popover-snippet">The New Indian Express UFO spotted over East Anglia</span></span></span>
 
 The modern drone era does not erase those older explanations. In some ways it adds another candidate to the list. A witness seeing a silent orange light in 2009 might have thought first of Chinese lanterns or UFOs. A witness seeing a similar light after the 2024 base incidents might think first of drones. The sighting itself may not have changed much; the cultural and technological frame has.
 
@@ -332,9 +332,9 @@ Those questions do not debunk a sighting by default. They prevent a weak report 
 
 ## What the 2024 base incidents do — and do not — prove
 
-The RAF Feltwell-linked drone reports are important because they are officially acknowledged. They are not merely rumours on social media. USAFE confirmed small unmanned aerial systems near or over RAF Feltwell and other bases from 20 November 2024, and major news agencies reported continuing concern and a UK-supported response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+The RAF Feltwell-linked drone reports are important because they are officially acknowledged. They are not merely rumours on social media. USAFE confirmed small unmanned aerial systems near or over RAF Feltwell and other bases from 20 November 2024, and major news agencies reported continuing concern and a UK-supported response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-But official acknowledgement does not mean the public record proves who operated the drones, what they were doing, or whether every reported light in the area was part of the same event. The USAF statement said the systems were monitored and that no impact on residents, facilities or assets had been determined at that point. It also declined to discuss specific protection measures for operational-security reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+But official acknowledgement does not mean the public record proves who operated the drones, what they were doing, or whether every reported light in the area was part of the same event. The USAF statement said the systems were monitored and that no impact on residents, facilities or assets had been determined at that point. It also declined to discuss specific protection measures for operational-security reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 That gap is exactly where UFO-style narratives can grow. When authorities confirm something happened but withhold detail, some readers hear “cover-up”. In military-security terms, however, limited disclosure is normal: counter-drone methods, sensor coverage, base vulnerabilities and investigative leads are not usually laid out in public. The lack of detail is frustrating, but it is not by itself evidence of an exotic explanation.
 
@@ -347,7 +347,7 @@ The strongest cautious conclusion is this: the 2024 incidents show that unidenti
 
 A Norfolk report near RAF Marham or RAF Feltwell deserves attention, but not automatic escalation. The right standard is proportionate evidence. A single witness seeing a light near a base is interesting but weak. Multiple witnesses from different locations are stronger. Photographs or video help only if they include time, direction, duration and context. Official confirmation of unauthorised drone activity is stronger still, but it may identify a security issue rather than a UFO in the traditional sense.
 
-The MoD’s historical UFO records are a useful comparison point. The National Archives says the Ministry of Defence kept UFO records from the 1960s and now holds many of them, while a National Archives release explains that the UFO desk was closed in November 2009. The final MoD reporting period therefore sits on one side of a divide: before 2009, public UFO reports could enter a central defence record; after that, similar observations were less likely to appear in the same kind of national UFO file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+The MoD’s historical UFO records are a useful comparison point. The National Archives says the Ministry of Defence kept UFO records from the 1960s and now holds many of them, while a National Archives release explains that the UFO desk was closed in November 2009. The final MoD reporting period therefore sits on one side of a divide: before 2009, public UFO reports could enter a central defence record; after that, similar observations were less likely to appear in the same kind of national UFO file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 That shift matters for Norfolk. A 2009 “orange orbs” sighting between Norwich and Lenwade appears in an MoD UFO report. A 2024 sighting near RAF Feltwell appears in the language of drones, base security and UAS monitoring. The sky did not suddenly become less strange; the institutional vocabulary changed.
 
@@ -363,201 +363,201 @@ For readers trying to judge future Norfolk stories, three distinctions are espec
 <img src="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-3-dark.svg" | relative_url }}" alt="Military Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17_military_skies_drone_9525b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this belongs in Norfolk’s UFO map
 
-Military bases and drone confusion give Norfolk a distinctive place in UK UFO history because the county sits at the meeting point of old and new sky mysteries. RAF Marham brings advanced RAF aircraft, night flying and F-35 security into the local visual environment. RAF Feltwell connects Norfolk to the US-used East Anglian base network and to the 2024 drone incidents that turned “unidentified lights near a base” into a live defence-security issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force+2Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</span></span></span>
+Military bases and drone confusion give Norfolk a distinctive place in UK UFO history because the county sits at the meeting point of old and new sky mysteries. RAF Marham brings advanced RAF aircraft, night flying and F-35 security into the local visual environment. RAF Feltwell connects Norfolk to the US-used East Anglian base network and to the 2024 drone incidents that turned “unidentified lights near a base” into a live defence-security issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</span></span></span>
 
 The result is a county where the most valuable UFO analysis is often not a hunt for a single spectacular case, but a careful sorting exercise. Some reports belong with aircraft recognition. Some belong with drone law and base security. Some belong with older orange-light and lantern-style waves. A few may remain genuinely unresolved, especially where witness testimony is detailed and independent corroboration exists.
 
 That sorting is not a way of making Norfolk’s UFO history less interesting. It makes it more useful. Norfolk shows how modern UFO stories are increasingly formed in the overlap between public skywatching, military infrastructure, consumer drones, official secrecy, and the ordinary difficulty of judging lights in the night sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Norfolk&#x27;s Military Skies Feed UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Norfolk&#x27;s Military Skies Feed UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers contemporary military sightings, defence issues and the challenge of distinguishing genuine anomalies from conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contemporary military sightings, defence issues and the challenge of distinguishing genuine anomalies from conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explores British cases, Ministry of Defence records and the kinds of sightings often reported near military activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores British cases, Ministry of Defence records and the kinds of sightings often reported near military activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides insight into how official British UFO reports were handled and assessed, including many aviation-related cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how official British UFO reports were handled and assessed, including many aviation-related cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot reports, military observations, radar cases and official investigations that mirror the Norfolk military-airspac...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot reports, military observations, radar cases and official investigations that mirror the Norfolk military-airspac...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPITFIRE ART BY BARRIE AF CLARKE"><img src="{{ '/assets/images/marketplace-covers/e03294ec570ae95eee3a.jpg' | relative_url }}" alt="Listing image for SPITFIRE ART BY BARRIE AF CLARKE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">SPITFIRE ART BY BARRIE AF CLARKE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPITFIRE ART BY BARRIE AF CLARKE"><img src="{{ '/assets/images/marketplace-covers/e03294ec570ae95eee3a.jpg' | relative_url }}" alt="Listing image for SPITFIRE ART BY BARRIE AF CLARKE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">SPITFIRE ART BY BARRIE AF CLARKE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-skies-why-norfolk-s-military-skies-feed-ufo-stories-norfolk-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ That sorting is not a way of making Norfolk’s UFO history less interesting. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ That sorting is not a way of making Norfolk’s UFO history less interesting. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ That sorting is not a way of making Norfolk’s UFO history less interesting. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ That sorting is not a way of making Norfolk’s UFO history less interesting. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ That sorting is not a way of making Norfolk’s UFO history less interesting. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,319 +763,319 @@ That sorting is not a way of making Norfolk’s UFO history less interesting. It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-marham/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</p></details>
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-marham/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air ForceRAF MarhamRAF Marham is the home of the F-35 Lightning, a 5th Generation, multi-role, stealth fighter. The Station is also...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usafe.af.mil  
-   Link: <a href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/</a>  
+   Link:<a href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raf.mod.uk  
    Title: lightning f35b  
-   Link: <a href="https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/</a>  
+   Link:<a href="https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/squadrons/617-squadron/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/squadrons/617-squadron/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/squadrons/617-squadron/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/squadrons/617-squadron/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-marham/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-marham/flying-info/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/squadrons/6-raf-police-security-squadron-f35/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/squadrons/6-raf-police-security-squadron-f35/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/squadrons/6-raf-police-security-squadron-f35/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/squadrons/6-raf-police-security-squadron-f35/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/</a>  
+   Link:<a href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scilly.gov.uk  
-   Link: <a href="https://www.scilly.gov.uk/drones" target="_blank" rel="noopener noreferrer nofollow">https://www.scilly.gov.uk/drones</a>  
+   Link:<a href="https://www.scilly.gov.uk/drones" target="_blank" rel="noopener noreferrer nofollow">https://www.scilly.gov.uk/drones</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: raf.mod.uk  
    Title: 161 million contract for f 35 jet maintenance supports 140 uk jobs  
-   Link: <a href="https://www.raf.mod.uk/news/articles/161-million-contract-for-f-35-jet-maintenance-supports-140-uk-jobs/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/161-million-contract-for-f-35-jet-maintenance-supports-140-uk-jobs/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/161-million-contract-for-f-35-jet-maintenance-supports-140-uk-jobs/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/161-million-contract-for-f-35-jet-maintenance-supports-140-uk-jobs/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: raf.mod.uk  
    Title: us f 35 jets arrive at raf marham  
-   Link: <a href="https://www.raf.mod.uk/news/articles/us-f-35-jets-arrive-at-raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/us-f-35-jets-arrive-at-raf-marham/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/us-f-35-jets-arrive-at-raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/us-f-35-jets-arrive-at-raf-marham/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: raf.mod.uk  
    Title: uk takes delivery of final f 35b lightning of this year  
-   Link: <a href="https://www.raf.mod.uk/news/articles/uk-takes-delivery-of-final-f-35b-lightning-of-this-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/uk-takes-delivery-of-final-f-35b-lightning-of-this-year/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/uk-takes-delivery-of-final-f-35b-lightning-of-this-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/uk-takes-delivery-of-final-f-35b-lightning-of-this-year/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: raf.mod.uk  
    Title: britains most advanced jets making way across atlantic  
-   Link: <a href="https://www.raf.mod.uk/news/articles/britains-most-advanced-jets-making-way-across-atlantic/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/britains-most-advanced-jets-making-way-across-atlantic/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/britains-most-advanced-jets-making-way-across-atlantic/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/britains-most-advanced-jets-making-way-across-atlantic/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: raf.mod.uk  
    Title: raf marham hive  
-   Link: <a href="https://www.raf.mod.uk/community-support/serving-families/hive-finder/raf-marham-hive/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/community-support/serving-families/hive-finder/raf-marham-hive/</a>  
+   Link:<a href="https://www.raf.mod.uk/community-support/serving-families/hive-finder/raf-marham-hive/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/community-support/serving-families/hive-finder/raf-marham-hive/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fareham.gov.uk  
-   Link: <a href="https://www.fareham.gov.uk/leisure/open_spaces/drones.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.fareham.gov.uk/leisure/open_spaces/drones.aspx</a>  
+   Link:<a href="https://www.fareham.gov.uk/leisure/open_spaces/drones.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.fareham.gov.uk/leisure/open_spaces/drones.aspx</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pre.hillingdon.gov.uk  
    Title: drone policy  
-   Link: <a href="https://pre.hillingdon.gov.uk/downloads/file/1354/drone-policy" target="_blank" rel="noopener noreferrer nofollow">https://pre.hillingdon.gov.uk/downloads/file/1354/drone-policy</a>  
+   Link:<a href="https://pre.hillingdon.gov.uk/downloads/file/1354/drone-policy" target="_blank" rel="noopener noreferrer nofollow">https://pre.hillingdon.gov.uk/downloads/file/1354/drone-policy</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: GOV.UK  
    Title: drones are you flying yours safely and legally  
-   Link: <a href="https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally</a>  
+   Link:<a href="https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: durham.gov.uk  
-   Link: <a href="https://www.durham.gov.uk/media/48160/Policy-on-flying-of-drones-over-Council-land/pdf/DronePolicy-FlyingOverCouncilLand.pdf?m=1763461647727" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.gov.uk/media/48160/Policy-on-flying-of-drones-over-Council-land/pdf/DronePolicy-FlyingOverCouncilLand.pdf?m=1763461647727</a>  
+   Link:<a href="https://www.durham.gov.uk/media/48160/Policy-on-flying-of-drones-over-Council-land/pdf/DronePolicy-FlyingOverCouncilLand.pdf?m=1763461647727" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.gov.uk/media/48160/Policy-on-flying-of-drones-over-Council-land/pdf/DronePolicy-FlyingOverCouncilLand.pdf?m=1763461647727</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: RA1604 Issue 4  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/69295b84ce50d215cae961a0/RA1604_Issue_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/69295b84ce50d215cae961a0/RA1604_Issue_4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/69295b84ce50d215cae961a0/RA1604_Issue_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/69295b84ce50d215cae961a0/RA1604_Issue_4.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: polperrocommunitycouncil.gov.uk  
-   Link: <a href="https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf</a>  
+   Link:<a href="https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fradleyparishcouncil.gov.uk  
-   Link: <a href="https://www.fradleyparishcouncil.gov.uk/_UserFiles/Files/Policies/Drone%20Policy%20-%20Jan%202026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fradleyparishcouncil.gov.uk/_UserFiles/Files/Policies/Drone%20Policy%20-%20Jan%202026.pdf</a>  
+   Link:<a href="https://www.fradleyparishcouncil.gov.uk/_UserFiles/Files/Policies/Drone%20Policy%20-%20Jan%202026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fradleyparishcouncil.gov.uk/_UserFiles/Files/Policies/Drone%20Policy%20-%20Jan%202026.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: boughton-pc.gov.uk  
-   Link: <a href="https://boughton-pc.gov.uk/raf-marham-update-and-notice-of-increased-flying/" target="_blank" rel="noopener noreferrer nofollow">https://boughton-pc.gov.uk/raf-marham-update-and-notice-of-increased-flying/</a>  
+   Link:<a href="https://boughton-pc.gov.uk/raf-marham-update-and-notice-of-increased-flying/" target="_blank" rel="noopener noreferrer nofollow">https://boughton-pc.gov.uk/raf-marham-update-and-notice-of-increased-flying/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: news.sky.com  
    Title: whats going on with drones spotted over us air bases in uk 13261593  
-   Link: <a href="https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593</a>  
+   Link:<a href="https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: bedford.gov.uk  
-   Link: <a href="https://www.bedford.gov.uk/files/drones-model-aircraft-policy.pdf/download?inline=" target="_blank" rel="noopener noreferrer nofollow">https://www.bedford.gov.uk/files/drones-model-aircraft-policy.pdf/download?inline=</a>  
+   Link:<a href="https://www.bedford.gov.uk/files/drones-model-aircraft-policy.pdf/download?inline=" target="_blank" rel="noopener noreferrer nofollow">https://www.bedford.gov.uk/files/drones-model-aircraft-policy.pdf/download?inline=</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: lakenheathfss.com  
-   Link: <a href="https://lakenheathfss.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://lakenheathfss.com/about/</a>  
+   Link:<a href="https://lakenheathfss.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://lakenheathfss.com/about/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: newindianexpress.com  
    Title: The New Indian Express UFO spotted over East Anglia  
-   Link: <a href="https://www.newindianexpress.com/amp/story/world/2009/Aug/12/ufo-spotted-over-east-anglia-77175.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newindianexpress.com/amp/story/world/2009/Aug/12/ufo-spotted-over-east-anglia-77175.html</a>  
+   Link:<a href="https://www.newindianexpress.com/amp/story/world/2009/Aug/12/ufo-spotted-over-east-anglia-77175.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newindianexpress.com/amp/story/world/2009/Aug/12/ufo-spotted-over-east-anglia-77175.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: usafe.af.mil  
    Title: mil Celebrities spend time with RAFL Airmen  
-   Link: <a href="https://www.usafe.af.mil/News/Article-Display/Article/254821/celebrities-spend-time-with-rafl-airmen" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/254821/celebrities-spend-time-with-rafl-airmen</a>  
+   Link:<a href="https://www.usafe.af.mil/News/Article-Display/Article/254821/celebrities-spend-time-with-rafl-airmen" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/254821/celebrities-spend-time-with-rafl-airmen</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: usafe.af.mil  
    Title: mil News  
-   Link: <a href="https://www.usafe.af.mil/News/?Page=82" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/?Page=82</a>  
+   Link:<a href="https://www.usafe.af.mil/News/?Page=82" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/?Page=82</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: usafe.af.mil  
    Title: new trainer provides realistic conditions hazards for firefighters  
-   Link: <a href="https://www.usafe.af.mil/News/Article-Display/Article/253222/new-trainer-provides-realistic-conditions-hazards-for-firefighters" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/253222/new-trainer-provides-realistic-conditions-hazards-for-firefighters</a>  
+   Link:<a href="https://www.usafe.af.mil/News/Article-Display/Article/253222/new-trainer-provides-realistic-conditions-hazards-for-firefighters" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/253222/new-trainer-provides-realistic-conditions-hazards-for-firefighters</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/48fss/mentions/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/48fss/mentions/</a>  
+   Link:<a href="https://www.facebook.com/48fss/mentions/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/48fss/mentions/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
    Title: 2024 drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: Wikipedia  
    Title: RAF Feltwell  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Feltwell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Feltwell</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Feltwell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Feltwell</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/less-common-flying-points-37-to-39/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/less-common-flying-points-37-to-39/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/less-common-flying-points-37-to-39/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/less-common-flying-points-37-to-39/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/48fighterwing/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/48fighterwing/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/48fighterwing/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/48fighterwing/?hl=en</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: lakenheathfss.com  
-   Link: <a href="https://lakenheathfss.com/" target="_blank" rel="noopener noreferrer nofollow">https://lakenheathfss.com/</a>  
+   Link:<a href="https://lakenheathfss.com/" target="_blank" rel="noopener noreferrer nofollow">https://lakenheathfss.com/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: theguardian.com  
    Title: ufo expert not ruling out russia or china links to drones seen at raf bases  
-   Link: <a href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: alamy.com  
    Title: raf feltwell  
-   Link: <a href="https://www.alamy.com/stock-photo/raf-feltwell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/raf-feltwell.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/raf-feltwell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/raf-feltwell.html</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: dvidshub.net  
    Title: 48th Fighter Wing  
-   Link: <a href="https://www.dvidshub.net/unit/48FWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/48FWPA</a>  
+   Link:<a href="https://www.dvidshub.net/unit/48FWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/48FWPA</a>  
 
 ### Additional References
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: Drone sightings over U.S. bases prompt British troop deployments | VOA News  
-   Link: <a href="https://www.youtube.com/watch?v=dR_NQeaY95I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dR_NQeaY95I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Drone Sightings At U.S. Airbases In Britain | Aircraft And Missile Defense Scrambled...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dR_NQeaY95I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dR_NQeaY95I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Drone Sightings At U.S. Airbases In Britain | Aircraft And Missile Defense Scrambled...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HKh3zB-Wb20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKh3zB-Wb20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UK Bases Flooded With Sightings: What&#x27;s REALLY Happening?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HKh3zB-Wb20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKh3zB-Wb20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UK Bases Flooded With Sightings: What&#x27;s REALLY Happening?...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=04BsJAeIWTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=04BsJAeIWTg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone swarms over key U.S. military bases raise concerns...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=04BsJAeIWTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=04BsJAeIWTg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone swarms over key U.S. military bases raise concerns...</p></details>
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: youtube.com  
    Title: Rogue Drone Sightings Near UK Bases Double, Troops Get Shoot-Down Powers  
-   Link: <a href="https://www.youtube.com/watch?v=AHsRz5cIeno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AHsRz5cIeno</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sightings over U.S. bases prompt British troop deployments | VOA News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AHsRz5cIeno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AHsRz5cIeno</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sightings over U.S. bases prompt British troop deployments | VOA News...</p></details>
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
    Title: USAF UK Bases Flooded With Sightings: What's REALLY Happening?  
-   Link: <a href="https://www.youtube.com/watch?v=VBLLPRD3tDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VBLLPRD3tDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Unknown Drones Spotted Over 3 US Airbases in UK; Pentagon Says &#x27;Monitoring Them&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VBLLPRD3tDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VBLLPRD3tDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Unknown Drones Spotted Over 3 US Airbases in UK; Pentagon Says &#x27;Monitoring Them&#x27;...</p></details>
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
    Title: Drone swarms over key U.S. military bases raise concerns  
-   Link: <a href="https://www.youtube.com/watch?v=HkHxYKi2Hc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HkHxYKi2Hc4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Press Secretary Asked If Drones &#x27;Swarming&#x27; US Bases In England Have &#x27;Hostile Intent&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HkHxYKi2Hc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HkHxYKi2Hc4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Press Secretary Asked If Drones &#x27;Swarming&#x27; US Bases In England Have &#x27;Hostile Intent&#x27;...</p></details>
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/breaking-a-number-of-unidentified-drones-have-again-been-spotted-over-three-air-/1000686875435975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/breaking-a-number-of-unidentified-drones-have-again-been-spotted-over-three-air-/1000686875435975/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/breaking-a-number-of-unidentified-drones-have-again-been-spotted-over-three-air-/1000686875435975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/breaking-a-number-of-unidentified-drones-have-again-been-spotted-over-three-air-/1000686875435975/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: fpvuk.org  
-   Link: <a href="https://fpvuk.org/caa-permission-for-flight-above-400ft/" target="_blank" rel="noopener noreferrer nofollow">https://fpvuk.org/caa-permission-for-flight-above-400ft/</a>  
+   Link:<a href="https://fpvuk.org/caa-permission-for-flight-above-400ft/" target="_blank" rel="noopener noreferrer nofollow">https://fpvuk.org/caa-permission-for-flight-above-400ft/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211937906243123/posts/2158624711574423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211937906243123/posts/2158624711574423/</a>  
+   Link:<a href="https://www.facebook.com/groups/211937906243123/posts/2158624711574423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211937906243123/posts/2158624711574423/</a>  

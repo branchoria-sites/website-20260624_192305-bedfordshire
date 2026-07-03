@@ -254,7 +254,7 @@ image: /assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-overview-
 
 ## Introduction
 
-Aberporth changes the UFO test in [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }}) because it gives investigators a serious aviation question before they reach for stranger explanations: was the witness looking at range activity, a drone, a test aircraft, a flare, a missile-related trial, a laser or bombing exercise, or ordinary traffic using a complicated block of controlled and segregated airspace? The point is not that every unusual light over Cardigan Bay is “just Aberporth”. It is that the coast around Aberporth is one of the few places in rural Wales where military testing, unmanned aircraft systems and sea-facing dark skies overlap in a way that can genuinely produce puzzling sightings. MOD Aberporth is described by QinetiQ as a large secure safety area for testing air-launched weapons and unmanned aerial systems, and its Cardigan Bay Danger Area is a live aviation and maritime safety environment, not folklore scenery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+Aberporth changes the UFO test in [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }}) because it gives investigators a serious aviation question before they reach for stranger explanations: was the witness looking at range activity, a drone, a test aircraft, a flare, a missile-related trial, a laser or bombing exercise, or ordinary traffic using a complicated block of controlled and segregated airspace? The point is not that every unusual light over Cardigan Bay is “just Aberporth”. It is that the coast around Aberporth is one of the few places in rural Wales where military testing, unmanned aircraft systems and sea-facing dark skies overlap in a way that can genuinely produce puzzling sightings. MOD Aberporth is described by QinetiQ as a large secure safety area for testing air-launched weapons and unmanned aerial systems, and its Cardigan Bay Danger Area is a live aviation and maritime safety environment, not folklore scenery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-overview.webp" | relative_url }}" alt="Overview image for Aberporth Range" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,21 +264,21 @@ For Cardiganshire’s UFO history, that matters more than any single dramatic cl
 
 Aberporth sits on the coast of historic Cardiganshire, in modern Ceredigion, facing Cardigan Bay. That geography is important. A witness at Aberporth, Tresaith, Llangrannog, New Quay, Aberaeron or the lower Aeron valley may see lights over land, sea or horizon and describe them simply as “over Cardigan Bay”. The same view may include civil aircraft routes, military danger areas, coastal weather effects, fishing vessels, stars near the sea horizon and test activity connected with Aberporth. This makes the area unusually rich in ordinary causes that can look extraordinary from the ground.
 
-The range itself is not incidental. QinetiQ says a military testing range was first established in Cardigan Bay during the Second World War, controlled from near Aberporth, and that the Civil Aviation Authority enforces an air danger area when the range is active because of the hazardous nature of the work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span> The modern site is not only a historic firing range; it is part of a continuing test-and-evaluation landscape. QinetiQ’s Aberporth facts page says the company operates the range for the UK Ministry of Defence under the Long Term Partnering Agreement, supporting defence test, evaluation and training so that air-launched weapon systems, related sub-systems and UAS are safe and fit for purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/about/mod-aberporth-facts-and-figures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+The range itself is not incidental. QinetiQ says a military testing range was first established in Cardigan Bay during the Second World War, controlled from near Aberporth, and that the Civil Aviation Authority enforces an air danger area when the range is active because of the hazardous nature of the work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span> The modern site is not only a historic firing range; it is part of a continuing test-and-evaluation landscape. QinetiQ’s Aberporth facts page says the company operates the range for the UK Ministry of Defence under the Long Term Partnering Agreement, supporting defence test, evaluation and training so that air-launched weapon systems, related sub-systems and UAS are safe and fit for purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/about/mod-aberporth-facts-and-figures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
 This means Aberporth gives Cardiganshire UFO investigation a built-in control question. In a county without a major aviation or defence site, an odd object moving over a dark rural coast might first be tested against aircraft, planets, lanterns, satellites and weather. Around Aberporth, the first layer is broader: the investigator must also ask whether the sighting coincided with a scheduled or short-notice range activation, whether pilots or mariners were warned, whether unmanned aircraft were operating, and whether a witness’s angle of view made range activity appear closer, lower or stranger than it was.
 
-There is also a boundary issue. “Aberporth” in public UFO talk may refer to the village, MOD Aberporth, West Wales Airport, ParcAberporth, the Cardigan Bay Danger Area, or the wider Ceredigion coast. Those are related but not identical. A 2024 report on local controversy around drone testing usefully distinguishes West Wales Airport, MOD Aberporth and ParcAberporth as separate sites around the village: an airport, a military testing range and a technology park. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thelead.uk/gazas-skies-cardigan-bay-drone-testing-facility-dividing-welsh-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelead.uk">[The Lead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelead.uk</span><span class="citation-popover-title">gazas skies cardigan bay drone testing facility dividing welsh village</span><span class="citation-popover-snippet">gazas skies cardigan bay drone testing facility dividing welsh village</span></span></span> That distinction matters because a weak UFO claim can grow more impressive if all nearby defence or drone activity is blurred into one mysterious “base”.
+There is also a boundary issue. “Aberporth” in public UFO talk may refer to the village, MOD Aberporth, West Wales Airport, ParcAberporth, the Cardigan Bay Danger Area, or the wider Ceredigion coast. Those are related but not identical. A 2024 report on local controversy around drone testing usefully distinguishes West Wales Airport, MOD Aberporth and ParcAberporth as separate sites around the village: an airport, a military testing range and a technology park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thelead.uk/gazas-skies-cardigan-bay-drone-testing-facility-dividing-welsh-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelead.uk">[The Lead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelead.uk</span><span class="citation-popover-title">gazas skies cardigan bay drone testing facility dividing welsh village</span><span class="citation-popover-snippet">gazas skies cardigan bay drone testing facility dividing welsh village</span></span></span> That distinction matters because a weak UFO claim can grow more impressive if all nearby defence or drone activity is blurred into one mysterious “base”.
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-Illustration-1-dark.svg" | relative_url }}" alt="Aberporth Range illustration 1" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the range can put in the sky
 
-MOD Aberporth’s public safety material is unusually direct about the kinds of activity that can occur in the Cardigan Bay Danger Area. Its mariners’ guidance describes the area as a military testing and training area covering a large part of Cardigan Bay, with daily activities including low-flying aircraft, missile evaluation, laser firing and bombing. It adds that parts of the danger area may be temporarily cleared of shipping during firings and that announcements are made over VHF radio at the start and end of activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+MOD Aberporth’s public safety material is unusually direct about the kinds of activity that can occur in the Cardigan Bay Danger Area. Its mariners’ guidance describes the area as a military testing and training area covering a large part of Cardigan Bay, with daily activities including low-flying aircraft, missile evaluation, laser firing and bombing. It adds that parts of the danger area may be temporarily cleared of shipping during firings and that announcements are made over VHF radio at the start and end of activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
 That list matters because it maps neatly onto common UFO descriptions. Low-flying aircraft can appear suddenly over a dark coast and vanish behind cloud or terrain. Flares, weapons trials or range lights can produce bright, silent or slow-seeming lights over the sea. Laser or target activity may not look like ordinary airport traffic to a casual witness. Even when nothing secret is involved, a person who does not know the range is active may experience the sighting as anomalous.
 
-The scale of the airspace also changes the interpretation. A Civil Aviation Authority impact assessment describes the Aberporth Danger Area complex, D201, as comprising 2,379 square nautical miles of airspace above Cardigan Bay, intended for military test firing and other hazardous activities that cannot safely be conducted above populated areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/hzikci52/20180503-d201-and-d202-impact-assessment-v1-3_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> Mariners’ information gives the sea danger area as 6,500 square kilometres from sea level to unlimited height, with normal operating hours usually 0900 to 1700 Monday to Friday but occasional activity outside those times and at weekends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
+The scale of the airspace also changes the interpretation. A Civil Aviation Authority impact assessment describes the Aberporth Danger Area complex, D201, as comprising 2,379 square nautical miles of airspace above Cardigan Bay, intended for military test firing and other hazardous activities that cannot safely be conducted above populated areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/hzikci52/20180503-d201-and-d202-impact-assessment-v1-3_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> Mariners’ information gives the sea danger area as 6,500 square kilometres from sea level to unlimited height, with normal operating hours usually 0900 to 1700 Monday to Friday but occasional activity outside those times and at weekends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
 
 For UFO analysis, that means the relevant “scene” is not just the village of Aberporth or the runway. It is a large offshore volume where aircraft, unmanned systems and range safety procedures may be active well beyond the point a witness can judge by eye. A light that seems to hover “near the beach” may be over water. A moving object that seems close may be larger and farther away. A silent light may simply be too distant, upwind, masked by sea noise, or moving in a way that defeats ordinary distance judgement at night.
 
@@ -289,9 +289,9 @@ For UFO analysis, that means the relevant “scene” is not just the village of
 
 Drones are often used as an easy debunking word, but Aberporth shows why the explanation needs care. “Drone” can mean a small consumer quadcopter, a professional survey aircraft, a large military uncrewed aircraft, a target system, or an experimental platform flying under special procedures. Around Aberporth, several of those categories are plausible.
 
-West Wales Airport describes itself as a civil aerodrome and UAS test range in Ceredigion, supporting flying activity within dedicated segregated airspace over land and sea. Its UAS test-and-evaluation page says the environment supports platforms and mission profiles from line-of-sight trials to beyond-visual-line-of-sight operations, subject to regulatory approvals and agreed procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flyuav.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyuav.co.uk">[West Wales Airport Aberporth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyuav.co.uk</span><span class="citation-popover-snippet">Open source on flyuav.co.uk.</span></span></span> In 2025, TEKEVER announced that it had acquired West Wales Airport, calling it a key UAS testing and evaluation hub with access to 2,500 square miles of restricted airspace over land and sea; the company said it had operated there since 2023 and that the site had supported test flights for customers including the UK Home Office and Royal Navy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tekever.com/news/tekever-acquires-west-wales-airport-to-advance-uk-and-nato-defence-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tekever.com">[Tekever]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tekever.com</span><span class="citation-popover-snippet">Open source on tekever.com.</span></span></span>
+West Wales Airport describes itself as a civil aerodrome and UAS test range in Ceredigion, supporting flying activity within dedicated segregated airspace over land and sea. Its UAS test-and-evaluation page says the environment supports platforms and mission profiles from line-of-sight trials to beyond-visual-line-of-sight operations, subject to regulatory approvals and agreed procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flyuav.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyuav.co.uk">[West Wales Airport Aberporth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyuav.co.uk</span><span class="citation-popover-snippet">Open source on flyuav.co.uk.</span></span></span> In 2025, TEKEVER announced that it had acquired West Wales Airport, calling it a key UAS testing and evaluation hub with access to 2,500 square miles of restricted airspace over land and sea; the company said it had operated there since 2023 and that the site had supported test flights for customers including the UK Home Office and Royal Navy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tekever.com/news/tekever-acquires-west-wales-airport-to-advance-uk-and-nato-defence-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tekever.com">[Tekever]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tekever.com</span><span class="citation-popover-snippet">Open source on tekever.com.</span></span></span>
 
-That current drone activity matters for modern sightings, but the history goes back further. Wired reported in 2012 that the former Second World War airfield near the Aberporth military range had become a UK centre for military and civilian UAV testing, with more than 1,000 square kilometres of restricted airspace and local complaints that included noise, crash landings and mysterious lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/11/drone-testing-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Former WWII Airfield in Wales Transformed Into Drone Testing Ground</span><span class="citation-popover-snippet">Former WWII Airfield in Wales Transformed Into Drone Testing Ground</span></span></span> The Watchkeeper unmanned aircraft programme gives a concrete example: official Defence Safety Authority material records a Service Inquiry into a Watchkeeper UAV accident at West Wales Airport on 16 October 2014, and later reporting and accident databases record Watchkeeper crashes in or near Cardigan Bay and Aberporth during the programme’s troubled test and training history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Service Inquiry into the Watchkeeper (WK031) Unmanned</span><span class="citation-popover-snippet">Service Inquiry into the Watchkeeper (WK031) Unmanned</span></span></span>
+That current drone activity matters for modern sightings, but the history goes back further. Wired reported in 2012 that the former Second World War airfield near the Aberporth military range had become a UK centre for military and civilian UAV testing, with more than 1,000 square kilometres of restricted airspace and local complaints that included noise, crash landings and mysterious lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/11/drone-testing-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Former WWII Airfield in Wales Transformed Into Drone Testing Ground</span><span class="citation-popover-snippet">Former WWII Airfield in Wales Transformed Into Drone Testing Ground</span></span></span> The Watchkeeper unmanned aircraft programme gives a concrete example: official Defence Safety Authority material records a Service Inquiry into a Watchkeeper UAV accident at West Wales Airport on 16 October 2014, and later reporting and accident databases record Watchkeeper crashes in or near Cardigan Bay and Aberporth during the programme’s troubled test and training history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Service Inquiry into the Watchkeeper (WK031) Unmanned</span><span class="citation-popover-snippet">Service Inquiry into the Watchkeeper (WK031) Unmanned</span></span></span>
 
 The lesson for UFO work is not simply “drones explain it”. It is more precise: around Aberporth, unmanned aircraft are a known local source of unusual lights, unusual flight paths, unfamiliar engine notes, and public confusion. But a drone explanation still needs evidence. A serious explanation should identify the likely type of aircraft or operation, show that it could have been in that place at that time, and account for the witness description. A vague claim that “there are drones there” is weaker than a careful match with range activity, airspace notices, airport operations or a known trial.
 
@@ -305,18 +305,18 @@ A useful Aberporth sighting report should answer the following questions:
 
 1. **Where exactly was the witness, and which way were they looking?**
 
-“Aberporth”, “Cardigan Bay” and “Ceredigion coast” are not precise enough. A sighting from Tresaith looking south-west is not the same as one from Aberaeron looking north-west. Direction matters because the range, the airport, sea traffic and coastal settlements occupy different parts of the sky. 2. **Was the Cardigan Bay Danger Area active?** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
+“Aberporth”, “Cardigan Bay” and “Ceredigion coast” are not precise enough. A sighting from Tresaith looking south-west is not the same as one from Aberaeron looking north-west. Direction matters because the range, the airport, sea traffic and coastal settlements occupy different parts of the sky. 2. **Was the Cardigan Bay Danger Area active?**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
 
-QinetiQ tells pilots that Aberporth Air Traffic Control provides a Danger Area Activity Information Service and a Danger Area Crossing Service when activity allows. Pilots are told to contact Aberporth Radar in advance and to remain clear if they cannot comply with instructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span> For investigators, this points to a basic check: was the relevant airspace active, and were there NOTAMs or range notices?
+QinetiQ tells pilots that Aberporth Air Traffic Control provides a Danger Area Activity Information Service and a Danger Area Crossing Service when activity allows. Pilots are told to contact Aberporth Radar in advance and to remain clear if they cannot comply with instructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span> For investigators, this points to a basic check: was the relevant airspace active, and were there NOTAMs or range notices?
 3. **Was the sighting during ordinary or extended operating hours?**
 
-Normal hours do not settle the question, because the range can operate outside them. But a weekday daytime or twilight sighting during a published activity period has a different evidential weight from a sighting late at night with no apparent aviation notice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
+Normal hours do not settle the question, because the range can operate outside them. But a weekday daytime or twilight sighting during a published activity period has a different evidential weight from a sighting late at night with no apparent aviation notice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
 4. **Did the object behave like an aircraft, drone, flare or range target?**
 
 Straight-line travel, station-keeping, slow apparent drift, sudden brightness changes, repeated passes, or lights appearing over the same sea sector can all fit ordinary mechanisms. The more a report includes exact timing, angular size, sound, colour changes and movement relative to stars or landmarks, the easier it is to test.
 5. **Could a drone’s lighting or operating rules explain the visual effect?**
 
-The Civil Aviation Authority’s UAS guidance defines visual line of sight as the remote pilot maintaining continuous unaided visual contact with the unmanned aircraft, while also noting that factors such as aircraft size, lighting, weather and visual conspicuity affect how far this can safely be done. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12273" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Unmanned Aircraft System Operations in UK Airspace</span><span class="citation-popover-snippet">Civil Aviation Authority Unmanned Aircraft System Operations in UK Airspace</span></span></span> The CAA also states that drones flown at night in the Open Category must display a green flashing light from 1 January 2026. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span> This does not explain older sightings, or special-category operations by itself, but it shows why colour and flashing pattern now matter even more in [modern reports]({{ 'modern-reports/' | relative_url }}).
+The Civil Aviation Authority’s UAS guidance defines visual line of sight as the remote pilot maintaining continuous unaided visual contact with the unmanned aircraft, while also noting that factors such as aircraft size, lighting, weather and visual conspicuity affect how far this can safely be done.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12273" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Unmanned Aircraft System Operations in UK Airspace</span><span class="citation-popover-snippet">Civil Aviation Authority Unmanned Aircraft System Operations in UK Airspace</span></span></span> The CAA also states that drones flown at night in the Open Category must display a green flashing light from 1 January 2026.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span> This does not explain older sightings, or special-category operations by itself, but it shows why colour and flashing pattern now matter even more in [modern reports]({{ 'modern-reports/' | relative_url }}).
 6. **Was there independent corroboration?**
 
 A strong Aberporth case would ideally have multiple witnesses from separated locations, photographs or video with time metadata, aircraft-tracking checks where relevant, range activity information, and possibly maritime or pilot observations. A single memory reported years later may still be sincere, but it is much harder to separate from ordinary aviation activity.
@@ -330,11 +330,11 @@ This checklist is especially important because Cardigan Bay creates distance ill
 
 The strongest local evidence would be evidence that survives the range-and-aviation checks. A report becomes more interesting if it has a precise time and place, a clear line of sight, multiple independent witnesses, and a description that does not fit known range activity, ordinary aircraft, drones, satellites, lanterns, marine lights or astronomy. It becomes weaker if it relies on a general claim of “strange lights near Aberporth” without date, direction, duration or corroboration.
 
-Official infrastructure can sometimes help rather than hinder. The UK Aeronautical Information Publication, NOTAMs, danger area activity services, maritime warnings and range schedules exist because the area has to be managed safely. They are not UFO archives, but they can help reconstruct whether unusual aerial activity was expected. NATS explains that the UK AIP contains static information of lasting character essential to air navigation, while QinetiQ’s pilot guidance gives practical contact and radio information for Aberporth danger area activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats-uk.ead-it.com">[NATS UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats-uk.ead-it.com</span><span class="citation-popover-title">NATS UKAIP</span><span class="citation-popover-snippet">NATS UKAIP</span></span></span>
+Official infrastructure can sometimes help rather than hinder. The UK Aeronautical Information Publication, NOTAMs, danger area activity services, maritime warnings and range schedules exist because the area has to be managed safely. They are not UFO archives, but they can help reconstruct whether unusual aerial activity was expected. NATS explains that the UK AIP contains static information of lasting character essential to air navigation, while QinetiQ’s pilot guidance gives practical contact and radio information for Aberporth danger area activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats-uk.ead-it.com">[NATS UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats-uk.ead-it.com</span><span class="citation-popover-title">NATS UKAIP</span><span class="citation-popover-snippet">NATS UKAIP</span></span></span>
 
-The same is true of accident and inquiry records. The Watchkeeper service inquiries do not prove that a reported UFO was a Watchkeeper, but they do prove that large unmanned aircraft have flown, failed, crashed and been investigated in the Aberporth environment. The 2014 Watchkeeper inquiry is an official example of a UAV accident at West Wales Airport, and later reports show that the programme produced further incidents in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Service Inquiry into the Watchkeeper (WK031) Unmanned</span><span class="citation-popover-snippet">Service Inquiry into the Watchkeeper (WK031) Unmanned</span></span></span> For a county UFO page, those records are valuable because they replace vague speculation about “secret aircraft” with documented aviation activity.
+The same is true of accident and inquiry records. The Watchkeeper service inquiries do not prove that a reported UFO was a Watchkeeper, but they do prove that large unmanned aircraft have flown, failed, crashed and been investigated in the Aberporth environment. The 2014 Watchkeeper inquiry is an official example of a UAV accident at West Wales Airport, and later reports show that the programme produced further incidents in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Service Inquiry into the Watchkeeper (WK031) Unmanned</span><span class="citation-popover-snippet">Service Inquiry into the Watchkeeper (WK031) Unmanned</span></span></span> For a county UFO page, those records are valuable because they replace vague speculation about “secret aircraft” with documented aviation activity.
 
-Local media and witness stories still have a place, but they need careful handling. A 2023 Cambrian News article, for example, discussed a Ceredigion UFO enthusiast’s claimed sightings over the Aeron Valley, showing that unusual-sky stories remain part of local public culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-title">Cambrian News Aliens in mid Wales? UFO-logist claims she saw</span><span class="citation-popover-snippet">Cambrian News Aliens in mid Wales? UFO-logist claims she saw</span></span></span> Such accounts are useful as evidence that people in the area continue to report and interpret unusual objects, but they are not enough on their own to establish an unexplained case. In the Aberporth context, the test is whether the story can be pinned to a time, direction and mechanism check.
+Local media and witness stories still have a place, but they need careful handling. A 2023 Cambrian News article, for example, discussed a Ceredigion UFO enthusiast’s claimed sightings over the Aeron Valley, showing that unusual-sky stories remain part of local public culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambrian-news.co.uk">[Cambrian News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambrian-news.co.uk</span><span class="citation-popover-title">Cambrian News Aliens in mid Wales? UFO-logist claims she saw</span><span class="citation-popover-snippet">Cambrian News Aliens in mid Wales? UFO-logist claims she saw</span></span></span> Such accounts are useful as evidence that people in the area continue to report and interpret unusual objects, but they are not enough on their own to establish an unexplained case. In the Aberporth context, the test is whether the story can be pinned to a time, direction and mechanism check.
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-Illustration-3-dark.svg" | relative_url }}" alt="Aberporth Range illustration 3" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_aberporth_aviation_t_8557ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,194 +353,194 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aberporth Changes the UFO Test. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aberporth Changes the UFO Test. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for interpreting aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interpreting aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains many pilot and military witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains many pilot and military witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Fits a page focused on military activity, testing ranges and aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on military activity, testing ranges and aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Relevant to assessing drone, aircraft and range-related explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing drone, aircraft and range-related explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aberporth-range-how-aberporth-changes-the-ufo-test-cardiganshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-aberporth-changes-the-ufo-test-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,254 +746,254 @@ This is the main value of Aberporth within Cardiganshire’s UFO map. It is not 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/about/mod-aberporth-facts-and-figures" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about/mod-aberporth-facts-and-figures</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/about/mod-aberporth-facts-and-figures" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about/mod-aberporth-facts-and-figures</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: milfordmarina.com  
    Title: Cardigan Bay Danger Area  
-   Link: <a href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/</a>  
+   Link:<a href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tekever.com  
-   Link: <a href="https://www.tekever.com/news/tekever-acquires-west-wales-airport-to-advance-uk-and-nato-defence-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.tekever.com/news/tekever-acquires-west-wales-airport-to-advance-uk-and-nato-defence-capabilities/</a>  
+   Link:<a href="https://www.tekever.com/news/tekever-acquires-west-wales-airport-to-advance-uk-and-nato-defence-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.tekever.com/news/tekever-acquires-west-wales-airport-to-advance-uk-and-nato-defence-capabilities/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: Former WWII Airfield in Wales Transformed Into Drone Testing Ground  
-   Link: <a href="https://www.wired.com/2012/11/drone-testing-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/11/drone-testing-ground</a>  
+   Link:<a href="https://www.wired.com/2012/11/drone-testing-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/11/drone-testing-ground</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: Service Inquiry into the Watchkeeper (WK031) Unmanned  
-   Link: <a href="https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014</a>  
+   Link:<a href="https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/service-inquiry-into-the-watchkeeper-wk031-unmanned-air-vehicle-uav-accident-at-west-wales-airport-on-16-october-2014</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/200763" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/200763</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/200763" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/200763</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-pilots</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-pilots</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nats.aero  
    Title: Aeronautical Information Service  
-   Link: <a href="https://www.nats.aero/do-it-online/ais/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/do-it-online/ais/</a>  
+   Link:<a href="https://www.nats.aero/do-it-online/ais/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/do-it-online/ais/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
+   Link:<a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nats.aero  
    Title: About airspace  
-   Link: <a href="https://www.nats.aero/airspace/about-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/about-airspace/</a>  
+   Link:<a href="https://www.nats.aero/airspace/about-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/about-airspace/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20190402 WK042 SI Final Report Redacted RT OS  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5ca6102240f0b625e97ffe6a/20190402-WK042_SI_Final_Report-_Redacted__RT-OS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5ca6102240f0b625e97ffe6a/20190402-WK042_SI_Final_Report-_Redacted__RT-OS.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5ca6102240f0b625e97ffe6a/20190402-WK042_SI_Final_Report-_Redacted__RT-OS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5ca6102240f0b625e97ffe6a/20190402-WK042_SI_Final_Report-_Redacted__RT-OS.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/news/typhoon-apkws" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/typhoon-apkws</a>  
+   Link:<a href="https://www.qinetiq.com/en/news/typhoon-apkws" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/typhoon-apkws</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/news/hms-duncan-neutralises-swarms-of-drones-during-qinetiq-exercise" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/hms-duncan-neutralises-swarms-of-drones-during-qinetiq-exercise</a>  
+   Link:<a href="https://www.qinetiq.com/en/news/hms-duncan-neutralises-swarms-of-drones-during-qinetiq-exercise" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/hms-duncan-neutralises-swarms-of-drones-during-qinetiq-exercise</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/what-we-do/test-and-training/threat-representation/target-systems/other-products-and-services/range-services" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/what-we-do/test-and-training/threat-representation/target-systems/other-products-and-services/range-services</a>  
+   Link:<a href="https://www.qinetiq.com/en/what-we-do/test-and-training/threat-representation/target-systems/other-products-and-services/range-services" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/what-we-do/test-and-training/threat-representation/target-systems/other-products-and-services/range-services</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/-/media/3d7f8a994a274079a6867366d64bd124.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/-/media/3d7f8a994a274079a6867366d64bd124.ashx</a>  
+   Link:<a href="https://www.qinetiq.com/-/media/3d7f8a994a274079a6867366d64bd124.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/-/media/3d7f8a994a274079a6867366d64bd124.ashx</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/faq</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/faq</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/what-we-do/test-and-training/test-and-evaluation/facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/what-we-do/test-and-training/test-and-evaluation/facilities</a>  
+   Link:<a href="https://www.qinetiq.com/en/what-we-do/test-and-training/test-and-evaluation/facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/what-we-do/test-and-training/test-and-evaluation/facilities</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/public-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/public-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: careers.tekever.com  
    Title: uk tekever west wales  
-   Link: <a href="https://careers.tekever.com/locations/uk-tekever-west-wales" target="_blank" rel="noopener noreferrer nofollow">https://careers.tekever.com/locations/uk-tekever-west-wales</a>  
+   Link:<a href="https://careers.tekever.com/locations/uk-tekever-west-wales" target="_blank" rel="noopener noreferrer nofollow">https://careers.tekever.com/locations/uk-tekever-west-wales</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thelead.uk  
    Title: gazas skies cardigan bay drone testing facility dividing welsh village  
-   Link: <a href="https://thelead.uk/gazas-skies-cardigan-bay-drone-testing-facility-dividing-welsh-village" target="_blank" rel="noopener noreferrer nofollow">https://thelead.uk/gazas-skies-cardigan-bay-drone-testing-facility-dividing-welsh-village</a>  
+   Link:<a href="https://thelead.uk/gazas-skies-cardigan-bay-drone-testing-facility-dividing-welsh-village" target="_blank" rel="noopener noreferrer nofollow">https://thelead.uk/gazas-skies-cardigan-bay-drone-testing-facility-dividing-welsh-village</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/hzikci52/20180503-d201-and-d202-impact-assessment-v1-3_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/hzikci52/20180503-d201-and-d202-impact-assessment-v1-3_redacted.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/hzikci52/20180503-d201-and-d202-impact-assessment-v1-3_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/hzikci52/20180503-d201-and-d202-impact-assessment-v1-3_redacted.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: flyuav.co.uk  
-   Link: <a href="https://www.flyuav.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/</a>  
+   Link:<a href="https://www.flyuav.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flyuav.co.uk  
    Title: West Wales Airport Aberporth UAS Test and Evaluation  
-   Link: <a href="https://www.flyuav.co.uk/uas/uas-test-and-evaluation/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/uas/uas-test-and-evaluation/</a>  
+   Link:<a href="https://www.flyuav.co.uk/uas/uas-test-and-evaluation/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/uas/uas-test-and-evaluation/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Unmanned Aircraft System Operations in UK Airspace  
-   Link: <a href="https://www.caa.co.uk/publication/download/12273" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12273</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12273" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12273</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nats-uk.ead-it.com  
    Title: NATS UKAIP  
-   Link: <a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/</a>  
+   Link:<a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cambrian-news.co.uk  
    Title: Cambrian News Aliens in mid Wales? UFO-logist claims she saw  
-   Link: <a href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887</a>  
+   Link:<a href="https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887" target="_blank" rel="noopener noreferrer nofollow">https://www.cambrian-news.co.uk/news/aliens-in-mid-wales-ufo-logist-claims-she-saw-spacecrafts-in-the-ceredigion-skies-615887</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: suasnews.com  
    Title: tekever launches new uas training school at west wales airport  
-   Link: <a href="https://www.suasnews.com/2026/02/tekever-launches-new-uas-training-school-at-west-wales-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.suasnews.com/2026/02/tekever-launches-new-uas-training-school-at-west-wales-airport/</a>  
+   Link:<a href="https://www.suasnews.com/2026/02/tekever-launches-new-uas-training-school-at-west-wales-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.suasnews.com/2026/02/tekever-launches-new-uas-training-school-at-west-wales-airport/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/uncategorized/tekever-acquires-west-wales-airport-as-national-uas-test-and-evaluation-hub/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/uncategorized/tekever-acquires-west-wales-airport-as-national-uas-test-and-evaluation-hub/</a>  
+   Link:<a href="https://www.unmannedairspace.info/uncategorized/tekever-acquires-west-wales-airport-as-national-uas-test-and-evaluation-hub/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/uncategorized/tekever-acquires-west-wales-airport-as-national-uas-test-and-evaluation-hub/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/cap1681/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/cap1681/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/cap1681/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/cap1681/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: caa.co.uk  
    Title: nats system failure 12 12 14 independent enquiry final report 2 0 1  
-   Link: <a href="https://www.caa.co.uk/media/r42hircd/nats-system-failure-12-12-14-independent-enquiry-final-report-2-0-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/r42hircd/nats-system-failure-12-12-14-independent-enquiry-final-report-2-0-1.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/r42hircd/nats-system-failure-12-12-14-independent-enquiry-final-report-2-0-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/r42hircd/nats-system-failure-12-12-14-independent-enquiry-final-report-2-0-1.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ukdefencejournal.org.uk  
    Title: tekever opens uas training school at west wales airport  
-   Link: <a href="https://ukdefencejournal.org.uk/tekever-opens-uas-training-school-at-west-wales-airport/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/tekever-opens-uas-training-school-at-west-wales-airport/</a>  
+   Link:<a href="https://ukdefencejournal.org.uk/tekever-opens-uas-training-school-at-west-wales-airport/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/tekever-opens-uas-training-school-at-west-wales-airport/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: flyuav.co.uk  
    Title: West Wales Airport EGFA AIP Entry doc  
-   Link: <a href="https://www.flyuav.co.uk/wp-content/uploads/2017/05/West-Wales-Airport-EGFA-AIP-Entry-doc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/wp-content/uploads/2017/05/West-Wales-Airport-EGFA-AIP-Entry-doc.pdf</a>  
+   Link:<a href="https://www.flyuav.co.uk/wp-content/uploads/2017/05/West-Wales-Airport-EGFA-AIP-Entry-doc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/wp-content/uploads/2017/05/West-Wales-Airport-EGFA-AIP-Entry-doc.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: flyuav.co.uk  
-   Link: <a href="https://www.flyuav.co.uk/uas/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/uas/airspace/</a>  
+   Link:<a href="https://www.flyuav.co.uk/uas/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyuav.co.uk/uas/airspace/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/unmanned-systems-technology_uas-drone-testing-activity-7354090245727866883-cB7N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unmanned-systems-technology_uas-drone-testing-activity-7354090245727866883-cB7N</a>  
+   Link:<a href="https://www.linkedin.com/posts/unmanned-systems-technology_uas-drone-testing-activity-7354090245727866883-cB7N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unmanned-systems-technology_uas-drone-testing-activity-7354090245727866883-cB7N</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dronexl.co  
    Title: tekever uas training school wales airport  
-   Link: <a href="https://dronexl.co/2026/02/21/tekever-uas-training-school-wales-airport/" target="_blank" rel="noopener noreferrer nofollow">https://dronexl.co/2026/02/21/tekever-uas-training-school-wales-airport/</a>  
+   Link:<a href="https://dronexl.co/2026/02/21/tekever-uas-training-school-wales-airport/" target="_blank" rel="noopener noreferrer nofollow">https://dronexl.co/2026/02/21/tekever-uas-training-school-wales-airport/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: botsanddrones.uk  
    Title: tekever opens uas training school at west wales airport  
-   Link: <a href="https://botsanddrones.uk/best-commercial-drones-1/f/tekever-opens-uas-training-school-at-west-wales-airport" target="_blank" rel="noopener noreferrer nofollow">https://botsanddrones.uk/best-commercial-drones-1/f/tekever-opens-uas-training-school-at-west-wales-airport</a>  
+   Link:<a href="https://botsanddrones.uk/best-commercial-drones-1/f/tekever-opens-uas-training-school-at-west-wales-airport" target="_blank" rel="noopener noreferrer nofollow">https://botsanddrones.uk/best-commercial-drones-1/f/tekever-opens-uas-training-school-at-west-wales-airport</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: t3e.uk  
    Title: Qineti Q  
-   Link: <a href="https://www.t3e.uk/en/case-studies/future-test-and-evaluation-for-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.t3e.uk/en/case-studies/future-test-and-evaluation-for-uas</a>  
+   Link:<a href="https://www.t3e.uk/en/case-studies/future-test-and-evaluation-for-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.t3e.uk/en/case-studies/future-test-and-evaluation-for-uas</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: nats-uk.ead-it.com  
    Title: uas restriction zones  
-   Link: <a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/</a>  
+   Link:<a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: ukspacefacilities.stfc.ac.uk  
    Title: Qineti Q Farnborough UAS.aspx  
-   Link: <a href="https://www.ukspacefacilities.stfc.ac.uk/Pages/QinetiQ-Farnborough-UAS.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ukspacefacilities.stfc.ac.uk/Pages/QinetiQ-Farnborough-UAS.aspx</a>  
+   Link:<a href="https://www.ukspacefacilities.stfc.ac.uk/Pages/QinetiQ-Farnborough-UAS.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ukspacefacilities.stfc.ac.uk/Pages/QinetiQ-Farnborough-UAS.aspx</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/127636/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/127636/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/127636/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/127636/pdf/</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: HMS Dauntless neutralises mass drone attacks in live fire exercise  
-   Link: <a href="https://www.youtube.com/watch?v=0Y7-SSZKV5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Y7-SSZKV5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise Sharpshooter: live and synthetic training for the Royal Navy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0Y7-SSZKV5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Y7-SSZKV5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise Sharpshooter: live and synthetic training for the Royal Navy...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Aberporth Live Fire! The RAE's Very Own Missile Test Facility  
-   Link: <a href="https://www.youtube.com/watch?v=rnMu8LuQn8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMu8LuQn8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HMS Dauntless neutralises mass drone attacks in live fire exercise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnMu8LuQn8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMu8LuQn8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HMS Dauntless neutralises mass drone attacks in live fire exercise...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/djimini3ukowners/posts/2838186609721715/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/djimini3ukowners/posts/2838186609721715/</a>  
+   Link:<a href="https://www.facebook.com/groups/djimini3ukowners/posts/2838186609721715/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/djimini3ukowners/posts/2838186609721715/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: ingenia.org.uk  
-   Link: <a href="https://www.ingenia.org.uk/articles/creating-smarter-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ingenia.org.uk/articles/creating-smarter-skies/</a>  
+   Link:<a href="https://www.ingenia.org.uk/articles/creating-smarter-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ingenia.org.uk/articles/creating-smarter-skies/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddrone.co.uk  
-   Link: <a href="https://reddrone.co.uk/drone-law-certification/" target="_blank" rel="noopener noreferrer nofollow">https://reddrone.co.uk/drone-law-certification/</a>  
+   Link:<a href="https://reddrone.co.uk/drone-law-certification/" target="_blank" rel="noopener noreferrer nofollow">https://reddrone.co.uk/drone-law-certification/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: coastalcottages.co.uk  
-   Link: <a href="https://www.coastalcottages.co.uk/inspiration/explore/explore-the-broad-haven-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.coastalcottages.co.uk/inspiration/explore/explore-the-broad-haven-triangle/</a>  
+   Link:<a href="https://www.coastalcottages.co.uk/inspiration/explore/explore-the-broad-haven-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.coastalcottages.co.uk/inspiration/explore/explore-the-broad-haven-triangle/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: standardsforhighways.co.uk  
-   Link: <a href="https://standardsforhighways.co.uk/tses/attachments/html/ce7e41ba-3dc1-41de-bf25-4f8da7b2bb06" target="_blank" rel="noopener noreferrer nofollow">https://standardsforhighways.co.uk/tses/attachments/html/ce7e41ba-3dc1-41de-bf25-4f8da7b2bb06</a>  
+   Link:<a href="https://standardsforhighways.co.uk/tses/attachments/html/ce7e41ba-3dc1-41de-bf25-4f8da7b2bb06" target="_blank" rel="noopener noreferrer nofollow">https://standardsforhighways.co.uk/tses/attachments/html/ce7e41ba-3dc1-41de-bf25-4f8da7b2bb06</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/</a>  
+   Link:<a href="https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/</a>  
+   Link:<a href="https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/</a>  

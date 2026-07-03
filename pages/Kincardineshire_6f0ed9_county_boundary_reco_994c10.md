@@ -252,13 +252,13 @@ image: /assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-overvie
 
 
 <img src="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-overview.webp" | relative_url }}" alt="Overview image for Boundaries" loading="eager" decoding="sync" fetchpriority="high">
-This matters because the best-known official entries for the area are short Ministry of Defence table records, not fully investigated case files. The MoD’s published UK UFO reports from 1997 to 2009 give dates, times, locations and brief descriptions, but they do not resolve sightings into confirmed causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span> For Kincardineshire, the boundary question is therefore part of the evidence question: before asking what a light in the sky was, the reader has to know which “county” the source meant.
+This matters because the best-known official entries for the area are short Ministry of Defence table records, not fully investigated case files. The MoD’s published UK UFO reports from 1997 to 2009 give dates, times, locations and brief descriptions, but they do not resolve sightings into confirmed causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span> For Kincardineshire, the boundary question is therefore part of the evidence question: before asking what a light in the sky was, the reader has to know which “county” the source meant.
 
 ## Historic Kincardineshire and the Mearns
 
-Historic Kincardineshire, also known as the Mearns, is a coastal county in north-east Scotland. Wikishire describes it as lying on the North Sea coast, bounded by Aberdeenshire to the north and Angus to the south-west; the Association of British Counties similarly describes it as a triangular shire with the North Esk forming the south-western border with Angus and the River Dee forming much of the northern border with Aberdeenshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Kincardineshire4 Nov 2016 — The County of Kincardine or The Mearns is a coastal shire at the edge of the Highlands. It lies on t...</span></span></span> Stonehaven was the county town, and other settlements commonly associated with the historic county include Banchory, Inverbervie, Laurencekirk, Newtonhill, Muchalls and Portlethen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Historic Kincardineshire, also known as the Mearns, is a coastal county in north-east Scotland. Wikishire describes it as lying on the North Sea coast, bounded by Aberdeenshire to the north and Angus to the south-west; the Association of British Counties similarly describes it as a triangular shire with the North Esk forming the south-western border with Angus and the River Dee forming much of the northern border with Aberdeenshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Kincardineshire4 Nov 2016 — The County of Kincardine or The Mearns is a coastal shire at the edge of the Highlands. It lies on t...</span></span></span> Stonehaven was the county town, and other settlements commonly associated with the historic county include Banchory, Inverbervie, Laurencekirk, Newtonhill, Muchalls and Portlethen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-For this project, that older county geography is the organising frame. The UK historic-counties map tradition treats Kincardineshire as one of the 92 historic counties of the United Kingdom: 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-snippet">Association of British CountiesAbout the CountiesJanuary 4, 2020 — There are 92 historic counties in the UK: 39 in England, 6 in Northern...</span><span class="citation-popover-meta">Published: January 4, 2020</span></span></span> Wikimedia Commons also hosts historic-county SVG map material for the United Kingdom, including county-by-county files, which is why the historic-county layer is useful as a consistent project index even when modern councils use different names. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Category:SVG maps of historic counties of the United Kingdom</span><span class="citation-popover-snippet">Category:SVG maps of historic counties of the United Kingdom</span></span></span>
+For this project, that older county geography is the organising frame. The UK historic-counties map tradition treats Kincardineshire as one of the 92 historic counties of the United Kingdom: 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-snippet">Association of British CountiesAbout the CountiesJanuary 4, 2020 — There are 92 historic counties in the UK: 39 in England, 6 in Northern...</span><span class="citation-popover-meta">Published: January 4, 2020</span></span></span> Wikimedia Commons also hosts historic-county SVG map material for the United Kingdom, including county-by-county files, which is why the historic-county layer is useful as a consistent project index even when modern councils use different names.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Category:SVG maps of historic counties of the United Kingdom</span><span class="citation-popover-snippet">Category:SVG maps of historic counties of the United Kingdom</span></span></span>
 
 The Republic of Ireland can appear on some British Isles historic-county maps as surrounding geographic context, but it is not part of this UK county collection. That distinction matters on a mapped UFO project because map background is not the same as project scope. Kincardineshire belongs to the Scottish historic-county frame; Irish counties on a source map should not be treated as UK branches or as comparable reporting areas for this page.
 
@@ -266,24 +266,24 @@ The Republic of Ireland can appear on some British Isles historic-county maps as
 <img src="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-Illustration-1-dark.svg" | relative_url }}" alt="Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern labels can hide older county meaning
 
-The old county was not the same thing as today’s council geography. Scotland’s 1975 local government reorganisation replaced the former county-based system with regions and districts; Kincardineshire was folded into the Grampian region, with much of the old county placed in Kincardine and Deeside district. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1973/65/enacted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span> The 1973 Act’s schedule placed the burghs of Banchory, Inverbervie, Laurencekirk and Stonehaven in Kincardine and Deeside, while the electoral division of Nigg went to the City of Aberdeen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1973/65/schedules/1995-10-30/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
+The old county was not the same thing as today’s council geography. Scotland’s 1975 local government reorganisation replaced the former county-based system with regions and districts; Kincardineshire was folded into the Grampian region, with much of the old county placed in Kincardine and Deeside district.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1973/65/enacted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span> The 1973 Act’s schedule placed the burghs of Banchory, Inverbervie, Laurencekirk and Stonehaven in Kincardine and Deeside, while the electoral division of Nigg went to the City of Aberdeen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1973/65/schedules/1995-10-30/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
 
-That is why “Grampian” appears in some UFO records that still matter to Kincardineshire. A Stonehaven report from 19 January 2003, for example, is listed in the MoD table as “Stonehaven Grampian” and described as “three bright lights forming a triangle” that were “hovering not moving”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In historic-county terms, Stonehaven is not a vague north-east Scotland reference; it is the old county town of Kincardineshire. The modern label points to the administrative system used by the source, not to a different sky.
+That is why “Grampian” appears in some UFO records that still matter to Kincardineshire. A Stonehaven report from 19 January 2003, for example, is listed in the MoD table as “Stonehaven Grampian” and described as “three bright lights forming a triangle” that were “hovering not moving”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In historic-county terms, Stonehaven is not a vague north-east Scotland reference; it is the old county town of Kincardineshire. The modern label points to the administrative system used by the source, not to a different sky.
 
-The same applies to “Aberdeenshire” in later records. Aberdeenshire Council’s Kincardine and Mearns area profile describes a modern administrative area of about 759 square kilometres, with Stonehaven, Portlethen, Newtonhill, Laurencekirk and Inverbervie among its named settlements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/657ef4bd-7437-4d3b-97e9-59f2efb81c41/kincardine--mearns-area-profile-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenshirestorage.blob.core.windows.net">[Aberdeenshire Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenshirestorage.blob.core.windows.net</span><span class="citation-popover-title">kincardine mearns area profile 2023</span><span class="citation-popover-snippet">kincardine mearns area profile 2023</span></span></span> That modern area overlaps strongly with the old Kincardineshire story, but it is not a perfect substitute for the historic county. A UFO archive that searches only for “Kincardineshire” will miss relevant entries; one that treats every Aberdeenshire entry as Kincardineshire will overcount.
+The same applies to “Aberdeenshire” in later records. Aberdeenshire Council’s Kincardine and Mearns area profile describes a modern administrative area of about 759 square kilometres, with Stonehaven, Portlethen, Newtonhill, Laurencekirk and Inverbervie among its named settlements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/657ef4bd-7437-4d3b-97e9-59f2efb81c41/kincardine--mearns-area-profile-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenshirestorage.blob.core.windows.net">[Aberdeenshire Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenshirestorage.blob.core.windows.net</span><span class="citation-popover-title">kincardine mearns area profile 2023</span><span class="citation-popover-snippet">kincardine mearns area profile 2023</span></span></span> That modern area overlaps strongly with the old Kincardineshire story, but it is not a perfect substitute for the historic county. A UFO archive that searches only for “Kincardineshire” will miss relevant entries; one that treats every Aberdeenshire entry as Kincardineshire will overcount.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yGxftZwdWsM" title="New UFO Files From UK Government - Expert Highlights | Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer">New UFO Files From UK Government - Expert Highlights | Video</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 34.3K &middot; Uploaded: July 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yGxftZwdWsM">Open on YouTube</a></p></div></div></div>
 
 ## Three local examples show the confusion
 
-The clearest way to see the problem is to follow the place labels in the official MoD tables. These entries are not proof of extraordinary craft. They are reports received and summarised by the Ministry of Defence, usually in only a sentence or two. The MoD itself stated in released correspondence that it examined UFO reports only to see whether there was any defence significance, especially any evidence that UK airspace had been compromised by hostile or unauthorised activity; unless there was evidence of a potential threat, it did not attempt to identify the precise nature of every sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The clearest way to see the problem is to follow the place labels in the official MoD tables. These entries are not proof of extraordinary craft. They are reports received and summarised by the Ministry of Defence, usually in only a sentence or two. The MoD itself stated in released correspondence that it examined UFO reports only to see whether there was any defence significance, especially any evidence that UK airspace had been compromised by hostile or unauthorised activity; unless there was evidence of a potential threat, it did not attempt to identify the precise nature of every sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 The local entries are useful precisely because they show how administrative wording can blur the historic county record:
 
-* **Banchory, 21 December 1999:** the MoD table lists “Banchory Aberdeenshire” and describes one circular object, white and very bright, moving downwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> For a modern reader, Banchory may look simply like Aberdeenshire. For a historic-county project, it needs closer handling because Banchory sits on the Deeside edge of the Kincardineshire story.
-* **Stonehaven, 19 January 2003:** the MoD table lists “Stonehaven Grampian” and records three bright lights forming a triangle, hovering rather than moving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> This is the strongest example of a Kincardineshire sighting hidden under a now-obsolete regional label.
-* **Portlethen, 28 February 2009:** the MoD table lists “Portlethen Aberdeenshire” and describes a big yellow glow south of Aberdeen, about 2,500 feet high, which the witness did not think was aircraft landing lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Portlethen is now routinely framed through Aberdeenshire and Aberdeen commuter geography, but it is also within the Kincardine and Mearns local frame.
+* **Banchory, 21 December 1999:** the MoD table lists “Banchory Aberdeenshire” and describes one circular object, white and very bright, moving downwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> For a modern reader, Banchory may look simply like Aberdeenshire. For a historic-county project, it needs closer handling because Banchory sits on the Deeside edge of the Kincardineshire story.
+* **Stonehaven, 19 January 2003:** the MoD table lists “Stonehaven Grampian” and records three bright lights forming a triangle, hovering rather than moving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> This is the strongest example of a Kincardineshire sighting hidden under a now-obsolete regional label.
+* **Portlethen, 28 February 2009:** the MoD table lists “Portlethen Aberdeenshire” and describes a big yellow glow south of Aberdeen, about 2,500 feet high, which the witness did not think was aircraft landing lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Portlethen is now routinely framed through Aberdeenshire and Aberdeen commuter geography, but it is also within the Kincardine and Mearns local frame.
 
 These examples do not create a dramatic Kincardineshire “flap”. They show something more modest but more reliable: local UFO evidence can disappear from view if the researcher searches only the historic county name. The opposite mistake is just as serious. A report from elsewhere in modern Aberdeenshire, or from the former Grampian region, should not automatically be pulled into Kincardineshire unless the town, parish or coordinates place it inside or very close to the historic county.
 
@@ -317,13 +317,13 @@ A practical rule is to classify each report in three layers:
 
 This approach prevents two common distortions. It stops undercounting, where Kincardineshire looks empty because records were filed under Aberdeenshire or Grampian. It also stops overcounting, where every north-east Scotland UFO report is folded into Kincardineshire even when the place is plainly elsewhere.
 
-The boundary rule is especially important near Aberdeen and the River Dee. Historic county borders, later city expansion and modern council geography do not always line up neatly. Kincardineshire sources note that parts of the City of Aberdeen extend south of the Dee into historic Kincardineshire territory, while modern local government has moved some areas into Aberdeen City administration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/counties/county-profiles/kincardineshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-snippet">Association of British CountiesKincardineshireKincardineshire, which has also been named “the Mearns”, is a triangular shire on the North...</span></span></span> For UFO interpretation, this means an “Aberdeen” or “south of Aberdeen” report may need a precise locality before it can be confidently included.
+The boundary rule is especially important near Aberdeen and the River Dee. Historic county borders, later city expansion and modern council geography do not always line up neatly. Kincardineshire sources note that parts of the City of Aberdeen extend south of the Dee into historic Kincardineshire territory, while modern local government has moved some areas into Aberdeen City administration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/counties/county-profiles/kincardineshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-snippet">Association of British CountiesKincardineshireKincardineshire, which has also been named “the Mearns”, is a triangular shire on the North...</span></span></span> For UFO interpretation, this means an “Aberdeen” or “south of Aberdeen” report may need a precise locality before it can be confidently included.
 
 
 <img src="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-Illustration-3-dark.svg" | relative_url }}" alt="Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kincardineshire_6f0ed9_county_boundary_reco_994c10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the boundary issue changes about the UFO story
 
-The boundary issue does not make the Kincardineshire UFO record stronger in a sensational sense. It makes it clearer. The known official entries remain brief, low-detail reports of lights or bright objects. There is no public evidence in these entries of a recovered craft, a confirmed military interception, a radar-visual case or a solved extraordinary event. The MoD’s own published stance was that it looked for defence significance rather than trying to solve every sighting as an object-identification exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The boundary issue does not make the Kincardineshire UFO record stronger in a sensational sense. It makes it clearer. The known official entries remain brief, low-detail reports of lights or bright objects. There is no public evidence in these entries of a recovered craft, a confirmed military interception, a radar-visual case or a solved extraordinary event. The MoD’s own published stance was that it looked for defence significance rather than trying to solve every sighting as an object-identification exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 What changes is the reader’s understanding of why the record looks scattered. Kincardineshire is an old county name embedded within later Aberdeenshire, Grampian and Kincardine and Mearns labels. A single local sky can therefore appear under several archival headings. Stonehaven can be a Kincardineshire town, a Grampian UFO entry and a modern Aberdeenshire locality depending on which system is being used.
 
@@ -339,194 +339,194 @@ The best presentation is not to choose between old and modern names, but to show
 For local UFO history, this is the difference between a clean map and a misleading one. Historic Kincardineshire gives the project its stable geographic anchor. Modern Aberdeenshire and former Grampian labels explain how records were filed. The sighting itself still has to stand on its own evidence: date, time, location, witness description, possible aircraft or astronomical explanations, and whether any later reporting strengthened or weakened the original claim.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Place Names Change the UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Place Names Change the UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for interpreting official records regardless of place-label changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interpreting official records regardless of place-label changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scotland%2C+the+Autobiography+by+Rosemary+Goring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scotland, the Autobiography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1qgAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scotland, the Autobiography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scotland%2C+the+Autobiography+by+Rosemary+Goring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland, the Autobiography">Scotland, the Autobiography</a>
-        </h4>
-        <p class="fr-book-author">By Rosemary Goring</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scotland%2C+the+Autobiography+by+Rosemary+Goring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scotland, the Autobiography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1qgAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scotland, the Autobiography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scotland%2C+the+Autobiography+by+Rosemary+Goring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland, the Autobiography">Scotland, the Autobiography</a>
+</h4>
+<p class="fr-book-author">By Rosemary Goring</p>
         
-        <p class="fr-book-desc">Supports understanding of changing Scottish regional and historical identities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scotland%2C+the+Autobiography+by+Rosemary+Goring&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports understanding of changing Scottish regional and historical identities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scotland%2C+the+Autobiography+by+Rosemary+Goring&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for interpreting official records regardless of place-label changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interpreting official records regardless of place-label changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful handling of fragmented historical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful handling of fragmented historical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Place+Names+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Place Names biography</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Place+Names+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Place Names biography</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-39a5c9-why-place-names-change-the-ufo-story-kincardineshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ For local UFO history, this is the difference between a clean map and a misleadi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ For local UFO history, this is the difference between a clean map and a misleadi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ For local UFO history, this is the difference between a clean map and a misleadi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ For local UFO history, this is the difference between a clean map and a misleadi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ For local UFO history, this is the difference between a clean map and a misleadi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,209 +732,209 @@ For local UFO history, this is the difference between a clean map and a misleadi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</p></details>
    Published: December 4, 2007  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kincardineshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kincardineshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1973/65/enacted" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1973/65/enacted</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1973/65/enacted" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1973/65/enacted</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1973/65/schedules/1995-10-30/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1973/65/schedules/1995-10-30/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1973/65/schedules/1995-10-30/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1973/65/schedules/1995-10-30/data.xht?view=snippet&amp;wrap=true</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/media/18325/kincardine-mearns-profile-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/18325/kincardine-mearns-profile-2016.pdf</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/media/18325/kincardine-mearns-profile-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/18325/kincardine-mearns-profile-2016.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/media/4694/20150311kincardinemearnsprofile2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/4694/20150311kincardinemearnsprofile2015.pdf</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/media/4694/20150311kincardinemearnsprofile2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/4694/20150311kincardinemearnsprofile2015.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: publications.aberdeenshire.gov.uk  
    Title: locality profiles  
-   Link: <a href="https://publications.aberdeenshire.gov.uk/locality-profiles" target="_blank" rel="noopener noreferrer nofollow">https://publications.aberdeenshire.gov.uk/locality-profiles</a>  
+   Link:<a href="https://publications.aberdeenshire.gov.uk/locality-profiles" target="_blank" rel="noopener noreferrer nofollow">https://publications.aberdeenshire.gov.uk/locality-profiles</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: upload.wikimedia.org  
    Title: Kincardineshire (IA kincardineshire00kinniala)  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/26/Kincardineshire_%28IA_kincardineshire00kinniala%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/26/Kincardineshire_%28IA_kincardineshire00kinniala%29.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/26/Kincardineshire_%28IA_kincardineshire00kinniala%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/26/Kincardineshire_%28IA_kincardineshire00kinniala%29.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties in the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_in_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_in_the_United_Kingdom</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 with ridings.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: Category:Historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_the_United_Kingdom</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Local Government (Scotland) Act 1973  
-   Link: <a href="https://en.wikipedia.org/wiki/Local_Government_%28Scotland%29_Act_1973" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Local_Government_%28Scotland%29_Act_1973</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Local_Government_%28Scotland%29_Act_1973" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Local_Government_%28Scotland%29_Act_1973</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: File:Northern England Historic counties.svg  
-   Link: <a href="https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Local government areas of Scotland (1975–1996)  
-   Link: <a href="https://en.wikipedia.org/wiki/Local_government_areas_of_Scotland_%281975%E2%80%931996%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Local_government_areas_of_Scotland_%281975%E2%80%931996%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Local_government_areas_of_Scotland_%281975%E2%80%931996%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Local_government_areas_of_Scotland_%281975%E2%80%931996%29</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1973/65" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1973/65</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1973/65" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1973/65</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/kincardineshire00kinnuoft/kincardineshire00kinnuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/kincardineshire00kinnuoft/kincardineshire00kinnuoft.pdf</a>  
+   Link:<a href="https://archive.org/download/kincardineshire00kinnuoft/kincardineshire00kinnuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/kincardineshire00kinnuoft/kincardineshire00kinnuoft.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gov.scot  
    Title: www.gov.scot Local government  
-   Link: <a href="https://www.gov.scot/policies/local-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/policies/local-government/</a>  
+   Link:<a href="https://www.gov.scot/policies/local-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/policies/local-government/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kincardineshire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kincardineshire4 Nov 2016 — The County of Kincardine or The Mearns is a coastal shire at the edge of the Highlands. It lies on t...</p></details>
+   Link:<a href="https://wikishire.co.uk/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kincardineshire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kincardineshire4 Nov 2016 — The County of Kincardine or The Mearns is a coastal shire at the edge of the Highlands. It lies on t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/kincardineshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kincardineshire/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of British CountiesKincardineshireKincardineshire, which has also been named “the Mearns”, is a triangular shire on the North...</p></details>
+   Link:<a href="https://abcounties.com/counties/county-profiles/kincardineshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kincardineshire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of British CountiesKincardineshireKincardineshire, which has also been named “the Mearns”, is a triangular shire on the North...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of British CountiesAbout the CountiesJanuary 4, 2020 — There are 92 historic counties in the UK: 39 in England, 6 in Northern...</p></details>
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of British CountiesAbout the CountiesJanuary 4, 2020 — There are 92 historic counties in the UK: 39 in England, 6 in Northern...</p></details>
    Published: January 4, 2020  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aberdeenshirestorage.blob.core.windows.net  
    Title: kincardine mearns area profile 2023  
-   Link: <a href="https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/657ef4bd-7437-4d3b-97e9-59f2efb81c41/kincardine--mearns-area-profile-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/657ef4bd-7437-4d3b-97e9-59f2efb81c41/kincardine--mearns-area-profile-2023.pdf</a>  
+   Link:<a href="https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/657ef4bd-7437-4d3b-97e9-59f2efb81c41/kincardine--mearns-area-profile-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/657ef4bd-7437-4d3b-97e9-59f2efb81c41/kincardine--mearns-area-profile-2023.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aberdeenshirestorage.blob.core.windows.net  
    Title: aberdeenshire area profile data tables 2023  
-   Link: <a href="https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/3e55f4a9-19fe-47e4-9172-16d463537843/aberdeenshire-area-profile-data-tables-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/3e55f4a9-19fe-47e4-9172-16d463537843/aberdeenshire-area-profile-data-tables-2023.pdf</a>  
+   Link:<a href="https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/3e55f4a9-19fe-47e4-9172-16d463537843/aberdeenshire-area-profile-data-tables-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aberdeenshirestorage.blob.core.windows.net/acblobstorage/3e55f4a9-19fe-47e4-9172-16d463537843/aberdeenshire-area-profile-data-tables-2023.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOop9efoHirkwez0l7qxTRmWWb3s1v7c1wT0RLkVTJBxX-39NKbBW" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOop9efoHirkwez0l7qxTRmWWb3s1v7c1wT0RLkVTJBxX-39NKbBW</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOop9efoHirkwez0l7qxTRmWWb3s1v7c1wT0RLkVTJBxX-39NKbBW" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOop9efoHirkwez0l7qxTRmWWb3s1v7c1wT0RLkVTJBxX-39NKbBW</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
+   Link:<a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/17433" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17433</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/17433" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17433</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3535660586462020/posts/24530581259876647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3535660586462020/posts/24530581259876647/</a>  
+   Link:<a href="https://www.facebook.com/groups/3535660586462020/posts/24530581259876647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3535660586462020/posts/24530581259876647/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: county-borders.co.uk  
-   Link: <a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
+   Link:<a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
    Title: discover the definitive 2025 historic counties map of the uk ️printed on premium  
-   Link: <a href="https://www.facebook.com/RealCounties/videos/discover-the-definitive-2025-historic-counties-map-of-the-uk-%EF%B8%8Fprinted-on-premium/1341246304166582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/videos/discover-the-definitive-2025-historic-counties-map-of-the-uk-%EF%B8%8Fprinted-on-premium/1341246304166582/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/videos/discover-the-definitive-2025-historic-counties-map-of-the-uk-%EF%B8%8Fprinted-on-premium/1341246304166582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/videos/discover-the-definitive-2025-historic-counties-map-of-the-uk-%EF%B8%8Fprinted-on-premium/1341246304166582/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
    Title: today is 30 years since grampian regional council ceased to exist and aberdeen  
-   Link: <a href="https://www.facebook.com/aberdeencityandshirearchives/posts/-today-is-30-years-since-grampian-regional-council-ceased-to-exist-and-aberdeen-/1419325623557067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aberdeencityandshirearchives/posts/-today-is-30-years-since-grampian-regional-council-ceased-to-exist-and-aberdeen-/1419325623557067/</a>  
+   Link:<a href="https://www.facebook.com/aberdeencityandshirearchives/posts/-today-is-30-years-since-grampian-regional-council-ceased-to-exist-and-aberdeen-/1419325623557067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aberdeencityandshirearchives/posts/-today-is-30-years-since-grampian-regional-council-ceased-to-exist-and-aberdeen-/1419325623557067/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ouraberdeenshire.org.uk  
    Title: kincardine and mearns communities and action plans  
-   Link: <a href="https://www.ouraberdeenshire.org.uk/your-area/kincardine-and-mearns/kincardine-and-mearns-communities-and-action-plans/" target="_blank" rel="noopener noreferrer nofollow">https://www.ouraberdeenshire.org.uk/your-area/kincardine-and-mearns/kincardine-and-mearns-communities-and-action-plans/</a>  
+   Link:<a href="https://www.ouraberdeenshire.org.uk/your-area/kincardine-and-mearns/kincardine-and-mearns-communities-and-action-plans/" target="_blank" rel="noopener noreferrer nofollow">https://www.ouraberdeenshire.org.uk/your-area/kincardine-and-mearns/kincardine-and-mearns-communities-and-action-plans/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: boundaries.scot  
    Title: Local government Scotland before 1975 1758892795  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf</a>  

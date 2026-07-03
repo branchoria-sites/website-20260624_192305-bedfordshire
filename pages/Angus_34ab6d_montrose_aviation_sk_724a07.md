@@ -248,19 +248,19 @@ image: /assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-overview-social.j
 
 ## Introduction
 
-Montrose matters to [Angus]({{ 'what-really-happened-over-angus-skies/' | relative_url }}) UFO history because it is one of the places where “something in the sky” has to be read against a long aviation and coastal background, not as an isolated mystery. The town sits on Scotland’s east coast, close to harbours, lighthouses, open sea horizons and modern flight corridors, and it also carries the legacy of RAF Montrose, Great Britain’s first operational military air station. That does not explain every local report automatically. It does mean that aircraft lights, coastal navigation lights, meteors, satellites, lanterns and media amplification all deserve serious attention before a sighting is treated as unexplained. Montrose is best understood as a useful test case: its aviation heritage makes unusual sky reports more plausible as observations, but also gives investigators more ordinary causes to check first. Montrose Air Station Museum+2Historic Environment Scotland <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmontrose.org.uk">[rafmontrose.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmontrose.org.uk</span><span class="citation-popover-snippet">Open source on rafmontrose.org.uk.</span></span></span>
+Montrose matters to [Angus]({{ 'what-really-happened-over-angus-skies/' | relative_url }}) UFO history because it is one of the places where “something in the sky” has to be read against a long aviation and coastal background, not as an isolated mystery. The town sits on Scotland’s east coast, close to harbours, lighthouses, open sea horizons and modern flight corridors, and it also carries the legacy of RAF Montrose, Great Britain’s first operational military air station. That does not explain every local report automatically. It does mean that aircraft lights, coastal navigation lights, meteors, satellites, lanterns and media amplification all deserve serious attention before a sighting is treated as unexplained. Montrose is best understood as a useful test case: its aviation heritage makes unusual sky reports more plausible as observations, but also gives investigators more ordinary causes to check first. Montrose Air Station Museum+2Historic Environment Scotland<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmontrose.org.uk">[rafmontrose.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmontrose.org.uk</span><span class="citation-popover-snippet">Open source on rafmontrose.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-overview.webp" | relative_url }}" alt="Overview image for Montrose Skies" loading="eager" decoding="sync" fetchpriority="high">
-For this project, Angus is being used in its historic-county sense where that matters. The modern Angus council area lies within the historic county, but the historic county also includes Dundee and some boundary complications around neighbouring areas; Angus was also historically known as Forfarshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span></span></span> Montrose itself sits firmly within Angus, so it belongs at the centre of this branch rather than being a peripheral Tayside or north-east Scotland footnote.
+For this project, Angus is being used in its historic-county sense where that matters. The modern Angus council area lies within the historic county, but the historic county also includes Dundee and some boundary complications around neighbouring areas; Angus was also historically known as Forfarshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Angus &#124; Scotland, Map, History, &amp; Facts</span></span></span> Montrose itself sits firmly within Angus, so it belongs at the centre of this branch rather than being a peripheral Tayside or north-east Scotland footnote.
 
 ## Montrose Air Station made the sky part of local history
 
-Montrose’s aviation significance is unusually strong for a town of its size. Montrose Air Station Museum describes the site as Great Britain’s first operational military air station, established in February 1913, and says it remained in service until final closure in 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmontrose.org.uk">[Montrose Air Station Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmontrose.org.uk</span><span class="citation-popover-snippet">Open source on rafmontrose.org.uk.</span></span></span> Historic Environment Scotland gives the surviving Broomfield hangars national and international weight: the 1913–14 “Major Burke’s sheds” are among the earliest surviving first-generation aircraft hangars in the United Kingdom and potentially Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
+Montrose’s aviation significance is unusually strong for a town of its size. Montrose Air Station Museum describes the site as Great Britain’s first operational military air station, established in February 1913, and says it remained in service until final closure in 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmontrose.org.uk">[Montrose Air Station Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmontrose.org.uk</span><span class="citation-popover-snippet">Open source on rafmontrose.org.uk.</span></span></span> Historic Environment Scotland gives the surviving Broomfield hangars national and international weight: the 1913–14 “Major Burke’s sheds” are among the earliest surviving first-generation aircraft hangars in the United Kingdom and potentially Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
 That history changes how UFO reports around Montrose should be approached. In some counties, a light in the sky may be discussed mainly through folklore, witness memory or newspaper curiosity. Around Montrose, the first question is more practical: what aircraft, airfield activity, military training, navigation aid, shipping light or coastal weather effect might have been visible from the witness position? The point is not to dismiss witnesses. It is to recognise that Angus has a local sky culture in which aircraft were not abstract possibilities but part of the area’s lived history.
 
-The early military context also matters because Montrose was not merely a landing ground. Historic Environment Scotland records that Britain planned twelve air stations in 1912, with Montrose chosen first under Winston Churchill’s instructions to help protect naval bases at Rosyth, Cromarty and Scapa Flow. The first site at Upper Dysart, south of Montrose, was judged unsuitable, and the permanent Broomfield site north of the town was selected partly because its railway connection made supply easier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span> No. 2 Squadron of the Royal Flying Corps was based there before the First World War, and the site later became a major training centre, including for British, Commonwealth and American pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
+The early military context also matters because Montrose was not merely a landing ground. Historic Environment Scotland records that Britain planned twelve air stations in 1912, with Montrose chosen first under Winston Churchill’s instructions to help protect naval bases at Rosyth, Cromarty and Scapa Flow. The first site at Upper Dysart, south of Montrose, was judged unsuitable, and the permanent Broomfield site north of the town was selected partly because its railway connection made supply easier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span> No. 2 Squadron of the Royal Flying Corps was based there before the First World War, and the site later became a major training centre, including for British, Commonwealth and American pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
 For UFO interpretation, this gives Montrose a double identity. It is attractive to mystery because old air stations, wartime memory and open coastlines invite stories. But it is also a place where a sober explanation often begins with aviation history: flight training, aircraft routes, old military infrastructure, airfield lighting, commemorative aviation events and the simple fact that local people have had reasons to look up for more than a century.
 
@@ -270,7 +270,7 @@ For UFO interpretation, this gives Montrose a double identity. It is attractive 
 
 Montrose also faces the North Sea, and coastal light is one of the easiest sources of misidentification to underestimate. A witness looking from Montrose beach, Ferryden, the Links, the basin edge or nearby roads may be seeing a mixture of aircraft, harbour activity, offshore traffic, fixed lights, moving lights, reflections, low cloud and distant weather. At night, especially over water, judging distance and height can be difficult. A light that is actually low and far away can look high and nearby; a fixed light can seem to move when clouds, a moving observer or shifting reference points are involved.
 
-Scurdie Ness Lighthouse is a concrete local example. Montrose Port Authority describes it as a fixed aid to navigation at the mouth of the River South Esk, guiding mariners past the shoals and rocky shoreline of the north Angus and Mearns coast. The same account says the light was first lit on 1 March 1870 and, on a clear night, can be seen from 42 kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://montroseport.co.uk/2020/05/10/southesk-sentinel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montroseport.co.uk">[Montrose Port Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montroseport.co.uk</span><span class="citation-popover-title">Montrose Port Authority Southesk Sentinel</span><span class="citation-popover-snippet">Montrose Port Authority Southesk Sentinel</span></span></span> Historic Environment Scotland also records Montrose harbour’s inner light, built in 1818 by Robert Stevenson, as one of a pair of harbour lights marking the route into the River South Esk and up-river quays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
+Scurdie Ness Lighthouse is a concrete local example. Montrose Port Authority describes it as a fixed aid to navigation at the mouth of the River South Esk, guiding mariners past the shoals and rocky shoreline of the north Angus and Mearns coast. The same account says the light was first lit on 1 March 1870 and, on a clear night, can be seen from 42 kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://montroseport.co.uk/2020/05/10/southesk-sentinel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montroseport.co.uk">[Montrose Port Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montroseport.co.uk</span><span class="citation-popover-title">Montrose Port Authority Southesk Sentinel</span><span class="citation-popover-snippet">Montrose Port Authority Southesk Sentinel</span></span></span> Historic Environment Scotland also records Montrose harbour’s inner light, built in 1818 by Robert Stevenson, as one of a pair of harbour lights marking the route into the River South Esk and up-river quays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
 These are not UFO cases in themselves. Their relevance is that Montrose’s night sky is crossed by a layered pattern of man-made lights. A person unfamiliar with the exact bearing of a lighthouse, harbour light, vessel, aircraft approach, drone, flare, lantern or offshore installation may report a sincere “unknown”. A careful investigator has to ask whether the report describes a truly anomalous object or a known light seen under unfamiliar conditions.
 
@@ -281,27 +281,27 @@ The coast can also make ordinary events feel stranger. A meteor over the North S
 
 ## The main misidentification traps in Angus reports
 
-Most Angus and wider UK UFO records are reports of lights rather than detailed craft. The National Archives summarises the Ministry of Defence material in similar terms: most records describe shapes, lights and flashes, many of which can often be explained, while others remain more unusual. It also notes common explanations found in files, including Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> Around Montrose, the most useful first-pass checks are usually these.
+Most Angus and wider UK UFO records are reports of lights rather than detailed craft. The National Archives summarises the Ministry of Defence material in similar terms: most records describe shapes, lights and flashes, many of which can often be explained, while others remain more unusual. It also notes common explanations found in files, including Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> Around Montrose, the most useful first-pass checks are usually these.
 
-**Aircraft lights.** At night, aircraft are supposed to display anti-collision lights and, except for balloons, navigation lights indicating their relative path to an observer. The UK Civil Aviation Authority’s retained rule text states that all aircraft in flight at night must display anti-collision lights and navigation lights, and that other lights should not be displayed if they are likely to be mistaken for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span> From the ground, however, those lights can still be confusing: a landing light may look like a brilliant stationary star; a turn can look like a sudden change of direction; and a formation or sequence of aircraft can be interpreted as one structured object.
+**Aircraft lights.** At night, aircraft are supposed to display anti-collision lights and, except for balloons, navigation lights indicating their relative path to an observer. The UK Civil Aviation Authority’s retained rule text states that all aircraft in flight at night must display anti-collision lights and navigation lights, and that other lights should not be displayed if they are likely to be mistaken for them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span> From the ground, however, those lights can still be confusing: a landing light may look like a brilliant stationary star; a turn can look like a sudden change of direction; and a formation or sequence of aircraft can be interpreted as one structured object.
 
-**Sky lanterns and event lights.** The CAA specifically groups sky lantern releases with fireworks and laser shows as events that can distract or endanger aircraft, and recommends contacting it for shows near an airfield or where aircraft regularly fly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> This matters because many “orange orb” reports in Britain, especially in the late 2000s, match slow, silent, glowing lights drifting together or fading out. The National Archives’ release on the closure of the MoD UFO desk says 2009 reports trebled from the previous year and notes that many descriptions of slowly moving orange-light formations resembled Chinese lanterns, even though witnesses did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+**Sky lanterns and event lights.** The CAA specifically groups sky lantern releases with fireworks and laser shows as events that can distract or endanger aircraft, and recommends contacting it for shows near an airfield or where aircraft regularly fly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> This matters because many “orange orb” reports in Britain, especially in the late 2000s, match slow, silent, glowing lights drifting together or fading out. The National Archives’ release on the closure of the MoD UFO desk says 2009 reports trebled from the previous year and notes that many descriptions of slowly moving orange-light formations resembled Chinese lanterns, even though witnesses did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-**Meteors and fireballs.** Bright meteors are a good fit for short, dramatic reports of fast lights, colour changes, sparks or a sudden disappearance. Royal Museums Greenwich explains that meteors can appear in any part of the sky and that the Perseids, for example, are known for bright meteors and fireballs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span> The UK Fireball Alliance, a collaboration of camera networks, records meteors and fireballs to calculate trajectories and, where possible, recover meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span> This is important for Angus because a striking fireball seen from Montrose might be reported locally but actually be visible across much of Scotland or the North Sea.
+**Meteors and fireballs.** Bright meteors are a good fit for short, dramatic reports of fast lights, colour changes, sparks or a sudden disappearance. Royal Museums Greenwich explains that meteors can appear in any part of the sky and that the Perseids, for example, are known for bright meteors and fireballs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span> The UK Fireball Alliance, a collaboration of camera networks, records meteors and fireballs to calculate trajectories and, where possible, recover meteorites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span> This is important for Angus because a striking fireball seen from Montrose might be reported locally but actually be visible across much of Scotland or the North Sea.
 
 **Satellites.** Satellites are less theatrical than fireballs but are a common cause of “silent moving light” reports. They can appear as steady points crossing the sky, sometimes brightening or fading as they move into or out of sunlight. The key clues are duration, direction, steadiness and whether other observers across the country saw the same pass. A local Montrose report that lacks sound, shape, manoeuvres or close-range detail should be checked against satellite visibility before being treated as a craft-like object.
 
-**Coastal and harbour lights.** Montrose’s port, lighthouse history and surrounding shipping lanes add another layer. A light that seems to hover over the sea may be on a vessel, a buoy, a harbour structure or a distant fixed aid to navigation. The longer it remains in the same bearing, the more important this check becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://montroseport.co.uk/2020/05/10/southesk-sentinel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montroseport.co.uk">[Montrose Port Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montroseport.co.uk</span><span class="citation-popover-title">Montrose Port Authority Southesk Sentinel</span><span class="citation-popover-snippet">Montrose Port Authority Southesk Sentinel</span></span></span>
+**Coastal and harbour lights.** Montrose’s port, lighthouse history and surrounding shipping lanes add another layer. A light that seems to hover over the sea may be on a vessel, a buoy, a harbour structure or a distant fixed aid to navigation. The longer it remains in the same bearing, the more important this check becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://montroseport.co.uk/2020/05/10/southesk-sentinel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montroseport.co.uk">[Montrose Port Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montroseport.co.uk</span><span class="citation-popover-title">Montrose Port Authority Southesk Sentinel</span><span class="citation-popover-snippet">Montrose Port Authority Southesk Sentinel</span></span></span>
 
 
 <img src="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-Illustration-2-dark.svg" | relative_url }}" alt="Montrose Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2009 orange-light pattern is the strongest comparison point
 
-The most useful Angus comparison is not a famous Montrose “landing” case, but the 2009 cluster of orange-light reports across Britain. The MoD’s published UFO report list includes an Angus entry at Arbroath on 19 September 2009: four lights travelled together, one veered east, three remained in a triangle formation, two disappeared into the horizon and one went overhead, described as looking like a red fireball with no sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The most useful Angus comparison is not a famous Montrose “landing” case, but the 2009 cluster of orange-light reports across Britain. The MoD’s published UFO report list includes an Angus entry at Arbroath on 19 September 2009: four lights travelled together, one veered east, three remained in a triangle formation, two disappeared into the horizon and one went overhead, described as looking like a red fireball with no sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That Arbroath entry matters for Montrose because Arbroath and Montrose share the same coastal Angus setting and the same interpretive problems: open horizons, sea-facing viewpoints, possible aircraft and maritime lights, and public familiarity with bright objects over the coast. The entry does not prove lanterns, aircraft or anything extraordinary. It shows why a Montrose report of red or orange lights in formation would have to be compared with a wider national pattern before being isolated as a local anomaly.
 
-The surrounding MoD entries from the same period show how common the pattern was. On nearby pages of the 2009 log, reports include orange or red lights moving across the sky, groups of lights, triangular arrangements, fireball-like objects, silent movement and lights fading or disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ later summary gives the broader explanation: the MoD UFO desk received more than 600 sightings in 2009, treble the previous year, and officials linked part of that surge to Chinese lanterns and increased public reporting during the release of UFO files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The surrounding MoD entries from the same period show how common the pattern was. On nearby pages of the 2009 log, reports include orange or red lights moving across the sky, groups of lights, triangular arrangements, fireball-like objects, silent movement and lights fading or disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives’ later summary gives the broader explanation: the MoD UFO desk received more than 600 sightings in 2009, treble the previous year, and officials linked part of that surge to Chinese lanterns and increased public reporting during the release of UFO files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 For Montrose, the lesson is cautious but clear. A report of orange lights is not worthless just because lanterns were common. Nor is it strong evidence of an unknown craft just because witnesses judged it “not aircraft”. The best reading is comparative: match the time, wind direction, duration, number of lights, angular movement, colour, fading pattern, local events and whether similar reports arrived from other towns along the coast.
 
@@ -310,11 +310,11 @@ For Montrose, the lesson is cautious but clear. A report of orange lights is not
 
 ## Local newspapers kept Montrose sky stories visible
 
-Local media have played a real role in keeping Angus sky reports alive. The Courier has repeatedly treated unusual lights and UFO-style claims as local news rather than as obscure specialist material. In 2016, it reported an Angus woman’s account of a “strange circular shape” over Montrose beach, quoting her reaction that it was the strangest thing she had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">montrose ufo sighting it was the strangest thing i have ever seen</span><span class="citation-popover-snippet">montrose ufo sighting it was the strangest thing i have ever seen</span></span></span> A follow-up article said a bird-watcher believed he may have seen the same object on the Tayside skyline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">ufo season another odd object seen on tayside skyline</span><span class="citation-popover-snippet">ufo season another odd object seen on tayside skyline</span></span></span> In 2021, the same paper mapped historic UFO sightings in Dundee and Tayside using MoD records, and also covered blueish-purple lights seen by residents in Arbroath and Montrose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">historic ufo sightings dundee and tayside</span><span class="citation-popover-snippet">historic ufo sightings dundee and tayside</span></span></span>
+Local media have played a real role in keeping Angus sky reports alive. The Courier has repeatedly treated unusual lights and UFO-style claims as local news rather than as obscure specialist material. In 2016, it reported an Angus woman’s account of a “strange circular shape” over Montrose beach, quoting her reaction that it was the strangest thing she had seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">montrose ufo sighting it was the strangest thing i have ever seen</span><span class="citation-popover-snippet">montrose ufo sighting it was the strangest thing i have ever seen</span></span></span> A follow-up article said a bird-watcher believed he may have seen the same object on the Tayside skyline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">ufo season another odd object seen on tayside skyline</span><span class="citation-popover-snippet">ufo season another odd object seen on tayside skyline</span></span></span> In 2021, the same paper mapped historic UFO sightings in Dundee and Tayside using MoD records, and also covered blueish-purple lights seen by residents in Arbroath and Montrose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">historic ufo sightings dundee and tayside</span><span class="citation-popover-snippet">historic ufo sightings dundee and tayside</span></span></span>
 
 This kind of coverage is useful, but it can also change the story. A first report may be a single witness account. A newspaper article can then prompt second witnesses, social media discussion, memory matching and fresh interpretations. That can strengthen a case when independent observers provide consistent time, direction and description. It can weaken a case when later accounts are vague, influenced by the first story, or simply show that many people were looking for the same thing after publicity.
 
-The National Archives makes a similar point at national scale. Its press release on the final MoD files says increased public awareness during UFO file releases may itself have encouraged people to report observations to the MoD and the press. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Angus newspapers therefore should not be treated merely as passive recorders. They are part of the reporting ecosystem: they preserve sightings, spread them, invite comparison and sometimes turn a small observation into a local flap.
+The National Archives makes a similar point at national scale. Its press release on the final MoD files says increased public awareness during UFO file releases may itself have encouraged people to report observations to the MoD and the press.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Angus newspapers therefore should not be treated merely as passive recorders. They are part of the reporting ecosystem: they preserve sightings, spread them, invite comparison and sometimes turn a small observation into a local flap.
 
 
 <img src="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-Illustration-3-dark.svg" | relative_url }}" alt="Montrose Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angus_34ab6d_montrose_aviation_sk_724a07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,7 +322,7 @@ The National Archives makes a similar point at national scale. Its press release
 
 A Montrose sighting becomes more interesting when it survives the ordinary checks that the town’s aviation and coastal setting demands. A single account of a bright light over the beach may be sincere but weak. A stronger case would have several independent witnesses in different positions, a precise time, a clear direction of travel, weather details, photographs or video with fixed landmarks, and checks against aircraft, satellites, lantern releases, coastal lights and meteor reports.
 
-The strongest local evidence would be multi-source. For example, a report would carry more weight if it combined witness testimony with air traffic or ADS-B data, harbour or coastguard context, meteor-network checks, local event information and contemporary newspaper reporting. It would be weaker if the description was only “orange light”, “silent triangle” or “fast fireball” without time, bearing, duration or comparison objects. Those descriptions are common in the MoD logs and often cannot be investigated after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The strongest local evidence would be multi-source. For example, a report would carry more weight if it combined witness testimony with air traffic or ADS-B data, harbour or coastguard context, meteor-network checks, local event information and contemporary newspaper reporting. It would be weaker if the description was only “orange light”, “silent triangle” or “fast fireball” without time, bearing, duration or comparison objects. Those descriptions are common in the MoD logs and often cannot be investigated after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 Montrose’s aviation history should therefore be used as a filter, not a conclusion. It does not prove unusual craft were present over Angus. It does make the area unusually good for showing how UFO history actually works at county level: eyewitness surprise, old airfield memory, military associations, coastal lights, press coverage and ordinary sky phenomena all overlap. The result is not a simple debunking story, but a more careful one. Montrose matters because it reminds readers that an unidentified object is first a problem of identification — and in this part of Angus, there is a great deal in the sky and on the horizon to identify.
 
@@ -331,194 +331,194 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Montrose Matters to Angus UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Montrose Matters to Angus UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented sightings, official records, and witness testimony rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented sightings, official records, and witness testimony rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses government UFO investigations and the challenge of separating unexplained reports from weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government UFO investigations and the challenge of separating unexplained reports from weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong fit for a page examining how sightings are investigated and interpreted in a British context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page examining how sightings are investigated and interpreted in a British context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Provides accessible coverage of UFO cases and investigative approaches useful for understanding local sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible coverage of UFO cases and investigative approaches useful for understanding local sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="montrose-skies-why-montrose-matters-to-angus-ufo-sightings-angus-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montrose-matters-to-angus-ufo-sightings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,246 +724,246 @@ Montrose’s aviation history should therefore be used as a filter, not a conclu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Angus | Scotland, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Angus-council-area-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Angus-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Angus-council-area-Scotland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scotlandspeople.gov.uk  
    Title: angus county  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/angus-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/angus-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/angus-county</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scotlandspeople.gov.uk  
    Title: Records for Forfarshire  
-   Link: <a href="https://www.scotlandspeople.gov.uk/place-page/Forfarshire/GAZ00002/1417770902687771b500cff/REX01668" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/place-page/Forfarshire/GAZ00002/1417770902687771b500cff/REX01668</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/place-page/Forfarshire/GAZ00002/1417770902687771b500cff/REX01668" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/place-page/Forfarshire/GAZ00002/1417770902687771b500cff/REX01668</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150325 FOI2897  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Dundee" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dundee</a>  
+   Link:<a href="https://www.britannica.com/place/Dundee" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dundee</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: marine.gov.scot  
-   Link: <a href="https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights</a>  
+   Link:<a href="https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: angus.gov.uk  
-   Link: <a href="https://www.angus.gov.uk/all_about_angus" target="_blank" rel="noopener noreferrer nofollow">https://www.angus.gov.uk/all_about_angus</a>  
+   Link:<a href="https://www.angus.gov.uk/all_about_angus" target="_blank" rel="noopener noreferrer nofollow">https://www.angus.gov.uk/all_about_angus</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-angus/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arun.gov.uk  
-   Link: <a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
+   Link:<a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eE0N5b13t3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eE0N5b13t3M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF MONTROSE FLY-IN 2024 - PLANES, CARS AND A LOOK AROUND...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eE0N5b13t3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eE0N5b13t3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF MONTROSE FLY-IN 2024 - PLANES, CARS AND A LOOK AROUND...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rafmontrose.org.uk  
-   Link: <a href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://rafmontrose.org.uk/</a>  
+   Link:<a href="https://rafmontrose.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://rafmontrose.org.uk/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: portal.historicenvironment.scot  
-   Link: <a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228</a>  
+   Link:<a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38228</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: montroseport.co.uk  
    Title: Montrose Port Authority Southesk Sentinel  
-   Link: <a href="https://montroseport.co.uk/2020/05/10/southesk-sentinel/" target="_blank" rel="noopener noreferrer nofollow">https://montroseport.co.uk/2020/05/10/southesk-sentinel/</a>  
+   Link:<a href="https://montroseport.co.uk/2020/05/10/southesk-sentinel/" target="_blank" rel="noopener noreferrer nofollow">https://montroseport.co.uk/2020/05/10/southesk-sentinel/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: portal.historicenvironment.scot  
-   Link: <a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38223" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38223</a>  
+   Link:<a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38223" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB38223</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rmg.co.uk  
    Title: perseid meteor shower guide uk when where to see  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thecourier.co.uk  
    Title: montrose ufo sighting it was the strangest thing i have ever seen  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/angus-mearns/287031/montrose-ufo-sighting-it-was-the-strangest-thing-i-have-ever-seen/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thecourier.co.uk  
    Title: ufo season another odd object seen on tayside skyline  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/dundee/288358/ufo-season-another-odd-object-seen-on-tayside-skyline/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thecourier.co.uk  
    Title: historic ufo sightings dundee and tayside  
-   Link: <a href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thecourier.co.uk  
    Title: angus residents baffled by patches of violet light in night sky  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/angus-mearns/2535146/angus-residents-baffled-by-patches-of-violet-light-in-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/angus-mearns/2535146/angus-residents-baffled-by-patches-of-violet-light-in-night-sky/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/angus-mearns/2535146/angus-residents-baffled-by-patches-of-violet-light-in-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/angus-mearns/2535146/angus-residents-baffled-by-patches-of-violet-light-in-night-sky/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: RAF Montrose  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Montrose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Montrose</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Montrose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Montrose</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Montrose Air Station Museum  
-   Link: <a href="https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montrose_Air_Station_Museum</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rafmontrose.org.uk  
-   Link: <a href="https://rafmontrose.org.uk/visit/" target="_blank" rel="noopener noreferrer nofollow">https://rafmontrose.org.uk/visit/</a>  
+   Link:<a href="https://rafmontrose.org.uk/visit/" target="_blank" rel="noopener noreferrer nofollow">https://rafmontrose.org.uk/visit/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thecourier.co.uk  
-   Link: <a href="https://www.thecourier.co.uk/page/11535/?post_type=fp" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/page/11535/?post_type=fp</a>  
+   Link:<a href="https://www.thecourier.co.uk/page/11535/?post_type=fp" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/page/11535/?post_type=fp</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thecourier.co.uk  
    Title: sun shines brightly costa del scotland  
-   Link: <a href="https://www.thecourier.co.uk/fp/lifestyle/234349/sun-shines-brightly-costa-del-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/lifestyle/234349/sun-shines-brightly-costa-del-scotland/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/lifestyle/234349/sun-shines-brightly-costa-del-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/lifestyle/234349/sun-shines-brightly-costa-del-scotland/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thecourier.co.uk  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/courts/5520113/exclusive-aberfeldy-killer-david-campbell-appeal-rejected/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/courts/5520113/exclusive-aberfeldy-killer-david-campbell-appeal-rejected/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/courts/5520113/exclusive-aberfeldy-killer-david-campbell-appeal-rejected/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/courts/5520113/exclusive-aberfeldy-killer-david-campbell-appeal-rejected/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: rmg.co.uk  
    Title: 2026 guide night sky  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/2026-guide-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/2026-guide-night-sky</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/2026-guide-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/2026-guide-night-sky</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: tripadvisor.com  
    Title: Montrose Air Station Museum  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186496-d4581032-Reviews-Montrose_Air_Station_Museum-Montrose_Angus_Scotland.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: membermojo.co.uk  
-   Link: <a href="https://membermojo.co.uk/masm" target="_blank" rel="noopener noreferrer nofollow">https://membermojo.co.uk/masm</a>  
+   Link:<a href="https://membermojo.co.uk/masm" target="_blank" rel="noopener noreferrer nofollow">https://membermojo.co.uk/masm</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: electricscotland.com  
    Title: raf montrose  
-   Link: <a href="https://electricscotland.com/history/articles/raf_montrose.htm" target="_blank" rel="noopener noreferrer nofollow">https://electricscotland.com/history/articles/raf_montrose.htm</a>  
+   Link:<a href="https://electricscotland.com/history/articles/raf_montrose.htm" target="_blank" rel="noopener noreferrer nofollow">https://electricscotland.com/history/articles/raf_montrose.htm</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: visitangus.com  
    Title: Montrose Air Station Museum  
-   Link: <a href="https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/" target="_blank" rel="noopener noreferrer nofollow">https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/</a>  
+   Link:<a href="https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/" target="_blank" rel="noopener noreferrer nofollow">https://visitangus.com/things-to-see-do/attractions/montrose-air-station-museum/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: angustourism.co.uk  
-   Link: <a href="https://www.angustourism.co.uk/atc-member/montrose-port-authority/" target="_blank" rel="noopener noreferrer nofollow">https://www.angustourism.co.uk/atc-member/montrose-port-authority/</a>  
+   Link:<a href="https://www.angustourism.co.uk/atc-member/montrose-port-authority/" target="_blank" rel="noopener noreferrer nofollow">https://www.angustourism.co.uk/atc-member/montrose-port-authority/</a>  
 
 ### Additional References
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-drone-came-within-50-metres-of-a-light-aircraft-over-dundee-an-official-probe-/2745666708815725/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-drone-came-within-50-metres-of-a-light-aircraft-over-dundee-an-official-probe-/2745666708815725/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-drone-came-within-50-metres-of-a-light-aircraft-over-dundee-an-official-probe-/2745666708815725/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-drone-came-within-50-metres-of-a-light-aircraft-over-dundee-an-official-probe-/2745666708815725/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/thbvzv/a_question_re_broken_lights_adsb_and_day_vfr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/thbvzv/a_question_re_broken_lights_adsb_and_day_vfr/</a>  
+   Link:<a href="https://www.reddit.com/r/flying/comments/thbvzv/a_question_re_broken_lights_adsb_and_day_vfr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/thbvzv/a_question_re_broken_lights_adsb_and_day_vfr/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1464145827194143/posts/2601325680142813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/2601325680142813/</a>  
+   Link:<a href="https://www.facebook.com/groups/1464145827194143/posts/2601325680142813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/2601325680142813/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXPXNiyjqvU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPXNiyjqvU/</a>  
+   Link:<a href="https://www.instagram.com/p/DXPXNiyjqvU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPXNiyjqvU/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/angus/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/angus/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/angus/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/angus/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Angus_CA%2C_Angus_318629</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WTHR13/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1015965893909993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTHR13/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1015965893909993/</a>  
+   Link:<a href="https://www.facebook.com/WTHR13/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1015965893909993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTHR13/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1015965893909993/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: flightsfrom.com  
-   Link: <a href="https://www.flightsfrom.com/DND" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsfrom.com/DND</a>  
+   Link:<a href="https://www.flightsfrom.com/DND" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsfrom.com/DND</a>  

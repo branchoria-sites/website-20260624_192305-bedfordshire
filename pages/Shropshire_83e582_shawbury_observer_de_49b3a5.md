@@ -248,25 +248,25 @@ image: /assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-overview-soc
 
 ## Introduction
 
-The Shawbury part of the 30–31 March 1993 [Shropshire]({{ 'what-really-happened-in-shropshires-ufo/' | relative_url }}) UFO case matters because it is the part that does **not** sit comfortably inside the simplest explanation. The wider Cosford/Shawbury flap was largely traced to the re-entry of a Russian rocket body, but the RAF Shawbury meteorological observer described something lower, slower and more aircraft-like: red lights, a white beam apparently scanning the ground, and a low humming noise. Later, a police-helicopter explanation was put forward, and it remains the strongest ordinary explanation for this specific Shawbury account. The case is therefore best read not as “solved versus alien”, but as a useful test of how a credible witness report can be partly right, partly mis-timed, and later reshaped by expectation, memory and retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+The Shawbury part of the 30–31 March 1993 [Shropshire]({{ 'what-really-happened-in-shropshires-ufo/' | relative_url }}) UFO case matters because it is the part that does **not** sit comfortably inside the simplest explanation. The wider Cosford/Shawbury flap was largely traced to the re-entry of a Russian rocket body, but the RAF Shawbury meteorological observer described something lower, slower and more aircraft-like: red lights, a white beam apparently scanning the ground, and a low humming noise. Later, a police-helicopter explanation was put forward, and it remains the strongest ordinary explanation for this specific Shawbury account. The case is therefore best read not as “solved versus alien”, but as a useful test of how a credible witness report can be partly right, partly mis-timed, and later reshaped by expectation, memory and retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
 
 <img src="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-overview.webp" | relative_url }}" alt="Overview image for Shawbury Debate" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Shawbury observer reported
 
-The witness at the centre of this debate was Wayne Elliott, a Meteorological Office observer at RAF Shawbury, north-east of Shrewsbury. He was not a casual passer-by. David Clarke’s later review of the file stresses that Elliott was regarded as a credible observer familiar with military aircraft, which is one reason his account carried weight with Nick Pope, then on the Ministry of Defence UFO desk. According to the summary briefed in 1993, Elliott described an object projecting a narrow beam of light towards the ground, at a comparatively low height, and estimated its size as somewhere between a C-130 Hercules transport aircraft and a Boeing 747. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+The witness at the centre of this debate was Wayne Elliott, a Meteorological Office observer at RAF Shawbury, north-east of Shrewsbury. He was not a casual passer-by. David Clarke’s later review of the file stresses that Elliott was regarded as a credible observer familiar with military aircraft, which is one reason his account carried weight with Nick Pope, then on the Ministry of Defence UFO desk. According to the summary briefed in 1993, Elliott described an object projecting a narrow beam of light towards the ground, at a comparatively low height, and estimated its size as somewhere between a C-130 Hercules transport aircraft and a Boeing 747.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
-That report sounded different from the main 1.10–1.15 am sighting wave. Many witnesses across western Britain described bright white lights moving quickly and leaving luminous trails, a pattern later matched to space debris. Elliott’s account, by contrast, involved red lights, apparent manoeuvring, a searchlight-like beam and a low hum. In later retellings, especially a 1996 account in the Met Office magazine *Mercury* discussed by Clarke, the lights were described as moving erratically, becoming stationary north of the airfield, and sweeping the countryside with a white beam “as if looking for something” in fields and hedgerows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+That report sounded different from the main 1.10–1.15 am sighting wave. Many witnesses across western Britain described bright white lights moving quickly and leaving luminous trails, a pattern later matched to space debris. Elliott’s account, by contrast, involved red lights, apparent manoeuvring, a searchlight-like beam and a low hum. In later retellings, especially a 1996 account in the Met Office magazine *Mercury* discussed by Clarke, the lights were described as moving erratically, becoming stationary north of the airfield, and sweeping the countryside with a white beam “as if looking for something” in fields and hedgerows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
-The timing is crucial. Clarke notes that the Shawbury log placed Elliott’s own observation at 0140Z, which after the start of British Summer Time translates to 2.40 am BST. That is about an hour and a half after the main rocket re-entry sightings. RAF Cosford and RAF Shawbury are close enough within Shropshire and the West Midlands aviation landscape that the delay matters: a single fast-moving rocket body cannot plausibly take that long to cover such a short regional distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+The timing is crucial. Clarke notes that the Shawbury log placed Elliott’s own observation at 0140Z, which after the start of British Summer Time translates to 2.40 am BST. That is about an hour and a half after the main rocket re-entry sightings. RAF Cosford and RAF Shawbury are close enough within Shropshire and the West Midlands aviation landscape that the delay matters: a single fast-moving rocket body cannot plausibly take that long to cover such a short regional distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
 
 <img src="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-Illustration-1-dark.svg" | relative_url }}" alt="Shawbury Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the space-debris answer was not enough
 
-The National Archives’ guide to the released UFO files says the Cosford incident file included more than 30 sightings over roughly six hours, with police and military witnesses among those reporting bright lights. It also records that the MoD asked the RAF to replay radar tapes, which found nothing unusual, and that the majority of sightings were later linked to the re-entry of the Russian rocket that launched Cosmos 2238. That is a strong explanation for the main sighting wave, but it does not automatically explain every report folded into the same night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives’ guide to the released UFO files says the Cosford incident file included more than 30 sightings over roughly six hours, with police and military witnesses among those reporting bright lights. It also records that the MoD asked the RAF to replay radar tapes, which found nothing unusual, and that the majority of sightings were later linked to the re-entry of the Russian rocket that launched Cosmos 2238. That is a strong explanation for the main sighting wave, but it does not automatically explain every report folded into the same night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-The Shawbury observer account is the awkward residue. A rocket re-entry can look surprisingly low, bright and structured to ground observers, especially when several glowing fragments move together and the mind fills in a shape between them. But it cannot hover, search fields with a downward beam, or circle slowly like an aircraft. Nick Pope made this distinction in a 7 May 1993 note quoted by Clarke, arguing that the rocket decay might explain high-altitude sightings but not the low-level sightings, the low hum, or Elliott’s Shawbury report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+The Shawbury observer account is the awkward residue. A rocket re-entry can look surprisingly low, bright and structured to ground observers, especially when several glowing fragments move together and the mind fills in a shape between them. But it cannot hover, search fields with a downward beam, or circle slowly like an aircraft. Nick Pope made this distinction in a 7 May 1993 note quoted by Clarke, arguing that the rocket decay might explain high-altitude sightings but not the low-level sightings, the low hum, or Elliott’s Shawbury report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
 This is why the Shawbury debate is narrower than the larger Cosford/Shawbury story. It is not mainly about whether the whole night remains unexplained. It is about whether this particular observer saw a second, local aircraft event after the space-debris display, and whether that second event was then absorbed into a larger UFO narrative.
 
@@ -275,9 +275,9 @@ This is why the Shawbury debate is narrower than the larger Cosford/Shawbury sto
 
 ## The police helicopter searchlight explanation
 
-The strongest later explanation is that Elliott saw a police helicopter using a searchlight during a pursuit. Clarke records that in 2005 an airman serving at RAF Shawbury came forward after reading Pope’s account, saying the object “supposedly seen at RAF Shawbury” had been identified as a Dyfed-Powys police helicopter following a stolen car along the A5 near the A49 junction, with the observer using a NiteSun searchlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+The strongest later explanation is that Elliott saw a police helicopter using a searchlight during a pursuit. Clarke records that in 2005 an airman serving at RAF Shawbury came forward after reading Pope’s account, saying the object “supposedly seen at RAF Shawbury” had been identified as a Dyfed-Powys police helicopter following a stolen car along the A5 near the A49 junction, with the observer using a NiteSun searchlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
-This explanation fits several stubborn details better than the rocket re-entry does. A helicopter can move slowly, change direction, appear to hover, carry red navigation or anti-collision lights, make a low mechanical hum, and project a powerful beam downwards. RAF Shawbury’s wider aviation setting also makes helicopter activity a familiar local feature: the station has been associated with helicopter flying training since 1976, and its own flying information warns of intensive low-level helicopter activity and periodic night flying in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf shawbury</span><span class="citation-popover-snippet">raf shawbury</span></span></span>
+This explanation fits several stubborn details better than the rocket re-entry does. A helicopter can move slowly, change direction, appear to hover, carry red navigation or anti-collision lights, make a low mechanical hum, and project a powerful beam downwards. RAF Shawbury’s wider aviation setting also makes helicopter activity a familiar local feature: the station has been associated with helicopter flying training since 1976, and its own flying information warns of intensive low-level helicopter activity and periodic night flying in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf shawbury</span><span class="citation-popover-snippet">raf shawbury</span></span></span>
 
 The helicopter answer is not perfect in the courtroom sense. The available public discussion does not appear to include a fully released police flight log tying a named aircraft, crew and exact track to Elliott’s sighting. That means it should be treated as a plausible and strong explanation, not as a mathematically proven identification. Still, when the reported features are compared point by point, a police helicopter with a searchlight is a more economical explanation for the Shawbury account than either space debris or an unknown large craft.
 
@@ -285,9 +285,9 @@ The helicopter answer is not perfect in the courtroom sense. The available publi
 <img src="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-Illustration-2-dark.svg" | relative_url }}" alt="Shawbury Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shropshire_83e582_shawbury_observer_de_49b3a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official records do and do not prove
 
-The official paper trail is important, but it is thinner on Shawbury than many popular summaries imply. A 2003 MoD letter in the released files states that the department did not hold any report sent directly from RAF Shawbury. Instead, it held a report from two RAF policemen at RAF Cosford which mentioned that they had been contacted by a member of staff at the RAF Shawbury Meteorological Office about lights in the sky. The same letter says the reports were considered by air defence experts, that nothing unusual had been detected on air-defence radar, and that RAF Fylingdales confirmed a decaying Russian rocket had re-entered the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The official paper trail is important, but it is thinner on Shawbury than many popular summaries imply. A 2003 MoD letter in the released files states that the department did not hold any report sent directly from RAF Shawbury. Instead, it held a report from two RAF policemen at RAF Cosford which mentioned that they had been contacted by a member of staff at the RAF Shawbury Meteorological Office about lights in the sky. The same letter says the reports were considered by air defence experts, that nothing unusual had been detected on air-defence radar, and that RAF Fylingdales confirmed a decaying Russian rocket had re-entered the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-Hansard gives a similarly cautious official position. In 1998, Lord Gilbert answered a House of Lords question about the alleged craft over RAF Cosford and RAF Shawbury by saying the MoD was aware of a single report from two military personnel in the West Midlands, that the facts had been examined at the time, that no firm conclusion had been reached, and that the events were not judged to be of defence significance. In the same exchange, he also set out the MoD’s general UFO policy: its concern was whether UK airspace had been penetrated by hostile or unauthorised foreign military activity, not providing an identification service for every report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/1998-07-15/debates/4c752226-9b55-4e3d-b833-4a03f3b5a48b/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
+Hansard gives a similarly cautious official position. In 1998, Lord Gilbert answered a House of Lords question about the alleged craft over RAF Cosford and RAF Shawbury by saying the MoD was aware of a single report from two military personnel in the West Midlands, that the facts had been examined at the time, that no firm conclusion had been reached, and that the events were not judged to be of defence significance. In the same exchange, he also set out the MoD’s general UFO policy: its concern was whether UK airspace had been penetrated by hostile or unauthorised foreign military activity, not providing an identification service for every report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/1998-07-15/debates/4c752226-9b55-4e3d-b833-4a03f3b5a48b/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
 
 That distinction matters for readers. “No firm conclusion” in an MoD answer does not mean “confirmed mystery aircraft”. It usually means the available defence-relevance checks did not establish a threat or a need for further action. For Shawbury, the official record supports the fact that a report reached the Cosford/Shawbury case file, but it does not supply the kind of independent corroboration that would settle the observer’s later, more detailed description on its own.
 
@@ -298,7 +298,7 @@ That distinction matters for readers. “No firm conclusion” in an MoD answer 
 
 The Shawbury sighting is valuable because it shows that witness credibility and witness accuracy are not the same thing. Elliott’s aviation familiarity makes his account worth taking seriously, but it does not make his estimates of size, distance, speed or identity automatically reliable. Night observations are especially vulnerable to misjudgement because the viewer often has lights, sound and motion without a clear outline, known distance or stable reference points.
 
-Expectation may have entered the case in two ways. First, Elliott was reportedly alerted after the Cosford police patrol saw bright lights and rang ahead to Shawbury. That means he was not simply looking at the sky neutrally; he had reason to expect something unusual might be arriving. Secondly, once the wider event was framed as a major UFO flap, later descriptions could more easily merge separate ingredients: the fast white rocket fragments, local low-level aircraft activity, triangular-light imagery, and the dramatic idea of a craft scanning the countryside. Clarke’s comparison of original file notes with later accounts suggests that some details became more elaborate over time, especially the triangular framing and the behavioural description of the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+Expectation may have entered the case in two ways. First, Elliott was reportedly alerted after the Cosford police patrol saw bright lights and rang ahead to Shawbury. That means he was not simply looking at the sky neutrally; he had reason to expect something unusual might be arriving. Secondly, once the wider event was framed as a major UFO flap, later descriptions could more easily merge separate ingredients: the fast white rocket fragments, local low-level aircraft activity, triangular-light imagery, and the dramatic idea of a craft scanning the countryside. Clarke’s comparison of original file notes with later accounts suggests that some details became more elaborate over time, especially the triangular framing and the behavioural description of the lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
 This does not require accusing the witness of invention. A more realistic reading is that a trained observer may have accurately noticed unusual lights and a beam, but misread scale and speed under poor night-time conditions. A police helicopter seen after an already alarming UFO alert would be exactly the sort of ordinary object that could feel extraordinary in the moment.
 
@@ -308,7 +308,7 @@ This does not require accusing the witness of invention. A more realistic readin
 
 Within Shropshire’s UFO history, the Shawbury observer account is the part of the Cosford/Shawbury case that keeps the story from being a simple one-line debunk. The main flap has a strong space-debris explanation; the Shawbury sighting has a strong helicopter explanation; but the two explanations operate at different times and on different parts of the evidence. Treating them separately gives a clearer and fairer account than either dismissing every witness as mistaken or presenting the whole night as a single unexplained craft.
 
-The case also reflects Shropshire’s particular aviation geography. RAF Shawbury is not just a backdrop; it is a working aviation environment with a long history of air traffic control and helicopter training. In such a place, local observers may be more knowledgeable than average, but they are also surrounded by aircraft activity that can produce convincing false positives, especially at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf shawbury</span><span class="citation-popover-snippet">raf shawbury</span></span></span>
+The case also reflects Shropshire’s particular aviation geography. RAF Shawbury is not just a backdrop; it is a working aviation environment with a long history of air traffic control and helicopter training. In such a place, local observers may be more knowledgeable than average, but they are also surrounded by aircraft activity that can produce convincing false positives, especially at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf shawbury</span><span class="citation-popover-snippet">raf shawbury</span></span></span>
 
 The best judgement is therefore cautious. The Shawbury sighting is not well supported enough to stand as evidence of an extraordinary aircraft. It is, however, one of the most instructive fragments in the Shropshire case file: a credible witness account that resisted the rocket explanation, attracted later debate, and then found a more grounded match in the behaviour of a helicopter searchlight. That is why it remains worth discussing, not as proof of a hidden craft over Shropshire, but as a case study in how real sightings become UFO history.
 
@@ -317,194 +317,194 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Shawbury Sighting That Would Not Fit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Shawbury Sighting That Would Not Fit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">David Clarke’s work is closely aligned with UK official UFO files and the Shawbury/Cosford debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">David Clarke’s work is closely aligned with UK official UFO files and the Shawbury/Cosford debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Highly relevant to the 1993 MoD-era interpretation of the Shawbury/Cosford sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to the 1993 MoD-era interpretation of the Shawbury/Cosford sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page’s focus on credible observers, official handling, and non-sensational evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page’s focus on credible observers, official handling, and non-sensational evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers think about credible witnesses, misperception, classification, and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think about credible witnesses, misperception, classification, and unresolved sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="shawbury-debate-the-shawbury-sighting-that-would-not-fit-shropshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,220 +710,220 @@ The best judgement is therefore cautious. The Shawbury sighting is not well supp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: drclarke.substack.com  
    Title: Dr. Clarke's Substack Case Closed: 30th anniversary of the Cosford UFO flap  
-   Link: <a href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow">https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the</a>  
+   Link:<a href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow">https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raf.mod.uk  
    Title: raf shawbury  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
    Title: uk Military Aviation Authority  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-cosford/documents/20260408-dam-11-3-pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-cosford/documents/20260408-dam-11-3-pdf/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-cosford/documents/20260408-dam-11-3-pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-cosford/documents/20260408-dam-11-3-pdf/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
    Title: contact us  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/contact-us/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/contact-us/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/organisation/units-and-squadrons/support-and-training/705-naval-air-squadron" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/organisation/units-and-squadrons/support-and-training/705-naval-air-squadron</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/organisation/units-and-squadrons/support-and-training/705-naval-air-squadron" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/organisation/units-and-squadrons/support-and-training/705-naval-air-squadron</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dyfed-powys.police.uk  
    Title: drones helicopter and fleet 5012025  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/july/drones-helicopter-and-fleet-5012025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/july/drones-helicopter-and-fleet-5012025/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/july/drones-helicopter-and-fleet-5012025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2025/july/drones-helicopter-and-fleet-5012025/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dyfed-powys.police.uk  
    Title: ufo and alien sightings 3572025  
-   Link: <a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mai/ufo-and-alien-sightings-3572025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mai/ufo-and-alien-sightings-3572025/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mai/ufo-and-alien-sightings-3572025/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2025/mai/ufo-and-alien-sightings-3572025/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: police.uk  
-   Link: <a href="https://www.police.uk/pu/your-area/dyfed-powys-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.uk/pu/your-area/dyfed-powys-police/</a>  
+   Link:<a href="https://www.police.uk/pu/your-area/dyfed-powys-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.uk/pu/your-area/dyfed-powys-police/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1998-07-15/debates/4c752226-9b55-4e3d-b833-4a03f3b5a48b/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1998-07-15/debates/4c752226-9b55-4e3d-b833-4a03f3b5a48b/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1998-07-15/debates/4c752226-9b55-4e3d-b833-4a03f3b5a48b/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1998-07-15/debates/4c752226-9b55-4e3d-b833-4a03f3b5a48b/UnidentifiedFlyingObjects</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2094-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2094-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2094-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2094-1.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2024-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2024-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2024-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2024-1-1.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2085-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2085-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2085-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2085-1-1.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2055-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2055-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2055-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2055-1-1.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: documents.theblackvault.com  
    Title: com6.r"tl F* ETc-torr,re'  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2006-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2006-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2006-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2006-1.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2034-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2034-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2034-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2034-1.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2093-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2093-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2093-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2093-1.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2041-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2041-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2041-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2041-1-1.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-1984-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-1984-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-1984-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-1984-1.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: RAF Shawbury  
-   Link: <a href="https://de.wikipedia.org/wiki/RAF_Shawbury" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/RAF_Shawbury</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/RAF_Shawbury" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/RAF_Shawbury</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/observations/gcqh76ug7" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/observations/gcqh76ug7</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/observations/gcqh76ug7" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/observations/gcqh76ug7</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mithrand.karoo.net  
-   Link: <a href="https://www.mithrand.karoo.net/index.htm/cosford.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mithrand.karoo.net/index.htm/cosford.htm</a>  
+   Link:<a href="https://www.mithrand.karoo.net/index.htm/cosford.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mithrand.karoo.net/index.htm/cosford.htm</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hmicfrs.justiceinspectorates.gov.uk  
-   Link: <a href="https://hmicfrs.justiceinspectorates.gov.uk/?cat=counter-terrorism&amp;force=dyfed-powys&amp;frs=shropshire&amp;news-type=all&amp;s=&amp;sector=fire&amp;type=publications&amp;year=1993" target="_blank" rel="noopener noreferrer nofollow">https://hmicfrs.justiceinspectorates.gov.uk/?cat=counter-terrorism&amp;force=dyfed-powys&amp;frs=shropshire&amp;news-type=all&amp;s=&amp;sector=fire&amp;type=publications&amp;year=1993</a>  
+   Link:<a href="https://hmicfrs.justiceinspectorates.gov.uk/?cat=counter-terrorism&amp;force=dyfed-powys&amp;frs=shropshire&amp;news-type=all&amp;s=&amp;sector=fire&amp;type=publications&amp;year=1993" target="_blank" rel="noopener noreferrer nofollow">https://hmicfrs.justiceinspectorates.gov.uk/?cat=counter-terrorism&amp;force=dyfed-powys&amp;frs=shropshire&amp;news-type=all&amp;s=&amp;sector=fire&amp;type=publications&amp;year=1993</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: hmicfrs.justiceinspectorates.gov.uk  
-   Link: <a href="https://hmicfrs.justiceinspectorates.gov.uk/police-forces/dyfed-powys/" target="_blank" rel="noopener noreferrer nofollow">https://hmicfrs.justiceinspectorates.gov.uk/police-forces/dyfed-powys/</a>  
+   Link:<a href="https://hmicfrs.justiceinspectorates.gov.uk/police-forces/dyfed-powys/" target="_blank" rel="noopener noreferrer nofollow">https://hmicfrs.justiceinspectorates.gov.uk/police-forces/dyfed-powys/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: search.sl.nsw.gov.au  
-   Link: <a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21104108210002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21104108210002626&amp;vid=SLNSW</a>  
+   Link:<a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21104108210002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21104108210002626&amp;vid=SLNSW</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: shropshire.gov.uk  
-   Link: <a href="https://www.shropshire.gov.uk/media/8534/core-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.shropshire.gov.uk/media/8534/core-strategy.pdf</a>  
+   Link:<a href="https://www.shropshire.gov.uk/media/8534/core-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.shropshire.gov.uk/media/8534/core-strategy.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: policememorial.org.uk  
    Title: Dyfed-Powys Police  
-   Link: <a href="https://policememorial.org.uk/roll-of-honour/force/dyfed-powys-police/" target="_blank" rel="noopener noreferrer nofollow">https://policememorial.org.uk/roll-of-honour/force/dyfed-powys-police/</a>  
+   Link:<a href="https://policememorial.org.uk/roll-of-honour/force/dyfed-powys-police/" target="_blank" rel="noopener noreferrer nofollow">https://policememorial.org.uk/roll-of-honour/force/dyfed-powys-police/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gHCNufc-RO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gHCNufc-RO8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness Describes In Detail Her Close Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gHCNufc-RO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gHCNufc-RO8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness Describes In Detail Her Close Encounter...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Yesterday | UFOs Declassified: Ep1 Preview  
-   Link: <a href="https://www.youtube.com/watch?v=jsmNvuzaL-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jsmNvuzaL-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s Strangest UFO Sighting - The Cosford Incident | UFO Expert Reacts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jsmNvuzaL-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jsmNvuzaL-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s Strangest UFO Sighting - The Cosford Incident | UFO Expert Reacts...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Ross Coulthart investigates UK's UFO Phenomenon  
-   Link: <a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_I-xlxV2OsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_I-xlxV2OsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_I-xlxV2OsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Britain's Strangest UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=lDAH35KR0Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lDAH35KR0Bs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lDAH35KR0Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lDAH35KR0Bs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart investigates UK&#x27;s UFO Phenomenon...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
+   Link:<a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: folklore-society.com  
-   Link: <a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
+   Link:<a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: rafmuseum.org.uk  
-   Link: <a href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/pathway-to-pilot/modern/helicopter-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/pathway-to-pilot/modern/helicopter-training/</a>  
+   Link:<a href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/pathway-to-pilot/modern/helicopter-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/pathway-to-pilot/modern/helicopter-training/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUdLZuEEt5_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUdLZuEEt5_/</a>  
+   Link:<a href="https://www.instagram.com/p/DUdLZuEEt5_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUdLZuEEt5_/</a>  

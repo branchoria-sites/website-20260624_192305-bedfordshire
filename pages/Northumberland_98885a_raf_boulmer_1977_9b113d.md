@@ -248,13 +248,13 @@ image: /assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-overview-soc
 
 ## Introduction
 
-RAF Boulmer is probably [Northumberland]({{ 'what-really-happened-in/' | relative_url }})’s best-known public UFO case because it has the ingredients many weaker sightings lack: named RAF personnel, a long observation, a coastal military setting, and reported radar contacts. The core claim is that in July 1977 Flight Lieutenant A. M. Wood, supported by RAF colleagues, saw bright objects over the North Sea from RAF Boulmer, near Alnwick, and that radar returns appeared to match the visual report. That makes the case worth taking seriously within Northumberland’s UFO history. It does not make it proof of an alien craft. The public evidence is still second-hand through released Ministry of Defence material and later reporting, and key data needed for a modern reconstruction — raw radar plots, full weather records, exact timings, instrument settings and independent checks — is not readily available in the open record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+RAF Boulmer is probably [Northumberland]({{ 'what-really-happened-in/' | relative_url }})’s best-known public UFO case because it has the ingredients many weaker sightings lack: named RAF personnel, a long observation, a coastal military setting, and reported radar contacts. The core claim is that in July 1977 Flight Lieutenant A. M. Wood, supported by RAF colleagues, saw bright objects over the North Sea from RAF Boulmer, near Alnwick, and that radar returns appeared to match the visual report. That makes the case worth taking seriously within Northumberland’s UFO history. It does not make it proof of an alien craft. The public evidence is still second-hand through released Ministry of Defence material and later reporting, and key data needed for a modern reconstruction — raw radar plots, full weather records, exact timings, instrument settings and independent checks — is not readily available in the open record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-overview.webp" | relative_url }}" alt="Overview image for RAF Boulmer" loading="eager" decoding="sync" fetchpriority="high">
 ## Why RAF Boulmer matters in Northumberland
 
-RAF Boulmer is not just a convenient local label. By the 1970s it was part of Britain’s air-defence infrastructure, not an ordinary airfield with a casual view of the coast. The RAF’s own station history says Boulmer was selected in 1953 for an air-defence control centre with radar and control facilities, became a Group Control Centre in 1957, and by 1974 had evolved into both a Sector Operations Centre and a Control and Reporting Centre. That matters because a report from this site naturally carries more weight than a brief roadside sighting by an untrained observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Boulmer &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Boulmer &#124; Royal Air Force</span></span></span>
+RAF Boulmer is not just a convenient local label. By the 1970s it was part of Britain’s air-defence infrastructure, not an ordinary airfield with a casual view of the coast. The RAF’s own station history says Boulmer was selected in 1953 for an air-defence control centre with radar and control facilities, became a Group Control Centre in 1957, and by 1974 had evolved into both a Sector Operations Centre and a Control and Reporting Centre. That matters because a report from this site naturally carries more weight than a brief roadside sighting by an untrained observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Boulmer &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Boulmer &#124; Royal Air Force</span></span></span>
 
 The setting also matters geographically. Boulmer sits on the Northumberland coast, looking out over the North Sea. A strange light seen from there may be genuinely puzzling, but the same setting also opens up ordinary possibilities: aircraft seen head-on, ships or offshore lights, atmospheric refraction over the sea, search and rescue activity, training traffic, stars or planets near the horizon, meteors, and radar clutter. In other words, RAF Boulmer gives the case its strength and its caution at the same time: it is an air-defence location, but it is also a place where complex sky, sea and radar effects can overlap.
 
@@ -263,9 +263,9 @@ The setting also matters geographically. Boulmer sits on the Northumberland coas
 
 ## What the RAF witnesses reported
 
-The clearest published account says the incident took place in July 1977 and involved Flight Lieutenant A. M. Wood, with support from Corporal Torrington and Sergeant Graham. Wood reportedly described “bright objects” over the sea, with the closest object said to be luminous, round, and four to five times larger than a Whirlwind helicopter. The objects were reported at about three miles offshore and roughly 5,000 feet high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+The clearest published account says the incident took place in July 1977 and involved Flight Lieutenant A. M. Wood, with support from Corporal Torrington and Sergeant Graham. Wood reportedly described “bright objects” over the sea, with the closest object said to be luminous, round, and four to five times larger than a Whirlwind helicopter. The objects were reported at about three miles offshore and roughly 5,000 feet high.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
-The duration is one of the strongest parts of the story. The witnesses were said to have observed the objects for about one hour and forty minutes from a picket post at the RAF station. A sighting lasting that long is not automatically better evidence — people can misinterpret a stable light for a long time — but it does reduce the chance that the whole report was a fleeting meteor or a momentary reflection. The witnesses also described separation and apparent shape-change: one object was said to move west of another and, while manoeuvring, change into a body-like form with projections resembling arms and legs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+The duration is one of the strongest parts of the story. The witnesses were said to have observed the objects for about one hour and forty minutes from a picket post at the RAF station. A sighting lasting that long is not automatically better evidence — people can misinterpret a stable light for a long time — but it does reduce the chance that the whole report was a fleeting meteor or a momentary reflection. The witnesses also described separation and apparent shape-change: one object was said to move west of another and, while manoeuvring, change into a body-like form with projections resembling arms and legs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
 That last detail cuts both ways. On one hand, it gives the report a specific, memorable character. On the other, dramatic shape-change is difficult to assess without photographs, instrument records or independent observers at known positions. A bright object near the horizon, seen through a shifting atmosphere, can appear to distort, split, elongate or blur. The report is therefore strongest when it describes the basic observation — bright objects over the sea, watched by RAF personnel for a long period — and weaker when it moves into exact size, altitude and shape unless those estimates can be tied to hard measurements.
 
@@ -273,26 +273,26 @@ That last detail cuts both ways. On one hand, it gives the report a specific, me
 <img src="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-1-dark.svg" | relative_url }}" alt="RAF Boulmer illustration 1" data-theme-src-dark="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Radar claims and missing data
 
-The radar element is what makes the Boulmer case stand out from most local UFO reports. The published account says a radar station detected objects in the same position as the visual sighting, registered them on a heading between 30 and 35 degrees before they left the screen, and noted two contacts on T84 and T85 radar at RAF Boulmer. It also says they appeared on the Staxton Wold radar picture relayed to West Drayton, with the duty controller checking whether West Drayton could see the objects on the Staxton Wold feed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+The radar element is what makes the Boulmer case stand out from most local UFO reports. The published account says a radar station detected objects in the same position as the visual sighting, registered them on a heading between 30 and 35 degrees before they left the screen, and noted two contacts on T84 and T85 radar at RAF Boulmer. It also says they appeared on the Staxton Wold radar picture relayed to West Drayton, with the duty controller checking whether West Drayton could see the objects on the Staxton Wold feed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
 If read at face value, that is significant. A visual report by trained personnel plus apparent radar correlation is much harder to dismiss than a single anonymous witness saying they saw a light. It suggests the RAF personnel did not merely report something after the fact; someone was apparently trying to compare the visual observation with the air-defence picture at the time. That is exactly the kind of cross-check readers expect in a serious UFO case.
 
 The problem is that the public version does not appear to provide the full forensic package needed to test the claim. A modern assessment would want the exact radar plots, the time sequence, antenna and display details, whether the returns were primary radar or otherwise, how long each contact persisted, whether there were transponder returns, whether ships or aircraft were in the relevant area, and what the meteorological conditions were over the sea. Without those details, “radar confirmed it” is too strong. A fairer phrase is that radar contacts were reported alongside the sighting.
 
-This distinction is important because radar is powerful but not infallible. UK Civil Aviation Authority guidance notes that surveillance clutter can be generated by weather, anomalous propagation, ground or sea returns, birds, wind turbines and chaff, and that clutter can reduce the ability to detect conflicting aircraft. That does not explain Boulmer by itself, but it shows why a radar return is not automatically a solid object with a simple flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/19298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority UK Flight Information Services: Fourth Edition</span><span class="citation-popover-snippet">Civil Aviation Authority UK Flight Information Services: Fourth Edition</span></span></span>
+This distinction is important because radar is powerful but not infallible. UK Civil Aviation Authority guidance notes that surveillance clutter can be generated by weather, anomalous propagation, ground or sea returns, birds, wind turbines and chaff, and that clutter can reduce the ability to detect conflicting aircraft. That does not explain Boulmer by itself, but it shows why a radar return is not automatically a solid object with a simple flight path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/19298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority UK Flight Information Services: Fourth Edition</span><span class="citation-popover-snippet">Civil Aviation Authority UK Flight Information Services: Fourth Edition</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## Why ordinary explanations still matter
 
-The strongest sceptical reading is not that the RAF witnesses invented the story. It is that the public evidence does not eliminate enough ordinary causes. The Ministry of Defence’s own broader UFO briefing makes the key point: “UFO” in a military or archival context means something seen in the sky that the observer did not recognise, not an alien spacecraft. The same briefing says most reports have ordinary explanations such as bright stars and planets, meteors, satellites, balloons, aircraft seen from unusual angles, and space debris; cases without a common explanation remain “unidentified” rather than extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The strongest sceptical reading is not that the RAF witnesses invented the story. It is that the public evidence does not eliminate enough ordinary causes. The Ministry of Defence’s own broader UFO briefing makes the key point: “UFO” in a military or archival context means something seen in the sky that the observer did not recognise, not an alien spacecraft. The same briefing says most reports have ordinary explanations such as bright stars and planets, meteors, satellites, balloons, aircraft seen from unusual angles, and space debris; cases without a common explanation remain “unidentified” rather than extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Boulmer, several ordinary possibilities remain relevant:
 
-* **Aircraft or helicopters:** The witnesses compared the object with a Whirlwind helicopter, and RAF Boulmer had a search and rescue role from 1975. That does not mean they saw a helicopter, but it makes aviation context unavoidable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Boulmer &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Boulmer &#124; Royal Air Force</span></span></span>
+* **Aircraft or helicopters:** The witnesses compared the object with a Whirlwind helicopter, and RAF Boulmer had a search and rescue role from 1975. That does not mean they saw a helicopter, but it makes aviation context unavoidable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Boulmer &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Boulmer &#124; Royal Air Force</span></span></span>
 * **Sea-horizon effects:** A light three miles offshore, seen over water, may be affected by haze, refraction, mirage-like distortion or changing visibility.
-* **Radar clutter or anomalous propagation:** Atmospheric conditions can bend radar signals and produce misleading returns. The Met Office explains that temperature inversions occur when temperature increases with height, often under high pressure, trapping cooler air beneath warmer air; aviation guidance recognises anomalous propagation and sea returns as sources of surveillance clutter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is a temperature inversion?</span><span class="citation-popover-snippet">Met Office What is a temperature inversion?</span></span></span>
+* **Radar clutter or anomalous propagation:** Atmospheric conditions can bend radar signals and produce misleading returns. The Met Office explains that temperature inversions occur when temperature increases with height, often under high pressure, trapping cooler air beneath warmer air; aviation guidance recognises anomalous propagation and sea returns as sources of surveillance clutter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is a temperature inversion?</span><span class="citation-popover-snippet">Met Office What is a temperature inversion?</span></span></span>
 * **Misjudged size and height:** Without a known distance or object type, a bright light’s size and altitude can be very difficult to estimate, even for experienced observers.
 
 None of these explanations neatly closes the case. The reported duration, multiple witnesses and radar references make a simple “it was Venus” dismissal unsatisfying. But the reverse is also true: none of the published evidence securely establishes an exotic craft. The case sits in the difficult middle ground where the witnesses may have accurately reported something unusual, while the available record is not strong enough to prove what it was.
@@ -301,9 +301,9 @@ None of these explanations neatly closes the case. The reported duration, multip
 <img src="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-2-dark.svg" | relative_url }}" alt="RAF Boulmer illustration 2" data-theme-src-dark="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case was investigated and released
 
-The Boulmer report became public through the release of Ministry of Defence UFO records rather than through a fresh investigation with modern tools. The Independent reported in 2005 that the account had been reviewed and declassified after the Freedom of Information Act came into force, and that its release had been delayed for an extra three years because it was considered sensitive to the national interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+The Boulmer report became public through the release of Ministry of Defence UFO records rather than through a fresh investigation with modern tools. The Independent reported in 2005 that the account had been reviewed and declassified after the Freedom of Information Act came into force, and that its release had been delayed for an extra three years because it was considered sensitive to the national interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
-That release history is easy to misread. “Sensitive” does not necessarily mean “alien” or even “extraordinary technology”. In an air-defence context, sensitivity can relate to radar capability, military procedures, locations, communications chains or the embarrassment of unexplained incidents at defence sites. The National Archives’ UFO briefing says official policy was restricted to whether sightings could be considered a national-security threat; once hostile aircraft were discounted, the identity of a UFO was of no further interest to the British military. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+That release history is easy to misread. “Sensitive” does not necessarily mean “alien” or even “extraordinary technology”. In an air-defence context, sensitivity can relate to radar capability, military procedures, locations, communications chains or the embarrassment of unexplained incidents at defence sites. The National Archives’ UFO briefing says official policy was restricted to whether sightings could be considered a national-security threat; once hostile aircraft were discounted, the identity of a UFO was of no further interest to the British military.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This helps explain why the Boulmer case feels both important and frustrating. It was important enough to be recorded and later discussed publicly. Yet the official system was not designed to satisfy later civilian curiosity about every unidentified light. It was designed to decide whether UK airspace or defence security was at risk. That leaves readers with a partial record rather than a complete case file.
 
@@ -312,7 +312,7 @@ This helps explain why the Boulmer case feels both important and frustrating. It
 
 ## Why the case remains unresolved
 
-RAF Boulmer 1977 remains unresolved because the public evidence is stronger than most local UFO reports but weaker than a decisive identification. The positive case rests on trained RAF witnesses, a long observation, named personnel, a precise Northumberland military setting, and reported radar contacts at Boulmer and on the Staxton Wold picture relayed to West Drayton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+RAF Boulmer 1977 remains unresolved because the public evidence is stronger than most local UFO reports but weaker than a decisive identification. The positive case rests on trained RAF witnesses, a long observation, named personnel, a precise Northumberland military setting, and reported radar contacts at Boulmer and on the Staxton Wold picture relayed to West Drayton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
 The doubts rest on the gaps. The public record does not provide the raw radar data needed to test the claimed correlation. It does not give enough meteorological detail to rule out inversion or refraction effects. It does not show independent triangulation from civilians, ships, aircraft or other coastal observers. It does not provide photographs, film, cockpit recordings or a later technical reconstruction. And some of the most striking visual details, especially apparent shape-change, are precisely the kind of thing that can be exaggerated by distance, glare, haze or expectation.
 
@@ -322,194 +322,194 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
 <img src="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-3-dark.svg" | relative_url }}" alt="RAF Boulmer illustration 3" data-theme-src-dark="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northumberland_98885a_raf_boulmer_1977_9b113d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was RAF Boulmer Northumberland&#x27;s Best UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was RAF Boulmer Northumberland&#x27;s Best UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers analytical tools for judging witness testimony and unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers analytical tools for judging witness testimony and unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closest match to RAF Boulmer themes of trained observers, radar evidence, and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest match to RAF Boulmer themes of trained observers, radar evidence, and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Focuses heavily on defence, intelligence, and aviation-related UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on defence, intelligence, and aviation-related UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how military organizations assess and document unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how military organizations assess and document unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="raf-boulmer-was-raf-boulmer-northumberland-s-best-ufo-case-northumberland-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,170 +715,170 @@ That is why RAF Boulmer should be described carefully. It is not a debunked hoax
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/the-truth-is-out-there-classified-reports-of-ufo-sightings-are-finally-made-public-1528453.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Boulmer | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-boulmer/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority UK Flight Information Services: Fourth Edition  
-   Link: <a href="https://www.caa.co.uk/publication/download/19298" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/19298</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/19298" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/19298</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office What is a temperature inversion?  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
    Title: raf returns golf ball to he northumberland skyline  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-returns-golf-ball-to-he-northumberland-skyline/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-returns-golf-ball-to-he-northumberland-skyline/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-returns-golf-ball-to-he-northumberland-skyline/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-returns-golf-ball-to-he-northumberland-skyline/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: des.mod.uk  
    Title: guardian air command control system  
-   Link: <a href="https://des.mod.uk/guardian-air-command-control-system/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/guardian-air-command-control-system/</a>  
+   Link:<a href="https://des.mod.uk/guardian-air-command-control-system/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/guardian-air-command-control-system/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: RAF Boulmer  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Boulmer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Boulmer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Boulmer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Boulmer</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: diposit.ub.edu  
-   Link: <a href="https://diposit.ub.edu/bitstreams/771963cf-dd17-4fbe-9f69-f91adfe7d19f/download" target="_blank" rel="noopener noreferrer nofollow">https://diposit.ub.edu/bitstreams/771963cf-dd17-4fbe-9f69-f91adfe7d19f/download</a>  
+   Link:<a href="https://diposit.ub.edu/bitstreams/771963cf-dd17-4fbe-9f69-f91adfe7d19f/download" target="_blank" rel="noopener noreferrer nofollow">https://diposit.ub.edu/bitstreams/771963cf-dd17-4fbe-9f69-f91adfe7d19f/download</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/15787" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/15787</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/15787" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/15787</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: metoffice.gov.uk  
    Title: how does the met office take ocean observations  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-take-ocean-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-take-ocean-observations</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-take-ocean-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-take-ocean-observations</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: radarpages.co.uk  
-   Link: <a href="https://www.radarpages.co.uk/oral/dbarrett/boulmer.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.radarpages.co.uk/oral/dbarrett/boulmer.htm</a>  
+   Link:<a href="https://www.radarpages.co.uk/oral/dbarrett/boulmer.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.radarpages.co.uk/oral/dbarrett/boulmer.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ncaa.gov.ng  
    Title: advisory circular  
-   Link: <a href="https://ncaa.gov.ng/media/cg1lhwkb/advisory-circular-on-testing-of-surveillance-radar-systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncaa.gov.ng/media/cg1lhwkb/advisory-circular-on-testing-of-surveillance-radar-systems.pdf</a>  
+   Link:<a href="https://ncaa.gov.ng/media/cg1lhwkb/advisory-circular-on-testing-of-surveillance-radar-systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncaa.gov.ng/media/cg1lhwkb/advisory-circular-on-testing-of-surveillance-radar-systems.pdf</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: RAF Boulmer & Allstars Choir marking the anniversary of D-Day  
-   Link: <a href="https://www.youtube.com/watch?v=s3BLpUd7pPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s3BLpUd7pPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Boulmer UFO 1977 On an ABANDONED AIRCRAFT CARRIER?!😱👻 Toast Asylum 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s3BLpUd7pPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s3BLpUd7pPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Boulmer UFO 1977 On an ABANDONED AIRCRAFT CARRIER?!😱👻 Toast Asylum 2...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Why The UK's Air Force Is Untouchable In The Skies!  
-   Link: <a href="https://www.youtube.com/watch?v=qyk9mACSGmA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qyk9mACSGmA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Systems Operator | Gerry Dolan | RAF Veteran...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qyk9mACSGmA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qyk9mACSGmA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Systems Operator | Gerry Dolan | RAF Veteran...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Giant beach artwork honours D-Day anniversary  
-   Link: <a href="https://www.youtube.com/watch?v=XO34RNxqlFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XO34RNxqlFE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Boulmer &amp; Allstars Choir marking the anniversary of D-Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XO34RNxqlFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XO34RNxqlFE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Boulmer &amp; Allstars Choir marking the anniversary of D-Day...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340967261_An_analysis_of_anomalous_propagation_parameters_and_its_effect_on_the_intensity_of_clutter_in_weather_radars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340967261_An_analysis_of_anomalous_propagation_parameters_and_its_effect_on_the_intensity_of_clutter_in_weather_radars</a>  
+   Link:<a href="https://www.researchgate.net/publication/340967261_An_analysis_of_anomalous_propagation_parameters_and_its_effect_on_the_intensity_of_clutter_in_weather_radars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340967261_An_analysis_of_anomalous_propagation_parameters_and_its_effect_on_the_intensity_of_clutter_in_weather_radars</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Aerospace Systems Operator | Gerry Dolan | RAF Veteran  
-   Link: <a href="https://www.youtube.com/watch?v=2suSLGoa7nU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2suSLGoa7nU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prince Charles visits RAF Boulmer 24.07.12...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2suSLGoa7nU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2suSLGoa7nU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prince Charles visits RAF Boulmer 24.07.12...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: radartutorial.eu  
-   Link: <a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
+   Link:<a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aviation/comments/179udv8/anyone_know_why_wx_radar_was_picking_up_a_return/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/179udv8/anyone_know_why_wx_radar_was_picking_up_a_return/</a>  
+   Link:<a href="https://www.reddit.com/r/aviation/comments/179udv8/anyone_know_why_wx_radar_was_picking_up_a_return/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/179udv8/anyone_know_why_wx_radar_was_picking_up_a_return/</a>  

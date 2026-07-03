@@ -118,9 +118,9 @@ heading_title: What Really Happened Over the Wee County?
 page_heading_title: What Really Happened Over the Wee County?
 source_count: 145
 infographic_count: 3
-page_website_name: Clackmannanshire UFOs
+page_website_name: Clackmannanshire
 page_banner_line: Balanced evidence on strange lights, local reports and Forth Valley UFO claims.
-site_website_name: Clackmannanshire UFOs
+site_website_name: Clackmannanshire
 site_banner_line: Balanced evidence on strange lights, local reports and Forth Valley UFO claims.
 site_image_description: A night view over Alva and the Ochil Hills with a small orange light above the ridge and town lights below.
 output_language: English
@@ -684,17 +684,17 @@ image: /assets/images/Clackmannanshire_a9d2bc-overview-social.jpg
 
 ## Where the county scope begins and ends
 
-For this project, Clackmannanshire is treated as the historic county shown in the Wikishire historic-counties framework, not merely as a loose label for the wider Stirling or Forth Valley media area. That matters because many stories reported as “local” to Clackmannanshire actually spill across neighbouring Stirlingshire, Perthshire, Fife and Falkirk. The county itself is compact: Wikishire describes it as the smallest county in the United Kingdom, with the Ochil Hills in the north, Alloa, Alva, Tillicoultry, Dollar, Sauchie, Tullibody and Clackmannan among its principal settlements, and the River Forth forming an important southern edge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Clackmannanshire</span><span class="citation-popover-snippet">Wikishire Clackmannanshire</span></span></span>
+For this project, Clackmannanshire is treated as the historic county shown in the Wikishire historic-counties framework, not merely as a loose label for the wider Stirling or Forth Valley media area. That matters because many stories reported as “local” to Clackmannanshire actually spill across neighbouring Stirlingshire, Perthshire, Fife and Falkirk. The county itself is compact: Wikishire describes it as the smallest county in the United Kingdom, with the Ochil Hills in the north, Alloa, Alva, Tillicoultry, Dollar, Sauchie, Tullibody and Clackmannan among its principal settlements, and the River Forth forming an important southern edge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Clackmannanshire</span><span class="citation-popover-snippet">Wikishire Clackmannanshire</span></span></span>
 
 
 <img src="{{ "/assets/images/Clackmannanshire_a9d2bc-overview.webp" | relative_url }}" alt="Overview image for Clackmannanshire" loading="eager" decoding="sync" fetchpriority="high">
-Modern administrative geography does not always match historic-county thinking, but in Clackmannanshire the difference is less confusing than in some parts of the UK because the modern council area and the historic county are closely associated in public usage. Clackmannanshire Council’s own visitor mapping describes the area as bordering Falkirk, Perth and Kinross, Fife and Stirling, with Alloa as the principal town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clacks.gov.uk/visiting/clackmannanshiremap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clacks.gov.uk">[Clacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clacks.gov.uk</span><span class="citation-popover-snippet">Open source on clacks.gov.uk.</span></span></span> For UFO history, this means sightings over the Ochils, the Hillfoots, Alloa, Alva or Dollar belong naturally on this page, while Bonnybridge, Stirling, Kippen or Bannockburn cases are useful comparisons rather than Clackmannanshire cases in their own right.
+Modern administrative geography does not always match historic-county thinking, but in Clackmannanshire the difference is less confusing than in some parts of the UK because the modern council area and the historic county are closely associated in public usage. Clackmannanshire Council’s own visitor mapping describes the area as bordering Falkirk, Perth and Kinross, Fife and Stirling, with Alloa as the principal town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clacks.gov.uk/visiting/clackmannanshiremap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clacks.gov.uk">[Clacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clacks.gov.uk</span><span class="citation-popover-snippet">Open source on clacks.gov.uk.</span></span></span> For UFO history, this means sightings over the Ochils, the Hillfoots, Alloa, Alva or Dollar belong naturally on this page, while Bonnybridge, Stirling, Kippen or Bannockburn cases are useful comparisons rather than Clackmannanshire cases in their own right.
 
 ## The clearest recent report: the Alva orange light
 
-The strongest recent public example within the county is the Alva report from December 2024. According to local press coverage, an anonymous witness submitted a report to the Mutual UFO Network, or MUFON, after seeing a “huge bright object” over Alva, Clackmannanshire, shortly before Christmas. The reported object was described as an orange ball moving slowly from north to south, with no sound and no normal aircraft position lights. The witness estimated it at around 200 to 300 feet above ground level, visible for one or two minutes at 11.23 pm before it disappeared quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+The strongest recent public example within the county is the Alva report from December 2024. According to local press coverage, an anonymous witness submitted a report to the Mutual UFO Network, or MUFON, after seeing a “huge bright object” over Alva, Clackmannanshire, shortly before Christmas. The reported object was described as an orange ball moving slowly from north to south, with no sound and no normal aircraft position lights. The witness estimated it at around 200 to 300 feet above ground level, visible for one or two minutes at 11.23 pm before it disappeared quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
-That is enough to make the Alva case worth recording, but not enough to make it a strong unresolved case. The same report says no photograph was published with the account, even though a son reportedly attempted a one-second exposure that captured only a direction of movement rather than the object itself. The sighting was also reported two days after the event, on Christmas Eve, which is not unusual for civilian databases but does mean investigators are left without immediate corroboration, calibrated imagery, radar data, flight logs or independent witness statements in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+That is enough to make the Alva case worth recording, but not enough to make it a strong unresolved case. The same report says no photograph was published with the account, even though a son reportedly attempted a one-second exposure that captured only a direction of movement rather than the object itself. The sighting was also reported two days after the event, on Christmas Eve, which is not unusual for civilian databases but does mean investigators are left without immediate corroboration, calibrated imagery, radar data, flight logs or independent witness statements in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 The description is also exactly the sort of sighting that often remains ambiguous: a single night-time light, seen briefly, without a clear distance scale. Possible explanations include a drone, a lantern, a distant aircraft seen head-on or at an unusual angle, a bright object partly obscured by atmospheric conditions, or a misjudged local light source. None of those explanations is proven from the published details, but the evidence does not justify treating the Alva report as an extraordinary event.
 
@@ -704,18 +704,18 @@ The description is also exactly the sort of sighting that often remains ambiguou
 
 Clackmannanshire’s geography helps explain why sky reports here can feel dramatic even when the evidence remains thin. The county compresses dark hillside edges, small towns, industrial lights, open views across the Forth Valley and the rising ground of the Ochils into a small area. From Alva, Tillicoultry, Dollar and Menstrie, observers can look across changing slopes, glens and ridgelines, while from Alloa and Clackmannan they may be looking across lower, more industrial and transport-linked ground.
 
-The Ochils are especially relevant because unusual weather and cloud forms can be produced or enhanced by hills. The Met Office explains that lenticular clouds form downwind of hills or mountains when air moves in standing waves; these clouds can look like classic flying saucers and are believed to be among the common explanations for UFO reports worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span> Clackmannanshire does not need a famous lenticular-cloud case to make this point useful: a county with a sharp hill-and-valley contrast is naturally a place where unusual clouds, illuminated mist, low cloud edges and changing visibility can make ordinary sky phenomena look strange.
+The Ochils are especially relevant because unusual weather and cloud forms can be produced or enhanced by hills. The Met Office explains that lenticular clouds form downwind of hills or mountains when air moves in standing waves; these clouds can look like classic flying saucers and are believed to be among the common explanations for UFO reports worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span> Clackmannanshire does not need a famous lenticular-cloud case to make this point useful: a county with a sharp hill-and-valley contrast is naturally a place where unusual clouds, illuminated mist, low cloud edges and changing visibility can make ordinary sky phenomena look strange.
 
-Night-time drones are another modern factor. The Civil Aviation Authority says that from 1 January 2026 drones operated at night in the Open Category must have a green flashing light, and that night flying creates extra difficulty in judging distance and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> That guidance post-dates the December 2024 Alva report, so it should not be applied backwards as a rule for that incident, but it shows why present and future Clackmannanshire sightings need to consider drone activity seriously. A small light at low altitude, especially if silent at the observer’s distance, can be hard to assess without video, sound, time, direction, weather and location data.
+Night-time drones are another modern factor. The Civil Aviation Authority says that from 1 January 2026 drones operated at night in the Open Category must have a green flashing light, and that night flying creates extra difficulty in judging distance and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> That guidance post-dates the December 2024 Alva report, so it should not be applied backwards as a rule for that incident, but it shows why present and future Clackmannanshire sightings need to consider drone activity seriously. A small light at low altitude, especially if silent at the observer’s distance, can be hard to assess without video, sound, time, direction, weather and location data.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T7jkqsCa4-I" title="The Town with the Most UFO Sightings in the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer">The Town with the Most UFO Sightings in the World</a></p><p class="youtube-embed-meta">Channel: Jordi Busquets</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T7jkqsCa4-I">Open on YouTube</a></p></div></div></div>
 
 ## Clackmannanshire’s strongest UFO link may be people, not cases
 
-The county’s most distinctive contribution to Scottish UFO culture may be through investigators rather than through a single landmark Clackmannanshire sighting. [Malcolm Robinson]({{ 'robinson/' | relative_url }}), a well-known Scottish UFO and paranormal researcher, is repeatedly linked in public sources to the Clackmannanshire area. A British Newspaper Archive snippet from 1996 describes him as being from Tullibody, near Alloa, and as a Scottish coordinator of the British UFO Research Association. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> An interview in Ayrshire Magazine presents him as a long-running investigator of Scottish cases, including the A70 abduction claim, the Dechmont Woods case and the Calvine photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayrshiremagazine.com/malcolm-robinson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayrshiremagazine.com">[Ayrshire Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayrshiremagazine.com</span><span class="citation-popover-title">Ayrshire Magazine MALCOLM ROBINSON</span><span class="citation-popover-snippet">Ayrshire Magazine MALCOLM ROBINSON</span></span></span>
+The county’s most distinctive contribution to Scottish UFO culture may be through investigators rather than through a single landmark Clackmannanshire sighting. [Malcolm Robinson]({{ 'robinson/' | relative_url }}), a well-known Scottish UFO and paranormal researcher, is repeatedly linked in public sources to the Clackmannanshire area. A British Newspaper Archive snippet from 1996 describes him as being from Tullibody, near Alloa, and as a Scottish coordinator of the British UFO Research Association.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> An interview in Ayrshire Magazine presents him as a long-running investigator of Scottish cases, including the A70 abduction claim, the Dechmont Woods case and the Calvine photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayrshiremagazine.com/malcolm-robinson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayrshiremagazine.com">[Ayrshire Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayrshiremagazine.com</span><span class="citation-popover-title">Ayrshire Magazine MALCOLM ROBINSON</span><span class="citation-popover-snippet">Ayrshire Magazine MALCOLM ROBINSON</span></span></span>
 
-That connection should be handled carefully. Robinson’s work helps explain how UFO claims from central Scotland were collected, discussed and promoted, but it does not by itself make Clackmannanshire a major UFO incident location. In the same interview, Robinson says that around 95% of cases he has investigated can be explained by natural phenomena or misidentification, with a smaller remainder defying conventional explanation in his view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayrshiremagazine.com/malcolm-robinson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayrshiremagazine.com">[Ayrshire Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayrshiremagazine.com</span><span class="citation-popover-title">Ayrshire Magazine MALCOLM ROBINSON</span><span class="citation-popover-snippet">Ayrshire Magazine MALCOLM ROBINSON</span></span></span> That is a useful reminder that even committed UFO investigators often separate witness sincerity from proof of an extraordinary object.
+That connection should be handled carefully. Robinson’s work helps explain how UFO claims from central Scotland were collected, discussed and promoted, but it does not by itself make Clackmannanshire a major UFO incident location. In the same interview, Robinson says that around 95% of cases he has investigated can be explained by natural phenomena or misidentification, with a smaller remainder defying conventional explanation in his view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayrshiremagazine.com/malcolm-robinson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayrshiremagazine.com">[Ayrshire Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayrshiremagazine.com</span><span class="citation-popover-title">Ayrshire Magazine MALCOLM ROBINSON</span><span class="citation-popover-snippet">Ayrshire Magazine MALCOLM ROBINSON</span></span></span> That is a useful reminder that even committed UFO investigators often separate witness sincerity from proof of an extraordinary object.
 
 Robinson’s local identity also matters because Clackmannanshire sits close to better-known Scottish UFO narratives. His published and public-facing work has dealt with cases outside the county, including the Livingston/Dechmont Woods incident, the A70 claim in Lanarkshire, the Calvine photograph in Perthshire and the Bonnybridge material in nearby Falkirk/Stirlingshire media territory. Those cases belong primarily on their own county or incident pages, but they form the cultural background against which a Clackmannanshire sighting is likely to be interpreted.
 
@@ -723,9 +723,9 @@ Robinson’s local identity also matters because Clackmannanshire sits close to 
 <img src="{{ "/assets/images/Clackmannanshire_a9d2bc-Illustration-2-dark.svg" | relative_url }}" alt="Clackmannanshire illustration 2" data-theme-src-dark="{{ "/assets/images/Clackmannanshire_a9d2bc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clackmannanshire_a9d2bc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Bonnybridge shadow over the Wee County
 
-Any discussion of Clackmannanshire UFO reporting soon runs into Bonnybridge, even though Bonnybridge is not in Clackmannanshire. Bonnybridge’s “UFO hotspot” reputation has been repeatedly reported in Scottish local media, and a 2025 article about Ron Halliday and Malcolm Robinson’s book on the Bonnybridge UFO story says both authors had investigated many reports associated with the village. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+Any discussion of Clackmannanshire UFO reporting soon runs into Bonnybridge, even though Bonnybridge is not in Clackmannanshire. Bonnybridge’s “UFO hotspot” reputation has been repeatedly reported in Scottish local media, and a 2025 article about Ron Halliday and Malcolm Robinson’s book on the Bonnybridge UFO story says both authors had investigated many reports associated with the village.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
-This matters because media geography is not the same as county geography. Stirling, Falkirk, Alloa and the Hillfoots share overlapping news markets and social-media communities. When a light is seen over Alva, a comment from Alloa, Stirling or Bonnybridge may be folded into the same online discussion, even though the actual object, viewing angle and county location differ. The Daily Record’s follow-up coverage of the Alva story, for example, reported other local people sharing apparent sightings, including an Alloa claim about an object circling over the glass factory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">freaky ufo sightings shared scots 34459370</span><span class="citation-popover-snippet">freaky ufo sightings shared scots 34459370</span></span></span> Such accounts are worth noting as local folklore and witness chatter, but they are not equivalent to investigated cases with matched times, multiple independent witnesses and technical records.
+This matters because media geography is not the same as county geography. Stirling, Falkirk, Alloa and the Hillfoots share overlapping news markets and social-media communities. When a light is seen over Alva, a comment from Alloa, Stirling or Bonnybridge may be folded into the same online discussion, even though the actual object, viewing angle and county location differ. The Daily Record’s follow-up coverage of the Alva story, for example, reported other local people sharing apparent sightings, including an Alloa claim about an object circling over the glass factory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">freaky ufo sightings shared scots 34459370</span><span class="citation-popover-snippet">freaky ufo sightings shared scots 34459370</span></span></span> Such accounts are worth noting as local folklore and witness chatter, but they are not equivalent to investigated cases with matched times, multiple independent witnesses and technical records.
 
 The Bonnybridge comparison also cuts both ways. On one hand, it shows that central Scotland has a lively UFO-reporting culture. On the other, it warns against hotspot inflation: once a region gains a reputation, later ambiguous lights may be more readily labelled as UFOs and reported in that frame. Clackmannanshire’s evidence is strongest when it is kept local and specific, rather than absorbed into a broad “Scotland’s UFO triangle” narrative.
 
@@ -734,11 +734,11 @@ The Bonnybridge comparison also cuts both ways. On one hand, it shows that centr
 
 ## What official records do and do not add
 
-There is no clear public evidence that the Ministry of Defence treated Clackmannanshire as the site of a major defence-related UFO incident. The National Archives’ UFO research guide points researchers towards MoD, Air Ministry, Foreign Office and related files for UFO reports and correspondence, especially using terms such as “UFO”, “unidentified flying” and “saucers”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Searches for Clackmannanshire-specific material in publicly indexed sources produce far less than searches for better-known Scottish cases such as Calvine, Livingston/Dechmont Woods or Bonnybridge.
+There is no clear public evidence that the Ministry of Defence treated Clackmannanshire as the site of a major defence-related UFO incident. The National Archives’ UFO research guide points researchers towards MoD, Air Ministry, Foreign Office and related files for UFO reports and correspondence, especially using terms such as “UFO”, “unidentified flying” and “saucers”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Searches for Clackmannanshire-specific material in publicly indexed sources produce far less than searches for better-known Scottish cases such as Calvine, Livingston/Dechmont Woods or Bonnybridge.
 
-That absence is meaningful but not absolute proof that nothing was ever reported. MoD files were organised around reports, correspondence, years and defence relevance, not around modern SEO-friendly county pages. Some reports may be filed under a town, police force, RAF station, region or correspondent rather than under “Clackmannanshire”. Local archives may also hold newspaper material, letters or community records that are not visible in web search results. Clackmannanshire Archives says its holdings include records of the former County of Clackmannan, old Alloa, Alva, Dollar and Tillicoultry burghs, Alloa and Hillfoots district councils, local newspapers, photographs and private deposits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clacks.gov.uk/culture/archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clacks.gov.uk">[Clacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clacks.gov.uk</span><span class="citation-popover-title">Clacks Clackmannanshire Archives</span><span class="citation-popover-snippet">Clacks Clackmannanshire Archives</span></span></span> For anyone verifying a local sighting, that sort of archive may matter more than national UFO summaries.
+That absence is meaningful but not absolute proof that nothing was ever reported. MoD files were organised around reports, correspondence, years and defence relevance, not around modern SEO-friendly county pages. Some reports may be filed under a town, police force, RAF station, region or correspondent rather than under “Clackmannanshire”. Local archives may also hold newspaper material, letters or community records that are not visible in web search results. Clackmannanshire Archives says its holdings include records of the former County of Clackmannan, old Alloa, Alva, Dollar and Tillicoultry burghs, Alloa and Hillfoots district councils, local newspapers, photographs and private deposits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clacks.gov.uk/culture/archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clacks.gov.uk">[Clacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clacks.gov.uk</span><span class="citation-popover-title">Clacks Clackmannanshire Archives</span><span class="citation-popover-snippet">Clacks Clackmannanshire Archives</span></span></span> For anyone verifying a local sighting, that sort of archive may matter more than national UFO summaries.
 
-The broader MoD context also matters. When the UFO desk closed in 2009, Sky News reported from declassified files that the department had concluded the work served “no defence purpose”, and that in more than 50 years no UFO sighting reported to the MoD had revealed evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span><span class="citation-popover-snippet">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span></span></span> That does not solve every individual sighting. It does, however, explain why a Clackmannanshire light in the sky is unlikely to have generated a modern official investigation unless it created an aviation, defence or public-safety issue.
+The broader MoD context also matters. When the UFO desk closed in 2009, Sky News reported from declassified files that the department had concluded the work served “no defence purpose”, and that in more than 50 years no UFO sighting reported to the MoD had revealed evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span><span class="citation-popover-snippet">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span></span></span> That does not solve every individual sighting. It does, however, explain why a Clackmannanshire light in the sky is unlikely to have generated a modern official investigation unless it created an aviation, defence or public-safety issue.
 
 
 <img src="{{ "/assets/images/Clackmannanshire_a9d2bc-Illustration-3-dark.svg" | relative_url }}" alt="Clackmannanshire illustration 3" data-theme-src-dark="{{ "/assets/images/Clackmannanshire_a9d2bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clackmannanshire_a9d2bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -772,194 +772,194 @@ Clackmannanshire should not be presented as a major UK UFO hotspot on the eviden
 That modest conclusion is still useful. It prevents the county’s UFO record from being swallowed by neighbouring legends, while leaving room for better evidence if it appears. A future case from Clackmannanshire would become more significant if it involved multiple independent witnesses, original imagery, matching reports from different towns, aviation or radar checks, and a clear investigation trail. Until then, the county’s UFO story is best described as sparse, locally interesting, and open to ordinary explanations rather than as a hidden archive of unresolved encounters.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over the Wee County?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over the Wee County?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a county-level overview of reported sightings and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a county-level overview of reported sightings and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages structured evaluation of sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages structured evaluation of sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides background on assessing UFO claims and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on assessing UFO claims and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how people interpret unusual experiences and patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people interpret unusual experiences and patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="clackmannanshire-what-really-happened-over-the-wee-county-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -975,7 +975,7 @@ That modest conclusion is still useful. It prevents the county’s UFO record fr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -995,7 +995,7 @@ That modest conclusion is still useful. It prevents the county’s UFO record fr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1027,7 +1027,7 @@ That modest conclusion is still useful. It prevents the county’s UFO record fr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1079,7 +1079,7 @@ That modest conclusion is still useful. It prevents the county’s UFO record fr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1124,7 +1124,7 @@ That modest conclusion is still useful. It prevents the county’s UFO record fr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1165,243 +1165,243 @@ That modest conclusion is still useful. It prevents the county’s UFO record fr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.sky.com  
    Title: News UFO Desk: Why Mo D Shut Real-Life X-Files | UK News | Sky News  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: clackmannanshire.scot  
-   Link: <a href="https://www.clackmannanshire.scot/index.php/history" target="_blank" rel="noopener noreferrer nofollow">https://www.clackmannanshire.scot/index.php/history</a>  
+   Link:<a href="https://www.clackmannanshire.scot/index.php/history" target="_blank" rel="noopener noreferrer nofollow">https://www.clackmannanshire.scot/index.php/history</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: projectaquarius.mufon.com  
    Title: UFO Newsclipping Service 1994 01 no 294  
-   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1994-01-no-294.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1994-01-no-294.pdf</a>  
+   Link:<a href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1994-01-no-294.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1994-01-no-294.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Clackmannanshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Clackmannanshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Clackmannanshire</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: clacks.gov.uk  
-   Link: <a href="https://www.clacks.gov.uk/visiting/clackmannanshiremap/" target="_blank" rel="noopener noreferrer nofollow">https://www.clacks.gov.uk/visiting/clackmannanshiremap/</a>  
+   Link:<a href="https://www.clacks.gov.uk/visiting/clackmannanshiremap/" target="_blank" rel="noopener noreferrer nofollow">https://www.clacks.gov.uk/visiting/clackmannanshiremap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Unusual cloud formations  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=tayside%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ayrshiremagazine.com  
    Title: Ayrshire Magazine MALCOLM ROBINSON  
-   Link: <a href="https://ayrshiremagazine.com/malcolm-robinson/" target="_blank" rel="noopener noreferrer nofollow">https://ayrshiremagazine.com/malcolm-robinson/</a>  
+   Link:<a href="https://ayrshiremagazine.com/malcolm-robinson/" target="_blank" rel="noopener noreferrer nofollow">https://ayrshiremagazine.com/malcolm-robinson/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dailyrecord.co.uk  
    Title: freaky ufo sightings shared scots 34459370  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: clacks.gov.uk  
    Title: Clacks Clackmannanshire Archives  
-   Link: <a href="https://www.clacks.gov.uk/culture/archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.clacks.gov.uk/culture/archives/</a>  
+   Link:<a href="https://www.clacks.gov.uk/culture/archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.clacks.gov.uk/culture/archives/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://www.wikishire.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.wikishire.co.uk/</a>  
+   Link:<a href="https://www.wikishire.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.wikishire.co.uk/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
    Title: Wikishire:General policies  
-   Link: <a href="https://wikishire.co.uk/wiki/Wikishire%3AGeneral_policies" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AGeneral_policies</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wikishire%3AGeneral_policies" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AGeneral_policies</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Middlesex</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Middlesex</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/England" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/England</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/England" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/England</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Music 2025  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5d07940ced915d0a8216b12b/Music-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d07940ced915d0a8216b12b/Music-2025.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5d07940ced915d0a8216b12b/Music-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d07940ced915d0a8216b12b/Music-2025.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clackmannanshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clackmannanshire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Clackmannan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clackmannan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Clackmannan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clackmannan</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alloaadvertiser/photos/he-said-that-the-british-public-deserves-answers/1504734608332583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alloaadvertiser/photos/he-said-that-the-british-public-deserves-answers/1504734608332583/</a>  
+   Link:<a href="https://www.facebook.com/alloaadvertiser/photos/he-said-that-the-british-public-deserves-answers/1504734608332583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alloaadvertiser/photos/he-said-that-the-british-public-deserves-answers/1504734608332583/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: Clacks on TV!  
-   Link: <a href="https://www.facebook.com/alloaadvertiser/posts/clacks-on-tv/10160897351811499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alloaadvertiser/posts/clacks-on-tv/10160897351811499/</a>  
+   Link:<a href="https://www.facebook.com/alloaadvertiser/posts/clacks-on-tv/10160897351811499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alloaadvertiser/posts/clacks-on-tv/10160897351811499/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dailyrecord.co.uk  
    Title: ufo looked like orange ball 34394048  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dailyrecord.co.uk  
    Title: new flood defence call after 31173385  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/new-flood-defence-call-after-31173385" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/new-flood-defence-call-after-31173385</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/new-flood-defence-call-after-31173385" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/new-flood-defence-call-after-31173385</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dailyrecord.co.uk  
    Title: paranormal investigator calls government probe 37244272  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/paranormal-investigator-calls-government-probe-37244272" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/paranormal-investigator-calls-government-probe-37244272</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/paranormal-investigator-calls-government-probe-37244272" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/paranormal-investigator-calls-government-probe-37244272</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dailyrecord.co.uk  
    Title: met office ufo shaped clouds 32355770  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531143</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531143</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: thenorthernantiquarian.org  
-   Link: <a href="https://www.thenorthernantiquarian.org/tag/dollar/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenorthernantiquarian.org/tag/dollar/</a>  
+   Link:<a href="https://www.thenorthernantiquarian.org/tag/dollar/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenorthernantiquarian.org/tag/dollar/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: x.com  
-   Link: <a href="https://x.com/wikishire?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/wikishire?lang=en</a>  
+   Link:<a href="https://x.com/wikishire?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/wikishire?lang=en</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Clackmannanshire</a>  
+   Link:<a href="https://www.britannica.com/place/Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Clackmannanshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: gov.scot  
-   Link: <a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/clackmannanshire-council-area-map/clackmannanshire-council-area-map/govscot%3Adocument/Clackmannanshire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/clackmannanshire-council-area-map/clackmannanshire-council-area-map/govscot%3Adocument/Clackmannanshire.pdf</a>  
+   Link:<a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/clackmannanshire-council-area-map/clackmannanshire-council-area-map/govscot%3Adocument/Clackmannanshire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/clackmannanshire-council-area-map/clackmannanshire-council-area-map/govscot%3Adocument/Clackmannanshire.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=22671" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22671</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=22671" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22671</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/</a>  
+   Link:<a href="https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/alien_abductions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/alien_abductions.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/alien_abductions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/alien_abductions.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StirlingObserver/posts/an-anonymous-report-was-made-to-the-mutual-ufo-network-after-a-person-witnessed-/1118194103643788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StirlingObserver/posts/an-anonymous-report-was-made-to-the-mutual-ufo-network-after-a-person-witnessed-/1118194103643788/</a>  
+   Link:<a href="https://www.facebook.com/StirlingObserver/posts/an-anonymous-report-was-made-to-the-mutual-ufo-network-after-a-person-witnessed-/1118194103643788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StirlingObserver/posts/an-anonymous-report-was-made-to-the-mutual-ufo-network-after-a-person-witnessed-/1118194103643788/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=FK147JQ&amp;search_range=10000&amp;subject=metal-detecting-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=FK147JQ&amp;search_range=10000&amp;subject=metal-detecting-sites</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=FK147JQ&amp;search_range=10000&amp;subject=metal-detecting-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=FK147JQ&amp;search_range=10000&amp;subject=metal-detecting-sites</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/author/list/3312120.Malcolm_Robinson" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/3312120.Malcolm_Robinson</a>  
+   Link:<a href="https://www.goodreads.com/author/list/3312120.Malcolm_Robinson" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/3312120.Malcolm_Robinson</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Clackmannan%2C_Clackmannanshire_9552" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Clackmannan%2C_Clackmannanshire_9552</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Clackmannan%2C_Clackmannanshire_9552" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Clackmannan%2C_Clackmannanshire_9552</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/clackmannanshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/clackmannanshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/clackmannanshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/clackmannanshire/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Clackmannanshire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Clackmannanshire&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Clackmannanshire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Clackmannanshire&amp;type=em</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1505517603098972/posts/3555298168120895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1505517603098972/posts/3555298168120895/</a>  
+   Link:<a href="https://www.facebook.com/groups/1505517603098972/posts/3555298168120895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1505517603098972/posts/3555298168120895/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/clackmannanshireonline/posts/3395683630579781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/clackmannanshireonline/posts/3395683630579781/</a>  
+   Link:<a href="https://www.facebook.com/groups/clackmannanshireonline/posts/3395683630579781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/clackmannanshireonline/posts/3395683630579781/</a>  

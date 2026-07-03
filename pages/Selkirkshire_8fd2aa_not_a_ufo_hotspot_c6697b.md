@@ -248,7 +248,7 @@ image: /assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-overview-soci
 
 ## Introduction
 
-[Selkirkshire]({{ 'what-really-happened-over-selkirkshire/' | relative_url }}) never became a UFO hotspot because it lacks the ingredients that make a place stay famous in UFO culture: repeated sightings, named witnesses, photographs, official controversy, a memorable “flap” period, and a local campaign that keeps the story alive. The historic county does appear in the UK’s official UFO reporting record, but the clearest readily traceable entry is a single Ministry of Defence listing from 2 February 1997 in Selkirk: a “mirror like object” that “was flickering”. That is enough to make Selkirkshire part of the national UFO archive, but not enough to make it a legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+[Selkirkshire]({{ 'what-really-happened-over-selkirkshire/' | relative_url }}) never became a UFO hotspot because it lacks the ingredients that make a place stay famous in UFO culture: repeated sightings, named witnesses, photographs, official controversy, a memorable “flap” period, and a local campaign that keeps the story alive. The historic county does appear in the UK’s official UFO reporting record, but the clearest readily traceable entry is a single Ministry of Defence listing from 2 February 1997 in Selkirk: a “mirror like object” that “was flickering”. That is enough to make Selkirkshire part of the national UFO archive, but not enough to make it a legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-overview.webp" | relative_url }}" alt="Overview image for Not a Hotspot" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,11 +256,11 @@ That difference matters. Some places become famous because a thin sighting grows
 
 ## What Makes a UFO Hotspot Last
 
-A UFO hotspot is not simply a place where somebody once saw something odd in the sky. It is a place where sightings repeat, stories circulate, witnesses can be named or interviewed, investigators revisit the scene, and the location gains a recognisable identity. Bonnybridge, near Falkirk, is the obvious Scottish comparison: press reports and UFO researchers have repeatedly described it as a long-running centre of sightings, with claims of hundreds of reports and continuing attempts by investigators to press for more official disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Passing UFOs make beeline for Scotland &#124; UK news</span><span class="citation-popover-snippet">Halliday, who has written two books on the appearance of UFOs in Scotland.... Bonnybridge&#x27;s status as a UFO capital prompted one...</span></span></span>
+A UFO hotspot is not simply a place where somebody once saw something odd in the sky. It is a place where sightings repeat, stories circulate, witnesses can be named or interviewed, investigators revisit the scene, and the location gains a recognisable identity. Bonnybridge, near Falkirk, is the obvious Scottish comparison: press reports and UFO researchers have repeatedly described it as a long-running centre of sightings, with claims of hundreds of reports and continuing attempts by investigators to press for more official disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Passing UFOs make beeline for Scotland &#124; UK news</span><span class="citation-popover-snippet">Halliday, who has written two books on the appearance of UFOs in Scotland.... Bonnybridge&#x27;s status as a UFO capital prompted one...</span></span></span>
 
-Selkirkshire does not show that pattern. The 1997 MOD entry has a place, date, time and brief description, but no public witness name, no photograph, no follow-up note, no local press storm and no later controversy attached to it. GOV.UK describes the released UK UFO report tables as giving dates, times, locations and brief sighting descriptions, which is exactly the level of information available for Selkirkshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+Selkirkshire does not show that pattern. The 1997 MOD entry has a place, date, time and brief description, but no public witness name, no photograph, no follow-up note, no local press storm and no later controversy attached to it. GOV.UK describes the released UK UFO report tables as giving dates, times, locations and brief sighting descriptions, which is exactly the level of information available for Selkirkshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-Lasting hotspots also tend to have a narrative hook. Rendlesham Forest became known as “Britain’s Roswell” because it involved military personnel, a base context, official correspondence and competing claims about physical traces and [explanations]({{ 'explanations-eb120e/' | relative_url }}). The National Archives’ own UFO material treats Rendlesham as one of the best-known British cases, with dedicated files and public-facing guides. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National Archives UFO files</span></span></span> Calvine, in Perthshire, endured because of the alleged photographs, MOD interest, press involvement, vanished negatives, later rediscovery of a print and continuing argument over whether the image shows a genuine unknown, a hoax, a reflection, or a classified aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Lasting hotspots also tend to have a narrative hook. Rendlesham Forest became known as “Britain’s Roswell” because it involved military personnel, a base context, official correspondence and competing claims about physical traces and [explanations]({{ 'explanations-eb120e/' | relative_url }}). The National Archives’ own UFO material treats Rendlesham as one of the best-known British cases, with dedicated files and public-facing guides.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National Archives UFO files</span></span></span> Calvine, in Perthshire, endured because of the alleged photographs, MOD interest, press involvement, vanished negatives, later rediscovery of a print and continuing argument over whether the image shows a genuine unknown, a hoax, a reflection, or a classified aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 Selkirkshire has none of those amplifiers. Its best-known official entry is not a landing, a pursuit, a radar case, a pilot report or a multi-witness event. It is a short daylight description of a reflective object.
 
@@ -268,34 +268,34 @@ Selkirkshire has none of those amplifiers. Its best-known official entry is not 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-Illustration-1-dark.svg" | relative_url }}" alt="Not a Hotspot illustration 1" data-theme-src-dark="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Selkirkshire Record Is Too Thin to Build Folklore
 
-The 2 February 1997 entry is intriguing because it is specific: 14:25, Selkirk, Selkirkshire, “Mirror like object. It was flickering.” But it is also thin in almost every way that matters for later investigation. There is no direction, height estimate, duration, weather condition, angular size, sound, movement pattern, aircraft check, radar link or witness occupation visible in the public table. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The 2 February 1997 entry is intriguing because it is specific: 14:25, Selkirk, Selkirkshire, “Mirror like object. It was flickering.” But it is also thin in almost every way that matters for later investigation. There is no direction, height estimate, duration, weather condition, angular size, sound, movement pattern, aircraft check, radar link or witness occupation visible in the public table.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The wording also points towards ordinary possibilities before extraordinary ones. A “mirror like” object seen in the afternoon suggests reflected sunlight. “Flickering” could be caused by rotation, changing angle, cloud, atmospheric shimmer, a distant aircraft catching the sun, a balloon, wind-blown foil, or some other reflective object. None of those explanations is proven from the public record; the point is that the record is too brief to discriminate between them.
 
 That is why Selkirkshire stayed off the UFO map. A report can be real as a report and still be weak as evidence. In UFO history, the strongest cases tend to generate more questions because they contain more data: photographs to analyse, named observers to interview, timelines to compare, official correspondence to inspect, or sceptical explanations to test. The Selkirk entry gives researchers almost nothing to work with beyond the fact that someone reported seeing something.
 
-The surrounding 1997 MOD table also shows how ordinary the Selkirkshire entry was within the reporting system. It sits among many short reports from across the UK: lights, spheres, triangular objects, airship-like shapes, meteors, aircraft-like objects and bright objects with brief descriptions. Some entries in the same table are obviously suggestive of common causes, including one explicitly described as “a very bright meteorite or space debris”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> Selkirkshire’s entry was not singled out as a defence concern or a special investigation in the public release.
+The surrounding 1997 MOD table also shows how ordinary the Selkirkshire entry was within the reporting system. It sits among many short reports from across the UK: lights, spheres, triangular objects, airship-like shapes, meteors, aircraft-like objects and bright objects with brief descriptions. Some entries in the same table are obviously suggestive of common causes, including one explicitly described as “a very bright meteorite or space debris”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> Selkirkshire’s entry was not singled out as a defence concern or a special investigation in the public release.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8JV0xnHHfHo" title="Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer">Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 225.2K &middot; Uploaded: March 2024 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8JV0xnHHfHo">Open on YouTube</a></p></div></div></div>
 
 ## How Selkirkshire Compares with Famous Scottish Cases
 
-The contrast with better-known Scottish UFO stories is sharp. Bonnybridge became famous not because every report was strong, but because the claims were numerous, repeated and locally branded. Researchers and newspapers kept returning to the story, and the village acquired a public identity as a UFO location. Reports have described the 1990s Central Belt surge around West Lothian, Stirlingshire and Bonnybridge as a defining part of Scotland’s UFO reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Passing UFOs make beeline for Scotland &#124; UK news</span><span class="citation-popover-snippet">Halliday, who has written two books on the appearance of UFOs in Scotland.... Bonnybridge&#x27;s status as a UFO capital prompted one...</span></span></span>
+The contrast with better-known Scottish UFO stories is sharp. Bonnybridge became famous not because every report was strong, but because the claims were numerous, repeated and locally branded. Researchers and newspapers kept returning to the story, and the village acquired a public identity as a UFO location. Reports have described the 1990s Central Belt surge around West Lothian, Stirlingshire and Bonnybridge as a defining part of Scotland’s UFO reputation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Passing UFOs make beeline for Scotland &#124; UK news</span><span class="citation-popover-snippet">Halliday, who has written two books on the appearance of UFOs in Scotland.... Bonnybridge&#x27;s status as a UFO capital prompted one...</span></span></span>
 
-Calvine became famous for the opposite reason: not a mass of public sightings, but one image-centred mystery. Its alleged 1990 photograph, taken near Calvine in Perthshire, was reportedly passed through press and MOD channels, appeared in later National Archives material as a poor-quality photocopy, and then returned to public attention when a surviving print was located and analysed decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Even sceptical readings of Calvine have something concrete to debate: the image, the landscape, the aircraft-like object, the missing negatives, the identity of the witnesses and the chain of custody.
+Calvine became famous for the opposite reason: not a mass of public sightings, but one image-centred mystery. Its alleged 1990 photograph, taken near Calvine in Perthshire, was reportedly passed through press and MOD channels, appeared in later National Archives material as a poor-quality photocopy, and then returned to public attention when a surviving print was located and analysed decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Even sceptical readings of Calvine have something concrete to debate: the image, the landscape, the aircraft-like object, the missing negatives, the identity of the witnesses and the chain of custody.
 
 Selkirkshire has no equivalent centrepiece. There is no famous photograph, no named investigator associated with a Selkirkshire case, no MOD file controversy focused on the county, and no recognised “Selkirkshire flap”. That does not mean nothing was ever seen there. It means no sighting seems to have accumulated the evidence, publicity and repetition needed to become part of Scotland’s enduring UFO folklore.
 
-The county’s geography may also have worked against hotspot status. Selkirkshire is a small historic county in south-eastern Scotland, largely upland, rural and cut by the Ettrick and Yarrow valleys; it lies within today’s Scottish Borders council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Selkirkshire &#124; Border Reiver, Borders Region &amp; Scotland</span><span class="citation-popover-snippet">Encyclopedia Britannica Selkirkshire &#124; Border Reiver, Borders Region &amp; Scotland</span></span></span> Rural skies can produce striking observations, but they also reduce the chance of multiple independent witnesses, photographs from different angles, or rapid local media attention. A reflective object seen briefly over a sparsely populated landscape is much less likely to become a public case than repeated lights seen over a town, a road corridor, or a community already primed to report anomalies.
+The county’s geography may also have worked against hotspot status. Selkirkshire is a small historic county in south-eastern Scotland, largely upland, rural and cut by the Ettrick and Yarrow valleys; it lies within today’s Scottish Borders council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Selkirkshire &#124; Border Reiver, Borders Region &amp; Scotland</span><span class="citation-popover-snippet">Encyclopedia Britannica Selkirkshire &#124; Border Reiver, Borders Region &amp; Scotland</span></span></span> Rural skies can produce striking observations, but they also reduce the chance of multiple independent witnesses, photographs from different angles, or rapid local media attention. A reflective object seen briefly over a sparsely populated landscape is much less likely to become a public case than repeated lights seen over a town, a road corridor, or a community already primed to report anomalies.
 
 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-Illustration-2-dark.svg" | relative_url }}" alt="Not a Hotspot illustration 2" data-theme-src-dark="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Records Did Not Give Selkirkshire a Second Life
 
-The MOD’s UFO reporting system did not exist to create local folklore. It collected public reports and assessed whether they had defence significance. The National Archives later explained that the final MOD UFO files covered the last years of the UFO desk, from late 2007 to November 2009, and included policy correspondence, public reports and the reasons for closure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The MOD’s UFO reporting system did not exist to create local folklore. It collected public reports and assessed whether they had defence significance. The National Archives later explained that the final MOD UFO files covered the last years of the UFO desk, from late 2007 to November 2009, and included policy correspondence, public reports and the reasons for closure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That official context weakens rather than strengthens the idea of Selkirkshire as a hidden hotspot. In 2009, the UFO desk received more than 600 reports, but officials concluded that the work served no defence purpose and that, in more than 50 years, no UFO sighting reported to the MOD had revealed evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The MOD’s 2009 report table also notes that from 1 December 2009 UFO sighting reports were no longer recorded or investigated by the department. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+That official context weakens rather than strengthens the idea of Selkirkshire as a hidden hotspot. In 2009, the UFO desk received more than 600 reports, but officials concluded that the work served no defence purpose and that, in more than 50 years, no UFO sighting reported to the MOD had revealed evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The MOD’s 2009 report table also notes that from 1 December 2009 UFO sighting reports were no longer recorded or investigated by the department.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 For Selkirkshire, this means the available official record is not the start of a known investigation trail. It is more like a surviving index card: useful, but limited. If there were local newspaper stories, private investigator notes, police logs or witness correspondence connected to the [1997 sighting]({{ '1997-sighting-91cd38/' | relative_url }}), they are not visible in the main public MOD table. Without those, the case cannot easily develop beyond a single archival mention.
 
@@ -310,7 +310,7 @@ Selkirkshire’s quietness is not a failure of the UFO record; it is part of the
 
 The Selkirkshire example is valuable for three reasons.
 
-First, it keeps the map honest. Historic county projects need to include low-profile areas as well as celebrated ones, otherwise the map becomes a catalogue of folklore rather than a balanced account of recorded reports. The canonical historic-county frame matters here because Selkirkshire is not the same thing as the wider modern Scottish Borders in everyday search terms; records may appear under Selkirk, Selkirkshire, Galashiels, Ettrick, Yarrow, or Scottish Borders depending on the source and period. The Wikishire map and Historic Counties Standard use historic counties as fixed geographic units, while modern administration groups Selkirkshire inside the Scottish Borders council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+First, it keeps the map honest. Historic county projects need to include low-profile areas as well as celebrated ones, otherwise the map becomes a catalogue of folklore rather than a balanced account of recorded reports. The canonical historic-county frame matters here because Selkirkshire is not the same thing as the wider modern Scottish Borders in everyday search terms; records may appear under Selkirk, Selkirkshire, Galashiels, Ettrick, Yarrow, or Scottish Borders depending on the source and period. The Wikishire map and Historic Counties Standard use historic counties as fixed geographic units, while modern administration groups Selkirkshire inside the Scottish Borders council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 Second, thin records teach caution. A short official listing should not be inflated into a mystery larger than the evidence can support. The right conclusion is not “nothing happened”, but “the surviving public evidence is too sparse to know what happened”. That is a more useful judgement than either debunking by reflex or treating every MOD entry as proof of something extraordinary.
 
@@ -329,194 +329,194 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Selkirkshire Stayed Off the UFO Map. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Selkirkshire Stayed Off the UFO Map. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison with higher-profile cases worldwide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with higher-profile cases worldwide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains why some areas gain attention while others remain obscure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why some areas gain attention while others remain obscure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Useful for comparing notable and minor UK cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing notable and minor UK cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places local reports in wider UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local reports in wider UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Print A5, A4, A3, A2, A1, A0"><img src="{{ '/assets/images/marketplace-covers/93f3cb16b635043d1bb8.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Print A5, A4, A3, A2, A1, A0" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Print A5, A4, A3, A2, A1, A0</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Print A5, A4, A3, A2, A1, A0"><img src="{{ '/assets/images/marketplace-covers/93f3cb16b635043d1bb8.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Print A5, A4, A3, A2, A1, A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Print A5, A4, A3, A2, A1, A0</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Framed Wall Art Print 9X7"><img src="{{ '/assets/images/marketplace-covers/c703189d0d29447eb191.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Framed Wall Art Print 9X7" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Framed Wall Art Print 9X7</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Framed Wall Art Print 9X7"><img src="{{ '/assets/images/marketplace-covers/c703189d0d29447eb191.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Framed Wall Art Print 9X7" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Framed Wall Art Print 9X7</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/1392921c6f437cdc78d4.jpg' | relative_url }}" alt="Listing image for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/1392921c6f437cdc78d4.jpg' | relative_url }}" alt="Listing image for Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Principal Mountains of Scotland Comparative 1832 Map Fine Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="not-a-hotspot-074c3f-why-selkirkshire-stayed-off-the-ufo-map-selkirkshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,205 +722,205 @@ That makes the county more interesting than it first appears. Selkirkshire is a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Selkirkshire | Border Reiver, Borders Region & Scotland  
-   Link: <a href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirkshire</a>  
+   Link:<a href="https://www.britannica.com/place/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirkshire</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140624 FOI 01746 Rendlesham UFO Incident1980  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/bordermagazinea00unkngoog/bordermagazinea00unkngoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bordermagazinea00unkngoog/bordermagazinea00unkngoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/bordermagazinea00unkngoog/bordermagazinea00unkngoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bordermagazinea00unkngoog/bordermagazinea00unkngoog_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/adictionarylowl00mackgoog/adictionarylowl00mackgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/adictionarylowl00mackgoog/adictionarylowl00mackgoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/adictionarylowl00mackgoog/adictionarylowl00mackgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/adictionarylowl00mackgoog/adictionarylowl00mackgoog_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digital.nmla.metoffice.gov.uk  
    Title: metoffice.gov.uk6No information is available for this page  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/IO_37e3f060-6015-40e8-938b-e3e28856a384/" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/IO_37e3f060-6015-40e8-938b-e3e28856a384/</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/IO_37e3f060-6015-40e8-938b-e3e28856a384/" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/IO_37e3f060-6015-40e8-938b-e3e28856a384/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Selkirk-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirk-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Selkirk-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Selkirk-Scotland</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: The Guardian Passing UFOs make beeline for Scotland | UK news  
-   Link: <a href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halliday, who has written two books on the appearance of UFOs in Scotland.... Bonnybridge&#x27;s status as a UFO capital prompted one...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/23/stephenkhan.theobserver</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Halliday, who has written two books on the appearance of UFOs in Scotland.... Bonnybridge&#x27;s status as a UFO capital prompted one...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dailyrecord.co.uk  
    Title: scots paranormal experts join forces 34884324  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirkshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Selkirkshire</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selkirkshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Selkirkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selkirkshire</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dailyrecord.co.uk  
    Title: full list ufo sightings scotland 29280825  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/24/kirstyscott</a>  
+   Link:<a href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/24/kirstyscott</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/selkirkshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/selkirkshire/</a>  
+   Link:<a href="https://realcounties.com/county/selkirkshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/selkirkshire/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic  
-   Link: <a href="https://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8JV0xnHHfHo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland UFO sightings history documentary Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8JV0xnHHfHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland UFO sightings history documentary Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History HISTORY...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GaH2ZyU9-_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GaH2ZyU9-_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan UFO Scotland Picture 1990 with Logan Calvine at JRE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GaH2ZyU9-_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GaH2ZyU9-_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan UFO Scotland Picture 1990 with Logan Calvine at JRE...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K0MnvVs043s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K0MnvVs043s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K0MnvVs043s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K0MnvVs043s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: The Truth Behind Scottish UFO's  
-   Link: <a href="https://www.youtube.com/watch?v=Q4mnHuZ2_00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q4mnHuZ2_00</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Taylor talks he was attacked by a UFO in Dechmont Woods, Livingston, Scotland, 1979...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q4mnHuZ2_00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q4mnHuZ2_00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Taylor talks he was attacked by a UFO in Dechmont Woods, Livingston, Scotland, 1979...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: westcoasttoday.co.uk  
-   Link: <a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
+   Link:<a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
+   Link:<a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/encyclopaedia-britannica-21-9nbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/encyclopaedia-britannica-21-9nbsped.html</a>  
+   Link:<a href="https://dokumen.pub/encyclopaedia-britannica-21-9nbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/encyclopaedia-britannica-21-9nbsped.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
+   Link:<a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11y0e5b/possible_calvine_ufo_explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11y0e5b/possible_calvine_ufo_explanation/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11y0e5b/possible_calvine_ufo_explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11y0e5b/possible_calvine_ufo_explanation/</a>  

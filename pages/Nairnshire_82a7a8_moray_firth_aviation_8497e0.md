@@ -248,52 +248,52 @@ image: /assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-overview-soc
 
 ## Introduction
 
-[Nairnshire]({{ 'what-really-happened-in-nairnshires-ufo/' | relative_url }})’s UFO history is best understood through its sky conditions rather than through a catalogue of dramatic cases. The historic county sits on the southern shore of the Moray Firth, close to Inverness Airport at Dalcross and within a wider air region that also includes military activity from RAF Lossiemouth. That means a light seen from Nairn may be local, across the firth, approaching or leaving Inverness, connected with wider Highland routes, or simply too distant for a witness to judge accurately. The result is a landscape where ordinary aviation can look strange, especially at night, in poor weather, or over a dark sea horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Highlands and Islands Airports Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+[Nairnshire]({{ 'what-really-happened-in-nairnshires-ufo/' | relative_url }})’s UFO history is best understood through its sky conditions rather than through a catalogue of dramatic cases. The historic county sits on the southern shore of the Moray Firth, close to Inverness Airport at Dalcross and within a wider air region that also includes military activity from RAF Lossiemouth. That means a light seen from Nairn may be local, across the firth, approaching or leaving Inverness, connected with wider Highland routes, or simply too distant for a witness to judge accurately. The result is a landscape where ordinary aviation can look strange, especially at night, in poor weather, or over a dark sea horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-overview.webp" | relative_url }}" alt="Overview image for Sky Context" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every Nairnshire sky report can be dismissed. It means the first serious question should usually be: what normal light source was in the right direction, at the right time, and under the right weather conditions? For Nairnshire, that question matters because the county’s most discussed modern sighting, an [orange light]({{ 'orange-light/' | relative_url }}) reported near Nairn in February 2010, fits a wider UK pattern in which orange night-time lights were often later linked to Chinese lanterns, aircraft, or other familiar sources rather than to extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
+This does not mean every Nairnshire sky report can be dismissed. It means the first serious question should usually be: what normal light source was in the right direction, at the right time, and under the right weather conditions? For Nairnshire, that question matters because the county’s most discussed modern sighting, an [orange light]({{ 'orange-light/' | relative_url }}) reported near Nairn in February 2010, fits a wider UK pattern in which orange night-time lights were often later linked to Chinese lanterns, aircraft, or other familiar sources rather than to extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
 
 ## Why the Moray Firth Makes Distance Hard to Read
 
-Nairnshire is a small historic county, about 200 square miles, with only around nine miles of coastline, but its northern outlook is much larger than the county itself. The Moray Firth is a broad inlet of the North Sea and the largest firth in Scotland, washing the shores of several historic counties including Nairnshire, Morayshire and Inverness-shire. From Nairn’s coast, the visible sky and sea horizon are therefore regional rather than purely local. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Nairnshire is a small historic county, about 200 square miles, with only around nine miles of coastline, but its northern outlook is much larger than the county itself. The Moray Firth is a broad inlet of the North Sea and the largest firth in Scotland, washing the shores of several historic counties including Nairnshire, Morayshire and Inverness-shire. From Nairn’s coast, the visible sky and sea horizon are therefore regional rather than purely local.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-That matters for UFO interpretation because a bright point over water gives the eye very few reference points. On land, a witness can often compare a light with buildings, hills, trees, roads or streetlamps. Over the firth, the same witness may see only darkness, low cloud, stars, moving lights and a faint horizon. A light that is many miles away can appear close; a slow aircraft approaching head-on can appear to hover; a turn can look like a sudden change of direction; and a cloud layer can make a light seem to vanish rather than simply pass behind weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Moray_Firth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+That matters for UFO interpretation because a bright point over water gives the eye very few reference points. On land, a witness can often compare a light with buildings, hills, trees, roads or streetlamps. Over the firth, the same witness may see only darkness, low cloud, stars, moving lights and a faint horizon. A light that is many miles away can appear close; a slow aircraft approaching head-on can appear to hover; a turn can look like a sudden change of direction; and a cloud layer can make a light seem to vanish rather than simply pass behind weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Moray_Firth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-Nairn’s position also creates a boundary problem for later researchers. A report may be described as “over Nairn” because that is where the witness stood, not because the object was physically above historic Nairnshire. It may have been over the Moray Firth, near the Black Isle, east towards Moray, west towards Inverness, or on an aircraft route into or out of Dalcross. For a county-level UFO page, this distinction is not pedantic: it changes which records, flight movements, weather observations and local newspapers might be relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Nairn%2C_Nairnshire_31693" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Nairn’s position also creates a boundary problem for later researchers. A report may be described as “over Nairn” because that is where the witness stood, not because the object was physically above historic Nairnshire. It may have been over the Moray Firth, near the Black Isle, east towards Moray, west towards Inverness, or on an aircraft route into or out of Dalcross. For a county-level UFO page, this distinction is not pedantic: it changes which records, flight movements, weather observations and local newspapers might be relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Nairn%2C_Nairnshire_31693" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-1-dark.svg" | relative_url }}" alt="Sky Context illustration 1" data-theme-src-dark="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Inverness Airport and Dalcross: The Everyday Aviation Layer
 
-The strongest aviation context for Nairnshire is Inverness Airport, situated at Dalcross, east of Inverness and close enough to Nairnshire’s coastal sky to matter for sightings. Highlands and Islands Airports Limited describes Inverness as a busy Highland hub, served by airlines including Loganair, easyJet, KLM and British Airways. In 2024–25, HIAL reported 805,946 passengers at Inverness, a 1.8% increase on the previous year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hial.co.uk/inverness-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hial.co.uk">[Highlands and Islands Airports Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hial.co.uk</span><span class="citation-popover-snippet">Open source on hial.co.uk.</span></span></span>
+The strongest aviation context for Nairnshire is Inverness Airport, situated at Dalcross, east of Inverness and close enough to Nairnshire’s coastal sky to matter for sightings. Highlands and Islands Airports Limited describes Inverness as a busy Highland hub, served by airlines including Loganair, easyJet, KLM and British Airways. In 2024–25, HIAL reported 805,946 passengers at Inverness, a 1.8% increase on the previous year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hial.co.uk/inverness-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hial.co.uk">[Highlands and Islands Airports Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hial.co.uk</span><span class="citation-popover-snippet">Open source on hial.co.uk.</span></span></span>
 
-The airport is not just a distant administrative fact. Its airspace has been formally managed and reviewed because aircraft are at critical stages of flight on departure and final approach around Inverness. HIAL’s airspace consultation described proposed changes to the immediate airspace around Inverness Airport to provide enhanced protection for aircraft during those phases. For witnesses on the Nairn side of the area, those approach and departure phases are precisely when aircraft lights can be most visually confusing: bright, low, slow-seeming and sometimes aligned directly with the observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hial.co.uk/downloads/file/301/inverness-airspace-change-first-consultation-report-10-august-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hial.co.uk">[Highlands and Islands Airports Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hial.co.uk</span><span class="citation-popover-title">inverness airspace change first consultation report 10 august 2015</span><span class="citation-popover-snippet">inverness airspace change first consultation report 10 august 2015</span><span class="citation-popover-meta">Published: august 2015</span></span></span>
+The airport is not just a distant administrative fact. Its airspace has been formally managed and reviewed because aircraft are at critical stages of flight on departure and final approach around Inverness. HIAL’s airspace consultation described proposed changes to the immediate airspace around Inverness Airport to provide enhanced protection for aircraft during those phases. For witnesses on the Nairn side of the area, those approach and departure phases are precisely when aircraft lights can be most visually confusing: bright, low, slow-seeming and sometimes aligned directly with the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hial.co.uk/downloads/file/301/inverness-airspace-change-first-consultation-report-10-august-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hial.co.uk">[Highlands and Islands Airports Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hial.co.uk</span><span class="citation-popover-title">inverness airspace change first consultation report 10 august 2015</span><span class="citation-popover-snippet">inverness airspace change first consultation report 10 august 2015</span><span class="citation-popover-meta">Published: august 2015</span></span></span>
 
-Older airport planning material also shows that Inverness has long had a mixed aviation profile. The 2007 master plan recorded scheduled flights alongside charter, executive, freight, private and military aircraft, and noted local light-aircraft activity and flight training facilities. That variety is important because not every confusing light will look like a large scheduled airliner. A small aircraft, helicopter, training flight or non-scheduled movement may be less familiar to a casual observer, especially after dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airporttaxisinverness.co.uk/wp-content/uploads/2020/02/HIA-Inverness-Airport-MP-Aug-2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airporttaxisinverness.co.uk">[Inverness Airport Taxis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airporttaxisinverness.co.uk</span><span class="citation-popover-title">Inverness Airport Taxis Inverness Airport Master Plan</span><span class="citation-popover-snippet">Inverness Airport Taxis Inverness Airport Master Plan</span></span></span>
+Older airport planning material also shows that Inverness has long had a mixed aviation profile. The 2007 master plan recorded scheduled flights alongside charter, executive, freight, private and military aircraft, and noted local light-aircraft activity and flight training facilities. That variety is important because not every confusing light will look like a large scheduled airliner. A small aircraft, helicopter, training flight or non-scheduled movement may be less familiar to a casual observer, especially after dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airporttaxisinverness.co.uk/wp-content/uploads/2020/02/HIA-Inverness-Airport-MP-Aug-2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airporttaxisinverness.co.uk">[Inverness Airport Taxis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airporttaxisinverness.co.uk</span><span class="citation-popover-title">Inverness Airport Taxis Inverness Airport Master Plan</span><span class="citation-popover-snippet">Inverness Airport Taxis Inverness Airport Master Plan</span></span></span>
 
-The airfield’s history adds another layer. RAF Dalcross was built as a wartime training station on the southern shore of the Moray Firth, and modern Inverness Airport occupies that Dalcross aviation landscape. This history does not turn every light near Nairn into a military mystery, but it does explain why aviation has been part of the local sky story for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scottishaviation.org.uk/locations/69/raf-dalcross" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishaviation.org.uk">[Scottish Aviation &amp; STEM Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishaviation.org.uk</span><span class="citation-popover-title">Scottish Aviation &amp; STEM Trail RAF Dalcross</span><span class="citation-popover-snippet">Scottish Aviation &amp; STEM Trail RAF Dalcross</span></span></span>
+The airfield’s history adds another layer. RAF Dalcross was built as a wartime training station on the southern shore of the Moray Firth, and modern Inverness Airport occupies that Dalcross aviation landscape. This history does not turn every light near Nairn into a military mystery, but it does explain why aviation has been part of the local sky story for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scottishaviation.org.uk/locations/69/raf-dalcross" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishaviation.org.uk">[Scottish Aviation &amp; STEM Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishaviation.org.uk</span><span class="citation-popover-title">Scottish Aviation &amp; STEM Trail RAF Dalcross</span><span class="citation-popover-snippet">Scottish Aviation &amp; STEM Trail RAF Dalcross</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LsXZdAgn9dQ" title="🔴LIVE Planespotting at Inverness Dalcross Airport | 5th April 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LsXZdAgn9dQ" target="_blank" rel="noopener noreferrer">🔴LIVE Planespotting at Inverness Dalcross Airport | 5th April 2023</a></p><p class="youtube-embed-meta">Channel: Jonathan Winton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LsXZdAgn9dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LsXZdAgn9dQ">Open on YouTube</a></p></div></div></div>
 
 ## Aircraft Lights Can Look Stranger Than Aircraft
 
-A common misunderstanding in UFO reports is that an aircraft should be immediately recognisable as an aircraft. At night, that is often not true. UK aviation rules require aircraft at night to display anti-collision lights intended to attract attention and navigation lights intended to indicate the aircraft’s relative path to an observer. Those lights are designed for safety, not for making the aircraft’s shape obvious to someone on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+A common misunderstanding in UFO reports is that an aircraft should be immediately recognisable as an aircraft. At night, that is often not true. UK aviation rules require aircraft at night to display anti-collision lights intended to attract attention and navigation lights intended to indicate the aircraft’s relative path to an observer. Those lights are designed for safety, not for making the aircraft’s shape obvious to someone on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-This creates several traps for Nairnshire witnesses. A forward-facing landing light can dominate the view and make the aircraft appear as a single bright object rather than a plane. Red, green and white navigation lights may be visible only intermittently depending on the aircraft’s angle. Flashing anti-collision lights can give an impression of pulsing, flickering or structured movement. If the aircraft is coming roughly towards the witness, its position against the background may change slowly, making it appear to hang in place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+This creates several traps for Nairnshire witnesses. A forward-facing landing light can dominate the view and make the aircraft appear as a single bright object rather than a plane. Red, green and white navigation lights may be visible only intermittently depending on the aircraft’s angle. Flashing anti-collision lights can give an impression of pulsing, flickering or structured movement. If the aircraft is coming roughly towards the witness, its position against the background may change slowly, making it appear to hang in place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-Airport and runway lighting can also complicate interpretation near Dalcross. Civil Aviation Authority material on visual aids notes, for example, that runway end lighting is red and threshold lighting is green. These are not UFO-like in themselves, but in poor visibility or from an unfamiliar viewing angle, fixed aerodrome lights, moving aircraft lights and vehicle lights around an airfield can combine into a confusing night scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 637 Visual Aids Handbook</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 637 Visual Aids Handbook</span></span></span>
+Airport and runway lighting can also complicate interpretation near Dalcross. Civil Aviation Authority material on visual aids notes, for example, that runway end lighting is red and threshold lighting is green. These are not UFO-like in themselves, but in poor visibility or from an unfamiliar viewing angle, fixed aerodrome lights, moving aircraft lights and vehicle lights around an airfield can combine into a confusing night scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 637 Visual Aids Handbook</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 637 Visual Aids Handbook</span></span></span>
 
 The key point is not that “it was probably a plane” is always enough. A good aviation misidentification check should ask more specific questions: Was the light seen towards Dalcross or along an approach path? Did it remain silent because it was distant or because the wind carried sound away? Did it brighten as if turning towards the witness? Did it vanish near cloud? Did it show red, green or white flashes at any stage? These details are often more useful than a witness’s first estimate of height or speed.
 
 ## RAF Lossiemouth and the Wider Moray Firth Air Picture
 
-Nairnshire’s aviation setting is not limited to Inverness Airport. RAF Lossiemouth, in neighbouring Moray, is one of the RAF’s two Quick Reaction Alert stations protecting UK airspace. The RAF says the station hosts Typhoon combat aircraft squadrons, Poseidon maritime patrol aircraft squadrons and national or international exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+Nairnshire’s aviation setting is not limited to Inverness Airport. RAF Lossiemouth, in neighbouring Moray, is one of the RAF’s two Quick Reaction Alert stations protecting UK airspace. The RAF says the station hosts Typhoon combat aircraft squadrons, Poseidon maritime patrol aircraft squadrons and national or international exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-For Nairnshire UFO interpretation, this matters because the Moray Firth is shared sky. Military aircraft operating from Lossiemouth do not need to be over Nairnshire to be visible from Nairnshire, especially across a broad coastal horizon. Local tourism material for Lossiemouth also describes it as one of the busiest RAF bases in the UK and the only remaining fast jet base in Scotland, which reinforces why unusual engine noise, fast movement or unfamiliar light patterns in the wider region may have a conventional military aviation context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lossiemouth.org">[Lossiemouth Seaside Town Moray Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lossiemouth.org</span><span class="citation-popover-snippet">Open source on lossiemouth.org.</span></span></span>
+For Nairnshire UFO interpretation, this matters because the Moray Firth is shared sky. Military aircraft operating from Lossiemouth do not need to be over Nairnshire to be visible from Nairnshire, especially across a broad coastal horizon. Local tourism material for Lossiemouth also describes it as one of the busiest RAF bases in the UK and the only remaining fast jet base in Scotland, which reinforces why unusual engine noise, fast movement or unfamiliar light patterns in the wider region may have a conventional military aviation context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lossiemouth.org">[Lossiemouth Seaside Town Moray Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lossiemouth.org</span><span class="citation-popover-snippet">Open source on lossiemouth.org.</span></span></span>
 
-There is also documented aviation infrastructure and radar relevance around the Moray Firth. An aviation assessment for Moray offshore renewables noted RAF Lossiemouth air traffic control radar services for aircraft inbound to and outbound from RAF Lossiemouth and RAF Kinloss, and for military aircraft operating over the Moray Firth. That is not evidence for any particular UFO report, but it shows that the firth is an active aviation environment rather than an empty night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marine.gov.scot/datafiles/lot/morl/Environmental_statement/Volumes%208%20to%2011%20-%20Technical%20Appendices/Volume%2011%20-%20Human%20Environment%20Technical%20Appendices/Appendix%205.3%20A%20-%20Initial%20Aviation%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.gov.scot">[Marine Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.gov.scot</span><span class="citation-popover-title">Marine Scotlandmoray offshore renewables ltd</span><span class="citation-popover-snippet">Marine Scotlandmoray offshore renewables ltd</span></span></span>
+There is also documented aviation infrastructure and radar relevance around the Moray Firth. An aviation assessment for Moray offshore renewables noted RAF Lossiemouth air traffic control radar services for aircraft inbound to and outbound from RAF Lossiemouth and RAF Kinloss, and for military aircraft operating over the Moray Firth. That is not evidence for any particular UFO report, but it shows that the firth is an active aviation environment rather than an empty night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marine.gov.scot/datafiles/lot/morl/Environmental_statement/Volumes%208%20to%2011%20-%20Technical%20Appendices/Volume%2011%20-%20Human%20Environment%20Technical%20Appendices/Appendix%205.3%20A%20-%20Initial%20Aviation%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.gov.scot">[Marine Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.gov.scot</span><span class="citation-popover-title">Marine Scotlandmoray offshore renewables ltd</span><span class="citation-popover-snippet">Marine Scotlandmoray offshore renewables ltd</span></span></span>
 
 This wider context should be used carefully. It would be misleading to turn every unexplained Nairnshire light into a military-aircraft story without flight data, timing and direction. But it would also be weak analysis to ignore Lossiemouth, Kinloss, Inverness and the Moray Firth airspace when assessing lights seen from the Nairn coast. The practical lesson is that “local UFO” does not always mean “local object”.
 
@@ -301,11 +301,11 @@ This wider context should be used carefully. It would be misleading to turn ever
 <img src="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-2-dark.svg" | relative_url }}" alt="Sky Context illustration 2" data-theme-src-dark="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather, Low Cloud and the Coastal Visibility Trap
 
-Weather is one of the most important misidentification mechanisms in Nairnshire because the county combines coast, open water and aviation. Low cloud, mist, haar, showers and broken cloud can all change how lights appear. The Met Office forecast language for nearby Moray, for example, explicitly refers to east-coast patchy low cloud and occasional haar for coastal areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/forecast/gfjxuwb9k" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Weather is one of the most important misidentification mechanisms in Nairnshire because the county combines coast, open water and aviation. Low cloud, mist, haar, showers and broken cloud can all change how lights appear. The Met Office forecast language for nearby Moray, for example, explicitly refers to east-coast patchy low cloud and occasional haar for coastal areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/forecast/gfjxuwb9k" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 A cloud layer can make a normal light behave in apparently abnormal ways. An aircraft may brighten as it emerges from cloud, dim as it enters haze, or disappear abruptly behind a low cloud bank. A witness may interpret this as acceleration, materialisation or sudden extinction. Over water, the absence of nearby reference points makes these effects stronger because the eye has less information about distance and scale.
 
-The Moray Firth’s open horizon also encourages errors in height estimation. In the 2010 Nairn orange-light report, the witness judged the light to be between 1,000 and 3,000 feet, but the report itself gives no independent measurement of distance, angular size, radar return or photographic reference. That does not make the witness dishonest; it highlights a common limitation of night-sky testimony. A single light without a known size cannot be reliably placed in three-dimensional space by eye alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
+The Moray Firth’s open horizon also encourages errors in height estimation. In the 2010 Nairn orange-light report, the witness judged the light to be between 1,000 and 3,000 feet, but the report itself gives no independent measurement of distance, angular size, radar return or photographic reference. That does not make the witness dishonest; it highlights a common limitation of night-sky testimony. A single light without a known size cannot be reliably placed in three-dimensional space by eye alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
 
 This is why coastal UFO reports are often strongest when they include cross-checks: multiple witnesses from separated locations, photographs with landmarks, exact direction, duration, weather observations, flight data, astronomical checks and any radar or air traffic information. Without those, the report may remain honestly puzzling but evidentially weak.
 
@@ -314,23 +314,23 @@ This is why coastal UFO reports are often strongest when they include cross-chec
 
 ## The 2010 Nairn Orange Light in This Sky Context
 
-The February 2010 Nairn report is useful because it sits exactly at the junction of local witness experience and wider misidentification patterns. The witness described seeing a round orange glowing light at about 8pm while approaching the east of Nairn from Aberdeen, then turning onto the Grantown road to get closer. The object was said to be silent, evenly orange, moving north-north-east, and eventually disappearing behind cloud. The witness later reported it to Nairn police station and rejected the idea that it was a Chinese lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
+The February 2010 Nairn report is useful because it sits exactly at the junction of local witness experience and wider misidentification patterns. The witness described seeing a round orange glowing light at about 8pm while approaching the east of Nairn from Aberdeen, then turning onto the Grantown road to get closer. The object was said to be silent, evenly orange, moving north-north-east, and eventually disappearing behind cloud. The witness later reported it to Nairn police station and rejected the idea that it was a Chinese lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
 
-Several details make the account worth preserving: the date, time, broad location, direction of travel, colour, silence, cloud disappearance and immediate police report. Several other details weaken its value as evidence for anything extraordinary: there was one witness, no known image, no public radar record, no independent aviation check in the open source account, and no reliable way to verify the estimated height or speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
+Several details make the account worth preserving: the date, time, broad location, direction of travel, colour, silence, cloud disappearance and immediate police report. Several other details weaken its value as evidence for anything extraordinary: there was one witness, no known image, no public radar record, no independent aviation check in the open source account, and no reliable way to verify the estimated height or speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
 
-The Chinese lantern possibility cannot be ruled in or out from the surviving account alone, but it is not a random sceptical cliché. National Archives material on the final MoD UFO files notes that many reports of orange lights moving slowly across the sky described the appearance of Chinese lanterns, even when witnesses did not recognise them at the time. A National Archives transcript similarly describes a period in which the Ministry of Defence received many reports of orange, ball-shaped phenomena, often silent and seen in clusters, with some later linked to lantern releases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The Chinese lantern possibility cannot be ruled in or out from the surviving account alone, but it is not a random sceptical cliché. National Archives material on the final MoD UFO files notes that many reports of orange lights moving slowly across the sky described the appearance of Chinese lanterns, even when witnesses did not recognise them at the time. A National Archives transcript similarly describes a period in which the Ministry of Defence received many reports of orange, ball-shaped phenomena, often silent and seen in clusters, with some later linked to lantern releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The Guardian’s reporting on the MoD files made the same broader point: Chinese lanterns became a craze and may have helped explain a surge in alleged UFO sightings reported to the MoD, particularly orange lights filmed or described by startled witnesses. That wider pattern does not prove the Nairn light was a lantern, but it lowers the evidential weight of an isolated orange-light report from 2010 unless stronger corroboration appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
+The Guardian’s reporting on the MoD files made the same broader point: Chinese lanterns became a craze and may have helped explain a surge in alleged UFO sightings reported to the MoD, particularly orange lights filmed or described by startled witnesses. That wider pattern does not prove the Nairn light was a lantern, but it lowers the evidential weight of an isolated orange-light report from 2010 unless stronger corroboration appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
 
 
 <img src="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-3-dark.svg" | relative_url }}" alt="Sky Context illustration 3" data-theme-src-dark="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nairnshire_82a7a8_moray_firth_aviation_8497e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Judge a Nairnshire Sky Report Without Overclaiming
 
-A useful Nairnshire assessment should begin with geography. Was the witness in Nairn, Auldearn, Cawdor, the coastal strip, or inland moorland? Was the light seen north over the Moray Firth, west towards Inverness and Dalcross, east towards Moray, or south over darker upland ground? Historic Nairnshire is small, and the Moray Firth is large, so the viewing direction may matter more than the witness’s county label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+A useful Nairnshire assessment should begin with geography. Was the witness in Nairn, Auldearn, Cawdor, the coastal strip, or inland moorland? Was the light seen north over the Moray Firth, west towards Inverness and Dalcross, east towards Moray, or south over darker upland ground? Historic Nairnshire is small, and the Moray Firth is large, so the viewing direction may matter more than the witness’s county label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The next step is aviation. Inverness Airport has scheduled routes and substantial passenger traffic, while older planning material also records charter, executive, freight, private, military and light-aircraft activity. RAF Lossiemouth adds a separate military layer across the wider Moray Firth region. A credible report should therefore be checked against civil arrivals and departures, possible training or private flights, and any known military activity before being treated as unexplained. Royal Air Force+3Highlands and Islands Airports Limited+3Highlands and Islands Airports Limited <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hial.co.uk/inverness-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hial.co.uk">[hial.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hial.co.uk</span><span class="citation-popover-snippet">Open source on hial.co.uk.</span></span></span>
+The next step is aviation. Inverness Airport has scheduled routes and substantial passenger traffic, while older planning material also records charter, executive, freight, private, military and light-aircraft activity. RAF Lossiemouth adds a separate military layer across the wider Moray Firth region. A credible report should therefore be checked against civil arrivals and departures, possible training or private flights, and any known military activity before being treated as unexplained. Royal Air Force+3Highlands and Islands Airports Limited+3Highlands and Islands Airports Limited<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hial.co.uk/inverness-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hial.co.uk">[hial.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hial.co.uk</span><span class="citation-popover-snippet">Open source on hial.co.uk.</span></span></span>
 
-Weather should be treated as evidence, not as background decoration. Low cloud, mist, showers and coastal haar can all affect brightness, colour, duration and apparent motion. A report that says an object vanished “behind cloud”, as the 2010 Nairn account did, should be read with particular care because cloud already provides a plausible mechanism for sudden disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
+Weather should be treated as evidence, not as background decoration. Low cloud, mist, showers and coastal haar can all affect brightness, colour, duration and apparent motion. A report that says an object vanished “behind cloud”, as the 2010 Nairn account did, should be read with particular care because cloud already provides a plausible mechanism for sudden disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-snippet">Open source on sott.net.</span></span></span>
 
 Finally, the report should be graded rather than forced into “solved” or “alien” categories. Some sightings are explainable after checking flight paths, lantern releases, satellites, stars or weather. Some remain unresolved because there is too little information. Some are weak because the account survives only as a brief secondary report. Nairnshire’s value in the wider UK UFO map lies in showing that this middle ground is common: sincere observation, limited data, plausible ordinary explanations and no need for exaggerated certainty.
 
@@ -339,199 +339,199 @@ Finally, the report should be graded rather than forced into “solved” or “
 
 ## What This Means for Nairnshire’s UFO History
 
-“Moray Firth skies and aviation misidentification” is not a debunking footnote; it is central to how Nairnshire reports should be read. The county’s coastal setting, dark horizons, proximity to Inverness Airport, and visibility towards wider Moray Firth aviation all make misidentification more likely than it would be in a sky with fewer aircraft and clearer distance cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Highlands and Islands Airports Limited]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+“Moray Firth skies and aviation misidentification” is not a debunking footnote; it is central to how Nairnshire reports should be read. The county’s coastal setting, dark horizons, proximity to Inverness Airport, and visibility towards wider Moray Firth aviation all make misidentification more likely than it would be in a sky with fewer aircraft and clearer distance cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 This also explains why Nairnshire does not need a famous unresolved case to be useful in a county-by-county UFO project. It is a good example of the ordinary mechanics behind many local UFO stories: a striking light, a sincere witness, a sparse record, a plausible conventional explanation and a setting where the sky itself encourages mistakes. The best reading is balanced: Nairnshire has reported mystery, but its strongest interpretive theme is how easily the Moray Firth’s aviation and weather environment can turn normal lights into memorable UFO claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Nairnshire Skies Can Mislead Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Nairnshire Skies Can Mislead Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers common observational pitfalls relevant to coastal sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers common observational pitfalls relevant to coastal sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Explains how distance, lights and aircraft create UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how distance, lights and aircraft create UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Links airspace activity with public UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links airspace activity with public UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for advanced aircraft and aerospace misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced aircraft and aerospace misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sky-context-why-nairnshire-skies-can-mislead-witnesses-nairnshire-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ This also explains why Nairnshire does not need a famous unresolved case to be u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ This also explains why Nairnshire does not need a famous unresolved case to be u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ This also explains why Nairnshire does not need a famous unresolved case to be u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ This also explains why Nairnshire does not need a famous unresolved case to be u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ This also explains why Nairnshire does not need a famous unresolved case to be u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,284 +737,284 @@ This also explains why Nairnshire does not need a famous unresolved case to be u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sott.net  
-   Link: <a href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland</a>  
+   Link:<a href="https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/203016-Orange-glowing-light-over-Nairn-Scotland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lossiemouth.org  
-   Link: <a href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/" target="_blank" rel="noopener noreferrer nofollow">https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/</a>  
+   Link:<a href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/" target="_blank" rel="noopener noreferrer nofollow">https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Nairnshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Nairnshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Nairnshire</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hial.co.uk  
-   Link: <a href="https://www.hial.co.uk/inverness-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/inverness-airport</a>  
+   Link:<a href="https://www.hial.co.uk/inverness-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/inverness-airport</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Moray_Firth" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Moray_Firth</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Moray_Firth" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Moray_Firth</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Nairn%2C_Nairnshire_31693" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Nairn%2C_Nairnshire_31693</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Nairn%2C_Nairnshire_31693" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Nairn%2C_Nairnshire_31693</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hial.co.uk  
    Title: inverness airspace change first consultation report 10 august 2015  
-   Link: <a href="https://www.hial.co.uk/downloads/file/301/inverness-airspace-change-first-consultation-report-10-august-2015" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/downloads/file/301/inverness-airspace-change-first-consultation-report-10-august-2015</a>  
+   Link:<a href="https://www.hial.co.uk/downloads/file/301/inverness-airspace-change-first-consultation-report-10-august-2015" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/downloads/file/301/inverness-airspace-change-first-consultation-report-10-august-2015</a>  
    Published: august 2015  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hial.co.uk  
    Title: highland and islands report steady air passenger figures for 2024 25  
-   Link: <a href="https://www.hial.co.uk/news/article/204/highland-and-islands-report-steady-air-passenger-figures-for-2024-25-" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/news/article/204/highland-and-islands-report-steady-air-passenger-figures-for-2024-25-</a>  
+   Link:<a href="https://www.hial.co.uk/news/article/204/highland-and-islands-report-steady-air-passenger-figures-for-2024-25-" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/news/article/204/highland-and-islands-report-steady-air-passenger-figures-for-2024-25-</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airporttaxisinverness.co.uk  
    Title: Inverness Airport Taxis Inverness Airport Master Plan  
-   Link: <a href="https://www.airporttaxisinverness.co.uk/wp-content/uploads/2020/02/HIA-Inverness-Airport-MP-Aug-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airporttaxisinverness.co.uk/wp-content/uploads/2020/02/HIA-Inverness-Airport-MP-Aug-2007.pdf</a>  
+   Link:<a href="https://www.airporttaxisinverness.co.uk/wp-content/uploads/2020/02/HIA-Inverness-Airport-MP-Aug-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airporttaxisinverness.co.uk/wp-content/uploads/2020/02/HIA-Inverness-Airport-MP-Aug-2007.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scottishaviation.org.uk  
    Title: Scottish Aviation & STEM Trail RAF Dalcross  
-   Link: <a href="https://www.scottishaviation.org.uk/locations/69/raf-dalcross" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishaviation.org.uk/locations/69/raf-dalcross</a>  
+   Link:<a href="https://www.scottishaviation.org.uk/locations/69/raf-dalcross" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishaviation.org.uk/locations/69/raf-dalcross</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority CAP 637 Visual Aids Handbook  
-   Link: <a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: marine.gov.scot  
    Title: Marine Scotlandmoray offshore renewables ltd  
-   Link: <a href="https://marine.gov.scot/datafiles/lot/morl/Environmental_statement/Volumes%208%20to%2011%20-%20Technical%20Appendices/Volume%2011%20-%20Human%20Environment%20Technical%20Appendices/Appendix%205.3%20A%20-%20Initial%20Aviation%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/datafiles/lot/morl/Environmental_statement/Volumes%208%20to%2011%20-%20Technical%20Appendices/Volume%2011%20-%20Human%20Environment%20Technical%20Appendices/Appendix%205.3%20A%20-%20Initial%20Aviation%20Assessment.pdf</a>  
+   Link:<a href="https://marine.gov.scot/datafiles/lot/morl/Environmental_statement/Volumes%208%20to%2011%20-%20Technical%20Appendices/Volume%2011%20-%20Human%20Environment%20Technical%20Appendices/Appendix%205.3%20A%20-%20Initial%20Aviation%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/datafiles/lot/morl/Environmental_statement/Volumes%208%20to%2011%20-%20Technical%20Appendices/Volume%2011%20-%20Human%20Environment%20Technical%20Appendices/Appendix%205.3%20A%20-%20Initial%20Aviation%20Assessment.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gfjxuwb9k" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gfjxuwb9k</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gfjxuwb9k" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gfjxuwb9k</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: The Guardian Alien nation: Mo D releases final UFO files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.co.uk  
    Title: hial inverness aircraft movement statistics and forecast aug 25  
-   Link: <a href="https://www.caa.co.uk/media/vi2kbgnn/hial-inverness-aircraft-movement-statistics-and-forecast-aug-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/vi2kbgnn/hial-inverness-aircraft-movement-statistics-and-forecast-aug-25.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/vi2kbgnn/hial-inverness-aircraft-movement-statistics-and-forecast-aug-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/vi2kbgnn/hial-inverness-aircraft-movement-statistics-and-forecast-aug-25.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hial.co.uk  
-   Link: <a href="https://www.hial.co.uk/downloads/file/304/proposed-changes-to-inverness-airport-airspace-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/downloads/file/304/proposed-changes-to-inverness-airport-airspace-faqs</a>  
+   Link:<a href="https://www.hial.co.uk/downloads/file/304/proposed-changes-to-inverness-airport-airspace-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/downloads/file/304/proposed-changes-to-inverness-airport-airspace-faqs</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hial.co.uk  
    Title: annual reports and accounts  
-   Link: <a href="https://www.hial.co.uk/downloads/download/12/annual-reports-and-accounts" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/downloads/download/12/annual-reports-and-accounts</a>  
+   Link:<a href="https://www.hial.co.uk/downloads/download/12/annual-reports-and-accounts" target="_blank" rel="noopener noreferrer nofollow">https://www.hial.co.uk/downloads/download/12/annual-reports-and-accounts</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: Inverness Airport  
-   Link: <a href="https://www.facebook.com/InvernessAirport/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InvernessAirport/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/InvernessAirport/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InvernessAirport/?locale=en_GB</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 26th Round Outer Moray Firth Blocks AA  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74b21e40f0b619c8659af4/26th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74b21e40f0b619c8659af4/26th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74b21e40f0b619c8659af4/26th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74b21e40f0b619c8659af4/26th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 26th Round Fair Isle Blocks AA  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79fb4ae5274a34770e365f/26th_Round_Fair_Isle_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79fb4ae5274a34770e365f/26th_Round_Fair_Isle_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79fb4ae5274a34770e365f/26th_Round_Fair_Isle_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79fb4ae5274a34770e365f/26th_Round_Fair_Isle_Blocks_AA.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 26th Round Block 103 1 AA  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79f48c40f0b66eab998b2c/26th_Round_Block_103-1_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79f48c40f0b66eab998b2c/26th_Round_Block_103-1_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79f48c40f0b66eab998b2c/26th_Round_Block_103-1_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79f48c40f0b66eab998b2c/26th_Round_Block_103-1_AA.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: assets.publishing.service.gov.uk  
    Title: SEA4 assessment  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: assets.publishing.service.gov.uk  
    Title: OES A3j Conservation  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gfhyzzs9j" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gfhyzzs9j</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gfhyzzs9j" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gfhyzzs9j</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
+   Link:<a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Inverness Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Inverness_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inverness_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Inverness_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inverness_Airport</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: RAF Lossiemouth  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lossiemouth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lossiemouth</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s207711/Notice%20of%20Review%20and%20Supporting%20Documentation%20Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s207711/Notice%20of%20Review%20and%20Supporting%20Documentation%20Redacted.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s207711/Notice%20of%20Review%20and%20Supporting%20Documentation%20Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s207711/Notice%20of%20Review%20and%20Supporting%20Documentation%20Redacted.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: argyll-bute.gov.uk  
    Title: Public reports pack Thursday 16 May 2024 14.00 Argyll and Bute Local Review Body  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10</a>  
    Published: May 2024  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: her.highland.gov.uk  
-   Link: <a href="https://her.highland.gov.uk/api/LibraryLink5WebServiceProxy/FetchResourceFromStub/1-3-2-3-4-9_a6b28ddc333395c-132349_4778a86ac218899.pdf" target="_blank" rel="noopener noreferrer nofollow">https://her.highland.gov.uk/api/LibraryLink5WebServiceProxy/FetchResourceFromStub/1-3-2-3-4-9_a6b28ddc333395c-132349_4778a86ac218899.pdf</a>  
+   Link:<a href="https://her.highland.gov.uk/api/LibraryLink5WebServiceProxy/FetchResourceFromStub/1-3-2-3-4-9_a6b28ddc333395c-132349_4778a86ac218899.pdf" target="_blank" rel="noopener noreferrer nofollow">https://her.highland.gov.uk/api/LibraryLink5WebServiceProxy/FetchResourceFromStub/1-3-2-3-4-9_a6b28ddc333395c-132349_4778a86ac218899.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: moray.gov.uk  
-   Link: <a href="https://www.moray.gov.uk/downloads/file104405.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.moray.gov.uk/downloads/file104405.pdf</a>  
+   Link:<a href="https://www.moray.gov.uk/downloads/file104405.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.moray.gov.uk/downloads/file104405.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gov.im  
    Title: Isle of Man Government  
-   Link: <a href="https://www.gov.im/weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/weather/</a>  
+   Link:<a href="https://www.gov.im/weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/weather/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: routesonline.com  
    Title: About | Inverness Airport  
-   Link: <a href="https://www.routesonline.com/airports/6036/inverness-airport/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.routesonline.com/airports/6036/inverness-airport/about/</a>  
+   Link:<a href="https://www.routesonline.com/airports/6036/inverness-airport/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.routesonline.com/airports/6036/inverness-airport/about/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Morayshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Morayshire</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Nairnshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nairnshire</a>  
+   Link:<a href="https://www.britannica.com/place/Nairnshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nairnshire</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/sct/NAI/Nairn" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/NAI/Nairn</a>  
+   Link:<a href="https://www.genuki.org.uk/big/sct/NAI/Nairn" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/NAI/Nairn</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Easyjet Airbus A320 Night Flight Departure Over the Moray Firth from Inverness  
-   Link: <a href="https://www.youtube.com/watch?v=RaoL11LHQq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RaoL11LHQq4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 LIVE Planespotting and Night Approaches at Inverness Dalcross Airport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RaoL11LHQq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RaoL11LHQq4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 LIVE Planespotting and Night Approaches at Inverness Dalcross Airport...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Quick Reaction Alert (QRA) Scramble Training and Airspace Surveillance  
-   Link: <a href="https://www.youtube.com/watch?v=djbHygtuJ-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=djbHygtuJ-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Easyjet Airbus A320 Night Flight Departure Over the Moray Firth from Inverness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=djbHygtuJ-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=djbHygtuJ-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Easyjet Airbus A320 Night Flight Departure Over the Moray Firth from Inverness...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: LIVE Planespotting and Night Approaches at Inverness Dalcross Airport  
-   Link: <a href="https://www.youtube.com/watch?v=LsXZdAgn9dQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LsXZdAgn9dQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 RAF Lossiemouth Eurofighter Typhoon Night Departures and Performance Climbs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LsXZdAgn9dQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LsXZdAgn9dQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 RAF Lossiemouth Eurofighter Typhoon Night Departures and Performance Climbs...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: Night Flying at RAF Coningsby & RAF Lossiemouth QRA Operations  
-   Link: <a href="https://www.youtube.com/watch?v=Y7-HLEwkTyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7-HLEwkTyQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Quick Reaction Alert (QRA) Scramble Training and Airspace Surveillance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y7-HLEwkTyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7-HLEwkTyQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Quick Reaction Alert (QRA) Scramble Training and Airspace Surveillance...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: netweather.tv  
-   Link: <a href="https://www.netweather.tv/weather-forecasts/uk/10-day/20256~Moray%20Firth%20Ground" target="_blank" rel="noopener noreferrer nofollow">https://www.netweather.tv/weather-forecasts/uk/10-day/20256~Moray%20Firth%20Ground</a>  
+   Link:<a href="https://www.netweather.tv/weather-forecasts/uk/10-day/20256~Moray%20Firth%20Ground" target="_blank" rel="noopener noreferrer nofollow">https://www.netweather.tv/weather-forecasts/uk/10-day/20256~Moray%20Firth%20Ground</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalairforce/videos/a-poseidon-from-raf-lossiemouth-conducts-torpedo-training-off-the-coast-of-scotl/1745506605883038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforce/videos/a-poseidon-from-raf-lossiemouth-conducts-torpedo-training-off-the-coast-of-scotl/1745506605883038/</a>  
+   Link:<a href="https://www.facebook.com/royalairforce/videos/a-poseidon-from-raf-lossiemouth-conducts-torpedo-training-off-the-coast-of-scotl/1745506605883038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforce/videos/a-poseidon-from-raf-lossiemouth-conducts-torpedo-training-off-the-coast-of-scotl/1745506605883038/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aircraftmaintenancengineer/photos/%EF%B8%8F-anti-collision-lights-anti-collision-lights-increase-aircraft-visibility-and-h/1450484300455069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aircraftmaintenancengineer/photos/%EF%B8%8F-anti-collision-lights-anti-collision-lights-increase-aircraft-visibility-and-h/1450484300455069/</a>  
+   Link:<a href="https://www.facebook.com/aircraftmaintenancengineer/photos/%EF%B8%8F-anti-collision-lights-anti-collision-lights-increase-aircraft-visibility-and-h/1450484300455069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aircraftmaintenancengineer/photos/%EF%B8%8F-anti-collision-lights-anti-collision-lights-increase-aircraft-visibility-and-h/1450484300455069/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/breaking-news-an-unidentified-flying-object-has-been-spotted-over-the-skies-of-d/1632381361501627/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: oxleygroup.com  
-   Link: <a href="https://www.oxleygroup.com/aircraft-navigation-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.oxleygroup.com/aircraft-navigation-lights</a>  
+   Link:<a href="https://www.oxleygroup.com/aircraft-navigation-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.oxleygroup.com/aircraft-navigation-lights</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  

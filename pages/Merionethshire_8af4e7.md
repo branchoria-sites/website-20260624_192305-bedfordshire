@@ -118,9 +118,9 @@ heading_title: What Really Happened In The Berwyn Mountains?
 page_heading_title: What Really Happened In The Berwyn Mountains?
 source_count: 119
 infographic_count: 3
-page_website_name: Merionethshire UFOs
+page_website_name: Merionethshire
 page_banner_line: Evidence-led pages on North Wales' most famous UFO mystery.
-site_website_name: Merionethshire UFOs
+site_website_name: Merionethshire
 site_banner_line: Evidence-led pages on North Wales' most famous UFO mystery.
 site_image_description: A dark mountain road near Bala with distant emergency lights below the Berwyn slopes and a bright object crossing the night sky.
 output_language: English
@@ -689,7 +689,7 @@ image: /assets/images/Merionethshire_8af4e7-overview-social.jpg
 
 ## Introduction
 
-This page uses Merionethshire in its historic-county sense. That matters because the 1974 story sits around Bala, Llandrillo and the Berwyn Mountains, an area whose modern administrative labels do not always match older county geography. Britannica describes Merioneth as a historic county of north-west Wales reaching from Cardigan Bay into Snowdonia and the Berwyn mountains, with most of it now in Gwynedd and its northern portion in modern Denbighshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span><span class="citation-popover-snippet">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span></span></span>
+This page uses Merionethshire in its historic-county sense. That matters because the 1974 story sits around Bala, Llandrillo and the Berwyn Mountains, an area whose modern administrative labels do not always match older county geography. Britannica describes Merioneth as a historic county of north-west Wales reaching from Cardigan Bay into Snowdonia and the Berwyn mountains, with most of it now in Gwynedd and its northern portion in modern Denbighshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span><span class="citation-popover-snippet">Encyclopedia Britannica Merioneth &#124; Cambrian Mountains, Dolgellau, Bala Lake</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7-overview.webp" | relative_url }}" alt="Overview image for Merionethshire" loading="eager" decoding="sync" fetchpriority="high">
@@ -697,28 +697,28 @@ This page uses Merionethshire in its historic-county sense. That matters because
 
 Merionethshire is not a county with a long, well-documented catalogue of separate official UFO cases. Its importance in UK UFO history comes from the way one night fused three ingredients that make a story durable: frightened witnesses, an emergency response, and a landscape already well suited to rumour. The Berwyns are remote, high, dark, and difficult to search at night. When a bang, tremor and lights were reported together, “something came down in the mountains” became an easy story to tell, even before later UFO writers gave it a more elaborate shape.
 
-The geography helps explain the confusion. Historic Merionethshire includes mountain, coast and sparsely populated inland areas, with Bala in the east and Harlech on the coast among its traditional focal points; Wikishire similarly describes it as a county of sea coast and mountains, lying between Caernarfonshire, Denbighshire and Montgomeryshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> In modern reporting, many later sightings are grouped under “Gwynedd” or “North Wales”, which can blur whether an item belongs to historic Merionethshire, neighbouring Caernarfonshire, or modern Denbighshire.
+The geography helps explain the confusion. Historic Merionethshire includes mountain, coast and sparsely populated inland areas, with Bala in the east and Harlech on the coast among its traditional focal points; Wikishire similarly describes it as a county of sea coast and mountains, lying between Caernarfonshire, Denbighshire and Montgomeryshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> In modern reporting, many later sightings are grouped under “Gwynedd” or “North Wales”, which can blur whether an item belongs to historic Merionethshire, neighbouring Caernarfonshire, or modern Denbighshire.
 
-That distinction is important for UFO history because archive searches often follow modern administrative labels, while older newspapers, police activity and local memory may use older county or district terms. The project’s historic-county frame therefore treats Merionethshire as the centre of gravity, while recognising that the Berwyn event spilled across boundaries in every practical sense: calls came from a wide area, RAF Valley on Anglesey was checked, and later press coverage usually filed the case as a North Wales mystery rather than a purely Merionethshire one. Musson’s reconstruction records police calls from North Wales and Cheshire, checks with RAF Valley and the Preston air traffic control centre, and police searching in the Berwyn Mountains after lights were reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
+That distinction is important for UFO history because archive searches often follow modern administrative labels, while older newspapers, police activity and local memory may use older county or district terms. The project’s historic-county frame therefore treats Merionethshire as the centre of gravity, while recognising that the Berwyn event spilled across boundaries in every practical sense: calls came from a wide area, RAF Valley on Anglesey was checked, and later press coverage usually filed the case as a North Wales mystery rather than a purely Merionethshire one. Musson’s reconstruction records police calls from North Wales and Cheshire, checks with RAF Valley and the Preston air traffic control centre, and police searching in the Berwyn Mountains after lights were reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7-Illustration-1-dark.svg" | relative_url }}" alt="Merionethshire illustration 1" data-theme-src-dark="{{ "/assets/images/Merionethshire_8af4e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Merionethshire_8af4e7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What happened on 23 January 1974?
 
-At about 8.38 pm on Wednesday 23 January 1974, an earthquake occurred near Bala. Musson’s paper gives the instrumental start of the event as 20h 38m and says that by 20h 45m scores of people in North Wales and Cheshire had phoned police about a mysterious bang and rumbling. Gwynedd Police treated the situation as a possible aircraft crash after checking with RAF Valley and air traffic control at Preston. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
+At about 8.38 pm on Wednesday 23 January 1974, an earthquake occurred near Bala. Musson’s paper gives the instrumental start of the event as 20h 38m and says that by 20h 45m scores of people in North Wales and Cheshire had phoned police about a mysterious bang and rumbling. Gwynedd Police treated the situation as a possible aircraft crash after checking with RAF Valley and air traffic control at Preston.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
 
-The key point is that the emergency response was not irrational. In the moment, a crash was a reasonable working assumption. People had heard a bang, some had seen lights, and the area was mountainous enough for a crash to be difficult to locate quickly. Musson records that police began searching in the Berwyn Mountains within an hour, with emergency services alerted and an RAF mountain rescue group joining the search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
+The key point is that the emergency response was not irrational. In the moment, a crash was a reasonable working assumption. People had heard a bang, some had seen lights, and the area was mountainous enough for a crash to be difficult to locate quickly. Musson records that police began searching in the Berwyn Mountains within an hour, with emergency services alerted and an RAF mountain rescue group joining the search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
 
-Nothing matching a crashed aircraft, meteorite impact, or vehicle of unknown origin was found. That absence is not a minor detail; it is central to judging the case. Musson notes that if the seismic event had been caused by an impact equivalent to a 3.5–4.0 ML shock, it would have been comparable to a blast of hundreds of tons of TNT up to a small nuclear weapon, and “could not but leave a significant crater”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span> The later crashed-UFO story therefore has to explain not only why no craft was publicly produced, but why no convincing physical crash site, debris field, crater, or reliable chain of custody has emerged.
+Nothing matching a crashed aircraft, meteorite impact, or vehicle of unknown origin was found. That absence is not a minor detail; it is central to judging the case. Musson notes that if the seismic event had been caused by an impact equivalent to a 3.5–4.0 ML shock, it would have been comparable to a blast of hundreds of tons of TNT up to a small nuclear weapon, and “could not but leave a significant crater”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span> The later crashed-UFO story therefore has to explain not only why no craft was publicly produced, but why no convincing physical crash site, debris field, crater, or reliable chain of custody has emerged.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
 
 ## The earthquake-and-meteor explanation
 
-The strongest explanation is a coincidence: a genuine earthquake and a genuine sky event occurred close enough together to be interpreted as one dramatic incident. Musson’s summary is cautious but clear. The earthquake was one of the largest in North Wales away from the Caernarfon–Lleyn area, with instrumental magnitude 3.5 ML and a macroseismic estimate of 3.9–4.0 ML, while its depth was poorly determined between 7 and 15 km. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
+The strongest explanation is a coincidence: a genuine earthquake and a genuine sky event occurred close enough together to be interpreted as one dramatic incident. Musson’s summary is cautious but clear. The earthquake was one of the largest in North Wales away from the Caernarfon–Lleyn area, with instrumental magnitude 3.5 ML and a macroseismic estimate of 3.9–4.0 ML, while its depth was poorly determined between 7 and 15 km.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
 
-The lights are the harder part, but they do not require a craft. Musson states that lights were observed over a wider area than the earthquake was felt, and that “there can be no doubt” a meteor display took place as well as an earthquake that night; he also rules out auroral effects because the night was magnetically quiet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span> Alastair McBeath later sharpened the astronomical interpretation in Astronomy & Geophysics under the title “Meteor, not shower, over Bala”, indicating that the sky component should be understood as a meteor rather than a conventional meteor shower. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/6/6.8/233902" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Meteor, not shower, over Bala &#124; Astronomy &amp; Geophysics &#124; Oxford</span><span class="citation-popover-snippet">Academic Meteor, not shower, over Bala &#124; Astronomy &amp; Geophysics &#124; Oxford</span></span></span>
+The lights are the harder part, but they do not require a craft. Musson states that lights were observed over a wider area than the earthquake was felt, and that “there can be no doubt” a meteor display took place as well as an earthquake that night; he also rules out auroral effects because the night was magnetically quiet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span> Alastair McBeath later sharpened the astronomical interpretation in Astronomy & Geophysics under the title “Meteor, not shower, over Bala”, indicating that the sky component should be understood as a meteor rather than a conventional meteor shower.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/astrogeo/article/47/6/6.8/233902" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Meteor, not shower, over Bala &#124; Astronomy &amp; Geophysics &#124; Oxford</span><span class="citation-popover-snippet">Academic Meteor, not shower, over Bala &#124; Astronomy &amp; Geophysics &#124; Oxford</span></span></span>
 
 This matters because “meteor plus earthquake” sounds like a tidy debunking phrase, but the case is more interesting than that. It appears to have involved two real natural events, each capable of producing alarming reports, occurring in the same evening. A meteor can be seen across a huge area and appear far closer than it is; an earthquake can produce a bang, shaking, rattling, and a feeling that something has struck the ground. Put together, they can make witnesses quite sincerely believe that a luminous object came down nearby.
 
@@ -728,9 +728,9 @@ This matters because “meteor plus earthquake” sounds like a tidy debunking p
 
 The crashed-UFO version rests mainly on later interpretation rather than on strong contemporary evidence. The most resilient claims involve reports of a glowing object, official interest, military presence, and supposed secrecy. Yet each of those elements has a more ordinary explanation within the documented record.
 
-First, the presence of police, emergency services and RAF mountain rescue is not evidence of a cover-up. It is exactly what one would expect if authorities feared an aircraft crash in a mountainous area. Secondly, investigators and technical personnel arriving afterwards were not necessarily “men in black”. Musson notes that an Institute of Geological Sciences field team arrived on 26 January and worked until 30 January, and that local memories of strangers asking questions were later interpreted by UFO enthusiasts as possible evidence of an official cover-up — perhaps, he wryly observes, the only case of seismologists being mistaken for “men in black”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
+First, the presence of police, emergency services and RAF mountain rescue is not evidence of a cover-up. It is exactly what one would expect if authorities feared an aircraft crash in a mountainous area. Secondly, investigators and technical personnel arriving afterwards were not necessarily “men in black”. Musson notes that an Institute of Geological Sciences field team arrived on 26 January and worked until 30 January, and that local memories of strangers asking questions were later interpreted by UFO enthusiasts as possible evidence of an official cover-up — perhaps, he wryly observes, the only case of seismologists being mistaken for “men in black”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
 
-Thirdly, the physical evidence problem remains severe. Musson’s conclusion says no foreshocks or aftershocks were detected, the earthquake coincided with a bright meteor display, and extensive searches immediately afterwards suggest that no meteorite impacted in the Berwyn Mountains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span> If even a meteorite impact large enough to explain the seismic shock would have left obvious evidence, the burden is still higher for a crashed machine, whether terrestrial or otherwise.
+Thirdly, the physical evidence problem remains severe. Musson’s conclusion says no foreshocks or aftershocks were detected, the earthquake coincided with a bright meteor display, and extensive searches immediately afterwards suggest that no meteorite impacted in the Berwyn Mountains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span> If even a meteorite impact large enough to explain the seismic shock would have left obvious evidence, the burden is still higher for a crashed machine, whether terrestrial or otherwise.
 
 None of this proves that every witness description was mistaken in every detail. It does mean that the best-supported account is not “a UFO crashed in Merionethshire”, but “a frightening cluster of earthquake, sky-light and search activity was later recast as a crash-retrieval story”.
 
@@ -739,21 +739,21 @@ None of this proves that every witness description was mistaken in every detail.
 
 ## How official records change the story
 
-The [Berwyn case]({{ 'berwyn-case/' | relative_url }}) should be read against the wider history of UK official UFO handling. The National Archives explains that Ministry of Defence UFO records vary greatly in content, from observation reports passed through the Civil Aviation Authority to public correspondence about alleged alien encounters. It also notes that such reports often include location, movement, weather and other sighting details, but generally do not give a final explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The [Berwyn case]({{ 'berwyn-case/' | relative_url }}) should be read against the wider history of UK official UFO handling. The National Archives explains that Ministry of Defence UFO records vary greatly in content, from observation reports passed through the Civil Aviation Authority to public correspondence about alleged alien encounters. It also notes that such reports often include location, movement, weather and other sighting details, but generally do not give a final explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-That is important for Merionethshire because an official file or RAF mention does not automatically mean the Ministry of Defence endorsed an exotic explanation. The National Archives’ briefing on UFO records states that surviving RAF Air Defence and Operations UFO files include report sequences from the 1970s and that MoD UFO files were gradually transferred to The National Archives after a 2008 decision to release remaining records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The existence of files shows administrative interest, not proof of alien technology or a hidden wreck.
+That is important for Merionethshire because an official file or RAF mention does not automatically mean the Ministry of Defence endorsed an exotic explanation. The National Archives’ briefing on UFO records states that surviving RAF Air Defence and Operations UFO files include report sequences from the 1970s and that MoD UFO files were gradually transferred to The National Archives after a 2008 decision to release remaining records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The existence of files shows administrative interest, not proof of alien technology or a hidden wreck.
 
-The UK’s official position also weakened the idea that UFO reports had produced evidence of a defence threat. A 2024 parliamentary answer states that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has released its UFO files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span> That does not settle every old case on its merits, but it is a useful guardrail: modern claims about an active UK UFO cover-up need stronger evidence than the mere fact that older files existed.
+The UK’s official position also weakened the idea that UFO reports had produced evidence of a defence threat. A 2024 parliamentary answer states that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has released its UFO files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span> That does not settle every old case on its merits, but it is a useful guardrail: modern claims about an active UK UFO cover-up need stronger evidence than the mere fact that older files existed.
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7-Illustration-3-dark.svg" | relative_url }}" alt="Merionethshire illustration 3" data-theme-src-dark="{{ "/assets/images/Merionethshire_8af4e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Merionethshire_8af4e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later North Wales sightings and the boundary problem
 
-Later Merionethshire-area sightings are scattered and usually appear under modern Gwynedd or North Wales labels. North Wales Live’s report on declassified RAF files lists several Gwynedd-area sightings, including a 28 April 2009 report from Tywyn of a bright orange light that turned white and disappeared quickly, and a 6 June 2008 Llanuwchllyn report of two fast-moving orange lights, one moving east towards Bala and the other climbing vertically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[dailypost.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">North Wales UFO hotspots disclosed in declassified official RAF files</span><span class="citation-popover-snippet">North Wales UFO hotspots disclosed in declassified official RAF files</span></span></span> Both places are relevant to the historic Merionethshire frame, although the article uses modern North Wales categories.
+Later Merionethshire-area sightings are scattered and usually appear under modern Gwynedd or North Wales labels. North Wales Live’s report on declassified RAF files lists several Gwynedd-area sightings, including a 28 April 2009 report from Tywyn of a bright orange light that turned white and disappeared quickly, and a 6 June 2008 Llanuwchllyn report of two fast-moving orange lights, one moving east towards Bala and the other climbing vertically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[dailypost.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">North Wales UFO hotspots disclosed in declassified official RAF files</span><span class="citation-popover-snippet">North Wales UFO hotspots disclosed in declassified official RAF files</span></span></span> Both places are relevant to the historic Merionethshire frame, although the article uses modern North Wales categories.
 
 These later cases are useful, but they are not Berwyn-scale incidents. They are brief light reports with limited public detail, no known recovered physical evidence, and no comparable emergency response. They also fit patterns common in late-2000s UK UFO reporting: orange lights, silent movement, changing brightness, and short durations. Some such reports across Britain have later been linked to aircraft, celestial objects, sky lanterns, drones, fireworks, satellites or other ordinary causes, though each case needs its own evidence.
 
-The MoD’s 2009 report list, hosted by GOV.UK, shows how many sightings were logged in brief tabular form, with date, place and a short description rather than a full investigation record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> That format is helpful for mapping clusters but weak for proving unusual objects. For Merionethshire, the value of these later reports is therefore pattern-based: they show that people continued to report puzzling lights around Bala, Tywyn and nearby North Wales skies, not that a second landmark case was established.
+The MoD’s 2009 report list, hosted by GOV.UK, shows how many sightings were logged in brief tabular form, with date, place and a short description rather than a full investigation record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> That format is helpful for mapping clusters but weak for proving unusual objects. For Merionethshire, the value of these later reports is therefore pattern-based: they show that people continued to report puzzling lights around Bala, Tywyn and nearby North Wales skies, not that a second landmark case was established.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jLwzZdJKW0o" title="The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer">The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jLwzZdJKW0o">Open on YouTube</a></p></div></div></div>
@@ -762,199 +762,199 @@ The MoD’s 2009 report list, hosted by GOV.UK, shows how many sightings were lo
 
 Merionethshire is best understood as a county with one landmark UFO legend rather than a dense official UFO archive. The Berwyn Mountains incident matters because it shows how a real natural event can become a persistent UFO mystery when witness experience, emergency response, difficult terrain and later retelling reinforce one another. It is not a simple case of “nothing happened”. Something did happen: the ground shook, people were alarmed, lights were seen, and the authorities searched.
 
-The main doubts are equally clear. The earthquake is well supported by seismological analysis; the meteor explanation has astronomical support; no crash debris or crater has been demonstrated; and later claims of secrecy rely heavily on interpretation after the fact. Musson’s conclusion that the earthquake coincided with a bright meteor display, with no evidence from extensive searches that a meteorite impacted in the Berwyn Mountains, remains the strongest evidence-based reading of the night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
+The main doubts are equally clear. The earthquake is well supported by seismological analysis; the meteor explanation has astronomical support; no crash debris or crater has been demonstrated; and later claims of secrecy rely heavily on interpretation after the fact. Musson’s conclusion that the earthquake coincided with a bright meteor display, with no evidence from extensive searches that a meteorite impacted in the Berwyn Mountains, remains the strongest evidence-based reading of the night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Microsoft Word</span><span class="citation-popover-snippet">NERC Open Research Archive Microsoft Word</span></span></span>
 
 For a public-facing UFO history of Merionethshire, the fairest classification is therefore: unresolved in some witness-level details, but substantially explained at the incident level. The Berwyn story remains culturally important because it is one of Britain’s most memorable UFO narratives, not because the available evidence confirms a crashed craft. Its real lesson is about how unusual but natural events can become extraordinary local history when they happen together in the right place, at the right time, under the right conditions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened In The Berwyn Mountains?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened In The Berwyn Mountains?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Covers major British UFO cases and provides context for Berwyn.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major British UFO cases and provides context for Berwyn.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Examines British UFO incidents and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines British UFO incidents and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for assessing famous cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for assessing famous cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating extraordinary claims linked to Berwyn.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating extraordinary claims linked to Berwyn.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus Shelf Statue"><img src="{{ '/assets/images/marketplace-covers/66f3cce9f3a874eb738c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus Shelf Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus Shelf Statue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus Shelf Statue"><img src="{{ '/assets/images/marketplace-covers/66f3cce9f3a874eb738c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus Shelf Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus Shelf Statue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Protomorph Human-Hybrid Face (Mk. 2)"><img src="{{ '/assets/images/marketplace-covers/89dbd2113eee5724c272.jpg' | relative_url }}" alt="Listing image for Alien Protomorph Human-Hybrid Face (Mk. 2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Protomorph Human-Hybrid Face (Mk. 2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Protomorph Human-Hybrid Face (Mk. 2)"><img src="{{ '/assets/images/marketplace-covers/89dbd2113eee5724c272.jpg' | relative_url }}" alt="Listing image for Alien Protomorph Human-Hybrid Face (Mk. 2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Protomorph Human-Hybrid Face (Mk. 2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="merionethshire-what-really-happened-in-the-berwyn-mountains-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -970,7 +970,7 @@ For a public-facing UFO history of Merionethshire, the fairest classification is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -990,7 +990,7 @@ For a public-facing UFO history of Merionethshire, the fairest classification is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1022,7 +1022,7 @@ For a public-facing UFO history of Merionethshire, the fairest classification is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1074,7 +1074,7 @@ For a public-facing UFO history of Merionethshire, the fairest classification is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1119,7 +1119,7 @@ For a public-facing UFO history of Merionethshire, the fairest classification is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1160,195 +1160,195 @@ For a public-facing UFO history of Merionethshire, the fairest classification is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Merioneth | Cambrian Mountains, Dolgellau, Bala Lake  
-   Link: <a href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Merioneth</a>  
+   Link:<a href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Merioneth</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
    Title: Academic Meteor, not shower, over Bala | Astronomy & Geophysics | Oxford  
-   Link: <a href="https://academic.oup.com/astrogeo/article/47/6/6.8/233902" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article/47/6/6.8/233902</a>  
+   Link:<a href="https://academic.oup.com/astrogeo/article/47/6/6.8/233902" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article/47/6/6.8/233902</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dailypost.co.uk  
    Title: North Wales UFO hotspots disclosed in declassified official RAF files  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dailypost.co.uk  
    Title: mystery ufos spotted over bala 2830960  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/mystery-ufos-spotted-over-bala-2830960" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mystery-ufos-spotted-over-bala-2830960</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/mystery-ufos-spotted-over-bala-2830960" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mystery-ufos-spotted-over-bala-2830960</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dailypost.co.uk  
    Title: ufo investigators bizarre belief secret 15583591  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-bizarre-belief-secret-15583591" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-bizarre-belief-secret-15583591</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-bizarre-belief-secret-15583591" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-investigators-bizarre-belief-secret-15583591</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dailypost.co.uk  
    Title: north wales x files berwyn 11293522  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-berwyn-11293522" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-berwyn-11293522</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-berwyn-11293522" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-berwyn-11293522</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: datamap.gov.wales  
    Title: metadata detail  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: datamap.gov.wales  
    Title: wales Historic [County Boundaries](&#123;&#123; 'county-boundaries/' | relative_url &#125;&#125;) of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article/47/5/5.11/231627</a>  
+   Link:<a href="https://academic.oup.com/astrogeo/article/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article/47/5/5.11/231627</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/astrogeo/article-abstract/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article-abstract/47/5/5.11/231627</a>  
+   Link:<a href="https://academic.oup.com/astrogeo/article-abstract/47/5/5.11/231627" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/article-abstract/47/5/5.11/231627</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/astrogeo/issue/47/6" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/issue/47/6</a>  
+   Link:<a href="https://academic.oup.com/astrogeo/issue/47/6" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/astrogeo/issue/47/6</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: data.gov.uk  
    Title: counties december 1921 boundaries ew bgc  
-   Link: <a href="https://www.data.gov.uk/dataset/3a75496e-406b-4e4d-826a-7fa582c4dbeb/counties-december-1921-boundaries-ew-bgc" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/3a75496e-406b-4e4d-826a-7fa582c4dbeb/counties-december-1921-boundaries-ew-bgc</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/3a75496e-406b-4e4d-826a-7fa582c4dbeb/counties-december-1921-boundaries-ew-bgc" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/3a75496e-406b-4e4d-826a-7fa582c4dbeb/counties-december-1921-boundaries-ew-bgc</a>  
    Published: december 1921  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Anglesey" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Anglesey</a>  
+   Link:<a href="https://www.britannica.com/place/Anglesey" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Anglesey</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rcahmw.gov.uk  
    Title: launch of the historical boundaries of wales website  
-   Link: <a href="https://rcahmw.gov.uk/launch-of-the-historical-boundaries-of-wales-website/" target="_blank" rel="noopener noreferrer nofollow">https://rcahmw.gov.uk/launch-of-the-historical-boundaries-of-wales-website/</a>  
+   Link:<a href="https://rcahmw.gov.uk/launch-of-the-historical-boundaries-of-wales-website/" target="_blank" rel="noopener noreferrer nofollow">https://rcahmw.gov.uk/launch-of-the-historical-boundaries-of-wales-website/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nora.nerc.ac.uk  
    Title: NERC Open Research Archive Microsoft Word  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Merionethshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Merionethshire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merionethshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merionethshire</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-main-towns-of-merionethshire-meirionnydd-are-dolgellau-aberdovey-bala-barmou/1027717202845180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-main-towns-of-merionethshire-meirionnydd-are-dolgellau-aberdovey-bala-barmou/1027717202845180/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-main-towns-of-merionethshire-meirionnydd-are-dolgellau-aberdovey-bala-barmou/1027717202845180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-main-towns-of-merionethshire-meirionnydd-are-dolgellau-aberdovey-bala-barmou/1027717202845180/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/17477" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17477</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/17477" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17477</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wiki.openstreetmap.org  
-   Link: <a href="https://wiki.openstreetmap.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wiki.openstreetmap.org/wiki/Merionethshire</a>  
+   Link:<a href="https://wiki.openstreetmap.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wiki.openstreetmap.org/wiki/Merionethshire</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: ‘The Welsh Roswell’  
-   Link: <a href="http://www.youtube.com/watch?v=hxo65ym4dog" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxo65ym4dog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hxo65ym4dog" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxo65ym4dog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Berwyn Mountains &quot;Welsh Roswell&quot; UFO incident, January 23, 1974...</p></details>
    Published: January 23, 1974  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Berwyn Mountain Incident Episode 42  
-   Link: <a href="http://www.youtube.com/watch?v=I16zxi9dSkM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=I16zxi9dSkM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Berwyn Mountains&quot; UFO 1974 documentary ‘The Welsh Roswell’ - the Berwyn mountain UFO crash, Llandrillo, Wales, January 23, 1974 Eyes On...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=I16zxi9dSkM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=I16zxi9dSkM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Berwyn Mountains&quot; UFO 1974 documentary ‘The Welsh Roswell’ - the Berwyn mountain UFO crash, Llandrillo, Wales, January 23, 1974 Eyes On...</p></details>
    Published: January 23, 1974  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Berwyn Mountains "Welsh Roswell" UFO incident,  
-   Link: <a href="http://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jLwzZdJKW0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Welsh &quot;Roswell&quot; UFO Crash (Berwyn UFO Incident)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jLwzZdJKW0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Welsh &quot;Roswell&quot; UFO Crash (Berwyn UFO Incident)...</p></details>
    Published: January 23, 1974  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html</a>  
+   Link:<a href="https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/a-ufo-sighting-on-cadair-berwyn-and-cadair-bronwen-from-the-village-of-llandrillo-in-denbighshire-merionethshire-wales-berwyn-mountain-ufo-incident-image477590142.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: library.wales  
-   Link: <a href="https://www.library.wales/discover-learn/digital-exhibitions/maps/administrative-boundary-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wales/discover-learn/digital-exhibitions/maps/administrative-boundary-maps</a>  
+   Link:<a href="https://www.library.wales/discover-learn/digital-exhibitions/maps/administrative-boundary-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wales/discover-learn/digital-exhibitions/maps/administrative-boundary-maps</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: mythslegendsodditiesnorth-east-wales.co.uk  
-   Link: <a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
+   Link:<a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
+   Link:<a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
+   Link:<a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/</a>  
+   Link:<a href="https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/videos/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/1135279384248888/</a>  

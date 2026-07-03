@@ -260,25 +260,25 @@ A [Lancashire]({{ 'what-did-lancashire-witnesses-really-see/' | relative_url }})
 <img src="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-overview.webp" | relative_url }}" alt="Overview image for Boundaries" loading="eager" decoding="sync" fetchpriority="high">
 ## Historic county versus modern administration
 
-Lancashire is unusually awkward for UFO cataloguing because the word can refer to several different geographies. The modern administrative county is much smaller than the historic county, while the geographic or ceremonial understanding also differs from both. Britannica’s county summary makes the problem plain: the administrative, geographic and historic counties “occupy somewhat different areas”, and historic Lancashire includes places now associated with Cumbria, Merseyside, Greater Manchester, Warrington and Halton, as well as most of the modern Lancashire geographic county. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span><span class="citation-popover-snippet">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span></span></span>
+Lancashire is unusually awkward for UFO cataloguing because the word can refer to several different geographies. The modern administrative county is much smaller than the historic county, while the geographic or ceremonial understanding also differs from both. Britannica’s county summary makes the problem plain: the administrative, geographic and historic counties “occupy somewhat different areas”, and historic Lancashire includes places now associated with Cumbria, Merseyside, Greater Manchester, Warrington and Halton, as well as most of the modern Lancashire geographic county.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span><span class="citation-popover-snippet">Encyclopedia Britannica Lancashire &#124; England, Map, &amp; History</span></span></span>
 
-For this project, the base map follows the historic-county approach. The Historic Counties Standard defines historic counties by name, area and border, and is intended for consistent use in history, geography, heritage, education, indexing and cataloguing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[historiccountiestrust.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span> The wider UK historic-county frame contains 92 historic counties: 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties About the Counties</span><span class="citation-popover-snippet">Association of British Counties About the Counties</span></span></span> Wikishire’s interactive map also states that its maps conform to the Historic Counties Standard, making it a useful index when the question is “where did this place belong historically?” rather than “which council runs it now?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+For this project, the base map follows the historic-county approach. The Historic Counties Standard defines historic counties by name, area and border, and is intended for consistent use in history, geography, heritage, education, indexing and cataloguing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[historiccountiestrust.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span> The wider UK historic-county frame contains 92 historic counties: 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-title">Association of British Counties About the Counties</span><span class="citation-popover-snippet">Association of British Counties About the Counties</span></span></span> Wikishire’s interactive map also states that its maps conform to the Historic Counties Standard, making it a useful index when the question is “where did this place belong historically?” rather than “which council runs it now?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
-That distinction is not pedantry. The Ministry of Defence UFO report tables are simple lists of date, time, town or village, county and a short description. GOV.UK describes the series as UK UFO reports from 1997 to 2009, showing “dates and times, location and a brief description of the sighting”; it does not present them as fully investigated case files with uniform county definitions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> When the county field changes, is inconsistent, or uses a loose place label, the map can shift the sighting from “Lancashire” to “Greater Manchester”, “Merseyside” or back again without the sky event itself changing at all.
+That distinction is not pedantry. The Ministry of Defence UFO report tables are simple lists of date, time, town or village, county and a short description. GOV.UK describes the series as UK UFO reports from 1997 to 2009, showing “dates and times, location and a brief description of the sighting”; it does not present them as fully investigated case files with uniform county definitions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> When the county field changes, is inconsistent, or uses a loose place label, the map can shift the sighting from “Lancashire” to “Greater Manchester”, “Merseyside” or back again without the sky event itself changing at all.
 
-The 1974 local-government reorganisation is the main modern dividing line. Lancashire County Council’s own history material says that on 1 April 1974 southern parts of administrative Lancashire were transferred to the newly created metropolitan counties of Merseyside and Greater Manchester. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancashire.gov.uk/media/957240/1-lancashire-is-50-history-materials-slides-full-page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancashire.gov.uk">[Lancashire.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancashire.gov.uk</span><span class="citation-popover-title">1 lancashire is 50 history materials slides full page</span><span class="citation-popover-snippet">1 lancashire is 50 history materials slides full page</span></span></span> A Lancashire Record Office guide similarly notes that, after the Local Government Act 1972, the county council’s area was greatly reduced by the creation of Greater Manchester, Merseyside and Cumbria, and by the extension of Cheshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancashire.gov.uk/media/52107/Whats-in-it-for-Blackpool-Nov-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancashire.gov.uk">[Lancashire.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancashire.gov.uk</span><span class="citation-popover-title">Lancashire Record Office</span><span class="citation-popover-snippet">Lancashire Record Office</span></span></span> For UFO records, this means a 1960s, 1970s or even later source using local memory may not line up neatly with a modern database field.
+The 1974 local-government reorganisation is the main modern dividing line. Lancashire County Council’s own history material says that on 1 April 1974 southern parts of administrative Lancashire were transferred to the newly created metropolitan counties of Merseyside and Greater Manchester.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancashire.gov.uk/media/957240/1-lancashire-is-50-history-materials-slides-full-page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancashire.gov.uk">[Lancashire.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancashire.gov.uk</span><span class="citation-popover-title">1 lancashire is 50 history materials slides full page</span><span class="citation-popover-snippet">1 lancashire is 50 history materials slides full page</span></span></span> A Lancashire Record Office guide similarly notes that, after the Local Government Act 1972, the county council’s area was greatly reduced by the creation of Greater Manchester, Merseyside and Cumbria, and by the extension of Cheshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancashire.gov.uk/media/52107/Whats-in-it-for-Blackpool-Nov-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancashire.gov.uk">[Lancashire.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancashire.gov.uk</span><span class="citation-popover-title">Lancashire Record Office</span><span class="citation-popover-snippet">Lancashire Record Office</span></span></span> For UFO records, this means a 1960s, 1970s or even later source using local memory may not line up neatly with a modern database field.
 
 
 <img src="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-1-dark.svg" | relative_url }}" alt="Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bolton, Liverpool and boundary confusion
 
-Bolton is the cleanest example because it appears in the MoD tables under different county labels. In the 1999 table, a 9 January sighting at Bolton is listed with the county “Lancashire” and described as “one main object, blue, red and white”. Later in the same 1999 table, a 22 February Bolton entry is listed as “Greater Manchester” and describes two objects with pale white and red-green lights gliding across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Bolton is the cleanest example because it appears in the MoD tables under different county labels. In the 1999 table, a 9 January sighting at Bolton is listed with the county “Lancashire” and described as “one main object, blue, red and white”. Later in the same 1999 table, a 22 February Bolton entry is listed as “Greater Manchester” and describes two objects with pale white and red-green lights gliding across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 Both entries can be read without contradiction if the catalogue separates three things: the physical place, the county label printed in the source, and the boundary framework used by the modern project. Bolton is historically Lancastrian, but in post-1974 local government it is part of Greater Manchester. If a UFO index silently normalises both entries to one modern county, it may erase the older Lancashire association. If it silently normalises both to historic Lancashire, it may confuse readers expecting current administrative geography.
 
-The 2009 MoD table shows the same problem in a more chaotic form. On 5 November, one Bolton report is listed under Lancashire and describes a fast-moving bright orange light appearing repeatedly and moving in unexplained directions; another entry the same evening lists Bolton under “Manchester” and simply says a UFO appeared several times during the night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That does not mean the boundary moved during the evening. It means the source table is a report log, not a carefully normalised gazetteer.
+The 2009 MoD table shows the same problem in a more chaotic form. On 5 November, one Bolton report is listed under Lancashire and describes a fast-moving bright orange light appearing repeatedly and moving in unexplained directions; another entry the same evening lists Bolton under “Manchester” and simply says a UFO appeared several times during the night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That does not mean the boundary moved during the evening. It means the source table is a report log, not a carefully normalised gazetteer.
 
-Liverpool creates a related but slightly different problem. Historically, Liverpool is part of Lancashire, but modern readers normally associate it with Merseyside. In the 1999 MoD table, Liverpool appears under Merseyside, with a 26 May entry describing a very bright white light that approached slowly from the south, appeared stationary, then headed east and vanished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> In the 2009 table, a 19 April entry gives “Liverpool” as the county field for a report of “a UFO Southwest of Liverpool”, and a 9 April entry records two parallel red or orange lights in the sky under Liverpool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These are useful Liverpool-area reports, but a Lancashire page should not automatically absorb them unless it is explicitly using historic Lancashire.
+Liverpool creates a related but slightly different problem. Historically, Liverpool is part of Lancashire, but modern readers normally associate it with Merseyside. In the 1999 MoD table, Liverpool appears under Merseyside, with a 26 May entry describing a very bright white light that approached slowly from the south, appeared stationary, then headed east and vanished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> In the 2009 table, a 19 April entry gives “Liverpool” as the county field for a report of “a UFO Southwest of Liverpool”, and a 9 April entry records two parallel red or orange lights in the sky under Liverpool.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These are useful Liverpool-area reports, but a Lancashire page should not automatically absorb them unless it is explicitly using historic Lancashire.
 
 The practical rule is simple: Bolton and Liverpool can belong in a historic Lancashire UFO index, but they should be tagged so that the reader sees why they are there. A good entry might read “Bolton, historic Lancashire; modern Greater Manchester” or “Liverpool, historic Lancashire; modern Merseyside”. That wording prevents two common mistakes: claiming that old records are “wrong” simply because modern maps differ, or implying that modern Merseyside and Greater Manchester reports are administratively Lancashire today.
 
@@ -289,11 +289,11 @@ The practical rule is simple: Bolton and Liverpool can belong in a historic Lanc
 
 Changing the map changes the story a database appears to tell. A modern Lancashire-only filter will emphasise places such as Preston, Blackpool, Burnley, [Rossendale]({{ 'rossendale/' | relative_url }}), Leyland and the Fylde. A historic Lancashire filter will also pull in major urban reports from the old southern county, including Bolton, Leigh, Liverpool, Manchester-area locations and Furness-side material now often thought of as Cumbria or the city regions.
 
-The 2009 MoD table shows how quickly the pattern shifts. Using a present-day Lancashire lens, the year includes entries such as Haslingden/Rossendale on 4 January, Blackpool on 8 January, Rossendale on 6 February, Preston on 29 March and Leyland on 4 April. These are ordinary report-log entries: orange lights rising over a valley, a green light with a white rim over Blackpool, a blue and purple flashing light over the moors, three bright lights over Preston, and an object seen for six to seven minutes at Leyland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 MoD table shows how quickly the pattern shifts. Using a present-day Lancashire lens, the year includes entries such as Haslingden/Rossendale on 4 January, Blackpool on 8 January, Rossendale on 6 February, Preston on 29 March and Leyland on 4 April. These are ordinary report-log entries: orange lights rising over a valley, a green light with a white rim over Blackpool, a blue and purple flashing light over the moors, three bright lights over Preston, and an object seen for six to seven minutes at Leyland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-A historic Lancashire lens adds edge cases. Heywood is listed as Lancashire in the same 2009 table, with three orange lights moving evenly from south-east to north-west before disappearing after five minutes; Leigh is also listed as Lancashire, with a triangular structure and red lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These are not necessarily stronger cases than the Preston or Blackpool entries. Their importance is cartographic: they show how the boundary choice can create or shrink a “Lancashire cluster”.
+A historic Lancashire lens adds edge cases. Heywood is listed as Lancashire in the same 2009 table, with three orange lights moving evenly from south-east to north-west before disappearing after five minutes; Leigh is also listed as Lancashire, with a triangular structure and red lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These are not necessarily stronger cases than the Preston or Blackpool entries. Their importance is cartographic: they show how the boundary choice can create or shrink a “Lancashire cluster”.
 
-There is also a cautionary lesson in the Saddleworth entry. The 2009 table lists Saddleworth under Lancashire, describing a bright orange ball of fire that changed colour and disappeared straight into the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Yet Saddleworth is a historically sensitive Pennine place-name more often associated with Yorkshire history and modern Greater Manchester administration. A county label in a UFO table can therefore be a clue, but it is not final proof of the correct historic county. The place name still has to be checked against a gazetteer or historic-county map.
+There is also a cautionary lesson in the Saddleworth entry. The 2009 table lists Saddleworth under Lancashire, describing a bright orange ball of fire that changed colour and disappeared straight into the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Yet Saddleworth is a historically sensitive Pennine place-name more often associated with Yorkshire history and modern Greater Manchester administration. A county label in a UFO table can therefore be a clue, but it is not final proof of the correct historic county. The place name still has to be checked against a gazetteer or historic-county map.
 
 This is why mapped UFO history should not rely on a single county column. The better method is to preserve the raw source and then add interpretive geography:
 
@@ -303,7 +303,7 @@ This is why mapped UFO history should not rely on a single county column. The be
 * **Source label:** the county or area as printed in the original report.
 * **Fixed location:** the town, village, road, moor, airport or coast named by the witness or official log.
 * **Modern authority:** the current council or ceremonial area where relevant.
-* **Historic county:** the historic-county placement used for this project’s map. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Historic county:** the historic-county placement used for this project’s map.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Confidence note:** whether the place-name match is exact, approximate, duplicated, misspelled or ambiguous.
 
 </div>
@@ -314,9 +314,9 @@ That method makes the map more honest. It allows the Lancashire archive to inclu
 <img src="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-2-dark.svg" | relative_url }}" alt="Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What boundary sorting does and does not prove
 
-Boundary sorting improves the record; it does not make the UFO evidence stronger. Most Lancashire-related MoD entries are brief descriptions of lights, colours, movement and duration. They usually lack photographs, radar correlation, aircraft checks, astronomical checks, named witnesses or follow-up conclusions. The National Archives notes that MoD UFO records often describe shapes, lights and flashes, many of which can be explained, while others are more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Boundary sorting improves the record; it does not make the UFO evidence stronger. Most Lancashire-related MoD entries are brief descriptions of lights, colours, movement and duration. They usually lack photographs, radar correlation, aircraft checks, astronomical checks, named witnesses or follow-up conclusions. The National Archives notes that MoD UFO records often describe shapes, lights and flashes, many of which can be explained, while others are more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MoD’s later position also matters. The final UFO files show that the desk received more than 600 sightings in 2009, but internal material described it as serving no defence purpose and generating correspondence; ministers were told that in more than 50 years no UFO report had revealed evidence of a potential threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Sky News, reporting on the 2013 file release, gave the same central reason for closure: the UFO operation was shut because it served “no defence purpose” and diverted staff from more valuable defence-related work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+The MoD’s later position also matters. The final UFO files show that the desk received more than 600 sightings in 2009, but internal material described it as serving no defence purpose and generating correspondence; ministers were told that in more than 50 years no UFO report had revealed evidence of a potential threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Sky News, reporting on the 2013 file release, gave the same central reason for closure: the UFO operation was shut because it served “no defence purpose” and diverted staff from more valuable defence-related work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
 For Lancashire, that means the county boundary question is mainly about interpretation, retrieval and fairness. A sighting that moves from “Lancashire” to “Greater Manchester” after boundary checking has not been debunked. A sighting that moves from “Merseyside” into a historic Lancashire index has not become more mysterious. The evidence remains what it was: a report, often brief, often sincere, and often under-specified.
 
@@ -340,194 +340,194 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
 <img src="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-3-dark.svg" | relative_url }}" alt="Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lancashire_07656d_historic_lancashire_e0f81e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is A Lancashire UFO Really Lancashire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is A Lancashire UFO Really Lancashire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Niib0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little History of Lancashire">The Little History of Lancashire</a>
-        </h4>
-        <p class="fr-book-author">By HUGH. HOLLINGHURST</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Niib0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little History of Lancashire">The Little History of Lancashire</a>
+</h4>
+<p class="fr-book-author">By HUGH. HOLLINGHURST</p>
         
-        <p class="fr-book-desc">Explains the historic county’s extent and development, helping readers understand why older reports may use different Lancashire definiti...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the historic county’s extent and development, helping readers understand why older reports may use different Lancashire definiti...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire+by+HUGH.+HOLLINGHURST&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z9AWAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Lancashire">A History of Lancashire</a>
-        </h4>
-        <p class="fr-book-author">By John Joseph Bagley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Lancashire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z9AWAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Lancashire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Lancashire">A History of Lancashire</a>
+</h4>
+<p class="fr-book-author">By John Joseph Bagley</p>
         
-        <p class="fr-book-desc">Provides deep context on Lancashire as a historic county and how its identity evolved over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides deep context on Lancashire as a historic county and how its identity evolved over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Lancashire+by+John+Joseph+Bagley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster+by+William+Farrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Victoria history of the county of Lancaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K63MDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Victoria history of the county of Lancaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster+by+William+Farrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Victoria history of the county of Lancaster">The Victoria history of the county of Lancaster</a>
-        </h4>
-        <p class="fr-book-author">By William Farrer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster+by+William+Farrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Victoria history of the county of Lancaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K63MDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Victoria history of the county of Lancaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster+by+William+Farrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Victoria history of the county of Lancaster">The Victoria history of the county of Lancaster</a>
+</h4>
+<p class="fr-book-author">By William Farrer</p>
         
-        <p class="fr-book-desc">Valuable for tracing historic county boundaries, settlements and administrative geography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster+by+William+Farrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Valuable for tracing historic county boundaries, settlements and administrative geography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster+by+William+Farrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=TRADITIONS+OF+LANCASHIRE+by+John+1793-1850+Roby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open TRADITIONS OF LANCASHIRE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qqAzvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for TRADITIONS OF LANCASHIRE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=TRADITIONS+OF+LANCASHIRE+by+John+1793-1850+Roby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="TRADITIONS OF LANCASHIRE">TRADITIONS OF LANCASHIRE</a>
-        </h4>
-        <p class="fr-book-author">By John 1793-1850 Roby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=TRADITIONS+OF+LANCASHIRE+by+John+1793-1850+Roby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open TRADITIONS OF LANCASHIRE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qqAzvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for TRADITIONS OF LANCASHIRE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=TRADITIONS+OF+LANCASHIRE+by+John+1793-1850+Roby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="TRADITIONS OF LANCASHIRE">TRADITIONS OF LANCASHIRE</a>
+</h4>
+<p class="fr-book-author">By John 1793-1850 Roby</p>
         
-        <p class="fr-book-desc">Adds cultural and folklore context to unusual reports and regional traditions associated with historic Lancashire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=TRADITIONS+OF+LANCASHIRE+by+John+1793-1850+Roby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds cultural and folklore context to unusual reports and regional traditions associated with historic Lancashire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=TRADITIONS+OF+LANCASHIRE+by+John+1793-1850+Roby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little History of Lancashire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Lancashire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Lancashire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Victoria history of the county of Lancaster</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+History+of+Lancashire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little History of Lancashire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Lancashire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Lancashire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Victoria+history+of+the+county+of+Lancaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Victoria history of the county of Lancaster</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="boundaries-77b085-when-is-a-lancashire-ufo-really-lancashire-lancashire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,453 +733,453 @@ A balanced Lancashire UFO record should therefore use boundary notes as part of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Lancashire | England, Map, & History  
-   Link: <a href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lancashire-county-England</a>  
+   Link:<a href="https://www.britannica.com/place/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lancashire-county-England</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lancashire.gov.uk  
    Title: 1 lancashire is 50 history materials slides full page  
-   Link: <a href="https://www.lancashire.gov.uk/media/957240/1-lancashire-is-50-history-materials-slides-full-page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/957240/1-lancashire-is-50-history-materials-slides-full-page.pdf</a>  
+   Link:<a href="https://www.lancashire.gov.uk/media/957240/1-lancashire-is-50-history-materials-slides-full-page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/957240/1-lancashire-is-50-history-materials-slides-full-page.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lancashire.gov.uk  
    Title: Lancashire Record Office  
-   Link: <a href="https://www.lancashire.gov.uk/media/52107/Whats-in-it-for-Blackpool-Nov-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/52107/Whats-in-it-for-Blackpool-Nov-2010.pdf</a>  
+   Link:<a href="https://www.lancashire.gov.uk/media/52107/Whats-in-it-for-Blackpool-Nov-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/52107/Whats-in-it-for-Blackpool-Nov-2010.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1993/436/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1993/436/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1993/436/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1993/436/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1972/70/1991-10-14/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/1991-10-14/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1972/70/1991-10-14/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/1991-10-14/data.xht?view=snippet&amp;wrap=true</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1974/406/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/406/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1974/406/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/406/made</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1972/70/england/1994-10-01?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/england/1994-10-01?view=plain</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1972/70/england/1994-10-01?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/england/1994-10-01?view=plain</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1972/70/schedules" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/schedules</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1972/70/schedules" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/schedules</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1972/70/schedule/1" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/schedule/1</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1972/70/schedule/1" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/schedule/1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1972/70/schedules/2014-03-30/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/schedules/2014-03-30/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1972/70/schedules/2014-03-30/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/schedules/2014-03-30/data.xht?view=snippet&amp;wrap=true</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1974/595/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/595/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1974/595/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/595/made</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1972/70/part/X/1993-08-01/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/part/X/1993-08-01/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1972/70/part/X/1993-08-01/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1972/70/part/X/1993-08-01/data.xht?view=snippet&amp;wrap=true</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: legislation.gov.uk  
    Title: uksi 19740406 en  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1974/406/pdfs/uksi_19740406_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/406/pdfs/uksi_19740406_en.pdf</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1974/406/pdfs/uksi_19740406_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/406/pdfs/uksi_19740406_en.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1974/1351/made/data.xht?wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/1351/made/data.xht?wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1974/1351/made/data.xht?wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1974/1351/made/data.xht?wrap=true</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: SEA North West Appendix E  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a515e5274a2acd188ae2/SEA_North_West_-_Appendix_E.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a807cdbe5274a2e8ab506de/Responses_M_-_P.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a807cdbe5274a2e8ab506de/Responses_M_-_P.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a807cdbe5274a2e8ab506de/Responses_M_-_P.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a807cdbe5274a2e8ab506de/Responses_M_-_P.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20 09 30 DL+IR Hulton Park  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5f22d37ce90e071a6147b2d1/20-09-30_DL%2BIR_Hulton_Park.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f22d37ce90e071a6147b2d1/20-09-30_DL%2BIR_Hulton_Park.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5f22d37ce90e071a6147b2d1/20-09-30_DL%2BIR_Hulton_Park.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f22d37ce90e071a6147b2d1/20-09-30_DL%2BIR_Hulton_Park.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391dae6e90e076630f0b0fb/North-West-FRMP-HRA.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 27th Round Irish Sea Blocks AA  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b9edaed915d13110606e8/27th_Round_Irish_Sea_Blocks_AA.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Working Draft Environmental Statement  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5bb49453e5274a4f51903e21/HS2_Phase_2b_WDES_Volume_2_MA05_Risley_to_Bamfurlong.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5bb49453e5274a4f51903e21/HS2_Phase_2b_WDES_Volume_2_MA05_Risley_to_Bamfurlong.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5bb49453e5274a4f51903e21/HS2_Phase_2b_WDES_Volume_2_MA05_Risley_to_Bamfurlong.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5bb49453e5274a4f51903e21/HS2_Phase_2b_WDES_Volume_2_MA05_Risley_to_Bamfurlong.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Onshore er App4  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/628659ce8fa8f556165a1e47/Authorities_Bundle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/628659ce8fa8f556165a1e47/Authorities_Bundle.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/628659ce8fa8f556165a1e47/Authorities_Bundle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/628659ce8fa8f556165a1e47/Authorities_Bundle.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport0910.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport0910.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: annual report accounts national archives large print 2023 2024  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-accounts-national-archives-large-print-2023-2024.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/25/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/25/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/25/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/25/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/information-management/home-office-appraisal-report-1953-2016-draft..pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/information-management/home-office-appraisal-report-1953-2016-draft..pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/information-management/home-office-appraisal-report-1953-2016-draft..pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/information-management/home-office-appraisal-report-1953-2016-draft..pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: annual report 12 13  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: council.lancashire.gov.uk  
    Title: lancashire.gov.uk Appendix A.docx  
-   Link: <a href="https://council.lancashire.gov.uk/documents/s11473/Appendix%20A.docx?CT=2" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s11473/Appendix%20A.docx?CT=2</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/s11473/Appendix%20A.docx?CT=2" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s11473/Appendix%20A.docx?CT=2</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: council.lancashire.gov.uk  
-   Link: <a href="https://council.lancashire.gov.uk/documents/s267871/Appendix%20A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s267871/Appendix%20A.pdf</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/s267871/Appendix%20A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s267871/Appendix%20A.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: lancashire.gov.uk  
-   Link: <a href="https://www.lancashire.gov.uk/media/152746/characterassesment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/152746/characterassesment.pdf</a>  
+   Link:<a href="https://www.lancashire.gov.uk/media/152746/characterassesment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/152746/characterassesment.pdf</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: council.lancashire.gov.uk  
    Title: Public+reports+pack+09th Sep 2025.00+Lancashire+Combined+County+Authority  
-   Link: <a href="https://council.lancashire.gov.uk/documents/g15779/Public%2Breports%2Bpack%2B09th-Sep-2025%2B16.00%2BLancashire%2BCombined%2BCounty%2BAuthority.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/g15779/Public%2Breports%2Bpack%2B09th-Sep-2025%2B16.00%2BLancashire%2BCombined%2BCounty%2BAuthority.pdf?T=10</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/g15779/Public%2Breports%2Bpack%2B09th-Sep-2025%2B16.00%2BLancashire%2BCombined%2BCounty%2BAuthority.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/g15779/Public%2Breports%2Bpack%2B09th-Sep-2025%2B16.00%2BLancashire%2BCombined%2BCounty%2BAuthority.pdf?T=10</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: lancashire.gov.uk  
-   Link: <a href="https://www.lancashire.gov.uk/media/52074/Blackburn-with-Darwen-Guide-Nov-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/52074/Blackburn-with-Darwen-Guide-Nov-2010.pdf</a>  
+   Link:<a href="https://www.lancashire.gov.uk/media/52074/Blackburn-with-Darwen-Guide-Nov-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lancashire.gov.uk/media/52074/Blackburn-with-Darwen-Guide-Nov-2010.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: centrallocalplan.lancashire.gov.uk  
    Title: lancashire.gov.uk FRON T COVER  
-   Link: <a href="https://centrallocalplan.lancashire.gov.uk/media/1056/employment-land-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centrallocalplan.lancashire.gov.uk/media/1056/employment-land-study.pdf</a>  
+   Link:<a href="https://centrallocalplan.lancashire.gov.uk/media/1056/employment-land-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centrallocalplan.lancashire.gov.uk/media/1056/employment-land-study.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: council.lancashire.gov.uk  
-   Link: <a href="https://council.lancashire.gov.uk/documents/s33875/Appendix%20A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s33875/Appendix%20A.pdf</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/s33875/Appendix%20A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s33875/Appendix%20A.pdf</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: council.lancashire.gov.uk  
-   Link: <a href="https://council.lancashire.gov.uk/documents/g1130/Public%20reports%20pack%2023rd-Jul-2012%2010.30%20West%20Pennine%20Moors%20Area%20Management%20Committee%20administrati.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/g1130/Public%20reports%20pack%2023rd-Jul-2012%2010.30%20West%20Pennine%20Moors%20Area%20Management%20Committee%20administrati.pdf?T=10</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/g1130/Public%20reports%20pack%2023rd-Jul-2012%2010.30%20West%20Pennine%20Moors%20Area%20Management%20Committee%20administrati.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/g1130/Public%20reports%20pack%2023rd-Jul-2012%2010.30%20West%20Pennine%20Moors%20Area%20Management%20Committee%20administrati.pdf?T=10</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: council.lancashire.gov.uk  
    Title: Public reports pack 16th May 2019 14.00 Cabinet  
-   Link: <a href="https://council.lancashire.gov.uk/documents/g7460/Public%20reports%20pack%2016th-May-2019%2014.00%20Cabinet.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/g7460/Public%20reports%20pack%2016th-May-2019%2014.00%20Cabinet.pdf?T=10</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/g7460/Public%20reports%20pack%2016th-May-2019%2014.00%20Cabinet.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/g7460/Public%20reports%20pack%2016th-May-2019%2014.00%20Cabinet.pdf?T=10</a>  
    Published: May 2019  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: council.lancashire.gov.uk  
    Title: lancashire.gov.uk Appendix A.doc  
-   Link: <a href="https://council.lancashire.gov.uk/documents/s39863/Appendix%20A.doc?CT=2" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s39863/Appendix%20A.doc?CT=2</a>  
+   Link:<a href="https://council.lancashire.gov.uk/documents/s39863/Appendix%20A.doc?CT=2" target="_blank" rel="noopener noreferrer nofollow">https://council.lancashire.gov.uk/documents/s39863/Appendix%20A.doc?CT=2</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/West-Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Lancashire</a>  
+   Link:<a href="https://www.britannica.com/place/West-Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Lancashire</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/summary/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Lancashire-county-England</a>  
+   Link:<a href="https://www.britannica.com/summary/Lancashire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Lancashire-county-England</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Preston-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Preston-England</a>  
+   Link:<a href="https://www.britannica.com/place/Preston-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Preston-England</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Blackburn-with-Darwen" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Blackburn-with-Darwen</a>  
+   Link:<a href="https://www.britannica.com/place/Blackburn-with-Darwen" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Blackburn-with-Darwen</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
+   Link:<a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: democracy.chorley.gov.uk  
    Title: Public reports pack 28th Jun 2005 18.30 Development Control Committee  
-   Link: <a href="https://democracy.chorley.gov.uk/documents/g180/Public%20reports%20pack%2028th-Jun-2005%2018.30%20Development%20Control%20Committee.pdf?T=10&amp;txtonly=1" target="_blank" rel="noopener noreferrer nofollow">https://democracy.chorley.gov.uk/documents/g180/Public%20reports%20pack%2028th-Jun-2005%2018.30%20Development%20Control%20Committee.pdf?T=10&amp;txtonly=1</a>  
+   Link:<a href="https://democracy.chorley.gov.uk/documents/g180/Public%20reports%20pack%2028th-Jun-2005%2018.30%20Development%20Control%20Committee.pdf?T=10&amp;txtonly=1" target="_blank" rel="noopener noreferrer nofollow">https://democracy.chorley.gov.uk/documents/g180/Public%20reports%20pack%2028th-Jun-2005%2018.30%20Development%20Control%20Committee.pdf?T=10&amp;txtonly=1</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: democracy.chorley.gov.uk  
-   Link: <a href="https://democracy.chorley.gov.uk/documents/s28955/Appendix%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.chorley.gov.uk/documents/s28955/Appendix%201.pdf</a>  
+   Link:<a href="https://democracy.chorley.gov.uk/documents/s28955/Appendix%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.chorley.gov.uk/documents/s28955/Appendix%201.pdf</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: democracy.chorley.gov.uk  
    Title: Public reports pack 11th Dec 2025 18.30 Executive Cabinet  
-   Link: <a href="https://democracy.chorley.gov.uk/documents/g11293/Public%20reports%20pack%2011th-Dec-2025%2018.30%20Executive%20Cabinet.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.chorley.gov.uk/documents/g11293/Public%20reports%20pack%2011th-Dec-2025%2018.30%20Executive%20Cabinet.pdf?T=10</a>  
+   Link:<a href="https://democracy.chorley.gov.uk/documents/g11293/Public%20reports%20pack%2011th-Dec-2025%2018.30%20Executive%20Cabinet.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.chorley.gov.uk/documents/g11293/Public%20reports%20pack%2011th-Dec-2025%2018.30%20Executive%20Cabinet.pdf?T=10</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: historiccountiestrust.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/consultations/local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool/proposals-for-local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool/proposals-for-local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool</a>  
+   Link:<a href="https://www.gov.uk/government/consultations/local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool/proposals-for-local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool/proposals-for-local-government-reorganisation-in-lancashire-blackburn-with-darwen-and-blackpool</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: democracy.hyndburnbc.gov.uk  
    Title: Public reports pack 11th Mar 2026 15.00 Planning Committee  
-   Link: <a href="https://democracy.hyndburnbc.gov.uk/documents/g3025/Public%20reports%20pack%2011th-Mar-2026%2015.00%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.hyndburnbc.gov.uk/documents/g3025/Public%20reports%20pack%2011th-Mar-2026%2015.00%20Planning%20Committee.pdf?T=10</a>  
+   Link:<a href="https://democracy.hyndburnbc.gov.uk/documents/g3025/Public%20reports%20pack%2011th-Mar-2026%2015.00%20Planning%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.hyndburnbc.gov.uk/documents/g3025/Public%20reports%20pack%2011th-Mar-2026%2015.00%20Planning%20Committee.pdf?T=10</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: new.fylde.gov.uk  
    Title: EL7.003b Part 2 Copies of representations to the Evidence Consultation  
-   Link: <a href="https://new.fylde.gov.uk/wp-content/uploads/2020/08/EL7.003b-Part-2-Copies-of-representations-to-the-Evidence-Consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://new.fylde.gov.uk/wp-content/uploads/2020/08/EL7.003b-Part-2-Copies-of-representations-to-the-Evidence-Consultation.pdf</a>  
+   Link:<a href="https://new.fylde.gov.uk/wp-content/uploads/2020/08/EL7.003b-Part-2-Copies-of-representations-to-the-Evidence-Consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://new.fylde.gov.uk/wp-content/uploads/2020/08/EL7.003b-Part-2-Copies-of-representations-to-the-Evidence-Consultation.pdf</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: archives.knowsley.gov.uk  
    Title: Archive Catalogue with Calm links  
-   Link: <a href="https://archives.knowsley.gov.uk/wp-content/uploads/2021/08/Archive-Catalogue-with-Calm-links.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.knowsley.gov.uk/wp-content/uploads/2021/08/Archive-Catalogue-with-Calm-links.pdf</a>  
+   Link:<a href="https://archives.knowsley.gov.uk/wp-content/uploads/2021/08/Archive-Catalogue-with-Calm-links.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.knowsley.gov.uk/wp-content/uploads/2021/08/Archive-Catalogue-with-Calm-links.pdf</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: wigan.gov.uk  
    Title: Looking back.aspx  
-   Link: <a href="https://www.wigan.gov.uk/Council/50Years/Looking-back.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.wigan.gov.uk/Council/50Years/Looking-back.aspx</a>  
+   Link:<a href="https://www.wigan.gov.uk/Council/50Years/Looking-back.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.wigan.gov.uk/Council/50Years/Looking-back.aspx</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: youtube.com  
    Title: The History of Lancashire  
-   Link: <a href="https://www.youtube.com/watch?v=XRGAXe_wfJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XRGAXe_wfJg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancashire | Wikipedia audio article...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XRGAXe_wfJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XRGAXe_wfJg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lancashire | Wikipedia audio article...</p></details>
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: youtube.com  
    Title: Lancashire | Wikipedia audio article  
-   Link: <a href="https://www.youtube.com/watch?v=yjJ13lhVexo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjJ13lhVexo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release February 2010...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yjJ13lhVexo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjJ13lhVexo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release February 2010...</p></details>
    Published: February 2010  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: abcounties.com  
    Title: Association of British Counties About the Counties  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Manchester" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manchester</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Manchester" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manchester</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lancashire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lancashire</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: Wikipedia  
    Title: Greater Manchester  
-   Link: <a href="https://en.wikipedia.org/wiki/Greater_Manchester" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Greater_Manchester</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Greater_Manchester" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Greater_Manchester</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-traditional-counties-of-england-scotland-wales-northern-ireland-are-92-subdi/844666904483545/</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/historic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/historic</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/historic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/historic</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/descriptions/724390" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/descriptions/724390</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/descriptions/724390" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/descriptions/724390</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/lancashire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/lancashire/</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: abcounties.com  
    Title: the strange case of the counties that didnt change  
-   Link: <a href="https://abcounties.com/news/the-strange-case-of-the-counties-that-didnt-change/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/news/the-strange-case-of-the-counties-that-didnt-change/</a>  
+   Link:<a href="https://abcounties.com/news/the-strange-case-of-the-counties-that-didnt-change/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/news/the-strange-case-of-the-counties-that-didnt-change/</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/</a>  
+   Link:<a href="https://abcounties.com/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lancashire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lancashire</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lancashire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lancashire</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: hometownengland.com  
-   Link: <a href="https://www.hometownengland.com/lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://www.hometownengland.com/lancashire/</a>  
+   Link:<a href="https://www.hometownengland.com/lancashire/" target="_blank" rel="noopener noreferrer nofollow">https://www.hometownengland.com/lancashire/</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: baseview.uk  
    Title: Greater Manchester  
-   Link: <a href="https://www.baseview.uk/county/greater-manchester" target="_blank" rel="noopener noreferrer nofollow">https://www.baseview.uk/county/greater-manchester</a>  
+   Link:<a href="https://www.baseview.uk/county/greater-manchester" target="_blank" rel="noopener noreferrer nofollow">https://www.baseview.uk/county/greater-manchester</a>  
 
 ### Additional References
 
-92. <a id="endnote-92"></a>
+92.<a id="endnote-92"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/336409379770446/posts/7456697571074889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/336409379770446/posts/7456697571074889/</a>  
+   Link:<a href="https://www.facebook.com/groups/336409379770446/posts/7456697571074889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/336409379770446/posts/7456697571074889/</a>  
 
-93. <a id="endnote-93"></a>
+93.<a id="endnote-93"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorMeHvjGEm_3gd_S0I01jlxh3e7HmgZcrMvMGCEraizSIm5mhE4" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorMeHvjGEm_3gd_S0I01jlxh3e7HmgZcrMvMGCEraizSIm5mhE4</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorMeHvjGEm_3gd_S0I01jlxh3e7HmgZcrMvMGCEraizSIm5mhE4" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOorMeHvjGEm_3gd_S0I01jlxh3e7HmgZcrMvMGCEraizSIm5mhE4</a>  
 
-94. <a id="endnote-94"></a>
+94.<a id="endnote-94"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoqLGYL6YB89qX_0TlFj25U_hi5ju19qKTdhd27vrtQkU4N_mJo7" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoqLGYL6YB89qX_0TlFj25U_hi5ju19qKTdhd27vrtQkU4N_mJo7</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoqLGYL6YB89qX_0TlFj25U_hi5ju19qKTdhd27vrtQkU4N_mJo7" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoqLGYL6YB89qX_0TlFj25U_hi5ju19qKTdhd27vrtQkU4N_mJo7</a>  
 
-95. <a id="endnote-95"></a>
+95.<a id="endnote-95"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/descriptions/730390" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/descriptions/730390</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/descriptions/730390" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/descriptions/730390</a>  
 
-96. <a id="endnote-96"></a>
+96.<a id="endnote-96"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
+   Link:<a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
 
-97. <a id="endnote-97"></a>
+97.<a id="endnote-97"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/17463" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17463</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/17463" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17463</a>  
 
-98. <a id="endnote-98"></a>
+98.<a id="endnote-98"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-99. <a id="endnote-99"></a>
+99.<a id="endnote-99"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/videos/is-greater-manchester-really-a-county-/1958511408386855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/videos/is-greater-manchester-really-a-county-/1958511408386855/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/videos/is-greater-manchester-really-a-county-/1958511408386855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/videos/is-greater-manchester-really-a-county-/1958511408386855/</a>  
 
-100. <a id="endnote-100"></a>
+100.<a id="endnote-100"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/unit/10173000" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/unit/10173000</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/unit/10173000" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/unit/10173000</a>  
 
-101. <a id="endnote-101"></a>
+101.<a id="endnote-101"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lancashire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Lancashire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lancashire</a>  

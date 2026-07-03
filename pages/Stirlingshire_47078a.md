@@ -118,9 +118,9 @@ heading_title: Why Did Stirlingshire Become a UFO Hotspot?
 page_heading_title: Why Did Stirlingshire Become a UFO Hotspot?
 source_count: 144
 infographic_count: 3
-page_website_name: Stirlingshire UFOs
+page_website_name: Stirlingshire
 page_banner_line: Balanced local evidence on Bonnybridge, official files, sightings, and sky explanations.
-site_website_name: Stirlingshire UFOs
+site_website_name: Stirlingshire
 site_banner_line: Balanced local evidence on Bonnybridge, official files, sightings, and sky explanations.
 site_image_description: A quiet road near Bonnybridge at night with low hills, scattered houses, and several bright lights hanging over the Central Belt...
 output_language: English
@@ -689,23 +689,23 @@ image: /assets/images/Stirlingshire_47078a-overview-social.jpg
 
 ## Introduction
 
-Stirlingshire’s UFO history is dominated by one place: [Bonnybridge]({{ 'bonnybridge-35279a/' | relative_url }}), the small town near Falkirk that became known in the 1990s as the centre of the “Falkirk Triangle”. The strongest evidence is not proof of alien craft, but a mixture of Ministry of Defence sighting logs, National Archives files, local campaigning, press attention, and repeated witness reports of lights and shapes in the sky. The most responsible reading is that Bonnybridge became a genuine reporting hotspot, while the individual claims remain uneven: some are sparsely documented, some have plausible aviation or optical explanations, and a few were serious enough to be logged or assessed by officials without being resolved. The historic-county frame matters because Bonnybridge is in historic Stirlingshire, even though it is now administered by Falkirk Council. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Stirlingshire’s UFO history is dominated by one place: [Bonnybridge]({{ 'bonnybridge-35279a/' | relative_url }}), the small town near Falkirk that became known in the 1990s as the centre of the “Falkirk Triangle”. The strongest evidence is not proof of alien craft, but a mixture of Ministry of Defence sighting logs, National Archives files, local campaigning, press attention, and repeated witness reports of lights and shapes in the sky. The most responsible reading is that Bonnybridge became a genuine reporting hotspot, while the individual claims remain uneven: some are sparsely documented, some have plausible aviation or optical explanations, and a few were serious enough to be logged or assessed by officials without being resolved. The historic-county frame matters because Bonnybridge is in historic Stirlingshire, even though it is now administered by Falkirk Council.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a-overview.webp" | relative_url }}" alt="Overview image for Why Did Stirlingshire Become a UFO Hotspot?" loading="eager" decoding="sync" fetchpriority="high">
 ## Where “Stirlingshire” points on the UFO map
 
-This page uses Stirlingshire in the historic-county sense used by the project’s county map, not simply the modern Stirling council area. That distinction is important because Bonnybridge, the county’s best-known UFO location, is listed as a village in historic Stirlingshire while sitting within the present-day Falkirk council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+This page uses Stirlingshire in the historic-county sense used by the project’s county map, not simply the modern Stirling council area. That distinction is important because Bonnybridge, the county’s best-known UFO location, is listed as a village in historic Stirlingshire while sitting within the present-day Falkirk council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
-Historic Stirlingshire sits in central Scotland, between the Clyde and the Forth, with neighbouring historic counties including Perthshire, Clackmannanshire, West Lothian, Lanarkshire and Dunbartonshire. Wikishire describes it as lying in the “pinch between the Clyde and the Forth”, while the Association of British Counties notes the River Forth as a key northern boundary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> Modern local government boundaries changed substantially in the twentieth century: the county council system was abolished in 1975, and the old county’s area now straddles several council areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.falkirkleisureandculture.org/media/2235/stirlingshire.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: falkirkleisureandculture.org">[Falkirkleisureandculture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">falkirkleisureandculture.org</span><span class="citation-popover-title">website Stirling County Council</span><span class="citation-popover-snippet">website Stirling County Council</span></span></span>
+Historic Stirlingshire sits in central Scotland, between the Clyde and the Forth, with neighbouring historic counties including Perthshire, Clackmannanshire, West Lothian, Lanarkshire and Dunbartonshire. Wikishire describes it as lying in the “pinch between the Clyde and the Forth”, while the Association of British Counties notes the River Forth as a key northern boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> Modern local government boundaries changed substantially in the twentieth century: the county council system was abolished in 1975, and the old county’s area now straddles several council areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.falkirkleisureandculture.org/media/2235/stirlingshire.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: falkirkleisureandculture.org">[Falkirkleisureandculture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">falkirkleisureandculture.org</span><span class="citation-popover-title">website Stirling County Council</span><span class="citation-popover-snippet">website Stirling County Council</span></span></span>
 
 For UFO history, this means the Stirlingshire story cannot be read only through Stirling city. The main cluster sits in and around Bonnybridge, Camelon, Larbert, Falkirk and the wider Central Belt sky corridor. Reports and folklore also spill into neighbouring mapped areas, especially West Lothian through the famous Dechmont Law case, and Perthshire through the Calvine photograph case. Those are useful comparisons, but they should not be mistaken for Stirlingshire incidents unless the location genuinely falls within the historic county.
 
 ## Why Bonnybridge became the centre of the story
 
-Bonnybridge’s reputation began to crystallise in the early 1990s, when repeated reports of odd lights and objects drew local and national attention. Time’s short profile of global UFO hotspots states that Bonnybridge’s first widely noted sighting came in 1992, when James Walker reported a star-shaped object hovering over a road, and that later reports prompted a local government meeting in 1993. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
+Bonnybridge’s reputation began to crystallise in the early 1990s, when repeated reports of odd lights and objects drew local and national attention. Time’s short profile of global UFO hotspots states that Bonnybridge’s first widely noted sighting came in 1992, when James Walker reported a star-shaped object hovering over a road, and that later reports prompted a local government meeting in 1993.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
 
-The National Archives’ own guide to released UFO files gives the most sober official summary of the episode: Bonnybridge, near Stirling, was featured in the national press during 1994–95 as Britain’s hotspot for UFO sightings; a local councillor wrote to Prime Minister John Major asking for an inquiry; and there was even an attempt to twin the town with Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> A National Archives transcript also records that claims at the time put the number of reports at more than 3,000, though that figure should be treated as a claim from the flap period rather than as a verified official total. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives’ own guide to released UFO files gives the most sober official summary of the episode: Bonnybridge, near Stirling, was featured in the national press during 1994–95 as Britain’s hotspot for UFO sightings; a local councillor wrote to Prime Minister John Major asking for an inquiry; and there was even an attempt to twin the town with Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> A National Archives transcript also records that claims at the time put the number of reports at more than 3,000, though that figure should be treated as a claim from the flap period rather than as a verified official total.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That distinction matters. Bonnybridge is not famous because one single case conclusively proved anything. It is famous because reports kept arriving, because local campaigners and investigators sustained public attention, and because official files show the Ministry of Defence was at least receiving and handling material connected to the area.
 
@@ -713,15 +713,15 @@ That distinction matters. Bonnybridge is not famous because one single case conc
 <img src="{{ "/assets/images/Stirlingshire_47078a-Illustration-1-dark.svg" | relative_url }}" alt="Why Did Stirlingshire Become a UFO Hotspot? illustration 1" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official records actually show
 
-The Ministry of Defence’s public UFO report series covers sightings reported between 1997 and 2009, giving dates, times, locations and brief descriptions rather than full case investigations. GOV.UK describes the collection as “Unidentified Flying Object reports 1997 to 2009” and says the files show dates, times, locations and short descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence’s public UFO report series covers sightings reported between 1997 and 2009, giving dates, times, locations and brief descriptions rather than full case investigations. GOV.UK describes the collection as “Unidentified Flying Object reports 1997 to 2009” and says the files show dates, times, locations and short descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Bonnybridge appears in those records. In the 1999 report, the entry for 29 May 1999 at 22:30 lists “Bonnybridge, Stirlingshire” and describes a “very large, bright, star shaped object” low in the sky and hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In the 2003 report, a 17 August entry at 23:45 lists Bonnybridge in the Central region, but gives only the minimal note “Just said a sighting”, which is too thin to support much interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Bonnybridge appears in those records. In the 1999 report, the entry for 29 May 1999 at 22:30 lists “Bonnybridge, Stirlingshire” and describes a “very large, bright, star shaped object” low in the sky and hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In the 2003 report, a 17 August entry at 23:45 lists Bonnybridge in the Central region, but gives only the minimal note “Just said a sighting”, which is too thin to support much interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 Those entries are valuable, but they are not the same as proof. They show that reports were made and logged. They do not, by themselves, establish what the witnesses saw. The MoD’s records often preserve short descriptions without enough detail to check weather, aircraft tracks, astronomical conditions, witness distance, direction, duration or corroborating radar data. For a reader, the key point is that Bonnybridge is not just an internet legend: it appears in official UK reporting streams, but usually in a form that leaves the case evidentially weak.
 
 ## The 1994 video and the limits of technical analysis
 
-One of the most revealing Stirlingshire-related items is not a classic witness story but an MoD-handled video. A National Archives transcript by Dr David Clarke, consultant to the National Archives UFO project, states that in 1994 VHS footage of a strange object in the sky near Bonnybridge was sent to experts at RAF Brampton. Their conclusion was cautious: it could not be determined whether the object was real or a hoax, and it was possible it had been produced using a kite or video studio effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+One of the most revealing Stirlingshire-related items is not a classic witness story but an MoD-handled video. A National Archives transcript by Dr David Clarke, consultant to the National Archives UFO project, states that in 1994 VHS footage of a strange object in the sky near Bonnybridge was sent to experts at RAF Brampton. Their conclusion was cautious: it could not be determined whether the object was real or a hoax, and it was possible it had been produced using a kite or video studio effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 This is one of the most useful episodes for understanding the whole Stirlingshire record. It shows that the MoD did sometimes seek technical input when images or footage were submitted, despite its public reluctance to present itself as conducting open-ended UFO research. It also shows how quickly a dramatic-looking item can lose force when the chain of evidence is weak. If the footage cannot be tied to a reliable original, a clear filming context, independent witnesses and eliminate ordinary methods of fabrication, it remains ambiguous rather than persuasive.
 
@@ -734,17 +734,17 @@ The Bonnybridge video therefore sits in the middle category: not debunked beyond
 
 The most common reports from Bonnybridge and the wider Stirlingshire cluster involve lights: bright points, coloured flashes, hovering star-like objects, orange orbs or formations. Those descriptions are interesting, but they are also exactly the kind most vulnerable to misidentification. Sceptical explanations do not need to explain every case in the same way; they only need to show that the reporting environment is full of ordinary sources of puzzling lights.
 
-The local geography gives several candidates. Bonnybridge lies within the busy Central Belt, near major air routes and within reach of Edinburgh, Glasgow and Cumbernauld aviation activity. Vice’s account of a Bonnybridge skywatch noted sceptical arguments that the town sits under flight paths serving Edinburgh and Glasgow airports, with a commercial airfield at Cumbernauld only a few miles away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/da/article/ufo-watching-in-bonnybridge-scotland-456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Watching for Aliens in the UFO Capital of Scotland</span><span class="citation-popover-snippet">Watching for Aliens in the UFO Capital of Scotland</span></span></span> Cumbernauld Airport describes itself as a busy general aviation airport with fixed-wing aircraft, helicopters, flying lessons and private and business flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbernauldairport.org">[Cumbernauld Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbernauldairport.org</span><span class="citation-popover-snippet">Open source on cumbernauldairport.org.</span></span></span>
+The local geography gives several candidates. Bonnybridge lies within the busy Central Belt, near major air routes and within reach of Edinburgh, Glasgow and Cumbernauld aviation activity. Vice’s account of a Bonnybridge skywatch noted sceptical arguments that the town sits under flight paths serving Edinburgh and Glasgow airports, with a commercial airfield at Cumbernauld only a few miles away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/da/article/ufo-watching-in-bonnybridge-scotland-456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Watching for Aliens in the UFO Capital of Scotland</span><span class="citation-popover-snippet">Watching for Aliens in the UFO Capital of Scotland</span></span></span> Cumbernauld Airport describes itself as a busy general aviation airport with fixed-wing aircraft, helicopters, flying lessons and private and business flying.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbernauldairport.org">[Cumbernauld Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbernauldairport.org</span><span class="citation-popover-snippet">Open source on cumbernauldairport.org.</span></span></span>
 
-Modern airspace evidence also supports the broader point that this is a complex aviation region. NATS says Scottish Airspace Modernisation is a coordinated proposal involving Edinburgh Airport, Glasgow Airport and NATS, with the airports responsible for arrival and departure routes below 7,000 feet and NATS connecting them into higher-level airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nats.aero/news/scottish-airspace-modernisation-consultation-launched/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-snippet">Open source on nats.aero.</span></span></span> That does not explain a specific 1990s report by itself, but it does show why “strange lights in the sky” in central Scotland need careful aviation checking before any stronger claim is made.
+Modern airspace evidence also supports the broader point that this is a complex aviation region. NATS says Scottish Airspace Modernisation is a coordinated proposal involving Edinburgh Airport, Glasgow Airport and NATS, with the airports responsible for arrival and departure routes below 7,000 feet and NATS connecting them into higher-level airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nats.aero/news/scottish-airspace-modernisation-consultation-launched/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-snippet">Open source on nats.aero.</span></span></span> That does not explain a specific 1990s report by itself, but it does show why “strange lights in the sky” in central Scotland need careful aviation checking before any stronger claim is made.
 
-Other local explanations often raised include satellites, meteors, aircraft landing lights, helicopters, advertising lights, balloons, kites and industrial light effects. Some popular accounts also mention the wider Grangemouth industrial area as a possible source of unusual lights or flares, though such claims need case-by-case verification rather than being used as a blanket explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dostoevsky-bts.com/blog/winner-bonnybridge-world-famous-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dostoevsky-bts.com">[dostoevsky-bts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dostoevsky-bts.com</span><span class="citation-popover-title">Our winner from Bonnybridge- world famous UFO Hotspot</span><span class="citation-popover-snippet">Our winner from Bonnybridge- world famous UFO Hotspot</span></span></span>
+Other local explanations often raised include satellites, meteors, aircraft landing lights, helicopters, advertising lights, balloons, kites and industrial light effects. Some popular accounts also mention the wider Grangemouth industrial area as a possible source of unusual lights or flares, though such claims need case-by-case verification rather than being used as a blanket explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dostoevsky-bts.com/blog/winner-bonnybridge-world-famous-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dostoevsky-bts.com">[dostoevsky-bts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dostoevsky-bts.com</span><span class="citation-popover-title">Our winner from Bonnybridge- world famous UFO Hotspot</span><span class="citation-popover-snippet">Our winner from Bonnybridge- world famous UFO Hotspot</span></span></span>
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a-Illustration-2-dark.svg" | relative_url }}" alt="Why Did Stirlingshire Become a UFO Hotspot? illustration 2" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD’s national position means for Stirlingshire
 
-The MoD’s national stance is important because it places Bonnybridge in the wider UK official record. The final tranche of UFO files released by The National Archives said the UFO desk closed after more than 50 years, and that the files included the reasoning: the desk was consuming resources, served no defence purpose, and no reported sighting had revealed evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD’s national stance is important because it places Bonnybridge in the wider UK official record. The final tranche of UFO files released by The National Archives said the UFO desk closed after more than 50 years, and that the files included the reasoning: the desk was consuming resources, served no defence purpose, and no reported sighting had revealed evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This does not mean every Stirlingshire sighting was solved. It means the MoD did not judge the overall flow of UFO reports to justify a dedicated defence function. That is a narrower claim than “nothing happened” and a stronger claim than “the government proved aliens are not here”. It tells us that official assessment was primarily about air defence significance, not about satisfying local curiosity or resolving every witness account.
 
@@ -757,7 +757,7 @@ For Stirlingshire, the result is a gap. Reports could be logged, occasionally as
 
 The phrase “Falkirk Triangle” usually refers to a wider area of central Scotland associated with repeated UFO stories, with Bonnybridge as its best-known point. Some accounts stretch the triangle towards Stirling, Fife, West Lothian or the edge of Edinburgh, depending on the writer. That makes it useful as a cultural label, but imprecise as a geographic one. In a historic-county project, it is better to treat “Falkirk Triangle” as a regional UFO tradition, while keeping Bonnybridge as the Stirlingshire anchor.
 
-The tradition has been sustained by local figures and UFO investigators. Recent reporting says investigators Malcolm Robinson and Ron Halliday have continued to call for the release of government material and have been reviewing large numbers of Bonnybridge-related reports, while also acknowledging that many sightings are usually explained as aircraft, satellites or shooting stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Calls for UK Government to release Scots X-Files</span><span class="citation-popover-snippet">The Scottish Sun Calls for UK Government to release Scots X-Files</span></span></span> That admission is important: even committed investigators have to separate volume from quality. A thousand weak reports do not equal one strong case, but repeated reporting can still reveal patterns worth studying.
+The tradition has been sustained by local figures and UFO investigators. Recent reporting says investigators Malcolm Robinson and Ron Halliday have continued to call for the release of government material and have been reviewing large numbers of Bonnybridge-related reports, while also acknowledging that many sightings are usually explained as aircraft, satellites or shooting stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Calls for UK Government to release Scots X-Files</span><span class="citation-popover-snippet">The Scottish Sun Calls for UK Government to release Scots X-Files</span></span></span> That admission is important: even committed investigators have to separate volume from quality. A thousand weak reports do not equal one strong case, but repeated reporting can still reveal patterns worth studying.
 
 The Stirlingshire story is therefore partly a UFO history and partly a media history. Bonnybridge became memorable because the reports coincided with 1990s public interest in UFOs, television treatments of paranormal material, national press curiosity and the appealing comparison with Roswell. Once a place becomes known as a hotspot, people look up more often, talk more readily, and report ambiguous sights that might otherwise have been ignored.
 
@@ -770,7 +770,7 @@ A useful reader test is to sort any Stirlingshire claim into three broad categor
 
 **Better-supported but still unresolved:** a report with a precise time, location, direction, duration, multiple independent witnesses, original photographs or video, and checks against aircraft, weather, astronomical objects and satellites. Very few Bonnybridge reports available in public sources reach this standard.
 
-**Logged but weak:** an official or press record that confirms a report was made, but gives only a short description. The 1999 Bonnybridge “star shaped object” entry is in this category: it is real as a report, but too brief to establish what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Logged but weak:** an official or press record that confirms a report was made, but gives only a short description. The 1999 Bonnybridge “star shaped object” entry is in this category: it is real as a report, but too brief to establish what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 **Folkloric or media-amplified:** stories repeated in tourism, paranormal features or social media without a clear source trail. These may be culturally important, but they should not be treated as strong evidence unless the underlying witness statements and records can be checked.
 
@@ -780,201 +780,201 @@ This approach avoids two common mistakes. It does not dismiss witnesses as disho
 <img src="{{ "/assets/images/Stirlingshire_47078a-Illustration-3-dark.svg" | relative_url }}" alt="Why Did Stirlingshire Become a UFO Hotspot? illustration 3" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Stirlingshire’s place in the wider UK UFO record
 
-Stirlingshire matters because it contains Britain’s most famous localised UFO flap area. Other UK cases may have stronger single-incident evidence: Rendlesham Forest in Suffolk has military witnesses and official memoranda; Calvine in Perthshire has the long-debated photograph; the Cosford incident involved many reports over a wider area and later analysis of a rocket re-entry. The National Archives highlights guide notes, for example, that many sightings in the Cosford wave were eventually attributed to the re-entry of the Russian rocket that launched the Cosmos 2238 satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Stirlingshire matters because it contains Britain’s most famous localised UFO flap area. Other UK cases may have stronger single-incident evidence: Rendlesham Forest in Suffolk has military witnesses and official memoranda; Calvine in Perthshire has the long-debated photograph; the Cosford incident involved many reports over a wider area and later analysis of a rocket re-entry. The National Archives highlights guide notes, for example, that many sightings in the Cosford wave were eventually attributed to the re-entry of the Russian rocket that launched the Cosmos 2238 satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 Bonnybridge is different. Its importance lies less in one decisive document and more in persistence: repeated local claims, official logging, political pressure, media identity and the unresolved feeling that something unusual was being reported again and again. That makes it a landmark in UK UFO culture, even though the evidential record is thinner than its reputation suggests.
 
 For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves its place on the UFO map, but not because the public evidence proves extraordinary craft over Stirlingshire. It deserves attention because it shows how a local skywatching flap is built: through witness testimony, official bureaucracy, local advocacy, press narrative, sceptical explanations and the stubborn residue of cases that are too thin to prove, yet too persistent to ignore.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Stirlingshire Become a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Stirlingshire Become a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines how credible reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how credible reports are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides British context for reported sightings and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides British context for reported sightings and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains historical cases and reporting trends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains historical cases and reporting trends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines how credible reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how credible reports are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-did-stirlingshire-become-a-ufo-why-did-stirlingshire-become-a-ufo-hotspot-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-stirlingshire-become-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -990,7 +990,7 @@ For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1010,7 +1010,7 @@ For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1042,7 +1042,7 @@ For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1094,7 +1094,7 @@ For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1139,7 +1139,7 @@ For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1180,254 +1180,254 @@ For a balanced Stirlingshire page, the conclusion is clear. Bonnybridge deserves
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: content.time.com  
    Title: Bonnybridge, Scotland  
-   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vice.com  
    Title: Watching for Aliens in the UFO Capital of Scotland  
-   Link: <a href="https://www.vice.com/da/article/ufo-watching-in-bonnybridge-scotland-456/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/da/article/ufo-watching-in-bonnybridge-scotland-456/</a>  
+   Link:<a href="https://www.vice.com/da/article/ufo-watching-in-bonnybridge-scotland-456/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/da/article/ufo-watching-in-bonnybridge-scotland-456/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/news/scottish-airspace-modernisation-consultation-launched/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/scottish-airspace-modernisation-consultation-launched/</a>  
+   Link:<a href="https://www.nats.aero/news/scottish-airspace-modernisation-consultation-launched/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/scottish-airspace-modernisation-consultation-launched/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dostoevsky-bts.com  
    Title: Our winner from Bonnybridge- world famous UFO Hotspot  
-   Link: <a href="https://dostoevsky-bts.com/blog/winner-bonnybridge-world-famous-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://dostoevsky-bts.com/blog/winner-bonnybridge-world-famous-ufo-hotspot/</a>  
+   Link:<a href="https://dostoevsky-bts.com/blog/winner-bonnybridge-world-famous-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://dostoevsky-bts.com/blog/winner-bonnybridge-world-famous-ufo-hotspot/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7deb12e5274a2e8ab44aa1/ReqNov2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7deb12e5274a2e8ab44aa1/ReqNov2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7deb12e5274a2e8ab44aa1/ReqNov2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7deb12e5274a2e8ab44aa1/ReqNov2012.csv</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5057/Public%20reports%20pack%20Wednesday%2021-Mar-2012%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5057/Public%20reports%20pack%20Wednesday%2021-Mar-2012%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5057/Public%20reports%20pack%20Wednesday%2021-Mar-2012%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5057/Public%20reports%20pack%20Wednesday%2021-Mar-2012%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6218/Public%20reports%20pack%20Wednesday%2018-Jun-2014%2014.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6218/Public%20reports%20pack%20Wednesday%2018-Jun-2014%2014.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6218/Public%20reports%20pack%20Wednesday%2018-Jun-2014%2014.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6218/Public%20reports%20pack%20Wednesday%2018-Jun-2014%2014.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cne-siar.gov.uk  
-   Link: <a href="https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf</a>  
+   Link:<a href="https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nats.aero  
    Title: final two weeks to share views on airspace change in scotland  
-   Link: <a href="https://www.nats.aero/news/final-two-weeks-to-share-views-on-airspace-change-in-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/final-two-weeks-to-share-views-on-airspace-change-in-scotland/</a>  
+   Link:<a href="https://www.nats.aero/news/final-two-weeks-to-share-views-on-airspace-change-in-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/final-two-weeks-to-share-views-on-airspace-change-in-scotland/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.ukcumbernauld airport limited  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/SC151223/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/SC151223/officers</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/SC151223/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/SC151223/officers</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: highland.gov.uk  
-   Link: <a href="https://www.highland.gov.uk/downloads/file/4130/onshore-wind-energy-consultation-paper-comments" target="_blank" rel="noopener noreferrer nofollow">https://www.highland.gov.uk/downloads/file/4130/onshore-wind-energy-consultation-paper-comments</a>  
+   Link:<a href="https://www.highland.gov.uk/downloads/file/4130/onshore-wind-energy-consultation-paper-comments" target="_blank" rel="noopener noreferrer nofollow">https://www.highland.gov.uk/downloads/file/4130/onshore-wind-energy-consultation-paper-comments</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Stirlingshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Stirlingshire</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: falkirkleisureandculture.org  
    Title: website Stirling County Council  
-   Link: <a href="https://www.falkirkleisureandculture.org/media/2235/stirlingshire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.falkirkleisureandculture.org/media/2235/stirlingshire.pdf</a>  
+   Link:<a href="https://www.falkirkleisureandculture.org/media/2235/stirlingshire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.falkirkleisureandculture.org/media/2235/stirlingshire.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stirlingshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stirlingshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cumbernauldairport.org  
-   Link: <a href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbernauldairport.org/</a>  
+   Link:<a href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbernauldairport.org/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cumbernauldairport.org  
-   Link: <a href="https://www.cumbernauldairport.org/about" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbernauldairport.org/about</a>  
+   Link:<a href="https://www.cumbernauldairport.org/about" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbernauldairport.org/about</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thescottishsun.co.uk  
    Title: The Scottish Sun Calls for UK Government to release Scots X-Files  
-   Link: <a href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/</a>  
+   Link:<a href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Cumbernauld Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Cumbernauld_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cumbernauld_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cumbernauld_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cumbernauld_Airport</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
    Title: Cumbernauld Airport  
-   Link: <a href="https://www.facebook.com/pages/Cumbernauld-Airport/136817959671620" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pages/Cumbernauld-Airport/136817959671620</a>  
+   Link:<a href="https://www.facebook.com/pages/Cumbernauld-Airport/136817959671620" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pages/Cumbernauld-Airport/136817959671620</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: corporate.edinburghairport.com  
-   Link: <a href="https://corporate.edinburghairport.com/airspacechange/about" target="_blank" rel="noopener noreferrer nofollow">https://corporate.edinburghairport.com/airspacechange/about</a>  
+   Link:<a href="https://corporate.edinburghairport.com/airspacechange/about" target="_blank" rel="noopener noreferrer nofollow">https://corporate.edinburghairport.com/airspacechange/about</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: smartppr.co.uk  
-   Link: <a href="https://www.smartppr.co.uk/airfields/cumbernauld-airport-ppr-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.smartppr.co.uk/airfields/cumbernauld-airport-ppr-request/</a>  
+   Link:<a href="https://www.smartppr.co.uk/airfields/cumbernauld-airport-ppr-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.smartppr.co.uk/airfields/cumbernauld-airport-ppr-request/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/sct/ShennanBoundaries/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/ShennanBoundaries/Stirlingshire</a>  
+   Link:<a href="https://www.genuki.org.uk/big/sct/ShennanBoundaries/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/ShennanBoundaries/Stirlingshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: wingly.io  
    Title: Cumbernauld Airport  
-   Link: <a href="https://www.wingly.io/en/airports/egpg/cumbernauld-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.wingly.io/en/airports/egpg/cumbernauld-airport</a>  
+   Link:<a href="https://www.wingly.io/en/airports/egpg/cumbernauld-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.wingly.io/en/airports/egpg/cumbernauld-airport</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: flexwingscotland.co.uk  
-   Link: <a href="https://flexwingscotland.co.uk/cumbernauld-airport-information/" target="_blank" rel="noopener noreferrer nofollow">https://flexwingscotland.co.uk/cumbernauld-airport-information/</a>  
+   Link:<a href="https://flexwingscotland.co.uk/cumbernauld-airport-information/" target="_blank" rel="noopener noreferrer nofollow">https://flexwingscotland.co.uk/cumbernauld-airport-information/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Stirlingshire</a>  
+   Link:<a href="https://www.britannica.com/place/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Stirlingshire</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: thescottishsun.co.uk  
    Title: ufo mystery sightings industrial flaring  
-   Link: <a href="https://www.thescottishsun.co.uk/news/scottish-news/8390217/ufo-mystery-sightings-industrial-flaring/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/scottish-news/8390217/ufo-mystery-sightings-industrial-flaring/</a>  
+   Link:<a href="https://www.thescottishsun.co.uk/news/scottish-news/8390217/ufo-mystery-sightings-industrial-flaring/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/scottish-news/8390217/ufo-mystery-sightings-industrial-flaring/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: parkdeanresorts.co.uk  
    Title: the falkirk triangle  
-   Link: <a href="https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/</a>  
+   Link:<a href="https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Bonnybridge" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Bonnybridge</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Bonnybridge" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Bonnybridge</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/airspace/</a>  
+   Link:<a href="https://www.glasgowairport.com/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/airspace/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/stirlingshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/stirlingshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/stirlingshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/stirlingshire/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10161674174877280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10161674174877280/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10161674174877280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10161674174877280/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: faroutmagazine.co.uk  
-   Link: <a href="https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/</a>  
+   Link:<a href="https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/bonnybridge-how-a-small-scottish-town-became-the-worlds-leading-ufo-hotspot/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: blaze.tv  
-   Link: <a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
+   Link:<a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqQn8tL4P6SXZcbJrMCtXoxN4bz0hdoEbR05pvV8yNbw-6pVoEx" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqQn8tL4P6SXZcbJrMCtXoxN4bz0hdoEbR05pvV8yNbw-6pVoEx</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqQn8tL4P6SXZcbJrMCtXoxN4bz0hdoEbR05pvV8yNbw-6pVoEx" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqQn8tL4P6SXZcbJrMCtXoxN4bz0hdoEbR05pvV8yNbw-6pVoEx</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/</a>  
+   Link:<a href="https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/</a>  
+   Link:<a href="https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.159381&amp;longitude=-4.357233&amp;map_location=FK8+3UZ+FK83UZ+in+Stirling&amp;os_series=1&amp;postcode=FK8+3UZ&amp;pwd=&amp;search_location=FK8+3UZ%2C+FK83UZ+in+Stirling%2C+Stirling%2C+Stirlingshire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.159381&amp;longitude=-4.357233&amp;map_location=FK8+3UZ+FK83UZ+in+Stirling&amp;os_series=1&amp;postcode=FK8+3UZ&amp;pwd=&amp;search_location=FK8+3UZ%2C+FK83UZ+in+Stirling%2C+Stirling%2C+Stirlingshire%2C+Scotland</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.159381&amp;longitude=-4.357233&amp;map_location=FK8+3UZ+FK83UZ+in+Stirling&amp;os_series=1&amp;postcode=FK8+3UZ&amp;pwd=&amp;search_location=FK8+3UZ%2C+FK83UZ+in+Stirling%2C+Stirling%2C+Stirlingshire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.159381&amp;longitude=-4.357233&amp;map_location=FK8+3UZ+FK83UZ+in+Stirling&amp;os_series=1&amp;postcode=FK8+3UZ&amp;pwd=&amp;search_location=FK8+3UZ%2C+FK83UZ+in+Stirling%2C+Stirling%2C+Stirlingshire%2C+Scotland</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  

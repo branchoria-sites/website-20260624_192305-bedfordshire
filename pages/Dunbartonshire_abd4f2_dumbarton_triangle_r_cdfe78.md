@@ -264,7 +264,7 @@ The two clearest modern Dumbarton entries are a 2021 triangular object report an
 
 Dumbarton stands out because Dunbartonshire does not have a large, well-documented UFO case on the scale of better-known Scottish or UK incidents. The county’s record is thinner: scattered reports, occasional local press or database mentions, and sightings shaped by a busy sky near the Clyde, Glasgow Airport traffic, satellites, drones, meteors and ordinary aircraft lights.
 
-The geography matters. This page uses Dunbartonshire in the historic county sense, not simply the present-day West Dunbartonshire council area. Scotland’s People describes Dunbarton county as a west of Scotland county also known as Dunbartonshire, notes boundary changes in 1891, and states that counties as local government areas were abolished in Scotland in 1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span></span></span> The project’s wider county frame also follows historic-county mapping: Wikishire’s map states that it conforms to the Historic Counties Standard and uses border data from the Historic County Borders Project, with OpenStreetMap, Ordnance Survey and National Statistics data also acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+The geography matters. This page uses Dunbartonshire in the historic county sense, not simply the present-day West Dunbartonshire council area. Scotland’s People describes Dunbarton county as a west of Scotland county also known as Dunbartonshire, notes boundary changes in 1891, and states that counties as local government areas were abolished in Scotland in 1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span></span></span> The project’s wider county frame also follows historic-county mapping: Wikishire’s map states that it conforms to the Historic Counties Standard and uses border data from the Historic County Borders Project, with OpenStreetMap, Ordnance Survey and National Statistics data also acknowledged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 That boundary note is not just administrative housekeeping. UFO reports are usually filed by town, modern council area, police area, airport region, or the witness’s own description of place. Dumbarton is therefore a practical anchor: a named town in the historic county where modern sightings can be located more clearly than broader references to “west Scotland” or “near Glasgow”.
 
@@ -272,7 +272,7 @@ That boundary note is not just administrative housekeeping. UFO reports are usua
 <img src="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-1-dark.svg" | relative_url }}" alt="Dumbarton Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2021 triangle report
 
-The 2021 Dumbarton report appears in a Daily Record summary of Scottish UFO reports collated from sources including MUFON, BUFORA, NUFORC and Police Scotland. The article says there were 47 Scottish UFO or UAP reports in 2021, up from 34 in 2020, and lists a Dumbarton case for 30 October at 9.35 pm: “a triangular craft with a light at each corner” that “flew smooth and silent” before disappearing into cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span>
+The 2021 Dumbarton report appears in a Daily Record summary of Scottish UFO reports collated from sources including MUFON, BUFORA, NUFORC and Police Scotland. The article says there were 47 Scottish UFO or UAP reports in 2021, up from 34 in 2020, and lists a Dumbarton case for 30 October at 9.35 pm: “a triangular craft with a light at each corner” that “flew smooth and silent” before disappearing into cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span>
 
 On the surface, this is the kind of description that catches attention. A triangle with a light at each corner sounds structured, deliberate and unlike a single star or meteor. The reported silence also matters because many witnesses regard silence as a sign that the object was not a conventional aircraft.
 
@@ -285,9 +285,9 @@ The most cautious reading is that the witness saw something memorable and interp
 
 ## The 2024 beam-of-light claim
 
-The 2024 NUFORC entry is more detailed in some respects, but still weak as proof. It records an event in Dumbarton on 4 December 2024 at 2.10 am, lasting eight to ten seconds, with one observer. The location is given as the sky next to The Meadow Centre in Dumbarton. NUFORC categorises the shape as “Flash”, with white and red colour, a north-to-south direction, an elevation angle of 90 degrees, and an estimated speed of 500 mph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 2024 NUFORC entry is more detailed in some respects, but still weak as proof. It records an event in Dumbarton on 4 December 2024 at 2.10 am, lasting eight to ten seconds, with one observer. The location is given as the sky next to The Meadow Centre in Dumbarton. NUFORC categorises the shape as “Flash”, with white and red colour, a north-to-south direction, an elevation angle of 90 degrees, and an estimated speed of 500 mph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The witness’s own wording is vivid: a “massive beam of light” moving like a “shooting star or asteroid” over Dumbarton, with red lights that seemed to form a triangle over the white light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That comparison is important. The witness did not simply describe a hovering triangular craft. They first reached for a meteor-like explanation, then added the red triangular lights as the detail that made the sighting feel stranger.
+The witness’s own wording is vivid: a “massive beam of light” moving like a “shooting star or asteroid” over Dumbarton, with red lights that seemed to form a triangle over the white light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That comparison is important. The witness did not simply describe a hovering triangular craft. They first reached for a meteor-like explanation, then added the red triangular lights as the detail that made the sighting feel stranger.
 
 This report is useful because it shows how a UFO claim can sit between categories. The white beam, short duration and shooting-star comparison point towards a fast transient light such as a meteor, re-entry fragment, aircraft light seen briefly through cloud, or another short-lived sky event. The red triangular lights, if accurately seen, complicate that simple explanation. Yet the duration was only eight to ten seconds, there was one observer, and the estimated size and speed were made from the ground without range confirmation. A “house-sized” object one or two miles up is not the same evidential claim as a verified object of that size and distance.
 
@@ -301,7 +301,7 @@ They do not prove that a triangular craft flew over Dumbarton. They do not prove
 
 The pattern that does emerge is more about reporting than about objects. Both sightings rely heavily on light arrangement. Both occur at night. Both use shape language that may describe a physical craft or may describe how lights appeared to connect in the witness’s perception. That distinction is central to triangle reports everywhere: three lights can outline a vehicle, but they can also create the impression of a vehicle.
 
-UK official history supports that cautious approach. The Ministry of Defence closed its UFO desk in 2009 after officials concluded that the work served no defence purpose; National Archives release material says that in more than 50 years no UFO sighting reported to the MoD had revealed evidence of an extraterrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Sky News, reporting on the same file release, quoted the official position that the MoD had no specific capability for identifying such sightings and saw no defence benefit in investigating them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span><span class="citation-popover-snippet">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span></span></span>
+UK official history supports that cautious approach. The Ministry of Defence closed its UFO desk in 2009 after officials concluded that the work served no defence purpose; National Archives release material says that in more than 50 years no UFO sighting reported to the MoD had revealed evidence of an extraterrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Sky News, reporting on the same file release, quoted the official position that the MoD had no specific capability for identifying such sightings and saw no defence benefit in investigating them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span><span class="citation-popover-snippet">News UFO Desk: Why Mo D Shut Real-Life X-Files &#124; UK News &#124; Sky News</span></span></span>
 
 That does not mean every witness was mistaken. It means that the official UK posture has generally been to treat reports as possible air-safety or defence matters only if they contain something operationally significant. Dumbarton’s public reports, as currently available, do not reach that threshold.
 
@@ -309,11 +309,11 @@ That does not mean every witness was mistaken. It means that the official UK pos
 <img src="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-2-dark.svg" | relative_url }}" alt="Dumbarton Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why ordinary sky traffic is a serious alternative
 
-Dumbarton sits in a part of Scotland where unusual-looking lights should not be assessed in isolation. Glasgow Airport’s own airspace consultation material states that aircraft land into the wind and that, across an average year, 74% of aircraft land on Runway 23, arriving from the north-east over areas around Clydebank. It also notes that below 7,000 feet there are no defined routes for arriving aircraft until final approach, because aircraft are vectored by air traffic control and dispersed across the airspace before lining up to land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
+Dumbarton sits in a part of Scotland where unusual-looking lights should not be assessed in isolation. Glasgow Airport’s own airspace consultation material states that aircraft land into the wind and that, across an average year, 74% of aircraft land on Runway 23, arriving from the north-east over areas around Clydebank. It also notes that below 7,000 feet there are no defined routes for arriving aircraft until final approach, because aircraft are vectored by air traffic control and dispersed across the airspace before lining up to land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
 
 That matters for Dumbarton because aviation lights can appear unfamiliar when aircraft are turning, descending, climbing, partly obscured by cloud, or seen head-on. A set of lights can appear fixed, triangular, slow, silent or oddly moving depending on distance, wind, cloud and the observer’s angle. The absence of audible engine noise is not decisive, especially if an aircraft is high, distant, masked by wind or background noise, or moving in a way that makes its motion hard to judge.
 
-Drones add another modern complication. The Civil Aviation Authority explains that night drone flying reduces the ability to judge distance and direction, and UK rules now require a green flashing light for drones operated at night in the Open Category. The CAA says the purpose is to support visibility and help distinguish a drone from manned aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> That guidance is about safe operation, not UFO investigation, but it shows why small illuminated objects at night can be hard for bystanders to interpret.
+Drones add another modern complication. The Civil Aviation Authority explains that night drone flying reduces the ability to judge distance and direction, and UK rules now require a green flashing light for drones operated at night in the Open Category. The CAA says the purpose is to support visibility and help distinguish a drone from manned aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> That guidance is about safe operation, not UFO investigation, but it shows why small illuminated objects at night can be hard for bystanders to interpret.
 
 The 2024 beam report also has a plausible astronomical angle because the witness compared it to a shooting star or asteroid. A meteor can produce a bright streak, appear startlingly low, and vanish quickly. What is less easily explained is the claimed red triangular formation over the white light, but in a very short sighting the brain may combine separate impressions into a single object, especially when the main light is bright and fast.
 
@@ -344,7 +344,7 @@ These gaps are why the reports are best described as preserved claims, not estab
 <img src="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-3-dark.svg" | relative_url }}" alt="Dumbarton Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later reporting affects the case
 
-Later reporting has neither decisively strengthened nor destroyed the Dumbarton triangle story. It has strengthened the archival position: the 2021 sighting is not merely hearsay if it was included in a national summary of collated Scottish UFO reports, and the 2024 event has a direct NUFORC record with time, place and witness description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Later reporting has neither decisively strengthened nor destroyed the Dumbarton triangle story. It has strengthened the archival position: the 2021 sighting is not merely hearsay if it was included in a national summary of collated Scottish UFO reports, and the 2024 event has a direct NUFORC record with time, place and witness description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 But later reporting has not added the kind of evidence that would move the cases into a stronger category. There is no public chain of investigation showing that aircraft, drones, satellites, meteors and local light sources were checked and ruled out. There is no named multi-witness account. There is no known official file treating either event as a defence or aviation concern.
 
@@ -363,194 +363,194 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Dumbarton&#x27;s Triangle Sightings Ever Strong Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Dumbarton&#x27;s Triangle Sightings Ever Strong Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Engages with contemporary UFO discussions and evidence claims, offering context for modern sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Engages with contemporary UFO discussions and evidence claims, offering context for modern sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how to assess UFO reports using witness credibility, documentation, radar data, and corroboration rather than anecdote...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how to assess UFO reports using witness credibility, documentation, radar data, and corroboration rather than anecdote...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for weighing extraordinary claims and evidence, directly applicable to assessing unresolved triangle sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for weighing extraordinary claims and evidence, directly applicable to assessing unresolved triangle sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ufo+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufo+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Experience">Ufo Experience</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ufo+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufo+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Experience">Ufo Experience</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Focuses on classifying and evaluating sighting reports, making it highly relevant to questions about whether local sightings constitute s...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufo+Experience&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classifying and evaluating sighting reports, making it highly relevant to questions about whether local sightings constitute s...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufo+Experience&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="dumbarton-reports-were-dumbarton-s-triangle-sightings-ever-strong-evidence-dunbartonshire-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,208 +756,208 @@ What they prove is not that Dumbarton was visited by an unknown craft. They prov
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184758</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184758</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
    Title: News UFO Desk: Why Mo D Shut Real-Life X-Files | UK News | Sky News  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: 519 new ufo reports posted  
-   Link: <a href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/519-new-ufo-reports-posted/</a>  
+   Link:<a href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/519-new-ufo-reports-posted/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=180130" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=180130</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=180130" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=180130</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=63596" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63596</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=63596" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63596</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193933" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193933</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193933" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193933</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: 2025 best ufos  
-   Link: <a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
+   Link:<a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scotlandspeople.gov.uk  
    Title: Scotland's People Dunbarton county | Scotland's People  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/dunbarton-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/dunbarton-county</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dailyrecord.co.uk  
    Title: nearly 50 scottish ufo reports 26105801  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: glasgowairport.consultationonline.co.uk  
    Title: Glasgow Airport Current arrival routes  
-   Link: <a href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/</a>  
+   Link:<a href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: glasgowairport.consultationonline.co.uk  
    Title: Glasgow Airport Consultation Display Materials Compressed  
-   Link: <a href="https://glasgowairport.consultationonline.co.uk/wp-content/uploads/sites/561/2025/10/Glasgow-Airport-Consultation-Display-Materials-Compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/wp-content/uploads/sites/561/2025/10/Glasgow-Airport-Consultation-Display-Materials-Compressed.pdf</a>  
+   Link:<a href="https://glasgowairport.consultationonline.co.uk/wp-content/uploads/sites/561/2025/10/Glasgow-Airport-Consultation-Display-Materials-Compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/wp-content/uploads/sites/561/2025/10/Glasgow-Airport-Consultation-Display-Materials-Compressed.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: glasgowairport.consultationonline.co.uk  
    Title: nsultationonline.co.uk Home  
-   Link: <a href="https://glasgowairport.consultationonline.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/</a>  
+   Link:<a href="https://glasgowairport.consultationonline.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Dunbartonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dunbartonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dunbartonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dunbartonshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/lighting-and-marking-of-obstacles/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: glasgowairport.com  
    Title: ANNE X B  
-   Link: <a href="https://www.glasgowairport.com/media/2257/17472-ga-airspace-annex-b-web-5218.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/media/2257/17472-ga-airspace-annex-b-web-5218.pdf</a>  
+   Link:<a href="https://www.glasgowairport.com/media/2257/17472-ga-airspace-annex-b-web-5218.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/media/2257/17472-ga-airspace-annex-b-web-5218.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/airspace/</a>  
+   Link:<a href="https://www.glasgowairport.com/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/airspace/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150325 FOI2897  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/?locale=en_GB</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dennistouncc.org.uk  
    Title: Glasgow Airport Airspace Consultation Document  
-   Link: <a href="https://dennistouncc.org.uk/wp-content/uploads/2018/01/Glasgow-Airport-Airspace-Consultation-Document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dennistouncc.org.uk/wp-content/uploads/2018/01/Glasgow-Airport-Airspace-Consultation-Document.pdf</a>  
+   Link:<a href="https://dennistouncc.org.uk/wp-content/uploads/2018/01/Glasgow-Airport-Airspace-Consultation-Document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dennistouncc.org.uk/wp-content/uploads/2018/01/Glasgow-Airport-Airspace-Consultation-Document.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/dunbartonshire.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/dunbartonshire.htm</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/dunbartonshire.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/dunbartonshire.htm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/</a>  
+   Link:<a href="https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/glasgow/comments/1d2gi2w/glasgow_airport_flightpaths/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Truth Behind Scottish UFO's | The World's Strangest UFO Stories  
-   Link: <a href="https://www.youtube.com/watch?v=Q4mnHuZ2_00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q4mnHuZ2_00</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3,000 UFO Reports &amp; No Official Answers in The Falkirk Triangle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q4mnHuZ2_00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q4mnHuZ2_00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3,000 UFO Reports &amp; No Official Answers in The Falkirk Triangle...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind Scottish UFO&#x27;s | The World&#x27;s Strangest UFO Stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind Scottish UFO&#x27;s | The World&#x27;s Strangest UFO Stories...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: 3,000 UFO Reports & No Official Answers in The Falkirk Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/</a>  
+   Link:<a href="https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2025/11/12/a-comprehensive-analysis-of-uk-unidentified-aerial-phenomena-reports-1997-2009/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/12/a-comprehensive-analysis-of-uk-unidentified-aerial-phenomena-reports-1997-2009/</a>  
+   Link:<a href="https://newspaceeconomy.ca/2025/11/12/a-comprehensive-analysis-of-uk-unidentified-aerial-phenomena-reports-1997-2009/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/12/a-comprehensive-analysis-of-uk-unidentified-aerial-phenomena-reports-1997-2009/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: harpers.org  
-   Link: <a href="https://harpers.org/archive/2012/10/bore-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://harpers.org/archive/2012/10/bore-of-the-worlds/</a>  
+   Link:<a href="https://harpers.org/archive/2012/10/bore-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://harpers.org/archive/2012/10/bore-of-the-worlds/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25296971623318373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25296971623318373/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25296971623318373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25296971623318373/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  

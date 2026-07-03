@@ -247,7 +247,7 @@ image: /assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-overview-social.j
 
 ## Introduction
 
-In September 1967, [Berkshire]({{ 'what-really-happened-in-berkshires-ufo/' | relative_url }}) briefly became part of one of Britain’s best-documented UFO pranks. Two fake “flying saucers” were planted in the historic county, one at Welford near Newbury and another at Winkfield near Ascot, as part of a wider line of six objects placed across southern England. The objects were not unexplained craft: they were fibreglass hoax devices made by aircraft engineering apprentices connected with the Royal Aircraft Establishment at Farnborough and Farnborough Technical College for Rag Week publicity. What makes the Berkshire episode worth remembering is the response. Police, military personnel, bomb-disposal teams, RAF helicopters and Ministry of Defence officials treated the objects seriously until the hoax was exposed the same day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+In September 1967, [Berkshire]({{ 'what-really-happened-in-berkshires-ufo/' | relative_url }}) briefly became part of one of Britain’s best-documented UFO pranks. Two fake “flying saucers” were planted in the historic county, one at Welford near Newbury and another at Winkfield near Ascot, as part of a wider line of six objects placed across southern England. The objects were not unexplained craft: they were fibreglass hoax devices made by aircraft engineering apprentices connected with the Royal Aircraft Establishment at Farnborough and Farnborough Technical College for Rag Week publicity. What makes the Berkshire episode worth remembering is the response. Police, military personnel, bomb-disposal teams, RAF helicopters and Ministry of Defence officials treated the objects seriously until the hoax was exposed the same day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-overview.webp" | relative_url }}" alt="Overview image for 1967 Hoax" loading="eager" decoding="sync" fetchpriority="high">
@@ -255,13 +255,13 @@ For Berkshire UFO history, the case is a useful warning against simple storytell
 
 ## What appeared at Welford and Winkfield
 
-The Berkshire part of the hoax involved two sites separated within the county’s wider southern-England line of planted saucers. The Welford object was found by postal worker Eva Rood while she was on her delivery round. According to later reporting drawing on contemporary accounts, police took the object to the station, Ministry of Defence officials were called, and United States Air Force military police from a nearby base arrived to photograph it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
+The Berkshire part of the hoax involved two sites separated within the county’s wider southern-England line of planted saucers. The Welford object was found by postal worker Eva Rood while she was on her delivery round. According to later reporting drawing on contemporary accounts, police took the object to the station, Ministry of Defence officials were called, and United States Air Force military police from a nearby base arrived to photograph it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
 
-The Winkfield object was found near Ascot, close to NASA’s UK satellite tracking presence. That location mattered because it gave the prank an extra layer of plausibility: a strange silver object near a space-tracking facility looked more suggestive than the same object would have looked in an ordinary back garden. One station engineer, Roger Kenyon, reportedly tested the object cautiously by throwing pennies at it to see whether it would explode before it was handed over to police. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
+The Winkfield object was found near Ascot, close to NASA’s UK satellite tracking presence. That location mattered because it gave the prank an extra layer of plausibility: a strange silver object near a space-tracking facility looked more suggestive than the same object would have looked in an ordinary back garden. One station engineer, Roger Kenyon, reportedly tested the object cautiously by throwing pennies at it to see whether it would explode before it was handed over to police.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
 
-The objects themselves were designed to look convincing at first glance. The saucers were silver, domed and roughly the size of a small industrial object rather than a full-scale aircraft. Later accounts describe them as fibreglass constructions made from moulded halves, coated to resemble dull aluminium, with a battery-powered sound device and a foul-smelling flour-and-water mixture inside. The effect was theatrical but practical: a smooth metallic-looking shell, an eerie noise, weight, smell and the possibility that careless handling might reveal an unpleasant “alien” interior. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
+The objects themselves were designed to look convincing at first glance. The saucers were silver, domed and roughly the size of a small industrial object rather than a full-scale aircraft. Later accounts describe them as fibreglass constructions made from moulded halves, coated to resemble dull aluminium, with a battery-powered sound device and a foul-smelling flour-and-water mixture inside. The effect was theatrical but practical: a smooth metallic-looking shell, an eerie noise, weight, smell and the possibility that careless handling might reveal an unpleasant “alien” interior.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
 
-The Berkshire discoveries were not isolated. Six objects appeared on the same morning along a broadly straight line from the Bristol Channel side of southern England towards the Thames Estuary. The known sites included Clevedon in Somerset, Chippenham in Wiltshire, Welford and Winkfield in Berkshire, Bromley in south London, and Sheppey in Kent. That geometry was part of the trick: the objects were arranged to look like a pattern rather than a random prank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Berkshire discoveries were not isolated. Six objects appeared on the same morning along a broadly straight line from the Bristol Channel side of southern England towards the Thames Estuary. The known sites included Clevedon in Somerset, Chippenham in Wiltshire, Welford and Winkfield in Berkshire, Bromley in south London, and Sheppey in Kent. That geometry was part of the trick: the objects were arranged to look like a pattern rather than a random prank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-Illustration-1-dark.svg" | relative_url }}" alt="1967 Hoax illustration 1" data-theme-src-dark="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -269,13 +269,13 @@ The Berkshire discoveries were not isolated. Six objects appeared on the same mo
 
 The alarm was not irrational in the narrow sense that officials had to deal with unknown objects in public places. In 1967, an unexplained metal-looking device could mean a hoax, a dangerous package, military debris, a downed instrument, a Soviet-related object, a scientific payload or something else requiring caution. The police and military could not simply assume it was harmless because it looked absurd.
 
-The official response grew quickly. The Guardian’s account of the released Ministry of Defence papers states that the army’s southern command, four police forces, bomb-disposal units, RAF helicopters and the MoD’s intelligence branch were mobilised after reports came in from the public and police. One object was sent to Home Office scientists at Aldermaston, another was inspected by the guided-weapons division of the British Aircraft Corporation, and the Chippenham saucer in Wiltshire was destroyed in a controlled explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The official response grew quickly. The Guardian’s account of the released Ministry of Defence papers states that the army’s southern command, four police forces, bomb-disposal units, RAF helicopters and the MoD’s intelligence branch were mobilised after reports came in from the public and police. One object was sent to Home Office scientists at Aldermaston, another was inspected by the guided-weapons division of the British Aircraft Corporation, and the Chippenham saucer in Wiltshire was destroyed in a controlled explosion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-Berkshire’s role in that response was especially revealing because of the local defence and space-age geography. Welford sat close enough to a United States Air Force presence for military police to become involved, while Winkfield’s proximity to satellite tracking made the “saucer” feel less like a village joke and more like something that might have a technical or security dimension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
+Berkshire’s role in that response was especially revealing because of the local defence and space-age geography. Welford sat close enough to a United States Air Force presence for military police to become involved, while Winkfield’s proximity to satellite tracking made the “saucer” feel less like a village joke and more like something that might have a technical or security dimension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
 
-The hoax was uncovered not by a dramatic scientific breakthrough but by ordinary clues. At Bromley police station, a Scotland Yard bomb-disposal squad arrived with portable X-ray equipment, but the presence of Ever Ready batteries helped reveal the mundane construction of the device. That detail is important because it shows how official caution and practical inspection worked together: the response was serious, but the explanation was not hidden once the objects were examined properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The hoax was uncovered not by a dramatic scientific breakthrough but by ordinary clues. At Bromley police station, a Scotland Yard bomb-disposal squad arrived with portable X-ray equipment, but the presence of Ever Ready batteries helped reveal the mundane construction of the device. That detail is important because it shows how official caution and practical inspection worked together: the response was serious, but the explanation was not hidden once the objects were examined properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The Ministry of Defence later treated the episode as an embarrassingly effective practical joke. The released papers described the “1967 flying saucer hoax” as an “obviously very successful practical joke”, but they also show why officials cared about how much detail emerged publicly. A retired RAF intelligence officer who had dealt with UFO sightings and had attended the Bromley investigation later sought clearance to talk about the case; internal concern centred less on proving aliens than on avoiding disclosure of sensitive procedures and previous UFO-related work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Ministry of Defence later treated the episode as an embarrassingly effective practical joke. The released papers described the “1967 flying saucer hoax” as an “obviously very successful practical joke”, but they also show why officials cared about how much detail emerged publicly. A retired RAF intelligence officer who had dealt with UFO sightings and had attended the Bromley investigation later sought clearance to talk about the case; internal concern centred less on proving aliens than on avoiding disclosure of sensitive procedures and previous UFO-related work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-Illustration-2-dark.svg" | relative_url }}" alt="1967 Hoax illustration 2" data-theme-src-dark="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berkshire_fa6d4a_1967_saucer_hoax_d15ffb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -285,15 +285,15 @@ The Berkshire saucers worked because they combined several features that often m
 
 The pranksters also understood official caution. A device that might be a bomb, a military instrument or an unknown payload has to be handled carefully even if it later proves silly. The same feature that made the stunt funny in retrospect made it serious in the moment: nobody at Welford or Winkfield could know at first inspection whether the object was safe. That is why the cautious response of police, technical staff and military personnel should not be dismissed simply as gullibility.
 
-The timing also helped. British official interest in UFOs had already gone through cycles by the 1960s. The National Archives briefing on UFO records notes that official British interest began in earnest in 1950, that the 1951 Flying Saucer Working Party concluded sightings could be explained by misidentifications, illusions, psychological causes or hoaxes, and that the report recommended no further investigation unless “material evidence” appeared. A landed physical object was exactly the sort of thing that could not be ignored at the scene, even by an institution inclined to scepticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The timing also helped. British official interest in UFOs had already gone through cycles by the 1960s. The National Archives briefing on UFO records notes that official British interest began in earnest in 1950, that the 1951 Flying Saucer Working Party concluded sightings could be explained by misidentifications, illusions, psychological causes or hoaxes, and that the report recommended no further investigation unless “material evidence” appeared. A landed physical object was exactly the sort of thing that could not be ignored at the scene, even by an institution inclined to scepticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The hoaxers had technical credibility too. They were not children throwing hubcaps into fields; they were aircraft engineering apprentices and students connected with Farnborough, a major aviation research environment. Work reportedly began months before the stunt, with moulds, fibreglass shells, metallic coatings, sound devices and planned locations. That preparation explains why the saucers looked good enough to produce a real response before their construction was identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
+The hoaxers had technical credibility too. They were not children throwing hubcaps into fields; they were aircraft engineering apprentices and students connected with Farnborough, a major aviation research environment. Work reportedly began months before the stunt, with moulds, fibreglass shells, metallic coatings, sound devices and planned locations. That preparation explains why the saucers looked good enough to produce a real response before their construction was identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
 
 ## What the evidence proves and what it does not
 
-The strongest evidence in this case supports the hoax explanation. The objects were recovered, inspected and traced to the Farnborough Rag Week stunt. The perpetrators revealed the prank on the same day, and later reporting has added named witnesses, institutional context and accounts from those involved. This is not a case where sceptics proposed a possible hoax decades later to explain an ambiguous sighting; it was exposed almost immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The strongest evidence in this case supports the hoax explanation. The objects were recovered, inspected and traced to the Farnborough Rag Week stunt. The perpetrators revealed the prank on the same day, and later reporting has added named witnesses, institutional context and accounts from those involved. This is not a case where sceptics proposed a possible hoax decades later to explain an ambiguous sighting; it was exposed almost immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-There are still small uncertainties around the edges, but they do not revive the Berkshire saucers as unexplained objects. Later accounts mention other reports made on or around the same day, including claims by people who believed they saw something in the sky rather than merely finding a planted object. Those reports are interesting as examples of how a hoax can stimulate or frame other observations, but they do not change the status of the Welford and Winkfield devices themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
+There are still small uncertainties around the edges, but they do not revive the Berkshire saucers as unexplained objects. Later accounts mention other reports made on or around the same day, including claims by people who believed they saw something in the sky rather than merely finding a planted object. Those reports are interesting as examples of how a hoax can stimulate or frame other observations, but they do not change the status of the Welford and Winkfield devices themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Open source on smithsonianmag.com.</span></span></span>
 
 The most sensible classification is therefore clear: the 1967 Berkshire saucers were a confirmed hoax that generated a genuine official response. That combination is what gives the incident its historical value. It is not evidence of alien visitation, but it is evidence of how a persuasive UFO-like event could move through police, military and media systems in late-1960s Britain.
 
@@ -312,194 +312,194 @@ The incident also belongs specifically to Berkshire rather than just to a nation
 Finally, the hoax remains a compact lesson in public alarm. A few convincing objects, spread across several counties, briefly created the appearance of a coordinated “landing”. The authorities responded because they had to; the press amplified the drama because the imagery was irresistible; and the public remembered the story because it looked like science fiction had landed in ordinary English fields. For Berkshire, the lasting point is not that officials were foolish, but that UFO history often turns on the gap between first response and final explanation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Berkshire Saucer Hoax Fooled Officials. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Berkshire Saucer Hoax Fooled Officials. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly covers British UFO history, official responses, and the culture that made incidents like the 1967 saucer hoax plausible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers British UFO history, official responses, and the culture that made incidents like the 1967 saucer hoax plausible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for how military and official bodies evaluated UFO reports, echoing the response seen in the Berkshire hoax.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how military and official bodies evaluated UFO reports, echoing the response seen in the Berkshire hoax.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Examines the development of flying-saucer beliefs and hoaxes, making it highly relevant to a celebrated British UFO prank.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the development of flying-saucer beliefs and hoaxes, making it highly relevant to a celebrated British UFO prank.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Helps explain the flying-saucer era mindset that allowed planted objects to generate serious official concern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain the flying-saucer era mindset that allowed planted objects to generate serious official concern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift"><img src="{{ '/assets/images/marketplace-covers/0077cf775cd1852f7313.jpg' | relative_url }}" alt="Listing image for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift"><img src="{{ '/assets/images/marketplace-covers/0077cf775cd1852f7313.jpg' | relative_url }}" alt="Listing image for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="1967-hoax-how-a-berkshire-saucer-hoax-fooled-officials-berkshire-ufo-collectible-book-books-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ Finally, the hoax remains a compact lesson in public alarm. A few convincing obj
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ Finally, the hoax remains a compact lesson in public alarm. A few convincing obj
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ Finally, the hoax remains a compact lesson in public alarm. A few convincing obj
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ Finally, the hoax remains a compact lesson in public alarm. A few convincing obj
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ Finally, the hoax remains a compact lesson in public alarm. A few convincing obj
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,79 +705,79 @@ Finally, the hoax remains a compact lesson in public alarm. A few convincing obj
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdscc.nasa.gov  
    Title: other history  
-   Link: <a href="https://www.cdscc.nasa.gov/Pages/other_history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdscc.nasa.gov/Pages/other_history.html</a>  
+   Link:<a href="https://www.cdscc.nasa.gov/Pages/other_history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdscc.nasa.gov/Pages/other_history.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19720012595/downloads/19720012595.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19720012595/downloads/19720012595.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19720012595/downloads/19720012595.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19720012595/downloads/19720012595.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry</a>  
+   Link:<a href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/</a>  
+   Link:<a href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: museum.qld.gov.au  
    Title: Cooby Creek Tracking Station model  
-   Link: <a href="https://www.museum.qld.gov.au/learn-and-discover/queensland-stories/cooby-creek-tracking-station-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.museum.qld.gov.au/learn-and-discover/queensland-stories/cooby-creek-tracking-station-model/</a>  
+   Link:<a href="https://www.museum.qld.gov.au/learn-and-discover/queensland-stories/cooby-creek-tracking-station-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.museum.qld.gov.au/learn-and-discover/queensland-stories/cooby-creek-tracking-station-model/</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/779220482206901/posts/8085631941565682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/779220482206901/posts/8085631941565682/</a>  
+   Link:<a href="https://www.facebook.com/groups/779220482206901/posts/8085631941565682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/779220482206901/posts/8085631941565682/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: studylib.net  
-   Link: <a href="https://studylib.net/doc/26160565/ada084225" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/26160565/ada084225</a>  
+   Link:<a href="https://studylib.net/doc/26160565/ada084225" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/26160565/ada084225</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: worldradiohistory.com  
-   Link: <a href="https://www.worldradiohistory.com/Archive-Electronics-World/60s/1964/Electronics-World-1964-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-Electronics-World/60s/1964/Electronics-World-1964-06.pdf</a>  
+   Link:<a href="https://www.worldradiohistory.com/Archive-Electronics-World/60s/1964/Electronics-World-1964-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-Electronics-World/60s/1964/Electronics-World-1964-06.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/syladg/posts/7888983197820391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/syladg/posts/7888983197820391/</a>  
+   Link:<a href="https://www.facebook.com/groups/syladg/posts/7888983197820391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/syladg/posts/7888983197820391/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/505496528355706/posts/1022282483343772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/505496528355706/posts/1022282483343772/</a>  
+   Link:<a href="https://www.facebook.com/groups/505496528355706/posts/1022282483343772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/505496528355706/posts/1022282483343772/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: collectspace.com  
-   Link: <a href="https://www.collectspace.com/ubb/Forum20/HTML/001989.html" target="_blank" rel="noopener noreferrer nofollow">https://www.collectspace.com/ubb/Forum20/HTML/001989.html</a>  
+   Link:<a href="https://www.collectspace.com/ubb/Forum20/HTML/001989.html" target="_blank" rel="noopener noreferrer nofollow">https://www.collectspace.com/ubb/Forum20/HTML/001989.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/a-unified-set-of-tracking-station-coordinates-derived-from-5gdvgom0jr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/a-unified-set-of-tracking-station-coordinates-derived-from-5gdvgom0jr.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/a-unified-set-of-tracking-station-coordinates-derived-from-5gdvgom0jr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/a-unified-set-of-tracking-station-coordinates-derived-from-5gdvgom0jr.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovered.ed.ac.uk  
-   Link: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
+   Link:<a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: svn.greenstone.org  
-   Link: <a href="https://svn.greenstone.org/flax/trunk/flaxmain/web/WEB-INF/classes/flax/opennlp/models/parser/tagdict" target="_blank" rel="noopener noreferrer nofollow">https://svn.greenstone.org/flax/trunk/flaxmain/web/WEB-INF/classes/flax/opennlp/models/parser/tagdict</a>  
+   Link:<a href="https://svn.greenstone.org/flax/trunk/flaxmain/web/WEB-INF/classes/flax/opennlp/models/parser/tagdict" target="_blank" rel="noopener noreferrer nofollow">https://svn.greenstone.org/flax/trunk/flaxmain/web/WEB-INF/classes/flax/opennlp/models/parser/tagdict</a>  

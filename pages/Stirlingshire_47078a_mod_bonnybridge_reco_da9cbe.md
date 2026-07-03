@@ -254,19 +254,19 @@ image: /assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-overview-
 
 ## Introduction
 
-The [Bonnybridge]({{ 'bonnybridge-35279a/' | relative_url }}) UFO files show something more modest, and more useful, than the legend often suggests: official UK records confirm that reports from Bonnybridge and nearby Falkirk entered Ministry of Defence reporting streams, but the surviving entries are usually too brief to identify what was seen. In the historic-county frame used here, Bonnybridge belongs to [Stirlingshire]({{ 'why-did-stirlingshire-become-a-ufo/' | relative_url }}), although it is now within Falkirk Council, which matters because many modern accounts describe the same area as “Falkirk” or the “Falkirk Triangle” rather than Stirlingshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The [Bonnybridge]({{ 'bonnybridge-35279a/' | relative_url }}) UFO files show something more modest, and more useful, than the legend often suggests: official UK records confirm that reports from Bonnybridge and nearby Falkirk entered Ministry of Defence reporting streams, but the surviving entries are usually too brief to identify what was seen. In the historic-county frame used here, Bonnybridge belongs to [Stirlingshire]({{ 'why-did-stirlingshire-become-a-ufo/' | relative_url }}), although it is now within Falkirk Council, which matters because many modern accounts describe the same area as “Falkirk” or the “Falkirk Triangle” rather than Stirlingshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-overview.webp" | relative_url }}" alt="Overview image for Mo D Files" loading="eager" decoding="sync" fetchpriority="high">
-The key point is not that the MoD “solved” Bonnybridge. It generally did not. The records give the area a firmer paper trail than folklore alone, especially through the public UFO report lists for 1997 to 2009 and earlier National Archives files. But they also show why an official log entry should not be mistaken for official confirmation. The MoD’s own public description of the annual files says they record dates, times, locations and short descriptions, not full investigations with radar, weather, aircraft checks and witness interviews attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The key point is not that the MoD “solved” Bonnybridge. It generally did not. The records give the area a firmer paper trail than folklore alone, especially through the public UFO report lists for 1997 to 2009 and earlier National Archives files. But they also show why an official log entry should not be mistaken for official confirmation. The MoD’s own public description of the annual files says they record dates, times, locations and short descriptions, not full investigations with radar, weather, aircraft checks and witness interviews attached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 ## How the MoD sighting logs worked
 
-The Ministry of Defence’s late-period UFO reports were essentially a receipt system: if a sighting was reported, it could be logged with a date, time, place, county, sometimes the reporter’s occupation, and a short description of the object or lights. That makes the lists valuable for mapping patterns, but weak for proving individual cases. GOV.UK describes the collection as UK UFO reports from 1997 to 2009, “showing dates and times, location and a brief description of the sighting”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence’s late-period UFO reports were essentially a receipt system: if a sighting was reported, it could be logged with a date, time, place, county, sometimes the reporter’s occupation, and a short description of the object or lights. That makes the lists valuable for mapping patterns, but weak for proving individual cases. GOV.UK describes the collection as UK UFO reports from 1997 to 2009, “showing dates and times, location and a brief description of the sighting”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 That format shapes how Bonnybridge should be read. A log entry can confirm that a report existed and reached the official system. It cannot, by itself, tell us whether the object was an aircraft, a planet, a lantern, a flare, a reflection, a hoax, an unusual atmospheric effect, or something genuinely unidentified after proper checks. Most entries lack the details a serious investigator would want: direction of travel, elevation, duration, weather, exact viewing position, number of witnesses, nearby aircraft movements, astronomical conditions, photographs, video metadata, and whether any radar return existed.
 
-The wider National Archives guidance is consistent with this cautious reading. It notes that the MoD kept UFO records for decades and that many reports described shapes, lights and flashes, often explicable but sometimes more unusual. It also records that older material was not always preserved: before the late 1960s, many UFO files were destroyed after five years, with later survival improving as public interest grew. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+The wider National Archives guidance is consistent with this cautious reading. It notes that the MoD kept UFO records for decades and that many reports described shapes, lights and flashes, often explicable but sometimes more unusual. It also records that older material was not always preserved: before the late 1960s, many UFO files were destroyed after five years, with later survival improving as public interest grew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 For Bonnybridge, this means the files are best treated as a dataset of reported experiences rather than a solved casebook. They support the claim that the area produced reports serious or persistent enough to enter official channels. They do not support the stronger claim that the MoD verified unknown craft over Stirlingshire.
 
@@ -274,13 +274,13 @@ For Bonnybridge, this means the files are best treated as a dataset of reported 
 <img src="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Files illustration 1" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Key Bonnybridge entries from 1999 and 2003
 
-The most direct late-period Bonnybridge entry appears in the MoD’s 1999 report list. On 29 May 1999 at 22:30, the town is recorded as Bonnybridge, county Stirlingshire. The description is brief: a very large, bright, star-shaped object, low in the sky and hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The most direct late-period Bonnybridge entry appears in the MoD’s 1999 report list. On 29 May 1999 at 22:30, the town is recorded as Bonnybridge, county Stirlingshire. The description is brief: a very large, bright, star-shaped object, low in the sky and hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That short line is important because it places Bonnybridge inside an official MoD dataset, not merely in press retellings. It is also frustrating because almost everything needed to test the report is missing. We do not know the witness’s exact location, viewing direction, duration, angular size, weather conditions, or whether the object later moved, dimmed, split, or disappeared. A bright object low in the sky could invite several conventional checks, including aircraft lights, a planet seen through atmospheric shimmer, local lighting, advertising or searchlight effects, or a misread distant object. The entry gives no basis for choosing confidently among those possibilities.
 
-The same 1999 file also contains two nearby Stirlingshire entries for Falkirk. On 5 March 1999 at 22:30, the log records “one dozen objects” in red, green, blue and white, stationary and revolving. On 24 March 1999 at 21:25, it records a large glowing object, brighter and bigger than a star, with an apparent line through it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> These Falkirk entries sit within the same Stirlingshire UFO geography as Bonnybridge, but they should not be merged into one incident. They show a local cluster in the official list, not a single corroborated event.
+The same 1999 file also contains two nearby Stirlingshire entries for Falkirk. On 5 March 1999 at 22:30, the log records “one dozen objects” in red, green, blue and white, stationary and revolving. On 24 March 1999 at 21:25, it records a large glowing object, brighter and bigger than a star, with an apparent line through it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> These Falkirk entries sit within the same Stirlingshire UFO geography as Bonnybridge, but they should not be merged into one incident. They show a local cluster in the official list, not a single corroborated event.
 
-A later Bonnybridge entry appears in the 2003 MoD report list. On 17 August 2003 at 23:45, the town is listed as Bonnybridge and the county as “Central”, with the description reduced to the bare phrase “Just said a sighting.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That entry is revealing precisely because it is so thin. It shows that Bonnybridge was still entering official records more than a decade after the early 1990s publicity, but it contributes almost no evidence about the nature of the report.
+A later Bonnybridge entry appears in the 2003 MoD report list. On 17 August 2003 at 23:45, the town is listed as Bonnybridge and the county as “Central”, with the description reduced to the bare phrase “Just said a sighting.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That entry is revealing precisely because it is so thin. It shows that Bonnybridge was still entering official records more than a decade after the early 1990s publicity, but it contributes almost no evidence about the nature of the report.
 
 The contrast between 1999 and 2003 is useful. The 1999 entry at least gives a shape, brightness, height impression and behaviour. The 2003 entry barely says anything happened beyond a report being made. Both are unresolved in the ordinary sense that no identification appears in the public log. But they are not equal evidentially: one is a minimal descriptive claim, the other is little more than an index mark.
 
@@ -289,11 +289,11 @@ The contrast between 1999 and 2003 is useful. The 1999 entry at least gives a sh
 
 ## Why the files strengthened the paper trail, not the claim
 
-Bonnybridge’s public reputation was already established before the 1999 and 2003 annual logs. National Archives release material describes Bonnybridge, near Stirling, as being featured in the national press in 1994–95 as Britain’s UFO hotspot, and notes that a local councillor wrote to Prime Minister John Major asking for an inquiry and tried to twin the town with Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span> Later reporting on the released files also highlighted the request for an inquiry into hundreds of alleged Bonnybridge sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Revealed: eerie UFO sightings recorded in Mo D files</span><span class="citation-popover-snippet">The Independent Revealed: eerie UFO sightings recorded in Mo D files</span></span></span>
+Bonnybridge’s public reputation was already established before the 1999 and 2003 annual logs. National Archives release material describes Bonnybridge, near Stirling, as being featured in the national press in 1994–95 as Britain’s UFO hotspot, and notes that a local councillor wrote to Prime Minister John Major asking for an inquiry and tried to twin the town with Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span> Later reporting on the released files also highlighted the request for an inquiry into hundreds of alleged Bonnybridge sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Revealed: eerie UFO sightings recorded in Mo D files</span><span class="citation-popover-snippet">The Independent Revealed: eerie UFO sightings recorded in Mo D files</span></span></span>
 
 That official and media trail matters because it separates Bonnybridge from purely oral folklore. The story was not just repeated by enthusiasts; it reached local politicians, newspapers, the MoD and the National Archives release process. But the same sources also show why caution is necessary. A request for an inquiry is evidence of public and political pressure. It is not evidence that the reported objects were extraordinary.
 
-The MoD’s standard policy position was narrower than many readers assume. In 2003 correspondence preserved in released files, the department explained that it examined UFO reports only to establish whether there was evidence of defence significance, meaning possible hostile or unauthorised activity in UK airspace. Unless there was evidence of a potential threat, it did not attempt to identify the precise nature of every sighting and did not see itself as an aerial identification service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The MoD’s standard policy position was narrower than many readers assume. In 2003 correspondence preserved in released files, the department explained that it examined UFO reports only to establish whether there was evidence of defence significance, meaning possible hostile or unauthorised activity in UK airspace. Unless there was evidence of a potential threat, it did not attempt to identify the precise nature of every sighting and did not see itself as an aerial identification service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 That policy helps explain why many Bonnybridge reports remained unresolved in public records. “Unresolved” often means “not identified from the surviving information”, not “investigated and found inexplicable”. The MoD was not set up to provide a full civilian explanation for every light in the sky. If a report did not suggest a threat to UK airspace, it might be recorded without the deeper checks that would be needed to settle it.
 
@@ -301,7 +301,7 @@ That policy helps explain why many Bonnybridge reports remained unresolved in pu
 <img src="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Files illustration 2" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1994 video shows the limit of technical handling
 
-One of the more concrete Bonnybridge-related MoD items is a 1994 VHS recording sent for expert assessment. A National Archives transcript by Dr David Clarke states that footage of a strange object in the sky near Bonnybridge in January 1994 was sent to experts at RAF Brampton. Their conclusion was deliberately cautious: they could not determine whether the object was real or a hoax, and it might have been produced using a kite or video studio effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+One of the more concrete Bonnybridge-related MoD items is a 1994 VHS recording sent for expert assessment. A National Archives transcript by Dr David Clarke states that footage of a strange object in the sky near Bonnybridge in January 1994 was sent to experts at RAF Brampton. Their conclusion was deliberately cautious: they could not determine whether the object was real or a hoax, and it might have been produced using a kite or video studio effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This example is useful because it sits between two extremes. It was not ignored as pub gossip; it was passed to technical people. But neither did the analysis validate the extraordinary interpretation. The result was a classic unresolved outcome: the footage could not be confidently authenticated, but it also was not publicly reduced to a single mundane explanation.
 
@@ -316,13 +316,13 @@ An official MoD entry can make a sighting more historically traceable, but it do
 
 Three distinctions are especially important:
 
-**Reported is not verified.** The 1999 Bonnybridge entry records what was reported: a very large, bright, star-shaped object low in the sky and hovering. It does not say the MoD confirmed the object’s size, height, distance, shape or motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Reported is not verified.** The 1999 Bonnybridge entry records what was reported: a very large, bright, star-shaped object low in the sky and hovering. It does not say the MoD confirmed the object’s size, height, distance, shape or motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Unidentified is not unexplained after investigation.** The 2003 Bonnybridge entry is unresolved because it says almost nothing beyond the existence of a sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> A thin report may remain unidentified simply because there is not enough information to work with.
+**Unidentified is not unexplained after investigation.** The 2003 Bonnybridge entry is unresolved because it says almost nothing beyond the existence of a sighting report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> A thin report may remain unidentified simply because there is not enough information to work with.
 
-**Defence significance was the MoD’s main test.** The MoD’s stated role was to consider whether reports suggested hostile or unauthorised air activity, not to provide full explanations for every public sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> This makes the absence of a public explanation less dramatic than it can sound in retellings.
+**Defence significance was the MoD’s main test.** The MoD’s stated role was to consider whether reports suggested hostile or unauthorised air activity, not to provide full explanations for every public sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> This makes the absence of a public explanation less dramatic than it can sound in retellings.
 
-The broader UK record reinforces the same point. The final 2009 MoD report notes that from 1 December 2009, UFO sighting reports were no longer recorded or investigated by the department. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That closure did not prove the reports were meaningless; it reflected the department’s judgement that continuing the UFO desk did not serve its defence remit.
+The broader UK record reinforces the same point. The final 2009 MoD report notes that from 1 December 2009, UFO sighting reports were no longer recorded or investigated by the department.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That closure did not prove the reports were meaningless; it reflected the department’s judgement that continuing the UFO desk did not serve its defence remit.
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-3-dark.svg" | relative_url }}" alt="Mo D Files illustration 3" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ The broader UK record reinforces the same point. The final 2009 MoD report notes
 
 The unresolved core of the Bonnybridge files is narrow but real. The MoD records do not tell us what the 29 May 1999 Bonnybridge object was. They do not tell us what, if anything, lay behind the bare 17 August 2003 report. They do not provide enough public detail to reconstruct sightlines, compare flight paths, check astronomical candidates, or test whether multiple witnesses saw the same thing.
 
-The records do, however, change the quality of the Stirlingshire story. Bonnybridge is not just a modern myth floating free of documents. It appears in official sighting lists, National Archives release notes, press coverage of declassified files, and MoD correspondence about how UFO reports were handled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The records do, however, change the quality of the Stirlingshire story. Bonnybridge is not just a modern myth floating free of documents. It appears in official sighting lists, National Archives release notes, press coverage of declassified files, and MoD correspondence about how UFO reports were handled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The fairest conclusion is therefore limited. The Bonnybridge files show a genuine reporting hotspot with an official paper trail, not a confirmed extraordinary event. The most memorable entries are unresolved because the records are sparse, not because the MoD secretly established that something beyond ordinary explanation was flying over Stirlingshire.
 
@@ -339,194 +339,194 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Bonnybridge UFO Files Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Bonnybridge UFO Files Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides framework for evaluating file-based evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for evaluating file-based evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how official records contribute to case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official records contribute to case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains how official UFO files and reports were handled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official UFO files and reports were handled.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for comparing Bonnybridge with other documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing Bonnybridge with other documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE!"><img src="https://i.ebayimg.com/images/g/mTIAAeSwQthpAKi7/s-l225.jpg" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1970&#x27;s TV Show SHADO Moonbase Great New POSTER"><img src="https://i.ebayimg.com/images/g/xOUAAOSwzZZh7sGE/s-l225.jpg" alt="Listing image for UFO 1970&#x27;s TV Show SHADO Moonbase Great New POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO 1970&#x27;s TV Show SHADO Moonbase Great New POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mo-d-files-f30646-what-do-the-bonnybridge-ufo-files-actually-show-stirlingshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-the-bonnybridge-ufo-files-actually-show-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,169 +732,169 @@ The fairest conclusion is therefore limited. The Bonnybridge files show a genuin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Highlights Guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2040-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2040-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2040-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2040-1-1.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: data.gov.uk  
    Title: Place Name Gazetteer  
-   Link: <a href="https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: independent.co.uk  
    Title: The Independent Revealed: eerie UFO sightings recorded in Mo D files  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stirlingshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stirlingshire</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bonnybridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnybridge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bonnybridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnybridge</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480</a>  
+   Link:<a href="https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Stirlingshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Stirlingshire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Avonbridge%2C_Stirlingshire_1747" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Avonbridge%2C_Stirlingshire_1747</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Avonbridge%2C_Stirlingshire_1747" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Avonbridge%2C_Stirlingshire_1747</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/results.php?loc=set&amp;pageno=3&amp;place=bridge&amp;type=ew" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/results.php?loc=set&amp;pageno=3&amp;place=bridge&amp;type=ew</a>  
+   Link:<a href="https://gazetteer.org.uk/results.php?loc=set&amp;pageno=3&amp;place=bridge&amp;type=ew" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/results.php?loc=set&amp;pageno=3&amp;place=bridge&amp;type=ew</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gazetteerGB/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gazetteerGB/</a>  
+   Link:<a href="https://www.facebook.com/gazetteerGB/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gazetteerGB/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: independent.co.uk  
    Title: nick pope ufo mod ministry of defence northern ireland b2474519  
-   Link: <a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: “The Government Silenced Us”  
-   Link: <a href="https://www.youtube.com/watch?v=wueFJ-MOSXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wueFJ-MOSXg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3,000 UFO Reports &amp; No Official Answers in The Falkirk Triangle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wueFJ-MOSXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wueFJ-MOSXg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3,000 UFO Reports &amp; No Official Answers in The Falkirk Triangle...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The Town with the Most UFO Sightings in the World  
-   Link: <a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Government Silenced Us” - The Tiny Town With The Most UFO Sightings IN THE WORLD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The Government Silenced Us” - The Tiny Town With The Most UFO Sightings IN THE WORLD...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
+   Link:<a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.997003&amp;longitude=-3.914449&amp;map_location=FK41QG+FK41QG+in+Bonnybridge&amp;os_series=7&amp;postcode=FK41QG&amp;pwd=&amp;search_location=FK4+1QG%2C+FK41QG+in+Bonnybridge%2C+Falkirk%2C+Stirlingshire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.997003&amp;longitude=-3.914449&amp;map_location=FK41QG+FK41QG+in+Bonnybridge&amp;os_series=7&amp;postcode=FK41QG&amp;pwd=&amp;search_location=FK4+1QG%2C+FK41QG+in+Bonnybridge%2C+Falkirk%2C+Stirlingshire%2C+Scotland</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.997003&amp;longitude=-3.914449&amp;map_location=FK41QG+FK41QG+in+Bonnybridge&amp;os_series=7&amp;postcode=FK41QG&amp;pwd=&amp;search_location=FK4+1QG%2C+FK41QG+in+Bonnybridge%2C+Falkirk%2C+Stirlingshire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=55.997003&amp;longitude=-3.914449&amp;map_location=FK41QG+FK41QG+in+Bonnybridge&amp;os_series=7&amp;postcode=FK41QG&amp;pwd=&amp;search_location=FK4+1QG%2C+FK41QG+in+Bonnybridge%2C+Falkirk%2C+Stirlingshire%2C+Scotland</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: spns.org.uk  
-   Link: <a href="https://spns.org.uk/wp-content/uploads/2019/12/John-Reids-East-Stirlingshire-place-name-data-v2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spns.org.uk/wp-content/uploads/2019/12/John-Reids-East-Stirlingshire-place-name-data-v2019.pdf</a>  
+   Link:<a href="https://spns.org.uk/wp-content/uploads/2019/12/John-Reids-East-Stirlingshire-place-name-data-v2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spns.org.uk/wp-content/uploads/2019/12/John-Reids-East-Stirlingshire-place-name-data-v2019.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
+   Link:<a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
+   Link:<a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/7254650/UFO-files-Bonnybridge-sought-Government-inquiry.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/7254650/UFO-files-Bonnybridge-sought-Government-inquiry.html</a>  
+   Link:<a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/7254650/UFO-files-Bonnybridge-sought-Government-inquiry.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/7254650/UFO-files-Bonnybridge-sought-Government-inquiry.html</a>  

@@ -118,9 +118,9 @@ heading_title: What Really Happened in Kinross shire Skies?
 page_heading_title: What Really Happened in Kinross shire Skies?
 source_count: 109
 infographic_count: 3
-page_website_name: Kinross shire UFOs
+page_website_name: Kinross shire
 page_banner_line: Balanced local UFO history around Kinross, Milnathort and Loch Leven.
-site_website_name: Kinross shire UFOs
+site_website_name: Kinross shire
 site_banner_line: Balanced local UFO history around Kinross, Milnathort and Loch Leven.
 site_image_description: A quiet view across Loch Leven toward low hills, with a small bright object high in the daylight sky above farmland near Kinross.
 output_language: English
@@ -689,25 +689,25 @@ image: /assets/images/Kinross-shire_c6236f-overview-social.jpg
 
 ## Introduction
 
-The county still matters in a UK UFO map because of its geography. Historic Kinross-shire is small, inland, centred on Loch Leven, and now lies wholly inside the modern Perth and Kinross council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span> That modern council label can easily pull in cases from outside the historic county, especially the celebrated [Calvine]({{ 'calvine/' | relative_url }}) photograph from Perthshire. For this page, Kinross-shire means the historic county around Kinross, Milnathort, Loch Leven, Portmoak, Cleish and Fossoway, while neighbouring cases are used only where they help explain the evidence.
+The county still matters in a UK UFO map because of its geography. Historic Kinross-shire is small, inland, centred on Loch Leven, and now lies wholly inside the modern Perth and Kinross council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span> That modern council label can easily pull in cases from outside the historic county, especially the celebrated [Calvine]({{ 'calvine/' | relative_url }}) photograph from Perthshire. For this page, Kinross-shire means the historic county around Kinross, Milnathort, Loch Leven, Portmoak, Cleish and Fossoway, while neighbouring cases are used only where they help explain the evidence.
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Kinross shire Skies?" loading="eager" decoding="sync" fetchpriority="high">
 ## What actually turns up in the records?
 
-The most concrete Kinross-shire item found in official UFO material is the Milnathort report of 25 June 2009. The MoD’s published 2009 sighting list records the time as 16:22 and the place as “Milnathort”, though it files the county field as “Fife”. The description says the witness was watching two helicopters coming from the Edinburgh area when she saw an orb-shaped object, “glistening in the sun”, high above the helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The most concrete Kinross-shire item found in official UFO material is the Milnathort report of 25 June 2009. The MoD’s published 2009 sighting list records the time as 16:22 and the place as “Milnathort”, though it files the county field as “Fife”. The description says the witness was watching two helicopters coming from the Edinburgh area when she saw an orb-shaped object, “glistening in the sun”, high above the helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That entry is modest, but it is valuable because it shows how many local UFO cases really appear in official files: short, witness-led, and usually not followed by a dramatic paper trail. There is no released indication that radar data, photographs, pilot reports or police evidence were attached to the Milnathort entry. The report therefore remains a weakly evidenced sighting, not a major unresolved incident.
 
-The likely value of the Milnathort case is not that it proves anything exotic, but that it captures a common reporting pattern. A bright or reflective object seen near ordinary aircraft can look more puzzling because the helicopters provide a point of comparison. In this case, the “glistening in the sun” wording leaves open everyday [explanations]({{ 'explanations-752596/' | relative_url }}) such as a balloon, a distant aircraft, a reflective object, or atmospheric glare, but the released MoD list does not give enough detail to identify it confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The likely value of the Milnathort case is not that it proves anything exotic, but that it captures a common reporting pattern. A bright or reflective object seen near ordinary aircraft can look more puzzling because the helicopters provide a point of comparison. In this case, the “glistening in the sun” wording leaves open everyday [explanations]({{ 'explanations-752596/' | relative_url }}) such as a balloon, a distant aircraft, a reflective object, or atmospheric glare, but the released MoD list does not give enough detail to identify it confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Kinross shire Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Kinross-shire’s boundaries matter
 
-Kinross-shire is one of Scotland’s smallest historic counties. It lies between Perthshire and Fife, with Loch Leven at its centre, the Ochil Hills to the north-west and the Cleish Hills along the southern edge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Gazetteer Kinross-shire, historiccounty &#124; Gazetteer of British Place Names</span><span class="citation-popover-snippet">Gazetteer Kinross-shire, historiccounty &#124; Gazetteer of British Place Names</span></span></span> Britannica describes it as a historic county in central Scotland, lying entirely within the modern Perth and Kinross council area and encompassing the basin of Loch Leven and surrounding hills. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Kinross-shire is one of Scotland’s smallest historic counties. It lies between Perthshire and Fife, with Loch Leven at its centre, the Ochil Hills to the north-west and the Cleish Hills along the southern edge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Gazetteer Kinross-shire, historiccounty &#124; Gazetteer of British Place Names</span><span class="citation-popover-snippet">Gazetteer Kinross-shire, historiccounty &#124; Gazetteer of British Place Names</span></span></span> Britannica describes it as a historic county in central Scotland, lying entirely within the modern Perth and Kinross council area and encompassing the basin of Loch Leven and surrounding hills.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-That distinction matters because UFO records are not always organised by historic county. Modern police areas, council areas, newspapers and MoD sighting tables may use different labels. The Milnathort report, for example, is geographically within Kinross-shire but appears in the MoD list with “Fife” as the county field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> For a reader using historic counties as the organising map, that is a warning not to rely only on administrative labels.
+That distinction matters because UFO records are not always organised by historic county. Modern police areas, council areas, newspapers and MoD sighting tables may use different labels. The Milnathort report, for example, is geographically within Kinross-shire but appears in the MoD list with “Fife” as the county field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> For a reader using historic counties as the organising map, that is a warning not to rely only on administrative labels.
 
 The same issue affects the much better-known Calvine case. Calvine is in Perthshire, not historic Kinross-shire, but it is in the modern Perth and Kinross council area. It therefore appears in the same regional news and archive environment, and it shapes how people talk about UFOs in this part of Scotland, but it should not be treated as a Kinross-shire case.
 
@@ -716,13 +716,13 @@ The same issue affects the much better-known Calvine case. Calvine is in Perthsh
 
 ## The Calvine shadow: nearby, important, but not Kinross-shire
 
-The Calvine photograph is too important to ignore, but it belongs next door. The reported sighting took place on 4 August 1990 on moorland above Calvine, near Pitlochry, in Perthshire. Two young men reportedly took six photographs of an unknown object and took the images to the Glasgow Daily Record; RAF press officer Craig Lindsay made a copy and passed material to the Ministry of Defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-title">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span><span class="citation-popover-snippet">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span></span></span>
+The Calvine photograph is too important to ignore, but it belongs next door. The reported sighting took place on 4 August 1990 on moorland above Calvine, near Pitlochry, in Perthshire. Two young men reportedly took six photographs of an unknown object and took the images to the Glasgow Daily Record; RAF press officer Craig Lindsay made a copy and passed material to the Ministry of Defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-title">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span><span class="citation-popover-snippet">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span></span></span>
 
-The National Archives’ own highlights guide describes the Calvine material as involving colour photographs of a large diamond-shaped UFO over Calvine, later associated with a Harrier, and notes that a former official called it one of the most intriguing UFO cases in the MoD files. The same guide says further Calvine investigation papers carried the instruction that the “sensitivity of material suggests very special handling”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
+The National Archives’ own highlights guide describes the Calvine material as involving colour photographs of a large diamond-shaped UFO over Calvine, later associated with a Harrier, and notes that a former official called it one of the most intriguing UFO cases in the MoD files. The same guide says further Calvine investigation papers carried the instruction that the “sensitivity of material suggests very special handling”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
 
-Later research has strengthened some parts of the Calvine story and left others unresolved. The Centre for Contemporary Legend at Sheffield Hallam University says the surviving “Lindsay” print was kept by Craig Lindsay for 32 years and later donated to Sheffield Hallam University Special Collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-title">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span><span class="citation-popover-snippet">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span></span></span> Andrew Robinson’s photographic analysis concluded that the Lindsay image aligns with the photocopies sent to the MoD and with the poor-quality Vu-Foil photocopies released in 2009, supporting the view that it is a genuine copy of the original Calvine photograph rather than a modern fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+Later research has strengthened some parts of the Calvine story and left others unresolved. The Centre for Contemporary Legend at Sheffield Hallam University says the surviving “Lindsay” print was kept by Craig Lindsay for 32 years and later donated to Sheffield Hallam University Special Collections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-title">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span><span class="citation-popover-snippet">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span></span></span> Andrew Robinson’s photographic analysis concluded that the Lindsay image aligns with the photocopies sent to the MoD and with the poor-quality Vu-Foil photocopies released in 2009, supporting the view that it is a genuine copy of the original Calvine photograph rather than a modern fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
-That does not mean the object has been identified. The Guardian’s 2025 account summarised competing possibilities: prank, hoax, optical illusion, secret aircraft or something unexplained. It also reported that MoD defensive lines said no definite conclusion had been reached about the diamond-shaped object, while the jet was believed to be a Harrier and there was no MoD record of Harriers operating at the stated place and time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> Calvine is therefore best treated as a neighbouring Perthshire case that explains the regional UFO atmosphere, not as evidence for a Kinross-shire pattern.
+That does not mean the object has been identified. The Guardian’s 2025 account summarised competing possibilities: prank, hoax, optical illusion, secret aircraft or something unexplained. It also reported that MoD defensive lines said no definite conclusion had been reached about the diamond-shaped object, while the jet was believed to be a Harrier and there was no MoD record of Harriers operating at the stated place and time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> Calvine is therefore best treated as a neighbouring Perthshire case that explains the regional UFO atmosphere, not as evidence for a Kinross-shire pattern.
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Kinross shire Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -730,9 +730,9 @@ That does not mean the object has been identified. The Guardian’s 2025 account
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Kinross shire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kinross shire</span></span></span> hire evidence is sparse. A fair assessment should separate three categories.
 
-**Recorded but weakly evidenced:** The 2009 Milnathort sighting is in an official MoD list, which gives it more documentary weight than an internet anecdote. But the entry is brief, has no named witness, no attached photograph in the published list, and no clear investigative conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Recorded but weakly evidenced:** The 2009 Milnathort sighting is in an official MoD list, which gives it more documentary weight than an internet anecdote. But the entry is brief, has no named witness, no attached photograph in the published list, and no clear investigative conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Regionally relevant but outside scope:** Calvine is a major Scottish UFO case with MoD documentation, press history, a surviving print and modern photographic analysis. It is relevant to the wider Perth and Kinross region and to Scottish UFO culture, but it is not a historic Kinross-shire incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-title">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span><span class="citation-popover-snippet">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span></span></span>
+**Regionally relevant but outside scope:** Calvine is a major Scottish UFO case with MoD documentation, press history, a surviving print and modern photographic analysis. It is relevant to the wider Perth and Kinross region and to Scottish UFO culture, but it is not a historic Kinross-shire incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-title">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span><span class="citation-popover-snippet">Centre For Contemporary Legend CALVINE &#124; Centre For Contemporary Legend</span></span></span>
 
 **Anecdotal or low-value material:** Online references to lights, meteors or “UFOs” over Loch Leven and nearby places may be locally interesting, but without corroborating records they should not carry the same weight as official files, archived press material or documented investigations.
 
@@ -745,19 +745,19 @@ The result is a quieter county page than places associated with famous British c
 
 Kinross-shire’s landscape makes several ordinary explanations worth considering before reaching for stranger ones. Loch Leven gives wide horizons, reflective water and open skies; the county’s lowland farmland and surrounding hills can make distance and height difficult to judge. The county is also close enough to central Scotland’s transport and military flight environment for aircraft, helicopters and training movements to be plausible parts of some sightings.
 
-The Milnathort entry is a good example. The witness was already watching helicopters, including one described as a Chinook, when the orb was noticed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> A bright object above known aircraft can seem more anomalous because the brain tries to compare speed, scale and altitude across objects that may actually be at very different distances. In similar UK cases, balloons, aircraft lights, lanterns, meteors, stars, planets and reflections have often accounted for reports, though each case still depends on its exact timing, direction, weather and witness details.
+The Milnathort entry is a good example. The witness was already watching helicopters, including one described as a Chinook, when the orb was noticed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> A bright object above known aircraft can seem more anomalous because the brain tries to compare speed, scale and altitude across objects that may actually be at very different distances. In similar UK cases, balloons, aircraft lights, lanterns, meteors, stars, planets and reflections have often accounted for reports, though each case still depends on its exact timing, direction, weather and witness details.
 
-The MoD’s broader approach also matters. David Clarke, who worked with The National Archives on the MoD UFO file release, describes the surviving files as containing around 11,000 sighting reports, correspondence and policy papers; he also notes that most reports were simply “glanced at and filed away” unless they seemed to have defence significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">National Archives UFO Files &#124;...</span></span></span> That helps explain why the Kinross-shire record can contain a real report without containing a satisfying investigation.
+The MoD’s broader approach also matters. David Clarke, who worked with The National Archives on the MoD UFO file release, describes the surviving files as containing around 11,000 sighting reports, correspondence and policy papers; he also notes that most reports were simply “glanced at and filed away” unless they seemed to have defence significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">National Archives UFO Files &#124;...</span></span></span> That helps explain why the Kinross-shire record can contain a real report without containing a satisfying investigation.
 
 
 <img src="{{ "/assets/images/Kinross-shire_c6236f-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Kinross shire Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Kinross-shire_c6236f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross-shire_c6236f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and what they can still tell us
 
-For modern readers, the main official record trail is the MoD UFO file release and the associated National Archives material. The UK Parliament recorded in 2024 that the MoD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released all UFO files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+For modern readers, the main official record trail is the MoD UFO file release and the associated National Archives material. The UK Parliament recorded in 2024 that the MoD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released all UFO files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
 That makes the 2009 Milnathort entry part of the final year of the MoD’s UFO-reporting era. It is not evidence of a hidden Kinross-shire flap, but it is evidence that at least one local report entered the official system before the desk closed. For older local material, the better hunting ground may be regional newspapers, local record offices, private UFO group archives and Perth & Kinross Council Archive rather than national files alone.
 
-Local archives are especially important because Kinross-shire’s public records were affected by local government reorganisation. Perth & Kinross Council Archive explains that after the 1975 reforms, old county and burgh records had to be divided among new authorities, mainly by function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturepk.org.uk">[Culture Perth and Kinross]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturepk.org.uk</span><span class="citation-popover-snippet">Culture Perth and Kinross</span></span></span> That administrative history is not a UFO story in itself, but it affects where supporting material might survive: police correspondence, council files, newspaper cuttings, local photographs and community collections may not be catalogued under a simple “Kinross-shire UFO” label.
+Local archives are especially important because Kinross-shire’s public records were affected by local government reorganisation. Perth & Kinross Council Archive explains that after the 1975 reforms, old county and burgh records had to be divided among new authorities, mainly by function.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturepk.org.uk">[Culture Perth and Kinross]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturepk.org.uk</span><span class="citation-popover-snippet">Culture Perth and Kinross</span></span></span> That administrative history is not a UFO story in itself, but it affects where supporting material might survive: police correspondence, council files, newspaper cuttings, local photographs and community collections may not be catalogued under a simple “Kinross-shire UFO” label.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k35r_nvxUGQ" title="The Kinross Incident: Alien encounter or a fatal flight error?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k35r_nvxUGQ" target="_blank" rel="noopener noreferrer">The Kinross Incident: Alien encounter or a fatal flight error?</a></p><p class="youtube-embed-meta">Channel: WOOD TV8 &middot; Views: 701 &middot; Uploaded: November 2024 &middot; Length: 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k35r_nvxUGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k35r_nvxUGQ">Open on YouTube</a></p></div></div></div>
@@ -769,194 +769,194 @@ Kinross-shire does not currently have a well-documented, headline UFO case withi
 For a historic-county UFO project, the honest conclusion is that Kinross-shire is a low-volume area with a small number of traceable reports, a high risk of boundary confusion, and a need for careful archive work. Its UFO history is not empty, but it is fragile: one official sighting entry, scattered local skywatching claims, and a powerful neighbouring case that belongs just outside the county line.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Kinross shire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Kinross shire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a page focused on modest official reports and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a page focused on modest official reports and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to understanding official case recording and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to understanding official case recording and investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate sightings involving lights, aircraft and observation errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate sightings involving lights, aircraft and observation errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of unusual sky observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of unusual sky observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-kinross-shire-what-really-happened-in-kinross-shire-skies-kinross-shire-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kinross-shire-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-kinross-shire-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -972,7 +972,7 @@ For a historic-county UFO project, the honest conclusion is that Kinross-shire i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -992,7 +992,7 @@ For a historic-county UFO project, the honest conclusion is that Kinross-shire i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1024,7 +1024,7 @@ For a historic-county UFO project, the honest conclusion is that Kinross-shire i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1076,7 +1076,7 @@ For a historic-county UFO project, the honest conclusion is that Kinross-shire i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1121,7 +1121,7 @@ For a historic-county UFO project, the honest conclusion is that Kinross-shire i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1162,239 +1162,239 @@ For a historic-county UFO project, the honest conclusion is that Kinross-shire i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross-shire</a>  
+   Link:<a href="https://www.britannica.com/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross-shire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Highlights Guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UFO Files |...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UFO Files |...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: culturepk.org.uk  
    Title: Culture Perth and Kinross  
-   Link: <a href="https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf</a>  
+   Link:<a href="https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/media/2023/09/kinross-shire-through-the-archive.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/1999/99digests/scottish.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/accessions/2000/00digests/scottish.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: cas 318549 h8g1b0  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Kinross" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross</a>  
+   Link:<a href="https://www.britannica.com/place/Kinross" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kinross</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fossoway.org  
    Title: About us  
-   Link: <a href="https://www.fossoway.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.fossoway.org/about/</a>  
+   Link:<a href="https://www.fossoway.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.fossoway.org/about/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kinross.cc  
-   Link: <a href="https://kinross.cc/flag/" target="_blank" rel="noopener noreferrer nofollow">https://kinross.cc/flag/</a>  
+   Link:<a href="https://kinross.cc/flag/" target="_blank" rel="noopener noreferrer nofollow">https://kinross.cc/flag/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: transport.wa.gov.au  
-   Link: <a href="https://www.transport.wa.gov.au/getmedia/5C1A05B6-B250-404A-82F4-1CD59D4FE3C3/AT_CYC_P_bike_map_joondalup.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.transport.wa.gov.au/getmedia/5C1A05B6-B250-404A-82F4-1CD59D4FE3C3/AT_CYC_P_bike_map_joondalup.pdf</a>  
+   Link:<a href="https://www.transport.wa.gov.au/getmedia/5C1A05B6-B250-404A-82F4-1CD59D4FE3C3/AT_CYC_P_bike_map_joondalup.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.transport.wa.gov.au/getmedia/5C1A05B6-B250-404A-82F4-1CD59D4FE3C3/AT_CYC_P_bike_map_joondalup.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
-   Link: <a href="https://www.archive.org/stream/aguidetogermanl01moscgoog/aguidetogermanl01moscgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/stream/aguidetogermanl01moscgoog/aguidetogermanl01moscgoog_djvu.txt</a>  
+   Link:<a href="https://www.archive.org/stream/aguidetogermanl01moscgoog/aguidetogermanl01moscgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/stream/aguidetogermanl01moscgoog/aguidetogermanl01moscgoog_djvu.txt</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gazetteer.org.uk  
    Title: Gazetteer Kinross-shire, historiccounty | Gazetteer of British Place Names  
-   Link: <a href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinross-shire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinross-shire</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: contemporarylegend.co.uk  
    Title: Centre For Contemporary Legend CALVINE | Centre For Contemporary Legend  
-   Link: <a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
+   Link:<a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Kinross shire  
-   Link: <a href="https://en.wikipedia.org/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kinross-shire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kinross-shire</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Fossoway_CP%2C_Perthshire_318077" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Fossoway_CP%2C_Perthshire_318077</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Fossoway_CP%2C_Perthshire_318077" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Fossoway_CP%2C_Perthshire_318077</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: mod secrets uk freedom information act overhaul  
-   Link: <a href="https://www.theguardian.com/politics/2025/mar/08/mod-secrets-uk-freedom-information-act-overhaul" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2025/mar/08/mod-secrets-uk-freedom-information-act-overhaul</a>  
+   Link:<a href="https://www.theguardian.com/politics/2025/mar/08/mod-secrets-uk-freedom-information-act-overhaul" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2025/mar/08/mod-secrets-uk-freedom-information-act-overhaul</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: drdavidclarke.co.uk  
    Title: 35 Years of Mystery  
-   Link: <a href="https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: drdavidclarke.co.uk  
    Title: Posted by  
-   Link: <a href="https://drdavidclarke.co.uk/author/daveclarke292/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/author/daveclarke292/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/author/daveclarke292/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/author/daveclarke292/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/tag/raf/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/raf/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/raf/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/raf/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/tag/pitlochry/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/pitlochry/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/pitlochry/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/pitlochry/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: drdavidclarke.co.uk  
    Title: Ministry of Defence  
-   Link: <a href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/ministry-of-defence/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/ministry-of-defence/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wikishire.co.uk  
    Title: Kinross shire  
-   Link: <a href="https://wikishire.co.uk/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kinross-shire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kinross-shire</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
+   Link:<a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: en.wikisource.org  
    Title: Kinross shire  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Kinross-shire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Kinross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Kinross-shire</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/sct/KRS/Fossoway" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/KRS/Fossoway</a>  
+   Link:<a href="https://www.genuki.org.uk/big/sct/KRS/Fossoway" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/KRS/Fossoway</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: culturepk.org.uk  
    Title: Culture Perth & Kinross  
-   Link: <a href="https://www.culturepk.org.uk/archivelfh/l-f-h/maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/archivelfh/l-f-h/maps/</a>  
+   Link:<a href="https://www.culturepk.org.uk/archivelfh/l-f-h/maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturepk.org.uk/archivelfh/l-f-h/maps/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: x.com  
-   Link: <a href="https://x.com/hashtag/kinross?src=hashtag_click" target="_blank" rel="noopener noreferrer nofollow">https://x.com/hashtag/kinross?src=hashtag_click</a>  
+   Link:<a href="https://x.com/hashtag/kinross?src=hashtag_click" target="_blank" rel="noopener noreferrer nofollow">https://x.com/hashtag/kinross?src=hashtag_click</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Man Beaten Up By An Alien!! | Paranormal UFO Files E05 | Sci-Fi Central  
-   Link: <a href="https://www.youtube.com/watch?v=kX54EoHFxeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX54EoHFxeo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Craziest REAL UFO Footage In The World! | Paranormal Files E9 | Sci-Fi Central...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kX54EoHFxeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX54EoHFxeo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Craziest REAL UFO Footage In The World! | Paranormal Files E9 | Sci-Fi Central...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Beaten Up By An Alien!! | Paranormal UFO Files E05 | Sci-Fi Central...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man Beaten Up By An Alien!! | Paranormal UFO Files E05 | Sci-Fi Central...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/842976418/100-AI-TOOL-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%AE%E1%86%A8" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842976418/100-AI-TOOL-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%AE%E1%86%A8</a>  
+   Link:<a href="https://www.scribd.com/document/842976418/100-AI-TOOL-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%AE%E1%86%A8" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842976418/100-AI-TOOL-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%AE%E1%86%A8</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1129627522017333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1129627522017333/</a>  
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1129627522017333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1129627522017333/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: hauntedhosts.com  
-   Link: <a href="https://hauntedhosts.com/haunted-places/east-sussex/location/8777-ball-of-light-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhosts.com/haunted-places/east-sussex/location/8777-ball-of-light-phenomenon/</a>  
+   Link:<a href="https://hauntedhosts.com/haunted-places/east-sussex/location/8777-ball-of-light-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhosts.com/haunted-places/east-sussex/location/8777-ball-of-light-phenomenon/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXrOTvlsbFc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXrOTvlsbFc/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXrOTvlsbFc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXrOTvlsbFc/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.207145&amp;longitude=-3.422086&amp;map_location=KY13+8AW+KY138AW+in+Kinross&amp;os_series=1&amp;postcode=KY13+8AW&amp;pwd=&amp;search_location=KY13+8AW%2C+KY138AW+in+Kinross%2C+Perth+and+Kinross%2C+Kinross-shire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.207145&amp;longitude=-3.422086&amp;map_location=KY13+8AW+KY138AW+in+Kinross&amp;os_series=1&amp;postcode=KY13+8AW&amp;pwd=&amp;search_location=KY13+8AW%2C+KY138AW+in+Kinross%2C+Perth+and+Kinross%2C+Kinross-shire%2C+Scotland</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.207145&amp;longitude=-3.422086&amp;map_location=KY13+8AW+KY138AW+in+Kinross&amp;os_series=1&amp;postcode=KY13+8AW&amp;pwd=&amp;search_location=KY13+8AW%2C+KY138AW+in+Kinross%2C+Perth+and+Kinross%2C+Kinross-shire%2C+Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=56.207145&amp;longitude=-3.422086&amp;map_location=KY13+8AW+KY138AW+in+Kinross&amp;os_series=1&amp;postcode=KY13+8AW&amp;pwd=&amp;search_location=KY13+8AW%2C+KY138AW+in+Kinross%2C+Perth+and+Kinross%2C+Kinross-shire%2C+Scotland</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/16340" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/16340</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/16340" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/16340</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: gettyimages.co.uk  
-   Link: <a href="https://www.gettyimages.co.uk/detail/news-photo/geese-fly-against-a-background-of-autumn-colours-around-news-photo/2178165100" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/detail/news-photo/geese-fly-against-a-background-of-autumn-colours-around-news-photo/2178165100</a>  
+   Link:<a href="https://www.gettyimages.co.uk/detail/news-photo/geese-fly-against-a-background-of-autumn-colours-around-news-photo/2178165100" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/detail/news-photo/geese-fly-against-a-background-of-autumn-colours-around-news-photo/2178165100</a>  

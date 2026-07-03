@@ -259,21 +259,21 @@ image: /assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-overview
 <img src="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-overview.webp" | relative_url }}" alt="Overview image for Airfields" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Cambridgeshire produces aviation-shaped UFO reports
 
-Cambridgeshire’s skies have been busy for more than a century. The Cambridgeshire Aviation Heritage Trail describes the county’s wartime air traffic in striking terms: in 1944 alone, it estimates roughly four million bomber operational flights over Cambridgeshire, plus another two million flights by other aircraft types. It also notes that modern overflight remains varied, ranging from light aircraft and helicopters to military jets and long-haul airliners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambsaviationheritage.org.uk/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambsaviationheritage.org.uk">[cambsaviationheritage.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambsaviationheritage.org.uk</span><span class="citation-popover-title">Cambridgeshire Aviation Heritage Trail</span><span class="citation-popover-snippet">Cambridgeshire Aviation Heritage Trail</span></span></span>
+Cambridgeshire’s skies have been busy for more than a century. The Cambridgeshire Aviation Heritage Trail describes the county’s wartime air traffic in striking terms: in 1944 alone, it estimates roughly four million bomber operational flights over Cambridgeshire, plus another two million flights by other aircraft types. It also notes that modern overflight remains varied, ranging from light aircraft and helicopters to military jets and long-haul airliners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambsaviationheritage.org.uk/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambsaviationheritage.org.uk">[cambsaviationheritage.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambsaviationheritage.org.uk</span><span class="citation-popover-title">Cambridgeshire Aviation Heritage Trail</span><span class="citation-popover-snippet">Cambridgeshire Aviation Heritage Trail</span></span></span>
 
 That density matters for UFO interpretation because many reports are made by people who are not standing next to an airfield fence. A light seen from a garden in Ely, a formation seen from Peterborough, or a silent object seen from a Fenland road may be many miles from its source. Flat terrain and wide horizons can make distant aircraft appear lower, slower or more stationary than they are. Landing lights can seem to hover when an aircraft is approaching head-on. A turn can make a single aircraft appear to stop, brighten, split into multiple lights, or change direction.
 
-The official UFO archive reinforces this point nationally. The National Archives says many Ministry of Defence UFO files consist of one-off sightings, with common explanations including Venus, high-altitude aircraft, weather balloons and satellites; it also notes that most reports are of lights rather than clearly seen craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> In Cambridgeshire, that general rule has extra force because the county has a long chain of airfields, former airfields and aviation museums within or close to its modern borders.
+The official UFO archive reinforces this point nationally. The National Archives says many Ministry of Defence UFO files consist of one-off sightings, with common explanations including Venus, high-altitude aircraft, weather balloons and satellites; it also notes that most reports are of lights rather than clearly seen craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> In Cambridgeshire, that general rule has extra force because the county has a long chain of airfields, former airfields and aviation museums within or close to its modern borders.
 
-There is also a boundary issue. Duxford belongs comfortably to historic Cambridgeshire, but Alconbury, Wyton and Molesworth sit in the Huntingdonshire part of the modern county story. Modern Cambridgeshire was formed in 1974 from Cambridgeshire and Isle of Ely plus Huntingdon and Peterborough, bringing in the historic county of Huntingdonshire and the Soke of Peterborough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeshirelieutenancy.org.uk">[cambridgeshirelieutenancy.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeshirelieutenancy.org.uk</span><span class="citation-popover-title">the county of cambridgeshire</span><span class="citation-popover-snippet">the county of cambridgeshire</span></span></span> For a public UFO history of Cambridgeshire, those Huntingdonshire airfields still matter because local press, police, residents and modern maps commonly treat them as part of Cambridgeshire’s aviation environment.
+There is also a boundary issue. Duxford belongs comfortably to historic Cambridgeshire, but Alconbury, Wyton and Molesworth sit in the Huntingdonshire part of the modern county story. Modern Cambridgeshire was formed in 1974 from Cambridgeshire and Isle of Ely plus Huntingdon and Peterborough, bringing in the historic county of Huntingdonshire and the Soke of Peterborough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeshirelieutenancy.org.uk">[cambridgeshirelieutenancy.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeshirelieutenancy.org.uk</span><span class="citation-popover-title">the county of cambridgeshire</span><span class="citation-popover-snippet">the county of cambridgeshire</span></span></span> For a public UFO history of Cambridgeshire, those Huntingdonshire airfields still matter because local press, police, residents and modern maps commonly treat them as part of Cambridgeshire’s aviation environment.
 
 ## Duxford is the obvious place to check first
 
-Duxford is not just a museum with aircraft inside hangars. It is an active historic airfield where aircraft regularly take off and land, and where public flying displays are part of the site’s identity. Imperial War Museums says Duxford has played a central role from early flight through the Second World War and the Cold War, and its visitor information explicitly tells the public that aircraft regularly use the airfield. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/visits/iwm-duxford" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-title">Imperial War Museums IWM Duxford &#124; Imperial War Museums</span><span class="citation-popover-snippet">Imperial War Museums IWM Duxford &#124; Imperial War Museums</span></span></span>
+Duxford is not just a museum with aircraft inside hangars. It is an active historic airfield where aircraft regularly take off and land, and where public flying displays are part of the site’s identity. Imperial War Museums says Duxford has played a central role from early flight through the Second World War and the Cold War, and its visitor information explicitly tells the public that aircraft regularly use the airfield.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/visits/iwm-duxford" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-title">Imperial War Museums IWM Duxford &#124; Imperial War Museums</span><span class="citation-popover-snippet">Imperial War Museums IWM Duxford &#124; Imperial War Museums</span></span></span>
 
 For UFO reports in south Cambridgeshire, this makes Duxford a major filtering factor. A low vintage aircraft, a display rehearsal, a warbird in evening light, or a formation leaving after an air show can look unfamiliar even to people who recognise modern airliners. Older aircraft may have unusual silhouettes, slower speeds, louder or rougher engine notes, and lighting patterns that do not match the tidy mental picture of a passenger jet.
 
-Duxford’s events are also formally woven into UK airspace procedures. The Civil Aviation Authority says it must be notified about events involving military aircraft displays or flypasts, and that temporary restricted areas, airspace coordination notices and other notification periods may apply depending on the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/general-aviation/flying-displays-and-special-events/airspace-notification-of-air-displays-and-flypasts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> That is useful for UFO assessment because display dates, rehearsal periods, flight restrictions and published flying lists can sometimes be checked against the time and direction of a report.
+Duxford’s events are also formally woven into UK airspace procedures. The Civil Aviation Authority says it must be notified about events involving military aircraft displays or flypasts, and that temporary restricted areas, airspace coordination notices and other notification periods may apply depending on the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/general-aviation/flying-displays-and-special-events/airspace-notification-of-air-displays-and-flypasts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> That is useful for UFO assessment because display dates, rehearsal periods, flight restrictions and published flying lists can sometimes be checked against the time and direction of a report.
 
 A Duxford-related explanation is strongest when several details line up:
 
@@ -293,15 +293,15 @@ The explanation is weaker when the timing is wrong, the sighting is far outside 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-Illustration-1-dark.svg" | relative_url }}" alt="Airfields illustration 1" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Wyton, Alconbury and Molesworth complicate the map
 
-The Huntingdon area has a particularly dense military aviation past. RAF Wyton opened in 1916 as a Royal Flying Corps training establishment, became a bomber base in the Second World War, and later developed a long association with photographic reconnaissance and intelligence. Today the RAF describes Wyton as a UK Strategic Command station and home to the National Centre for Geospatial Intelligence, while also noting that it is no longer an operational airfield. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Wyton &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Wyton &#124; Royal Air Force</span></span></span>
+The Huntingdon area has a particularly dense military aviation past. RAF Wyton opened in 1916 as a Royal Flying Corps training establishment, became a bomber base in the Second World War, and later developed a long association with photographic reconnaissance and intelligence. Today the RAF describes Wyton as a UK Strategic Command station and home to the National Centre for Geospatial Intelligence, while also noting that it is no longer an operational airfield.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Wyton &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Wyton &#124; Royal Air Force</span></span></span>
 
 That last point is important. A present-day light seen near Wyton should not automatically be assumed to be a locally launched RAF aircraft simply because the station exists. The base’s current role is defence and intelligence rather than routine flying. However, Wyton’s history still affects local UFO culture because people know the name, remember aircraft, and may connect unusual skies with a familiar military site.
 
-RAF Alconbury is different again. It began as a Second World War airfield and later became strongly associated with US operations. The US Air Force’s own tri-base history says the 10th Tactical Reconnaissance Wing arrived in 1959, that TR-1/U-2 reconnaissance aircraft operated from Alconbury from the early 1980s until the last U-2 departed in March 1995, and that A-10s were based there until their drawdown in the early 1990s. It also records that the Alconbury flightline was turned back to the Ministry of Defence in September 1995. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501st Combat Support Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">501st Combat Support Wing Tri-Base History</span><span class="citation-popover-snippet">501st Combat Support Wing Tri-Base History</span></span></span>
+RAF Alconbury is different again. It began as a Second World War airfield and later became strongly associated with US operations. The US Air Force’s own tri-base history says the 10th Tactical Reconnaissance Wing arrived in 1959, that TR-1/U-2 reconnaissance aircraft operated from Alconbury from the early 1980s until the last U-2 departed in March 1995, and that A-10s were based there until their drawdown in the early 1990s. It also records that the Alconbury flightline was turned back to the Ministry of Defence in September 1995.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501st Combat Support Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">501st Combat Support Wing Tri-Base History</span><span class="citation-popover-snippet">501st Combat Support Wing Tri-Base History</span></span></span>
 
 That history helps explain two different kinds of UFO story. During the Cold War, unfamiliar American aircraft, reconnaissance types, night movements and rumours of secret technology made Alconbury a natural magnet for speculation. In later years, however, some claims lose force if they assume active flying from Alconbury after the flightline had ceased its former role.
 
-Molesworth adds another layer. It has a long aviation and defence history, but its runway and flying facilities were closed and later removed; it became associated with ground-launched cruise missiles in the 1980s and is now a non-flying USAF-controlled facility. The NATO Intelligence Fusion Centre’s history page records Molesworth’s selection in 1980 for US ground-launched cruise missiles, the activation of the 303rd Tactical Missile Wing in 1986, and the removal of nuclear missiles after the 1987 Intermediate-Range Nuclear Forces Treaty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.ifc.bices.org/community/raf-molesworth-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.ifc.bices.org">[NIFC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.ifc.bices.org</span><span class="citation-popover-title">NIFCRAF Molesworth History</span><span class="citation-popover-snippet">NIFCRAF Molesworth History</span></span></span>
+Molesworth adds another layer. It has a long aviation and defence history, but its runway and flying facilities were closed and later removed; it became associated with ground-launched cruise missiles in the 1980s and is now a non-flying USAF-controlled facility. The NATO Intelligence Fusion Centre’s history page records Molesworth’s selection in 1980 for US ground-launched cruise missiles, the activation of the 303rd Tactical Missile Wing in 1986, and the removal of nuclear missiles after the 1987 Intermediate-Range Nuclear Forces Treaty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.ifc.bices.org/community/raf-molesworth-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.ifc.bices.org">[NIFC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.ifc.bices.org</span><span class="citation-popover-title">NIFCRAF Molesworth History</span><span class="citation-popover-snippet">NIFCRAF Molesworth History</span></span></span>
 
 For UFO assessment, that means “near Molesworth” is not the same as “from Molesworth”. A sighting near the base may still involve aircraft transiting the area, helicopters, drones, distant lights, stars, satellites or vehicles, but Molesworth itself should not be treated as an active flying airfield in modern reports.
 
@@ -312,11 +312,11 @@ For UFO assessment, that means “near Molesworth” is not the same as “from 
 
 Aircraft misidentification is not one single mistake. It is a set of mechanisms that can produce very different witness descriptions. In Cambridgeshire, the most relevant are historic aircraft, military or police helicopters, distant airliners, gliders, general aviation, drones and display traffic.
 
-A historic aircraft can look “wrong” because the witness is comparing it with an airliner. A Spitfire, Harvard, Mustang, Dragon Rapide or other vintage type may appear small, angular, loud, low, slow or oddly lit. A display aircraft turning towards and away from the viewer may seem to flare, vanish, reverse or hover. Duxford makes this especially relevant because it is both a preserved airfield and a place where historic aircraft are seen in the air, not just behind glass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/visits/iwm-duxford/whats-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-title">Imperial War Museums What&#x27;s Here</span><span class="citation-popover-snippet">Imperial War Museums What&#x27;s Here</span></span></span>
+A historic aircraft can look “wrong” because the witness is comparing it with an airliner. A Spitfire, Harvard, Mustang, Dragon Rapide or other vintage type may appear small, angular, loud, low, slow or oddly lit. A display aircraft turning towards and away from the viewer may seem to flare, vanish, reverse or hover. Duxford makes this especially relevant because it is both a preserved airfield and a place where historic aircraft are seen in the air, not just behind glass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/visits/iwm-duxford/whats-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-title">Imperial War Museums What&#x27;s Here</span><span class="citation-popover-snippet">Imperial War Museums What&#x27;s Here</span></span></span>
 
 Helicopters create another class of confusion. They can move slowly, hover, circle, use searchlights, show red and green navigation lights, and operate at lower altitudes than airliners. From a distance, rotor noise may be delayed, muffled by wind, or missed indoors. A police or air ambulance helicopter can look purposeful and mysterious if the observer does not know what incident it is attending.
 
-Night flying changes perception further. At night, witnesses often see lights rather than structure. A triangle may be three aircraft in formation, three lights on one aircraft, or unrelated lights that appear grouped from one viewpoint. A “silent” object may be a distant aircraft whose sound has not reached the observer, or a light source moving with the wind. The MoD’s 2009 UFO list shows how often witnesses used aircraft as a comparison even when they rejected it. One Peterborough entry on 5 July 2009 described two objects, one brighter than the other, with no navigation lights, and recorded the witness as “reluctant to say it was a UFO — perhaps it is a plane.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Night flying changes perception further. At night, witnesses often see lights rather than structure. A triangle may be three aircraft in formation, three lights on one aircraft, or unrelated lights that appear grouped from one viewpoint. A “silent” object may be a distant aircraft whose sound has not reached the observer, or a light source moving with the wind. The MoD’s 2009 UFO list shows how often witnesses used aircraft as a comparison even when they rejected it. One Peterborough entry on 5 July 2009 described two objects, one brighter than the other, with no navigation lights, and recorded the witness as “reluctant to say it was a UFO — perhaps it is a plane.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That entry is valuable precisely because it is modest. It does not prove an anomalous craft, and it does not prove a plane. It shows a real interpretive moment: a witness noticing something aircraft-like but not quite matching their expectations. Many Cambridgeshire UFO reports sit in that uncertain middle ground.
 
@@ -324,7 +324,7 @@ That entry is valuable precisely because it is modest. It does not prove an anom
 <img src="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-Illustration-2-dark.svg" | relative_url }}" alt="Airfields illustration 2" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_airfields_misidentif_aad927-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A useful warning from the Lakenheath drone confusion
 
-Although RAF Lakenheath is in Suffolk, not Cambridgeshire, a recent Airprox case is highly relevant to interpreting East Anglian sky reports. On 22 November 2024, a National Police Air Service EC135 helicopter crew operating near Lakenheath reported red flashing lights that they initially believed were drones. The UK Airprox Board report records that the helicopter crew had not been told of other traffic, had no relevant TCAS returns, and saw lights in the Lakenheath area that appeared to be orbiting. The other aircraft involved was recorded as an F-15. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/uploadedFiles/Content/Standard_content/Airprox_report_files/2024/Airprox%20Report%202024294.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Airprox Board</span></span></span>
+Although RAF Lakenheath is in Suffolk, not Cambridgeshire, a recent Airprox case is highly relevant to interpreting East Anglian sky reports. On 22 November 2024, a National Police Air Service EC135 helicopter crew operating near Lakenheath reported red flashing lights that they initially believed were drones. The UK Airprox Board report records that the helicopter crew had not been told of other traffic, had no relevant TCAS returns, and saw lights in the Lakenheath area that appeared to be orbiting. The other aircraft involved was recorded as an F-15.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/uploadedFiles/Content/Standard_content/Airprox_report_files/2024/Airprox%20Report%202024294.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Airprox Board</span></span></span>
 
 The lesson is not that all drone or UFO reports are really fighter jets. The lesson is more careful: even trained aircrew can misread lights at night when situational awareness is incomplete. If that can happen to professional crews in radio contact with air traffic control, it can certainly happen to ordinary witnesses looking from a street, field or garden.
 
@@ -340,7 +340,7 @@ Airfield context does not “solve” a UFO case by itself. It changes what coun
 
 For Cambridgeshire, the most practical evidence questions are:
 
-**Was the sighting near an active or former aviation site?** Duxford, Fowlmere, Gransden Lodge, Conington, Wyton, Alconbury and Molesworth each mean different things. Some are active flying sites, some are former military fields with limited or no present flying role, and some are defence sites whose current activity should not be confused with runway operations. The Cambridgeshire Aviation Heritage Trail notes, for example, that Fowlmere remains a privately owned airfield, Glatton became Peterborough’s Conington Airport, and Gransden Lodge has a gliding club on what remains of the former airfield. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambsaviationheritage.org.uk/about-the-county/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambsaviationheritage.org.uk">[cambsaviationheritage.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambsaviationheritage.org.uk</span><span class="citation-popover-title">Cambridgeshire Aviation Heritage Trail &#124; About the County</span><span class="citation-popover-snippet">Cambridgeshire Aviation Heritage Trail &#124; About the County</span></span></span>
+**Was the sighting near an active or former aviation site?** Duxford, Fowlmere, Gransden Lodge, Conington, Wyton, Alconbury and Molesworth each mean different things. Some are active flying sites, some are former military fields with limited or no present flying role, and some are defence sites whose current activity should not be confused with runway operations. The Cambridgeshire Aviation Heritage Trail notes, for example, that Fowlmere remains a privately owned airfield, Glatton became Peterborough’s Conington Airport, and Gransden Lodge has a gliding club on what remains of the former airfield.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambsaviationheritage.org.uk/about-the-county/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambsaviationheritage.org.uk">[cambsaviationheritage.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambsaviationheritage.org.uk</span><span class="citation-popover-title">Cambridgeshire Aviation Heritage Trail &#124; About the County</span><span class="citation-popover-snippet">Cambridgeshire Aviation Heritage Trail &#124; About the County</span></span></span>
 
 **Did the witness report aircraft-like details?** Navigation lights, engine noise, steady speed, a straight track, banking turns, approach lights, multiple lights in formation, or movement along a known corridor all increase the probability of an aviation explanation. Lack of noise or odd colour does not rule aircraft out, especially at distance.
 
@@ -368,194 +368,194 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Aircraft Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Aircraft Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigating sightings and distinguishing unexplained reports from misidentifications, matching the page&#x27;s evidence-testing a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating sightings and distinguishing unexplained reports from misidentifications, matching the page&#x27;s evidence-testing a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes aviation witnesses, radar cases and careful assessment of aerial phenomena, directly relevant to aircraft-versus-UFO interpret...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes aviation witnesses, radar cases and careful assessment of aerial phenomena, directly relevant to aircraft-versus-UFO interpret...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes aviation witnesses, radar cases and careful assessment of aerial phenomena, directly relevant to aircraft-versus-UFO interpret...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes aviation witnesses, radar cases and careful assessment of aerial phenomena, directly relevant to aircraft-versus-UFO interpret...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation Model Aircraft Display STAND Short Arm"><img src="{{ '/assets/images/marketplace-covers/5f86557b009962f38d4a.jpg' | relative_url }}" alt="Listing image for Corgi Aviation Model Aircraft Display STAND Short Arm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation Model Aircraft Display STAND Short Arm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation Model Aircraft Display STAND Short Arm"><img src="{{ '/assets/images/marketplace-covers/5f86557b009962f38d4a.jpg' | relative_url }}" alt="Listing image for Corgi Aviation Model Aircraft Display STAND Short Arm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation Model Aircraft Display STAND Short Arm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zvezda 7235 Aircraft Display Stand For All Scale Aircraft"><img src="{{ '/assets/images/marketplace-covers/8be494d8f75ba24423e3.jpg' | relative_url }}" alt="Listing image for Zvezda 7235 Aircraft Display Stand For All Scale Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">Zvezda 7235 Aircraft Display Stand For All Scale Aircraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zvezda 7235 Aircraft Display Stand For All Scale Aircraft"><img src="{{ '/assets/images/marketplace-covers/8be494d8f75ba24423e3.jpg' | relative_url }}" alt="Listing image for Zvezda 7235 Aircraft Display Stand For All Scale Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">Zvezda 7235 Aircraft Display Stand For All Scale Aircraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation Model Aircraft Display STAND Long Arm"><img src="{{ '/assets/images/marketplace-covers/769a3f92ec197d4e4d41.jpg' | relative_url }}" alt="Listing image for Corgi Aviation Model Aircraft Display STAND Long Arm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation Model Aircraft Display STAND Long Arm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation Model Aircraft Display STAND Long Arm"><img src="{{ '/assets/images/marketplace-covers/769a3f92ec197d4e4d41.jpg' | relative_url }}" alt="Listing image for Corgi Aviation Model Aircraft Display STAND Long Arm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation Model Aircraft Display STAND Long Arm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display stand" data-ebay-reference="airfields-when-aircraft-look-like-ufos-cambridgeshire-aircraft-display-stand" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,236 +761,236 @@ The balanced conclusion is that many Cambridgeshire UFO reports should first be 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambsaviationheritage.org.uk  
    Title: Cambridgeshire Aviation Heritage Trail  
-   Link: <a href="https://cambsaviationheritage.org.uk/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/index.html</a>  
+   Link:<a href="https://cambsaviationheritage.org.uk/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/index.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridgeshirelieutenancy.org.uk  
    Title: the county of cambridgeshire  
-   Link: <a href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/</a>  
+   Link:<a href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/general-aviation/flying-displays-and-special-events/airspace-notification-of-air-displays-and-flypasts/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/general-aviation/flying-displays-and-special-events/airspace-notification-of-air-displays-and-flypasts/</a>  
+   Link:<a href="https://www.caa.co.uk/general-aviation/flying-displays-and-special-events/airspace-notification-of-air-displays-and-flypasts/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/general-aviation/flying-displays-and-special-events/airspace-notification-of-air-displays-and-flypasts/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Wyton | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-wyton/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-wyton/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airproxboard.org.uk  
    Title: Airprox Board  
-   Link: <a href="https://www.airproxboard.org.uk/uploadedFiles/Content/Standard_content/Airprox_report_files/2024/Airprox%20Report%202024294.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/uploadedFiles/Content/Standard_content/Airprox_report_files/2024/Airprox%20Report%202024294.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/uploadedFiles/Content/Standard_content/Airprox_report_files/2024/Airprox%20Report%202024294.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/uploadedFiles/Content/Standard_content/Airprox_report_files/2024/Airprox%20Report%202024294.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambsaviationheritage.org.uk  
    Title: Cambridgeshire Aviation Heritage Trail | About the County  
-   Link: <a href="https://cambsaviationheritage.org.uk/about-the-county/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/about-the-county/index.html</a>  
+   Link:<a href="https://cambsaviationheritage.org.uk/about-the-county/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/about-the-county/index.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: democracy.huntingdonshire.gov.uk  
-   Link: <a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
+   Link:<a href="https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.huntingdonshire.gov.uk/moderngov/documents/g13736/Public%20reports%20pack%20Monday%2021-Oct-2013%2019.00%20Development%20Management%20Panel%20Decommissioned%2018052.pdf?T=10</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambsaviationheritage.org.uk  
-   Link: <a href="https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html</a>  
+   Link:<a href="https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
+   Link:<a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531443" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531443</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531443" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531443</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cambs.police.uk  
-   Link: <a href="https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2024/september/ghosts-ufos-and-paranormal-activity/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2024/september/ghosts-ufos-and-paranormal-activity/</a>  
+   Link:<a href="https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2024/september/ghosts-ufos-and-paranormal-activity/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2024/september/ghosts-ufos-and-paranormal-activity/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: npas.police.uk  
-   Link: <a href="https://www.npas.police.uk/news/uk-airprox-board-publishes-findings-lakenheath-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.npas.police.uk/news/uk-airprox-board-publishes-findings-lakenheath-incident</a>  
+   Link:<a href="https://www.npas.police.uk/news/uk-airprox-board-publishes-findings-lakenheath-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.npas.police.uk/news/uk-airprox-board-publishes-findings-lakenheath-incident</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: west-lindsey.gov.uk  
-   Link: <a href="https://www.west-lindsey.gov.uk/transport-markets-culture-leisure/things-do/aviation-heritage" target="_blank" rel="noopener noreferrer nofollow">https://www.west-lindsey.gov.uk/transport-markets-culture-leisure/things-do/aviation-heritage</a>  
+   Link:<a href="https://www.west-lindsey.gov.uk/transport-markets-culture-leisure/things-do/aviation-heritage" target="_blank" rel="noopener noreferrer nofollow">https://www.west-lindsey.gov.uk/transport-markets-culture-leisure/things-do/aviation-heritage</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
    Title: uksi 20250671 en  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2025/671/pdfs/uksi_20250671_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2025/671/pdfs/uksi_20250671_en.pdf</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2025/671/pdfs/uksi_20250671_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2025/671/pdfs/uksi_20250671_en.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iwm.org.uk  
    Title: Imperial War Museums IWM Duxford | Imperial War Museums  
-   Link: <a href="https://www.iwm.org.uk/visits/iwm-duxford" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/visits/iwm-duxford</a>  
+   Link:<a href="https://www.iwm.org.uk/visits/iwm-duxford" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/visits/iwm-duxford</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: 501csw.usafe.af.mil  
    Title: 501st Combat Support Wing Tri-Base History  
-   Link: <a href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: web.ifc.bices.org  
    Title: NIFCRAF Molesworth History  
-   Link: <a href="https://web.ifc.bices.org/community/raf-molesworth-history" target="_blank" rel="noopener noreferrer nofollow">https://web.ifc.bices.org/community/raf-molesworth-history</a>  
+   Link:<a href="https://web.ifc.bices.org/community/raf-molesworth-history" target="_blank" rel="noopener noreferrer nofollow">https://web.ifc.bices.org/community/raf-molesworth-history</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: iwm.org.uk  
    Title: Imperial War Museums What's Here  
-   Link: <a href="https://www.iwm.org.uk/visits/iwm-duxford/whats-here" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/visits/iwm-duxford/whats-here</a>  
+   Link:<a href="https://www.iwm.org.uk/visits/iwm-duxford/whats-here" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/visits/iwm-duxford/whats-here</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/airshows" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows</a>  
+   Link:<a href="https://www.iwm.org.uk/airshows" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/sites/default/files/files/2026-03/EGSU%20information%20for%20pilots%202026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/sites/default/files/files/2026-03/EGSU%20information%20for%20pilots%202026.pdf</a>  
+   Link:<a href="https://www.iwm.org.uk/sites/default/files/files/2026-03/EGSU%20information%20for%20pilots%202026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/sites/default/files/files/2026-03/EGSU%20information%20for%20pilots%202026.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/history/second-world-war/battle-of-britain/the-story-of-duxford-and-the-spitfire" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/history/second-world-war/battle-of-britain/the-story-of-duxford-and-the-spitfire</a>  
+   Link:<a href="https://www.iwm.org.uk/history/second-world-war/battle-of-britain/the-story-of-duxford-and-the-spitfire" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/history/second-world-war/battle-of-britain/the-story-of-duxford-and-the-spitfire</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/visits/iwm-duxford/whats-on" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/visits/iwm-duxford/whats-on</a>  
+   Link:<a href="https://www.iwm.org.uk/visits/iwm-duxford/whats-on" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/visits/iwm-duxford/whats-on</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: iwm.org.uk  
    Title: duxford summer air show  
-   Link: <a href="https://www.iwm.org.uk/airshows/duxford-summer-air-show" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows/duxford-summer-air-show</a>  
+   Link:<a href="https://www.iwm.org.uk/airshows/duxford-summer-air-show" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows/duxford-summer-air-show</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/sites/default/files/files/2020-06/GFO%20March%202020%20MASTER_updated.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/sites/default/files/files/2020-06/GFO%20March%202020%20MASTER_updated.pdf</a>  
+   Link:<a href="https://www.iwm.org.uk/sites/default/files/files/2020-06/GFO%20March%202020%20MASTER_updated.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/sites/default/files/files/2020-06/GFO%20March%202020%20MASTER_updated.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: iwm.org.uk  
    Title: Duxford Flying Evening  
-   Link: <a href="https://www.iwm.org.uk/airshows/events/duxford-flying-evening" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows/events/duxford-flying-evening</a>  
+   Link:<a href="https://www.iwm.org.uk/airshows/events/duxford-flying-evening" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows/events/duxford-flying-evening</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: iwm.org.uk  
    Title: duxford battle of britain airshow  
-   Link: <a href="https://www.iwm.org.uk/airshows/duxford-battle-of-britain-airshow" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows/duxford-battle-of-britain-airshow</a>  
+   Link:<a href="https://www.iwm.org.uk/airshows/duxford-battle-of-britain-airshow" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/airshows/duxford-battle-of-britain-airshow</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: RAF Alconbury  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Alconbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Alconbury</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Alconbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Alconbury</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cambridgeshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cambridgeshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Huntingdon and Peterborough  
-   Link: <a href="https://en.wikipedia.org/wiki/Huntingdon_and_Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdon_and_Peterborough</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Huntingdon_and_Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdon_and_Peterborough</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdonshire</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Huntingdonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Huntingdonshire</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: sync-below.com  
    Title: 10th Tactical Reconnaissance Wing  
-   Link: <a href="https://sync-below.com/tag/10th-tactical-reconnaissance-wing/" target="_blank" rel="noopener noreferrer nofollow">https://sync-below.com/tag/10th-tactical-reconnaissance-wing/</a>  
+   Link:<a href="https://sync-below.com/tag/10th-tactical-reconnaissance-wing/" target="_blank" rel="noopener noreferrer nofollow">https://sync-below.com/tag/10th-tactical-reconnaissance-wing/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nicwhe8.freehostia.com  
-   Link: <a href="https://nicwhe8.freehostia.com/10trw/alconbury/alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://nicwhe8.freehostia.com/10trw/alconbury/alconbury.html</a>  
+   Link:<a href="https://nicwhe8.freehostia.com/10trw/alconbury/alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://nicwhe8.freehostia.com/10trw/alconbury/alconbury.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: 501csw.usafe.af.mil  
    Title: mil RA F Alconbury & Molesworth  
-   Link: <a href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Alconbury-RAF-Molesworth/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Alconbury-RAF-Molesworth/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Alconbury-RAF-Molesworth/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Alconbury-RAF-Molesworth/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: sabre-roads.org.uk  
-   Link: <a href="https://www.sabre-roads.org.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.sabre-roads.org.uk/wiki/Huntingdonshire</a>  
+   Link:<a href="https://www.sabre-roads.org.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.sabre-roads.org.uk/wiki/Huntingdonshire</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ukairfields.org.uk  
-   Link: <a href="https://www.ukairfields.org.uk/alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/alconbury.html</a>  
+   Link:<a href="https://www.ukairfields.org.uk/alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/alconbury.html</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ivh3z8Z6TC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ivh3z8Z6TC0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 600 from IWM Duxford | Plane Talking UK Podcast | Aviation Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ivh3z8Z6TC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ivh3z8Z6TC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 600 from IWM Duxford | Plane Talking UK Podcast | Aviation Podcast...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: RAF Bassingbourn, USAAF Station 121  
-   Link: <a href="https://www.youtube.com/watch?v=JMNxdXiKiTw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JMNxdXiKiTw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alconbury Airshow 1991 – Remastered VHS Footage of USAF &amp; Cold War Jets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JMNxdXiKiTw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JMNxdXiKiTw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alconbury Airshow 1991 – Remastered VHS Footage of USAF &amp; Cold War Jets...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z-NlX1ARW5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z-NlX1ARW5o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bassingbourn, USAAF Station 121 - Ghost Stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z-NlX1ARW5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z-NlX1ARW5o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bassingbourn, USAAF Station 121 - Ghost Stories...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: vetfriends.com  
-   Link: <a href="https://vetfriends.com/units/6201/10th-tactical-recon-wing" target="_blank" rel="noopener noreferrer nofollow">https://vetfriends.com/units/6201/10th-tactical-recon-wing</a>  
+   Link:<a href="https://vetfriends.com/units/6201/10th-tactical-recon-wing" target="_blank" rel="noopener noreferrer nofollow">https://vetfriends.com/units/6201/10th-tactical-recon-wing</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: iwmduxfordvenuehire.co.uk  
-   Link: <a href="https://www.iwmduxfordvenuehire.co.uk/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.iwmduxfordvenuehire.co.uk/about/</a>  
+   Link:<a href="https://www.iwmduxfordvenuehire.co.uk/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.iwmduxfordvenuehire.co.uk/about/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/huntingdonshire/about-the-society/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/huntingdonshire/about-the-society/</a>  
+   Link:<a href="https://abcounties.com/huntingdonshire/about-the-society/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/huntingdonshire/about-the-society/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
+   Link:<a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: cambridgemilitaryhistory.com  
-   Link: <a href="https://cambridgemilitaryhistory.com/" target="_blank" rel="noopener noreferrer nofollow">https://cambridgemilitaryhistory.com/</a>  
+   Link:<a href="https://cambridgemilitaryhistory.com/" target="_blank" rel="noopener noreferrer nofollow">https://cambridgemilitaryhistory.com/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/138667910072083/posts/1648283219110537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/138667910072083/posts/1648283219110537/</a>  
+   Link:<a href="https://www.facebook.com/groups/138667910072083/posts/1648283219110537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/138667910072083/posts/1648283219110537/</a>  

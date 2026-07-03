@@ -118,9 +118,9 @@ heading_title: What Really Happened Over Gloucestershire?
 page_heading_title: What Really Happened Over Gloucestershire?
 source_count: 130
 infographic_count: 3
-page_website_name: Gloucestershire UFOs
+page_website_name: Gloucestershire
 page_banner_line: Balanced county-level UFO history from RAF cases to modern sighting reports.
-site_website_name: Gloucestershire UFOs
+site_website_name: Gloucestershire
 site_banner_line: Balanced county-level UFO history from RAF cases to modern sighting reports.
 site_image_description: A quiet Gloucestershire airfield at dusk with a vintage jet on the runway and three pale disc-like shapes high in the cloudy sky.
 output_language: English
@@ -689,19 +689,19 @@ image: /assets/images/Gloucestershire_03cc40-overview-social.jpg
 
 ## Introduction
 
-For this page, “Gloucestershire” is treated mainly as the historic county used by the project’s county map. That matters because older accounts, [airfields]({{ 'airfields-c5b03e/' | relative_url }}) and local newspapers do not always match today’s council boundaries. Gloucestershire’s historic geography includes places and border complications that differ from the modern administrative county; Wikishire’s historic-county map follows the Historic Counties Standard, while modern county council material uses current administrative districts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this page, “Gloucestershire” is treated mainly as the historic county used by the project’s county map. That matters because older accounts, [airfields]({{ 'airfields-c5b03e/' | relative_url }}) and local newspapers do not always match today’s council boundaries. Gloucestershire’s historic geography includes places and border complications that differ from the modern administrative county; Wikishire’s historic-county map follows the Historic Counties Standard, while modern county council material uses current administrative districts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Gloucestershire?" loading="eager" decoding="sync" fetchpriority="high">
 ## The Little Rissington case is the county’s landmark UFO story
 
-The most important Gloucestershire UFO account is the Little Rissington incident of 21 October 1952. Flight Lieutenant Michael Swiney, a Central Flying School instructor, and Royal Navy Lieutenant David Crofts were flying a Gloster Meteor trainer from RAF Little Rissington when they reported seeing three white, circular or saucer-shaped objects high above them. Dr David Clarke’s account, based on official files and later interviews, places the case in a period when the British authorities had become newly sensitive to radar-visual UFO reports after 1952 sightings in the United States and during NATO exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Operation Mainbrace UFOs</span><span class="citation-popover-snippet">Dr. David Clarke Operation Mainbrace UFOs</span></span></span>
+The most important Gloucestershire UFO account is the Little Rissington incident of 21 October 1952. Flight Lieutenant Michael Swiney, a Central Flying School instructor, and Royal Navy Lieutenant David Crofts were flying a Gloster Meteor trainer from RAF Little Rissington when they reported seeing three white, circular or saucer-shaped objects high above them. Dr David Clarke’s account, based on official files and later interviews, places the case in a period when the British authorities had become newly sensitive to radar-visual UFO reports after 1952 sightings in the United States and during NATO exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Operation Mainbrace UFOs</span><span class="citation-popover-snippet">Dr. David Clarke Operation Mainbrace UFOs</span></span></span>
 
-The case matters because it was not simply a lone civilian report of a strange light. It involved trained aircrew, a military aircraft, an RAF training station, and, according to later accounts, radar-related follow-up. The National Archives extract from Clarke’s *The UFO Files* specifically flags visual sightings apparently corroborated by radar as a feature that concerned the Air Ministry, and names the Swiney and Crofts report in that context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The case matters because it was not simply a lone civilian report of a strange light. It involved trained aircrew, a military aircraft, an RAF training station, and, according to later accounts, radar-related follow-up. The National Archives extract from Clarke’s *The UFO Files* specifically flags visual sightings apparently corroborated by radar as a feature that concerned the Air Ministry, and names the Swiney and Crofts report in that context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-RAF Little Rissington was not an obscure field. The RAF Museum notes that the Central Flying School was re-established there in 1946 and again became the RAF’s school for training flying instructors. That makes the sighting’s setting important: this was a professional flying environment, not a casual rural observation from the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmuseum.org.uk">[RAF Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmuseum.org.uk</span><span class="citation-popover-title">central flying school</span><span class="citation-popover-snippet">central flying school</span></span></span>
+RAF Little Rissington was not an obscure field. The RAF Museum notes that the Central Flying School was re-established there in 1946 and again became the RAF’s school for training flying instructors. That makes the sighting’s setting important: this was a professional flying environment, not a casual rural observation from the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmuseum.org.uk">[RAF Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmuseum.org.uk</span><span class="citation-popover-title">central flying school</span><span class="citation-popover-snippet">central flying school</span></span></span>
 
-The details still need caution. The main public retellings rely on declassified material, later interviews and secondary reconstruction, not a modern sensor package or a complete scientific investigation. The Times obituary of Michael Swiney, as summarised in accessible search text, places him at RAF Little Rissington as a staff instructor, and a Clare College memorial note records his later attitude: he did not claim “little green men”, but said that he and Crofts saw something they could not explain. That is a sober witness position, but it is not the same as proving an extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/uk/article/michael-swiney-qzwgk92jl?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">michael swiney qzwgk92jl</span><span class="citation-popover-snippet">michael swiney qzwgk92jl</span></span></span>
+The details still need caution. The main public retellings rely on declassified material, later interviews and secondary reconstruction, not a modern sensor package or a complete scientific investigation. The Times obituary of Michael Swiney, as summarised in accessible search text, places him at RAF Little Rissington as a staff instructor, and a Clare College memorial note records his later attitude: he did not claim “little green men”, but said that he and Crofts saw something they could not explain. That is a sober witness position, but it is not the same as proving an extraordinary object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/uk/article/michael-swiney-qzwgk92jl?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">michael swiney qzwgk92jl</span><span class="citation-popover-snippet">michael swiney qzwgk92jl</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Gloucestershire? illustration 1" data-theme-src-dark="{{ "/assets/images/Gloucestershire_03cc40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gloucestershire_03cc40-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -709,9 +709,9 @@ The details still need caution. The main public retellings rely on declassified 
 
 Gloucestershire’s UFO history has a strong aviation backdrop. RAF Little Rissington, RAF Staverton, Gloucestershire Airport and nearby training routes all affect how sky reports should be read. A sighting in this county may be mysterious to a witness while still being connected to aircraft, training activity, gliders, helicopters, drones, satellites, lanterns or ordinary air traffic.
 
-RAF Little Rissington remains especially relevant. Wikishire describes it as an RAF aerodrome in eastern Gloucestershire, once home to the Central Flying School, the Vintage Pair and the Red Arrows, with the airfield retained by the Ministry of Defence. The RAF’s own information for RAF Syerston says Little Rissington is one of the satellite airfields used by 2 Flying Training School for gliding and aerotow activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/RAF_Little_Rissington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">RAF Little Rissington</span><span class="citation-popover-snippet">RAF Little Rissington</span></span></span>
+RAF Little Rissington remains especially relevant. Wikishire describes it as an RAF aerodrome in eastern Gloucestershire, once home to the Central Flying School, the Vintage Pair and the Red Arrows, with the airfield retained by the Ministry of Defence. The RAF’s own information for RAF Syerston says Little Rissington is one of the satellite airfields used by 2 Flying Training School for gliding and aerotow activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/RAF_Little_Rissington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">RAF Little Rissington</span><span class="citation-popover-snippet">RAF Little Rissington</span></span></span>
 
-Staverton also matters. Gloucestershire Airport’s own history says the present 300-acre site was formed in 1936 as Staverton Airport, replacing the earlier Down Hatherley airfield, and that Gloucester City and Cheltenham Borough Councils formed Gloucestershire Airport Limited in 1993. The Airfields of Britain Conservation Trust identifies Staverton as a Gloucestershire airfield opened in 1936, used by both RAF and civil aviation, and still active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershireairport.co.uk/about-us/airport-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershireairport.co.uk">[Gloucestershire Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershireairport.co.uk</span><span class="citation-popover-title">airport history</span><span class="citation-popover-snippet">airport history</span></span></span>
+Staverton also matters. Gloucestershire Airport’s own history says the present 300-acre site was formed in 1936 as Staverton Airport, replacing the earlier Down Hatherley airfield, and that Gloucester City and Cheltenham Borough Councils formed Gloucestershire Airport Limited in 1993. The Airfields of Britain Conservation Trust identifies Staverton as a Gloucestershire airfield opened in 1936, used by both RAF and civil aviation, and still active.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershireairport.co.uk/about-us/airport-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershireairport.co.uk">[Gloucestershire Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershireairport.co.uk</span><span class="citation-popover-title">airport history</span><span class="citation-popover-snippet">airport history</span></span></span>
 
 This aviation context does not “debunk” every local report. It simply sets the first test for any Gloucestershire case: what was in the sky at the time? A report near Cheltenham, Staverton, Gloucester, the Cotswolds or the Severn corridor should be checked against aircraft tracks, gliding, military training, drones, meteor activity, satellites, the International Space Station, Chinese lanterns, fireworks and weather phenomena before it is treated as genuinely unexplained.
 
@@ -720,24 +720,24 @@ This aviation context does not “debunk” every local report. It simply sets t
 
 ## What the official record shows, and what it does not
 
-The Ministry of Defence did collect UFO reports for decades, and some Gloucestershire entries appear in the released material. GOV.UK’s UFO reports page describes the MoD files as covering reports from 1997 to 2009, giving dates, times, locations and brief descriptions. In the 2009 report, Gloucester appears on 29 August 2009 with two entries at 05:20, including “Two UFOs flying overhead”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Ministry of Defence did collect UFO reports for decades, and some Gloucestershire entries appear in the released material. GOV.UK’s UFO reports page describes the MoD files as covering reports from 1997 to 2009, giving dates, times, locations and brief descriptions. In the 2009 report, Gloucester appears on 29 August 2009 with two entries at 05:20, including “Two UFOs flying overhead”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 That is useful, but it is not a verdict. The MoD lists were primarily logs of reports received, not confirmations that unusual craft existed. The entry is short, gives no detailed investigation in the public PDF, and does not by itself establish whether the objects were aircraft, balloons, lanterns, meteors, satellites or something else. The most honest reading is that Gloucester had recorded reports in the official system, not that the official system confirmed a mystery.
 
-The National Archives explains that official reporting and recording of UFO sightings began in the early 1950s, but that until 1967 MoD policy was to destroy UFO files after five years, meaning many early records have been lost. Since 1970, most surviving MoD UFO files have been reviewed for release to The National Archives because of public interest. This is important for Gloucestershire because a thin archive does not necessarily mean a thin sky-history; it may also reflect record-destruction policy, patchy reporting and the uneven survival of local press material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives explains that official reporting and recording of UFO sightings began in the early 1950s, but that until 1967 MoD policy was to destroy UFO files after five years, meaning many early records have been lost. Since 1970, most surviving MoD UFO files have been reviewed for release to The National Archives because of public interest. This is important for Gloucestershire because a thin archive does not necessarily mean a thin sky-history; it may also reflect record-destruction policy, patchy reporting and the uneven survival of local press material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MoD closed its UFO desk in 2009. The National Archives’ final-tranche release says the last 25 files covered the desk’s final two years and that sighting reports had surged, with more than 600 in 2009. The same release says the desk was judged to serve no defence purpose and to encourage correspondence; later parliamentary discussion in 2021 stated that the department held no current UAP reports and that relevant UFO desk material had been passed to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD closed its UFO desk in 2009. The National Archives’ final-tranche release says the last 25 files covered the desk’s final two years and that sighting reports had surged, with more than 600 in 2009. The same release says the desk was judged to serve no defence purpose and to encourage correspondence; later parliamentary discussion in 2021 stated that the department held no current UAP reports and that relevant UFO desk material had been passed to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uHLRqxEmwks" title="2010: UFO Files Released by UK Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer">2010: UFO Files Released by UK Government</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uHLRqxEmwks">Open on YouTube</a></p></div></div></div>
 
 ## Recent sighting clusters are interesting, but weaker than the RAF case
 
-Modern Gloucestershire UFO reporting is broader but generally weaker. A 2023 Gloucestershire Live data article, drawing on UFO Identified, listed 13 reports in the county between January 2021 and May 2023, including sightings in Cheltenham, Cirencester, Coleford, Dursley, Gloucester, Hucclecote, Matson, Notgrove, Tewkesbury and Thornbury. The descriptions included blue pulsing lights, hovering orbs, star-like objects, orange fireballs, a red saucer shape, and a “Tic-Tac”-like object later noticed in a moon photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[Gloucestershire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-title">Gloucestershire Live Mapped</span><span class="citation-popover-snippet">Gloucestershire Live Mapped</span></span></span>
+Modern Gloucestershire UFO reporting is broader but generally weaker. A 2023 Gloucestershire Live data article, drawing on UFO Identified, listed 13 reports in the county between January 2021 and May 2023, including sightings in Cheltenham, Cirencester, Coleford, Dursley, Gloucester, Hucclecote, Matson, Notgrove, Tewkesbury and Thornbury. The descriptions included blue pulsing lights, hovering orbs, star-like objects, orange fireballs, a red saucer shape, and a “Tic-Tac”-like object later noticed in a moon photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[Gloucestershire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-title">Gloucestershire Live Mapped</span><span class="citation-popover-snippet">Gloucestershire Live Mapped</span></span></span>
 
-The pattern is typical of modern UFO data: many reports are brief, visual, and light-based. Nationally, the same reporting project was described as having logged 957 UK sightings between January 2021 and May 2023, with “star-like” objects, orbs, spheres and cylinders among the common categories. That helps put Gloucestershire in context: the county is not uniquely active, but it participates in a wider UK pattern of people reporting unusual lights and objects during a period of renewed public interest in UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bristolpost.co.uk/news/bristol-news/ufo-sightings-uk-shown-interactive-8653285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristolpost.co.uk">[Bristol Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristolpost.co.uk</span><span class="citation-popover-title">Bristol Post UFO sightings in the UK shown on interactive map</span><span class="citation-popover-snippet">Bristol Post UFO sightings in the UK shown on interactive map</span></span></span>
+The pattern is typical of modern UFO data: many reports are brief, visual, and light-based. Nationally, the same reporting project was described as having logged 957 UK sightings between January 2021 and May 2023, with “star-like” objects, orbs, spheres and cylinders among the common categories. That helps put Gloucestershire in context: the county is not uniquely active, but it participates in a wider UK pattern of people reporting unusual lights and objects during a period of renewed public interest in UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bristolpost.co.uk/news/bristol-news/ufo-sightings-uk-shown-interactive-8653285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristolpost.co.uk">[Bristol Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristolpost.co.uk</span><span class="citation-popover-title">Bristol Post UFO sightings in the UK shown on interactive map</span><span class="citation-popover-snippet">Bristol Post UFO sightings in the UK shown on interactive map</span></span></span>
 
-Several Gloucestershire examples have obvious first-pass explanations to test. A slow line of 15 or 20 lights, such as the Hucclecote-style description reported in 2021, may suggest satellites or aircraft in formation before anything more exotic is considered. Orange “fireballs” in triangular formation, such as the Gloucester report listed for July 2022, invite comparison with lanterns, drones, aircraft lights, fireworks or military activity. A white object found later in a moon photograph may be more vulnerable to camera artefacts, insects, birds, aircraft blur or exposure effects than a sighting seen clearly by eye. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[Gloucestershire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-title">Gloucestershire Live Mapped</span><span class="citation-popover-snippet">Gloucestershire Live Mapped</span></span></span>
+Several Gloucestershire examples have obvious first-pass explanations to test. A slow line of 15 or 20 lights, such as the Hucclecote-style description reported in 2021, may suggest satellites or aircraft in formation before anything more exotic is considered. Orange “fireballs” in triangular formation, such as the Gloucester report listed for July 2022, invite comparison with lanterns, drones, aircraft lights, fireworks or military activity. A white object found later in a moon photograph may be more vulnerable to camera artefacts, insects, birds, aircraft blur or exposure effects than a sighting seen clearly by eye.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershirelive.co.uk">[Gloucestershire Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershirelive.co.uk</span><span class="citation-popover-title">Gloucestershire Live Mapped</span><span class="citation-popover-snippet">Gloucestershire Live Mapped</span></span></span>
 
 None of that makes witnesses dishonest. It means the evidential bar is different. A first-person account can be sincere and still be misidentified. The Little Rissington case remains stronger because it involved aviation professionals and became part of the official historical record. The recent county list is better treated as a map of public reporting, curiosity and possible misidentification patterns.
 
@@ -745,11 +745,11 @@ None of that makes witnesses dishonest. It means the evidential bar is different
 <img src="{{ "/assets/images/Gloucestershire_03cc40-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened Over Gloucestershire? illustration 2" data-theme-src-dark="{{ "/assets/images/Gloucestershire_03cc40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gloucestershire_03cc40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police and FOI records show reporting pressure, not confirmed mysteries
 
-Gloucestershire Constabulary material adds another useful caution. A 2023 Freedom of Information response said a free-text search of the incident recording system for terms including “UFO”, “Alien”, “UAP” and “Spaceship” between 1 January 2020 and 19 July 2023 returned 330 recorded incidents, but the force said it could not electronically retrieve and manually review the information within the FOI cost limit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_23_0744_ufo-reports--incidents.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershire.police.uk">[gloucestershire.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershire.police.uk</span><span class="citation-popover-title">Gloucestershire Constabulary Police Headquarters No.1</span><span class="citation-popover-snippet">Gloucestershire Constabulary Police Headquarters No.1</span></span></span>
+Gloucestershire Constabulary material adds another useful caution. A 2023 Freedom of Information response said a free-text search of the incident recording system for terms including “UFO”, “Alien”, “UAP” and “Spaceship” between 1 January 2020 and 19 July 2023 returned 330 recorded incidents, but the force said it could not electronically retrieve and manually review the information within the FOI cost limit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_23_0744_ufo-reports--incidents.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershire.police.uk">[gloucestershire.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershire.police.uk</span><span class="citation-popover-title">Gloucestershire Constabulary Police Headquarters No.1</span><span class="citation-popover-snippet">Gloucestershire Constabulary Police Headquarters No.1</span></span></span>
 
-That figure should not be read as “330 UFO sightings”. Police incident systems contain noise: keywords can appear in jokes, welfare incidents, mental-health contexts, drone calls, nuisance reports, vehicle registrations, misunderstandings or unrelated comments. A later FOI response about paranormal or supernatural activity said the broader search terms would identify more than 1,500 records and would take too long to review within the statutory limit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0428_calls-on-ghosts-demons-and-monsters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershire.police.uk">[gloucestershire.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershire.police.uk</span><span class="citation-popover-title">Gloucestershire Constabulary Police Headquarters No.1</span><span class="citation-popover-snippet">Gloucestershire Constabulary Police Headquarters No.1</span></span></span>
+That figure should not be read as “330 UFO sightings”. Police incident systems contain noise: keywords can appear in jokes, welfare incidents, mental-health contexts, drone calls, nuisance reports, vehicle registrations, misunderstandings or unrelated comments. A later FOI response about paranormal or supernatural activity said the broader search terms would identify more than 1,500 records and would take too long to review within the statutory limit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0428_calls-on-ghosts-demons-and-monsters.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershire.police.uk">[gloucestershire.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershire.police.uk</span><span class="citation-popover-title">Gloucestershire Constabulary Police Headquarters No.1</span><span class="citation-popover-snippet">Gloucestershire Constabulary Police Headquarters No.1</span></span></span>
 
-A separate 2025 Gloucestershire Constabulary FOI response about “drone” reports over a short November 2024 period searched for “drone”, “drones” and “UFO” and found 19 reported incidents, while withholding incident documents under personal-information exemptions. That is a reminder that in the 2020s some reports once labelled UFO may now sit closer to drone concern, airspace safety and public-order logging than to classic flying-saucer investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0475_drone-reports-november-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershire.police.uk">[gloucestershire.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershire.police.uk</span><span class="citation-popover-title">foi 25 0475 drone reports november 2024</span><span class="citation-popover-snippet">foi 25 0475 drone reports november 2024</span><span class="citation-popover-meta">Published: november 2024</span></span></span>
+A separate 2025 Gloucestershire Constabulary FOI response about “drone” reports over a short November 2024 period searched for “drone”, “drones” and “UFO” and found 19 reported incidents, while withholding incident documents under personal-information exemptions. That is a reminder that in the 2020s some reports once labelled UFO may now sit closer to drone concern, airspace safety and public-order logging than to classic flying-saucer investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0475_drone-reports-november-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gloucestershire.police.uk">[gloucestershire.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gloucestershire.police.uk</span><span class="citation-popover-title">foi 25 0475 drone reports november 2024</span><span class="citation-popover-snippet">foi 25 0475 drone reports november 2024</span><span class="citation-popover-meta">Published: november 2024</span></span></span>
 
 For readers, the key point is simple: police and FOI records can show that people reported unusual things, but they rarely settle what the thing was. They are starting points for investigation, not final explanations.
 
@@ -758,9 +758,9 @@ For readers, the key point is simple: police and FOI records can show that peopl
 
 ## Boundary issues: Gloucestershire, South Gloucestershire and the edges of the map
 
-County boundaries matter in this project because UFO stories often travel through newspapers, airports, police areas and witness memory rather than through tidy map categories. Gloucestershire as a historic county is not identical to every modern administrative use of the name. Britannica distinguishes Gloucestershire as administrative, geographic and historic, and notes that the administrative county comprises Cotswold, Forest of Dean, Stroud, Cheltenham, Tewkesbury and Gloucester. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Gloucestershire &#124; England, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Gloucestershire &#124; England, Map, History, &amp; Facts</span></span></span>
+County boundaries matter in this project because UFO stories often travel through newspapers, airports, police areas and witness memory rather than through tidy map categories. Gloucestershire as a historic county is not identical to every modern administrative use of the name. Britannica distinguishes Gloucestershire as administrative, geographic and historic, and notes that the administrative county comprises Cotswold, Forest of Dean, Stroud, Cheltenham, Tewkesbury and Gloucester.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Gloucestershire &#124; England, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Gloucestershire &#124; England, Map, History, &amp; Facts</span></span></span>
 
-Wikishire’s historic-county account gives a wider historical frame, including Gloucestershire’s borders with Monmouthshire, Herefordshire, Worcestershire, Warwickshire, Oxfordshire, Berkshire, Wiltshire and Somerset, and notes the old boundary relationship with Bristol and the River Avon. Modern local-government material, by contrast, deals with current district and ward boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Wikishire’s historic-county account gives a wider historical frame, including Gloucestershire’s borders with Monmouthshire, Herefordshire, Worcestershire, Warwickshire, Oxfordshire, Berkshire, Wiltshire and Somerset, and notes the old boundary relationship with Bristol and the River Avon. Modern local-government material, by contrast, deals with current district and ward boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 This affects cases near Bristol, Thornbury, South Gloucestershire, the Cotswold-Oxfordshire edge and the Severn. A report may be “Gloucestershire” in a historic-county sense, “South Gloucestershire” in a modern unitary-authority sense, or covered by Bristol media because that is the nearest news market. For this page, the centre of gravity remains Gloucestershire, but border sightings should be handled transparently rather than forced into one category.
 
@@ -795,194 +795,194 @@ The Little Rissington incident is the county’s main case because it sits at th
 Gloucestershire’s UFO record is therefore neither empty nor sensational. It is a careful middle case: one notable RAF-era incident, a continuing pattern of public reports, and a strong need for aviation-aware, source-aware interpretation before any claim is treated as more than unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Gloucestershire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Gloucestershire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong fit for a page centered on an RAF-era incident and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page centered on an RAF-era incident and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a foundational framework for assessing UFO reports such as the Little Rissington case and other Gloucestershire sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a foundational framework for assessing UFO reports such as the Little Rissington case and other Gloucestershire sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Places 1950s British sightings into the broader postwar UFO wave context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places 1950s British sightings into the broader postwar UFO wave context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Useful for comparing Gloucestershire reports with other notable UFO encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing Gloucestershire reports with other notable UFO encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!"><img src="{{ '/assets/images/marketplace-covers/0421bd52e30612956506.jpg' | relative_url }}" alt="Listing image for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!"><img src="{{ '/assets/images/marketplace-covers/0421bd52e30612956506.jpg' | relative_url }}" alt="Listing image for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/b2ce34692010fa8ca60e.jpg' | relative_url }}" alt="Listing image for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/b2ce34692010fa8ca60e.jpg' | relative_url }}" alt="Listing image for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens"><img src="{{ '/assets/images/marketplace-covers/49f16e3f6f0ba5b828cf.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens"><img src="{{ '/assets/images/marketplace-covers/49f16e3f6f0ba5b828cf.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-over-what-really-happened-over-gloucestershire-gloucestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -998,7 +998,7 @@ Gloucestershire’s UFO record is therefore neither empty nor sensational. It is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1018,7 +1018,7 @@ Gloucestershire’s UFO record is therefore neither empty nor sensational. It is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1050,7 +1050,7 @@ Gloucestershire’s UFO record is therefore neither empty nor sensational. It is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1102,7 +1102,7 @@ Gloucestershire’s UFO record is therefore neither empty nor sensational. It is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1147,7 +1147,7 @@ Gloucestershire’s UFO record is therefore neither empty nor sensational. It is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1188,284 +1188,284 @@ Gloucestershire’s UFO record is therefore neither empty nor sensational. It is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gloucestershire.gov.uk  
-   Link: <a href="https://www.gloucestershire.gov.uk/inform/geography-and-boundaries/boundary-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.gov.uk/inform/geography-and-boundaries/boundary-maps/</a>  
+   Link:<a href="https://www.gloucestershire.gov.uk/inform/geography-and-boundaries/boundary-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.gov.uk/inform/geography-and-boundaries/boundary-maps/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-syerston/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-syerston/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-syerston/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-syerston/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gloucestershire.police.uk  
    Title: Gloucestershire Constabulary Police Headquarters No.1  
-   Link: <a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_23_0744_ufo-reports--incidents.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_23_0744_ufo-reports--incidents.pdf</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_23_0744_ufo-reports--incidents.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_23_0744_ufo-reports--incidents.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gloucestershire.police.uk  
    Title: Gloucestershire Constabulary Police Headquarters No.1  
-   Link: <a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0428_calls-on-ghosts-demons-and-monsters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0428_calls-on-ghosts-demons-and-monsters.pdf</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0428_calls-on-ghosts-demons-and-monsters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0428_calls-on-ghosts-demons-and-monsters.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gloucestershire.police.uk  
    Title: foi 25 0475 drone reports november 2024  
-   Link: <a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0475_drone-reports-november-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0475_drone-reports-november-2024.pdf</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0475_drone-reports-november-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2025/foi_25_0475_drone-reports-november-2024.pdf</a>  
    Published: november 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Gloucestershire | England, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gloucestershire</a>  
+   Link:<a href="https://www.britannica.com/place/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gloucestershire</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1990/170/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1990/170/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1990/170/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1990/170/made</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gloucestershire.police.uk  
-   Link: <a href="https://www.gloucestershire.police.uk/rqo/request/ri/request-information/rip/request-information-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/rqo/request/ri/request-information/rip/request-information-police/</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/rqo/request/ri/request-information/rip/request-information-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/rqo/request/ri/request-information/rip/request-information-police/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gloucestershire.police.uk  
    Title: foi 24 0779 call outs relating to paranormal or supernatural activity  
-   Link: <a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_24_0779-call-outs-relating-to-paranormal-or-supernatural-activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_24_0779-call-outs-relating-to-paranormal-or-supernatural-activity.pdf</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_24_0779-call-outs-relating-to-paranormal-or-supernatural-activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/SysSiteAssets/foi-media/gloucestershire/disclosure_2023_march-onwards/foi_24_0779-call-outs-relating-to-paranormal-or-supernatural-activity.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gloucestershire.police.uk  
-   Link: <a href="https://www.gloucestershire.police.uk/foi-ai/af/accessing-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/foi-ai/af/accessing-information/</a>  
+   Link:<a href="https://www.gloucestershire.police.uk/foi-ai/af/accessing-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.police.uk/foi-ai/af/accessing-information/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gloucestershire-pcc.gov.uk  
-   Link: <a href="https://www.gloucestershire-pcc.gov.uk/key-information/freedom-of-information-foi/make-a-foi-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire-pcc.gov.uk/key-information/freedom-of-information-foi/make-a-foi-request/</a>  
+   Link:<a href="https://www.gloucestershire-pcc.gov.uk/key-information/freedom-of-information-foi/make-a-foi-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire-pcc.gov.uk/key-information/freedom-of-information-foi/make-a-foi-request/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gloucestershire.gov.uk  
-   Link: <a href="https://www.gloucestershire.gov.uk/archives/our-projects/project-case-studies/know-your-place-west-of-england/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.gov.uk/archives/our-projects/project-case-studies/know-your-place-west-of-england/</a>  
+   Link:<a href="https://www.gloucestershire.gov.uk/archives/our-projects/project-case-studies/know-your-place-west-of-england/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.gov.uk/archives/our-projects/project-case-studies/know-your-place-west-of-england/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gloucestershire.gov.uk  
-   Link: <a href="https://www.gloucestershire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.gov.uk/</a>  
+   Link:<a href="https://www.gloucestershire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershire.gov.uk/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: upperrissington-pc.gov.uk  
-   Link: <a href="https://upperrissington-pc.gov.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://upperrissington-pc.gov.uk/history/</a>  
+   Link:<a href="https://upperrissington-pc.gov.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://upperrissington-pc.gov.uk/history/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gloucester.gov.uk  
-   Link: <a href="https://www.gloucester.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucester.gov.uk/</a>  
+   Link:<a href="https://www.gloucester.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucester.gov.uk/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke Operation Mainbrace UFOs  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: gloucestershirelive.co.uk  
    Title: Gloucestershire Live Mapped  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mapped-every-ufo-sighting-reported-8653555</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Gloucestershire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Gloucestershire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rafmuseum.org.uk  
    Title: central flying school  
-   Link: <a href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/</a>  
+   Link:<a href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thetimes.com  
    Title: michael swiney qzwgk92jl  
-   Link: <a href="https://www.thetimes.com/uk/article/michael-swiney-qzwgk92jl?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/article/michael-swiney-qzwgk92jl?eafs_enabled=false</a>  
+   Link:<a href="https://www.thetimes.com/uk/article/michael-swiney-qzwgk92jl?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/article/michael-swiney-qzwgk92jl?eafs_enabled=false</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
    Title: RAF Little Rissington  
-   Link: <a href="https://wikishire.co.uk/wiki/RAF_Little_Rissington" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/RAF_Little_Rissington</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/RAF_Little_Rissington" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/RAF_Little_Rissington</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gloucestershireairport.co.uk  
    Title: airport history  
-   Link: <a href="https://www.gloucestershireairport.co.uk/about-us/airport-history" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/about-us/airport-history</a>  
+   Link:<a href="https://www.gloucestershireairport.co.uk/about-us/airport-history" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershireairport.co.uk/about-us/airport-history</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: bristolpost.co.uk  
    Title: Bristol Post UFO sightings in the UK shown on interactive map  
-   Link: <a href="https://www.bristolpost.co.uk/news/bristol-news/ufo-sightings-uk-shown-interactive-8653285" target="_blank" rel="noopener noreferrer nofollow">https://www.bristolpost.co.uk/news/bristol-news/ufo-sightings-uk-shown-interactive-8653285</a>  
+   Link:<a href="https://www.bristolpost.co.uk/news/bristol-news/ufo-sightings-uk-shown-interactive-8653285" target="_blank" rel="noopener noreferrer nofollow">https://www.bristolpost.co.uk/news/bristol-news/ufo-sightings-uk-shown-interactive-8653285</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gloucestershire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gloucestershire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: RAF Staverton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Staverton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Staverton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Staverton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Staverton</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Central Flying School  
-   Link: <a href="https://en.wikipedia.org/wiki/Central_Flying_School" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Flying_School</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Central_Flying_School" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Flying_School</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: gloucestershirelive.co.uk  
    Title: mystery lights cheltenham gloucester ufo 2015610  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/mystery-lights-cheltenham-gloucester-ufo-2015610</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gloucestershirelive.co.uk  
    Title: declassified report ufo sightings near 4560989  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/regional-news/declassified-report-ufo-sightings-near-4560989" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/regional-news/declassified-report-ufo-sightings-near-4560989</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/regional-news/declassified-report-ufo-sightings-near-4560989" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/regional-news/declassified-report-ufo-sightings-near-4560989</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: gloucestershirelive.co.uk  
    Title: interactive map shows every ufo 9185084  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/regional-news/interactive-map-shows-every-ufo-9185084</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: gloucestershirelive.co.uk  
    Title: ufo map shows bizarre encounters 8755124  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/ufo-map-shows-bizarre-encounters-8755124</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: gloucestershirelive.co.uk  
    Title: truth out there see ufo 9718140  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/cheltenham-news/truth-out-there-see-ufo-9718140</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gloucestershirelive.co.uk  
    Title: Gloucestershire schools to close amid extreme heat  
-   Link: <a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/gloucestershire-schools-close-amid-extreme-11025786" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/gloucestershire-schools-close-amid-extreme-11025786</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/news/gloucester-news/gloucestershire-schools-close-amid-extreme-11025786" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/news/gloucester-news/gloucestershire-schools-close-amid-extreme-11025786</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: gloucestershirelive.co.uk  
    Title: Gloucestershire battle hard but beaten for seventh time in eight  
-   Link: <a href="https://www.gloucestershirelive.co.uk/sport/other-sport/gloucestershire-battle-hard-beaten-seventh-11025705" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/sport/other-sport/gloucestershire-battle-hard-beaten-seventh-11025705</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/sport/other-sport/gloucestershire-battle-hard-beaten-seventh-11025705" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/sport/other-sport/gloucestershire-battle-hard-beaten-seventh-11025705</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: gloucestershirelive.co.uk  
    Title: Gloucestershire Live  
-   Link: <a href="https://www.gloucestershirelive.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/</a>  
+   Link:<a href="https://www.gloucestershirelive.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gloucestershirelive.co.uk/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: wikishire.co.uk  
    Title: Gloucestershire Airport  
-   Link: <a href="https://wikishire.co.uk/wiki/Gloucestershire_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Gloucestershire_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Gloucestershire_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Gloucestershire_Airport</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: whatdotheyknow.com  
    Title: Gloucestershire Constabulary  
-   Link: <a href="https://www.whatdotheyknow.com/body/gloucestershire_police/successful?locale=en&amp;page=11" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/gloucestershire_police/successful?locale=en&amp;page=11</a>  
+   Link:<a href="https://www.whatdotheyknow.com/body/gloucestershire_police/successful?locale=en&amp;page=11" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/gloucestershire_police/successful?locale=en&amp;page=11</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hff9e2/sighting_northeast_of_cheltenham_gloucestershire/</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday  
-   Link: <a href="https://www.youtube.com/watch?v=wYicfhXdkuA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYicfhXdkuA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 30 Alien Close Encounters In Britain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wYicfhXdkuA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYicfhXdkuA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 30 Alien Close Encounters In Britain...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uHLRqxEmwks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uHLRqxEmwks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: gettyimages.co.uk  
-   Link: <a href="https://www.gettyimages.co.uk/photos/gloucestershire-police-force" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/gloucestershire-police-force</a>  
+   Link:<a href="https://www.gettyimages.co.uk/photos/gloucestershire-police-force" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/gloucestershire-police-force</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GlosLiveOnline/posts/a-dog-walker-captured-an-image-of-an-unidentified-flying-object-while-in-the-mal/1199608455527643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlosLiveOnline/posts/a-dog-walker-captured-an-image-of-an-unidentified-flying-object-while-in-the-mal/1199608455527643/</a>  
+   Link:<a href="https://www.facebook.com/GlosLiveOnline/posts/a-dog-walker-captured-an-image-of-an-unidentified-flying-object-while-in-the-mal/1199608455527643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlosLiveOnline/posts/a-dog-walker-captured-an-image-of-an-unidentified-flying-object-while-in-the-mal/1199608455527643/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/etribune/posts/a-massive-ufo-cloud-that-appeared-over-manchester-has-captivated-onlookers-with-/989998623164929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/etribune/posts/a-massive-ufo-cloud-that-appeared-over-manchester-has-captivated-onlookers-with-/989998623164929/</a>  
+   Link:<a href="https://www.facebook.com/etribune/posts/a-massive-ufo-cloud-that-appeared-over-manchester-has-captivated-onlookers-with-/989998623164929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/etribune/posts/a-massive-ufo-cloud-that-appeared-over-manchester-has-captivated-onlookers-with-/989998623164929/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/staverton-gloucestershire/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/staverton-gloucestershire/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/staverton-gloucestershire/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/staverton-gloucestershire/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/coasttocoastam/posts/an-airport-funding-debate-in-england-took-an-otherworldly-turn-when-a-city-counc/1402303208598857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coasttocoastam/posts/an-airport-funding-debate-in-england-took-an-otherworldly-turn-when-a-city-counc/1402303208598857/</a>  
+   Link:<a href="https://www.facebook.com/coasttocoastam/posts/an-airport-funding-debate-in-england-took-an-otherworldly-turn-when-a-city-counc/1402303208598857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coasttocoastam/posts/an-airport-funding-debate-in-england-took-an-otherworldly-turn-when-a-city-counc/1402303208598857/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
+   Link:<a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/45919558418/posts/10159125804483419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/45919558418/posts/10159125804483419/</a>  
+   Link:<a href="https://www.facebook.com/groups/45919558418/posts/10159125804483419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/45919558418/posts/10159125804483419/</a>  

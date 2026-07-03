@@ -254,7 +254,7 @@ image: /assets/images/Tyrone_619a59_stewartstown_dungann_85220a-overview-social.
 
 ## Introduction
 
-The Stewartstown and Dungannon UFO report is one of [Tyrone]({{ 'what-did-people-see-over-tyrone/' | relative_url }})’s clearest modern police-linked sightings, but also one of its best cautionary examples. In October 2022, a caller in the Stewartstown area of Dungannon told the Police Service of Northern Ireland that a UFO had been seen travelling from the Belfast direction towards Dungannon “every evening”. The public record gives the place, broad route and repeated timing, but not enough detail to identify the object confidently. Police said no further action was required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
+The Stewartstown and Dungannon UFO report is one of [Tyrone]({{ 'what-did-people-see-over-tyrone/' | relative_url }})’s clearest modern police-linked sightings, but also one of its best cautionary examples. In October 2022, a caller in the Stewartstown area of Dungannon told the Police Service of Northern Ireland that a UFO had been seen travelling from the Belfast direction towards Dungannon “every evening”. The public record gives the place, broad route and repeated timing, but not enough detail to identify the object confidently. Police said no further action was required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
 
 
 <img src="{{ "/assets/images/Tyrone_619a59_stewartstown_dungann_85220a-overview.webp" | relative_url }}" alt="Overview image for Stewartstown" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,13 +262,13 @@ That makes the case useful for Tyrone’s UFO history precisely because it is mo
 
 ## What the police report actually says
 
-The public version of the Stewartstown/Dungannon case comes through PSNI Freedom of Information reporting and later press coverage. The Irish Times reported that the only UFO sighting made to police in Northern Ireland in 2022 was on 20 October, when a caller in the Stewartstown area of Dungannon said a UFO was flying from the Belfast direction to Dungannon every evening. The same account added the police response: “No further police action was required on this occasion.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
+The public version of the Stewartstown/Dungannon case comes through PSNI Freedom of Information reporting and later press coverage. The Irish Times reported that the only UFO sighting made to police in Northern Ireland in 2022 was on 20 October, when a caller in the Stewartstown area of Dungannon said a UFO was flying from the Belfast direction to Dungannon every evening. The same account added the police response: “No further police action was required on this occasion.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
 
-Belfast Live and the Irish Mirror reported the same core description: a caller claimed to have seen the same UFO on multiple occasions, travelling from the Belfast direction towards Dungannon every evening. The Irish Mirror version gives the date as 30 October 2022, which conflicts with the 20 October date in the Irish Times account. That discrepancy is small in one sense, but important for evidence assessment: a ten-day difference can affect checks against aircraft movements, weather, satellite passes, local events and astronomical visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-reported-police-northern-26228791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfastlive.co.uk">[Belfast Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfastlive.co.uk</span><span class="citation-popover-title">ufo sightings reported police northern 26228791</span><span class="citation-popover-snippet">ufo sightings reported police northern 26228791</span></span></span>
+Belfast Live and the Irish Mirror reported the same core description: a caller claimed to have seen the same UFO on multiple occasions, travelling from the Belfast direction towards Dungannon every evening. The Irish Mirror version gives the date as 30 October 2022, which conflicts with the 20 October date in the Irish Times account. That discrepancy is small in one sense, but important for evidence assessment: a ten-day difference can affect checks against aircraft movements, weather, satellite passes, local events and astronomical visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-reported-police-northern-26228791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfastlive.co.uk">[Belfast Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfastlive.co.uk</span><span class="citation-popover-title">ufo sightings reported police northern 26228791</span><span class="citation-popover-snippet">ufo sightings reported police northern 26228791</span></span></span>
 
 The most important point is what the released wording does not include. The public summary does not give an exact observing time, precise location, compass bearing, altitude angle, colour, shape, duration, speed, sound, weather, witness count, photograph, video, radar correlation, air-traffic check or astronomical check. It confirms that a report was made to police; it does not confirm that the object was physically unusual.
 
-That distinction matters because police-linked reports can sound more authoritative than they are. A PSNI entry means someone contacted the police and the call was recorded or categorised. It is not the same as a specialist investigation, and the “no further action” wording strongly suggests that the report did not contain an immediate public-safety, criminal, aviation-security or emergency element requiring police follow-up. In later PSNI disclosure material, 2024 UFO/unexplained sightings were similarly logged as short caller descriptions, including reports of lights, objects, phone footage and repeated appearances, showing that these records are usually incident summaries rather than technical case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+That distinction matters because police-linked reports can sound more authoritative than they are. A PSNI entry means someone contacted the police and the call was recorded or categorised. It is not the same as a specialist investigation, and the “no further action” wording strongly suggests that the report did not contain an immediate public-safety, criminal, aviation-security or emergency element requiring police follow-up. In later PSNI disclosure material, 2024 UFO/unexplained sightings were similarly logged as short caller descriptions, including reports of lights, objects, phone footage and repeated appearances, showing that these records are usually incident summaries rather than technical case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
 
 <img src="{{ "/assets/images/Tyrone_619a59_stewartstown_dungann_85220a-Illustration-1-dark.svg" | relative_url }}" alt="Stewartstown illustration 1" data-theme-src-dark="{{ "/assets/images/Tyrone_619a59_stewartstown_dungann_85220a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tyrone_619a59_stewartstown_dungann_85220a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -278,7 +278,7 @@ The most interesting feature of the Stewartstown report is the repeated route: f
 
 A one-off light can be hard to reconstruct. A repeated evening object should, in principle, be compared against regular patterns: scheduled aircraft, approach or departure paths, helicopter activity, satellites visible after sunset, drones, bright planets, local reflections and even habitual viewing conditions from the same window, road or garden. In this case, the Belfast-to-Dungannon wording immediately points towards a broad east-to-west line across Northern Ireland rather than a stationary object hanging over one field or townland.
 
-Dungannon and Stewartstown sit in historic County Tyrone, while Belfast lies to the east outside Tyrone. The wider project uses historic-county geography, consistent with the Wikimedia Commons/Wikishire map of the British Isles and historic counties, so the case belongs to Tyrone because the reported observing area was Stewartstown/Dungannon, even though the perceived origin of the object was the Belfast direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+Dungannon and Stewartstown sit in historic County Tyrone, while Belfast lies to the east outside Tyrone. The wider project uses historic-county geography, consistent with the Wikimedia Commons/Wikishire map of the British Isles and historic counties, so the case belongs to Tyrone because the reported observing area was Stewartstown/Dungannon, even though the perceived origin of the object was the Belfast direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
 That cross-county geometry is a common problem in UFO records. A witness may describe an object as “coming from Belfast” because it appears over the eastern horizon or along a familiar road-and-sky orientation. But without compass bearings and elevation angles, that phrase can mean several different things: an aircraft leaving or approaching Belfast airspace, a satellite crossing the sky, a light seen along the line of the M1/A29 corridor, or simply a moving object whose direction was judged by local intuition rather than measurement.
 
@@ -287,15 +287,15 @@ That cross-county geometry is a common problem in UFO records. A witness may des
 
 ## Aircraft, satellites and missing checks
 
-The first ordinary explanation to test would be aircraft. Belfast International Airport at Aldergrove and George Best Belfast City Airport both sit east or north-east of Dungannon, and public flight-tracking services show regular scheduled operations in and out of Belfast airports. Flightradar24’s Belfast International pages, for example, present live arrival, departure and route information, while Belfast City Airport publishes live flight information for arrivals and departures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/data/airports/bfs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
+The first ordinary explanation to test would be aircraft. Belfast International Airport at Aldergrove and George Best Belfast City Airport both sit east or north-east of Dungannon, and public flight-tracking services show regular scheduled operations in and out of Belfast airports. Flightradar24’s Belfast International pages, for example, present live arrival, departure and route information, while Belfast City Airport publishes live flight information for arrivals and departures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/data/airports/bfs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
 
-The point is not that the Stewartstown object was definitely an aircraft. The point is that an “every evening” sighting should be checked against regular flights first. Aircraft can look strange when viewed head-on, in cloud gaps, during descent, or at dusk. Navigation lights, landing lights and changing angle can make a conventional plane seem to hover, brighten, dim, or change colour. The 2024 PSNI UFO disclosure shows how easily ordinary aviation clues can appear inside UFO reports: one Belfast caller described a silent object with a vapour trail and green and red flashing lights moving towards the docks area, a description that contains features strongly suggestive of conventional aviation even though it was logged as an unexplained sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+The point is not that the Stewartstown object was definitely an aircraft. The point is that an “every evening” sighting should be checked against regular flights first. Aircraft can look strange when viewed head-on, in cloud gaps, during descent, or at dusk. Navigation lights, landing lights and changing angle can make a conventional plane seem to hover, brighten, dim, or change colour. The 2024 PSNI UFO disclosure shows how easily ordinary aviation clues can appear inside UFO reports: one Belfast caller described a silent object with a vapour trail and green and red flashing lights moving towards the docks area, a description that contains features strongly suggestive of conventional aviation even though it was logged as an unexplained sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
-Satellites are the second major check. NASA explains that International Space Station sightings occur within a few hours before or after sunrise or sunset, when sunlight reflects off the station against a darker sky. Heavens-Above gives the same basic reason for satellite visibility: satellites are visible when the observer is in darkness but the satellite remains sunlit, usually within about two hours after sunset or before sunrise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Satellites are the second major check. NASA explains that International Space Station sightings occur within a few hours before or after sunrise or sunset, when sunlight reflects off the station against a darker sky. Heavens-Above gives the same basic reason for satellite visibility: satellites are visible when the observer is in darkness but the satellite remains sunlit, usually within about two hours after sunset or before sunrise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-That is directly relevant to a repeated evening report. A bright satellite, the International Space Station, or a group of Starlink satellites can appear as a silent moving light or line of lights. Starlink trains in particular are widely reported as UFO-like when newly launched, because they can appear as a string of bright dots moving together across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
+That is directly relevant to a repeated evening report. A bright satellite, the International Space Station, or a group of Starlink satellites can appear as a silent moving light or line of lights. Starlink trains in particular are widely reported as UFO-like when newly launched, because they can appear as a string of bright dots moving together across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
 
-Drones are less clean as an explanation for a repeated Belfast-to-Dungannon path, because small consumer drones are usually local rather than county-crossing objects. Even so, drone lighting has become a practical issue for night-sky interpretation. The Civil Aviation Authority states that, from 1 January 2026, drones flown at night in the Open Category must have a green flashing light activated, partly to improve visibility and help distinguish drones from manned aircraft. That rule post-dates the 2022 sighting, but it illustrates why night-time drone lights can confuse witnesses and why colour, flashing pattern, distance and duration matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span>
+Drones are less clean as an explanation for a repeated Belfast-to-Dungannon path, because small consumer drones are usually local rather than county-crossing objects. Even so, drone lighting has become a practical issue for night-sky interpretation. The Civil Aviation Authority states that, from 1 January 2026, drones flown at night in the Open Category must have a green flashing light activated, partly to improve visibility and help distinguish drones from manned aircraft. That rule post-dates the 2022 sighting, but it illustrates why night-time drone lights can confuse witnesses and why colour, flashing pattern, distance and duration matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span>
 
 The missing checks are therefore not minor paperwork. For the Stewartstown report to become stronger, a researcher would want at least:
 
@@ -321,11 +321,11 @@ Without those details, the case remains an official mention rather than a develo
 
 The Stewartstown/Dungannon report matters because Tyrone does not have a large modern public file of well-documented UFO incidents. For this county, the value lies in scattered records: police disclosures, local media summaries, occasional civilian reports and older Ministry of Defence material in the wider UK archive. The 2022 report stands out because it is recent, geographically specific and linked to a named Tyrone-area place.
 
-It also marks a sharp drop in Northern Ireland police-reported UFO sightings. The Irish Times reported eight alleged sightings to PSNI in 2021, six in 2020, four in 2019, then only one in 2022 and none from 1 January to 1 November 2023. That one 2022 report was the Stewartstown/Dungannon case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
+It also marks a sharp drop in Northern Ireland police-reported UFO sightings. The Irish Times reported eight alleged sightings to PSNI in 2021, six in 2020, four in 2019, then only one in 2022 and none from 1 January to 1 November 2023. That one 2022 report was the Stewartstown/Dungannon case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
 
-Those low numbers should not be overread. They may show fewer sightings, fewer reports to police, weaker public interest, uncertainty about who to contact, or simple underreporting. The Ministry of Defence closed its UFO desk and hotline in November 2009, ending a long period in which the UK public had a more obvious official place to send UFO reports. The National Archives material on the final UFO file releases describes the closure of the desk in late 2009, and a National Archives transcript says the closure brought to an end almost 60 years of collecting and analysing UFO reports through that channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Those low numbers should not be overread. They may show fewer sightings, fewer reports to police, weaker public interest, uncertainty about who to contact, or simple underreporting. The Ministry of Defence closed its UFO desk and hotline in November 2009, ending a long period in which the UK public had a more obvious official place to send UFO reports. The National Archives material on the final UFO file releases describes the closure of the desk in late 2009, and a National Archives transcript says the closure brought to an end almost 60 years of collecting and analysing UFO reports through that channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-That institutional gap helps explain why modern Northern Ireland UFO material often appears through police FOI responses rather than defence case files. In 2025, PSNI said it held information relevant to a ten-year UFO/UAP request, but refused the broad request on cost grounds because 372 incidents referencing “UFO” on its NICHE system would require manual examination and exceed the Freedom of Information cost limit. PSNI suggested that a narrower request from 2020 onwards might be manageable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span>
+That institutional gap helps explain why modern Northern Ireland UFO material often appears through police FOI responses rather than defence case files. In 2025, PSNI said it held information relevant to a ten-year UFO/UAP request, but refused the broad request on cost grounds because 372 incidents referencing “UFO” on its NICHE system would require manual examination and exceed the Freedom of Information cost limit. PSNI suggested that a narrower request from 2020 onwards might be manageable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span>
 
 For Tyrone readers, that is a practical lesson. The absence of a detailed public investigation does not prove nothing happened, but it also does not license a dramatic conclusion. It means the public record is thin, fragmented and dependent on how reports were worded, logged and later requested.
 
@@ -338,7 +338,7 @@ The Stewartstown/Dungannon sighting would become more interesting if independent
 
 The case would weaken if the repeated timing matched a regular aircraft movement, especially one approaching or leaving Belfast airspace. It would also weaken if the object’s reported appearance matched a bright satellite pass, an ISS transit, a Starlink train, or a planet seen from a fixed viewpoint while intervening cloud created an illusion of movement. In practice, many low-detail night-sky reports weaken not because witnesses are dishonest, but because the sky contains more predictable moving lights than most casual observers realise.
 
-The date discrepancy is one of the most important unresolved details. If the correct date was 20 October 2022, one set of aviation, satellite and weather checks applies. If it was 30 October, another set applies. If the caller really meant repeated sightings over several evenings, then both dates may be less important than the recurring time pattern. But the public accounts do not give enough information to reconstruct that pattern reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
+The date discrepancy is one of the most important unresolved details. If the correct date was 20 October 2022, one set of aviation, satellite and weather checks applies. If it was 30 October, another set applies. If the caller really meant repeated sightings over several evenings, then both dates may be less important than the recurring time pattern. But the public accounts do not give enough information to reconstruct that pattern reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
 
 The most balanced classification is therefore “weakly evidenced and unresolved in public”, not “debunked” and not “extraordinary”. It has a credible paper trail in the limited sense that PSNI-linked reporting records a caller’s claim. It does not have the independent checks needed to make the object itself credible as an unknown craft or even as a genuinely unexplained aerial event.
 
@@ -357,194 +357,194 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Stewartstown&#x27;s UFO Really So Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Stewartstown&#x27;s UFO Really So Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers classification and investigation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers classification and investigation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s emphasis on official reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s emphasis on official reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by a former Project Blue Book leader.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by a former Project Blue Book leader.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Looks at official records and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at official records and unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="stewartstown-was-stewartstown-s-ufo-really-so-strange-tyrone-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,198 +750,198 @@ That is why Stewartstown belongs in Tyrone’s UFO history as a cautionary case.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psni.police.uk  
    Title: PSNIUFO Sightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/bfs" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/bfs</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/bfs" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/bfs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/spot-the-station/</a>  
+   Link:<a href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/spot-the-station/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+   Link:<a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psni.police.uk  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: heavens-above.com  
    Title: Satellite predictions and other astronomical data customised for your location  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psni.police.uk  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/paranormal-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/paranormal-reports</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/paranormal-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/paranormal-reports</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: File:Northern England Historic counties.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/bfs/routes" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/bfs/routes</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/bfs/routes" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/bfs/routes</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Sighted Over Belfast, Northern Ireland (  
-   Link: <a href="http://www.youtube.com/watch?v=bZd3WaR0Jxg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bZd3WaR0Jxg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink Satellite Train 9/25/2022...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bZd3WaR0Jxg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bZd3WaR0Jxg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink Satellite Train 9/25/2022...</p></details>
    Published: January 26, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=es0oTQL8SRE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=es0oTQL8SRE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to see Starlink satellites in the sky?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=es0oTQL8SRE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=es0oTQL8SRE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to see Starlink satellites in the sky?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: irishtimes.com  
    Title: significant fall in ufo sightings in northern ireland in last two years  
-   Link: <a href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/</a>  
+   Link:<a href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: belfastlive.co.uk  
    Title: ufo sightings reported police northern 26228791  
-   Link: <a href="https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-reported-police-northern-26228791" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-reported-police-northern-26228791</a>  
+   Link:<a href="https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-reported-police-northern-26228791" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-reported-police-northern-26228791</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: belfastlive.co.uk  
    Title: ufo sightings 2021 psni report 22574861  
-   Link: <a href="https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-2021-psni-report-22574861" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-2021-psni-report-22574861</a>  
+   Link:<a href="https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-2021-psni-report-22574861" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/news/belfast-news/ufo-sightings-2021-psni-report-22574861</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: belfastlive.co.uk  
    Title: Fall in NI UFO sightings reported to police  
-   Link: <a href="https://www.belfastlive.co.uk/news/fall-ni-ufo-sightings-reported-28405107" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/news/fall-ni-ufo-sightings-reported-28405107</a>  
+   Link:<a href="https://www.belfastlive.co.uk/news/fall-ni-ufo-sightings-reported-28405107" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastlive.co.uk/news/fall-ni-ufo-sightings-reported-28405107</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Space Science  
-   Link: <a href="https://www.youtube.com/watch?v=bLIsqTJ37qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bLIsqTJ37qg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bLIsqTJ37qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bLIsqTJ37qg</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: How to see Starlink satellites in the sky?  
-   Link: <a href="http://www.youtube.com/watch?v=dxhvB6wXuQc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dxhvB6wXuQc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Northern Ireland police report Northern Ireland Police Reports a Increase In UFO Sightings In 2020 EarthFilesEarthsHistory...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=dxhvB6wXuQc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dxhvB6wXuQc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Northern Ireland police report Northern Ireland Police Reports a Increase In UFO Sightings In 2020 EarthFilesEarthsHistory...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Big increase in unexplained UFO sightings makes Northern Ireland alien hotspot  
-   Link: <a href="http://www.youtube.com/watch?v=qikonpc4gaQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qikonpc4gaQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighted Over Belfast, Northern Ireland (January 26, 2021)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qikonpc4gaQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qikonpc4gaQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighted Over Belfast, Northern Ireland (January 26, 2021)...</p></details>
    Published: January 26, 2021  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=YR02LLEnQzA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YR02LLEnQzA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big increase in unexplained UFO sightings makes Northern Ireland alien hotspot...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YR02LLEnQzA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YR02LLEnQzA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big increase in unexplained UFO sightings makes Northern Ireland alien hotspot...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Through Conversations Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=08Of8uTAZBo&amp;t=3174s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=08Of8uTAZBo&amp;t=3174s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings investigated skeptically explanation UFOs: Investigating the Unknown | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=08Of8uTAZBo&amp;t=3174s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=08Of8uTAZBo&amp;t=3174s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings investigated skeptically explanation UFOs: Investigating the Unknown | National Geographic...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/canterburyplanespotters/posts/2241109433362906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/canterburyplanespotters/posts/2241109433362906/</a>  
+   Link:<a href="https://www.facebook.com/groups/canterburyplanespotters/posts/2241109433362906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/canterburyplanespotters/posts/2241109433362906/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/northernireland/comments/16bhdxq/belfast_plane_routes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/16bhdxq/belfast_plane_routes/</a>  
+   Link:<a href="https://www.reddit.com/r/northernireland/comments/16bhdxq/belfast_plane_routes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/16bhdxq/belfast_plane_routes/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/17r3dkg/clearest_view_of_starlink_satellites_ive_ever_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/17r3dkg/clearest_view_of_starlink_satellites_ive_ever_seen/</a>  
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/17r3dkg/clearest_view_of_starlink_satellites_ive_ever_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/17r3dkg/clearest_view_of_starlink_satellites_ive_ever_seen/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: belfastairport.com  
-   Link: <a href="https://www.belfastairport.com/flights/departures" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastairport.com/flights/departures</a>  
+   Link:<a href="https://www.belfastairport.com/flights/departures" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastairport.com/flights/departures</a>  

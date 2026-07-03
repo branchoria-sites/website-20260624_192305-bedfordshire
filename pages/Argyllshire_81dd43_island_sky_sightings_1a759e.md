@@ -248,7 +248,7 @@ image: /assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-overview-so
 
 ## Introduction
 
-Island lights in [Argyllshire]({{ 'why-argyllshire-keeps-reporting-strange/' | relative_url }}) are often genuinely difficult to interpret, but not always because the object itself is extraordinary. The historic county includes mainland Argyll and island viewing locations such as Mull, Islay, Jura, Coll and Tiree, where dark skies, open sea horizons and few nearby reference points can make ordinary lights look stranger than they would from a town. The best reading of the evidence is cautious: Argyllshire has produced scattered UFO and unusual-light reports, including modern reports from Kintyre and Mull, but its island record is more useful as a lesson in misidentification than as proof of a concentrated UFO hotspot. A light over the sea may be an aircraft, satellite, planet, meteor, ship, flare, mirage or camera artefact before it is a truly unexplained aerial event. National UFO archives make the same point: many reports describe lights, flashes and shapes, and official records often preserve the report rather than solve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Island lights in [Argyllshire]({{ 'why-argyllshire-keeps-reporting-strange/' | relative_url }}) are often genuinely difficult to interpret, but not always because the object itself is extraordinary. The historic county includes mainland Argyll and island viewing locations such as Mull, Islay, Jura, Coll and Tiree, where dark skies, open sea horizons and few nearby reference points can make ordinary lights look stranger than they would from a town. The best reading of the evidence is cautious: Argyllshire has produced scattered UFO and unusual-light reports, including modern reports from Kintyre and Mull, but its island record is more useful as a lesson in misidentification than as proof of a concentrated UFO hotspot. A light over the sea may be an aircraft, satellite, planet, meteor, ship, flare, mirage or camera artefact before it is a truly unexplained aerial event. National UFO archives make the same point: many reports describe lights, flashes and shapes, and official records often preserve the report rather than solve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 
 <img src="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-overview.webp" | relative_url }}" alt="Overview image for Island Skies" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,9 +256,9 @@ Island lights in [Argyllshire]({{ 'why-argyllshire-keeps-reporting-strange/' | r
 
 Argyllshire’s island geography gives observers something many inland UFO witnesses lack: long, unobstructed views. From western coasts, beaches, ferry terminals and hill roads, a person can watch lights across wide stretches of water with very little foreground clutter. That is excellent for astronomy and night-sky watching, but it is also a recipe for uncertainty. A light that would be quickly identified near streetlamps, buildings, roads or an airport can appear isolated and puzzling over the Sound of Mull, the Firth of Lorn, the North Channel or the Atlantic approaches.
 
-Coll shows this double effect particularly well. The island was designated a Dark-sky Community in December 2013, and its own dark-sky application emphasised the island’s very dark winter conditions, limited traffic and absence of street lighting. Those are exactly the conditions that help people see stars, planets, meteors, satellites and aurorae clearly — and also the conditions that remove the everyday cues people use to judge distance, height and speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitcoll.co.uk/dark_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcoll.co.uk">[visitcoll.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcoll.co.uk</span><span class="citation-popover-snippet">Open source on visitcoll.co.uk.</span></span></span>
+Coll shows this double effect particularly well. The island was designated a Dark-sky Community in December 2013, and its own dark-sky application emphasised the island’s very dark winter conditions, limited traffic and absence of street lighting. Those are exactly the conditions that help people see stars, planets, meteors, satellites and aurorae clearly — and also the conditions that remove the everyday cues people use to judge distance, height and speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitcoll.co.uk/dark_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcoll.co.uk">[visitcoll.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcoll.co.uk</span><span class="citation-popover-snippet">Open source on visitcoll.co.uk.</span></span></span>
 
-Tiree makes a similar point in a less formal way. Local stargazing material promotes clear views of the Milky Way, constellations, star clusters, meteor showers and, sometimes, the aurora. That does not make Tiree unusually “UFO-prone” in itself; it means the island is a strong observing platform. In UFO terms, strong observing platforms generate both better reports and more opportunities for honest mistakes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isleoftiree.com/stargazing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isleoftiree.com">[isleoftiree.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isleoftiree.com</span><span class="citation-popover-snippet">Open source on isleoftiree.com.</span></span></span>
+Tiree makes a similar point in a less formal way. Local stargazing material promotes clear views of the Milky Way, constellations, star clusters, meteor showers and, sometimes, the aurora. That does not make Tiree unusually “UFO-prone” in itself; it means the island is a strong observing platform. In UFO terms, strong observing platforms generate both better reports and more opportunities for honest mistakes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isleoftiree.com/stargazing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isleoftiree.com">[isleoftiree.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isleoftiree.com</span><span class="citation-popover-snippet">Open source on isleoftiree.com.</span></span></span>
 
 The important distinction is between visibility and identifiability. Argyllshire’s islands can make faint or distant objects visible, but visibility alone does not give the witness scale. Without trees, buildings, masts, road traffic or a known aircraft track near the line of sight, the observer may not know whether a light is small and close, large and distant, slow and nearby, or fast and far away.
 
@@ -266,13 +266,13 @@ The important distinction is between visibility and identifiability. Argyllshire
 
 Mull, Islay, Jura, Coll and Tiree are not identical UFO settings. Each gives a different kind of viewing problem.
 
-Mull has complex sightlines across sea channels, headlands and routes towards Oban and the mainland. A modern example illustrates the value and limits of such reports: a 2022 Scotland sightings round-up, based on UFO Identified data and reported by the Daily Record, included a 12 September Isle of Mull case described as a green object hovering silently before brightening underneath and disappearing vertically. The same list also included a Kintyre report on 4 September involving a dome-shaped, angular object whose apparent metallic quality was linked to sunlight reflecting from it. These are not official confirmations of anomalous craft; they are useful examples of the sort of brief, visually striking reports that arise in western Scottish skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+Mull has complex sightlines across sea channels, headlands and routes towards Oban and the mainland. A modern example illustrates the value and limits of such reports: a 2022 Scotland sightings round-up, based on UFO Identified data and reported by the Daily Record, included a 12 September Isle of Mull case described as a green object hovering silently before brightening underneath and disappearing vertically. The same list also included a Kintyre report on 4 September involving a dome-shaped, angular object whose apparent metallic quality was linked to sunlight reflecting from it. These are not official confirmations of anomalous craft; they are useful examples of the sort of brief, visually striking reports that arise in western Scottish skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 Islay and Jura add a different horizon problem. Looking west or south-west, an observer may be watching over open sea, shipping lanes, weather fronts and aircraft routes, with little in the view to indicate scale. Jura’s sparse settlement and rugged terrain mean that a light can be seen against darkness for a long time without becoming easier to identify. A witness may be confident that they saw something unusual, while an investigator still has too little information to decide whether it was aerial, maritime, astronomical or optical.
 
-Coll and Tiree are especially important in this subtopic because their strength as dark-sky locations is not speculative. Coll’s official dark-sky status and Tiree’s promoted stargazing conditions make both islands excellent places to notice celestial phenomena. That includes genuinely impressive sights that are often misreported as UFOs elsewhere: bright planets low on the horizon, meteor trains, satellites brightening and fading, and northern lights seen in unusual patches or columns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitcoll.co.uk/dark_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcoll.co.uk">[visitcoll.co.uk+2Go Stargazing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcoll.co.uk</span><span class="citation-popover-snippet">Open source on visitcoll.co.uk.</span></span></span>
+Coll and Tiree are especially important in this subtopic because their strength as dark-sky locations is not speculative. Coll’s official dark-sky status and Tiree’s promoted stargazing conditions make both islands excellent places to notice celestial phenomena. That includes genuinely impressive sights that are often misreported as UFOs elsewhere: bright planets low on the horizon, meteor trains, satellites brightening and fading, and northern lights seen in unusual patches or columns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitcoll.co.uk/dark_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcoll.co.uk">[visitcoll.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcoll.co.uk</span><span class="citation-popover-snippet">Open source on visitcoll.co.uk.</span></span></span>
 
-There is also an aviation layer. Oban Airport, owned by Argyll and Bute Council, offers scheduled flights to Coll, Tiree, Colonsay and Islay and is also used by private pilots and charter flights. That matters for island sky reports because small aircraft can appear unfamiliar at dusk, especially when seen head-on, banking, descending or moving across a dark sea background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyll-bute.gov.uk">[Argyll and Bute Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyll-bute.gov.uk</span><span class="citation-popover-title">Argyll and Bute Council O is for Oban Airport</span><span class="citation-popover-snippet">Argyll and Bute Council O is for Oban Airport</span></span></span>
+There is also an aviation layer. Oban Airport, owned by Argyll and Bute Council, offers scheduled flights to Coll, Tiree, Colonsay and Islay and is also used by private pilots and charter flights. That matters for island sky reports because small aircraft can appear unfamiliar at dusk, especially when seen head-on, banking, descending or moving across a dark sea background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyll-bute.gov.uk">[Argyll and Bute Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyll-bute.gov.uk</span><span class="citation-popover-title">Argyll and Bute Council O is for Oban Airport</span><span class="citation-popover-snippet">Argyll and Bute Council O is for Oban Airport</span></span></span>
 
 
 <img src="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-Illustration-1-dark.svg" | relative_url }}" alt="Island Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -290,7 +290,7 @@ Several common mistakes follow from that:
 
 **A satellite can brighten, fade or vanish.** Satellites and satellite trains are often seen as silent moving lights. They can disappear when they enter Earth’s shadow or change brightness as their angle to the Sun changes. To a witness expecting an aircraft, the absence of sound and sudden fading can seem anomalous.
 
-**A mirage can lift or distort a distant object.** The World Meteorological Organization’s International Cloud Atlas describes a superior mirage as an image seen above a colder flat surface, where light from an object is bent downwards towards the observer. In practical coastal terms, this can make distant ships, islands or lights appear displaced, stretched or floating above the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span>
+**A mirage can lift or distort a distant object.** The World Meteorological Organization’s International Cloud Atlas describes a superior mirage as an image seen above a colder flat surface, where light from an object is bent downwards towards the observer. In practical coastal terms, this can make distant ships, islands or lights appear displaced, stretched or floating above the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span>
 
 None of these explanations should be used as a blanket dismissal. They are starting points. A good investigation asks whether they fit the date, time, direction, weather, duration and witness description. But in Argyllshire’s island context, they must be considered early because the geography makes them unusually relevant.
 
@@ -317,7 +317,7 @@ For Argyllshire island cases, the most useful witness details are practical rath
 
 </div>
 
-This is where official archives are helpful but also frustrating. GOV.UK hosts Ministry of Defence UFO reports from 1997 to 2009, showing dates, times, locations and brief descriptions, but these summaries are often too compressed to settle a case. The National Archives likewise notes that many MOD UFO records concern shapes, lights and flashes, with some explainable and others more unusual; it also records that possible explanations kept in files included Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+This is where official archives are helpful but also frustrating. GOV.UK hosts Ministry of Defence UFO reports from 1997 to 2009, showing dates, times, locations and brief descriptions, but these summaries are often too compressed to settle a case. The National Archives likewise notes that many MOD UFO records concern shapes, lights and flashes, with some explainable and others more unusual; it also records that possible explanations kept in files included Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 For a public-facing Argyllshire UFO history, that means the honest category for many island reports is not “solved” or “extraordinary”, but “under-described”. A report may remain unidentified because the record lacks enough information, not because all ordinary explanations have failed.
 
@@ -329,11 +329,11 @@ A careful investigation of an Argyllshire island sighting usually starts by rebu
 
 The first filter is whether the report has independent support. Multiple witnesses at separated locations are more useful than several people standing together, because separated observers may allow a rough triangulation. A photograph or video can help, but only if it includes context: horizon, stars, timestamps, camera settings, landmarks and unedited files. A zoomed-in light against black sky is often less useful than a plain wide shot.
 
-The second filter is whether the report survives routine checks. Investigators compare the time and direction with known aircraft activity, local flight routes, satellite passes, bright planets, meteor activity, ferry or fishing traffic, coastguard operations and weather. In Argyllshire, scheduled and private aviation around Oban and the islands is a real factor rather than a theoretical one. Oban Airport’s island links and private-pilot use mean that a witness report should not be assessed as if the skies were empty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyll-bute.gov.uk">[Argyll and Bute Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyll-bute.gov.uk</span><span class="citation-popover-title">Argyll and Bute Council O is for Oban Airport</span><span class="citation-popover-snippet">Argyll and Bute Council O is for Oban Airport</span></span></span>
+The second filter is whether the report survives routine checks. Investigators compare the time and direction with known aircraft activity, local flight routes, satellite passes, bright planets, meteor activity, ferry or fishing traffic, coastguard operations and weather. In Argyllshire, scheduled and private aviation around Oban and the islands is a real factor rather than a theoretical one. Oban Airport’s island links and private-pilot use mean that a witness report should not be assessed as if the skies were empty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argyll-bute.gov.uk">[Argyll and Bute Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argyll-bute.gov.uk</span><span class="citation-popover-title">Argyll and Bute Council O is for Oban Airport</span><span class="citation-popover-snippet">Argyll and Bute Council O is for Oban Airport</span></span></span>
 
 The third filter is behaviour. A light that changes colour while low on the horizon may be affected by atmosphere. A light that moves steadily and silently across the sky may be a satellite. A cluster of lights in a line may point to aircraft, satellites or reflections depending on timing. A report becomes stronger when the described behaviour is specific, prolonged, independently witnessed and inconsistent with these checks.
 
-The fourth filter is record quality. Police Scotland’s disclosure log includes a 2024 release category for UFO incident statistics over a five-year period, showing that modern public agencies still receive and process such requests as incident-data questions rather than as proof claims. That is a useful reminder: institutional records can show that something was reported, but they do not automatically validate the witness interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2023/october/23-2077-incident-statistics-ufo-sightings-inc-location-dates-5-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotland.police.uk">[Police Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotland.police.uk</span><span class="citation-popover-title">23 2077 incident statistics ufo sightings inc location dates 5 years</span><span class="citation-popover-snippet">23 2077 incident statistics ufo sightings inc location dates 5 years</span></span></span>
+The fourth filter is record quality. Police Scotland’s disclosure log includes a 2024 release category for UFO incident statistics over a five-year period, showing that modern public agencies still receive and process such requests as incident-data questions rather than as proof claims. That is a useful reminder: institutional records can show that something was reported, but they do not automatically validate the witness interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2023/october/23-2077-incident-statistics-ufo-sightings-inc-location-dates-5-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotland.police.uk">[Police Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotland.police.uk</span><span class="citation-popover-title">23 2077 incident statistics ufo sightings inc location dates 5 years</span><span class="citation-popover-snippet">23 2077 incident statistics ufo sightings inc location dates 5 years</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_BncA7etPeY" title="Real Life UFO Sightings In Scotland | Our Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer">Real Life UFO Sightings In Scotland | Our Life</a></p><p class="youtube-embed-meta">Channel: True Lives &middot; Views: 42.2K &middot; Uploaded: September 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_BncA7etPeY">Open on YouTube</a></p></div></div></div>
@@ -344,7 +344,7 @@ The island setting changes the meaning of Argyllshire’s UFO history. It sugges
 
 This does not make witness testimony worthless. On the contrary, island witnesses may be careful sky-watchers, sailors, crofters, pilots, ferry passengers, photographers or residents who know the local sky better than visitors do. Their testimony can be valuable when it is detailed and tied to a clear observing position. The problem is not island witnesses; it is island geometry.
 
-The 2022 Mull and Kintyre examples show the difficulty. Both are specific enough to be interesting, but public summaries do not provide enough technical information to close the case. The Mull report’s green colour, hovering description and vertical disappearance sound unusual, while the Kintyre report’s reflective, metallic appearance immediately raises questions about sunlight, camera angle and object identity. Both belong in a regional UFO record, but neither should be treated as confirmed evidence of an extraordinary craft on the basis of a short secondary summary alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+The 2022 Mull and Kintyre examples show the difficulty. Both are specific enough to be interesting, but public summaries do not provide enough technical information to close the case. The Mull report’s green colour, hovering description and vertical disappearance sound unusual, while the Kintyre report’s reflective, metallic appearance immediately raises questions about sunlight, camera angle and object identity. Both belong in a regional UFO record, but neither should be treated as confirmed evidence of an extraordinary craft on the basis of a short secondary summary alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 In that sense, Argyllshire’s island reports are most valuable when read as a pattern of observation rather than a parade of isolated mysteries. They show how UFO history is shaped by place. The same light seen above a city may be ignored; seen over a black sea from Coll or Tiree, it may become memorable. The same aircraft light seen near an airport may be obvious; seen across a sound from Jura or Islay, it may seem silent, suspended and remote.
 
@@ -353,7 +353,7 @@ In that sense, Argyllshire’s island reports are most valuable when read as a p
 
 ## The Best Working Assessment
 
-Island lights in Argyllshire really can be harder to explain at first sight, but “harder to explain” does not mean “less likely to be ordinary”. The strongest evidence points to a mixed pattern: scattered reports, some striking witness descriptions, official and independent records showing that UFO reports continue to be made, and a local environment rich in misidentification mechanisms. Ministry of Defence and National Archives material supports a cautious approach because UK UFO records often preserve reports of lights and flashes without demonstrating exotic causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
+Island lights in Argyllshire really can be harder to explain at first sight, but “harder to explain” does not mean “less likely to be ordinary”. The strongest evidence points to a mixed pattern: scattered reports, some striking witness descriptions, official and independent records showing that UFO reports continue to be made, and a local environment rich in misidentification mechanisms. Ministry of Defence and National Archives material supports a cautious approach because UK UFO records often preserve reports of lights and flashes without demonstrating exotic causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UK...</span></span></span>
 
 For Mull, Islay, Jura, Coll and Tiree, the key interpretive rule is simple: the sea horizon must be investigated as part of the sighting. A light’s apparent hovering, speed, colour or sudden disappearance may be produced by distance, angle, atmosphere, aircraft motion, maritime lighting or the limits of camera evidence. When those possibilities are checked and the report still has multiple witnesses, precise timing, clear direction, good images and no obvious match, it becomes a stronger unresolved case.
 
@@ -363,194 +363,194 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
 <img src="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-Illustration-3-dark.svg" | relative_url }}" alt="Island Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argyllshire_81dd43_island_sky_sightings_1a759e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Island Lights Really Harder To Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Island Lights Really Harder To Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reports that remain unexplained after conventional checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reports that remain unexplained after conventional checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stargazer%27s+Guide+to+the+Night+Sky+by+Dr.+Jason+Lisle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stargazer&#x27;s Guide to the Night Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1_cdoHkRL1wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Stargazer&#x27;s Guide to the Night Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Stargazer%27s+Guide+to+the+Night+Sky+by+Dr.+Jason+Lisle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stargazer&#x27;s Guide to the Night Sky">The Stargazer&#x27;s Guide to the Night Sky</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Jason Lisle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stargazer%27s+Guide+to+the+Night+Sky+by+Dr.+Jason+Lisle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stargazer&#x27;s Guide to the Night Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1_cdoHkRL1wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Stargazer&#x27;s Guide to the Night Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Stargazer%27s+Guide+to+the+Night+Sky+by+Dr.+Jason+Lisle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stargazer&#x27;s Guide to the Night Sky">The Stargazer&#x27;s Guide to the Night Sky</a>
+</h4>
+<p class="fr-book-author">By Dr. Jason Lisle</p>
         
-        <p class="fr-book-desc">Directly supports understanding planets, stars and other objects commonly mistaken for unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Stargazer%27s+Guide+to+the+Night+Sky+by+Dr.+Jason+Lisle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports understanding planets, stars and other objects commonly mistaken for unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Stargazer%27s+Guide+to+the+Night+Sky+by+Dr.+Jason+Lisle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful for interpreting lights seen from dark island locations and open horizons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting lights seen from dark island locations and open horizons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers identify celestial objects frequently reported as mysterious lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify celestial objects frequently reported as mysterious lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stargazer%27s+to+the+Night+Sky+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stargazer&#x27;s to the Night Sky books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stargazer%27s+to+the+Night+Sky+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stargazer&#x27;s to the Night Sky books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="island-skies-are-island-lights-really-harder-to-explain-argyllshire-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,192 +756,192 @@ Argyllshire’s island skies deserve attention not because they prove extraordin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UK...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: visitcoll.co.uk  
-   Link: <a href="https://visitcoll.co.uk/dark_sky/" target="_blank" rel="noopener noreferrer nofollow">https://visitcoll.co.uk/dark_sky/</a>  
+   Link:<a href="https://visitcoll.co.uk/dark_sky/" target="_blank" rel="noopener noreferrer nofollow">https://visitcoll.co.uk/dark_sky/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: isleoftiree.com  
-   Link: <a href="https://www.isleoftiree.com/stargazing" target="_blank" rel="noopener noreferrer nofollow">https://www.isleoftiree.com/stargazing</a>  
+   Link:<a href="https://www.isleoftiree.com/stargazing" target="_blank" rel="noopener noreferrer nofollow">https://www.isleoftiree.com/stargazing</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: argyll-bute.gov.uk  
    Title: Argyll and Bute Council O is for Oban Airport  
-   Link: <a href="https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/news/2019/jul/o-oban-airport</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scotland.police.uk  
    Title: 23 2077 incident statistics ufo sightings inc location dates 5 years  
-   Link: <a href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2023/october/23-2077-incident-statistics-ufo-sightings-inc-location-dates-5-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2023/october/23-2077-incident-statistics-ufo-sightings-inc-location-dates-5-years/</a>  
+   Link:<a href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2023/october/23-2077-incident-statistics-ufo-sightings-inc-location-dates-5-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2023/october/23-2077-incident-statistics-ufo-sightings-inc-location-dates-5-years/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g3340/Public%20reports%20pack%20Wednesday%2008-Oct-2008%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g3340/Public%20reports%20pack%20Wednesday%2008-Oct-2008%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g3340/Public%20reports%20pack%20Wednesday%2008-Oct-2008%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g3340/Public%20reports%20pack%20Wednesday%2008-Oct-2008%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6026/Public%20reports%20pack%20Wednesday%2019-Feb-2014%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6026/Public%20reports%20pack%20Wednesday%2019-Feb-2014%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6026/Public%20reports%20pack%20Wednesday%2019-Feb-2014%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6026/Public%20reports%20pack%20Wednesday%2019-Feb-2014%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: argyll-bute.gov.uk  
    Title: Aand B%20BAP%20Draft  
-   Link: <a href="https://www.argyll-bute.gov.uk/sites/default/files/migrated_files/Unknown/AandB%2520BAP%2520Draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/sites/default/files/migrated_files/Unknown/AandB%2520BAP%2520Draft.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/sites/default/files/migrated_files/Unknown/AandB%2520BAP%2520Draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/sites/default/files/migrated_files/Unknown/AandB%2520BAP%2520Draft.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g8143/Public%20reports%20pack%20Wednesday%2023-Jan-2019%2010.45%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g8143/Public%20reports%20pack%20Wednesday%2023-Jan-2019%2010.45%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g8143/Public%20reports%20pack%20Wednesday%2023-Jan-2019%2010.45%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g8143/Public%20reports%20pack%20Wednesday%2023-Jan-2019%2010.45%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g3173/Public%20reports%20pack%20Wednesday%2007-May-2008%2010.30%20Oban%20Lorn%20The%20Isles%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g3173/Public%20reports%20pack%20Wednesday%2007-May-2008%2010.30%20Oban%20Lorn%20The%20Isles%20Area%20Committee.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g3173/Public%20reports%20pack%20Wednesday%2007-May-2008%2010.30%20Oban%20Lorn%20The%20Isles%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g3173/Public%20reports%20pack%20Wednesday%2007-May-2008%2010.30%20Oban%20Lorn%20The%20Isles%20Area%20Committee.pdf?T=10</a>  
    Published: May 2008  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g1072/Public%20reports%20pack%20Wednesday%2005-Mar-2003%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g1072/Public%20reports%20pack%20Wednesday%2005-Mar-2003%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g1072/Public%20reports%20pack%20Wednesday%2005-Mar-2003%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g1072/Public%20reports%20pack%20Wednesday%2005-Mar-2003%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: argyll-bute.gov.uk  
    Title: Public reports pack Thursday 28 Sep 2023 10.00 Argyll and Bute Council  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g15330/Public%20reports%20pack%20Thursday%2028-Sep-2023%2010.00%20Argyll%20and%20Bute%20Council.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g15330/Public%20reports%20pack%20Thursday%2028-Sep-2023%2010.00%20Argyll%20and%20Bute%20Council.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g15330/Public%20reports%20pack%20Thursday%2028-Sep-2023%2010.00%20Argyll%20and%20Bute%20Council.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g15330/Public%20reports%20pack%20Thursday%2028-Sep-2023%2010.00%20Argyll%20and%20Bute%20Council.pdf?T=10</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g2736/Public%20reports%20pack%20Wednesday%2007-Feb-2007%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g2736/Public%20reports%20pack%20Wednesday%2007-Feb-2007%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g2736/Public%20reports%20pack%20Wednesday%2007-Feb-2007%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g2736/Public%20reports%20pack%20Wednesday%2007-Feb-2007%2010.00%20Mid%20Argyll%20Kintyre%20the%20Islands%20Area%20Committee.pdf?T=10</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: argyll-bute.gov.uk  
    Title: Annual Accounts 2022 23 0  
-   Link: <a href="https://www.argyll-bute.gov.uk/sites/default/files/2023-06/Annual%20Accounts%202022-23_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/sites/default/files/2023-06/Annual%20Accounts%202022-23_0.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/sites/default/files/2023-06/Annual%20Accounts%202022-23_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/sites/default/files/2023-06/Annual%20Accounts%202022-23_0.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: argyll-bute.gov.uk  
    Title: Argyll Air Services Update Oct08  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s36386/Argyll%20Air%20Services%20UpdateOct08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s36386/Argyll%20Air%20Services%20UpdateOct08.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s36386/Argyll%20Air%20Services%20UpdateOct08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s36386/Argyll%20Air%20Services%20UpdateOct08.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: argyll-bute.gov.uk  
    Title: council appeals islanders save their air service  
-   Link: <a href="https://www.argyll-bute.gov.uk/news/2020/jan/council-appeals-islanders-save-their-air-service" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/news/2020/jan/council-appeals-islanders-save-their-air-service</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/news/2020/jan/council-appeals-islanders-save-their-air-service" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/news/2020/jan/council-appeals-islanders-save-their-air-service</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: inverclyde.gov.uk  
-   Link: <a href="https://www.inverclyde.gov.uk/assets/attach/868/newspaper-index-subjects-eagle-foundry-exports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inverclyde.gov.uk/assets/attach/868/newspaper-index-subjects-eagle-foundry-exports.pdf</a>  
+   Link:<a href="https://www.inverclyde.gov.uk/assets/attach/868/newspaper-index-subjects-eagle-foundry-exports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inverclyde.gov.uk/assets/attach/868/newspaper-index-subjects-eagle-foundry-exports.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stitchesbythesea.water.blog  
    Title: isle of mull  
-   Link: <a href="https://stitchesbythesea.water.blog/tag/isle-of-mull/" target="_blank" rel="noopener noreferrer nofollow">https://stitchesbythesea.water.blog/tag/isle-of-mull/</a>  
+   Link:<a href="https://stitchesbythesea.water.blog/tag/isle-of-mull/" target="_blank" rel="noopener noreferrer nofollow">https://stitchesbythesea.water.blog/tag/isle-of-mull/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6926dc9fb3b9afff34e95ffa/ODS_The_pattern_of_military_low_flying_across_the_UK_20242025__tables_.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6926dc9fb3b9afff34e95ffa/ODS_The_pattern_of_military_low_flying_across_the_UK_20242025__tables_.ods</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6926dc9fb3b9afff34e95ffa/ODS_The_pattern_of_military_low_flying_across_the_UK_20242025__tables_.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6926dc9fb3b9afff34e95ffa/ODS_The_pattern_of_military_low_flying_across_the_UK_20242025__tables_.ods</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aidu.mod.uk  
    Title: uk U K MIL AIP ENR 5  
-   Link: <a href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-2.pdf</a>  
+   Link:<a href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-2.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: visitcoll.co.uk  
-   Link: <a href="https://visitcoll.co.uk/flights/" target="_blank" rel="noopener noreferrer nofollow">https://visitcoll.co.uk/flights/</a>  
+   Link:<a href="https://visitcoll.co.uk/flights/" target="_blank" rel="noopener noreferrer nofollow">https://visitcoll.co.uk/flights/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gostargazing.co.uk  
-   Link: <a href="https://gostargazing.co.uk/regions/dark-sky-park/isle-of-coll-dark-sky-island/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/regions/dark-sky-park/isle-of-coll-dark-sky-island/</a>  
+   Link:<a href="https://gostargazing.co.uk/regions/dark-sky-park/isle-of-coll-dark-sky-island/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/regions/dark-sky-park/isle-of-coll-dark-sky-island/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
+   Link:<a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=30905" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30905</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=30905" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30905</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: physics.stackexchange.com  
    Title: superior mirage  
-   Link: <a href="https://physics.stackexchange.com/questions/421996/superior-mirage" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/421996/superior-mirage</a>  
+   Link:<a href="https://physics.stackexchange.com/questions/421996/superior-mirage" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/421996/superior-mirage</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Oban Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Oban_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oban_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Oban_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oban_Airport</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: calmac.co.uk  
-   Link: <a href="https://www.calmac.co.uk/en-gb/route-information/oban-coll-tiree/" target="_blank" rel="noopener noreferrer nofollow">https://www.calmac.co.uk/en-gb/route-information/oban-coll-tiree/</a>  
+   Link:<a href="https://www.calmac.co.uk/en-gb/route-information/oban-coll-tiree/" target="_blank" rel="noopener noreferrer nofollow">https://www.calmac.co.uk/en-gb/route-information/oban-coll-tiree/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Km6tgYaNcD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Are you ready? 300 UFO Sightings a Year in Scotland I UFO Hotspot Bonnybridge&#x27;s Mystery Revealed![https://music.youtube.com/podcast/4O_9Z5...&quot;](https://music.youtube.com/podcast/4O_9Z5...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Km6tgYaNcD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Are you ready? 300 UFO Sightings a Year in Scotland I UFO Hotspot Bonnybridge&#x27;s Mystery Revealed![https://music.youtube.com/podcast/4O_9Z5...&quot;](https://music.youtube.com/podcast/4O_9Z5...&quot;)...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Mysterious black object filmed hovering over a Scottish harbour  
-   Link: <a href="https://www.youtube.com/watch?v=nvVUQEPybjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nvVUQEPybjo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories[https://www.youtube.com/watch?v=_ODTYxGpW20...&quot;](https://www.youtube.com/watch?v=_ODTYxGpW20...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nvVUQEPybjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nvVUQEPybjo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories[https://www.youtube.com/watch?v=_ODTYxGpW20...&quot;](https://www.youtube.com/watch?v=_ODTYxGpW20...&quot;)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious black object filmed hovering over a Scottish harbour...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious black object filmed hovering over a Scottish harbour...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wildaboutargyll.co.uk  
-   Link: <a href="https://www.wildaboutargyll.co.uk/blogs/8-reasons-why-coll-is-the-perfect-place-for-star-gazing-in-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.wildaboutargyll.co.uk/blogs/8-reasons-why-coll-is-the-perfect-place-for-star-gazing-in-scotland/</a>  
+   Link:<a href="https://www.wildaboutargyll.co.uk/blogs/8-reasons-why-coll-is-the-perfect-place-for-star-gazing-in-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.wildaboutargyll.co.uk/blogs/8-reasons-why-coll-is-the-perfect-place-for-star-gazing-in-scotland/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=PA706HG&amp;search_range=10000&amp;subject=metal-detecting-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=PA706HG&amp;search_range=10000&amp;subject=metal-detecting-sites</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=PA706HG&amp;search_range=10000&amp;subject=metal-detecting-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=PA706HG&amp;search_range=10000&amp;subject=metal-detecting-sites</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DGBim58qasm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DGBim58qasm/</a>  
+   Link:<a href="https://www.instagram.com/p/DGBim58qasm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DGBim58qasm/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalmuseumsgreenwich/videos/astronomers-take-over-at-the-national-maritime-museum/958958496811476/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/videos/astronomers-take-over-at-the-national-maritime-museum/958958496811476/</a>  
+   Link:<a href="https://www.facebook.com/royalmuseumsgreenwich/videos/astronomers-take-over-at-the-national-maritime-museum/958958496811476/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/videos/astronomers-take-over-at-the-national-maritime-museum/958958496811476/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: blaze.tv  
-   Link: <a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
+   Link:<a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: expedia.co.uk  
-   Link: <a href="https://www.expedia.co.uk/lp/flights/obn/tre/oban-to-tiree" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.co.uk/lp/flights/obn/tre/oban-to-tiree</a>  
+   Link:<a href="https://www.expedia.co.uk/lp/flights/obn/tre/oban-to-tiree" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.co.uk/lp/flights/obn/tre/oban-to-tiree</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Coll-Dark-Sky-Community-242269749271977/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Coll-Dark-Sky-Community-242269749271977/</a>  
+   Link:<a href="https://www.facebook.com/Coll-Dark-Sky-Community-242269749271977/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Coll-Dark-Sky-Community-242269749271977/</a>  

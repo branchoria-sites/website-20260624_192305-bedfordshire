@@ -254,7 +254,7 @@ image: /assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-overview-
 
 ## Introduction
 
-The Llanilar debris claim is one of the strangest and weakestly documented stories in [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }})’s UFO history. The core account says that, in January 1983, a farmer near Llanilar, south-east of Aberystwyth, found metallic debris scattered across his land after something had apparently clipped trees nearby. Later retellings add police, RAF or Ministry of Defence involvement, a night-time clean-up, surviving fragments and claims of unusual material. The problem is the paper trail: the public record has not confirmed the alleged recovery. A 2024 Dyfed-Powys Police Freedom of Information response says the force does not hold information on any similar event, because no related documentation was located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
+The Llanilar debris claim is one of the strangest and weakestly documented stories in [Cardiganshire]({{ 'what-really-happened-over-cardiganshire/' | relative_url }})’s UFO history. The core account says that, in January 1983, a farmer near Llanilar, south-east of Aberystwyth, found metallic debris scattered across his land after something had apparently clipped trees nearby. Later retellings add police, RAF or Ministry of Defence involvement, a night-time clean-up, surviving fragments and claims of unusual material. The problem is the paper trail: the public record has not confirmed the alleged recovery. A 2024 Dyfed-Powys Police Freedom of Information response says the force does not hold information on any similar event, because no related documentation was located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
 
 
 <img src="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-overview.webp" | relative_url }}" alt="Overview image for Llanilar Claim" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,11 +262,11 @@ That does not prove that nothing happened. It does, however, move the case out o
 
 ## The January 1983 claim
 
-Llanilar is a small village near Aberystwyth, within the historic Cardiganshire frame used for this project. The story usually begins with a farmer, named in UFO retellings as Erwel, Eurwel or Irwel Evans, finding strange metallic debris across fields near his farm. Modern summaries describe crumpled foil-like material, larger alloy-looking fragments, green-grey colouring, honeycomb structure and damage to nearby treetops. MUFOG’s account says the material was reported across four fields and that the farmer initially assumed a plane had crashed, prompting a call to police. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span>
+Llanilar is a small village near Aberystwyth, within the historic Cardiganshire frame used for this project. The story usually begins with a farmer, named in UFO retellings as Erwel, Eurwel or Irwel Evans, finding strange metallic debris across fields near his farm. Modern summaries describe crumpled foil-like material, larger alloy-looking fragments, green-grey colouring, honeycomb structure and damage to nearby treetops. MUFOG’s account says the material was reported across four fields and that the farmer initially assumed a plane had crashed, prompting a call to police.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span>
 
-The claim became more elaborate because the debris was not just described as a sighting in the sky. It was said to be physical material on the ground. That is why Llanilar has been repeatedly compared, often too loosely, with “Roswell” stories: not because there is equivalent evidence, but because the narrative includes a rural debris field, official visitors, material allegedly taken away, and fragments later claimed to have survived outside official custody. UFO Insight’s retelling, for example, says a local farmer found pieces that appeared like the exterior of a small aircraft or helicopter, and that an RAF team and then a more thorough group involving uniformed and plain-clothes personnel allegedly removed material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoinsight.com/ufos/cover-ups/wales-ufo-crash-europes-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">wales ufo crash europes roswell</span><span class="citation-popover-snippet">wales ufo crash europes roswell</span></span></span>
+The claim became more elaborate because the debris was not just described as a sighting in the sky. It was said to be physical material on the ground. That is why Llanilar has been repeatedly compared, often too loosely, with “Roswell” stories: not because there is equivalent evidence, but because the narrative includes a rural debris field, official visitors, material allegedly taken away, and fragments later claimed to have survived outside official custody. UFO Insight’s retelling, for example, says a local farmer found pieces that appeared like the exterior of a small aircraft or helicopter, and that an RAF team and then a more thorough group involving uniformed and plain-clothes personnel allegedly removed material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoinsight.com/ufos/cover-ups/wales-ufo-crash-europes-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">wales ufo crash europes roswell</span><span class="citation-popover-snippet">wales ufo crash europes roswell</span></span></span>
 
-The date is not perfectly stable in public retellings. MUFOG gives 9 January 1983 as the “crash” date and places later investigator activity in the following weeks. The 2024 police FOI request, by contrast, asked about a possible low-flying event “prior to the night of January 2nd 1983”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span> That mismatch is not a small detail. In a well-documented aviation incident, the date usually becomes firmer as records accumulate: police logs, air-accident files, radar checks, military movements, press reports and insurance or landowner correspondence. In Llanilar, the uncertainty around the date is one of the signs that the public evidence has not yet settled into a verified chronology.
+The date is not perfectly stable in public retellings. MUFOG gives 9 January 1983 as the “crash” date and places later investigator activity in the following weeks. The 2024 police FOI request, by contrast, asked about a possible low-flying event “prior to the night of January 2nd 1983”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span> That mismatch is not a small detail. In a well-documented aviation incident, the date usually becomes firmer as records accumulate: police logs, air-accident files, radar checks, military movements, press reports and insurance or landowner correspondence. In Llanilar, the uncertainty around the date is one of the signs that the public evidence has not yet settled into a verified chronology.
 
 The most careful version of the claim therefore starts with modest wording: something may have left debris on land near Llanilar in early January 1983; some people later connected it to a low-flying aircraft, official recovery and possible UFO material; and fragments said to be from the site have circulated among UFO investigators. What has not been publicly established is that an unidentified craft crashed, that the MoD recovered exotic material, or that police records confirm the operation.
 
@@ -274,26 +274,26 @@ The most careful version of the claim therefore starts with modest wording: some
 <img src="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-Illustration-1-dark.svg" | relative_url }}" alt="Llanilar Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story did not fade away
 
-The Llanilar story persists because it has several features that make it memorable. It is rural and local, but not vague. It involves a named place near Aberystwyth, a farmer, fields, damaged trees and physical fragments. It also sits within a wider west Wales UFO culture, where later investigators and enthusiasts have linked it to other January 1983 Welsh triangle sightings. MUFOG explicitly connects the Llanilar account with the “Night of the Triangles” reports of 19 January 1983, although that link remains speculative rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span>
+The Llanilar story persists because it has several features that make it memorable. It is rural and local, but not vague. It involves a named place near Aberystwyth, a farmer, fields, damaged trees and physical fragments. It also sits within a wider west Wales UFO culture, where later investigators and enthusiasts have linked it to other January 1983 Welsh triangle sightings. MUFOG explicitly connects the Llanilar account with the “Night of the Triangles” reports of 19 January 1983, although that link remains speculative rather than demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span>
 
-The case also gained energy from the claim that not all debris was removed. According to MUFOG and other UFO accounts, investigator Gary Rowe visited the site after seeing press coverage, searched with permission and found remaining pieces near the damaged trees. MUFOG says Rowe later sent material for metallurgical testing and reported that it was an unknown alloy with properties similar to duralumin, a lightweight aluminium alloy historically associated with aircraft manufacture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span>
+The case also gained energy from the claim that not all debris was removed. According to MUFOG and other UFO accounts, investigator Gary Rowe visited the site after seeing press coverage, searched with permission and found remaining pieces near the damaged trees. MUFOG says Rowe later sent material for metallurgical testing and reported that it was an unknown alloy with properties similar to duralumin, a lightweight aluminium alloy historically associated with aircraft manufacture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufog.co.uk">[MUFOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufog.co.uk</span><span class="citation-popover-title">llanilar ufo crash west wales 9th jan 1983</span><span class="citation-popover-snippet">llanilar ufo crash west wales 9th jan 1983</span></span></span>
 
-That material thread is the reason Llanilar is not simply another “lights in the sky” report. In 2026, the Alternative Propulsion Engineering Conference published a discussion of the claimed Llanilar sample, describing a honeycombed fragment and noting that later presenters treated it as a testable object rather than mere folklore. The same account is cautious on a key point: no one is said to have seen an object crash, arrive, depart or remain at the scene; the surviving case rests on the account, alleged damaged trees, alleged clean-up and material fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">APECThe Llanilar UFO Crash &amp; Material Sample</span><span class="citation-popover-snippet">APECThe Llanilar UFO Crash &amp; Material Sample</span></span></span>
+That material thread is the reason Llanilar is not simply another “lights in the sky” report. In 2026, the Alternative Propulsion Engineering Conference published a discussion of the claimed Llanilar sample, describing a honeycombed fragment and noting that later presenters treated it as a testable object rather than mere folklore. The same account is cautious on a key point: no one is said to have seen an object crash, arrive, depart or remain at the scene; the surviving case rests on the account, alleged damaged trees, alleged clean-up and material fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">APECThe Llanilar UFO Crash &amp; Material Sample</span><span class="citation-popover-snippet">APECThe Llanilar UFO Crash &amp; Material Sample</span></span></span>
 
-That caution matters. A physical fragment can make a story more interesting, but it does not automatically make it stronger. A fragment needs a chain of custody: where it was found, who handled it, how it was stored, whether it was contaminated, whether it could have been mixed with other material, and whether laboratory tests can be independently repeated. The APEC account itself notes that samples were cut, handled, stored and circulated over decades, making the chain of custody both reconstructable in parts and weak by laboratory standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">APECThe Llanilar UFO Crash &amp; Material Sample</span><span class="citation-popover-snippet">APECThe Llanilar UFO Crash &amp; Material Sample</span></span></span>
+That caution matters. A physical fragment can make a story more interesting, but it does not automatically make it stronger. A fragment needs a chain of custody: where it was found, who handled it, how it was stored, whether it was contaminated, whether it could have been mixed with other material, and whether laboratory tests can be independently repeated. The APEC account itself notes that samples were cut, handled, stored and circulated over decades, making the chain of custody both reconstructable in parts and weak by laboratory standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">APECThe Llanilar UFO Crash &amp; Material Sample</span><span class="citation-popover-snippet">APECThe Llanilar UFO Crash &amp; Material Sample</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5w5NHFPg7W8" title="The Llanilar UFO Crash &amp; Material Sample | Jarod Yates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5w5NHFPg7W8" target="_blank" rel="noopener noreferrer">The Llanilar UFO Crash &amp; Material Sample | Jarod Yates</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5w5NHFPg7W8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5w5NHFPg7W8">Open on YouTube</a></p></div></div></div>
 
 ## What the police FOI response found
 
-The most important recent development is not a dramatic laboratory result. It is a short official response from Dyfed-Powys Police. In 2024, the force was asked whether it held a report on a possible January 1983 low-flying incident near Llanilar; whether local police assisted in recovering debris; and whether the origin of the aircraft, civilian or military, was recorded. The response was direct: Dyfed-Powys Police said it did not hold the requested information, because no documentation relating to any similar event had been located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
+The most important recent development is not a dramatic laboratory result. It is a short official response from Dyfed-Powys Police. In 2024, the force was asked whether it held a report on a possible January 1983 low-flying incident near Llanilar; whether local police assisted in recovering debris; and whether the origin of the aircraft, civilian or military, was recorded. The response was direct: Dyfed-Powys Police said it did not hold the requested information, because no documentation relating to any similar event had been located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
 
 This is not the same as a full historical disproof. Police records can be lost, weeded, misfiled, never created, held under different indexing terms, or retained elsewhere. A local officer might also have attended an unusual call without the surviving file later being easy to identify. But the response does weaken the strongest versions of the Llanilar story. If police were central to a debris recovery involving suspected aircraft material, and if the incident was formally reported and passed to military authorities, one would expect some trace to be recoverable: a log entry, incident number, correspondence, retained report or cross-reference.
 
-The wording also matters because the FOI request was framed sympathetically to an aviation explanation, not merely to a UFO claim. It asked about “aircraft debris” and a possible low-flying event, not just “aliens” or a flying saucer. That makes the negative result more relevant: the force was not being asked to confirm a fringe interpretation, but to search for records of a possible aircraft-related incident near a named village in a named month. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
+The wording also matters because the FOI request was framed sympathetically to an aviation explanation, not merely to a UFO claim. It asked about “aircraft debris” and a possible low-flying event, not just “aliens” or a flying saucer. That makes the negative result more relevant: the force was not being asked to confirm a fringe interpretation, but to search for records of a possible aircraft-related incident near a named village in a named month.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
 
-Older claims of MoD silence need the same care. A searchable snippet of an older UFO-file correspondence source says the MoD searched UFO-related files for 1983 and found no documents relating to the alleged incident. That source is less ideal than a direct official page, but it is consistent with the broader evidential pattern: public official traces have not surfaced in the places where researchers would expect them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/191294033/Free-UK-UFO-National-Archives-Documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Open source on scribd.com.</span></span></span>
+Older claims of MoD silence need the same care. A searchable snippet of an older UFO-file correspondence source says the MoD searched UFO-related files for 1983 and found no documents relating to the alleged incident. That source is less ideal than a direct official page, but it is consistent with the broader evidential pattern: public official traces have not surfaced in the places where researchers would expect them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/191294033/Free-UK-UFO-National-Archives-Documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Open source on scribd.com.</span></span></span>
 
 For readers, the takeaway is simple. Llanilar is not supported by a public police file confirming a recovery operation. The best official source currently available says the police did not locate documentation. Any future strengthening of the case would need to overcome that gap with newly found logs, contemporaneous newspaper archives, named official witnesses, air-accident records, military correspondence or reproducible materials analysis with a clear chain of custody.
 
@@ -301,28 +301,28 @@ For readers, the takeaway is simple. Llanilar is not supported by a public polic
 <img src="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-Illustration-2-dark.svg" | relative_url }}" alt="Llanilar Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cardiganshire_0418d7_llanilar_debris_clai_55ad1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation explanations to test first
 
-The strongest sceptical reading is not “the farmer made it up” or “nothing was ever there”. It is that the reported debris, if real, may have had an aviation or military-training origin that later became wrapped in UFO language. The FOI request itself suggested a possible low-flying aircraft that hit treetops and shed material without crashing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
+The strongest sceptical reading is not “the farmer made it up” or “nothing was ever there”. It is that the reported debris, if real, may have had an aviation or military-training origin that later became wrapped in UFO language. The FOI request itself suggested a possible low-flying aircraft that hit treetops and shed material without crashing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-snippet">aircraft debris llanilar january 1983 1642024</span><span class="citation-popover-meta">Published: january 1983</span></span></span>
 
-That possibility deserves priority because the alleged material is repeatedly described in aerospace-like terms: honeycomb structure, lightweight alloy, coatings, sheet-like fragments and possible duralumin-like properties. Honeycomb panels are not inherently exotic. Modern aerospace suppliers describe aluminium honeycomb panels as standard lightweight structures used in aircraft interiors and other aviation applications where strength and low weight matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/cabin/structures/honeycomb-panels/aerometal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Open source on rtx.com.</span></span></span>
+That possibility deserves priority because the alleged material is repeatedly described in aerospace-like terms: honeycomb structure, lightweight alloy, coatings, sheet-like fragments and possible duralumin-like properties. Honeycomb panels are not inherently exotic. Modern aerospace suppliers describe aluminium honeycomb panels as standard lightweight structures used in aircraft interiors and other aviation applications where strength and low weight matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/cabin/structures/honeycomb-panels/aerometal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Open source on rtx.com.</span></span></span>
 
 A low-flying aircraft explanation would also fit several parts of the claim better than a literal “crash” story. It could account for damaged treetops, scattered lightweight fragments and the absence of a missing aircraft report, if an aircraft lost a panel, pod component, aerial, fairing or external material and continued flying. It would not automatically explain every claim about plain-clothes personnel, floodlights or soil removal, but those details are also among the least independently documented parts of the story.
 
-Cardigan Bay adds a wider aviation context, though not a direct solution. MOD Aberporth and the Cardigan Bay Danger Area are part of a real military testing and training landscape. QinetiQ’s public information describes the Cardigan Bay Danger Area as a military testing and training area covering a large part of the bay, with activities including low-flying aircraft, missile evaluation, laser firing and bombing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span> Milford Marina’s public guidance on the same area describes MOD Aberporth as a landward range and sea danger area used for air-launched weapons and unmanned aerial systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
+Cardigan Bay adds a wider aviation context, though not a direct solution. MOD Aberporth and the Cardigan Bay Danger Area are part of a real military testing and training landscape. QinetiQ’s public information describes the Cardigan Bay Danger Area as a military testing and training area covering a large part of the bay, with activities including low-flying aircraft, missile evaluation, laser firing and bombing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span> Milford Marina’s public guidance on the same area describes MOD Aberporth as a landward range and sea danger area used for air-launched weapons and unmanned aerial systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milfordmarina.com">[milfordmarina.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milfordmarina.com</span><span class="citation-popover-title">Cardigan Bay Danger Area</span><span class="citation-popover-snippet">Cardigan Bay Danger Area</span></span></span>
 
 That does not mean the Llanilar debris came from Aberporth or from a particular aircraft. Llanilar lies inland near Aberystwyth, and a general regional military context cannot substitute for a flight record. But it does mean that investigators should test aviation explanations before reaching for stranger ones. In this part of Wales, unusual lights, debris stories and official-looking activity may intersect with genuine range, radar, aircraft and later drone infrastructure.
 
-Some modern discussions have floated specific aircraft comparisons, including U.S. military aircraft with low-level capability. The F-111 is often mentioned in online debate because it was a Cold War strike aircraft associated with low-altitude terrain-following flight; the U.S. Air Force’s National Museum notes that the F-111 combined variable-sweep wings with systems designed for low-altitude attack profiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> However, naming a plausible aircraft type is not the same as linking it to Llanilar. Without maintenance records, flight plans, accident reports, witness timings or confirmed matching material, such suggestions remain hypotheses.
+Some modern discussions have floated specific aircraft comparisons, including U.S. military aircraft with low-level capability. The F-111 is often mentioned in online debate because it was a Cold War strike aircraft associated with low-altitude terrain-following flight; the U.S. Air Force’s National Museum notes that the F-111 combined variable-sweep wings with systems designed for low-altitude attack profiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> However, naming a plausible aircraft type is not the same as linking it to Llanilar. Without maintenance records, flight plans, accident reports, witness timings or confirmed matching material, such suggestions remain hypotheses.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/94GadNTuKog" title="The F-111 Aardvark: Engineering the Cold War&#x27;s Deadliest Strike Fighter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=94GadNTuKog" target="_blank" rel="noopener noreferrer">The F-111 Aardvark: Engineering the Cold War&#x27;s Deadliest Strike Fighter</a></p><p class="youtube-embed-meta">Channel: DroneScapes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=94GadNTuKog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=94GadNTuKog">Open on YouTube</a></p></div></div></div>
 
 ## What the surviving fragments can and cannot prove
 
-The material claims are interesting but not decisive. The APEC discussion describes several reported material categories, including honeycomb-like fragments, layered structures, thin sheet metal and memory-foil-like material. It also stresses the problem that the Llanilar sample is not a pristine scientific specimen: it has passed through hands, been cut and circulated, and has a complex history outside official custody. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">APECThe Llanilar UFO Crash &amp; Material Sample</span><span class="citation-popover-snippet">APECThe Llanilar UFO Crash &amp; Material Sample</span></span></span>
+The material claims are interesting but not decisive. The APEC discussion describes several reported material categories, including honeycomb-like fragments, layered structures, thin sheet metal and memory-foil-like material. It also stresses the problem that the Llanilar sample is not a pristine scientific specimen: it has passed through hands, been cut and circulated, and has a complex history outside official custody.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">APECThe Llanilar UFO Crash &amp; Material Sample</span><span class="citation-popover-snippet">APECThe Llanilar UFO Crash &amp; Material Sample</span></span></span>
 
 That is why “unidentified” is not the same as “alien”. In materials testing, a lab may fail to identify a sample because the submitted piece is tiny, contaminated, composite, coated, damaged, poorly contextualised, commercially obscure, proprietary, military, or simply outside the lab’s comparison set. A result that says “not identified” can be genuinely intriguing, but it is not proof of non-human manufacture.
 
-The Sun’s 2023 article shows how quickly this distinction can blur in public reporting. It reported that tests on metallic lumps found “no obvious conclusion” about origin and framed that as possibly suggestive of an alien explanation. The same article also repeated the core claims of debris across fields, sheared trees and later recovery by RAF men and plain-clothes officers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/24748922/ufo-crash-wales-roswell-40-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Open source on thesun.co.uk.</span></span></span> As a news account, it helped bring the story back into public view. As evidence, it still depends heavily on later testimony and interpretation rather than newly published official records.
+The Sun’s 2023 article shows how quickly this distinction can blur in public reporting. It reported that tests on metallic lumps found “no obvious conclusion” about origin and framed that as possibly suggestive of an alien explanation. The same article also repeated the core claims of debris across fields, sheared trees and later recovery by RAF men and plain-clothes officers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/24748922/ufo-crash-wales-roswell-40-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Open source on thesun.co.uk.</span></span></span> As a news account, it helped bring the story back into public view. As evidence, it still depends heavily on later testimony and interpretation rather than newly published official records.
 
 A better evidential standard would ask narrower questions. Do the fragments match known aircraft honeycomb panels, aerial material, drone components, missile-range debris, agricultural equipment, insulation, balloon or target material, or scrap from another source? Can the coating be identified by modern spectroscopy? Are there tool marks, fastener holes, serial markings or manufacturing features? Isotopic or elemental oddity alone would not be enough unless it was independently replicated and compared against known industrial materials.
 
@@ -334,11 +334,11 @@ At present, the fragments keep Llanilar alive as a materials case, but they do n
 
 The Llanilar story is often told as if the mystery is “what crashed?” The more useful question is “where are the records?” If a farmer reported possible aircraft wreckage, police attended, RAF or MoD personnel recovered material, radar checks were made, and an official statement was issued, several archives might reasonably be expected to show traces. Police logs, military incident records, air safety files, RAF station communications, local newspaper follow-ups, Forestry Commission correspondence or parliamentary questions could all potentially matter.
 
-So far, the public trail is thin. The strongest official item now available is the 2024 Dyfed-Powys Police FOI response, and it is negative. The National Archives’ wider UFO guidance confirms that the UK government did create and transfer many UFO-related records, including MoD correspondence and sighting files, but Llanilar has not emerged in that public record as a confirmed recovery case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+So far, the public trail is thin. The strongest official item now available is the 2024 Dyfed-Powys Police FOI response, and it is negative. The National Archives’ wider UFO guidance confirms that the UK government did create and transfer many UFO-related records, including MoD correspondence and sighting files, but Llanilar has not emerged in that public record as a confirmed recovery case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That gap changes the case’s weight. A missing file can be suspicious in a well-documented case where multiple surrounding records prove that a file once existed. In Llanilar, the problem is more basic: the public has not yet seen the surrounding official structure either. Claims of a clean-up, military involvement and baffled authorities remain mostly in the realm of later retelling.
 
-There is also a proportionality issue. The MoD’s broader UFO policy history shows that officials did receive and file UFO reports for decades, but ultimately judged that such reports had not demonstrated a defence threat. The National Archives’ final UFO-file release says the MoD UFO desk closed in 2009 after sightings had risen sharply and after internal reasoning that the work no longer served a useful defence purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> That context does not explain Llanilar, but it undermines a simplistic assumption that every unusual report must have been hidden. Many UFO reports were mundane enough to be filed, released and eventually treated as low priority.
+There is also a proportionality issue. The MoD’s broader UFO policy history shows that officials did receive and file UFO reports for decades, but ultimately judged that such reports had not demonstrated a defence threat. The National Archives’ final UFO-file release says the MoD UFO desk closed in 2009 after sightings had risen sharply and after internal reasoning that the work no longer served a useful defence purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> That context does not explain Llanilar, but it undermines a simplistic assumption that every unusual report must have been hidden. Many UFO reports were mundane enough to be filed, released and eventually treated as low priority.
 
 For Llanilar, the missing paper trail therefore cuts both ways. It leaves room for uncertainty, but it also prevents the dramatic version from becoming established history.
 
@@ -354,162 +354,162 @@ The case also illustrates a recurring pattern in county-level UFO history. Rural
 The most balanced reading is this: something may have been found near Llanilar in January 1983, and the aviation-debris hypothesis remains the first explanation to test. The surviving public record does not currently support confident claims of a UFO crash, alien material or a proven MoD retrieval operation. Later materials work may still be worth following, but only if it is transparent, independently repeatable and tied to a credible chain of custody. Until then, Llanilar remains one of Cardiganshire’s most intriguing weak-paper-trail cases: memorable, unresolved in public lore, but not verified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Anything Crash Near Llanilar?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Anything Crash Near Llanilar?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented evidence and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented evidence and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Discusses official investigations and how extraordinary claims are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses official investigations and how extraordinary claims are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ii7BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ii7BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Relevant because the page examines an alleged debris recovery story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant because the page examines an alleged debris recovery story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Directly relevant to evaluating debris stories and missing evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to evaluating debris stories and missing evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="llanilar-claim-did-anything-crash-near-llanilar-cardiganshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ The most balanced reading is this: something may have been found near Llanilar i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ The most balanced reading is this: something may have been found near Llanilar i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ The most balanced reading is this: something may have been found near Llanilar i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ The most balanced reading is this: something may have been found near Llanilar i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ The most balanced reading is this: something may have been found near Llanilar i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,162 +715,162 @@ The most balanced reading is this: something may have been found near Llanilar i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dyfed-powys.police.uk  
    Title: aircraft debris llanilar january 1983 1642024  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/june/aircraft-debris-llanilar-january-1983-1642024/</a>  
    Published: january 1983  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mufog.co.uk  
    Title: llanilar ufo crash west wales 9th jan 1983  
-   Link: <a href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow">https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983</a>  
+   Link:<a href="https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983" target="_blank" rel="noopener noreferrer nofollow">https://www.mufog.co.uk/post/llanilar-ufo-crash-west-wales-9th-jan-1983</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: altpropulsion.com  
    Title: APECThe Llanilar UFO Crash & Material Sample  
-   Link: <a href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/</a>  
+   Link:<a href="https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/the-llanilar-ufo-crash-material-sample/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/191294033/Free-UK-UFO-National-Archives-Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/191294033/Free-UK-UFO-National-Archives-Documents</a>  
+   Link:<a href="https://www.scribd.com/doc/191294033/Free-UK-UFO-National-Archives-Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/191294033/Free-UK-UFO-National-Archives-Documents</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/cabin/structures/honeycomb-panels/aerometal" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/cabin/structures/honeycomb-panels/aerometal</a>  
+   Link:<a href="https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/cabin/structures/honeycomb-panels/aerometal" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/cabin/structures/honeycomb-panels/aerometal</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/public-safety/information-for-mariners</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: milfordmarina.com  
    Title: Cardigan Bay Danger Area  
-   Link: <a href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/</a>  
+   Link:<a href="https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/" target="_blank" rel="noopener noreferrer nofollow">https://www.milfordmarina.com/about/accessing-the-marina/cardigan-bay-danger-area-mod-aberporth/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss3-1-pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss3-1-pdf/</a>  
+   Link:<a href="https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss3-1-pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss3-1-pdf/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: westyorkshire.police.uk  
-   Link: <a href="https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings</a>  
+   Link:<a href="https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about</a>  
+   Link:<a href="https://www.qinetiq.com/en/aberporth/about" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/aberporth/about</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoinsight.com  
    Title: wales ufo crash europes roswell  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/wales-ufo-crash-europes-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/wales-ufo-crash-europes-roswell</a>  
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/wales-ufo-crash-europes-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/wales-ufo-crash-europes-roswell</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalmuseum.af.mil  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/</a>  
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/24748922/ufo-crash-wales-roswell-40-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/24748922/ufo-crash-wales-roswell-40-years/</a>  
+   Link:<a href="https://www.thesun.co.uk/news/24748922/ufo-crash-wales-roswell-40-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/24748922/ufo-crash-wales-roswell-40-years/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/body/raf?latest_status%5B%5D=successful&amp;locale=cy&amp;page=20" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/raf?latest_status%5B%5D=successful&amp;locale=cy&amp;page=20</a>  
+   Link:<a href="https://www.whatdotheyknow.com/body/raf?latest_status%5B%5D=successful&amp;locale=cy&amp;page=20" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/raf?latest_status%5B%5D=successful&amp;locale=cy&amp;page=20</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufoinsight.com  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-pentyrch-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-pentyrch-ufo-crash</a>  
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/the-pentyrch-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-pentyrch-ufo-crash</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Llanilar UFO Crash & Material Sample | Jarod Yates  
-   Link: <a href="https://www.youtube.com/watch?v=5w5NHFPg7W8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5w5NHFPg7W8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Llanilar UFO Sample Metallurgical Analysis | Falcon Space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5w5NHFPg7W8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5w5NHFPg7W8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Llanilar UFO Sample Metallurgical Analysis | Falcon Space...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Llanilar UFO Sample Metallurgical Analysis | Falcon Space  
-   Link: <a href="https://www.youtube.com/watch?v=zLno-dW6SkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zLno-dW6SkM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Europe&#x27;s Roswell: Alien UFO Crash at Aberystwyth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zLno-dW6SkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zLno-dW6SkM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Europe&#x27;s Roswell: Alien UFO Crash at Aberystwyth...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fivepointsmarket2020/posts/one-of-the-worlds-most-interesting-ufo-crash-retrieval-stories-dr-bruce-maccabee/1620292683437288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fivepointsmarket2020/posts/one-of-the-worlds-most-interesting-ufo-crash-retrieval-stories-dr-bruce-maccabee/1620292683437288/</a>  
+   Link:<a href="https://www.facebook.com/fivepointsmarket2020/posts/one-of-the-worlds-most-interesting-ufo-crash-retrieval-stories-dr-bruce-maccabee/1620292683437288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fivepointsmarket2020/posts/one-of-the-worlds-most-interesting-ufo-crash-retrieval-stories-dr-bruce-maccabee/1620292683437288/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10159321024407172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10159321024407172/</a>  
+   Link:<a href="https://www.facebook.com/groups/43941612171/posts/10159321024407172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10159321024407172/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: chalcoaluminum.com  
-   Link: <a href="https://www.chalcoaluminum.com/knowledge/aircraft-honeycomb-aluminum-2601-lx/" target="_blank" rel="noopener noreferrer nofollow">https://www.chalcoaluminum.com/knowledge/aircraft-honeycomb-aluminum-2601-lx/</a>  
+   Link:<a href="https://www.chalcoaluminum.com/knowledge/aircraft-honeycomb-aluminum-2601-lx/" target="_blank" rel="noopener noreferrer nofollow">https://www.chalcoaluminum.com/knowledge/aircraft-honeycomb-aluminum-2601-lx/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rightonblackburns.co.uk  
-   Link: <a href="https://www.rightonblackburns.co.uk/products/metals/aluminium-alloys/marine-aluminium-alloys/honeycomb-panels" target="_blank" rel="noopener noreferrer nofollow">https://www.rightonblackburns.co.uk/products/metals/aluminium-alloys/marine-aluminium-alloys/honeycomb-panels</a>  
+   Link:<a href="https://www.rightonblackburns.co.uk/products/metals/aluminium-alloys/marine-aluminium-alloys/honeycomb-panels" target="_blank" rel="noopener noreferrer nofollow">https://www.rightonblackburns.co.uk/products/metals/aluminium-alloys/marine-aluminium-alloys/honeycomb-panels</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/977704395576978/posts/25506264855627591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/25506264855627591/</a>  
+   Link:<a href="https://www.facebook.com/groups/977704395576978/posts/25506264855627591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/25506264855627591/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wingsmuseum/videos/flying-the-f-111-in-total-darknessthe-aardvark-was-the-first-operational-product/1448458013677323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wingsmuseum/videos/flying-the-f-111-in-total-darknessthe-aardvark-was-the-first-operational-product/1448458013677323/</a>  
+   Link:<a href="https://www.facebook.com/wingsmuseum/videos/flying-the-f-111-in-total-darknessthe-aardvark-was-the-first-operational-product/1448458013677323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wingsmuseum/videos/flying-the-f-111-in-total-darknessthe-aardvark-was-the-first-operational-product/1448458013677323/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/upsocltheenigma/posts/the-retired-general-william-neil-mccasland-68-years-old-has-disappeared-in-new-m/1396805515820426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/upsocltheenigma/posts/the-retired-general-william-neil-mccasland-68-years-old-has-disappeared-in-new-m/1396805515820426/</a>  
+   Link:<a href="https://www.facebook.com/upsocltheenigma/posts/the-retired-general-william-neil-mccasland-68-years-old-has-disappeared-in-new-m/1396805515820426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/upsocltheenigma/posts/the-retired-general-william-neil-mccasland-68-years-old-has-disappeared-in-new-m/1396805515820426/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/engineering/comments/5kyve1/found_this_material_and_was_wondering_what_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/engineering/comments/5kyve1/found_this_material_and_was_wondering_what_it/</a>  
+   Link:<a href="https://www.reddit.com/r/engineering/comments/5kyve1/found_this_material_and_was_wondering_what_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/engineering/comments/5kyve1/found_this_material_and_was_wondering_what_it/</a>  

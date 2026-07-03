@@ -248,19 +248,19 @@ image: /assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-overview-
 
 ## Introduction
 
-The 16 June 1997 Dumfries sighting is important not because it proves an extraordinary event, but because it is the clearest county-specific official trace for [Dumfriesshire]({{ 'what-really-happened-in-dumfriesshire/' | relative_url }}) in the Ministry of Defence’s public UFO reporting lists. The entry says that, in Dumfries, “a metallic object was seen” and that “a blue, green and yellow light came from it”; it was “very bright”. That is almost all the public record gives us. There is no witness name, no time, no direction, no duration, no weather note, no photograph, no radar link and no stated conclusion. As public evidence, it anchors the local record, but it is too thin to carry a strong case on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The 16 June 1997 Dumfries sighting is important not because it proves an extraordinary event, but because it is the clearest county-specific official trace for [Dumfriesshire]({{ 'what-really-happened-in-dumfriesshire/' | relative_url }}) in the Ministry of Defence’s public UFO reporting lists. The entry says that, in Dumfries, “a metallic object was seen” and that “a blue, green and yellow light came from it”; it was “very bright”. That is almost all the public record gives us. There is no witness name, no time, no direction, no duration, no weather note, no photograph, no radar link and no stated conclusion. As public evidence, it anchors the local record, but it is too thin to carry a strong case on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-overview.webp" | relative_url }}" alt="Overview image for 1997 Sighting" loading="eager" decoding="sync" fetchpriority="high">
-This page treats Dumfries in its Dumfriesshire sense: the historic county centred on Dumfries, Nithsdale, Annandale and Eskdale, not every report from the wider modern Dumfries and Galloway council area. That matters because the modern region brought together Dumfriesshire, Wigtownshire and the Stewartry of Kirkcudbright, so a “Dumfries and Galloway UFO” is not automatically a Dumfriesshire case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page treats Dumfries in its Dumfriesshire sense: the historic county centred on Dumfries, Nithsdale, Annandale and Eskdale, not every report from the wider modern Dumfries and Galloway council area. That matters because the modern region brought together Dumfriesshire, Wigtownshire and the Stewartry of Kirkcudbright, so a “Dumfries and Galloway UFO” is not automatically a Dumfriesshire case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 ## What the MoD list actually says
 
-The source for the case is the Ministry of Defence’s published “UFO Reports 1997” PDF, hosted as part of GOV.UK’s collection of UFO reports from 1997 to 2009. GOV.UK describes these documents as showing dates and times, locations and brief descriptions of sightings, which is exactly how the Dumfries entry appears: one row in a national list, not a full case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The source for the case is the Ministry of Defence’s published “UFO Reports 1997” PDF, hosted as part of GOV.UK’s collection of UFO reports from 1997 to 2009. GOV.UK describes these documents as showing dates and times, locations and brief descriptions of sightings, which is exactly how the Dumfries entry appears: one row in a national list, not a full case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The Dumfries row appears among other June 1997 entries. Nearby reports include a balloon-shaped orange object in Kent, solid silver objects below cloud level in the West Midlands, a bright object moving fast at Clitheroe, and later entries from Penrith and Carlisle across the border in Cumbria. This matters because the Dumfries entry was not singled out by the MoD as a landmark case; it was one report among many routine public submissions recorded that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Dumfries row appears among other June 1997 entries. Nearby reports include a balloon-shaped orange object in Kent, solid silver objects below cloud level in the West Midlands, a bright object moving fast at Clitheroe, and later entries from Penrith and Carlisle across the border in Cumbria. This matters because the Dumfries entry was not singled out by the MoD as a landmark case; it was one report among many routine public submissions recorded that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-The wording gives us only three firm points. First, the date was 16 June 1997. Second, the place was Dumfries, Dumfriesshire. Third, the witness or reporter described a metallic object with very bright blue, green and yellow light. Even the time field is blank, which sharply limits follow-up checks against aircraft movements, astronomical objects, weather, public events, or other same-night reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The wording gives us only three firm points. First, the date was 16 June 1997. Second, the place was Dumfries, Dumfriesshire. Third, the witness or reporter described a metallic object with very bright blue, green and yellow light. Even the time field is blank, which sharply limits follow-up checks against aircraft movements, astronomical objects, weather, public events, or other same-night reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 For Dumfriesshire’s UFO history, this is still valuable. A county-level study needs firm anchors, and an official MoD table is a better anchor than an unattributed retelling. But the entry’s strength is documentary, not evidential. It shows that a report reached an official channel; it does not show that the object was unknown in any deeper investigative sense.
 
@@ -268,7 +268,7 @@ For Dumfriesshire’s UFO history, this is still valuable. A county-level study 
 <img src="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-Illustration-1-dark.svg" | relative_url }}" alt="1997 Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this single row matters locally
 
-Dumfriesshire is not crowded with well-documented, heavily investigated UFO cases in the public record. That makes the Dumfries 1997 sighting stand out: it gives the historic county a named, dated MoD entry rather than only later folklore, press snippets or broad regional claims. Dumfries itself is the county town of Dumfriesshire and lies near the River Nith and the Solway Firth, so it is a natural focal point for a county-level page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Dumfriesshire is not crowded with well-documented, heavily investigated UFO cases in the public record. That makes the Dumfries 1997 sighting stand out: it gives the historic county a named, dated MoD entry rather than only later folklore, press snippets or broad regional claims. Dumfries itself is the county town of Dumfriesshire and lies near the River Nith and the Solway Firth, so it is a natural focal point for a county-level page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 Its local value is also negative evidence. The entry shows how modest the public record can be even when the source is official. A reader might expect an MoD sighting to come with radar plots, service witness statements, aircraft checks and a conclusion. In this case, the public-facing evidence is no more than a short description. That makes it useful as a reality check against inflated claims about “government files”.
 
@@ -283,19 +283,19 @@ The missing details are not a minor inconvenience; they are the core reason the 
 
 The lack of witness context also matters. The entry does not say whether the observer was alone, whether there were independent witnesses, whether the sighting was reported immediately, whether binoculars were used, whether the object made sound, or whether it was seen from a vehicle, garden, street, workplace, hill, or open countryside. Each of those details could change the weight of the report.
 
-This does not mean the witness was wrong or careless. It means the surviving public evidence is too compressed to test properly. The National Archives notes that many MoD UFO records describe shapes, lights and flashes, often with possible ordinary explanations, while some remain more unusual. That is the right category for Dumfries 1997: a recorded report of a striking lighted object, not a solved case and not a strong anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+This does not mean the witness was wrong or careless. It means the surviving public evidence is too compressed to test properly. The National Archives notes that many MoD UFO records describe shapes, lights and flashes, often with possible ordinary explanations, while some remain more unusual. That is the right category for Dumfries 1997: a recorded report of a striking lighted object, not a solved case and not a strong anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The colours are intriguing but not decisive. Blue, green and yellow light can sound exotic, yet colour changes are a common feature in night-sky reports. The National Archives research guide lists bright stars and planets, meteors, satellites, balloons, unusual aircraft views and space debris among ordinary explanations found in many UFO investigations. It also stresses that, for the MoD, “unidentified” did not mean “extraterrestrial”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">Research Notes 6</span><span class="citation-popover-snippet">Research Notes 6</span></span></span>
+The colours are intriguing but not decisive. Blue, green and yellow light can sound exotic, yet colour changes are a common feature in night-sky reports. The National Archives research guide lists bright stars and planets, meteors, satellites, balloons, unusual aircraft views and space debris among ordinary explanations found in many UFO investigations. It also stresses that, for the MoD, “unidentified” did not mean “extraterrestrial”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">Research Notes 6</span><span class="citation-popover-snippet">Research Notes 6</span></span></span>
 
 
 <img src="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-Illustration-2-dark.svg" | relative_url }}" alt="1997 Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official interest should be read
 
-The MoD’s interest in UFO reports was not the same as a public inquiry into every mystery in the sky. The National Archives research guide explains that official policy was restricted to whether sightings could represent a threat to national security; once hostile or unauthorised aircraft were discounted, the exact identity of a reported UFO was often of no further military interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">Research Notes 6</span><span class="citation-popover-snippet">Research Notes 6</span></span></span>
+The MoD’s interest in UFO reports was not the same as a public inquiry into every mystery in the sky. The National Archives research guide explains that official policy was restricted to whether sightings could represent a threat to national security; once hostile or unauthorised aircraft were discounted, the exact identity of a reported UFO was often of no further military interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">Research Notes 6</span><span class="citation-popover-snippet">Research Notes 6</span></span></span>
 
-That distinction is crucial for the Dumfries case. A sighting appearing in an MoD list tells us that it entered the reporting system. It does not tell us that the MoD verified the object as a craft, judged it exceptional, or carried out a detailed investigation. The GOV.UK collection itself describes the annual files as brief listings of dates, times, locations and sighting descriptions, not as adjudicated case reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+That distinction is crucial for the Dumfries case. A sighting appearing in an MoD list tells us that it entered the reporting system. It does not tell us that the MoD verified the object as a craft, judged it exceptional, or carried out a detailed investigation. The GOV.UK collection itself describes the annual files as brief listings of dates, times, locations and sighting descriptions, not as adjudicated case reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The later closure of the MoD UFO desk reinforces this cautious reading. The National Archives press release on the final tranche of UFO files says the desk closed in 2009 after officials concluded it served no defence purpose, and that more than 50 years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK. A 2024 parliamentary answer restated that the MoD ceased investigating UFO or UAP reports in 2009 and had no current dedicated team for alleged sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The later closure of the MoD UFO desk reinforces this cautious reading. The National Archives press release on the final tranche of UFO files says the desk closed in 2009 after officials concluded it served no defence purpose, and that more than 50 years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK. A 2024 parliamentary answer restated that the MoD ceased investigating UFO or UAP reports in 2009 and had no current dedicated team for alleged sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 For Dumfries 1997, that means the official status is modest. It is a genuine public MoD record. It is not an official endorsement of an extraordinary interpretation.
 
@@ -306,7 +306,7 @@ For Dumfries 1997, that means the official status is modest. It is a genuine pub
 
 “Unresolved” is often misunderstood in UFO discussions. In a strong case, unresolved might mean that detailed evidence has survived and still resists explanation after proper checks. In a weak case, unresolved may simply mean that there is too little information to decide. The Dumfries 1997 sighting fits the second pattern more than the first.
 
-Several ordinary possibilities remain open because the record is sparse. A bright astronomical object low in the sky can appear to twinkle or change colour because of atmospheric effects. Aircraft lights can look unusual when seen head-on, through haze, or without a clear sense of distance. Balloons, advertising lights, satellites, meteors and re-entering debris can also generate reports that sound strange in a short written summary. The National Archives guide explicitly notes that ordinary explanations account for many reports, while a remaining “unidentified” label does not imply an extraterrestrial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">Research Notes 6</span><span class="citation-popover-snippet">Research Notes 6</span></span></span>
+Several ordinary possibilities remain open because the record is sparse. A bright astronomical object low in the sky can appear to twinkle or change colour because of atmospheric effects. Aircraft lights can look unusual when seen head-on, through haze, or without a clear sense of distance. Balloons, advertising lights, satellites, meteors and re-entering debris can also generate reports that sound strange in a short written summary. The National Archives guide explicitly notes that ordinary explanations account for many reports, while a remaining “unidentified” label does not imply an extraterrestrial object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">Research Notes 6</span><span class="citation-popover-snippet">Research Notes 6</span></span></span>
 
 The word “metallic” also needs care. It may mean a structured object with a reflective surface, but it could also be a witness’s impression of brightness, sheen or colour. Without shape, angular size, movement, distance, or lighting conditions, “metallic object” is not enough to distinguish a physical craft from an ordinary object seen under unusual light.
 
@@ -332,178 +332,178 @@ The 1997 Dumfries sighting is the kind of case that makes local UFO history more
 For readers exploring Dumfriesshire, the most honest conclusion is that the sighting matters as a trace of official reporting, not as proof of an extraordinary event. It shows that unusual sky reports from the historic county did reach the MoD, but it also shows the limits of the surviving public record. The case remains locally notable, officially recorded and evidentially weak.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is the 1997 Dumfries Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is the 1997 Dumfries Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Readers interested in official UFO documentation and government records are likely to find it a natural next read.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in official UFO documentation and government records are likely to find it a natural next read.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are assessed, categorized, and limited by missing evidence, matching the page&#x27;s focus on evaluating a sparse sig...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are assessed, categorized, and limited by missing evidence, matching the page&#x27;s focus on evaluating a sparse sig...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Appeals to readers who move from individual case assessment toward wider discussions of unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers who move from individual case assessment toward wider discussions of unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports the page&#x27;s theme that unresolved reports should not automatically be treated as extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the page&#x27;s theme that unresolved reports should not automatically be treated as extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1997-sighting-how-strong-is-the-1997-dumfries-sighting-dumfriesshire-ufo-memorabilia-book-books-gerry-anderson-series-pr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -519,7 +519,7 @@ For readers exploring Dumfriesshire, the most honest conclusion is that the sigh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -539,7 +539,7 @@ For readers exploring Dumfriesshire, the most honest conclusion is that the sigh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -571,7 +571,7 @@ For readers exploring Dumfriesshire, the most honest conclusion is that the sigh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -623,7 +623,7 @@ For readers exploring Dumfriesshire, the most honest conclusion is that the sigh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -668,7 +668,7 @@ For readers exploring Dumfriesshire, the most honest conclusion is that the sigh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -709,191 +709,191 @@ For readers exploring Dumfriesshire, the most honest conclusion is that the sigh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140804 FOI Bentwaters  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 0850 i  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=226" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=226</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=226" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=226</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/why-is-the-sky-blue" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/why-is-the-sky-blue</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/why-is-the-sky-blue" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/why-is-the-sky-blue</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metoffice.gov.uk  
    Title: evolution for met office colour scales  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/evolution-for-met-office-colour-scales" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/evolution-for-met-office-colour-scales</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/evolution-for-met-office-colour-scales" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/evolution-for-met-office-colour-scales</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metoffice.gov.uk  
    Title: what is blood rain and will we see it this week  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ia801704.us.archive.org  
-   Link: <a href="https://ia801704.us.archive.org/15/items/transactionsjour18dumf/transactionsjour18dumf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801704.us.archive.org/15/items/transactionsjour18dumf/transactionsjour18dumf.pdf</a>  
+   Link:<a href="https://ia801704.us.archive.org/15/items/transactionsjour18dumf/transactionsjour18dumf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801704.us.archive.org/15/items/transactionsjour18dumf/transactionsjour18dumf.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dumfriesandgalloway.gov.uk  
    Title: find library  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/library-services/find-library" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/library-services/find-library</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/library-services/find-library" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/library-services/find-library</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hko.gov.hk  
    Title: 00356 why do stars twinkle  
-   Link: <a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00356-why-do-stars-twinkle.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00356-why-do-stars-twinkle.html</a>  
+   Link:<a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00356-why-do-stars-twinkle.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00356-why-do-stars-twinkle.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/dumfries-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/dumfries-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/dumfries-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/dumfries-county</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reason.com  
    Title: ufos over the uk  
-   Link: <a href="https://reason.com/2012/07/12/ufos-over-the-uk/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2012/07/12/ufos-over-the-uk/</a>  
+   Link:<a href="https://reason.com/2012/07/12/ufos-over-the-uk/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2012/07/12/ufos-over-the-uk/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfriesshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfriesshire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Dumfries" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dumfries</a>  
+   Link:<a href="https://www.britannica.com/place/Dumfries" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dumfries</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blog.nls.uk  
    Title: dumfries and galloway  
-   Link: <a href="https://blog.nls.uk/tag/dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nls.uk/tag/dumfries-and-galloway/</a>  
+   Link:<a href="https://blog.nls.uk/tag/dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nls.uk/tag/dumfries-and-galloway/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: blog.nls.uk  
-   Link: <a href="https://blog.nls.uk/tag/local-history/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nls.uk/tag/local-history/page/2/</a>  
+   Link:<a href="https://blog.nls.uk/tag/local-history/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nls.uk/tag/local-history/page/2/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dumfriesshire</a>  
+   Link:<a href="https://www.britannica.com/place/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dumfriesshire</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dumfriesshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dumfriesshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Dumfries and Galloway  
-   Link: <a href="https://en.wikipedia.org/wiki/Dumfries_and_Galloway" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dumfries_and_Galloway</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dumfries_and_Galloway" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dumfries_and_Galloway</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dumfries" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dumfries</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dumfries" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dumfries</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Dumfries" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfries</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Dumfries" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfries</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Britain's Secret UFO Investigation (Special) | History  
-   Link: <a href="https://www.youtube.com/watch?v=WOmJ--KVVDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WOmJ--KVVDg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WOmJ--KVVDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WOmJ--KVVDg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/the-county-of-dumfries-is-a-shire-on-the-north-shore-of-the-solway-firthdumfries/932457759037792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-dumfries-is-a-shire-on-the-north-shore-of-the-solway-firthdumfries/932457759037792/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/the-county-of-dumfries-is-a-shire-on-the-north-shore-of-the-solway-firthdumfries/932457759037792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-dumfries-is-a-shire-on-the-north-shore-of-the-solway-firthdumfries/932457759037792/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DJmENYCsTXb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJmENYCsTXb/</a>  
+   Link:<a href="https://www.instagram.com/p/DJmENYCsTXb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJmENYCsTXb/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DGtLovAsJFz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DGtLovAsJFz/</a>  
+   Link:<a href="https://www.instagram.com/p/DGtLovAsJFz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DGtLovAsJFz/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: westcoasttoday.co.uk  
-   Link: <a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
+   Link:<a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/dumfriesshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/dumfriesshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/dumfriesshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/dumfriesshire/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Dumfriesshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Dumfriesshire</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/9gqrux/flickering_multicolored_star_what_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/9gqrux/flickering_multicolored_star_what_is_it/</a>  
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/9gqrux/flickering_multicolored_star_what_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/9gqrux/flickering_multicolored_star_what_is_it/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/dumfriesshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/dumfriesshire.html</a>  
+   Link:<a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/dumfriesshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/dumfriesshire.html</a>  

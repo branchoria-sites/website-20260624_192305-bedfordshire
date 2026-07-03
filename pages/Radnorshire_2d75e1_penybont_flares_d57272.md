@@ -254,31 +254,31 @@ image: /assets/images/Radnorshire_2d75e1_penybont_flares_d57272-overview-social.
 
 ## Introduction
 
-The Penybont case is small, but it is one of the most useful [Radnorshire]({{ 'what-really-happened-in-radnorshires-ufo/' | relative_url }}) UFO examples because it shows a dramatic sighting losing its mystery after a conventional check. In 2005, a report from Penybont described “something with two lights” as having landed in a field. Later reporting, based on police-released sightings, said it was discovered to be orange flares from an Army exercise. That does not make the original witness foolish. It shows how a real night-time observation can look much stranger at first than it does once timing, location and military activity are compared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
+The Penybont case is small, but it is one of the most useful [Radnorshire]({{ 'what-really-happened-in-radnorshires-ufo/' | relative_url }}) UFO examples because it shows a dramatic sighting losing its mystery after a conventional check. In 2005, a report from Penybont described “something with two lights” as having landed in a field. Later reporting, based on police-released sightings, said it was discovered to be orange flares from an Army exercise. That does not make the original witness foolish. It shows how a real night-time observation can look much stranger at first than it does once timing, location and military activity are compared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
 
 
 <img src="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-overview.webp" | relative_url }}" alt="Overview image for Penybont" loading="eager" decoding="sync" fetchpriority="high">
-Penybont sits in historic Radnorshire, within the modern Powys council area and Dyfed-Powys Police area, so it belongs naturally in a county-level UFO history that has to handle both old county geography and modern reporting systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> Its value is not as a great unsolved mystery, but as a worked example: a rural “landing” impression can sometimes be traced to ordinary lights in the sky.
+Penybont sits in historic Radnorshire, within the modern Powys council area and Dyfed-Powys Police area, so it belongs naturally in a county-level UFO history that has to handle both old county geography and modern reporting systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> Its value is not as a great unsolved mystery, but as a worked example: a rural “landing” impression can sometimes be traced to ordinary lights in the sky.
 
 ## The original landing report
 
 The public wording of the Penybont report is brief but vivid: “Something with two lights has landed in field.” That phrasing matters. It does not merely say that lights were seen overhead; it suggests proximity, descent and contact with the ground. In UFO reporting, those are the details that quickly make a case feel more serious. A light in the sky is one thing. A light apparently coming down into a field beside a rural village feels like a local incident.
 
-The problem is that the available public record is only a short summary. It does not give the exact date, time, witness position, direction of view, weather, duration, distance estimate, photographs, police log detail or the name of the unit involved in the later Army explanation. WalesOnline’s 2013 article says police had released details of 33 reports to North Wales Police and Dyfed-Powys Police since 2002, with only five explained as human activity such as Army training exercises or night lanterns. Penybont was one of those explained cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
+The problem is that the available public record is only a short summary. It does not give the exact date, time, witness position, direction of view, weather, duration, distance estimate, photographs, police log detail or the name of the unit involved in the later Army explanation. WalesOnline’s 2013 article says police had released details of 33 reports to North Wales Police and Dyfed-Powys Police since 2002, with only five explained as human activity such as Army training exercises or night lanterns. Penybont was one of those explained cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
 
 That thinness is important. The Penybont entry is strong enough to say that a dramatic field-landing impression was later attributed to flares. It is not strong enough to reconstruct the event minute by minute. A careful Radnorshire account should therefore avoid two opposite mistakes: treating it as evidence of a landed craft, or dismissing the witness as if the report were meaningless. The more useful reading is that the witness probably saw something real, but interpreted its position and behaviour from a difficult viewpoint.
 
-Penybont’s setting makes that plausible. It is a small village in rural Mid Wales, in a landscape where fields, hills, lanes and long sightlines can make distance hard to judge after dark. The Gazetteer for British place names places Penybont in Radnorshire, with modern administrative links to Powys and Dyfed-Powys Police. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> In such a setting, a bright orange light descending slowly behind a hedge, ridge, tree line or field boundary could be read as “landing” even if it was farther away or falling under a parachute.
+Penybont’s setting makes that plausible. It is a small village in rural Mid Wales, in a landscape where fields, hills, lanes and long sightlines can make distance hard to judge after dark. The Gazetteer for British place names places Penybont in Radnorshire, with modern administrative links to Powys and Dyfed-Powys Police.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> In such a setting, a bright orange light descending slowly behind a hedge, ridge, tree line or field boundary could be read as “landing” even if it was farther away or falling under a parachute.
 
 
 <img src="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-Illustration-1-dark.svg" | relative_url }}" alt="Penybont illustration 1" data-theme-src-dark="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Army exercise explanation
 
-The key later detail is that the Penybont lights were “discovered to be orange flares from Army exercise.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span> That explanation fits the general pattern of military flare misidentifications. Flares can be bright, orange, slow-moving, silent at a distance and visually ambiguous. Depending on the observer’s angle, they can appear to hang, drift, drop, split, brighten, fade or settle into the landscape.
+The key later detail is that the Penybont lights were “discovered to be orange flares from Army exercise.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span> That explanation fits the general pattern of military flare misidentifications. Flares can be bright, orange, slow-moving, silent at a distance and visually ambiguous. Depending on the observer’s angle, they can appear to hang, drift, drop, split, brighten, fade or settle into the landscape.
 
-The Penybont report does not publicly identify the range or unit, so it should not be tied to a specific exercise site without further documentary proof. However, the wider regional context makes military training a reasonable line of investigation. The Ministry of Defence’s public access guidance for Wales describes Sennybridge Training Area in Powys as a major training area hosting live firing and dry training activities for light forces, including artillery. It also notes that red flags by day and red lights by night are displayed when the area is being used for military activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/wales-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> The MOD also publishes Sennybridge firing notices as a continuing public-information mechanism, which shows the kind of source investigators would now check when assessing lights or explosions reported in Mid Wales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/sennybridge-firing-notice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Sennybridge firing notice</span><span class="citation-popover-snippet">Sennybridge firing notice</span></span></span>
+The Penybont report does not publicly identify the range or unit, so it should not be tied to a specific exercise site without further documentary proof. However, the wider regional context makes military training a reasonable line of investigation. The Ministry of Defence’s public access guidance for Wales describes Sennybridge Training Area in Powys as a major training area hosting live firing and dry training activities for light forces, including artillery. It also notes that red flags by day and red lights by night are displayed when the area is being used for military activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/wales-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> The MOD also publishes Sennybridge firing notices as a continuing public-information mechanism, which shows the kind of source investigators would now check when assessing lights or explosions reported in Mid Wales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/sennybridge-firing-notice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Sennybridge firing notice</span><span class="citation-popover-snippet">Sennybridge firing notice</span></span></span>
 
-That does not prove the Penybont flare came from Sennybridge. The safer conclusion is narrower: Army activity in and around Welsh training areas is a known source of night-time light reports, and the Penybont case was reportedly resolved by linking the sighting to such an exercise. Comparable cases elsewhere in Britain show the same mechanism. In 2016, Forces News reported that Devon and Cornwall Police received numerous emergency calls about flashing and floating lights over Dartmoor, which were then explained as Army training activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forcesnews.com/services/tri-service/army-causes-countless-ufo-calls-police" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">army causes countless ufo calls police</span><span class="citation-popover-snippet">army causes countless ufo calls police</span></span></span>
+That does not prove the Penybont flare came from Sennybridge. The safer conclusion is narrower: Army activity in and around Welsh training areas is a known source of night-time light reports, and the Penybont case was reportedly resolved by linking the sighting to such an exercise. Comparable cases elsewhere in Britain show the same mechanism. In 2016, Forces News reported that Devon and Cornwall Police received numerous emergency calls about flashing and floating lights over Dartmoor, which were then explained as Army training activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forcesnews.com/services/tri-service/army-causes-countless-ufo-calls-police" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">army causes countless ufo calls police</span><span class="citation-popover-snippet">army causes countless ufo calls police</span></span></span>
 
 This is why Penybont is useful. The first description sounds like a landed object. The later explanation turns the case into a lesson about perspective, not a story about deception. A flare does not need to mimic a spacecraft perfectly. It only has to be bright, unfamiliar, seen briefly and placed by the witness against the wrong bit of landscape.
 
@@ -287,7 +287,7 @@ This is why Penybont is useful. The first description sounds like a landed objec
 
 ## Why flares can look like a landing
 
-The strongest part of the flare explanation is not simply the colour. It is the combination of colour, movement and setting. Orange lights are common in many mistaken UFO reports, and astronomy explainers regularly list flares, lanterns, aircraft lights and other human-made lights among things that can be confused with UFOs. BBC Sky at Night Magazine, for example, includes sky lanterns and other floating lights among ordinary causes of UFO reports, stressing that groups of lights can be mistaken for structured objects or formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+The strongest part of the flare explanation is not simply the colour. It is the combination of colour, movement and setting. Orange lights are common in many mistaken UFO reports, and astronomy explainers regularly list flares, lanterns, aircraft lights and other human-made lights among things that can be confused with UFOs. BBC Sky at Night Magazine, for example, includes sky lanterns and other floating lights among ordinary causes of UFO reports, stressing that groups of lights can be mistaken for structured objects or formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
 Flares add a particular twist because they are intended to illuminate or signal. They can descend slowly, sometimes under a parachute, and their apparent movement depends heavily on wind, distance and the observer’s position. Seen across fields, a descending flare may appear to be dropping into a nearby field when it is actually beyond it. Seen near a skyline, it may seem to hover. Seen as two lights, it may be read as the lamps of one object rather than two separate sources.
 
@@ -296,7 +296,7 @@ The Penybont wording — “two lights” and “landed in field” — is exact
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Observation:** two lights were seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+* **Observation:** two lights were seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 * **Interpretation:** the lights belonged to something.
 * **Distance judgement:** the “something” was thought to be in a field.
 * **Event judgement:** it was thought to have landed.
@@ -312,9 +312,9 @@ That sequence is not a criticism of the witness. Human depth perception is poor 
 
 The public record does not provide the full investigation file, but it points to the kind of checks that turn an alarming UFO call into an explained sighting. The process is practical rather than glamorous.
 
-First, the report has to be reduced to testable details: time, location, direction, colour, number of lights, duration, sound, movement and whether anyone else saw the same thing. Then the investigator checks ordinary sources in descending order of likelihood: aircraft, lanterns, emergency flares, military exercises, astronomical objects, satellites, local events and weather. In Penybont, the decisive comparison appears to have been with Army exercise activity involving orange flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
+First, the report has to be reduced to testable details: time, location, direction, colour, number of lights, duration, sound, movement and whether anyone else saw the same thing. Then the investigator checks ordinary sources in descending order of likelihood: aircraft, lanterns, emergency flares, military exercises, astronomical objects, satellites, local events and weather. In Penybont, the decisive comparison appears to have been with Army exercise activity involving orange flares.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span>
 
-That approach also matches the broader UK official history of UFO reporting. The National Archives explains that the Ministry of Defence kept UFO [records]({{ 'records-48c2a4/' | relative_url }}) from the 1960s, and that many records describe shapes, lights and flashes which can often be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span> The final tranche of MoD UFO files showed that the UFO desk closed in 2009 after handling a large volume of reports, with the National Archives framing the material as a mixture of public reports, policy correspondence and official handling rather than a continuing proof-led alien investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+That approach also matches the broader UK official history of UFO reporting. The National Archives explains that the Ministry of Defence kept UFO [records]({{ 'records-48c2a4/' | relative_url }}) from the 1960s, and that many records describe shapes, lights and flashes which can often be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span> The final tranche of MoD UFO files showed that the UFO desk closed in 2009 after handling a large volume of reports, with the National Archives framing the material as a mixture of public reports, policy correspondence and official handling rather than a continuing proof-led alien investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 Penybont therefore belongs to a familiar investigative category: a report that sounded extraordinary when phrased as a field landing, but became ordinary once matched against a human activity source. It also shows why short public summaries are frustrating. The conclusion is clear enough to weaken the UFO claim, but the absence of the full police log prevents readers from seeing the exact chain of evidence.
 
@@ -323,7 +323,7 @@ Penybont therefore belongs to a familiar investigative category: a report that s
 
 ## What Penybont changes for Radnorshire sightings
 
-Penybont is the clearest local warning against judging Radnorshire reports by first impressions alone. The nearby county record includes other short reports, such as Beguildy near Knighton in 2004 and [Llanyre]({{ 'llanyre/' | relative_url }}) near Llandrindod Wells in 2005, but those public summaries do not carry the same later explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span> Penybont stands out because the story has a before-and-after shape: strange landing report first, flare explanation later.
+Penybont is the clearest local warning against judging Radnorshire reports by first impressions alone. The nearby county record includes other short reports, such as Beguildy near Knighton in 2004 and [Llanyre]({{ 'llanyre/' | relative_url }}) near Llandrindod Wells in 2005, but those public summaries do not carry the same later explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span> Penybont stands out because the story has a before-and-after shape: strange landing report first, flare explanation later.
 
 That makes it a useful comparison point for other Radnorshire cases. When a witness reports a low object, a bright craft or lights near the ground, Penybont suggests several questions should come before any dramatic conclusion:
 
@@ -344,7 +344,7 @@ Those questions do not “debunk” every rural sighting in advance. They simply
 <img src="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-Illustration-3-dark.svg" | relative_url }}" alt="Penybont illustration 3" data-theme-src-dark="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Radnorshire_2d75e1_penybont_flares_d57272-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The right level of mystery
 
-The Penybont case should be classified as plausibly explained, not unresolved. The public evidence says the reported landed object was later discovered to be orange flares from an Army exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span> Unless a fuller police file or direct witness account emerges that contradicts that explanation, the flare reading is the best available conclusion.
+The Penybont case should be classified as plausibly explained, not unresolved. The public evidence says the reported landed object was later discovered to be orange flares from an Army exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">ufos wales police reveal locations 1837150</span><span class="citation-popover-snippet">ufos wales police reveal locations 1837150</span></span></span> Unless a fuller police file or direct witness account emerges that contradicts that explanation, the flare reading is the best available conclusion.
 
 The case still matters because it preserves a real feature of UFO history: many sightings are dramatic at the moment of experience and ordinary after investigation. The emotional force of seeing lights apparently land in a field is genuine. So is the evidential force of a later match to Army flares. A balanced Radnorshire account has to hold both points together.
 
@@ -355,194 +355,194 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Penybont&#x27;s Field Landing Become Flares?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Penybont&#x27;s Field Landing Become Flares?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how mundane lights become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how mundane lights become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how explanations emerge after investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how explanations emerge after investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast with stronger evidence cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast with stronger evidence cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Contains UK examples of explainable sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains UK examples of explainable sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="penybont-how-did-penybont-s-field-landing-become-flares-radnorshire-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,185 +748,185 @@ For readers looking across the county’s UFO record, Penybont is less a mystery
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/wales-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/wales-public-access-to-military-areas</a>  
+   Link:<a href="https://www.gov.uk/guidance/wales-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/wales-public-access-to-military-areas</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Sennybridge firing notice  
-   Link: <a href="https://www.gov.uk/government/publications/sennybridge-firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/sennybridge-firing-notice</a>  
+   Link:<a href="https://www.gov.uk/government/publications/sennybridge-firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/sennybridge-firing-notice</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: dte info leaflet wales  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7957d5ed915d04220679d8/dte_info_leaflet_wales.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7957d5ed915d04220679d8/dte_info_leaflet_wales.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7957d5ed915d04220679d8/dte_info_leaflet_wales.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7957d5ed915d04220679d8/dte_info_leaflet_wales.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: south-wales.police.uk  
-   Link: <a href="https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/" target="_blank" rel="noopener noreferrer nofollow">https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/</a>  
+   Link:<a href="https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/" target="_blank" rel="noopener noreferrer nofollow">https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: beacons-npa.gov.uk  
    Title: Powys Heritage and Cultural Audit Final  
-   Link: <a href="https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf</a>  
+   Link:<a href="https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: insidedio.blog.gov.uk  
    Title: blog.gov.uktraining estate – Inside DIO  
-   Link: <a href="https://insidedio.blog.gov.uk/tag/training-estate/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/tag/training-estate/</a>  
+   Link:<a href="https://insidedio.blog.gov.uk/tag/training-estate/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/tag/training-estate/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: data.gov.uk  
    Title: Sennybridge firing programme  
-   Link: <a href="https://www.data.gov.uk/dataset/076cd320-031b-477f-a1dc-8b4846bb59b5/sennybridge_firing_programme_mod" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/076cd320-031b-477f-a1dc-8b4846bb59b5/sennybridge_firing_programme_mod</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/076cd320-031b-477f-a1dc-8b4846bb59b5/sennybridge_firing_programme_mod" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/076cd320-031b-477f-a1dc-8b4846bb59b5/sennybridge_firing_programme_mod</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: army.mod.uk  
-   Link: <a href="https://www.army.mod.uk/support-and-training/our-schools-and-colleges/infantry-battle-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mod.uk/support-and-training/our-schools-and-colleges/infantry-battle-school/</a>  
+   Link:<a href="https://www.army.mod.uk/support-and-training/our-schools-and-colleges/infantry-battle-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mod.uk/support-and-training/our-schools-and-colleges/infantry-battle-school/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: walesonline.co.uk  
    Title: ufos wales police reveal locations 1837150  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Penybont%2C_Radnorshire_35520</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: forcesnews.com  
    Title: army causes countless ufo calls police  
-   Link: <a href="https://www.forcesnews.com/services/tri-service/army-causes-countless-ufo-calls-police" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/services/tri-service/army-causes-countless-ufo-calls-police</a>  
+   Link:<a href="https://www.forcesnews.com/services/tri-service/army-causes-countless-ufo-calls-police" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/services/tri-service/army-causes-countless-ufo-calls-police</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Penybont" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Penybont</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Penybont" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Penybont</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Sennybridge Training Area  
-   Link: <a href="https://en.wikipedia.org/wiki/Sennybridge_Training_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sennybridge_Training_Area</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sennybridge_Training_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sennybridge_Training_Area</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2853199748347036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2853199748347036/</a>  
+   Link:<a href="https://www.facebook.com/groups/149844915349213/posts/2853199748347036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2853199748347036/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: walesonline.co.uk  
    Title: strange night welsh field involving 15290890  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/strange-night-welsh-field-involving-15290890" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/strange-night-welsh-field-involving-15290890</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/strange-night-welsh-field-involving-15290890" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/strange-night-welsh-field-involving-15290890</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: walesonline.co.uk  
    Title: welsh ufo sighting feature show 2173157  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/welsh-ufo-sighting-feature-show-2173157" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/welsh-ufo-sighting-feature-show-2173157</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/welsh-ufo-sighting-feature-show-2173157" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/welsh-ufo-sighting-feature-show-2173157</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: locations.landmarcsolutions.com  
-   Link: <a href="https://locations.landmarcsolutions.com/location/sennybridge/" target="_blank" rel="noopener noreferrer nofollow">https://locations.landmarcsolutions.com/location/sennybridge/</a>  
+   Link:<a href="https://locations.landmarcsolutions.com/location/sennybridge/" target="_blank" rel="noopener noreferrer nofollow">https://locations.landmarcsolutions.com/location/sennybridge/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5hKsm9tydas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5hKsm9tydas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Darkness, Discipline, Dominance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5hKsm9tydas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5hKsm9tydas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darkness, Discipline, Dominance...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/</a>  
+   Link:<a href="https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theliverpoolecho/posts/pulsing-lights-turn-sky-bright-orange-over-merseyside-visit-the-echo-website-for/6101641079901769/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheArmyNI/videos/2nd-battalion-the-royal-irish-regiment-at-sennybridge-training-area/2444678905649057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheArmyNI/videos/2nd-battalion-the-royal-irish-regiment-at-sennybridge-training-area/2444678905649057/</a>  
+   Link:<a href="https://www.facebook.com/TheArmyNI/videos/2nd-battalion-the-royal-irish-regiment-at-sennybridge-training-area/2444678905649057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheArmyNI/videos/2nd-battalion-the-royal-irish-regiment-at-sennybridge-training-area/2444678905649057/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/712554399526625/posts/2099048927543825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/712554399526625/posts/2099048927543825/</a>  
+   Link:<a href="https://www.facebook.com/groups/712554399526625/posts/2099048927543825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/712554399526625/posts/2099048927543825/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dolswyddcaravanpark.co.uk  
-   Link: <a href="https://www.dolswyddcaravanpark.co.uk/historic-attractions" target="_blank" rel="noopener noreferrer nofollow">https://www.dolswyddcaravanpark.co.uk/historic-attractions</a>  
+   Link:<a href="https://www.dolswyddcaravanpark.co.uk/historic-attractions" target="_blank" rel="noopener noreferrer nofollow">https://www.dolswyddcaravanpark.co.uk/historic-attractions</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: penybontcc.co.uk  
-   Link: <a href="https://www.penybontcc.co.uk/History_of_Penybont_35362.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.penybontcc.co.uk/History_of_Penybont_35362.aspx</a>  
+   Link:<a href="https://www.penybontcc.co.uk/History_of_Penybont_35362.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.penybontcc.co.uk/History_of_Penybont_35362.aspx</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/25307" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/25307</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/25307" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/25307</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/</a>  
+   Link:<a href="https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCCymruWales/posts/how-do-you-explain-these-ufo-sightings-in-wales-paranormalthevillagethatsawalien/856378593188805/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ww1.wales  
-   Link: <a href="https://ww1.wales/other-counties/radnorshire-war-memorials/penybont-cefnllys-llanbadarn-fawr-and-llandegley-war-memorial/" target="_blank" rel="noopener noreferrer nofollow">https://ww1.wales/other-counties/radnorshire-war-memorials/penybont-cefnllys-llanbadarn-fawr-and-llandegley-war-memorial/</a>  
+   Link:<a href="https://ww1.wales/other-counties/radnorshire-war-memorials/penybont-cefnllys-llanbadarn-fawr-and-llandegley-war-memorial/" target="_blank" rel="noopener noreferrer nofollow">https://ww1.wales/other-counties/radnorshire-war-memorials/penybont-cefnllys-llanbadarn-fawr-and-llandegley-war-memorial/</a>  

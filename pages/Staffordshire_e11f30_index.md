@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /staffordshire-e11f30-index/
 description: Focused pages that expand on What Really Happened in Staffordshire's
   UFO....
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Staffordshire_e11f30
 parent_title: What Really Happened in Staffordshire's UFO...
@@ -17,7 +17,7 @@ parent_permalink: /what-really-happened-in-staffordshires/
 
 # Explore Topics in What Really Happened in Staffordshire's UFO...
 
-The following pages expand on the main **[What Really Happened in Staffordshire's UFO...]({{ '/what-really-happened-in-staffordshires/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Staffordshire's UFO...]({{ '/what-really-happened-in-staffordshires/' | relative_url }})** page and cover its key branches in.
 
 - [Cannock Chase]({{ '/cannock-chase/' | relative_url }})
 - [Chasetown]({{ '/chasetown/' | relative_url }})

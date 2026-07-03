@@ -248,15 +248,15 @@ image: /assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-overview-socia
 
 ## Introduction
 
-The Tintagel triangle report is one of [Cornwall]({{ 'what-really-happened-in-cornwalls-ufo/' | relative_url }})’s most memorable UFO entries because the claim is simple, visual and hard to forget: on 15 May 1996, a civilian near Tintagel reportedly called RAF police about a “suspicious object believed to be UFO” hovering above his house, described as triangular, enormous and carrying many bright lights. The strongest evidence is not a photograph, radar track or multi-witness investigation, but the fact that the report appears in released Ministry of Defence UFO material and was later indexed by national media and archive guides. That makes it a real documented report, not a proven craft. Its value lies in what it shows about Cornwall’s place in the 1990s British “black triangle” wave: vivid claims, thin public files, and a blurred line between unusual aircraft, night perception, popular culture and unresolved sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The Tintagel triangle report is one of [Cornwall]({{ 'what-really-happened-in-cornwalls-ufo/' | relative_url }})’s most memorable UFO entries because the claim is simple, visual and hard to forget: on 15 May 1996, a civilian near Tintagel reportedly called RAF police about a “suspicious object believed to be UFO” hovering above his house, described as triangular, enormous and carrying many bright lights. The strongest evidence is not a photograph, radar track or multi-witness investigation, but the fact that the report appears in released Ministry of Defence UFO material and was later indexed by national media and archive guides. That makes it a real documented report, not a proven craft. Its value lies in what it shows about Cornwall’s place in the 1990s British “black triangle” wave: vivid claims, thin public files, and a blurred line between unusual aircraft, night perception, popular culture and unresolved sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-overview.webp" | relative_url }}" alt="Overview image for Tintagel" loading="eager" decoding="sync" fetchpriority="high">
 ## The reported hovering triangle
 
-The core public record places the sighting at Tintagel, Cornwall, on 15 May 1996. The Guardian’s 2009 datablog index of released British UFO files summarises the entry as an RAF police call from a civilian who reported a suspicious object, believed to be a UFO, hovering above his house. The same entry describes the object as triangular, “enormous in size” and fitted with many bright lights. It points readers to file DEFE 24/1975, page 25, in the National Archives’ released UFO material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The core public record places the sighting at Tintagel, Cornwall, on 15 May 1996. The Guardian’s 2009 datablog index of released British UFO files summarises the entry as an RAF police call from a civilian who reported a suspicious object, believed to be a UFO, hovering above his house. The same entry describes the object as triangular, “enormous in size” and fitted with many bright lights. It points readers to file DEFE 24/1975, page 25, in the National Archives’ released UFO material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-A later Independent report adds a detail that matters for interpretation: the file release included a drawing of a UFO seen over Trenale Lane, near Tintagel, with the witness identifying a dome at the front as the cockpit. That sketch detail pushes the case beyond a generic “lights in the sky” report, because the witness or recorder was apparently thinking in terms of a structured craft. It also makes the case more vulnerable to a familiar problem in UFO evidence: drawings can preserve a witness’s impression, but they can also turn uncertain lights, angles and silhouettes into a more definite object after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+A later Independent report adds a detail that matters for interpretation: the file release included a drawing of a UFO seen over Trenale Lane, near Tintagel, with the witness identifying a dome at the front as the cockpit. That sketch detail pushes the case beyond a generic “lights in the sky” report, because the witness or recorder was apparently thinking in terms of a structured craft. It also makes the case more vulnerable to a familiar problem in UFO evidence: drawings can preserve a witness’s impression, but they can also turn uncertain lights, angles and silhouettes into a more definite object after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
 Tintagel’s setting adds texture without proving anything. North Cornwall has dark coastlines, uneven terrain, sea horizons and scattered settlement, all of which can make lights seem isolated, low or hovering. A bright object seen over or beyond a house may be difficult to distance accurately, especially at night. The report as publicly indexed does not provide a precise time, duration, weather, bearing, sound, number of witnesses, or any confirmed radar or aviation check. Those missing details are central: a “huge triangle” seen for seconds is a different evidential proposition from a silent object observed for several minutes with independent witnesses and air-traffic correlation.
 
@@ -266,11 +266,11 @@ The most careful reading is therefore narrow. Something was reported; the report
 <img src="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-1-dark.svg" | relative_url }}" alt="Tintagel illustration 1" data-theme-src-dark="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## RAF police involvement and public records
 
-The RAF police detail is one reason the Tintagel case stands out in Cornwall’s UFO history. A report to RAF police sounds more substantial than a pub story or a later paranormal retelling, and it helps explain why the case appears in the national release rather than only in local folklore. Yet the involvement of a military reporting route should not be confused with a confirmed military investigation. The National Archives’ guide to UFO reports explains that MoD records often consist of reports of shapes, lights and flashes, many of which can be explained, and that later files commonly contain one-off sightings rather than detailed investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The RAF police detail is one reason the Tintagel case stands out in Cornwall’s UFO history. A report to RAF police sounds more substantial than a pub story or a later paranormal retelling, and it helps explain why the case appears in the national release rather than only in local folklore. Yet the involvement of a military reporting route should not be confused with a confirmed military investigation. The National Archives’ guide to UFO reports explains that MoD records often consist of reports of shapes, lights and flashes, many of which can be explained, and that later files commonly contain one-off sightings rather than detailed investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The National Archives’ August 2009 highlights guide lists Cornwall material in the release, including DEFE 24/1959 for earlier Cornish reports and DEFE 24/1975 page 25 for the Tintagel entry. That placement matters because it shows the case was not isolated from the broader MoD release programme. It was part of a wider body of public-facing records that included regional bookmarks, notable cases, witness sketches, Parliamentary correspondence and reports routed through official channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 highlights guide</span><span class="citation-popover-snippet">aug 2009 highlights guide</span></span></span>
+The National Archives’ August 2009 highlights guide lists Cornwall material in the release, including DEFE 24/1959 for earlier Cornish reports and DEFE 24/1975 page 25 for the Tintagel entry. That placement matters because it shows the case was not isolated from the broader MoD release programme. It was part of a wider body of public-facing records that included regional bookmarks, notable cases, witness sketches, Parliamentary correspondence and reports routed through official channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 highlights guide</span><span class="citation-popover-snippet">aug 2009 highlights guide</span></span></span>
 
-What the public record does not show is just as important. The available summaries do not indicate a scramble, a confirmed radar return, a named police witness, a Civil Aviation Authority near-miss report, or a later MoD conclusion. The National Archives notes that UFO observation reports could include location, movement, distance and weather, but also says the records generally give no indication of the cause, with occasional annotations about local explanations such as airships or satellites. In Tintagel’s case, the widely accessible summary is much thinner than that ideal report form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+What the public record does not show is just as important. The available summaries do not indicate a scramble, a confirmed radar return, a named police witness, a Civil Aviation Authority near-miss report, or a later MoD conclusion. The National Archives notes that UFO observation reports could include location, movement, distance and weather, but also says the records generally give no indication of the cause, with occasional annotations about local explanations such as airships or satellites. In Tintagel’s case, the widely accessible summary is much thinner than that ideal report form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 That means the case sits in a middle evidential category. It is stronger than a purely anecdotal retelling because it is anchored in a named date, place and official file reference. It is weaker than a benchmark case because the public evidence does not show corroboration, instrument data, a robust chain of investigation, or later documentation that materially strengthens the original claim.
 
@@ -279,11 +279,11 @@ That means the case sits in a middle evidential category. It is stronger than a 
 
 ## Why the black-triangle comparison matters
 
-Tintagel became memorable partly because 1996 was an era when triangular UFOs already had a strong place in British and European UFO reporting. The National Archives notes that V-shaped sightings became more common from the 1980s, and that members of the public asked whether such reports might be linked to American stealth aircraft such as the F-117A or B-2, associated in UK discussion with USAF bases in Suffolk. It also highlights the 1989–90 Belgium wave, where large triangular objects were reported and Belgian F-16s were scrambled, though the UK MoD concluded there was no threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+Tintagel became memorable partly because 1996 was an era when triangular UFOs already had a strong place in British and European UFO reporting. The National Archives notes that V-shaped sightings became more common from the 1980s, and that members of the public asked whether such reports might be linked to American stealth aircraft such as the F-117A or B-2, associated in UK discussion with USAF bases in Suffolk. It also highlights the 1989–90 Belgium wave, where large triangular objects were reported and Belgian F-16s were scrambled, though the UK MoD concluded there was no threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The Belgium case became a template for how many later triangle reports were read: large, dark or light-edged, silent or low-noise, and hard to reconcile with familiar aircraft. The National Archives guide states that Belgian pilots obtained radar “lock-ons” but could not explain the phenomena, while also noting that the MoD was not informed at the time and did not treat it as a UK threat. Tintagel does not have comparable radar or military pursuit evidence, but it belongs to the same reporting family because of the shape, size claim and lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 highlights guide</span><span class="citation-popover-snippet">aug 2009 highlights guide</span></span></span>
+The Belgium case became a template for how many later triangle reports were read: large, dark or light-edged, silent or low-noise, and hard to reconcile with familiar aircraft. The National Archives guide states that Belgian pilots obtained radar “lock-ons” but could not explain the phenomena, while also noting that the MoD was not informed at the time and did not treat it as a UK threat. Tintagel does not have comparable radar or military pursuit evidence, but it belongs to the same reporting family because of the shape, size claim and lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 highlights guide</span><span class="citation-popover-snippet">aug 2009 highlights guide</span></span></span>
 
-There is another, more sceptical reason the comparison matters. Reporting shapes change over time. The Independent’s coverage of the 2010 file release quotes the view that many reports in that tranche described objects as big, black and triangular with lights along the edges, while earlier UFO imagery was more often saucer-shaped. It also cites Dr David Clarke’s argument that popular depictions of stealth aircraft, “Aurora” spy-plane rumours, The X-Files and films such as Independence Day may have influenced how people interpreted unusual lights in the 1990s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
+There is another, more sceptical reason the comparison matters. Reporting shapes change over time. The Independent’s coverage of the 2010 file release quotes the view that many reports in that tranche described objects as big, black and triangular with lights along the edges, while earlier UFO imagery was more often saucer-shaped. It also cites Dr David Clarke’s argument that popular depictions of stealth aircraft, “Aurora” spy-plane rumours, The X-Files and films such as Independence Day may have influenced how people interpreted unusual lights in the 1990s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>
 
 This does not mean the Tintagel witness copied television or imagined the sighting. It means that by 1996 the triangle had become an available cultural shape for the unknown. When a person sees a set of lights at night, the mind may connect them into a single outline; when the culture is full of triangular stealth craft and black-project rumours, that outline can become a “craft” more readily than a “formation” or “misread aircraft lights”.
 
@@ -291,13 +291,13 @@ This does not mean the Tintagel witness copied television or imagined the sighti
 <img src="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-2-dark.svg" | relative_url }}" alt="Tintagel illustration 2" data-theme-src-dark="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mundane possibilities that still fit the record
 
-Several ordinary explanations remain plausible because the public record lacks the details needed to rule them out. Aircraft lights are an obvious first candidate, especially if separate lights were perceived as corners or edges of one object. A banked aircraft, a formation, a helicopter, or a distant aircraft seen against a dark horizon can seem to hover if the observer lacks distance cues. The National Archives explicitly notes that MoD report files often included possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and that many records concern lights rather than clearly observed craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+Several ordinary explanations remain plausible because the public record lacks the details needed to rule them out. Aircraft lights are an obvious first candidate, especially if separate lights were perceived as corners or edges of one object. A banked aircraft, a formation, a helicopter, or a distant aircraft seen against a dark horizon can seem to hover if the observer lacks distance cues. The National Archives explicitly notes that MoD report files often included possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and that many records concern lights rather than clearly observed craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 A second possibility is a pattern effect: separate bright lights forming a triangle in the observer’s perception. This is especially relevant because the Tintagel summary stresses “many bright lights” as well as a triangular form. If the lights were on an aircraft, on multiple aircraft, or in a line-of-sight arrangement, the mind could supply a solid body between them. This does not require dishonesty; it is a normal risk in night observation.
 
 A third possibility is a misjudged distance over coastal or rural terrain. Cornwall’s north coast can make lights over land, sea or cloud appear unusually isolated. Without a reliable distance, “enormous” is a difficult claim to evaluate. A small object close by, a conventional aircraft farther away, or a light source reflected or partly obscured by cloud can all produce size estimates that feel compelling but are hard to verify afterwards.
 
-Project Condign, the later MoD-linked study of unidentified aerial phenomena in the UK Air Defence Region, complicates the picture rather than settling it. Guardian coverage of the released papers says the project analysed more than 10,000 possible UFO sightings and concluded that there was no evidence of extraterrestrial origin, while suggesting some events might involve poorly understood plasma phenomena. The same article notes criticism from Clarke and Nick Pope that the study’s author could not interview witnesses or consult outside scientists freely, leaving its plasma explanation on uncertain ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs? &#124; Science &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Could we have hitched a ride on UFOs? &#124; Science &#124; The Guardian</span></span></span>
+Project Condign, the later MoD-linked study of unidentified aerial phenomena in the UK Air Defence Region, complicates the picture rather than settling it. Guardian coverage of the released papers says the project analysed more than 10,000 possible UFO sightings and concluded that there was no evidence of extraterrestrial origin, while suggesting some events might involve poorly understood plasma phenomena. The same article notes criticism from Clarke and Nick Pope that the study’s author could not interview witnesses or consult outside scientists freely, leaving its plasma explanation on uncertain ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs? &#124; Science &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Could we have hitched a ride on UFOs? &#124; Science &#124; The Guardian</span></span></span>
 
 For Tintagel, Project Condign is useful mainly as a caution. It shows that the MoD took some patterns seriously enough to commission analysis, but it does not provide a specific answer to this sighting. A good assessment should therefore avoid both extremes: it should not dismiss the report merely because it sounds strange, and it should not upgrade it into evidence of a secret or non-human craft without corroboration.
 
@@ -311,7 +311,7 @@ For Tintagel, Project Condign is useful mainly as a caution. It shows that the M
 
 Tintagel’s triangle is a compact example of Cornwall’s wider UFO record: vivid, officially logged, but publicly underdeveloped. It matters because it connects a specific north Cornwall location to the broader British triangle tradition of the 1990s. It does not matter because it proves that a giant craft hovered over Tintagel. The evidence is not strong enough for that.
 
-The case is best described as documented but unresolved at the public-record level. The report is traceable through released MoD material and national reporting; the alleged object had a distinctive triangular form; and a sketch associated with Trenale Lane appears to have existed in the released files. Against that, there is no widely available proof of independent witnesses, radar confirmation, recovered physical evidence, official identification failure after investigation, or a detailed witness interview that would allow a firmer judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The case is best described as documented but unresolved at the public-record level. The report is traceable through released MoD material and national reporting; the alleged object had a distinctive triangular form; and a sketch associated with Trenale Lane appears to have existed in the released files. Against that, there is no widely available proof of independent witnesses, radar confirmation, recovered physical evidence, official identification failure after investigation, or a detailed witness interview that would allow a firmer judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 Its lasting value is comparative. Read alongside other Cornish entries, it shows why official UFO files are both useful and frustrating. They preserve reports that would otherwise disappear, but they often preserve them in a form too brief to answer the central question. Read alongside Britain’s black-triangle cases, it shows how a dramatic shape can give a local sighting national resonance even when the evidence trail remains thin.
 
@@ -321,194 +321,194 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
 <img src="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-3-dark.svg" | relative_url }}" alt="Tintagel illustration 3" data-theme-src-dark="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cornwall_4c96d0_tintagel_triangle_re_735051-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Tintagel&#x27;s Triangle a UFO or a Pattern?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Tintagel&#x27;s Triangle a UFO or a Pattern?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nmpQEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By John Michael Greer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nmpQEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By John Michael Greer</p>
         
-        <p class="fr-book-desc">Places individual reports like Tintagel within the wider history of UFO sightings and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places individual reports like Tintagel within the wider history of UFO sightings and interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explores British UFO culture, government files, media coverage, and how reports become enduring mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores British UFO culture, government files, media coverage, and how reports become enduring mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6B0BnwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
-        </h4>
-        <p class="fr-book-author">By David Marler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6B0BnwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
+</h4>
+<p class="fr-book-author">By David Marler</p>
         
-        <p class="fr-book-desc">Directly addresses triangular UFO cases and competing explanations relevant to the Tintagel sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses triangular UFO cases and competing explanations relevant to the Tintagel sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing documented UFO reports such as the Tintagel triangle case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing documented UFO reports such as the Tintagel triangle case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tintagel-was-tintagel-s-triangle-a-ufo-or-a-pattern-cornwall-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,112 +714,112 @@ The fairest conclusion is that Tintagel’s triangle remains a notable Cornish U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: mar 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News | theguardian.com  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Could we have hitched a ride on UFOs? | Science | The Guardian  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: michael howard ufos folkestone  
-   Link: <a href="https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Space UFOs: Rise of the TR3B | English Full Movie | Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Space UFOs: Rise of the TR3B | English Full Movie | Documentary...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The longstanding mystery of BLACK TRIANGLE UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=5UT66LSZp2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5UT66LSZp2g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5UT66LSZp2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5UT66LSZp2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/triangle.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/triangle.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/triangle.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/triangle.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: inquisitr.com  
    Title: gigantic black triangle ufo over england sighting in cornwall not of this planet  
-   Link: <a href="https://www.inquisitr.com/gigantic-black-triangle-ufo-over-england-sighting-in-cornwall-not-of-this-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/gigantic-black-triangle-ufo-over-england-sighting-in-cornwall-not-of-this-planet/</a>  
+   Link:<a href="https://www.inquisitr.com/gigantic-black-triangle-ufo-over-england-sighting-in-cornwall-not-of-this-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/gigantic-black-triangle-ufo-over-england-sighting-in-cornwall-not-of-this-planet/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thetimes.com  
    Title: ufo close encounters laid bare as x files released by records office 79zcvj2qbp2  
-   Link: <a href="https://www.thetimes.com/uk/crime/article/ufo-close-encounters-laid-bare-as-x-files-released-by-records-office-79zcvj2qbp2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/crime/article/ufo-close-encounters-laid-bare-as-x-files-released-by-records-office-79zcvj2qbp2</a>  
+   Link:<a href="https://www.thetimes.com/uk/crime/article/ufo-close-encounters-laid-bare-as-x-files-released-by-records-office-79zcvj2qbp2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/crime/article/ufo-close-encounters-laid-bare-as-x-files-released-by-records-office-79zcvj2qbp2</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: we love all the curious stories that can be found in our archive and none are mo  
-   Link: <a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
+   Link:<a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  

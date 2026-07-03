@@ -247,7 +247,7 @@ image: /assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-overview-soci
 
 ## Introduction
 
-The Ministry of Defence files prove something modest but important about [Cambridgeshire]({{ 'what-really-happened-in-cambridgeshire/' | relative_url }}): people repeatedly reported unusual lights and objects over the county, and those reports entered the official UK record. They do not prove alien craft, secret aircraft, or a hidden Cambridgeshire “case file” comparable with Rendlesham Forest. The official lists are usually short entries: date, time, place, sometimes occupation, and a brief description. That makes them useful as a public trail of what was reported, but weak as proof of what physically happened. GOV.UK describes the released material as UFO reports from 1997 to 2009, showing dates, times, locations and brief descriptions rather than full investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence files prove something modest but important about [Cambridgeshire]({{ 'what-really-happened-in-cambridgeshire/' | relative_url }}): people repeatedly reported unusual lights and objects over the county, and those reports entered the official UK record. They do not prove alien craft, secret aircraft, or a hidden Cambridgeshire “case file” comparable with Rendlesham Forest. The official lists are usually short entries: date, time, place, sometimes occupation, and a brief description. That makes them useful as a public trail of what was reported, but weak as proof of what physically happened. GOV.UK describes the released material as UFO reports from 1997 to 2009, showing dates, times, locations and brief descriptions rather than full investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-overview.webp" | relative_url }}" alt="Overview image for Mo D Records" loading="eager" decoding="sync" fetchpriority="high">
@@ -255,13 +255,13 @@ For Cambridgeshire, the value lies in the pattern. The records contain entries f
 
 ## What Do the MoD Files Really Show?
 
-The MoD’s published UFO lists are often mistaken for investigation reports. They are better understood as registers of incoming claims. The GOV.UK page for “UFO reports in the UK” says the documents cover 1997 to 2009 and give dates, times, locations and brief descriptions. The page does not present them as solved cases, radar-confirmed incidents, or scientific conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD’s published UFO lists are often mistaken for investigation reports. They are better understood as registers of incoming claims. The GOV.UK page for “UFO reports in the UK” says the documents cover 1997 to 2009 and give dates, times, locations and brief descriptions. The page does not present them as solved cases, radar-confirmed incidents, or scientific conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The National Archives gives the broader archival context. It says the Ministry of Defence kept UFO records from the 1960s and that most records describe shapes, lights and flashes, many of which can often be explained. It also notes that early material includes letters and phone calls from the public, sometimes with official replies suggesting explanations such as Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives gives the broader archival context. It says the Ministry of Defence kept UFO records from the 1960s and that most records describe shapes, lights and flashes, many of which can often be explained. It also notes that early material includes letters and phone calls from the public, sometimes with official replies suggesting explanations such as Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 That matters for Cambridgeshire because the county’s entries are mostly not detailed case files. They rarely include weather checks, witness interviews, flight logs, photographs, radar data or follow-up findings. A one-line entry saying “A UFO” is official evidence that a report was received, but it is not strong evidence that an anomalous craft was present.
 
-The National Archives also explains that UFO observation reports can include useful fields such as location, movement, weather and distance, but that they generally give no indication of the reason for the sighting. Occasionally, annotations suggest local explanations such as an airship or event nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> In the Cambridgeshire lists, that missing explanatory layer is the central weakness.
+The National Archives also explains that UFO observation reports can include useful fields such as location, movement, weather and distance, but that they generally give no indication of the reason for the sighting. Occasionally, annotations suggest local explanations such as an airship or event nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> In the Cambridgeshire lists, that missing explanatory layer is the central weakness.
 
 ## Key Cambridgeshire Entries from 1997 to 2009
 
@@ -271,31 +271,31 @@ The Cambridgeshire entries are scattered across the published MoD lists. They sh
 <img src="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Records illustration 1" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 1997: a busy year of short descriptions
 
-The 1997 list contains several Cambridgeshire-labelled entries. On 17 April 1997, Ramsey was recorded with “red, white and blue lights in a triangle shape” flying across the sky. On 9 July, Haverhill had an “orange, disc like object” said to disappear at high speed, while Stamford was listed the same night with an object “the size and round shape of a Met balloon” that was stationary before climbing vertically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 1997 list contains several Cambridgeshire-labelled entries. On 17 April 1997, Ramsey was recorded with “red, white and blue lights in a triangle shape” flying across the sky. On 9 July, Haverhill had an “orange, disc like object” said to disappear at high speed, while Stamford was listed the same night with an object “the size and round shape of a Met balloon” that was stationary before climbing vertically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Later that year, the A14 in Cambridgeshire was linked to a “laser beam in the sky” followed by a witness for about ten miles by car, while A1 near Stamford was recorded with a “balloon like object” moving quickly from west to east. September brought Peterborough and Werrington/Peterborough entries, including a “white bumble bee shaped object” with lights and two revolving lights moving around each other. Bretton/Peterborough appeared in October with a glowing light and short trail at an estimated 20,000 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Later that year, the A14 in Cambridgeshire was linked to a “laser beam in the sky” followed by a witness for about ten miles by car, while A1 near Stamford was recorded with a “balloon like object” moving quickly from west to east. September brought Peterborough and Werrington/Peterborough entries, including a “white bumble bee shaped object” with lights and two revolving lights moving around each other. Bretton/Peterborough appeared in October with a glowing light and short trail at an estimated 20,000 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 These entries are interesting because they are numerous and varied, not because they are decisive. The descriptions point in several possible directions: aircraft lights, balloons, meteors, searchlights, misperceived astronomical objects, and unusual but ordinary aerial activity. The MoD list does not give enough detail to sort those possibilities confidently.
 
 ### 2000 to 2006: triangles, rods, lights and vague reports
 
-In 2000, Royston was recorded with one “big object” described as multi-coloured, flickering and getting brighter. The same year, an A14 Cambridge entry described a “huge triangular object” with bright rings and circles of light moving very fast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+In 2000, Royston was recorded with one “big object” described as multi-coloured, flickering and getting brighter. The same year, an A14 Cambridge entry described a “huge triangular object” with bright rings and circles of light moving very fast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The early 2000s continue the same mixed pattern. In 2001, Woodbridge was listed under Cambridgeshire with “a spaceship” said to have lights on the top and bottom, and Wisbech with a well-defined blue object “fat at both ends, but slim in the middle”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> In 2003, Huntingdon was recorded with something “like a shooting star falling to the ground”, while Girton had a “small circular object” described as blue and white translucent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The early 2000s continue the same mixed pattern. In 2001, Woodbridge was listed under Cambridgeshire with “a spaceship” said to have lights on the top and bottom, and Wisbech with a well-defined blue object “fat at both ends, but slim in the middle”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> In 2003, Huntingdon was recorded with something “like a shooting star falling to the ground”, while Girton had a “small circular object” described as blue and white translucent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2004 list includes a small cluster in the modern county: Peterborough on 27 January with four dull red lights travelling fast and low, Peterborough again on 28 January with flashing green lights at 1,000 to 5,000 feet, and Ely on 8 February with four lights, one brighter than the others and sometimes fading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In 2005, Huntingdon was reduced to the bare statement that the witness said it was a “UFO”; St Neots produced two more detailed entries, one a dim red light zigzagging east faster than a plane, the other a rod-like object that appeared silver through binoculars; Chatteris was listed only as a sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 2004 list includes a small cluster in the modern county: Peterborough on 27 January with four dull red lights travelling fast and low, Peterborough again on 28 January with flashing green lights at 1,000 to 5,000 feet, and Ely on 8 February with four lights, one brighter than the others and sometimes fading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> In 2005, Huntingdon was reduced to the bare statement that the witness said it was a “UFO”; St Neots produced two more detailed entries, one a dim red light zigzagging east faster than a plane, the other a rod-like object that appeared silver through binoculars; Chatteris was listed only as a sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-In 2006, Huntingdon was associated with dull yellow lights that appeared to interact with each other, while Peterborough was listed with shell-like objects, pale pink in the middle, flying in formation at the same speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> Again, the pattern is persistent but evidentially thin: repeated reports, few hard checks.
+In 2006, Huntingdon was associated with dull yellow lights that appeared to interact with each other, while Peterborough was listed with shell-like objects, pale pink in the middle, flying in formation at the same speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> Again, the pattern is persistent but evidentially thin: repeated reports, few hard checks.
 
 ### 2007 to 2009: orange lights and the end of the MoD reporting era
 
-The 2007 Duxford entry is one of the most eye-catching Cambridgeshire records. It describes fifty objects, each with a single orange light, gathering before ascending directly upwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The location is notable because Duxford has a strong aviation identity, but the listing itself does not say whether aircraft movements, lanterns, event activity or weather were checked.
+The 2007 Duxford entry is one of the most eye-catching Cambridgeshire records. It describes fifty objects, each with a single orange light, gathering before ascending directly upwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The location is notable because Duxford has a strong aviation identity, but the listing itself does not say whether aircraft movements, lanterns, event activity or weather were checked.
 
-The 2008 list includes Huntingdon with a long red streak and silver ball of light that grew larger and burst; Chatteris with multiple bright glowing objects heading south to north; and a “no firm date” Cambridgeshire entry of flashing lights that looked like three objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2008 list includes Huntingdon with a long red streak and silver ball of light that grew larger and burst; Chatteris with multiple bright glowing objects heading south to north; and a “no firm date” Cambridgeshire entry of flashing lights that looked like three objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The 2009 list is especially useful because it falls at the end of the MoD reporting system and contains several Cambridgeshire entries. Sawtry appears in January with the minimal description “A UFO”. Peterborough appears on 5 July with two objects, one brighter than the other, and again on 31 July with three bright orange lights and one dimmer one fading after being static. Hauxton appears on 2 August with a retired merchant seaman reporting glider-like objects circling anti-clockwise. March appears on 16 October. Peterborough appears again on 7 November, including an entry from an ex-Royal Navy commander describing an orange sphere about 30 degrees above the eastern horizon, with no noise or normal navigation lights. Haddenham appears on 14 November with a large bright white light and no sound or vibration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 list is especially useful because it falls at the end of the MoD reporting system and contains several Cambridgeshire entries. Sawtry appears in January with the minimal description “A UFO”. Peterborough appears on 5 July with two objects, one brighter than the other, and again on 31 July with three bright orange lights and one dimmer one fading after being static. Hauxton appears on 2 August with a retired merchant seaman reporting glider-like objects circling anti-clockwise. March appears on 16 October. Peterborough appears again on 7 November, including an entry from an ex-Royal Navy commander describing an orange sphere about 30 degrees above the eastern horizon, with no noise or normal navigation lights. Haddenham appears on 14 November with a large bright white light and no sound or vibration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The final 2009 document also states that from 1 December 2009 the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That makes the Cambridgeshire entries from 2009 part of the closing chapter of the UK’s official UFO-reporting system.
+The final 2009 document also states that from 1 December 2009 the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That makes the Cambridgeshire entries from 2009 part of the closing chapter of the UK’s official UFO-reporting system.
 
 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Records illustration 2" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,41 +319,41 @@ What they usually omit is more important for interpretation. Most Cambridgeshire
 
 </div>
 
-The National Archives’ explanation of MoD UFO observation records helps explain this limitation: reports may contain useful witness details, but they generally give no indication of the reason for the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> For Cambridgeshire, that means the lists are strong for “what was reported” and weak for “what it was”.
+The National Archives’ explanation of MoD UFO observation records helps explain this limitation: reports may contain useful witness details, but they generally give no indication of the reason for the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> For Cambridgeshire, that means the lists are strong for “what was reported” and weak for “what it was”.
 
-This distinction is crucial. A report from an ex-service witness, pilot, police officer or air-traffic worker may deserve careful attention, but occupation alone does not solve the case. The 2009 Peterborough report from an ex-Royal Navy commander is more interesting than a completely anonymous “A UFO” entry, yet the list still gives only a compact description: orange sphere, substantial speed, eastern horizon, no noise, no normal navigation lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Without timing precision, sky position reconstruction and flight-path checks, it remains an unresolved report, not proof of an extraordinary object.
+This distinction is crucial. A report from an ex-service witness, pilot, police officer or air-traffic worker may deserve careful attention, but occupation alone does not solve the case. The 2009 Peterborough report from an ex-Royal Navy commander is more interesting than a completely anonymous “A UFO” entry, yet the list still gives only a compact description: orange sphere, substantial speed, eastern horizon, no noise, no normal navigation lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Without timing precision, sky position reconstruction and flight-path checks, it remains an unresolved report, not proof of an extraordinary object.
 
 ## Why Short Records Rarely Prove Extraordinary Events
 
 The most common mistake is to treat “unidentified” as a conclusion rather than a starting point. In the MoD lists, “UFO” usually means the report was not identified within that short entry. It does not mean the MoD established that the object was exotic, structured, intelligently controlled or impossible to explain.
 
-Cambridgeshire is a good example because several entries are dramatic in wording but weak in supporting data. “Fifty objects” at Duxford sounds striking, but orange-light group sightings in the late 2000s were often linked nationally with lantern-like phenomena and similar slow-moving light clusters. The MoD entry itself does not identify the Duxford objects, but nor does it supply enough information to exclude ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Cambridgeshire is a good example because several entries are dramatic in wording but weak in supporting data. “Fifty objects” at Duxford sounds striking, but orange-light group sightings in the late 2000s were often linked nationally with lantern-like phenomena and similar slow-moving light clusters. The MoD entry itself does not identify the Duxford objects, but nor does it supply enough information to exclude ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The same caution applies to triangular reports. The A14 Cambridge entry from 2000 described a huge triangular object moving very fast, and the 1997 Ramsey entry described triangle-shaped lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> Triangles have a long place in UK UFO reporting, but a triangle made of lights can be a formation, an aircraft seen at an awkward angle, reflections, searchlights, or an actual structured object. The list alone does not decide between those options.
+The same caution applies to triangular reports. The A14 Cambridge entry from 2000 described a huge triangular object moving very fast, and the 1997 Ramsey entry described triangle-shaped lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> Triangles have a long place in UK UFO reporting, but a triangle made of lights can be a formation, an aircraft seen at an awkward angle, reflections, searchlights, or an actual structured object. The list alone does not decide between those options.
 
-The MoD’s own wider stance reinforces this caution. In 2021, a government answer in the House of Lords said the MoD had no plans to conduct its own UAP report because, over more than 50 years, such reporting had not indicated a military threat to the UK; it also said the department no longer investigates reports of UAP sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span> That does not mean every old report was explained. It means the official defence threshold was not met.
+The MoD’s own wider stance reinforces this caution. In 2021, a government answer in the House of Lords said the MoD had no plans to conduct its own UAP report because, over more than 50 years, such reporting had not indicated a military threat to the UK; it also said the department no longer investigates reports of UAP sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span> That does not mean every old report was explained. It means the official defence threshold was not met.
 
 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-3-dark.svg" | relative_url }}" alt="Mo D Records illustration 3" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_mod_ufo_reports_fa63be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2009 Surge and Why Cambridgeshire Fits the National Pattern
 
-Cambridgeshire’s 2009 entries should be read alongside the national spike in reports. The National Archives’ release material says the UFO Desk received more than 600 reports in 2009, treble the previous year, and that the desk was judged to serve no defence purpose while encouraging correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Sky News, reporting on the same final files, gave a figure of 643 sightings in 2009 and described it as treble the previous year and the second-highest total since 1978. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+Cambridgeshire’s 2009 entries should be read alongside the national spike in reports. The National Archives’ release material says the UFO Desk received more than 600 reports in 2009, treble the previous year, and that the desk was judged to serve no defence purpose while encouraging correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Sky News, reporting on the same final files, gave a figure of 643 sightings in 2009 and described it as treble the previous year and the second-highest total since 1978.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
-That national surge makes the Cambridgeshire pattern less isolated. Peterborough, Sawtry, Hauxton, March and Haddenham were part of a wider reporting environment in which many people across the UK were noticing and reporting lights in the sky. The 2009 list itself contains repeated orange-light descriptions from many counties, with Cambridgeshire entries sitting among them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+That national surge makes the Cambridgeshire pattern less isolated. Peterborough, Sawtry, Hauxton, March and Haddenham were part of a wider reporting environment in which many people across the UK were noticing and reporting lights in the sky. The 2009 list itself contains repeated orange-light descriptions from many counties, with Cambridgeshire entries sitting among them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 The stronger inference is not that Cambridgeshire was uniquely active in 2009, but that it participated in a national reporting wave. That weakens claims that the county’s entries point to a local hidden event. It strengthens the view that social attention, sky conditions, lanterns, aircraft, astronomical objects and ordinary misidentification may have contributed alongside genuinely puzzling individual sightings.
 
 ## Geography Matters: Modern Cambridgeshire, Historic Counties and Peterborough
 
-A Cambridgeshire UFO page has to handle geography carefully. Modern Cambridgeshire is not the same as the historic county used by historic-county maps. The Cambridgeshire Lieutenancy explains that modern Cambridgeshire was formed in 1974 by combining Cambridgeshire and Isle of Ely with Huntingdon and Peterborough; that brought in historic Huntingdonshire and the Soke of Peterborough, historically part of Northamptonshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeshirelieutenancy.org.uk">[cambridgeshirelieutenancy.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeshirelieutenancy.org.uk</span><span class="citation-popover-title">the county of cambridgeshire</span><span class="citation-popover-snippet">the county of cambridgeshire</span></span></span>
+A Cambridgeshire UFO page has to handle geography carefully. Modern Cambridgeshire is not the same as the historic county used by historic-county maps. The Cambridgeshire Lieutenancy explains that modern Cambridgeshire was formed in 1974 by combining Cambridgeshire and Isle of Ely with Huntingdon and Peterborough; that brought in historic Huntingdonshire and the Soke of Peterborough, historically part of Northamptonshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeshirelieutenancy.org.uk">[cambridgeshirelieutenancy.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeshirelieutenancy.org.uk</span><span class="citation-popover-title">the county of cambridgeshire</span><span class="citation-popover-snippet">the county of cambridgeshire</span></span></span>
 
-This matters because many MoD entries labelled “Cambridgeshire” are places that modern readers naturally associate with the county, including Huntingdon, St Neots and Peterborough. In a strict historic-county index, Huntingdon and St Neots belong in Huntingdonshire, while Peterborough has a Northamptonshire-linked historic identity. Wikishire describes Huntingdonshire as bordering Cambridgeshire to the east, and its Peterborough entry places Peterborough in Northamptonshire as the heart of the Soke. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This matters because many MoD entries labelled “Cambridgeshire” are places that modern readers naturally associate with the county, including Huntingdon, St Neots and Peterborough. In a strict historic-county index, Huntingdon and St Neots belong in Huntingdonshire, while Peterborough has a Northamptonshire-linked historic identity. Wikishire describes Huntingdonshire as bordering Cambridgeshire to the east, and its Peterborough entry places Peterborough in Northamptonshire as the heart of the Soke.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 For interpreting the MoD reports, the practical rule is simple: use the MoD’s listed county label to understand the official record, but do not assume that all entries sit within historic Cambridgeshire. This page keeps the modern Cambridgeshire reporting pattern in view while recognising that a historic-county map would sort some places differently.
 
 ## What the Records Prove, Weaken and Leave Open
 
-The MoD files prove that Cambridgeshire has a documented official UFO-reporting history. The entries are not folklore invented after the fact; they appear in government-published lists and in the wider archival system that now sits with The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD files prove that Cambridgeshire has a documented official UFO-reporting history. The entries are not folklore invented after the fact; they appear in government-published lists and in the wider archival system that now sits with The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 They also prove that the reports were varied. Cambridgeshire witnesses described orange lights, triangular shapes, rod-like objects, blue objects, glider-like forms, white lights, red streaks and clusters. The pattern is too persistent to dismiss as “nothing was ever reported”, but too thin to support claims of a single hidden event.
 
@@ -368,194 +368,194 @@ The best verdict is neither debunking-by-default nor mystery-by-default. The MoD
 The files are most useful as a map of public reporting: when people looked up, what they thought they saw, and how those sightings reached the state. They are least useful as proof of extraordinary technology. For Cambridgeshire’s UFO history, that is the central lesson. The county has an official UFO record, but the record is mostly a trail of reports, not a trail of confirmed unknown craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Mo D Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Mo D Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a cautious evidence-based treatment of UFO reports similar to a county-level review of unexplained aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a cautious evidence-based treatment of UFO reports similar to a county-level review of unexplained aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong coverage of UK UFO history, records and case documentation relevant to county-level UFO research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of UK UFO history, records and case documentation relevant to county-level UFO research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating sightings, misidentifications, and unexplained reports relevant to Cambridgeshire cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating sightings, misidentifications, and unexplained reports relevant to Cambridgeshire cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Useful background on British UFO reporting systems, records and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on British UFO reporting systems, records and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Map Poster - FAMOUS FLIGHT ROUTES - A4,A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/c6e64d9e90eb3bb38d8a.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Map Poster - FAMOUS FLIGHT ROUTES - A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Map Poster - FAMOUS FLIGHT ROUTES - A4,A3,A2,A1,A0</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Map Poster - FAMOUS FLIGHT ROUTES - A4,A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/c6e64d9e90eb3bb38d8a.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Map Poster - FAMOUS FLIGHT ROUTES - A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Map Poster - FAMOUS FLIGHT ROUTES - A4,A3,A2,A1,A0</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Aviation Pilot Oslo Bourget Map World French 1931"><img src="{{ '/assets/images/marketplace-covers/1d865e53b12edf608c14.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Aviation Pilot Oslo Bourget Map World French 1931" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Aviation Pilot Oslo Bourget Map World French 1931</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Aviation Pilot Oslo Bourget Map World French 1931"><img src="{{ '/assets/images/marketplace-covers/1d865e53b12edf608c14.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Aviation Pilot Oslo Bourget Map World French 1931" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Aviation Pilot Oslo Bourget Map World French 1931</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Aeronautical Map Aviation Transport French 1933"><img src="{{ '/assets/images/marketplace-covers/0c4b4a2d9d6e51aa09ae.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Aeronautical Map Aviation Transport French 1933" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Aeronautical Map Aviation Transport French 1933</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Aeronautical Map Aviation Transport French 1933"><img src="{{ '/assets/images/marketplace-covers/0c4b4a2d9d6e51aa09ae.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Aeronautical Map Aviation Transport French 1933" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Aeronautical Map Aviation Transport French 1933</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 Air France Map Poster – Vintage Aviation Travel Art Print French Airlines"><img src="{{ '/assets/images/marketplace-covers/db492cb68319e58c2776.jpg' | relative_url }}" alt="Listing image for 1934 Air France Map Poster – Vintage Aviation Travel Art Print French Airlines" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">1934 Air France Map Poster – Vintage Aviation Travel Art Print French Airlines</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 Air France Map Poster – Vintage Aviation Travel Art Print French Airlines"><img src="{{ '/assets/images/marketplace-covers/db492cb68319e58c2776.jpg' | relative_url }}" alt="Listing image for 1934 Air France Map Poster – Vintage Aviation Travel Art Print French Airlines" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">1934 Air France Map Poster – Vintage Aviation Travel Art Print French Airlines</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation map print" data-ebay-reference="mo-d-records-476a71-what-do-the-mo-d-files-really-show-cambridgeshire-aviation-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The files are most useful as a map of public reporting: when people looked up, w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The files are most useful as a map of public reporting: when people looked up, w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The files are most useful as a map of public reporting: when people looked up, w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The files are most useful as a map of public reporting: when people looked up, w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The files are most useful as a map of public reporting: when people looked up, w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,167 +761,167 @@ The files are most useful as a map of public reporting: when people looked up, w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-9. <a id="endnote-9"></a>
-   Source: assets.publishing.service.gov.uk  
-   Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
-
-10. <a id="endnote-10"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-11. <a id="endnote-11"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-12. <a id="endnote-12"></a>
+11.<a id="endnote-11"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: UK Assets  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cambridgeshirelieutenancy.org.uk  
    Title: the county of cambridgeshire  
-   Link: <a href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/</a>  
+   Link:<a href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531457" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531457</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531457" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531457</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Huntingdonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Huntingdonshire</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peterborough</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peterborough</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cambridgeshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cambridgeshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Cambridgeshire and Isle of Ely  
-   Link: <a href="https://en.wikipedia.org/wiki/Cambridgeshire_and_Isle_of_Ely" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire_and_Isle_of_Ely</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cambridgeshire_and_Isle_of_Ely" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire_and_Isle_of_Ely</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: data.cambridgeshireinsight.org.uk  
-   Link: <a href="https://data.cambridgeshireinsight.org.uk/node/1405/revisions/6902/view" target="_blank" rel="noopener noreferrer nofollow">https://data.cambridgeshireinsight.org.uk/node/1405/revisions/6902/view</a>  
+   Link:<a href="https://data.cambridgeshireinsight.org.uk/node/1405/revisions/6902/view" target="_blank" rel="noopener noreferrer nofollow">https://data.cambridgeshireinsight.org.uk/node/1405/revisions/6902/view</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sabre-roads.org.uk  
-   Link: <a href="https://www.sabre-roads.org.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.sabre-roads.org.uk/wiki/Huntingdonshire</a>  
+   Link:<a href="https://www.sabre-roads.org.uk/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.sabre-roads.org.uk/wiki/Huntingdonshire</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gbmaps.com  
-   Link: <a href="https://www.gbmaps.com/free-county-maps/Cambridgeshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Cambridgeshire.php</a>  
+   Link:<a href="https://www.gbmaps.com/free-county-maps/Cambridgeshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Cambridgeshire.php</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Huntingdonshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Huntingdonshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: crsbi.ac.uk  
-   Link: <a href="https://www.crsbi.ac.uk/resources/preface-to-huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.crsbi.ac.uk/resources/preface-to-huntingdonshire</a>  
+   Link:<a href="https://www.crsbi.ac.uk/resources/preface-to-huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.crsbi.ac.uk/resources/preface-to-huntingdonshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: there is currently1️⃣ a cambridgeshire lieutenancy2️⃣ a cambridgeshire county co  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/there-is-currently1%EF%B8%8F%E2%83%A3-a-cambridgeshire-lieutenancy2%EF%B8%8F%E2%83%A3-a-cambridgeshire-county-co/1028480882768812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/there-is-currently1%EF%B8%8F%E2%83%A3-a-cambridgeshire-lieutenancy2%EF%B8%8F%E2%83%A3-a-cambridgeshire-county-co/1028480882768812/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/there-is-currently1%EF%B8%8F%E2%83%A3-a-cambridgeshire-lieutenancy2%EF%B8%8F%E2%83%A3-a-cambridgeshire-county-co/1028480882768812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/there-is-currently1%EF%B8%8F%E2%83%A3-a-cambridgeshire-lieutenancy2%EF%B8%8F%E2%83%A3-a-cambridgeshire-county-co/1028480882768812/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: timesofmalta.com  
    Title: british ministry of defence to destroy future ufo reports memo reveals.296368  
-   Link: <a href="https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368</a>  
+   Link:<a href="https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
    Title: according to two databases cambridgeshire has become quite the ufo hotspot  
-   Link: <a href="https://www.facebook.com/cambridgeshirelive/posts/according-to-two-databases-cambridgeshire-has-become-quite-the-ufo-hotspot/10159440443798031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cambridgeshirelive/posts/according-to-two-databases-cambridgeshire-has-become-quite-the-ufo-hotspot/10159440443798031/</a>  
+   Link:<a href="https://www.facebook.com/cambridgeshirelive/posts/according-to-two-databases-cambridgeshire-has-become-quite-the-ufo-hotspot/10159440443798031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cambridgeshirelive/posts/according-to-two-databases-cambridgeshire-has-become-quite-the-ufo-hotspot/10159440443798031/</a>  

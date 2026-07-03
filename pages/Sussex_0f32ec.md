@@ -118,9 +118,9 @@ heading_title: What Really Happened in Sussex UFO History?
 page_heading_title: What Really Happened in Sussex UFO History?
 source_count: 149
 infographic_count: 3
-page_website_name: Sussex UFOs
+page_website_name: Sussex
 page_banner_line: Balanced Sussex UFO history, from RAF radar stories to coastal lights and local folklore.
-site_website_name: Sussex UFOs
+site_website_name: Sussex
 site_banner_line: Balanced Sussex UFO history, from RAF radar stories to coastal lights and local folklore.
 site_image_description: A Sussex coastal night sky with faint lights over the Channel, a distant radar mast, and chalk downland in the background.
 output_language: English
@@ -689,78 +689,78 @@ image: /assets/images/Sussex_0f32ec-overview-social.jpg
 
 ## Which “Sussex” is being used here?
 
-This page uses Sussex in the historic-county sense: the south-coast county bounded by Hampshire to the west, Surrey to the north, Kent to the east and the English Channel to the south. That matters because UFO records rarely follow tidy modern council boundaries. A sighting may be logged as “Sussex”, “East Sussex”, “West Sussex”, “Brighton”, “Hove”, “Chichester”, “Crawley” or a coastal town, depending on who recorded it and when. Wikishire describes Sussex as the historic shire along the English Channel, while Britannica notes that for modern administrative purposes it is divided into East Sussex, West Sussex and Brighton and Hove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Sussex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page uses Sussex in the historic-county sense: the south-coast county bounded by Hampshire to the west, Surrey to the north, Kent to the east and the English Channel to the south. That matters because UFO records rarely follow tidy modern council boundaries. A sighting may be logged as “Sussex”, “East Sussex”, “West Sussex”, “Brighton”, “Hove”, “Chichester”, “Crawley” or a coastal town, depending on who recorded it and when. Wikishire describes Sussex as the historic shire along the English Channel, while Britannica notes that for modern administrative purposes it is divided into East Sussex, West Sussex and Brighton and Hove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Sussex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Sussex_0f32ec-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Sussex UFO History?" loading="eager" decoding="sync" fetchpriority="high">
-For UFO research, that means the county should be read as one connected sky-and-coast region rather than two unrelated administrative areas. Brighton and Hove may appear separately in modern local government, Gatwick sits in West Sussex but serves London air traffic, and older RAF or radar material may use station names rather than county labels. Sussex’s geography also encourages cross-border interpretation: objects over the Channel, Hampshire, Kent or Surrey could be visible from Sussex, and aircraft approaching London or the south coast can be misread from several counties at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+For UFO research, that means the county should be read as one connected sky-and-coast region rather than two unrelated administrative areas. Brighton and Hove may appear separately in modern local government, Gatwick sits in West Sussex but serves London air traffic, and older RAF or radar material may use station names rather than county labels. Sussex’s geography also encourages cross-border interpretation: objects over the Channel, Hampshire, Kent or Surrey could be visible from Sussex, and aircraft approaching London or the south coast can be misread from several counties at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 ## Why Sussex appears in official UFO records
 
-The British state did not keep a Sussex-only UFO archive. Instead, Sussex sightings are scattered across Ministry of Defence sighting lists, National Archives releases, police correspondence, local newspapers, witness accounts and later Freedom of Information requests. GOV.UK’s published MoD UFO reports cover 1997 to 2009 and list date, time, location and a brief description for reported sightings, but they are not case files in the investigative sense; many entries are short reports from members of the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The British state did not keep a Sussex-only UFO archive. Instead, Sussex sightings are scattered across Ministry of Defence sighting lists, National Archives releases, police correspondence, local newspapers, witness accounts and later Freedom of Information requests. GOV.UK’s published MoD UFO reports cover 1997 to 2009 and list date, time, location and a brief description for reported sightings, but they are not case files in the investigative sense; many entries are short reports from members of the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The National Archives’ research material is important because it shows how the MoD’s role changed. Official recording and analysis began in the early Cold War period, while later files were increasingly dominated by public correspondence and sighting logs. In 2013, Dr David Clarke described the final release of MoD UFO files as 25 files and about 4,300 pages, mainly covering 2008–2009. He also noted that the MoD closed its UFO desk and hotline in November 2009, ending almost 60 years of collecting, analysing and sometimes investigating reports of mysterious things in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
+The National Archives’ research material is important because it shows how the MoD’s role changed. Official recording and analysis began in the early Cold War period, while later files were increasingly dominated by public correspondence and sighting logs. In 2013, Dr David Clarke described the final release of MoD UFO files as 25 files and about 4,300 pages, mainly covering 2008–2009. He also noted that the MoD closed its UFO desk and hotline in November 2009, ending almost 60 years of collecting, analysing and sometimes investigating reports of mysterious things in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
 
-That closure affects Sussex directly. A 2024 request for “all UFO reports for West Sussex” over 50 years was refused on cost grounds because the MoD said relevant information was not held centrally and would require searches across many organisations. In the same response, the MoD stated that it ceased investigating UFO or UAP reports in 2009 and that files created up to that point had been released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes/response/2691122/attach/3/20240618%20foi2024%2009086.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+That closure affects Sussex directly. A 2024 request for “all UFO reports for West Sussex” over 50 years was refused on cost grounds because the MoD said relevant information was not held centrally and would require searches across many organisations. In the same response, the MoD stated that it ceased investigating UFO or UAP reports in 2009 and that files created up to that point had been released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes/response/2691122/attach/3/20240618%20foi2024%2009086.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 
 <img src="{{ "/assets/images/Sussex_0f32ec-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Sussex UFO History? illustration 1" data-theme-src-dark="{{ "/assets/images/Sussex_0f32ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sussex_0f32ec-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Tangmere and Wartling connection: Sussex at the start of the British official story
 
-The most historically significant Sussex link comes from 1950, when RAF Tangmere and the radar station at Wartling appear in accounts of one of Britain’s early post-war flying saucer episodes. RAF Tangmere, near Chichester, was a major RAF station with an important post-war jet-age role; it hosted Meteor and Hunter activity and was associated with speed-record flying as well as air defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Tangmere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Tangmere</span><span class="citation-popover-snippet">RAF Tangmere</span></span></span>
+The most historically significant Sussex link comes from 1950, when RAF Tangmere and the radar station at Wartling appear in accounts of one of Britain’s early post-war flying saucer episodes. RAF Tangmere, near Chichester, was a major RAF station with an important post-war jet-age role; it hosted Meteor and Hunter activity and was associated with speed-record flying as well as air defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Tangmere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Tangmere</span><span class="citation-popover-snippet">RAF Tangmere</span></span></span>
 
-The commonly reported version is that on 1 June 1950 a Gloster Meteor from RAF Tangmere encountered an object described as a shining, revolving, disc-like “flying saucer” near Portsmouth, and that RAF Wartling in Sussex also saw an unusual radar response. The case is often cited because it sits close to the formation of the MoD’s first formal UFO study, the Flying Saucer Working Party. Surviving material and later archival research show that Sir Henry Tizard, the MoD’s Chief Scientific Adviser, was influential in pushing for the subject to be examined seriously rather than dismissed out of hand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Tangmere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Tangmere</span><span class="citation-popover-snippet">RAF Tangmere</span></span></span>
+The commonly reported version is that on 1 June 1950 a Gloster Meteor from RAF Tangmere encountered an object described as a shining, revolving, disc-like “flying saucer” near Portsmouth, and that RAF Wartling in Sussex also saw an unusual radar response. The case is often cited because it sits close to the formation of the MoD’s first formal UFO study, the Flying Saucer Working Party. Surviving material and later archival research show that Sir Henry Tizard, the MoD’s Chief Scientific Adviser, was influential in pushing for the subject to be examined seriously rather than dismissed out of hand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Tangmere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Tangmere</span><span class="citation-popover-snippet">RAF Tangmere</span></span></span>
 
-The caution is just as important as the claim. The Flying Saucer Working Party’s 1951 conclusion was sceptical, attributing reports to causes such as astronomical or meteorological phenomena, misidentified aircraft or balloons, optical effects and hoaxes, and recommending no further investigation unless material evidence became available. Sussex therefore enters the national story less as proof of alien visitation than as part of the early Cold War machinery by which strange aerial reports became a defence-administration problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/flying-saucer-working-party/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Flying Saucer Working Party</span><span class="citation-popover-snippet">Flying Saucer Working Party</span></span></span>
+The caution is just as important as the claim. The Flying Saucer Working Party’s 1951 conclusion was sceptical, attributing reports to causes such as astronomical or meteorological phenomena, misidentified aircraft or balloons, optical effects and hoaxes, and recommending no further investigation unless material evidence became available. Sussex therefore enters the national story less as proof of alien visitation than as part of the early Cold War machinery by which strange aerial reports became a defence-administration problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/flying-saucer-working-party/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Flying Saucer Working Party</span><span class="citation-popover-snippet">Flying Saucer Working Party</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BWQbTRyUQH8" title="UFO Visitor: The Strange Flying Light That Puzzled Brighton&#x27;s Police | Paranormal Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BWQbTRyUQH8" target="_blank" rel="noopener noreferrer">UFO Visitor: The Strange Flying Light That Puzzled Brighton&#x27;s Police | Paranormal Files</a></p><p class="youtube-embed-meta">Channel: Documentary Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BWQbTRyUQH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BWQbTRyUQH8">Open on YouTube</a></p></div></div></div>
 
 ## The 1967 “flying cross” flap in East Sussex
 
-The most striking Sussex-specific case is the October 1967 “flying cross” episode. The wider 1967 autumn flap produced several British sightings of bright, cross-shaped or oddly structured lights, including the better-known Devon police chase. Astronomy writer and UFO sceptic Ian Ridpath has argued that the October 1967 cases were easily resolved and that most were caused by Venus, which was then a prominent morning object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[ianridpath.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+The most striking Sussex-specific case is the October 1967 “flying cross” episode. The wider 1967 autumn flap produced several British sightings of bright, cross-shaped or oddly structured lights, including the better-known Devon police chase. Astronomy writer and UFO sceptic Ian Ridpath has argued that the October 1967 cases were easily resolved and that most were caused by Venus, which was then a prominent morning object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[ianridpath.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-The Sussex version is usually described as a report by police officers in five police cars across East Sussex in the early hours of 25 October 1967, with the first sighting around Halland at about 4.45am. The object was reported as a bright flying cross, and similar reports were also made elsewhere in Britain around the same period. This is an interesting case because police witnesses gave it credibility in the press, but the pattern of similar early-morning “cross” reports across counties also gives sceptics a strong route to an astronomical explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">UFO sightings in the United Kingdom</span></span></span>
+The Sussex version is usually described as a report by police officers in five police cars across East Sussex in the early hours of 25 October 1967, with the first sighting around Halland at about 4.45am. The object was reported as a bright flying cross, and similar reports were also made elsewhere in Britain around the same period. This is an interesting case because police witnesses gave it credibility in the press, but the pattern of similar early-morning “cross” reports across counties also gives sceptics a strong route to an astronomical explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">UFO sightings in the United Kingdom</span></span></span>
 
-For Sussex UFO history, the case is best classed as a classic flap-period sighting rather than a strong physical-evidence case. It matters because it shows three things at once: trained witnesses can still misread bright celestial objects under unusual viewing conditions; a local incident can become part of a national media wave; and later comparison across counties can weaken an originally dramatic local report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[ianridpath.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+For Sussex UFO history, the case is best classed as a classic flap-period sighting rather than a strong physical-evidence case. It matters because it shows three things at once: trained witnesses can still misread bright celestial objects under unusual viewing conditions; a local incident can become part of a national media wave; and later comparison across counties can weaken an originally dramatic local report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[ianridpath.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Sussex_0f32ec-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Sussex UFO History? illustration 2" data-theme-src-dark="{{ "/assets/images/Sussex_0f32ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sussex_0f32ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clapham Wood: a UFO hotspot or a folklore machine?
 
-Clapham Wood, near Worthing in West Sussex, is often mentioned in popular lists of British UFO places, but it is a much weaker evidential category than [Tangmere/Wartling]({{ 'tangmere-radar/' | relative_url }}) or the 1967 police reports. Its reputation mixes UFO stories with lost dogs, alleged occult activity, deaths, “strange feelings”, big-cat rumours and general paranormal folklore. The most useful way to treat it is as a local legend cluster that absorbed UFO motifs in the 1960s and 1970s, not as a well-documented run of independently verified aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clapham_Wood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clapham Wood</span><span class="citation-popover-snippet">Clapham Wood</span></span></span>
+Clapham Wood, near Worthing in West Sussex, is often mentioned in popular lists of British UFO places, but it is a much weaker evidential category than [Tangmere/Wartling]({{ 'tangmere-radar/' | relative_url }}) or the 1967 police reports. Its reputation mixes UFO stories with lost dogs, alleged occult activity, deaths, “strange feelings”, big-cat rumours and general paranormal folklore. The most useful way to treat it is as a local legend cluster that absorbed UFO motifs in the 1960s and 1970s, not as a well-documented run of independently verified aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clapham_Wood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clapham Wood</span><span class="citation-popover-snippet">Clapham Wood</span></span></span>
 
-Later summaries often mention a 1972 saucer-shaped object seen near the woods and a broader pattern of lights around Clapham, Chanctonbury Ring and Cissbury Ring. However, much of this material is retrospective, secondary or paranormal-tourism driven. It is worth including in a Sussex UFO map because it has become part of local UFO culture, but it should not be presented with the same weight as an MoD log, an aviation report or a police-witness case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spookyisles.com/clapham-wood-haunted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-title">clapham wood haunted</span><span class="citation-popover-snippet">clapham wood haunted</span></span></span>
+Later summaries often mention a 1972 saucer-shaped object seen near the woods and a broader pattern of lights around Clapham, Chanctonbury Ring and Cissbury Ring. However, much of this material is retrospective, secondary or paranormal-tourism driven. It is worth including in a Sussex UFO map because it has become part of local UFO culture, but it should not be presented with the same weight as an MoD log, an aviation report or a police-witness case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spookyisles.com/clapham-wood-haunted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-title">clapham wood haunted</span><span class="citation-popover-snippet">clapham wood haunted</span></span></span>
 
-The Clapham Wood story also shows how UFO lore can attach itself to evocative landscapes. Ancient woods, hillforts, chalk downland and isolated night-time roads are memorable settings, and they encourage stories to survive even when the underlying evidence is thin. That does not make every witness unreliable, but it does mean the case needs sharper separation between dated sightings, folklore, local fear and later embellishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clapham_Wood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clapham Wood</span><span class="citation-popover-snippet">Clapham Wood</span></span></span>
+The Clapham Wood story also shows how UFO lore can attach itself to evocative landscapes. Ancient woods, hillforts, chalk downland and isolated night-time roads are memorable settings, and they encourage stories to survive even when the underlying evidence is thin. That does not make every witness unreliable, but it does mean the case needs sharper separation between dated sightings, folklore, local fear and later embellishment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clapham_Wood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clapham Wood</span><span class="citation-popover-snippet">Clapham Wood</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7pHXMRl0MU8" title="Brighton&#x27;s UFOs: The Odd Sighting Spotted By A Policeman | Paranormal Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7pHXMRl0MU8" target="_blank" rel="noopener noreferrer">Brighton&#x27;s UFOs: The Odd Sighting Spotted By A Policeman | Paranormal Files</a></p><p class="youtube-embed-meta">Channel: Absolute Documentaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7pHXMRl0MU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7pHXMRl0MU8">Open on YouTube</a></p></div></div></div>
 
 ## Brighton, Worthing and the 1997–2009 MoD sighting lists
 
-The late MoD sighting lists give a different kind of Sussex evidence: not famous set-piece cases, but repeated ordinary reports. In 1999, the MoD list includes Brighton reports of a bright white hovering object and a bright diamond-shaped object, and a Hastings report described as looking like a helicopter before shooting off into the distance. In 2000, the list includes a Brighton report of a large polished-aluminium-looking sphere, bright and initially stationary before moving off at high speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The late MoD sighting lists give a different kind of Sussex evidence: not famous set-piece cases, but repeated ordinary reports. In 1999, the MoD list includes Brighton reports of a bright white hovering object and a bright diamond-shaped object, and a Hastings report described as looking like a helicopter before shooting off into the distance. In 2000, the list includes a Brighton report of a large polished-aluminium-looking sphere, bright and initially stationary before moving off at high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2009 list shows why Sussex’s coastal sky could generate reports without requiring exotic explanations. Entries include Portslade red or orange lights moving slowly towards Brighton, West Grinstead orange lights reported by a part-time pilot, Brighton red lights moving overhead from the west, Pagham orange lights with photos, Worthing a large bright silver-white sphere moving west to east, Hove five large round orange balls in formation, Bosham orange objects like flames, and Crawley orange lights moving slowly then fading away. GOV.UK Assets+4GOV.UK Assets+4GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 list shows why Sussex’s coastal sky could generate reports without requiring exotic explanations. Entries include Portslade red or orange lights moving slowly towards Brighton, West Grinstead orange lights reported by a part-time pilot, Brighton red lights moving overhead from the west, Pagham orange lights with photos, Worthing a large bright silver-white sphere moving west to east, Hove five large round orange balls in formation, Bosham orange objects like flames, and Crawley orange lights moving slowly then fading away. GOV.UK Assets+4GOV.UK Assets+4GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The pattern is important: many 2009 Sussex reports describe orange lights, silent movement, formations, fading and slow drift. Dr David Clarke’s National Archives transcript says the MoD received a record 643 sightings in 2009, that numbers had trebled from 2008, and that the vast majority of 2008–2009 sightings appeared to be down-to-earth objects such as Chinese lanterns released at parties and weddings. This does not automatically explain every Sussex entry, but it does strongly weaken any claim that a cluster of orange lights from that period is unusual by itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
+The pattern is important: many 2009 Sussex reports describe orange lights, silent movement, formations, fading and slow drift. Dr David Clarke’s National Archives transcript says the MoD received a record 643 sightings in 2009, that numbers had trebled from 2008, and that the vast majority of 2008–2009 sightings appeared to be down-to-earth objects such as Chinese lanterns released at parties and weddings. This does not automatically explain every Sussex entry, but it does strongly weaken any claim that a cluster of orange lights from that period is unusual by itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span>
 
 
 <img src="{{ "/assets/images/Sussex_0f32ec-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Sussex UFO History? illustration 3" data-theme-src-dark="{{ "/assets/images/Sussex_0f32ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sussex_0f32ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation, coast and misidentification risks
 
-Sussex is a good county for UFO reports because it is also a good county for ordinary sky traffic. Gatwick is in West Sussex near Crawley and is one of the UK’s major airports; Shoreham, Goodwood and coastal aviation activity add smaller-scale aircraft movements; and the English Channel gives long, dark horizons where lights can appear detached from land or sea. The former RAF presence at Tangmere and other south-coast wartime and Cold War installations adds a military layer to the county’s sky history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitsoutheastengland.com/places-to-visit/sussex/map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsoutheastengland.com">[Visit South East England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsoutheastengland.com</span><span class="citation-popover-snippet">Open source on visitsoutheastengland.com.</span></span></span>
+Sussex is a good county for UFO reports because it is also a good county for ordinary sky traffic. Gatwick is in West Sussex near Crawley and is one of the UK’s major airports; Shoreham, Goodwood and coastal aviation activity add smaller-scale aircraft movements; and the English Channel gives long, dark horizons where lights can appear detached from land or sea. The former RAF presence at Tangmere and other south-coast wartime and Cold War installations adds a military layer to the county’s sky history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitsoutheastengland.com/places-to-visit/sussex/map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsoutheastengland.com">[Visit South East England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsoutheastengland.com</span><span class="citation-popover-snippet">Open source on visitsoutheastengland.com.</span></span></span>
 
-That does not mean every report is “just a plane”. It means the threshold for a strong Sussex UFO case should be high. Useful evidence would include accurate time, direction, duration, angular size, weather, aircraft movements, astronomical conditions, radar or flight-tracking correlation, original photographs with metadata, and independent witnesses separated by location. A vague report of a light “too bright to be a plane” is not useless, but it is much weaker than a timed multi-witness account that can be tested against known traffic, planets, meteors, satellites, drones or lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+That does not mean every report is “just a plane”. It means the threshold for a strong Sussex UFO case should be high. Useful evidence would include accurate time, direction, duration, angular size, weather, aircraft movements, astronomical conditions, radar or flight-tracking correlation, original photographs with metadata, and independent witnesses separated by location. A vague report of a light “too bright to be a plane” is not useless, but it is much weaker than a timed multi-witness account that can be tested against known traffic, planets, meteors, satellites, drones or lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The 2018 Gatwick drone disruption is not a UFO case in the traditional sense, but it is relevant as a modern cautionary parallel. Reports of unidentified aerial objects near a major Sussex airport led to serious disruption, police action and national attention, showing that “unidentified” can have real operational consequences even without any extraterrestrial claim. It also underlines why aviation context matters when reading older UFO reports from the county. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gatwick Airport drone incident</span><span class="citation-popover-snippet">Gatwick Airport drone incident</span></span></span>
+The 2018 Gatwick drone disruption is not a UFO case in the traditional sense, but it is relevant as a modern cautionary parallel. Reports of unidentified aerial objects near a major Sussex airport led to serious disruption, police action and national attention, showing that “unidentified” can have real operational consequences even without any extraterrestrial claim. It also underlines why aviation context matters when reading older UFO reports from the county.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gatwick Airport drone incident</span><span class="citation-popover-snippet">Gatwick Airport drone incident</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wXq55sY30Cw" title="UFO Filmed By Police Helicopter In Brighton England August 11 2000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wXq55sY30Cw" target="_blank" rel="noopener noreferrer">UFO Filmed By Police Helicopter In Brighton England August 11 2000</a></p><p class="youtube-embed-meta">Channel: Hale Kaden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wXq55sY30Cw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wXq55sY30Cw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wXq55sY30Cw" title="UFO Filmed By Police Helicopter In Brighton England August" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wXq55sY30Cw" target="_blank" rel="noopener noreferrer">UFO Filmed By Police Helicopter In Brighton England August</a></p><p class="youtube-embed-meta">Channel: Hale Kaden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wXq55sY30Cw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wXq55sY30Cw">Open on YouTube</a></p></div></div></div>
 
 ## How strong is the Sussex evidence overall?
 
-Sussex has a credible place in UK UFO history, but the evidence is uneven. The best-supported material is official or semi-official: MoD sighting logs, National Archives releases, Freedom of Information correspondence, and historically significant RAF or radar context. The weakest material is the folklore layer, especially where stories are repeated without original dates, documents or named witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+Sussex has a credible place in UK UFO history, but the evidence is uneven. The best-supported material is official or semi-official: MoD sighting logs, National Archives releases, Freedom of Information correspondence, and historically significant RAF or radar context. The weakest material is the folklore layer, especially where stories are repeated without original dates, documents or named witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 A fair classification would look like this:
 
@@ -778,194 +778,194 @@ A fair classification would look like this:
 The county’s UFO history is therefore not a single mystery waiting for one dramatic answer. It is a layered record of Cold War defence curiosity, police and civilian sightings, coastal misperception, lantern-era mass reporting and local legend. Sussex is most interesting when read as a testing ground for how UFO stories form: a real light is seen, a witness reaches for the best words available, official systems log it briefly, newspapers or local memory amplify the most vivid details, and later researchers must decide what is left once ordinary explanations have been checked.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Sussex UFO History?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Sussex UFO History?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QkVspwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QkVspwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Covers British UFO reports, official files and investigation themes reflected in Sussex cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers British UFO reports, official files and investigation themes reflected in Sussex cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Out of the Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=isHzPAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Out of the Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Out of the Shadows">Out of the Shadows</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke, Andy Roberts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Out of the Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=isHzPAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Out of the Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Out of the Shadows">Out of the Shadows</a>
+</h4>
+<p class="fr-book-author">By David Clarke, Andy Roberts</p>
         
-        <p class="fr-book-desc">Useful for understanding MoD, RAF and official-document aspects of Sussex reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding MoD, RAF and official-document aspects of Sussex reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong match for Sussex UFO history because it places British cases in their wider historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for Sussex UFO history because it places British cases in their wider historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">First published 2018.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Out+of+the+Shadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Out of the Shadows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Out+of+the+Shadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Out of the Shadows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-sussex-ufo-what-really-happened-in-sussex-ufo-history-sussex-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -981,7 +981,7 @@ The county’s UFO history is therefore not a single mystery waiting for one dra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1001,7 +1001,7 @@ The county’s UFO history is therefore not a single mystery waiting for one dra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1033,7 +1033,7 @@ The county’s UFO history is therefore not a single mystery waiting for one dra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1085,7 +1085,7 @@ The county’s UFO history is therefore not a single mystery waiting for one dra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1130,7 +1130,7 @@ The county’s UFO history is therefore not a single mystery waiting for one dra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1171,319 +1171,319 @@ The county’s UFO history is therefore not a single mystery waiting for one dra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Sussex historical county England  
-   Link: <a href="https://www.britannica.com/place/Sussex-historical-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Sussex-historical-county-England</a>  
+   Link:<a href="https://www.britannica.com/place/Sussex-historical-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Sussex-historical-county-England</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes/response/2691122/attach/3/20240618%20foi2024%2009086.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes/response/2691122/attach/3/20240618%20foi2024%2009086.pdf?cookie_passthrough=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes/response/2691122/attach/3/20240618%20foi2024%2009086.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes/response/2691122/attach/3/20240618%20foi2024%2009086.pdf?cookie_passthrough=1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: RAF Tangmere  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Tangmere" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Tangmere</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Tangmere" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Tangmere</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: drdavidclarke.co.uk  
    Title: Flying Saucer Working Party  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/flying-saucer-working-party/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/flying-saucer-working-party/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/flying-saucer-working-party/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/flying-saucer-working-party/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Flying Saucer Working Party  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_Saucer_Working_Party" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucer_Working_Party</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_Saucer_Working_Party" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucer_Working_Party</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flyingcross.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flyingcross.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/octoberflap.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/octoberflap.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Clapham Wood  
-   Link: <a href="https://en.wikipedia.org/wiki/Clapham_Wood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clapham_Wood</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Clapham_Wood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clapham_Wood</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Gatwick Airport drone incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/26/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/26/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/26/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/26/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/31/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/31/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/31/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/31/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: annual report 12 13  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sussex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sussex</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sussex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sussex</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Hiện tượng quan sát thấy UFO ở Vương quốc Liên hiệp Anh  
-   Link: <a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/flying%20saucer%20working%20party.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flying%20saucer%20working%20party.pdf</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/flying%20saucer%20working%20party.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flying%20saucer%20working%20party.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/ukgwp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/ukgwp.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/ukgwp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/ukgwp.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_reports_in_sussex_last_10_ye" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_reports_in_sussex_last_10_ye</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_reports_in_sussex_last_10_ye" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_reports_in_sussex_last_10_ye</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: whatdotheyknow.com  
    Title: ufo sigtings and reports for wes  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sigtings_and_reports_for_wes</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_28" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_28</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_28" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_28</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/cy/uksi/1992/2096/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/cy/uksi/1992/2096/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/cy/uksi/1992/2096/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/cy/uksi/1992/2096/made</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/britishbirds6519unse/britishbirds6519unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/britishbirds6519unse/britishbirds6519unse_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/britishbirds6519unse/britishbirds6519unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/britishbirds6519unse/britishbirds6519unse_djvu.txt</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/freechurchyearb00churgoog/freechurchyearb00churgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/freechurchyearb00churgoog/freechurchyearb00churgoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/freechurchyearb00churgoog/freechurchyearb00churgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/freechurchyearb00churgoog/freechurchyearb00churgoog_djvu.txt</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: archive.org  
    Title: Above Top Secret djvu.txt  
-   Link: <a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: westsussex.gov.uk  
-   Link: <a href="https://www.westsussex.gov.uk/media/1721/burgess_hill_eus_report_and_maps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westsussex.gov.uk/media/1721/burgess_hill_eus_report_and_maps.pdf</a>  
+   Link:<a href="https://www.westsussex.gov.uk/media/1721/burgess_hill_eus_report_and_maps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westsussex.gov.uk/media/1721/burgess_hill_eus_report_and_maps.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: sussex.police.uk  
-   Link: <a href="https://www.sussex.police.uk/news/news-search/" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.police.uk/news/news-search/</a>  
+   Link:<a href="https://www.sussex.police.uk/news/news-search/" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.police.uk/news/news-search/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Sussex" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Sussex</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Sussex" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Sussex</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: visitsoutheastengland.com  
-   Link: <a href="https://www.visitsoutheastengland.com/places-to-visit/sussex/map" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsoutheastengland.com/places-to-visit/sussex/map</a>  
+   Link:<a href="https://www.visitsoutheastengland.com/places-to-visit/sussex/map" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsoutheastengland.com/places-to-visit/sussex/map</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: heritage.baesystems.com  
    Title: gloster meteor  
-   Link: <a href="https://heritage.baesystems.com/page/gloster-meteor" target="_blank" rel="noopener noreferrer nofollow">https://heritage.baesystems.com/page/gloster-meteor</a>  
+   Link:<a href="https://heritage.baesystems.com/page/gloster-meteor" target="_blank" rel="noopener noreferrer nofollow">https://heritage.baesystems.com/page/gloster-meteor</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: spookyisles.com  
    Title: clapham wood haunted  
-   Link: <a href="https://www.spookyisles.com/clapham-wood-haunted/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/clapham-wood-haunted/</a>  
+   Link:<a href="https://www.spookyisles.com/clapham-wood-haunted/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/clapham-wood-haunted/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: plane-crazy.k-hosting.co.uk  
    Title: gloster meteor  
-   Link: <a href="https://plane-crazy.k-hosting.co.uk/Aircraft/Jets/Meteor/gloster_meteor.htm" target="_blank" rel="noopener noreferrer nofollow">https://plane-crazy.k-hosting.co.uk/Aircraft/Jets/Meteor/gloster_meteor.htm</a>  
+   Link:<a href="https://plane-crazy.k-hosting.co.uk/Aircraft/Jets/Meteor/gloster_meteor.htm" target="_blank" rel="noopener noreferrer nofollow">https://plane-crazy.k-hosting.co.uk/Aircraft/Jets/Meteor/gloster_meteor.htm</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: abc13.com  
-   Link: <a href="https://abc13.com/archive/6458851/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/6458851/</a>  
+   Link:<a href="https://abc13.com/archive/6458851/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/6458851/</a>  
 
 ### Additional References
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bracknellnews/posts/alleged-ufo-sighting-in-bracknell-full-story-in-the-comments-/1422208919916936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bracknellnews/posts/alleged-ufo-sighting-in-bracknell-full-story-in-the-comments-/1422208919916936/</a>  
+   Link:<a href="https://www.facebook.com/bracknellnews/posts/alleged-ufo-sighting-in-bracknell-full-story-in-the-comments-/1422208919916936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bracknellnews/posts/alleged-ufo-sighting-in-bracknell-full-story-in-the-comments-/1422208919916936/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYSHXdOi1tG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSHXdOi1tG/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYSHXdOi1tG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSHXdOi1tG/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thelongnwindingroad/posts/before-fosters-flying-saucer-made-its-appearance-/2498706960154426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thelongnwindingroad/posts/before-fosters-flying-saucer-made-its-appearance-/2498706960154426/</a>  
+   Link:<a href="https://www.facebook.com/thelongnwindingroad/posts/before-fosters-flying-saucer-made-its-appearance-/2498706960154426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thelongnwindingroad/posts/before-fosters-flying-saucer-made-its-appearance-/2498706960154426/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: isgp-studies.com  
-   Link: <a href="https://isgp-studies.com/crop-circles" target="_blank" rel="noopener noreferrer nofollow">https://isgp-studies.com/crop-circles</a>  
+   Link:<a href="https://isgp-studies.com/crop-circles" target="_blank" rel="noopener noreferrer nofollow">https://isgp-studies.com/crop-circles</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
+   Link:<a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: localhistory.co.uk  
-   Link: <a href="https://www.localhistory.co.uk/la/cats/laroche.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.localhistory.co.uk/la/cats/laroche.htm</a>  
+   Link:<a href="https://www.localhistory.co.uk/la/cats/laroche.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.localhistory.co.uk/la/cats/laroche.htm</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Paranormal/comments/2u0miv/clapham_woods_ufos_disappearances_and_murders/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paranormal/comments/2u0miv/clapham_woods_ufos_disappearances_and_murders/</a>  
+   Link:<a href="https://www.reddit.com/r/Paranormal/comments/2u0miv/clapham_woods_ufos_disappearances_and_murders/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paranormal/comments/2u0miv/clapham_woods_ufos_disappearances_and_murders/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Horsted_Keynes%2C_Sussex_22861" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Horsted_Keynes%2C_Sussex_22861</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Horsted_Keynes%2C_Sussex_22861" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Horsted_Keynes%2C_Sussex_22861</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DV62t5XjCzo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV62t5XjCzo/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DV62t5XjCzo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV62t5XjCzo/?hl=en</a>  

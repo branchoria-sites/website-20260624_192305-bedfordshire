@@ -254,54 +254,54 @@ image: /assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-overview-social
 
 ## Introduction
 
-The Lakenheath-Bentwaters radar case is [Suffolk]({{ 'why-suffolk-became-a-ufo-county/' | relative_url }})’s major UFO mystery before [Rendlesham]({{ 'rendlesham/' | relative_url }}). On the night of 13–14 August 1956, radar operators at RAF Bentwaters and RAF Lakenheath reported fast and unusual targets, ground observers reported bright white lights, and RAF Venom night fighters were sent to investigate. The case matters because it was not just a local sky story: it involved USAF-run RAF bases in Suffolk, British air-defence radar control from RAF Neatishead in Norfolk, and later scrutiny by Project Blue Book and the University of Colorado’s UFO study. It does not prove an extraterrestrial craft. Its importance lies in a harder question: what did several military radar systems and trained air-defence personnel think they were tracking over East Anglia, and why has the record remained contested rather than neatly explained? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+The Lakenheath-Bentwaters radar case is [Suffolk]({{ 'why-suffolk-became-a-ufo-county/' | relative_url }})’s major UFO mystery before [Rendlesham]({{ 'rendlesham/' | relative_url }}). On the night of 13–14 August 1956, radar operators at RAF Bentwaters and RAF Lakenheath reported fast and unusual targets, ground observers reported bright white lights, and RAF Venom night fighters were sent to investigate. The case matters because it was not just a local sky story: it involved USAF-run RAF bases in Suffolk, British air-defence radar control from RAF Neatishead in Norfolk, and later scrutiny by Project Blue Book and the University of Colorado’s UFO study. It does not prove an extraterrestrial craft. Its importance lies in a harder question: what did several military radar systems and trained air-defence personnel think they were tracking over East Anglia, and why has the record remained contested rather than neatly explained?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
 
 <img src="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-overview.webp" | relative_url }}" alt="Overview image for Lakenheath" loading="eager" decoding="sync" fetchpriority="high">
 ## Why this Suffolk case still stands out
 
-Lakenheath-Bentwaters sits in the west-and-east military geography of Suffolk. RAF Bentwaters, near Woodbridge, was one of the USAF’s Cold War bases in the county; RAF Lakenheath, in west Suffolk, was also an RAF station used by the United States. The case also reached beyond Suffolk because the fighter-control element involved RAF Neatishead in Norfolk and Venom night fighters from RAF Waterbeach in Cambridgeshire. That cross-county pattern is important: the incident belongs to Suffolk’s UFO history because the named bases and radar reports centre on Bentwaters and Lakenheath, but the air-defence system watching the sky was regional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files+2Norfolk Heritage Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+Lakenheath-Bentwaters sits in the west-and-east military geography of Suffolk. RAF Bentwaters, near Woodbridge, was one of the USAF’s Cold War bases in the county; RAF Lakenheath, in west Suffolk, was also an RAF station used by the United States. The case also reached beyond Suffolk because the fighter-control element involved RAF Neatishead in Norfolk and Venom night fighters from RAF Waterbeach in Cambridgeshire. That cross-county pattern is important: the incident belongs to Suffolk’s UFO history because the named bases and radar reports centre on Bentwaters and Lakenheath, but the air-defence system watching the sky was regional.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
 The case is stronger than many ordinary UFO reports because it contains several kinds of evidence: radar reports, ground visual reports, an attempted fighter interception, and later official or semi-official analysis. It is weaker than the most dramatic retellings suggest because the surviving record is incomplete, the timings are difficult, the pilots’ later recollections do not always match the controllers’ accounts, and several ordinary mechanisms could explain parts of the night without explaining all of it. That tension is why the case has lasted.
 
-It is also easy to overstate the official angle. Project Blue Book, the US Air Force’s UFO investigation programme, is now declassified and held by the US National Archives; the Air Force later summarised Blue Book as having received 12,618 sightings from 1947 to 1969, with 701 left “Unidentified”, while saying it had found no evidence of extraterrestrial vehicles or threats to national security. The Lakenheath-Bentwaters case was investigated within that US system, but the strongest “unexplained” language came later from the University of Colorado study, not from a simple official admission that an alien craft had been chased over Suffolk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+It is also easy to overstate the official angle. Project Blue Book, the US Air Force’s UFO investigation programme, is now declassified and held by the US National Archives; the Air Force later summarised Blue Book as having received 12,618 sightings from 1947 to 1969, with 701 left “Unidentified”, while saying it had found no evidence of extraterrestrial vehicles or threats to national security. The Lakenheath-Bentwaters case was investigated within that US system, but the strongest “unexplained” language came later from the University of Colorado study, not from a simple official admission that an alien craft had been chased over Suffolk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 
 <img src="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-1-dark.svg" | relative_url }}" alt="Lakenheath illustration 1" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The August 1956 reports
 
-The incident unfolded on a clear August night, close to the Perseid meteor shower, a detail that later became central to sceptical explanations. The University of Colorado case summary described “at least one UFO” tracked by air traffic-control radar at two USAF-RAF stations, with apparently corresponding visual sightings of rapidly moving white objects, and an attempted RAF fighter interception. That summary is striking, but it is still a summary of reports, not proof of what the object was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+The incident unfolded on a clear August night, close to the Perseid meteor shower, a detail that later became central to sceptical explanations. The University of Colorado case summary described “at least one UFO” tracked by air traffic-control radar at two USAF-RAF stations, with apparently corresponding visual sightings of rapidly moving white objects, and an attempted RAF fighter interception. That summary is striking, but it is still a summary of reports, not proof of what the object was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
-The first phase was at Bentwaters. According to the later technical reconstruction by Gordon D. Thayer, drawing on Project Blue Book material, Bentwaters Ground Controlled Approach radar reported several unidentified radar echoes. One was said to have crossed the radar scope at thousands of miles per hour; another involved a group of 12 to 15 returns moving more slowly before apparently merging into a much larger return; another rapid east-west target was reported later. These speeds should be treated cautiously. Radar displays of the period were not modern digital tracks, and some figures came from estimates based on sweep intervals rather than precise measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
+The first phase was at Bentwaters. According to the later technical reconstruction by Gordon D. Thayer, drawing on Project Blue Book material, Bentwaters Ground Controlled Approach radar reported several unidentified radar echoes. One was said to have crossed the radar scope at thousands of miles per hour; another involved a group of 12 to 15 returns moving more slowly before apparently merging into a much larger return; another rapid east-west target was reported later. These speeds should be treated cautiously. Radar displays of the period were not modern digital tracks, and some figures came from estimates based on sweep intervals rather than precise measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
 
-The most important Bentwaters moment came at about 22:55 GMT. The Condon Report’s reproduced account says Bentwaters GCA saw an object about 30 miles east of the station moving westward at 2,000–4,000 mph. Tower personnel reportedly saw a bright light pass over the field at terrific speed at about 4,000 feet, and an aircraft at about the same altitude over the station reported a bright light passing underneath it. This is the part of the case that gives the story its “radar-visual” weight: the reported light and the radar return were not merely similar in theme, but close in time and place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+The most important Bentwaters moment came at about 22:55 GMT. The Condon Report’s reproduced account says Bentwaters GCA saw an object about 30 miles east of the station moving westward at 2,000–4,000 mph. Tower personnel reportedly saw a bright light pass over the field at terrific speed at about 4,000 feet, and an aircraft at about the same altitude over the station reported a bright light passing underneath it. This is the part of the case that gives the story its “radar-visual” weight: the reported light and the radar return were not merely similar in theme, but close in time and place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
-Lakenheath then became involved after Bentwaters contacted the station. The Lakenheath watch supervisor’s account, reproduced by the Colorado project, said controllers began scanning their radar scopes and found an unusual target 20 to 25 miles south-west of the station. It was described as stationary despite the use of moving-target indication, then as moving at 400–600 mph without gradual acceleration, stopping, changing course and moving again. Another Lakenheath radar unit was reportedly asked to confirm the same target in the same general position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+Lakenheath then became involved after Bentwaters contacted the station. The Lakenheath watch supervisor’s account, reproduced by the Colorado project, said controllers began scanning their radar scopes and found an unusual target 20 to 25 miles south-west of the station. It was described as stationary despite the use of moving-target indication, then as moving at 400–600 mph without gradual acceleration, stopping, changing course and moving again. Another Lakenheath radar unit was reportedly asked to confirm the same target in the same general position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.4K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
 
 ## Radar, pilots and the Venom interception
 
-The fighter interception is the most famous and most disputed part of the case. In the classic account, an RAF de Havilland Venom night fighter was vectored towards a radar target. The pilot allegedly obtained airborne radar contact or radar “gunlock”, then the target appeared to move behind the aircraft and follow it while the pilot tried to shake it off. The Condon Report [records]({{ 'records/' | relative_url }}) the first pilot as saying it was the “clearest target” he had seen on radar, and says a second Venom was scrambled but did not establish contact before returning because of a malfunction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+The fighter interception is the most famous and most disputed part of the case. In the classic account, an RAF de Havilland Venom night fighter was vectored towards a radar target. The pilot allegedly obtained airborne radar contact or radar “gunlock”, then the target appeared to move behind the aircraft and follow it while the pilot tried to shake it off. The Condon Report [records]({{ 'records/' | relative_url }}) the first pilot as saying it was the “clearest target” he had seen on radar, and says a second Venom was scrambled but did not establish contact before returning because of a malfunction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
-The National Archives’ later public summary of released Ministry of Defence UFO files gives a similar version through the account of retired RAF Fighter Controller Freddie Wimbledon. Wimbledon said he had been on duty at RAF Neatishead when USAF personnel reported a fast-moving blip at Lakenheath; he said the object was seen on RAF radar and that Fighter Command ordered a Venom interception. In that version, the Venom pilot called “Contact”, then “Judy”, meaning the radar/navigator had the target on airborne radar, before losing it and being told the target was behind him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives’ later public summary of released Ministry of Defence UFO files gives a similar version through the account of retired RAF Fighter Controller Freddie Wimbledon. Wimbledon said he had been on duty at RAF Neatishead when USAF personnel reported a fast-moving blip at Lakenheath; he said the object was seen on RAF radar and that Fighter Command ordered a Venom interception. In that version, the Venom pilot called “Contact”, then “Judy”, meaning the radar/navigator had the target on airborne radar, before losing it and being told the target was behind him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-This is also where the air-defence puzzle becomes a records puzzle. Wimbledon’s account says those involved were later questioned by a senior Fighter Command officer and warned to keep the matter secret. The National Archives transcript says that when Dr David Clarke asked the MoD about the incident in 2001, an archive search found that the records of the incident had been lost or destroyed. That does not prove a cover-up; military records from the period are often incomplete. But it does mean the British side of the record cannot be checked in the way a reader would want. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+This is also where the air-defence puzzle becomes a records puzzle. Wimbledon’s account says those involved were later questioned by a senior Fighter Command officer and warned to keep the matter secret. The National Archives transcript says that when Dr David Clarke asked the MoD about the incident in 2001, an archive search found that the records of the incident had been lost or destroyed. That does not prove a cover-up; military records from the period are often incomplete. But it does mean the British side of the record cannot be checked in the way a reader would want.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-Later research complicated the fighter story further. Modern summaries of the Lakenheath Collaboration research describe interviews with surviving Venom aircrew that did not fully support the dramatic “tail-chase” version. In that later account, the pilots and navigators remembered the radar contacts as much less impressive, with no strong recollection of a target intelligently manoeuvring behind the aircraft. That does not erase the contemporary teletype and controller accounts, but it does weaken the simplest popular version: “RAF pilot chased by UFO over Suffolk” is too neat for the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1956-lakenheath-bentwaters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1956 lakenheath bentwaters</span><span class="citation-popover-snippet">1956 lakenheath bentwaters</span></span></span>
+Later research complicated the fighter story further. Modern summaries of the Lakenheath Collaboration research describe interviews with surviving Venom aircrew that did not fully support the dramatic “tail-chase” version. In that later account, the pilots and navigators remembered the radar contacts as much less impressive, with no strong recollection of a target intelligently manoeuvring behind the aircraft. That does not erase the contemporary teletype and controller accounts, but it does weaken the simplest popular version: “RAF pilot chased by UFO over Suffolk” is too neat for the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1956-lakenheath-bentwaters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1956 lakenheath bentwaters</span><span class="citation-popover-snippet">1956 lakenheath bentwaters</span></span></span>
 
 
 <img src="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-2-dark.svg" | relative_url }}" alt="Lakenheath illustration 2" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors, radar effects and missing records
 
-The most common natural explanation begins with the Perseids. The night was clear, and witnesses themselves noted an unusual number of shooting stars. Some brief visual sightings could certainly have been meteors, especially if observers were primed by radar reports and base rumours. But the Condon Report also noted J. Allen Hynek’s objection: if observers were already aware of many shooting stars, that could imply they were distinguishing the reported objects from ordinary meteors. Meteors also do not normally stop, reverse, merge, or appear to track a fighter on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+The most common natural explanation begins with the Perseids. The night was clear, and witnesses themselves noted an unusual number of shooting stars. Some brief visual sightings could certainly have been meteors, especially if observers were primed by radar reports and base rumours. But the Condon Report also noted J. Allen Hynek’s objection: if observers were already aware of many shooting stars, that could imply they were distinguishing the reported objects from ordinary meteors. Meteors also do not normally stop, reverse, merge, or appear to track a fighter on radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
-Radar effects are the stronger sceptical line. Anomalous propagation occurs when atmospheric layers bend radar beams and create false or displaced returns. The Condon analysis accepted that some details, including a target apparently disappearing near Bentwaters and reappearing on the other side, were suggestive of anomalous propagation. It also noted that clear weather could favour atmospheric stratification. However, the same analysis found the overall radar behaviour difficult to explain that way, especially the continuous and consistent Lakenheath movements and the reported target that followed the interceptor before stopping again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+Radar effects are the stronger sceptical line. Anomalous propagation occurs when atmospheric layers bend radar beams and create false or displaced returns. The Condon analysis accepted that some details, including a target apparently disappearing near Bentwaters and reappearing on the other side, were suggestive of anomalous propagation. It also noted that clear weather could favour atmospheric stratification. However, the same analysis found the overall radar behaviour difficult to explain that way, especially the continuous and consistent Lakenheath movements and the reported target that followed the interceptor before stopping again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
-A related explanation is equipment fault, especially involving Lakenheath’s moving-target indication system. Sceptics such as Philip J. Klass argued that a radar malfunction, combined with Perseid meteors and misperception, could account for the case. The problem is that a single faulty radar set does not easily explain the full chain: Bentwaters GCA, Lakenheath GCA, Lakenheath radar traffic control, ground witnesses, and the claimed airborne radar contact. The pro-UFO problem is the mirror image: if the later aircrew interviews are trusted over the controller narrative, the most dramatic part of the case becomes much less robust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
+A related explanation is equipment fault, especially involving Lakenheath’s moving-target indication system. Sceptics such as Philip J. Klass argued that a radar malfunction, combined with Perseid meteors and misperception, could account for the case. The problem is that a single faulty radar set does not easily explain the full chain: Bentwaters GCA, Lakenheath GCA, Lakenheath radar traffic control, ground witnesses, and the claimed airborne radar contact. The pro-UFO problem is the mirror image: if the later aircrew interviews are trusted over the controller narrative, the most dramatic part of the case becomes much less robust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
 
-This leaves the case in an awkward but honest category: unresolved, not proven extraordinary. The Condon Report concluded that conventional or natural explanations could not be ruled out, but seemed unlikely, and that the probability of at least one “genuine UFO” appeared fairly high. Thayer later clarified in the AIAA-linked discussion that “genuine UFO” meant a material flying object that remained unidentified, not necessarily an extraterrestrial vehicle. That distinction matters for a public Suffolk history page: the case is a serious air-defence anomaly, not a confirmed alien encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
+This leaves the case in an awkward but honest category: unresolved, not proven extraordinary. The Condon Report concluded that conventional or natural explanations could not be ruled out, but seemed unlikely, and that the probability of at least one “genuine UFO” appeared fairly high. Thayer later clarified in the AIAA-linked discussion that “genuine UFO” meant a material flying object that remained unidentified, not necessarily an extraterrestrial vehicle. That distinction matters for a public Suffolk history page: the case is a serious air-defence anomaly, not a confirmed alien encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span><span class="citation-popover-snippet">Files Condon Report, Case 2: USAF/RAF Radar Sighting</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UfKwQgmHfII" title="Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer">Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 387.7K &middot; Uploaded: October 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UfKwQgmHfII">Open on YouTube</a></p></div></div></div>
@@ -321,194 +321,194 @@ For readers trying to judge the case today, the most defensible position is this
 <img src="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-3-dark.svg" | relative_url }}" alt="Lakenheath illustration 3" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_lakenheath_bentwater_f1ebd7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Suffolk&#x27;s Radar Mystery Before Rendlesham. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Suffolk&#x27;s Radar Mystery Before Rendlesham. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and aviation witnesses, closely matching the radar and interceptor aspects of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and aviation witnesses, closely matching the radar and interceptor aspects of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers major radar-visual UFO cases and the investigative context surrounding incidents like Lakenheath-Bentwaters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major radar-visual UFO cases and the investigative context surrounding incidents like Lakenheath-Bentwaters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides essential background on official investigations into cases such as the 1956 Suffolk radar mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential background on official investigations into cases such as the 1956 Suffolk radar mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Places the earlier Lakenheath-Bentwaters incident within Suffolk’s wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the earlier Lakenheath-Bentwaters incident within Suffolk’s wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lakenheath-suffolk-s-radar-mystery-before-rendlesham-suffolk-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suffolk-s-radar-mystery-before-rendlesham-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="suffolk-s-radar-mystery-before-rendlesham-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ For readers trying to judge the case today, the most defensible position is this
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ For readers trying to judge the case today, the most defensible position is this
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ For readers trying to judge the case today, the most defensible position is this
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ For readers trying to judge the case today, the most defensible position is this
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ For readers trying to judge the case today, the most defensible position is this
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,123 +714,123 @@ For readers trying to judge the case today, the most defensible position is this
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Case 2: USAF/RAF Radar Sighting  
-   Link: <a href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case02.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case02.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/560813bentwaters_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/560813bentwaters_dir.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: The Lakenheath Case  
-   Link: <a href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/laken.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/laken.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: Open("UFO cncoun1cr II  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: heritage.norfolk.gov.uk  
    Title: Norfolk Heritage Explorer RAF-Neatishead-radar-station  
-   Link: <a href="https://www.heritage.norfolk.gov.uk/record-details?MNF31218-RAF-Neatishead-radar-station=" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.norfolk.gov.uk/record-details?MNF31218-RAF-Neatishead-radar-station=</a>  
+   Link:<a href="https://www.heritage.norfolk.gov.uk/record-details?MNF31218-RAF-Neatishead-radar-station=" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.norfolk.gov.uk/record-details?MNF31218-RAF-Neatishead-radar-station=</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thecoldfile.com  
    Title: 1956 lakenheath bentwaters  
-   Link: <a href="https://www.thecoldfile.com/articles/1956-lakenheath-bentwaters/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1956-lakenheath-bentwaters/</a>  
+   Link:<a href="https://www.thecoldfile.com/articles/1956-lakenheath-bentwaters/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1956-lakenheath-bentwaters/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: RAF Bentwaters  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: RAF Lakenheath  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lakenheath</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lakenheath</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/</a>  
+   Link:<a href="https://www.naa.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnduk.org  
-   Link: <a href="https://cnduk.org/wp-content/uploads/2022/05/Lakenheath.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cnduk.org/wp-content/uploads/2022/05/Lakenheath.pdf</a>  
+   Link:<a href="https://cnduk.org/wp-content/uploads/2022/05/Lakenheath.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cnduk.org/wp-content/uploads/2022/05/Lakenheath.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: framlinghamtown.gov.uk  
    Title: bentwaters cold war museum  
-   Link: <a href="https://www.framlinghamtown.gov.uk/bentwaters-cold-war-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.framlinghamtown.gov.uk/bentwaters-cold-war-museum</a>  
+   Link:<a href="https://www.framlinghamtown.gov.uk/bentwaters-cold-war-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.framlinghamtown.gov.uk/bentwaters-cold-war-museum</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt  
-   Link: <a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us  
-   Link: <a href="https://www.youtube.com/watch?v=1NYCy6YFLp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1NYCy6YFLp8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1NYCy6YFLp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1NYCy6YFLp8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Legendary British Alien Sighting | History's Greatest Mysteries (S6)  
-   Link: <a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens at RAF Bentwaters &amp; Cold War Museum?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happens at RAF Bentwaters &amp; Cold War Museum?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: What happens at RAF Bentwaters & Cold War Museum?  
-   Link: <a href="https://www.youtube.com/watch?v=viEi0F5GyVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viEi0F5GyVQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us - Part 3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=viEi0F5GyVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viEi0F5GyVQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us - Part 3...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956</a>  
+   Link:<a href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g186387-d3295231-Reviews-Bentwaters_Cold_War_Museum-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186387-d3295231-Reviews-Bentwaters_Cold_War_Museum-Woodbridge_Suffolk_East_Anglia_England.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g186387-d3295231-Reviews-Bentwaters_Cold_War_Museum-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186387-d3295231-Reviews-Bentwaters_Cold_War_Museum-Woodbridge_Suffolk_East_Anglia_England.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Bentwaters-Cold-War-Museum-159480594091625/?locale=es_ES" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bentwaters-Cold-War-Museum-159480594091625/?locale=es_ES</a>  
+   Link:<a href="https://www.facebook.com/Bentwaters-Cold-War-Museum-159480594091625/?locale=es_ES" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bentwaters-Cold-War-Museum-159480594091625/?locale=es_ES</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bsb-muenchen.de  
-   Link: <a href="https://www.bsb-muenchen.de/mikro/lit20b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsb-muenchen.de/mikro/lit20b.pdf</a>  
+   Link:<a href="https://www.bsb-muenchen.de/mikro/lit20b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsb-muenchen.de/mikro/lit20b.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: radarmuseum.co.uk  
-   Link: <a href="https://www.radarmuseum.co.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.radarmuseum.co.uk/history/</a>  
+   Link:<a href="https://www.radarmuseum.co.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.radarmuseum.co.uk/history/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: martinshough.com  
-   Link: <a href="https://martinshough.com/aerialphenomena/Lakenheath/background.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/background.htm</a>  
+   Link:<a href="https://martinshough.com/aerialphenomena/Lakenheath/background.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/background.htm</a>  

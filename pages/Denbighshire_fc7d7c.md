@@ -118,9 +118,9 @@ heading_title: What Really Happened in Denbighshire's Skies?
 page_heading_title: What Really Happened in Denbighshire's Skies?
 source_count: 129
 infographic_count: 3
-page_website_name: Denbighshire UFOs
+page_website_name: Denbighshire
 page_banner_line: Balanced local UFO history from Prestatyn Mountain to the Berwyn edge.
-site_website_name: Denbighshire UFOs
+site_website_name: Denbighshire
 site_banner_line: Balanced local UFO history from Prestatyn Mountain to the Berwyn edge.
 site_image_description: A dark Vale of Clwyd hillside under a clear night sky, with distant lights over the coast and the Berwyn uplands on the horizon.
 output_language: English
@@ -689,11 +689,11 @@ image: /assets/images/Denbighshire_fc7d7c-overview-social.jpg
 
 ## Which Denbighshire is meant here?
 
-This page uses **historic Denbighshire** as the main organising geography, because the project’s county index follows the historic-county model. The Wikimedia Commons Denbighshire historic-county map describes the file as showing the historic county of Denbighshire, one of the thirteen historic counties of Wales, and Wikishire’s map notes that its county maps conform to the Historic Counties Standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map Denbighshire.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map Denbighshire.svg</span></span></span>
+This page uses **historic Denbighshire** as the main organising geography, because the project’s county index follows the historic-county model. The Wikimedia Commons Denbighshire historic-county map describes the file as showing the historic county of Denbighshire, one of the thirteen historic counties of Wales, and Wikishire’s map notes that its county maps conform to the Historic Counties Standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map Denbighshire.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map Denbighshire.svg</span></span></span>
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Denbighshire&#x27;s..." loading="eager" decoding="sync" fetchpriority="high">
-That matters because UFO reports rarely respect administrative boundaries. Historic Denbighshire included places now outside the modern Denbighshire council area, while the present council area includes Rhyl and Prestatyn and runs through the Vale of Clwyd towards Corwen and Llangollen. DataMapWales explains that the thirteen historic Welsh counties remained in use until the 1974 local government changes, with later unitary authorities replacing the 1974 counties in 1996. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[DataMap Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span><span class="citation-popover-snippet">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span></span></span>
+That matters because UFO reports rarely respect administrative boundaries. Historic Denbighshire included places now outside the modern Denbighshire council area, while the present council area includes Rhyl and Prestatyn and runs through the Vale of Clwyd towards Corwen and Llangollen. DataMapWales explains that the thirteen historic Welsh counties remained in use until the 1974 local government changes, with later unitary authorities replacing the 1974 counties in 1996.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[DataMap Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span><span class="citation-popover-snippet">Data Map Wales Historic County Boundaries of Wales &#124; Data Map Wales</span></span></span>
 
 For UFO history, this means three things. First, older newspaper and police references may use Denbighshire, Clwyd, North Wales, Wrexham, Flintshire or modern Denbighshire in different ways. Second, the Berwyn Mountains case belongs naturally in any North Wales UFO discussion, but its exact centre is often placed around Llandrillo and Bala, so it should be treated as a **borderland case**, not simply claimed as “a Denbighshire incident”. Third, sightings near Prestatyn, Denbigh, Llangollen, Wrexham and the Dee valley may be part of the same media and police ecosystem even when modern boundaries differ.
 
@@ -701,23 +701,23 @@ For UFO history, this means three things. First, older newspaper and police refe
 
 The local record is scattered rather than concentrated. North Wales Police material and local press coverage show reports from places including Prestatyn, Denbigh, Llangollen and Wrexham, but the surviving public descriptions are usually short and rarely include the kind of corroboration that would make a case strong: exact timings, multiple independent witnesses, photographs with provenance, radar data, aircraft checks, or a documented investigation trail.
 
-A 2013 local press account of North Wales Police “X-files” said officers had taken thirteen UFO reports in recent years, with locations including Prestatyn, Denbigh, Llangollen and Wrexham. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales police reveal ufo 2701718</span><span class="citation-popover-snippet">north wales police reveal ufo 2701718</span></span></span> A British Newspaper Archive search result also preserves an older Denbighshire newspaper snippet about a Prestatyn woman and her daughter reporting a mysterious object over Prestatyn Mountain, but the accessible snippet is too brief to treat as a fully investigated case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+A 2013 local press account of North Wales Police “X-files” said officers had taken thirteen UFO reports in recent years, with locations including Prestatyn, Denbigh, Llangollen and Wrexham.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales police reveal ufo 2701718</span><span class="citation-popover-snippet">north wales police reveal ufo 2701718</span></span></span> A British Newspaper Archive search result also preserves an older Denbighshire newspaper snippet about a Prestatyn woman and her daughter reporting a mysterious object over Prestatyn Mountain, but the accessible snippet is too brief to treat as a fully investigated case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-Denbigh itself has its own small cluster of modern UFO folklore. A 2016 North Wales Live article reported “UFO close encounters” linked to the former Denbigh hospital site and noted that claims had accumulated around the location over decades. The accessible snippet names the case type and setting, but without enough primary evidence to assess the reports beyond saying that they form part of local UFO storytelling rather than a proven incident record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales x files ufo 11744694</span><span class="citation-popover-snippet">north wales x files ufo 11744694</span></span></span>
+Denbigh itself has its own small cluster of modern UFO folklore. A 2016 North Wales Live article reported “UFO close encounters” linked to the former Denbigh hospital site and noted that claims had accumulated around the location over decades. The accessible snippet names the case type and setting, but without enough primary evidence to assess the reports beyond saying that they form part of local UFO storytelling rather than a proven incident record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales x files ufo 11744694</span><span class="citation-popover-snippet">north wales x files ufo 11744694</span></span></span>
 
-The more recent public record also includes ordinary contemporary sky confusions. North Wales Live reported a line of lights moving across the North Wales sky in December 2019 that sparked UFO speculation; follow-up reporting said experts identified the lights as SpaceX Starlink satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo speculation line lights moves 17486720</span><span class="citation-popover-snippet">ufo speculation line lights moves 17486720</span></span></span> This is important for Denbighshire because the county’s coast, hills and open valleys give many residents clear sightlines across the sky, making satellite trains, aircraft approaches, meteors and drones easy to notice and easy to misinterpret.
+The more recent public record also includes ordinary contemporary sky confusions. North Wales Live reported a line of lights moving across the North Wales sky in December 2019 that sparked UFO speculation; follow-up reporting said experts identified the lights as SpaceX Starlink satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo speculation line lights moves 17486720</span><span class="citation-popover-snippet">ufo speculation line lights moves 17486720</span></span></span> This is important for Denbighshire because the county’s coast, hills and open valleys give many residents clear sightlines across the sky, making satellite trains, aircraft approaches, meteors and drones easy to notice and easy to misinterpret.
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Denbighshire&#x27;s... illustration 1" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Berwyn Mountains case: close enough to matter, too complex to simplify
 
-No North Wales UFO page can ignore the Berwyn Mountains incident of 23 January 1974, but it needs careful handling in a Denbighshire article. The alleged crash is usually centred around Llandrillo and the Berwyn range, which puts it in a cross-boundary North Wales landscape rather than neatly inside one county box. Historic Denbighshire’s southern uplands include Cadair Berwyn and the wider Berwyn edge, so the case is relevant as a neighbouring and overlapping regional landmark, not as a cleanly bounded Denbighshire-only event. Wikishire describes Denbighshire’s county top as the south summit of Cadair Berwyn, with the county’s highest mountains in that southern hill country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Denbighshire</span><span class="citation-popover-snippet">Wikishire Denbighshire</span></span></span>
+No North Wales UFO page can ignore the Berwyn Mountains incident of 23 January 1974, but it needs careful handling in a Denbighshire article. The alleged crash is usually centred around Llandrillo and the Berwyn range, which puts it in a cross-boundary North Wales landscape rather than neatly inside one county box. Historic Denbighshire’s southern uplands include Cadair Berwyn and the wider Berwyn edge, so the case is relevant as a neighbouring and overlapping regional landmark, not as a cleanly bounded Denbighshire-only event. Wikishire describes Denbighshire’s county top as the south summit of Cadair Berwyn, with the county’s highest mountains in that southern hill country.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Denbighshire</span><span class="citation-popover-snippet">Wikishire Denbighshire</span></span></span>
 
-The basic story is striking. Locals heard a loud bang and saw a bright light over the Berwyn Mountains on the evening of 23 January 1974. Later UFO writers and witnesses described the event as a possible crash, sometimes calling it a Welsh answer to Roswell. WalesOnline’s account of the released Ministry of Defence files says an RAF Valley search-and-rescue team was sent to look for wreckage, but found nothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+The basic story is striking. Locals heard a loud bang and saw a bright light over the Berwyn Mountains on the evening of 23 January 1974. Later UFO writers and witnesses described the event as a possible crash, sometimes calling it a Welsh answer to Roswell. WalesOnline’s account of the released Ministry of Defence files says an RAF Valley search-and-rescue team was sent to look for wreckage, but found nothing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
-The main official and scientific explanation is not a single neat cause, but a coincidence: an earthquake plus a bright meteor. R. M. W. Musson of the British Geological Survey described the event as a magnitude 3.5 ML earthquake that shook much of North Wales, with prominent atmospheric lights observed around the same time; because nothing was found after searches, some people moved from an aircraft-crash or meteorite-impact idea to a UFO-crash interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span> WalesOnline’s account of the declassified MoD material similarly says the documents suggested a combination of an earthquake and a meteor, while noting that some witnesses and UFO researchers were not convinced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+The main official and scientific explanation is not a single neat cause, but a coincidence: an earthquake plus a bright meteor. R. M. W. Musson of the British Geological Survey described the event as a magnitude 3.5 ML earthquake that shook much of North Wales, with prominent atmospheric lights observed around the same time; because nothing was found after searches, some people moved from an aircraft-crash or meteorite-impact idea to a UFO-crash interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span> WalesOnline’s account of the declassified MoD material similarly says the documents suggested a combination of an earthquake and a meteor, while noting that some witnesses and UFO researchers were not convinced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
-The lingering difficulty is witness testimony. Some accounts, including that of district nurse Pat Evans, described a glowing object or lights on the mountainside after the bang. Sceptical researchers have pointed to the meteor, the tremor, confusion about search lights, and later embellishment; UFO proponents argue that the official explanation does not cover all witness details. WalesOnline quotes sceptical UFO investigator David Clarke as saying the case is among the most intriguing in Wales and that some elements remain hard to explain fully, while also reporting more dramatic claims from UFO researcher Russ Kellett that are not independently demonstrated in the cited report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+The lingering difficulty is witness testimony. Some accounts, including that of district nurse Pat Evans, described a glowing object or lights on the mountainside after the bang. Sceptical researchers have pointed to the meteor, the tremor, confusion about search lights, and later embellishment; UFO proponents argue that the official explanation does not cover all witness details. WalesOnline quotes sceptical UFO investigator David Clarke as saying the case is among the most intriguing in Wales and that some elements remain hard to explain fully, while also reporting more dramatic claims from UFO researcher Russ Kellett that are not independently demonstrated in the cited report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
 The fairest reading is therefore: **the Berwyn incident is important to Denbighshire’s UFO context, but not because it proves a crashed craft.** It matters because it shows how an unusual natural event, night-time hill geography, police and RAF activity, later media retelling and witness certainty can combine into a durable regional mystery.
 
@@ -728,15 +728,15 @@ The fairest reading is therefore: **the Berwyn incident is important to Denbighs
 
 Denbighshire has several features that make unusual sky reports more likely to be noticed and more likely to spread. The Vale of Clwyd gives broad north-south views. The coast around Rhyl and Prestatyn opens towards the Irish Sea. The Dee valley and Llangollen area sit under routes where aircraft, satellites, meteors and drones can be seen against dark hills. The southern uplands also link Denbighshire to the larger Berwyn and Bala mythology.
 
-There is also a real military and radar backdrop, though it should not be overstated. Prestatyn Mountain had an RAF radar history: Subterranea Britannica describes Prestatyn as a former ROTOR radar station, with surviving structures including a Type 14 radar plinth and the R11 operations block. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-snippet">Open source on subbrit.org.uk.</span></span></span> This does not mean local UFO reports were tracked or hidden there, but it does explain why radar, Cold War defence and “what was the RAF watching?” questions feel locally plausible to readers.
+There is also a real military and radar backdrop, though it should not be overstated. Prestatyn Mountain had an RAF radar history: Subterranea Britannica describes Prestatyn as a former ROTOR radar station, with surviving structures including a Type 14 radar plinth and the R11 operations block.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-snippet">Open source on subbrit.org.uk.</span></span></span> This does not mean local UFO reports were tracked or hidden there, but it does explain why radar, Cold War defence and “what was the RAF watching?” questions feel locally plausible to readers.
 
-The broader UK official context also matters. The National Archives’ UFO guide says the MoD kept UFO records for decades and that many early files were destroyed under a policy that treated them as transitory; surviving files from later decades were reviewed for release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The National Archives briefing material also makes clear that “UFO” in military use did not mean “alien spacecraft”; it meant an observed aerial phenomenon that had not been identified, with common explanations including bright stars and planets, meteors, artificial satellites, balloons, unusual aircraft angles and space debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The broader UK official context also matters. The National Archives’ UFO guide says the MoD kept UFO records for decades and that many early files were destroyed under a policy that treated them as transitory; surviving files from later decades were reviewed for release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The National Archives briefing material also makes clear that “UFO” in military use did not mean “alien spacecraft”; it meant an observed aerial phenomenon that had not been identified, with common explanations including bright stars and planets, meteors, artificial satellites, balloons, unusual aircraft angles and space debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 ## What recent police records do and do not show
 
-A 2025 North Wales Police Freedom of Information disclosure is useful because it shows how broad modern “UFO/UAP” searches can be. The request asked for 2024 records containing terms such as UFO, UAP, UAV, lights in the sky, aliens, drones and orbs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span> The results include some recognisable sky-report material, such as “blue flashing lights in the sky”, “UFO’s hovering over the ski slope”, “about 7 orange lights high in the sky”, and “reporting lights in the sky”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
+A 2025 North Wales Police Freedom of Information disclosure is useful because it shows how broad modern “UFO/UAP” searches can be. The request asked for 2024 records containing terms such as UFO, UAP, UAV, lights in the sky, aliens, drones and orbs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span> The results include some recognisable sky-report material, such as “blue flashing lights in the sky”, “UFO’s hovering over the ski slope”, “about 7 orange lights high in the sky”, and “reporting lights in the sky”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
 
-But the same disclosure also includes many entries that are plainly not straightforward UFO sightings: reports linked to fraud, road traffic incidents, concern-for-safety calls, public-order categories, mental-health comments, threats, and repeated references to aliens in distressing or confused contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span> That is a crucial caution for readers. Police records are not a clean UFO database. They are operational records generated for public safety, safeguarding, crime, welfare and incident management. A keyword match for “aliens” or “UFO” may tell us that a caller used those words, not that officers investigated an unexplained aerial object.
+But the same disclosure also includes many entries that are plainly not straightforward UFO sightings: reports linked to fraud, road traffic incidents, concern-for-safety calls, public-order categories, mental-health comments, threats, and repeated references to aliens in distressing or confused contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span> That is a crucial caution for readers. Police records are not a clean UFO database. They are operational records generated for public safety, safeguarding, crime, welfare and incident management. A keyword match for “aliens” or “UFO” may tell us that a caller used those words, not that officers investigated an unexplained aerial object.
 
 This is one reason Denbighshire’s UFO history should not be measured simply by counting reports. A single well-documented aircraft or radar case would matter more than dozens of vague “lights in the sky” calls. At present, the public Denbighshire record is interesting but uneven: enough to show recurring local reports, not enough to establish a major unresolved county-level case.
 
@@ -746,22 +746,22 @@ This is one reason Denbighshire’s UFO history should not be measured simply by
 
 The strongest sceptical explanations for Denbighshire reports are not dismissive guesses; they are patterns repeatedly seen in the available material.
 
-**Satellites and Starlink trains.** North Wales reports of lines of lights have already been linked in local coverage to Starlink satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo speculation line lights moves 17486720</span><span class="citation-popover-snippet">ufo speculation line lights moves 17486720</span></span></span> This explanation is especially relevant for reports describing multiple lights moving in formation, fading in sequence, or travelling silently across a wide part of the sky.
+**Satellites and Starlink trains.** North Wales reports of lines of lights have already been linked in local coverage to Starlink satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">ufo speculation line lights moves 17486720</span><span class="citation-popover-snippet">ufo speculation line lights moves 17486720</span></span></span> This explanation is especially relevant for reports describing multiple lights moving in formation, fading in sequence, or travelling silently across a wide part of the sky.
 
-**Meteors and fireballs.** The Berwyn case shows how a bright meteor seen across a wide region can become localised in memory as something “coming down” nearby. WalesOnline’s account of the MoD files says other UK witnesses that night reported a bright light in the north-west seeming to fall towards the horizon, while independent astronomical work identified a fireball visible over much of the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+**Meteors and fireballs.** The Berwyn case shows how a bright meteor seen across a wide region can become localised in memory as something “coming down” nearby. WalesOnline’s account of the MoD files says other UK witnesses that night reported a bright light in the north-west seeming to fall towards the horizon, while independent astronomical work identified a fireball visible over much of the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
-**Aircraft and military training.** The MoD’s approach to many UK reports was to ask whether there were defence implications, not to solve every sighting for public curiosity. In one WalesOnline summary of released files, the MoD suggested a 1996 low-flying triangular-craft report in Mid and West Wales might have involved military aircraft on low-flying exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span> That does not explain every Denbighshire claim, but it is a plausible category in a county within wider North Wales airspace.
+**Aircraft and military training.** The MoD’s approach to many UK reports was to ask whether there were defence implications, not to solve every sighting for public curiosity. In one WalesOnline summary of released files, the MoD suggested a 1996 low-flying triangular-craft report in Mid and West Wales might have involved military aircraft on low-flying exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Wales Online Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span> That does not explain every Denbighshire claim, but it is a plausible category in a county within wider North Wales airspace.
 
-**Drones, welfare calls and ambiguous language.** The North Wales Police FOI wording included drones and orbs as search terms, and the returned entries mixed sky descriptions with welfare and crime categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span> Modern UFO research has to separate a genuine observational claim from an incident where “aliens” or “UFOs” are part of a caller’s distress, humour, belief system or unrelated complaint.
+**Drones, welfare calls and ambiguous language.** The North Wales Police FOI wording included drones and orbs as search terms, and the returned entries mixed sky descriptions with welfare and crime categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span> Modern UFO research has to separate a genuine observational claim from an incident where “aliens” or “UFOs” are part of a caller’s distress, humour, belief system or unrelated complaint.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MvG3HP0W1FQ" title="The Welsh &quot;Roswell&quot; UFO Crash (Berwyn UFO Incident)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer">The Welsh &quot;Roswell&quot; UFO Crash (Berwyn UFO Incident)</a></p><p class="youtube-embed-meta">Channel: Sort Of Interesting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MvG3HP0W1FQ">Open on YouTube</a></p></div></div></div>
 
 ## How strong is the Denbighshire evidence?
 
-The evidence is strongest when it is modestly stated. There is credible evidence that people in and around Denbighshire have reported unexplained lights and objects over many years. There is credible evidence that police and local media have recorded some of those reports. There is strong evidence that the nearby Berwyn incident became a landmark North Wales UFO story, and strong scientific evidence that an earthquake and meteor are central to that event’s explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post+2Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales police reveal ufo 2701718</span><span class="citation-popover-snippet">north wales police reveal ufo 2701718</span></span></span>
+The evidence is strongest when it is modestly stated. There is credible evidence that people in and around Denbighshire have reported unexplained lights and objects over many years. There is credible evidence that police and local media have recorded some of those reports. There is strong evidence that the nearby Berwyn incident became a landmark North Wales UFO story, and strong scientific evidence that an earthquake and meteor are central to that event’s explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[dailypost.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales police reveal ufo 2701718</span><span class="citation-popover-snippet">north wales police reveal ufo 2701718</span></span></span>
 
-What is missing is equally important. There is no public, well-corroborated Denbighshire case with the evidential weight of multiple independent technical records, clear imagery, primary witness statements, aviation logs and a formal unresolved official conclusion. The Denbigh hospital and Prestatyn Mountain stories are locally interesting but, from accessible public material, too thin to rank as landmark cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales x files ufo 11744694</span><span class="citation-popover-snippet">north wales x files ufo 11744694</span></span></span>
+What is missing is equally important. There is no public, well-corroborated Denbighshire case with the evidential weight of multiple independent technical records, clear imagery, primary witness statements, aviation logs and a formal unresolved official conclusion. The Denbigh hospital and Prestatyn Mountain stories are locally interesting but, from accessible public material, too thin to rank as landmark cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales x files ufo 11744694</span><span class="citation-popover-snippet">north wales x files ufo 11744694</span></span></span>
 
 The county’s UFO value therefore lies less in a single “best case” and more in its position within North Wales: a place where historic county boundaries, mountain folklore, Cold War radar remains, open skies, police records and media retellings meet. Denbighshire is a reminder that most UFO history is not made from proof of extraordinary visitors. It is made from reports that sit somewhere between observation, memory, environment, technology and interpretation.
 
@@ -772,7 +772,7 @@ The county’s UFO value therefore lies less in a single “best case” and mor
 
 A stronger Denbighshire case would need more than a vivid story. Useful evidence would include an exact date and time, a precise location, original witness statements, independent witnesses who did not influence each other, photographs or video with clear provenance, aircraft and satellite checks, weather data, and any police, RAF, airport or Civil Aviation Authority record created at the time.
 
-For older reports, the most promising route is archival rather than speculative: local newspapers, Denbighshire Archives, North Wales Police disclosures, National Archives UFO files, and aviation records where a report might have had defence or air-safety implications. The National Archives cautions that early MoD UFO files were often destroyed before policy changed, so absence of a file is not always meaningful; but where files do survive, they usually need to be read as public correspondence and defence-screening records, not as secret proof of exotic events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+For older reports, the most promising route is archival rather than speculative: local newspapers, Denbighshire Archives, North Wales Police disclosures, National Archives UFO files, and aviation records where a report might have had defence or air-safety implications. The National Archives cautions that early MoD UFO files were often destroyed before policy changed, so absence of a file is not always meaningful; but where files do survive, they usually need to be read as public correspondence and defence-screening records, not as secret proof of exotic events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That leaves Denbighshire with a balanced verdict: **active in sightings, rich in regional context, but not home to a publicly proven major UFO incident.** Its most useful role in the wider UK county project is to show how local UFO history should be read carefully across boundaries, sources and explanations rather than reduced to either “aliens” or “nothing happened”.
 
@@ -780,194 +780,194 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
 <img src="{{ "/assets/images/Denbighshire_fc7d7c-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Denbighshire&#x27;s... illustration 3" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Denbighshire&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Denbighshire&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">A strong general UFO book suitable for a county-level overview page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A strong general UFO book suitable for a county-level overview page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides contemporary context for evaluating sightings, reports, and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contemporary context for evaluating sightings, reports, and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for understanding recurring local sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for understanding recurring local sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Brings a British government and Ministry of Defence perspective relevant to UK sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Brings a British government and Ministry of Defence perspective relevant to UK sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="what-really-happened-in-denbighshires-what-really-happened-in-denbighshire-s-skies-denbighshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -983,7 +983,7 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1003,7 +1003,7 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1035,7 +1035,7 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1087,7 +1087,7 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1132,7 +1132,7 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1173,270 +1173,270 @@ That leaves Denbighshire with a balanced verdict: **active in sightings, rich in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Wales Historic Counties map Denbighshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nora.nerc.ac.uk  
    Title: NERC Open Research Archive  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: northwales.police.uk  
    Title: North Wales Police  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2025/2025-133-unidentified-flying-objectunidentified-aerial-phenomena.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.sky.com  
    Title: starlink satellites leads to ufo reports 12297446  
-   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
+   Link:<a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
+   Link:<a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: datamap.gov.wales  
    Title: Data Map Wales Historic County Boundaries of Wales | Data Map Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dailypost.co.uk  
    Title: north wales police reveal ufo 2701718  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-police-reveal-ufo-2701718</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: walesonline.co.uk  
    Title: [police reports](&#123;&#123; 'police-reports-9a2bff/' | relative_url &#125;&#125;) ufo sightings 1839754  
-   Link: <a href="https://www.walesonline.co.uk/news/local-news/police-reports-ufo-sightings-1839754" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/local-news/police-reports-ufo-sightings-1839754</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/local-news/police-reports-ufo-sightings-1839754" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/local-news/police-reports-ufo-sightings-1839754</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dailypost.co.uk  
    Title: north wales x files ufo 11744694  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-x-files-ufo-11744694</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dailypost.co.uk  
    Title: ufo speculation line lights moves 17486720  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-speculation-line-lights-moves-17486720</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dailypost.co.uk  
    Title: mystery line lights moves across 17490020  
-   Link: <a href="https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020?token=-1714256868" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020?token=-1714256868</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020?token=-1714256868" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020?token=-1714256868</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Denbighshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Denbighshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Denbighshire</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: walesonline.co.uk  
    Title: Wales Online Released files cast light on famous Welsh ‘UFO’ sighting  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: subbrit.org.uk  
-   Link: <a href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/information-management/manage-information/places-of-deposit/place-of-deposit.php?id=209" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/places-of-deposit/place-of-deposit.php?id=209</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/information-management/manage-information/places-of-deposit/place-of-deposit.php?id=209" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/places-of-deposit/place-of-deposit.php?id=209</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177905516269509/posts/2086042202122488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/2086042202122488/</a>  
+   Link:<a href="https://www.facebook.com/groups/177905516269509/posts/2086042202122488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/2086042202122488/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denbighshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denbighshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/ROTOR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ROTOR</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/ROTOR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ROTOR</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dailypost.co.uk  
    Title: mysterious 50ft spinning disc north 30609155  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mysterious-50ft-spinning-disc-north-30609155</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dailypost.co.uk  
    Title: north wales ufo hotspots disclosed 18252255  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dailypost.co.uk  
    Title: bus passenger walks mile back 33035326  
-   Link: <a href="https://www.dailypost.co.uk/whats-on/bus-passenger-walks-mile-back-33035326" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/whats-on/bus-passenger-walks-mile-back-33035326</a>  
+   Link:<a href="https://www.dailypost.co.uk/whats-on/bus-passenger-walks-mile-back-33035326" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/whats-on/bus-passenger-walks-mile-back-33035326</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dailypost.co.uk  
    Title: ufo light seen across north 21759455  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/ufo-light-seen-across-north-21759455</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dailypost.co.uk  
    Title: ufo experts confirm full official 23236432  
-   Link: <a href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/local-news/ufo-experts-confirm-full-official-23236432</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dailypost.co.uk  
    Title: xmas strangest things spotted skies 19428637  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/xmas-strangest-things-spotted-skies-19428637</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dailypost.co.uk  
    Title: mega constellation starlink satellites sparked 17502716  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/mega-constellation-starlink-satellites-sparked-17502716" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mega-constellation-starlink-satellites-sparked-17502716</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/mega-constellation-starlink-satellites-sparked-17502716" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/mega-constellation-starlink-satellites-sparked-17502716</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dailypost.co.uk  
    Title: mystery line lights moves across 17490020  
-   Link: <a href="https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/uk-world-news/mystery-line-lights-moves-across-17490020</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
    Title: reqjan11 2.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: subbrit.org.uk  
-   Link: <a href="https://www.subbrit.org.uk/categories/radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/categories/radar/</a>  
+   Link:<a href="https://www.subbrit.org.uk/categories/radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/categories/radar/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: subbrit.org.uk  
-   Link: <a href="https://www.subbrit.org.uk/sites/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: walesonline.co.uk  
    Title: ufos wales police reveal locations 1837150  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: walesonline.co.uk  
    Title: mystery line lights moves across 17490020  
-   Link: <a href="https://www.walesonline.co.uk/news/uk-news/mystery-line-lights-moves-across-17490020" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/uk-news/mystery-line-lights-moves-across-17490020</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/uk-news/mystery-line-lights-moves-across-17490020" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/uk-news/mystery-line-lights-moves-across-17490020</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: denbighshire.gov.uk  
-   Link: <a href="https://www.denbighshire.gov.uk/en/jobs-and-employees/social-care/denbighshire-a-place-to-live.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.denbighshire.gov.uk/en/jobs-and-employees/social-care/denbighshire-a-place-to-live.aspx</a>  
+   Link:<a href="https://www.denbighshire.gov.uk/en/jobs-and-employees/social-care/denbighshire-a-place-to-live.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.denbighshire.gov.uk/en/jobs-and-employees/social-care/denbighshire-a-place-to-live.aspx</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: maps.denbighshire.gov.uk  
    Title: denbighshire.gov.uk My Maps  
-   Link: <a href="https://maps.denbighshire.gov.uk/MyDenbighshire.aspx?tab=1" target="_blank" rel="noopener noreferrer nofollow">https://maps.denbighshire.gov.uk/MyDenbighshire.aspx?tab=1</a>  
+   Link:<a href="https://maps.denbighshire.gov.uk/MyDenbighshire.aspx?tab=1" target="_blank" rel="noopener noreferrer nofollow">https://maps.denbighshire.gov.uk/MyDenbighshire.aspx?tab=1</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: denbighshire.gov.uk  
-   Link: <a href="https://www.denbighshire.gov.uk/en/leisure-and-tourism/museums-and-historic-houses/museums-and-historic-houses.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.denbighshire.gov.uk/en/leisure-and-tourism/museums-and-historic-houses/museums-and-historic-houses.aspx</a>  
+   Link:<a href="https://www.denbighshire.gov.uk/en/leisure-and-tourism/museums-and-historic-houses/museums-and-historic-houses.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.denbighshire.gov.uk/en/leisure-and-tourism/museums-and-historic-houses/museums-and-historic-houses.aspx</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: coflein.gov.uk  
-   Link: <a href="https://coflein.gov.uk/en/site/310203/details/RHOSSILI%2BDOWN%2BRADAR%2BSTATION/" target="_blank" rel="noopener noreferrer nofollow">https://coflein.gov.uk/en/site/310203/details/RHOSSILI%2BDOWN%2BRADAR%2BSTATION/</a>  
+   Link:<a href="https://coflein.gov.uk/en/site/310203/details/RHOSSILI%2BDOWN%2BRADAR%2BSTATION/" target="_blank" rel="noopener noreferrer nofollow">https://coflein.gov.uk/en/site/310203/details/RHOSSILI%2BDOWN%2BRADAR%2BSTATION/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: northeastwales.wales  
-   Link: <a href="https://www.northeastwales.wales/visit-north-east-wales/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.northeastwales.wales/visit-north-east-wales/denbighshire/</a>  
+   Link:<a href="https://www.northeastwales.wales/visit-north-east-wales/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.northeastwales.wales/visit-north-east-wales/denbighshire/</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: The Welsh "Roswell" UFO Crash (Berwyn UFO Incident)  
-   Link: <a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MvG3HP0W1FQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 528: The Berwyn Mountain UFO Incident - Roswelsh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MvG3HP0W1FQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 528: The Berwyn Mountain UFO Incident - Roswelsh...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Episode 528: The Berwyn Mountain UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=a9g1QPIE5XM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9g1QPIE5XM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unusual encounter in the Berwyn Mountains...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a9g1QPIE5XM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9g1QPIE5XM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unusual encounter in the Berwyn Mountains...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: sufon.co.uk  
-   Link: <a href="https://www.sufon.co.uk/berwyn-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/berwyn-mountain</a>  
+   Link:<a href="https://www.sufon.co.uk/berwyn-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/berwyn-mountain</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: mythslegendsodditiesnorth-east-wales.co.uk  
-   Link: <a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
+   Link:<a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: llangollen.org.uk  
-   Link: <a href="https://www.llangollen.org.uk/index.php/information/emergencies-facilities/item/168-denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://www.llangollen.org.uk/index.php/information/emergencies-facilities/item/168-denbighshire</a>  
+   Link:<a href="https://www.llangollen.org.uk/index.php/information/emergencies-facilities/item/168-denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://www.llangollen.org.uk/index.php/information/emergencies-facilities/item/168-denbighshire</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/denbighshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/denbighshire/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: antiquemaps.com  
-   Link: <a href="https://www.antiquemaps.com/uk/wales/northwales/denbigh/" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemaps.com/uk/wales/northwales/denbigh/</a>  
+   Link:<a href="https://www.antiquemaps.com/uk/wales/northwales/denbigh/" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemaps.com/uk/wales/northwales/denbigh/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/denbighshire-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/denbighshire-map.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/denbighshire-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/denbighshire-map.html</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Denbighshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Denbighshire</a>  

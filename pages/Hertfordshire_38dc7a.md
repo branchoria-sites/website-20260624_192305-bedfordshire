@@ -118,9 +118,9 @@ heading_title: What Really Happened in Hertfordshire Skies?
 page_heading_title: What Really Happened in Hertfordshire Skies?
 source_count: 131
 infographic_count: 3
-page_website_name: Hertfordshire UFOs
+page_website_name: Hertfordshire
 page_banner_line: Balanced local UFO history across sightings, records, witnesses and likely explanations.
-site_website_name: Hertfordshire UFOs
+site_website_name: Hertfordshire
 site_banner_line: Balanced local UFO history across sightings, records, witnesses and likely explanations.
 site_image_description: A quiet Hertfordshire garden at night with a bright unexplained light above distant rooftops and aircraft lights on the horizon.
 output_language: English
@@ -689,19 +689,19 @@ image: /assets/images/Hertfordshire_38dc7a-overview-social.jpg
 
 ## What Counts as Hertfordshire Here?
 
-This page treats Hertfordshire as the county focus, while recognising that “Hertfordshire” can mean slightly different things depending on the map or archive being used. The project’s geographic frame follows the historic-county approach used by the Wikishire map tradition and the Wikimedia Commons historic counties map, which presents UK counties as long-standing mapped areas rather than modern council units. The Commons file describes the map as showing counties as they existed from the late medieval period until the local government reforms of the late nineteenth century, with Wikishire as a source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+This page treats Hertfordshire as the county focus, while recognising that “Hertfordshire” can mean slightly different things depending on the map or archive being used. The project’s geographic frame follows the historic-county approach used by the Wikishire map tradition and the Wikimedia Commons historic counties map, which presents UK counties as long-standing mapped areas rather than modern council units. The Commons file describes the map as showing counties as they existed from the late medieval period until the local government reforms of the late nineteenth century, with Wikishire as a source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Hertfordshire Skies?" loading="eager" decoding="sync" fetchpriority="high">
-That matters because modern administrative Hertfordshire does not perfectly match historic Hertfordshire. Encyclopaedia Britannica notes that the administrative and historic counties cover slightly different areas: Potters Bar is in the modern county but historically Middlesex, while historic Hertfordshire includes parts of northern and central Barnet now within Greater London. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span> For UFO history, however, rigid boundary lines can be less important than witness location, media market and flight path. A light reported from Stevenage, St Albans or Harpenden clearly belongs in a Hertfordshire reading; a sighting over the London edge, Luton approaches or Essex border may need careful wording.
+That matters because modern administrative Hertfordshire does not perfectly match historic Hertfordshire. Encyclopaedia Britannica notes that the administrative and historic counties cover slightly different areas: Potters Bar is in the modern county but historically Middlesex, while historic Hertfordshire includes parts of northern and central Barnet now within Greater London.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span> For UFO history, however, rigid boundary lines can be less important than witness location, media market and flight path. A light reported from Stevenage, St Albans or Harpenden clearly belongs in a Hertfordshire reading; a sighting over the London edge, Luton approaches or Essex border may need careful wording.
 
 ## The 2009 Cluster in the MoD Logs
 
 The most useful official snapshot for Hertfordshire is the Ministry of Defence’s 2009 UFO report list. It was not an investigation file in the dramatic sense: it was a log of reports sent to the MoD before the UK UFO desk was closed. Even so, it gives named local entries and helps show what witnesses were actually reporting.
 
-One January 2009 entry records a St Albans sighting described simply as something that “lit up the sky” with smoke afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> On 22 August 2009, the same MoD list includes two Hertfordshire reports: at Harpenden, something “tall and thin, like a pencil, square, blue black”; and at Stevenage, “two orbs, flickering lights, sliding across the sky”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These entries are intriguing because they are place-specific and contemporary, but they are also thin: there is no detailed witness interview, no known radar trace, no chain of custody for photographs, and no formal finding that anything extraordinary occurred.
+One January 2009 entry records a St Albans sighting described simply as something that “lit up the sky” with smoke afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> On 22 August 2009, the same MoD list includes two Hertfordshire reports: at Harpenden, something “tall and thin, like a pencil, square, blue black”; and at Stevenage, “two orbs, flickering lights, sliding across the sky”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These entries are intriguing because they are place-specific and contemporary, but they are also thin: there is no detailed witness interview, no known radar trace, no chain of custody for photographs, and no formal finding that anything extraordinary occurred.
 
-The wider 2009 context is important. The National Archives’ UFO highlights guide says MoD sighting reports averaged about 150 per year between 2000 and 2007, doubled in 2008, and reached 643 reports by 30 November 2009. It also notes that this surge was creating an unmanageable workload for the single official responsible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> That national surge makes the Hertfordshire entries part of a broader flap year rather than isolated local proof.
+The wider 2009 context is important. The National Archives’ UFO highlights guide says MoD sighting reports averaged about 150 per year between 2000 and 2007, doubled in 2008, and reached 643 reports by 30 November 2009. It also notes that this surge was creating an unmanageable workload for the single official responsible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> That national surge makes the Hertfordshire entries part of a broader flap year rather than isolated local proof.
 
 A useful reading is that Hertfordshire in 2009 produced the kind of short, sky-light reports common across Britain at the time. The reports are worth preserving, but they are not strong enough on their own to establish anything beyond genuine public puzzlement.
 
@@ -709,17 +709,17 @@ A useful reading is that Hertfordshire in 2009 produced the kind of short, sky-l
 <img src="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Hertfordshire Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kim Wilde’s Hertfordshire Sighting
 
-The best-known Hertfordshire UFO story is the sighting described by singer Kim Wilde. In later interviews, Wilde said that in June 2009 she was in her Hertfordshire garden when she saw an extremely bright light behind cloud, brighter than the moon, moving rapidly back and forth across the sky. A 2023 BBC-reported account, reproduced on Wilde’s official fan archive, says she described a zigzag movement from roughly the “11 o’clock” to “2 o’clock” position and back again, lasting several minutes before disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span></span></span>
+The best-known Hertfordshire UFO story is the sighting described by singer Kim Wilde. In later interviews, Wilde said that in June 2009 she was in her Hertfordshire garden when she saw an extremely bright light behind cloud, brighter than the moon, moving rapidly back and forth across the sky. A 2023 BBC-reported account, reproduced on Wilde’s official fan archive, says she described a zigzag movement from roughly the “11 o’clock” to “2 o’clock” position and back again, lasting several minutes before disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span></span></span>
 
-The case matters locally for three reasons. First, Wilde was a named witness, not an anonymous call-log entry. Second, she connected the sighting to a later cultural work: her 2018 album *Here Come the Aliens* was widely reported as being inspired by the experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Here_Come_the_Aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Here Come the Aliens</span><span class="citation-popover-snippet">Here Come the Aliens</span></span></span> Third, she has returned to the story repeatedly, including in mainstream interviews, which gives the sighting a public afterlife beyond the original event. In a 2013 Guardian interview, she said there were “lots of witnesses” and that the incident had been in the local paper, while still allowing that it might have been “some very clever thing that someone developed somewhere”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Kim Wilde: &#x27;I don&#x27;t see ghosts, but I did see a UFO once</span><span class="citation-popover-snippet">The Guardian Kim Wilde: &#x27;I don&#x27;t see ghosts, but I did see a UFO once</span></span></span>
+The case matters locally for three reasons. First, Wilde was a named witness, not an anonymous call-log entry. Second, she connected the sighting to a later cultural work: her 2018 album *Here Come the Aliens* was widely reported as being inspired by the experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Here_Come_the_Aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Here Come the Aliens</span><span class="citation-popover-snippet">Here Come the Aliens</span></span></span> Third, she has returned to the story repeatedly, including in mainstream interviews, which gives the sighting a public afterlife beyond the original event. In a 2013 Guardian interview, she said there were “lots of witnesses” and that the incident had been in the local paper, while still allowing that it might have been “some very clever thing that someone developed somewhere”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Kim Wilde: &#x27;I don&#x27;t see ghosts, but I did see a UFO once</span><span class="citation-popover-snippet">The Guardian Kim Wilde: &#x27;I don&#x27;t see ghosts, but I did see a UFO once</span></span></span>
 
 The doubts are equally important. A celebrity witness can make a case memorable, but not automatically stronger. The key missing elements are independent timed observations, astronomical checks, flight data, original images with metadata, and a precise public location. Wilde’s sincerity is not the central issue; the evidential problem is that a striking personal memory remains difficult to test years later. As a Hertfordshire UFO case, it is culturally significant and genuinely interesting, but not demonstrative.
 
 ## Older Local Lore: St Albans and Hemel Hempstead
 
-Hertfordshire’s UFO material also reaches backwards into folklore and retrospective interpretation. St Albans appears in lists of early sky wonders because Matthew Paris, the thirteenth-century monk and chronicler based at St Albans Abbey, wrote historical works that included reports of unusual events. Modern UFO lists sometimes present a 1254 “ship in the sky” story from St Albans as a very early UFO-like account. The safer interpretation is that it belongs first to medieval religious and chronicle culture, not to modern UFO evidence. Matthew Paris was indeed a major St Albans chronicler, and his *Chronica Majora* is a key medieval source, but translating a medieval sky omen into a modern spacecraft claim is a large interpretive leap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chronica_Majora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chronica Majora</span><span class="citation-popover-snippet">Chronica Majora</span></span></span>
+Hertfordshire’s UFO material also reaches backwards into folklore and retrospective interpretation. St Albans appears in lists of early sky wonders because Matthew Paris, the thirteenth-century monk and chronicler based at St Albans Abbey, wrote historical works that included reports of unusual events. Modern UFO lists sometimes present a 1254 “ship in the sky” story from St Albans as a very early UFO-like account. The safer interpretation is that it belongs first to medieval religious and chronicle culture, not to modern UFO evidence. Matthew Paris was indeed a major St Albans chronicler, and his *Chronica Majora* is a key medieval source, but translating a medieval sky omen into a modern spacecraft claim is a large interpretive leap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chronica_Majora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chronica Majora</span><span class="citation-popover-snippet">Chronica Majora</span></span></span>
 
-A more grounded local-memory example is the Herts Memories page “UFO Hemel Hempstead”, written by Alan French and hosted within Hertfordshire’s community archive network. French recalls seeing a strange orange ball in 1956 near Bennetts End Secondary Modern School and later seeing a distant green light that he suspected could have been an early satellite. His own wording is notably cautious: he distinguishes UFOs from IFOs, meaning identified flying objects, and says many cases become disappointing once explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmemories.org.uk/content/herts-history/topics/supernatural-and-unexplained-phenomena/ufo-hemel-hempstead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hertsmemories.org.uk">[Herts Memories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hertsmemories.org.uk</span><span class="citation-popover-snippet">Open source on hertsmemories.org.uk.</span></span></span>
+A more grounded local-memory example is the Herts Memories page “UFO Hemel Hempstead”, written by Alan French and hosted within Hertfordshire’s community archive network. French recalls seeing a strange orange ball in 1956 near Bennetts End Secondary Modern School and later seeing a distant green light that he suspected could have been an early satellite. His own wording is notably cautious: he distinguishes UFOs from IFOs, meaning identified flying objects, and says many cases become disappointing once explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmemories.org.uk/content/herts-history/topics/supernatural-and-unexplained-phenomena/ufo-hemel-hempstead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hertsmemories.org.uk">[Herts Memories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hertsmemories.org.uk</span><span class="citation-popover-snippet">Open source on hertsmemories.org.uk.</span></span></span>
 
 That local archive entry is valuable because it captures how UFO stories live in communities: not as courtroom-level evidence, but as remembered experiences, half-explained events and local conversation. It also models a sensible attitude: keep the report, but do not force it into a conclusion.
 
@@ -728,9 +728,9 @@ That local archive entry is valuable because it captures how UFO stories live in
 
 ## Why Hertfordshire Skies Generate Ambiguous Reports
 
-Hertfordshire is not remote dark-sky country. It sits in the busy [airspace]({{ 'airspace-61fcc0/' | relative_url }}) north of London, close to major routes, airports and general aviation activity. London Elstree Aerodrome, in Hertfordshire, describes itself as serving general aviation and rotary activity, with aircraft maintenance, refuelling, flying schools and aviation businesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.londonelstree.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonelstree.com">[Elstree Site]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonelstree.com</span><span class="citation-popover-snippet">Open source on londonelstree.com.</span></span></span> The Aldenham Estate’s aerodrome page calls Elstree the last licensed airfield in Hertfordshire and notes fixed-wing and helicopter schools, charter businesses and many flight movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aldenhamestate.co.uk/aerodrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aldenhamestate.co.uk">[Aldenham Estate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aldenhamestate.co.uk</span><span class="citation-popover-snippet">Open source on aldenhamestate.co.uk.</span></span></span>
+Hertfordshire is not remote dark-sky country. It sits in the busy [airspace]({{ 'airspace-61fcc0/' | relative_url }}) north of London, close to major routes, airports and general aviation activity. London Elstree Aerodrome, in Hertfordshire, describes itself as serving general aviation and rotary activity, with aircraft maintenance, refuelling, flying schools and aviation businesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.londonelstree.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonelstree.com">[Elstree Site]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonelstree.com</span><span class="citation-popover-snippet">Open source on londonelstree.com.</span></span></span> The Aldenham Estate’s aerodrome page calls Elstree the last licensed airfield in Hertfordshire and notes fixed-wing and helicopter schools, charter businesses and many flight movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aldenhamestate.co.uk/aerodrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aldenhamestate.co.uk">[Aldenham Estate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aldenhamestate.co.uk</span><span class="citation-popover-snippet">Open source on aldenhamestate.co.uk.</span></span></span>
 
-The county is also affected by wider London-area air traffic. A House of Commons debate on Luton flight paths described airspace changes intended to separate arriving traffic at Luton and Stansted, with safety and efficiency benefits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2023-01-09/debates/1FD2A604-5D5D-4DC1-ACC1-EB7F5E72109E/LutonFlightpaths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Luton Flightpaths</span><span class="citation-popover-snippet">Hansard Luton Flightpaths</span></span></span> Local campaign material on Luton flight tracks describes arrivals and departures affecting areas near Stevenage, St Paul’s Walden, Breachwood Green, Markyate and Flamstead, depending on wind direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladacan.org">[ladacan.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladacan.org</span><span class="citation-popover-snippet">Open source on ladacan.org.</span></span></span> This does not “explain away” every report, but it does mean aircraft, helicopters, approach lights, holding patterns and changing flight routes are obvious checks for Hertfordshire cases.
+The county is also affected by wider London-area air traffic. A House of Commons debate on Luton flight paths described airspace changes intended to separate arriving traffic at Luton and Stansted, with safety and efficiency benefits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2023-01-09/debates/1FD2A604-5D5D-4DC1-ACC1-EB7F5E72109E/LutonFlightpaths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Luton Flightpaths</span><span class="citation-popover-snippet">Hansard Luton Flightpaths</span></span></span> Local campaign material on Luton flight tracks describes arrivals and departures affecting areas near Stevenage, St Paul’s Walden, Breachwood Green, Markyate and Flamstead, depending on wind direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladacan.org">[ladacan.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladacan.org</span><span class="citation-popover-snippet">Open source on ladacan.org.</span></span></span> This does not “explain away” every report, but it does mean aircraft, helicopters, approach lights, holding patterns and changing flight routes are obvious checks for Hertfordshire cases.
 
 Common misidentifications in the county are likely to include:
 
@@ -738,24 +738,24 @@ Common misidentifications in the county are likely to include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * aircraft landing or turning, especially when seen through cloud or haze;
-* helicopters and light aircraft from general aviation activity; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.londonelstree.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonelstree.com">[londonelstree.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonelstree.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* helicopters and light aircraft from general aviation activity;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.londonelstree.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonelstree.com">[londonelstree.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonelstree.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * bright planets, the Moon, meteors and low stars;
 * lanterns, fireworks, balloons and drones;
 * reflections, camera artefacts and doorbell-camera distortions.
 
 </div>
 
-The Stevenage 999 call from 2011 is a useful cautionary tale. A man reportedly called police about a bright UFO with a hole in it, then rang back minutes later to apologise after realising it was the Moon. Hertfordshire Police used the incident to warn that non-emergency calls could waste police time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tntmagazine.com">[TNT Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tntmagazine.com</span><span class="citation-popover-title">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span><span class="citation-popover-snippet">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span></span></span> The story is comic, but it captures a serious point: sincere witnesses can misread familiar objects when the conditions, angle or emotion of the moment are unusual.
+The Stevenage 999 call from 2011 is a useful cautionary tale. A man reportedly called police about a bright UFO with a hole in it, then rang back minutes later to apologise after realising it was the Moon. Hertfordshire Police used the incident to warn that non-emergency calls could waste police time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tntmagazine.com">[TNT Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tntmagazine.com</span><span class="citation-popover-title">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span><span class="citation-popover-snippet">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span></span></span> The story is comic, but it captures a serious point: sincere witnesses can misread familiar objects when the conditions, angle or emotion of the moment are unusual.
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Hertfordshire Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Official Record Can and Cannot Tell Us
 
-The UK’s official UFO record is substantial, but it was never a county-by-county scientific survey. The National Archives explains that many surviving MoD UFO files are available, but also notes that until 1967 MoD policy was to destroy UFO files after five years, meaning many records have been lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> For Hertfordshire, that means absence of older official files cannot be treated as proof that nothing was reported.
+The UK’s official UFO record is substantial, but it was never a county-by-county scientific survey. The National Archives explains that many surviving MoD UFO files are available, but also notes that until 1967 MoD policy was to destroy UFO files after five years, meaning many records have been lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> For Hertfordshire, that means absence of older official files cannot be treated as proof that nothing was reported.
 
-The National Archives’ general UFO reports page shows the range of material held: early letters, Rendlesham correspondence, policy documents and reports of alleged encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Hertfordshire’s place in that archive is more modest: short entries in sighting logs, local reports and occasional media-linked claims rather than a landmark defence case. That is still useful. County-level UFO history is often built from precisely these small records.
+The National Archives’ general UFO reports page shows the range of material held: early letters, Rendlesham correspondence, policy documents and reports of alleged encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> Hertfordshire’s place in that archive is more modest: short entries in sighting logs, local reports and occasional media-linked claims rather than a landmark defence case. That is still useful. County-level UFO history is often built from precisely these small records.
 
-Project Condign, the secret UK Defence Intelligence Staff study completed around 2000 and later released, gives the broader official attitude. It examined UK unidentified aerial phenomena reports and concluded that many sightings were misidentified ordinary objects or natural phenomena, while some remained unexplained in terms of poorly understood atmospheric effects. The project remains controversial, and its “plasma” ideas have been criticised, but it is important because it shows the MoD’s interest was framed around air defence, not proving alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Condign</span><span class="citation-popover-snippet">Project Condign</span></span></span>
+Project Condign, the secret UK Defence Intelligence Staff study completed around 2000 and later released, gives the broader official attitude. It examined UK unidentified aerial phenomena reports and concluded that many sightings were misidentified ordinary objects or natural phenomena, while some remained unexplained in terms of poorly understood atmospheric effects. The project remains controversial, and its “plasma” ideas have been criticised, but it is important because it shows the MoD’s interest was framed around air defence, not proving alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Condign</span><span class="citation-popover-snippet">Project Condign</span></span></span>
 
 For Hertfordshire readers, the practical lesson is clear: an MoD log entry does not mean the MoD confirmed an extraordinary craft. Usually it means someone reported something, the report was recorded, and no detailed public explanation followed.
 
@@ -766,13 +766,13 @@ For Hertfordshire readers, the practical lesson is clear: an MoD log entry does 
 
 Hertfordshire’s known UFO record is best read in tiers.
 
-**Stronger as local history:** Kim Wilde’s 2009 sighting and the Herts Memories Hemel Hempstead recollections are strong as cultural and witness-history material because named people describe what they remember, and the stories can be placed in a local setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span></span></span>
+**Stronger as local history:** Kim Wilde’s 2009 sighting and the Herts Memories Hemel Hempstead recollections are strong as cultural and witness-history material because named people describe what they remember, and the stories can be placed in a local setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wilde-life.com">[Wilde Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wilde-life.com</span><span class="citation-popover-title">kim wilde says congress ufo story matches her sighting in hertfordshire</span><span class="citation-popover-snippet">kim wilde says congress ufo story matches her sighting in hertfordshire</span></span></span>
 
-**Useful but thin as evidence:** The MoD entries for St Albans, Harpenden and Stevenage are valuable because they are official logs with dates and locations, but they are too brief to bear much investigative weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Useful but thin as evidence:** The MoD entries for St Albans, Harpenden and Stevenage are valuable because they are official logs with dates and locations, but they are too brief to bear much investigative weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Likely explained or cautionary:** The Stevenage “Moon as UFO” police call shows how quickly an alarming sight can become ordinary once rechecked. It should not be used to mock all witnesses, but it is a reminder that first impressions are fragile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tntmagazine.com">[TNT Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tntmagazine.com</span><span class="citation-popover-title">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span><span class="citation-popover-snippet">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span></span></span>
+**Likely explained or cautionary:** The Stevenage “Moon as UFO” police call shows how quickly an alarming sight can become ordinary once rechecked. It should not be used to mock all witnesses, but it is a reminder that first impressions are fragile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tntmagazine.com">[TNT Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tntmagazine.com</span><span class="citation-popover-title">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span><span class="citation-popover-snippet">TNT Magazine Man mistakes moon for UFO, dials 999 &#124; TNT Magazine</span></span></span>
 
-**Historically interesting but not modern evidence:** The St Albans medieval “sky ship” tradition belongs to the history of wonders, chronicles and later UFO reinterpretation. It should be mentioned carefully, not treated as a modern sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chronica_Majora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chronica Majora</span><span class="citation-popover-snippet">Chronica Majora</span></span></span>
+**Historically interesting but not modern evidence:** The St Albans medieval “sky ship” tradition belongs to the history of wonders, chronicles and later UFO reinterpretation. It should be mentioned carefully, not treated as a modern sighting report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chronica_Majora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chronica Majora</span><span class="citation-popover-snippet">Chronica Majora</span></span></span>
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Hertfordshire Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -787,194 +787,194 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Hertfordshire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Hertfordshire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly examines UK UFO reports, government records and sighting investigations similar to those discussed for Hertfordshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines UK UFO reports, government records and sighting investigations similar to those discussed for Hertfordshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores witness testimony and official reporting, helping readers compare local sightings with international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness testimony and official reporting, helping readers compare local sightings with international cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Provides historical background on how UFO reports become public controversies and media stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical background on how UFO reports become public controversies and media stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides broad context for evaluating local UFO cases and recurring sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for evaluating local UFO cases and recurring sighting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/b2ce34692010fa8ca60e.jpg' | relative_url }}" alt="Listing image for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/b2ce34692010fa8ca60e.jpg' | relative_url }}" alt="Listing image for Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Extra Terrestrial English Solid Pewter Pin Badge Brooch Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens"><img src="{{ '/assets/images/marketplace-covers/49f16e3f6f0ba5b828cf.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens"><img src="{{ '/assets/images/marketplace-covers/49f16e3f6f0ba5b828cf.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!"><img src="{{ '/assets/images/marketplace-covers/0421bd52e30612956506.jpg' | relative_url }}" alt="Listing image for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!"><img src="{{ '/assets/images/marketplace-covers/0421bd52e30612956506.jpg' | relative_url }}" alt="Listing image for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="what-really-happened-in-hertfordshire-what-really-happened-in-hertfordshire-skies-hertfordshire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -990,7 +990,7 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1010,7 +1010,7 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1042,7 +1042,7 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1094,7 +1094,7 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1139,7 +1139,7 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1180,288 +1180,288 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Hertfordshire</a>  
+   Link:<a href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Hertfordshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wilde-life.com  
    Title: kim wilde says congress ufo story matches her sighting in hertfordshire  
-   Link: <a href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/</a>  
+   Link:<a href="https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2023/kim-wilde-says-congress-ufo-story-matches-her-sighting-in-hertfordshire/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Here Come the Aliens  
-   Link: <a href="https://en.wikipedia.org/wiki/Here_Come_the_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Here_Come_the_Aliens</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Here_Come_the_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Here_Come_the_Aliens</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chronica Majora  
-   Link: <a href="https://en.wikipedia.org/wiki/Chronica_Majora" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chronica_Majora</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chronica_Majora" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chronica_Majora</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ladacan.org  
-   Link: <a href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/flight-tracks/</a>  
+   Link:<a href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/flight-tracks/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hertfordshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hertfordshire</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Elstree Aerodrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Elstree_Aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elstree_Aerodrome</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Elstree_Aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elstree_Aerodrome</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://nl.wikipedia.org/wiki/Bestand%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Bestand%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://nl.wikipedia.org/wiki/Bestand%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Bestand%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://sco.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://sco.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://sco.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://sco.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Matthew Paris  
-   Link: <a href="https://en.wikipedia.org/wiki/Matthew_Paris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matthew_Paris</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Matthew_Paris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matthew_Paris</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wilde-life.com  
-   Link: <a href="https://www.wilde-life.com/articles/2016/kim-wilde-thought-ufo-seen-in-her-garden-was-michael-jackson-coming-back-to-haunt-her/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2016/kim-wilde-thought-ufo-seen-in-her-garden-was-michael-jackson-coming-back-to-haunt-her/</a>  
+   Link:<a href="https://www.wilde-life.com/articles/2016/kim-wilde-thought-ufo-seen-in-her-garden-was-michael-jackson-coming-back-to-haunt-her/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilde-life.com/articles/2016/kim-wilde-thought-ufo-seen-in-her-garden-was-michael-jackson-coming-back-to-haunt-her/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
    Title: Category:Maps of counties of England  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: commons.wikimedia.org  
    Title: Category:Historic counties of England  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: commons.wikimedia.org  
    Title: Category:19th century maps of Hertfordshire  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3A19th-century_maps_of_Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3A19th-century_maps_of_Hertfordshire</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3A19th-century_maps_of_Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3A19th-century_maps_of_Hertfordshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: commons.wikimedia.org  
    Title: File:Hertfordshire Map.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHertfordshire_Map.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHertfordshire_Map.png</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHertfordshire_Map.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHertfordshire_Map.png</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/bub_gb_sXBdNsDxJ_cC/bub_gb_sXBdNsDxJ_cC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bub_gb_sXBdNsDxJ_cC/bub_gb_sXBdNsDxJ_cC.pdf</a>  
+   Link:<a href="https://archive.org/download/bub_gb_sXBdNsDxJ_cC/bub_gb_sXBdNsDxJ_cC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bub_gb_sXBdNsDxJ_cC/bub_gb_sXBdNsDxJ_cC.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archive.org  
    Title: Full text of "Wonders In The Sky  
-   Link: <a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: hertfordshire.gov.uk  
-   Link: <a href="https://www.hertfordshire.gov.uk/microsites/herts-insight/about-herts-insight/maps-and-geographic-areas.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hertfordshire.gov.uk/microsites/herts-insight/about-herts-insight/maps-and-geographic-areas.aspx</a>  
+   Link:<a href="https://www.hertfordshire.gov.uk/microsites/herts-insight/about-herts-insight/maps-and-geographic-areas.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hertfordshire.gov.uk/microsites/herts-insight/about-herts-insight/maps-and-geographic-areas.aspx</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hertfordshire.gov.uk  
-   Link: <a href="https://www.hertfordshire.gov.uk/services/libraries-and-archives/hertfordshire-archives-and-local-studies/whats-in-the-archives/historical-maps.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hertfordshire.gov.uk/services/libraries-and-archives/hertfordshire-archives-and-local-studies/whats-in-the-archives/historical-maps.aspx</a>  
+   Link:<a href="https://www.hertfordshire.gov.uk/services/libraries-and-archives/hertfordshire-archives-and-local-studies/whats-in-the-archives/historical-maps.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hertfordshire.gov.uk/services/libraries-and-archives/hertfordshire-archives-and-local-studies/whats-in-the-archives/historical-maps.aspx</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: The Guardian Kim Wilde: 'I don't see ghosts, but I did see a UFO once'  
-   Link: <a href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album</a>  
+   Link:<a href="https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2013/dec/08/kim-wilde-interview-christmas-winter-album</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: hertsmemories.org.uk  
-   Link: <a href="https://www.hertsmemories.org.uk/content/herts-history/topics/supernatural-and-unexplained-phenomena/ufo-hemel-hempstead" target="_blank" rel="noopener noreferrer nofollow">https://www.hertsmemories.org.uk/content/herts-history/topics/supernatural-and-unexplained-phenomena/ufo-hemel-hempstead</a>  
+   Link:<a href="https://www.hertsmemories.org.uk/content/herts-history/topics/supernatural-and-unexplained-phenomena/ufo-hemel-hempstead" target="_blank" rel="noopener noreferrer nofollow">https://www.hertsmemories.org.uk/content/herts-history/topics/supernatural-and-unexplained-phenomena/ufo-hemel-hempstead</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: londonelstree.com  
-   Link: <a href="https://www.londonelstree.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.londonelstree.com/</a>  
+   Link:<a href="https://www.londonelstree.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.londonelstree.com/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: aldenhamestate.co.uk  
-   Link: <a href="https://www.aldenhamestate.co.uk/aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://www.aldenhamestate.co.uk/aerodrome</a>  
+   Link:<a href="https://www.aldenhamestate.co.uk/aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://www.aldenhamestate.co.uk/aerodrome</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Luton Flightpaths  
-   Link: <a href="https://hansard.parliament.uk/commons/2023-01-09/debates/1FD2A604-5D5D-4DC1-ACC1-EB7F5E72109E/LutonFlightpaths" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2023-01-09/debates/1FD2A604-5D5D-4DC1-ACC1-EB7F5E72109E/LutonFlightpaths</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2023-01-09/debates/1FD2A604-5D5D-4DC1-ACC1-EB7F5E72109E/LutonFlightpaths" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2023-01-09/debates/1FD2A604-5D5D-4DC1-ACC1-EB7F5E72109E/LutonFlightpaths</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: tntmagazine.com  
    Title: TNT Magazine Man mistakes moon for UFO, dials 999 | TNT Magazine  
-   Link: <a href="https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/</a>  
+   Link:<a href="https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/man-mistakes-moon-for-ufo-dials-999/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Hertfordshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Hertfordshire</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/elstreeaerodrome/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elstreeaerodrome/</a>  
+   Link:<a href="https://www.facebook.com/elstreeaerodrome/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elstreeaerodrome/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/man-thinks-moon-ufo-calls-police/story?id=14865398" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/man-thinks-moon-ufo-calls-police/story?id=14865398</a>  
+   Link:<a href="https://abcnews.com/Technology/man-thinks-moon-ufo-calls-police/story?id=14865398" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/man-thinks-moon-ufo-calls-police/story?id=14865398</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/counties/hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties/hertfordshire</a>  
+   Link:<a href="https://realcounties.com/counties/hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties/hertfordshire</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: londonelstree.com  
-   Link: <a href="https://www.londonelstree.com/contact" target="_blank" rel="noopener noreferrer nofollow">https://www.londonelstree.com/contact</a>  
+   Link:<a href="https://www.londonelstree.com/contact" target="_blank" rel="noopener noreferrer nofollow">https://www.londonelstree.com/contact</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: hertsmemories.org.uk  
-   Link: <a href="https://www.hertsmemories.org.uk/content/category/herts-history/topics/supernatural-and-unexplained-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.hertsmemories.org.uk/content/category/herts-history/topics/supernatural-and-unexplained-phenomena</a>  
+   Link:<a href="https://www.hertsmemories.org.uk/content/category/herts-history/topics/supernatural-and-unexplained-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.hertsmemories.org.uk/content/category/herts-history/topics/supernatural-and-unexplained-phenomena</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: intotheblue.co.uk  
    Title: Elstree Aerodrome  
-   Link: <a href="https://www.intotheblue.co.uk/locations/airfield-information/elstree-aerodrome/?srsltid=AfmBOoql3OXsT66tlm3AJYnfxYv2np5PMoCoDDyN6aS_TndsK6lwkGkh" target="_blank" rel="noopener noreferrer nofollow">https://www.intotheblue.co.uk/locations/airfield-information/elstree-aerodrome/?srsltid=AfmBOoql3OXsT66tlm3AJYnfxYv2np5PMoCoDDyN6aS_TndsK6lwkGkh</a>  
+   Link:<a href="https://www.intotheblue.co.uk/locations/airfield-information/elstree-aerodrome/?srsltid=AfmBOoql3OXsT66tlm3AJYnfxYv2np5PMoCoDDyN6aS_TndsK6lwkGkh" target="_blank" rel="noopener noreferrer nofollow">https://www.intotheblue.co.uk/locations/airfield-information/elstree-aerodrome/?srsltid=AfmBOoql3OXsT66tlm3AJYnfxYv2np5PMoCoDDyN6aS_TndsK6lwkGkh</a>  
 
 ### Additional References
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: Kim Wilde Had a UFO Encounter | Loose Women  
-   Link: <a href="https://www.youtube.com/watch?v=NX6LfSXt2IY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NX6LfSXt2IY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roman Kemp&#x27;s road to Capital Radio, dealing with grief and a football obsession...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NX6LfSXt2IY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NX6LfSXt2IY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roman Kemp&#x27;s road to Capital Radio, dealing with grief and a football obsession...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: Kim Wilde Talks UFOs, Therapy And Michael Jackson | Loose Women  
-   Link: <a href="https://www.youtube.com/watch?v=uN9mBmTFrkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uN9mBmTFrkA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kim Wilde Had a UFO Encounter | Loose Women...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uN9mBmTFrkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uN9mBmTFrkA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kim Wilde Had a UFO Encounter | Loose Women...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Mystify2010/posts/27235480376041172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27235480376041172/</a>  
+   Link:<a href="https://www.facebook.com/groups/Mystify2010/posts/27235480376041172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27235480376041172/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/8881963498579112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/8881963498579112/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/8881963498579112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/8881963498579112/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=AL54LW&amp;search_range=10000&amp;subject=metal-detecting-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=AL54LW&amp;search_range=10000&amp;subject=metal-detecting-sites</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=AL54LW&amp;search_range=10000&amp;subject=metal-detecting-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?bot=googlebotsearch&amp;country=united-kingdom&amp;keyterms=local-history-archaeology&amp;pwd=&amp;search_location=AL54LW&amp;search_range=10000&amp;subject=metal-detecting-sites</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aurorahuntingukandabroad/posts/938899298485323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aurorahuntingukandabroad/posts/938899298485323/</a>  
+   Link:<a href="https://www.facebook.com/groups/aurorahuntingukandabroad/posts/938899298485323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aurorahuntingukandabroad/posts/938899298485323/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/acp1505a08/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/acp1505a08/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/acp1505a08/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/acp1505a08/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hertfordshire/comments/16lsue6/best_and_cheapest_place_to_live_in_hertfordshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hertfordshire/comments/16lsue6/best_and_cheapest_place_to_live_in_hertfordshire/</a>  
+   Link:<a href="https://www.reddit.com/r/hertfordshire/comments/16lsue6/best_and_cheapest_place_to_live_in_hertfordshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hertfordshire/comments/16lsue6/best_and_cheapest_place_to_live_in_hertfordshire/</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /midlothian-ff4e39-index/
 description: Focused pages that expand on What Really Happened in Midlothian's UFO....
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Midlothian_ff4e39
 parent_title: What Really Happened in Midlothian's UFO...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-midlothians-ufo/
 
 # Explore Topics in What Really Happened in Midlothian's UFO...
 
-The following pages expand on the main **[What Really Happened in Midlothian's UFO...]({{ '/what-really-happened-in-midlothians-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Midlothian's UFO...]({{ '/what-really-happened-in-midlothians-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Bonnyrigg Lights]({{ '/bonnyrigg-lights/' | relative_url }})
 - [Boundaries]({{ '/boundaries-c78321/' | relative_url }})

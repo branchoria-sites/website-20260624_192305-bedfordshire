@@ -254,7 +254,7 @@ image: /assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-overview-social
 
 ## Introduction
 
-[East Lothian]({{ 'what-really-happened-in-east-lothians/' | relative_url }}) is a good place to ask a simple but important UFO question: when does an odd light or shape in the sky become evidence, and when is it just the local landscape playing tricks? The county’s coast, the Firth of Forth, the Lammermuir Hills, North Berwick Law, open farmland and busy regional airspace all create conditions in which ordinary objects can look strange. The publicly released Ministry of Defence lists include East Lothian entries such as a multicoloured light over Dunbar, a red-green-blue “star shape” at Tranent, and a “big, round, swirly thing” at East Linton, but these short records do not provide photographs, radar tracks or detailed investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+[East Lothian]({{ 'what-really-happened-in-east-lothians/' | relative_url }}) is a good place to ask a simple but important UFO question: when does an odd light or shape in the sky become evidence, and when is it just the local landscape playing tricks? The county’s coast, the Firth of Forth, the Lammermuir Hills, North Berwick Law, open farmland and busy regional airspace all create conditions in which ordinary objects can look strange. The publicly released Ministry of Defence lists include East Lothian entries such as a multicoloured light over Dunbar, a red-green-blue “star shape” at Tranent, and a “big, round, swirly thing” at East Linton, but these short records do not provide photographs, radar tracks or detailed investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-overview.webp" | relative_url }}" alt="Overview image for False Positives" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,11 +262,11 @@ That does not mean witnesses were careless. It means East Lothian offers many be
 
 ## Why East Lothian Is Prone to Honest Misidentification
 
-East Lothian’s geography matters because the eye has fewer reliable clues over sea, farmland and hills than it does in a lit town street. The county has long coastal views across the Forth, open skies above arable land, distinctive high points such as North Berwick Law, and the rising ground of the Lammermuirs to the south. Local visitor and council material repeatedly presents East Lothian as a landscape of beaches, broad views, hills and moorland, which is exactly the kind of setting where distance, speed and altitude can be hard to estimate at dusk or night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://visiteastlothian.org/things-to-see-do/outdoor-activities/walking/walking-top-10/north-berwick-and-the-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visiteastlothian.org">[Visit East Lothian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visiteastlothian.org</span><span class="citation-popover-snippet">Open source on visiteastlothian.org.</span></span></span>
+East Lothian’s geography matters because the eye has fewer reliable clues over sea, farmland and hills than it does in a lit town street. The county has long coastal views across the Forth, open skies above arable land, distinctive high points such as North Berwick Law, and the rising ground of the Lammermuirs to the south. Local visitor and council material repeatedly presents East Lothian as a landscape of beaches, broad views, hills and moorland, which is exactly the kind of setting where distance, speed and altitude can be hard to estimate at dusk or night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://visiteastlothian.org/things-to-see-do/outdoor-activities/walking/walking-top-10/north-berwick-and-the-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visiteastlothian.org">[Visit East Lothian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visiteastlothian.org</span><span class="citation-popover-snippet">Open source on visiteastlothian.org.</span></span></span>
 
-For UFO history, this is useful because many East Lothian reports are not close encounters with a detailed object. They are brief sky descriptions. The 1999 Dunbar report describes one light with red, green and yellow alternating lights; the Tranent entry describes a “star shape” coloured red, green and blue. Those details are intriguing, but they also overlap strongly with known false positives: aircraft navigation lights, atmospheric colour scintillation, and bright stars seen through unsteady air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+For UFO history, this is useful because many East Lothian reports are not close encounters with a detailed object. They are brief sky descriptions. The 1999 Dunbar report describes one light with red, green and yellow alternating lights; the Tranent entry describes a “star shape” coloured red, green and blue. Those details are intriguing, but they also overlap strongly with known false positives: aircraft navigation lights, atmospheric colour scintillation, and bright stars seen through unsteady air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-East Lothian also sits near significant civil aviation. Edinburgh Airport’s own flight-path material explains that its main runway operates in two directions: on Runway 06, aircraft arrive from the west and depart to the east; on Runway 24, they arrive from the east and depart to the west. The airport also provides a Noise Lab with near-real-time flight position and altitude information, which is a practical modern check for sightings that might once have entered a notebook simply as “strange lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[edi.noiselab.casper.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
+East Lothian also sits near significant civil aviation. Edinburgh Airport’s own flight-path material explains that its main runway operates in two directions: on Runway 06, aircraft arrive from the west and depart to the east; on Runway 24, they arrive from the east and depart to the west. The airport also provides a Noise Lab with near-real-time flight position and altitude information, which is a practical modern check for sightings that might once have entered a notebook simply as “strange lights”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[edi.noiselab.casper.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
 
 The key point is not that every East Lothian sighting is explained. It is that the county’s natural and aviation setting raises the burden of proof. A report from Dunbar, Tranent, North Berwick, East Linton or the Lammermuir edge needs direction, duration, elevation, weather, aircraft checks and astronomical checks before it can fairly be treated as stronger than an honest misidentification.
 
@@ -274,11 +274,11 @@ The key point is not that every East Lothian sighting is explained. It is that t
 <img src="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-Illustration-1-dark.svg" | relative_url }}" alt="False Positives illustration 1" data-theme-src-dark="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lenticular Clouds and Hill Weather
 
-Lenticular clouds are one of the most relevant natural explanations for a county with hills and open horizons. The Met Office describes them as lens-shaped clouds that form over hilly areas and notes that they are sometimes called “spaceship clouds” because they can resemble UFOs. It also explains that lenticular clouds are visible signs of mountain waves, standing waves in the air that form as wind passes over hills or mountains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office+2Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Mid-level clouds Altocumulus lenticularis</span><span class="citation-popover-snippet">Met Office Mid-level clouds Altocumulus lenticularis</span></span></span>
+Lenticular clouds are one of the most relevant natural explanations for a county with hills and open horizons. The Met Office describes them as lens-shaped clouds that form over hilly areas and notes that they are sometimes called “spaceship clouds” because they can resemble UFOs. It also explains that lenticular clouds are visible signs of mountain waves, standing waves in the air that form as wind passes over hills or mountains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Mid-level clouds Altocumulus lenticularis</span><span class="citation-popover-snippet">Met Office Mid-level clouds Altocumulus lenticularis</span></span></span>
 
 This matters for East Lothian because a cloud does not need to sit directly above the Lammermuirs to fool a witness. Mountain-wave cloud can appear smooth, isolated and sharply edged, especially when lit by a low sun. From the coast or low farmland, a lens-shaped cloud over or beyond the hills may appear detached from the weather around it. If it changes slowly while the sky darkens, a viewer may interpret it as a hovering object rather than a cloud continually forming on one side and evaporating on the other.
 
-The 2006 East Linton MoD entry is a useful example of the limits of the record. It says only: “A big, round, swirly thing in the sky.” That description is too sparse to identify a lenticular cloud, but it is exactly the sort of wording that could cover a rotating-looking cloud formation, a break in cloud lit by the sun, or another atmospheric effect. Without time of day, compass direction, duration, weather conditions or a photograph, it remains a weak report rather than a robust unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2006 East Linton MoD entry is a useful example of the limits of the record. It says only: “A big, round, swirly thing in the sky.” That description is too sparse to identify a lenticular cloud, but it is exactly the sort of wording that could cover a rotating-looking cloud formation, a break in cloud lit by the sun, or another atmospheric effect. Without time of day, compass direction, duration, weather conditions or a photograph, it remains a weak report rather than a robust unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 Hill weather can also create misleading contrast. A low, dark cloud cap over the Lammermuirs, a bright patch of sunset behind cloud, or mist catching light from towns and roads can turn into a shape with apparent edges. In UFO terms, the danger is not simply “cloud mistaken for saucer”; it is the brain trying to complete a pattern when the visual field is sparse. A smooth cloud seen over a dark ridge can look more solid than it is because there are few nearby objects to establish scale.
 
@@ -287,23 +287,23 @@ Hill weather can also create misleading contrast. A low, dark cloud cap over the
 
 ## Bright Planets and Colour-Changing Stars
 
-The Dunbar and Tranent entries from 1999 are especially relevant to astronomical false positives because both involve colour. Dunbar’s report was “one light” with red, green and yellow alternating lights; Tranent’s was a “star shape” coloured red, green and blue. In a stronger case file, those colours might invite comparison with aircraft lights. In a one-line MoD list, they also invite comparison with bright stars seen low through turbulent air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Dunbar and Tranent entries from 1999 are especially relevant to astronomical false positives because both involve colour. Dunbar’s report was “one light” with red, green and yellow alternating lights; Tranent’s was a “star shape” coloured red, green and blue. In a stronger case file, those colours might invite comparison with aircraft lights. In a one-line MoD list, they also invite comparison with bright stars seen low through turbulent air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Royal Museums Greenwich gives a simple rule of thumb: planets usually look like bright points of light, while stars twinkle because their light is refracted by the Earth’s atmosphere. That distinction is helpful but not foolproof for casual witnesses, because a bright star near the horizon may flash rapidly and appear to change colour. EarthSky, an astronomy education site, notes that Sirius can flicker with many colours when low in the sky and that its brightness, twinkling and colour changes sometimes prompt UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/astronomy-naked-eye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+Royal Museums Greenwich gives a simple rule of thumb: planets usually look like bright points of light, while stars twinkle because their light is refracted by the Earth’s atmosphere. That distinction is helpful but not foolproof for casual witnesses, because a bright star near the horizon may flash rapidly and appear to change colour. EarthSky, an astronomy education site, notes that Sirius can flicker with many colours when low in the sky and that its brightness, twinkling and colour changes sometimes prompt UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/astronomy-naked-eye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
 This mechanism fits East Lothian particularly well because coastal views can give a low, clean horizon. A bright star or planet seen over the Firth of Forth, over the North Sea, or above a dark inland ridge may appear isolated and important. If the observer is walking, driving, or watching through a window, the light may seem to move when it is actually the observer’s perspective changing.
 
-The same issue affects “hovering” reports. In a dark sky with few reference points, a fixed light can appear to drift. Aviation literature calls a related effect the autokinetic illusion: in poor visual conditions, staring at a single light can make it seem to move because tiny eye movements are interpreted as object motion. That does not prove a specific East Lothian report was a star, but it shows why single-light cases need careful checking before they are treated as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+The same issue affects “hovering” reports. In a dark sky with few reference points, a fixed light can appear to drift. Aviation literature calls a related effect the autokinetic illusion: in poor visual conditions, staring at a single light can make it seem to move because tiny eye movements are interpreted as object motion. That does not prove a specific East Lothian report was a star, but it shows why single-light cases need careful checking before they are treated as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 
 <img src="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-Illustration-2-dark.svg" | relative_url }}" alt="False Positives illustration 2" data-theme-src-dark="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/East_Lothian_a7dd3d_false_positives_f6ef28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lanterns, Aircraft and Distance Illusions
 
-Sky lanterns became a major source of British UFO-style reports in the 2000s because they are visually persuasive: orange or yellow lights, slow movement, silence, loose formations and sudden disappearance when the flame dies or the lantern turns. The Civil Aviation Authority’s CAP 736 guidance notes that sky lanterns can travel considerable distances at unpredictable heights on prevailing winds, and that aviation activity in the intended release area must be considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span>
+Sky lanterns became a major source of British UFO-style reports in the 2000s because they are visually persuasive: orange or yellow lights, slow movement, silence, loose formations and sudden disappearance when the flame dies or the lantern turns. The Civil Aviation Authority’s CAP 736 guidance notes that sky lanterns can travel considerable distances at unpredictable heights on prevailing winds, and that aviation activity in the intended release area must be considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span>
 
 This is directly relevant to East Lothian because many coastal and rural sightings are judged by apparent behaviour rather than measured distance. A lantern released from a wedding, beach event or nearby settlement may drift across a dark background with no sound. If several are released together, they can appear to form a line, triangle or fleet. If the wind carries them towards or away from the observer, they may seem to climb, slow or vanish.
 
-Aircraft create a different but equally common problem. At night, aircraft lights can be read as coloured flashes, hovering lights or structured objects, especially when the aircraft is approaching head-on or banking. Edinburgh Airport’s own public material shows that flight-path use depends on runway direction, and its Noise Lab exists partly because communities want to understand aircraft position, altitude and noise under changing routes. For UFO assessment, that means a strange East Lothian light should be checked against flight tracking and airport patterns before it is treated as a mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[edi.noiselab.casper.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
+Aircraft create a different but equally common problem. At night, aircraft lights can be read as coloured flashes, hovering lights or structured objects, especially when the aircraft is approaching head-on or banking. Edinburgh Airport’s own public material shows that flight-path use depends on runway direction, and its Noise Lab exists partly because communities want to understand aircraft position, altitude and noise under changing routes. For UFO assessment, that means a strange East Lothian light should be checked against flight tracking and airport patterns before it is treated as a mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[edi.noiselab.casper.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
 
 The false positive is strongest when several cues combine. A plane far away over the Forth can appear silent. A red or green wingtip light may flash through haze. A landing light can seem stationary if the aircraft is moving roughly towards the observer. Over hills or sea, the lack of foreground objects makes it difficult to decide whether the light is small and nearby or large and distant.
 
@@ -312,9 +312,9 @@ The false positive is strongest when several cues combine. A plane far away over
 
 ## Coast, Sea Haze and the Horizon Problem
 
-East Lothian’s coast adds another layer: the horizon itself can mislead. The Met Office inshore waters forecast explains that UK coastal forecasts include wind, sea state, weather and visibility, and that visibility can vary significantly in coastal conditions. Poor or patchy visibility matters because a light seen through haze, mist or sea air can blur, redden, brighten, dim or appear separated from its source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/inshore-waters-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+East Lothian’s coast adds another layer: the horizon itself can mislead. The Met Office inshore waters forecast explains that UK coastal forecasts include wind, sea state, weather and visibility, and that visibility can vary significantly in coastal conditions. Poor or patchy visibility matters because a light seen through haze, mist or sea air can blur, redden, brighten, dim or appear separated from its source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/inshore-waters-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-Mirage effects are a rarer but useful caution. The World Meteorological Organization describes a superior mirage as occurring when light from an object is bent downwards above a flat surface much colder than the air above it. Netweather’s explainer on Fata Morgana describes how ships, hills or objects near the horizon can appear displaced, stretched or strangely elevated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span>
+Mirage effects are a rarer but useful caution. The World Meteorological Organization describes a superior mirage as occurring when light from an object is bent downwards above a flat surface much colder than the air above it. Netweather’s explainer on Fata Morgana describes how ships, hills or objects near the horizon can appear displaced, stretched or strangely elevated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span>
 
 For East Lothian, this is most relevant along long views over water: Dunbar out to the North Sea, North Berwick and Gullane across the Forth, or coastal viewpoints looking towards Fife and offshore islands. A distant vessel, aircraft, lighthouse-like light, island profile or cloud bank can be distorted by layers of air. Most sightings will not involve a textbook mirage, but the coastal horizon is still a poor measuring instrument. It can make distant ordinary objects look closer, higher, larger or stranger than they are.
 
@@ -338,7 +338,7 @@ A good sceptical reading is not the same as dismissing witnesses. The better app
 
 </div>
 
-The MoD’s released UK UFO lists are valuable because they preserve reports that might otherwise be lost, but GOV.UK describes them as lists giving date, time, location and brief descriptions. That format is enough to identify patterns, not enough to establish extraordinary events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span>
+The MoD’s released UK UFO lists are valuable because they preserve reports that might otherwise be lost, but GOV.UK describes them as lists giving date, time, location and brief descriptions. That format is enough to identify patterns, not enough to establish extraordinary events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span>
 
 East Lothian’s best lesson is therefore methodological. Its coast, hills and open skies do not make UFO sightings impossible; they make ordinary misreadings more likely and more convincing. A fair county-level UFO history should keep both ideas in view: witnesses may accurately report that they saw something puzzling, while the strongest explanation may still be cloud, star, lantern, aircraft or coastal atmosphere.
 
@@ -347,194 +347,194 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why East Lothian Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why East Lothian Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains how planets, stars and atmospheric effects are often misunderstood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how planets, stars and atmospheric effects are often misunderstood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong emphasis on classification and investigation of sightings, including common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on classification and investigation of sightings, including common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RdtEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers and Science">Flying Saucers and Science</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RdtEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers and Science">Flying Saucers and Science</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Discusses how investigators separate ordinary explanations from unusual cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how investigators separate ordinary explanations from unusual cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent guide to critical thinking, perception errors and evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent guide to critical thinking, perception errors and evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers and Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers and Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="false-positives-why-east-lothian-skies-can-fool-witnesses-east-lothian-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-east-lothian-skies-can-fool-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-east-lothian-skies-can-fool-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,240 +740,240 @@ East Lothian’s best lesson is therefore methodological. Its coast, hills and o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eastlothian.gov.uk  
-   Link: <a href="https://www.eastlothian.gov.uk/libraries-leisure-and-tourism/countryside-and-wildlife/plan-your-visit-east-lothians-countryside/paths-around-east-lothian" target="_blank" rel="noopener noreferrer nofollow">https://www.eastlothian.gov.uk/libraries-leisure-and-tourism/countryside-and-wildlife/plan-your-visit-east-lothians-countryside/paths-around-east-lothian</a>  
+   Link:<a href="https://www.eastlothian.gov.uk/libraries-leisure-and-tourism/countryside-and-wildlife/plan-your-visit-east-lothians-countryside/paths-around-east-lothian" target="_blank" rel="noopener noreferrer nofollow">https://www.eastlothian.gov.uk/libraries-leisure-and-tourism/countryside-and-wildlife/plan-your-visit-east-lothians-countryside/paths-around-east-lothian</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: edi.noiselab.casper.aero  
-   Link: <a href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/content/2/flight-path-usage/</a>  
+   Link:<a href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/content/2/flight-path-usage/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Mid-level clouds Altocumulus lenticularis  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: earthsky.org  
    Title: sirius the brightest star  
-   Link: <a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
+   Link:<a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/inshore-waters-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/inshore-waters-forecast</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/inshore-waters-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/inshore-waters-forecast</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: netweather.tv  
    Title: Fata Morgana  
-   Link: <a href="https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories</a>  
+   Link:<a href="https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories</a>  
    Published: May 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    Published: December 4, 2007  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
+   Link:<a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: coins.westlothian.gov.uk  
-   Link: <a href="https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDmz%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDmz%EF%BF%BD</a>  
+   Link:<a href="https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDmz%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDmz%EF%BF%BD</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: coins.westlothian.gov.uk  
-   Link: <a href="https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDj%7F%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDj%7F%EF%BF%BD</a>  
+   Link:<a href="https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDj%7F%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.westlothian.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDj%7F%EF%BF%BD</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eastlothian.gov.uk  
    Title: draft environment report climatevolution spg  
-   Link: <a href="https://www.eastlothian.gov.uk/download/downloads/id/30102/draft_environment_report_climatevolution_spg.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eastlothian.gov.uk/download/downloads/id/30102/draft_environment_report_climatevolution_spg.pdf</a>  
+   Link:<a href="https://www.eastlothian.gov.uk/download/downloads/id/30102/draft_environment_report_climatevolution_spg.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eastlothian.gov.uk/download/downloads/id/30102/draft_environment_report_climatevolution_spg.pdf</a>  
    Published: May 2020  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gov.scot  
-   Link: <a href="https://www.gov.scot/publications/scotlands-marine-atlas-information-national-marine-plan/pages/9/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/scotlands-marine-atlas-information-national-marine-plan/pages/9/</a>  
+   Link:<a href="https://www.gov.scot/publications/scotlands-marine-atlas-information-national-marine-plan/pages/9/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/scotlands-marine-atlas-information-national-marine-plan/pages/9/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: noiselab.casper.aero  
-   Link: <a href="https://noiselab.casper.aero/edi/" target="_blank" rel="noopener noreferrer nofollow">https://noiselab.casper.aero/edi/</a>  
+   Link:<a href="https://noiselab.casper.aero/edi/" target="_blank" rel="noopener noreferrer nofollow">https://noiselab.casper.aero/edi/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: edinburgh.org  
-   Link: <a href="https://edinburgh.org/neighbourhoods/east-lothian/" target="_blank" rel="noopener noreferrer nofollow">https://edinburgh.org/neighbourhoods/east-lothian/</a>  
+   Link:<a href="https://edinburgh.org/neighbourhoods/east-lothian/" target="_blank" rel="noopener noreferrer nofollow">https://edinburgh.org/neighbourhoods/east-lothian/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: earthsky.org  
    Title: flashing star autumn capella arcturus sirius  
-   Link: <a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
+   Link:<a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: earthsky.org  
    Title: what star in the northeast flashes red and green  
-   Link: <a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
+   Link:<a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: earthsky.org  
    Title: the skys brightest star sirius before dawn  
-   Link: <a href="https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/</a>  
+   Link:<a href="https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rctcbc.gov.uk  
-   Link: <a href="https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf</a>  
+   Link:<a href="https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
+   Link:<a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: weather.com  
    Title: 2026 01 13 weather words mirage  
-   Link: <a href="https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage</a>  
+   Link:<a href="https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: news.sky.com  
    Title: what are the ufo clouds seen hanging over uk skies 13291303  
-   Link: <a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
+   Link:<a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: visiteastlothian.org  
-   Link: <a href="https://visiteastlothian.org/things-to-see-do/outdoor-activities/walking/walking-top-10/north-berwick-and-the-law/" target="_blank" rel="noopener noreferrer nofollow">https://visiteastlothian.org/things-to-see-do/outdoor-activities/walking/walking-top-10/north-berwick-and-the-law/</a>  
+   Link:<a href="https://visiteastlothian.org/things-to-see-do/outdoor-activities/walking/walking-top-10/north-berwick-and-the-law/" target="_blank" rel="noopener noreferrer nofollow">https://visiteastlothian.org/things-to-see-do/outdoor-activities/walking/walking-top-10/north-berwick-and-the-law/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/astronomy-naked-eye" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/astronomy-naked-eye</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/astronomy-naked-eye" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/astronomy-naked-eye</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority CAP 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
+   Link:<a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: visiteastlothian.org  
    Title: North Berwick Law North Berwick is a steep conical hill  
-   Link: <a href="https://visiteastlothian.org/business/north-berwick-law/" target="_blank" rel="noopener noreferrer nofollow">https://visiteastlothian.org/business/north-berwick-law/</a>  
+   Link:<a href="https://visiteastlothian.org/business/north-berwick-law/" target="_blank" rel="noopener noreferrer nofollow">https://visiteastlothian.org/business/north-berwick-law/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: wmo.int  
-   Link: <a href="https://wmo.int/world-meteorological-day-2017/classifying-clouds" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/world-meteorological-day-2017/classifying-clouds</a>  
+   Link:<a href="https://wmo.int/world-meteorological-day-2017/classifying-clouds" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/world-meteorological-day-2017/classifying-clouds</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: edi-map.airspace-noise.arup.com  
-   Link: <a href="https://edi-map.airspace-noise.arup.com/" target="_blank" rel="noopener noreferrer nofollow">https://edi-map.airspace-noise.arup.com/</a>  
+   Link:<a href="https://edi-map.airspace-noise.arup.com/" target="_blank" rel="noopener noreferrer nofollow">https://edi-map.airspace-noise.arup.com/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=lothian%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=lothian%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=lothian%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=lothian%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CoastGuardAirStationSacramento/posts/a-lot-of-talk-about-unidentified-aerial-phenomena-uap-lately-so-heres-a-us-coast/627559599607383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CoastGuardAirStationSacramento/posts/a-lot-of-talk-about-unidentified-aerial-phenomena-uap-lately-so-heres-a-us-coast/627559599607383/</a>  
+   Link:<a href="https://www.facebook.com/CoastGuardAirStationSacramento/posts/a-lot-of-talk-about-unidentified-aerial-phenomena-uap-lately-so-heres-a-us-coast/627559599607383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CoastGuardAirStationSacramento/posts/a-lot-of-talk-about-unidentified-aerial-phenomena-uap-lately-so-heres-a-us-coast/627559599607383/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/dullmensclub/posts/1781327279190472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dullmensclub/posts/1781327279190472/</a>  
+   Link:<a href="https://www.facebook.com/groups/dullmensclub/posts/1781327279190472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dullmensclub/posts/1781327279190472/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scimandan/posts/stars-twinkle-because-of-earths-atmosphere-not-because-theyre-fake-lights-ever-w/1214315067368182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scimandan/posts/stars-twinkle-because-of-earths-atmosphere-not-because-theyre-fake-lights-ever-w/1214315067368182/</a>  
+   Link:<a href="https://www.facebook.com/scimandan/posts/stars-twinkle-because-of-earths-atmosphere-not-because-theyre-fake-lights-ever-w/1214315067368182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scimandan/posts/stars-twinkle-because-of-earths-atmosphere-not-because-theyre-fake-lights-ever-w/1214315067368182/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/engineeringexploration/posts/what-youre-seeing-here-isnt-cgi-or-a-flying-shipits-a-naturally-occurring-optica/861855899721326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/what-youre-seeing-here-isnt-cgi-or-a-flying-shipits-a-naturally-occurring-optica/861855899721326/</a>  
+   Link:<a href="https://www.facebook.com/engineeringexploration/posts/what-youre-seeing-here-isnt-cgi-or-a-flying-shipits-a-naturally-occurring-optica/861855899721326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/what-youre-seeing-here-isnt-cgi-or-a-flying-shipits-a-naturally-occurring-optica/861855899721326/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6225295944153705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6225295944153705/</a>  
+   Link:<a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6225295944153705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6225295944153705/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstroKirsten/videos/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1396401381435957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroKirsten/videos/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1396401381435957/</a>  
+   Link:<a href="https://www.facebook.com/AstroKirsten/videos/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1396401381435957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroKirsten/videos/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1396401381435957/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AllAboutSeaBright/posts/5157402844398581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AllAboutSeaBright/posts/5157402844398581/</a>  
+   Link:<a href="https://www.facebook.com/groups/AllAboutSeaBright/posts/5157402844398581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AllAboutSeaBright/posts/5157402844398581/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EdinburghAirport/posts/%EF%B8%8F-edinburghs-airspace-is-modernisingthe-consultation-on-modernising-flightpaths-/1297577855748128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdinburghAirport/posts/%EF%B8%8F-edinburghs-airspace-is-modernisingthe-consultation-on-modernising-flightpaths-/1297577855748128/</a>  
+   Link:<a href="https://www.facebook.com/EdinburghAirport/posts/%EF%B8%8F-edinburghs-airspace-is-modernisingthe-consultation-on-modernising-flightpaths-/1297577855748128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdinburghAirport/posts/%EF%B8%8F-edinburghs-airspace-is-modernisingthe-consultation-on-modernising-flightpaths-/1297577855748128/</a>  
    Published: January 2026  

@@ -254,7 +254,7 @@ image: /assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-overview-
 
 ## Introduction
 
-The reported Creggan UFO footage from December 2003 is important less because it proves an extraordinary object over Derry, and more because it shows the central problem with modern UFO video: a recording can look persuasive while still lacking the basic information needed to test it. The available public account says that a Londonderry man, Jim Duffy, captured a “flying saucer-type object” while filming a plane above the city, and that experts later offered to examine the footage. The key point is that the case appears to have had a camcorder record, but not a publicly available original file, full timestamp, camera data, aircraft check, weather check or independent triangulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span>
+The reported Creggan UFO footage from December 2003 is important less because it proves an extraordinary object over Derry, and more because it shows the central problem with modern UFO video: a recording can look persuasive while still lacking the basic information needed to test it. The available public account says that a Londonderry man, Jim Duffy, captured a “flying saucer-type object” while filming a plane above the city, and that experts later offered to examine the footage. The key point is that the case appears to have had a camcorder record, but not a publicly available original file, full timestamp, camera data, aircraft check, weather check or independent triangulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-overview.webp" | relative_url }}" alt="Overview image for Creggan Video" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,21 +262,21 @@ That makes the Creggan footage a useful [County Londonderry]({{ 'county-londonde
 
 ## What was reported above Creggan
 
-Creggan is a large housing estate in Derry, close to the River Foyle and near the border with County Donegal, so any sky sighting there belongs naturally to the north-western edge of historic County Londonderry while also sitting near cross-border air and media geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mapcarta.com/17649716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapcarta.com">[Mapcarta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapcarta.com</span><span class="citation-popover-snippet">Open source on mapcarta.com.</span></span></span> In this project’s county frame, the relevant setting is historic County Londonderry, not only a modern council boundary; Derry/Londonderry itself is now within Derry City and Strabane, while the former county identity remains an important geographic reference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Londonderry-city-and-district-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Londonderry &#124; History, Name, &amp; Map</span><span class="citation-popover-snippet">Encyclopedia Britannica Londonderry &#124; History, Name, &amp; Map</span></span></span>
+Creggan is a large housing estate in Derry, close to the River Foyle and near the border with County Donegal, so any sky sighting there belongs naturally to the north-western edge of historic County Londonderry while also sitting near cross-border air and media geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mapcarta.com/17649716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapcarta.com">[Mapcarta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapcarta.com</span><span class="citation-popover-snippet">Open source on mapcarta.com.</span></span></span> In this project’s county frame, the relevant setting is historic County Londonderry, not only a modern council boundary; Derry/Londonderry itself is now within Derry City and Strabane, while the former county identity remains an important geographic reference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Londonderry-city-and-district-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Londonderry &#124; History, Name, &amp; Map</span><span class="citation-popover-snippet">Encyclopedia Britannica Londonderry &#124; History, Name, &amp; Map</span></span></span>
 
-The reported incident entered public view in January 2004. The Belfast Telegraph’s accessible listing says the object was filmed “last month”, which places the sighting in December 2003, and describes it as a flying-saucer-type image captured while the witness was filming a plane above the city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> That detail matters. It means the camera was already pointed at known aviation, not at an empty sky where the object was the only possible focus. In video analysis, that can cut both ways: it may give investigators a useful reference object, but it also raises the chance that another aircraft, reflected light, camera movement or depth confusion entered the scene.
+The reported incident entered public view in January 2004. The Belfast Telegraph’s accessible listing says the object was filmed “last month”, which places the sighting in December 2003, and describes it as a flying-saucer-type image captured while the witness was filming a plane above the city.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> That detail matters. It means the camera was already pointed at known aviation, not at an empty sky where the object was the only possible focus. In video analysis, that can cut both ways: it may give investigators a useful reference object, but it also raises the chance that another aircraft, reflected light, camera movement or depth confusion entered the scene.
 
-The public trail is thin. The original newspaper report says experts offered to examine the footage, but the accessible record does not establish that a full technical analysis was completed, published or archived with the original recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> Nor does the Ministry of Defence’s published 2003 UFO report list visibly show a Creggan or Derry entry for 20 December; the closest Northern Ireland entry in that year’s public list is a Belfast report on 13 May, described only as “two objects that looked like stars”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That absence does not disprove the Creggan sighting. It simply means the best public record appears to be media-led rather than official-file-led.
+The public trail is thin. The original newspaper report says experts offered to examine the footage, but the accessible record does not establish that a full technical analysis was completed, published or archived with the original recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> Nor does the Ministry of Defence’s published 2003 UFO report list visibly show a Creggan or Derry entry for 20 December; the closest Northern Ireland entry in that year’s public list is a Belfast report on 13 May, described only as “two objects that looked like stars”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> That absence does not disprove the Creggan sighting. It simply means the best public record appears to be media-led rather than official-file-led.
 
 
 <img src="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-1-dark.svg" | relative_url }}" alt="Creggan Video illustration 1" data-theme-src-dark="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a camcorder image is not automatically strong evidence
 
-A video feels more objective than a witness statement because it gives the viewer something to inspect. In practice, UFO videos often inherit the same uncertainty as eyewitness accounts unless the recording preserves enough context to measure what was filmed. NASA’s independent UAP study made this point in modern terms: analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+A video feels more objective than a witness statement because it gives the viewer something to inspect. In practice, UFO videos often inherit the same uncertainty as eyewitness accounts unless the recording preserves enough context to measure what was filmed. NASA’s independent UAP study made this point in modern terms: analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 The Creggan report illustrates that problem neatly. A camcorder could show a light, disc shape or moving dot, but the image alone may not tell us distance, size, altitude or speed. A small nearby object can appear to cross the frame quickly. A distant aircraft can look stationary if it is coming towards or away from the camera. A bright object can flare, smear or take on a “saucer” outline because of focus, zoom, exposure or compression. Without the raw tape or file, it is difficult even to know whether later copies introduced artefacts.
 
-This is especially relevant because the reported footage was taken while filming a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> A known plane in the frame could help establish direction, zoom level and camera movement if the original sequence were available. But it could also create a misleading comparison: an unknown object that is much closer or much farther away may appear to move strangely against the aircraft simply because the two are not at the same distance. That is the everyday geometry behind many “impossible speed” impressions in UFO video.
+This is especially relevant because the reported footage was taken while filming a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> A known plane in the frame could help establish direction, zoom level and camera movement if the original sequence were available. But it could also create a misleading comparison: an unknown object that is much closer or much farther away may appear to move strangely against the aircraft simply because the two are not at the same distance. That is the everyday geometry behind many “impossible speed” impressions in UFO video.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g256IPFoqMg" title="Is This Pyramid UFO just Bokeh?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g256IPFoqMg" target="_blank" rel="noopener noreferrer">Is This Pyramid UFO just Bokeh?</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 62.8K &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g256IPFoqMg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g256IPFoqMg">Open on YouTube</a></p></div></div></div>
@@ -300,15 +300,15 @@ The most useful checks would be practical rather than exotic:
 
 </div>
 
-These are not unreasonable demands designed to dismiss the case. They are the difference between “there is a strange-looking video” and “there is a measurable event”. Modern UAP researchers make the same distinction. The Galileo Project’s proposed approach emphasises multiple instruments, wide-field and narrow-field cameras, radar-related measurements, environmental sensors and triangulation precisely because single-camera observations struggle to establish reliable range and motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+These are not unreasonable demands designed to dismiss the case. They are the difference between “there is a strange-looking video” and “there is a measurable event”. Modern UAP researchers make the same distinction. The Galileo Project’s proposed approach emphasises multiple instruments, wide-field and narrow-field cameras, radar-related measurements, environmental sensors and triangulation precisely because single-camera observations struggle to establish reliable range and motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-2-dark.svg" | relative_url }}" alt="Creggan Video illustration 2" data-theme-src-dark="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The local aviation setting matters
 
-Derry is not an empty-sky location. City of Derry Airport is at Eglinton in County Londonderry, with official airport information placing it on Airport Road, Eglinton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cityofderryairport.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cityofderryairport.com">[cityofderryairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cityofderryairport.com</span><span class="citation-popover-title">City of Derry Airport</span><span class="citation-popover-snippet">City of Derry Airport</span></span></span> The wider airport record identifies it as Londonderry/Eglinton, with a runway designated 08/26 and scheduled commercial use; historical traffic data also show that 2003 was an active period, with more than 200,000 passengers and thousands of aircraft movements recorded in airport statistics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/City_of_Derry_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">City of Derry Airport</span><span class="citation-popover-snippet">City of Derry Airport</span></span></span>
+Derry is not an empty-sky location. City of Derry Airport is at Eglinton in County Londonderry, with official airport information placing it on Airport Road, Eglinton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cityofderryairport.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cityofderryairport.com">[cityofderryairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cityofderryairport.com</span><span class="citation-popover-title">City of Derry Airport</span><span class="citation-popover-snippet">City of Derry Airport</span></span></span> The wider airport record identifies it as Londonderry/Eglinton, with a runway designated 08/26 and scheduled commercial use; historical traffic data also show that 2003 was an active period, with more than 200,000 passengers and thousands of aircraft movements recorded in airport statistics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/City_of_Derry_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">City of Derry Airport</span><span class="citation-popover-snippet">City of Derry Airport</span></span></span>
 
-That does not mean the Creggan object was an aircraft. It means aircraft must be treated as a first-line comparison, especially because the witness was reportedly filming a plane at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> Possible ordinary explanations would include a second aircraft at a different distance, a reflection from an aircraft surface, a bird or balloon crossing the field of view, a windborne object, or an optical effect created by the camcorder’s focus and exposure. Each would need testing against the actual footage, not simply asserted.
+That does not mean the Creggan object was an aircraft. It means aircraft must be treated as a first-line comparison, especially because the witness was reportedly filming a plane at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> Possible ordinary explanations would include a second aircraft at a different distance, a reflection from an aircraft surface, a bird or balloon crossing the field of view, a windborne object, or an optical effect created by the camcorder’s focus and exposure. Each would need testing against the actual footage, not simply asserted.
 
 The regional geography also complicates tidy county labels. Derry sits near Lough Foyle, Donegal and the north-west approaches, so a sky object seen from Creggan may lie over County Londonderry, over the border, over the Foyle corridor, or along an approach or departure path. For county-level UFO history, that is why the Creggan footage should be treated as a Derry/County Londonderry report with aviation and cross-border context, not as a sealed local mystery.
 
@@ -317,11 +317,11 @@ The regional geography also complicates tidy county labels. Derry sits near Loug
 
 ## Why public evidence remains limited
 
-The main weakness in the Creggan case is not that a mundane explanation has been proven. It is that the public evidence is not strong enough to choose confidently between explanations. The Belfast Telegraph report confirms a media-reported claim and an offer of expert examination, but the accessible public record does not supply the kind of complete technical packet that would let later readers repeat the analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span>
+The main weakness in the Creggan case is not that a mundane explanation has been proven. It is that the public evidence is not strong enough to choose confidently between explanations. The Belfast Telegraph report confirms a media-reported claim and an offer of expert examination, but the accessible public record does not supply the kind of complete technical packet that would let later readers repeat the analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span>
 
-That puts Creggan in a familiar UK UFO category: visible enough to enter local memory, but not documented enough to become a robust test case. The National Archives describes UK UFO records as surviving mainly in policy, correspondence and sighting-report material rather than as a comprehensive scientific evidence base for each event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The Ministry of Defence’s published UFO-report lists for 1997 to 2009 are useful for seeing what was reported to the department, but they are short summaries, not full forensic investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+That puts Creggan in a familiar UK UFO category: visible enough to enter local memory, but not documented enough to become a robust test case. The National Archives describes UK UFO records as surviving mainly in policy, correspondence and sighting-report material rather than as a comprehensive scientific evidence base for each event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The Ministry of Defence’s published UFO-report lists for 1997 to 2009 are useful for seeing what was reported to the department, but they are short summaries, not full forensic investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The MoD’s wider position also matters. When the final UFO files were released, reporting on the closure of the UFO desk noted the official view that decades of reports had not shown evidence of a potential threat to the United Kingdom, and that continuing the desk was not considered a good use of defence resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span> That does not settle every individual sighting, but it explains why many local cases never received the kind of deep official analysis that enthusiasts later wish existed.
+The MoD’s wider position also matters. When the final UFO files were released, reporting on the closure of the UFO desk noted the official view that decades of reports had not shown evidence of a potential threat to the United Kingdom, and that continuing the desk was not considered a good use of defence resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span> That does not settle every individual sighting, but it explains why many local cases never received the kind of deep official analysis that enthusiasts later wish existed.
 
 
 <img src="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-3-dark.svg" | relative_url }}" alt="Creggan Video illustration 3" data-theme-src-dark="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Londonderry_6c8609_creggan_footage_2ffd08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -345,194 +345,194 @@ For readers comparing Creggan with other County Londonderry material, that disti
 The Creggan report should not be dismissed simply because it lacks a finished explanation. Nor should it be promoted as proof because a camera was involved. Its proper place is in the middle: unresolved in public terms, weak as a proof claim, but valuable as a County Londonderry example of why the best UFO investigations ask ordinary questions first — where was the camera, when was it recording, what else was in the sky, who else saw it, and can the original evidence still be checked?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Creggan UFO Footage Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Creggan UFO Footage Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFOs that Never Were on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vTt_PQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFOs that Never Were" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFOs that Never Were">The UFOs that Never Were</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Andy Roberts et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFOs that Never Were on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vTt_PQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFOs that Never Were" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFOs that Never Were">The UFOs that Never Were</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Andy Roberts et al.</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s argument that footage without context, timestamps, and original data remains weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s argument that footage without context, timestamps, and original data remains weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating single-case reports and the difference between interesting evidence and sufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating single-case reports and the difference between interesting evidence and sufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives readers examples of stronger UFO cases and why documentation quality matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers examples of stronger UFO cases and why documentation quality matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Helps readers understand how filmed sky objects can be misinterpreted through perspective, motion, and context loss.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how filmed sky objects can be misinterpreted through perspective, motion, and context loss.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFOs that Never Were</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFOs that Never Were</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="creggan-video-did-the-creggan-ufo-footage-prove-anything-county-londonderry-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-creggan-ufo-footage-prove-anything-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ The Creggan report should not be dismissed simply because it lacks a finished ex
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ The Creggan report should not be dismissed simply because it lacks a finished ex
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ The Creggan report should not be dismissed simply because it lacks a finished ex
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ The Creggan report should not be dismissed simply because it lacks a finished ex
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ The Creggan report should not be dismissed simply because it lacks a finished ex
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,218 +738,218 @@ The Creggan report should not be dismissed simply because it lacks a finished ex
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mapcarta.com  
-   Link: <a href="https://mapcarta.com/17649716" target="_blank" rel="noopener noreferrer nofollow">https://mapcarta.com/17649716</a>  
+   Link:<a href="https://mapcarta.com/17649716" target="_blank" rel="noopener noreferrer nofollow">https://mapcarta.com/17649716</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Londonderry | History, Name, & Map  
-   Link: <a href="https://www.britannica.com/place/Londonderry-city-and-district-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Londonderry-city-and-district-Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Londonderry-city-and-district-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Londonderry-city-and-district-Northern-Ireland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Londonderry former county Northern Ireland  
-   Link: <a href="https://www.britannica.com/place/Londonderry-former-county-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Londonderry-former-county-Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Londonderry-former-county-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Londonderry-former-county-Northern-Ireland</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cityofderryairport.com  
    Title: City of Derry Airport  
-   Link: <a href="https://www.cityofderryairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityofderryairport.com/</a>  
+   Link:<a href="https://www.cityofderryairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityofderryairport.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: City of Derry Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/City_of_Derry_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/City_of_Derry_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/City_of_Derry_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/City_of_Derry_Airport</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.ukchapter 1  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C10340417" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C10340417</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C10340417" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C10340417</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/redirection/redirect/?Edoc_Id=8627684&amp;queryType=1&amp;resultcount=1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/redirection/redirect/?Edoc_Id=8627684&amp;queryType=1&amp;resultcount=1</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/redirection/redirect/?Edoc_Id=8627684&amp;queryType=1&amp;resultcount=1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/redirection/redirect/?Edoc_Id=8627684&amp;queryType=1&amp;resultcount=1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Counties of Northern Ireland  
-   Link: <a href="https://en.wikipedia.org/wiki/Counties_of_Northern_Ireland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Northern_Ireland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Counties_of_Northern_Ireland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Northern_Ireland</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://de.wikipedia.org/wiki/Datei%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Datei%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Datei%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Datei%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: County Londonderry  
-   Link: <a href="https://en.wikipedia.org/wiki/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Londonderry</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Londonderry</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: River Foyle  
-   Link: <a href="https://en.wikipedia.org/wiki/River_Foyle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/River_Foyle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/River_Foyle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/River_Foyle</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cityofderryairport.com  
    Title: Live Flight Information  
-   Link: <a href="https://www.cityofderryairport.com/flight-information/live-flight-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityofderryairport.com/flight-information/live-flight-information/</a>  
+   Link:<a href="https://www.cityofderryairport.com/flight-information/live-flight-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityofderryairport.com/flight-information/live-flight-information/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cityofderryairport.com  
    Title: general aviation  
-   Link: <a href="https://www.cityofderryairport.com/general-and-corporate-aviation/general-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityofderryairport.com/general-and-corporate-aviation/general-aviation/</a>  
+   Link:<a href="https://www.cityofderryairport.com/general-and-corporate-aviation/general-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityofderryairport.com/general-and-corporate-aviation/general-aviation/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Northern-Ireland</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mapcarta.com  
    Title: County Londonderry Map  
-   Link: <a href="https://mapcarta.com/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://mapcarta.com/County_Londonderry</a>  
+   Link:<a href="https://mapcarta.com/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://mapcarta.com/County_Londonderry</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/experts-offer-to-examine-ufo-footage/a/119696518.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: The Guardian Alien nation: Mo D releases final UFO files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Londonderry</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Londonderry</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
    Title: unty Londonderry  
-   Link: <a href="https://wikishire.co.uk/wiki/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Londonderry</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Londonderry</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: en.wikivoyage.org  
    Title: County Londonderry  
-   Link: <a href="https://en.wikivoyage.org/wiki/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Londonderry</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/County_Londonderry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Londonderry</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
    Title: i study ufos and i dont believe the alien hype heres why  
-   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
+   Link:<a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Is This Pyramid UFO just Bokeh?  
-   Link: <a href="http://www.youtube.com/watch?v=g256IPFoqMg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g256IPFoqMg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West Explained: New Navy UFO Videos Explained: New Navy UFO Videos Mick West...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=g256IPFoqMg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g256IPFoqMg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West Explained: New Navy UFO Videos Explained: New Navy UFO Videos Mick West...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Is the Nimitz UFO Video Just a Plane?  
-   Link: <a href="http://www.youtube.com/watch?v=s1oTg0kxzDs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=s1oTg0kxzDs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=s1oTg0kxzDs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=s1oTg0kxzDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: propertypal.com  
-   Link: <a href="https://www.propertypal.com/8-creggan-road-derry/1072775" target="_blank" rel="noopener noreferrer nofollow">https://www.propertypal.com/8-creggan-road-derry/1072775</a>  
+   Link:<a href="https://www.propertypal.com/8-creggan-road-derry/1072775" target="_blank" rel="noopener noreferrer nofollow">https://www.propertypal.com/8-creggan-road-derry/1072775</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: artuk.org  
-   Link: <a href="https://artuk.org/discover/artworks/a-view-of-the-hill-of-derry-from-the-west-bank-of-the-river-foyle-just-south-of-the-city-312940" target="_blank" rel="noopener noreferrer nofollow">https://artuk.org/discover/artworks/a-view-of-the-hill-of-derry-from-the-west-bank-of-the-river-foyle-just-south-of-the-city-312940</a>  
+   Link:<a href="https://artuk.org/discover/artworks/a-view-of-the-hill-of-derry-from-the-west-bank-of-the-river-foyle-just-south-of-the-city-312940" target="_blank" rel="noopener noreferrer nofollow">https://artuk.org/discover/artworks/a-view-of-the-hill-of-derry-from-the-west-bank-of-the-river-foyle-just-south-of-the-city-312940</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/united-kingdom/londonderry/city-of-derry-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-kingdom/londonderry/city-of-derry-airport</a>  
+   Link:<a href="https://www.kupi.com/en-ae/explore/united-kingdom/londonderry/city-of-derry-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-kingdom/londonderry/city-of-derry-airport</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?id=95192557&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=95192557&amp;source=osm</a>  
+   Link:<a href="https://mapy.com/en/?id=95192557&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=95192557&amp;source=osm</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: billmacafee.com  
-   Link: <a href="https://www.billmacafee.com/sperrins/backgroundpapers/coderryhistoricalbackground.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.billmacafee.com/sperrins/backgroundpapers/coderryhistoricalbackground.pdf</a>  
+   Link:<a href="https://www.billmacafee.com/sperrins/backgroundpapers/coderryhistoricalbackground.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.billmacafee.com/sperrins/backgroundpapers/coderryhistoricalbackground.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/county_londonderry/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_londonderry/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/county_londonderry/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_londonderry/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: crossrangers.com  
-   Link: <a href="https://www.crossrangers.com/culture-heritage-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.crossrangers.com/culture-heritage-2/</a>  
+   Link:<a href="https://www.crossrangers.com/culture-heritage-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.crossrangers.com/culture-heritage-2/</a>  

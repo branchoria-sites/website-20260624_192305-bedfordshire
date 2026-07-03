@@ -254,7 +254,7 @@ image: /assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-over
 
 ## Introduction
 
-Kirkcudbright Training Area is one of the most important pieces of non-UFO context in [Kirkcudbrightshire]({{ 'what-makes-kirkcudbrightshire-ufo/' | relative_url }})’s UFO history. It does not explain every strange light reported over the Solway coast, and it should not be used as a lazy answer for every witness account. But it gives this part of the historic county a real military backdrop: live firing, red lamps at night, controlled impact areas, sea danger areas, military vehicles, occasional aircraft noise, and access restrictions that can make ordinary activity look unusual to people who do not know the range is active. GOV.UK describes Kirkcudbright Training Centre as an exposed headland on the northern Solway Firth, 5 kilometres south of Kirkcudbright, used for field fire and dry training across 1,900 hectares of farmland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+Kirkcudbright Training Area is one of the most important pieces of non-UFO context in [Kirkcudbrightshire]({{ 'what-makes-kirkcudbrightshire-ufo/' | relative_url }})’s UFO history. It does not explain every strange light reported over the Solway coast, and it should not be used as a lazy answer for every witness account. But it gives this part of the historic county a real military backdrop: live firing, red lamps at night, controlled impact areas, sea danger areas, military vehicles, occasional aircraft noise, and access restrictions that can make ordinary activity look unusual to people who do not know the range is active. GOV.UK describes Kirkcudbright Training Centre as an exposed headland on the northern Solway Firth, 5 kilometres south of Kirkcudbright, used for field fire and dry training across 1,900 hectares of farmland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-overview.webp" | relative_url }}" alt="Overview image for Military Range" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,11 +262,11 @@ For UFO interpretation, the key point is balance. The range is a strong local so
 
 ## What the range is and where it operates
 
-For this project, the county frame is historic Kirkcudbrightshire, also known as the Stewartry of Kirkcudbright or East Galloway, on the north coast of the Solway Firth. That matters because modern official and press sources usually use “Dumfries and Galloway”, a council area wider than the old county. The range itself sits firmly within the Kirkcudbrightshire story because it lies just south of Kirkcudbright and near Dundrennan, on the Solway-facing edge of the Stewartry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this project, the county frame is historic Kirkcudbrightshire, also known as the Stewartry of Kirkcudbright or East Galloway, on the north coast of the Solway Firth. That matters because modern official and press sources usually use “Dumfries and Galloway”, a council area wider than the old county. The range itself sits firmly within the Kirkcudbrightshire story because it lies just south of Kirkcudbright and near Dundrennan, on the Solway-facing edge of the Stewartry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The site has a long military history. The D-Day Story records that 4,700 acres south-east of Kirkcudbright were acquired by the Army in 1942 for training connected with the Normandy landings, including dry training, practice landings on Solway beaches, armoured training and long-range firing at Dundrennan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theddaystory.com/markers/kirkcudbright-training-area-dumfries-galloway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theddaystory.com">[The D-Day Story, Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theddaystory.com</span><span class="citation-popover-title">kirkcudbright training area dumfries galloway</span><span class="citation-popover-snippet">kirkcudbright training area dumfries galloway</span></span></span> The modern GOV.UK public-access page gives the same broad scale in current estate terms: 1,900 hectares, or 4,700 acres, used for a wide variety of field-fire and dry-training exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The site has a long military history. The D-Day Story records that 4,700 acres south-east of Kirkcudbright were acquired by the Army in 1942 for training connected with the Normandy landings, including dry training, practice landings on Solway beaches, armoured training and long-range firing at Dundrennan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theddaystory.com/markers/kirkcudbright-training-area-dumfries-galloway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theddaystory.com">[The D-Day Story, Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theddaystory.com</span><span class="citation-popover-title">kirkcudbright training area dumfries galloway</span><span class="citation-popover-snippet">kirkcudbright training area dumfries galloway</span></span></span> The modern GOV.UK public-access page gives the same broad scale in current estate terms: 1,900 hectares, or 4,700 acres, used for a wide variety of field-fire and dry-training exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
-That combination is unusually relevant to UFO reports because the training area is not just a silent historic relic. It is an active military landscape with visible safety systems and operational restrictions. The Solway Firth Partnership describes Kirkcudbright Training Area as about 19 square kilometres south of Kirkcudbright, used by the Ministry of Defence for live-fire training, with an approximate 750 square kilometre sea danger area; it also notes that the area is regularly closed to walkers and that military jets are often heard locally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span>
+That combination is unusually relevant to UFO reports because the training area is not just a silent historic relic. It is an active military landscape with visible safety systems and operational restrictions. The Solway Firth Partnership describes Kirkcudbright Training Area as about 19 square kilometres south of Kirkcudbright, used by the Ministry of Defence for live-fire training, with an approximate 750 square kilometre sea danger area; it also notes that the area is regularly closed to walkers and that military jets are often heard locally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span>
 
 The result is a setting where a witness may be watching a rural dark sky, hearing unexpected noise from the coast, seeing red warning lights, noticing sudden vehicle movement, or hearing aircraft without seeing them clearly. None of those experiences is automatically a UFO report. But each can become part of a UFO report if the observer lacks the range context, sees the event from a distance, or later retells it without the safety and training framework attached.
 
@@ -274,15 +274,15 @@ The result is a setting where a witness may be watching a rural dark sky, hearin
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-1-dark.svg" | relative_url }}" alt="Military Range illustration 1" data-theme-src-dark="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Warning lights, firing times and danger areas
 
-The most concrete source of possible misreading is the range’s warning system. GOV.UK’s current Scotland firing-times guidance says red flags by day and red lamps by night mark warning signals, while red and white poles mark range boundaries. It states plainly that red flags and red lamps mean live firing is taking place within the range boundaries, and that people should not enter the danger area when it is in use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Scotland firing times</span><span class="citation-popover-snippet">Scotland firing times</span></span></span>
+The most concrete source of possible misreading is the range’s warning system. GOV.UK’s current Scotland firing-times guidance says red flags by day and red lamps by night mark warning signals, while red and white poles mark range boundaries. It states plainly that red flags and red lamps mean live firing is taking place within the range boundaries, and that people should not enter the danger area when it is in use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Scotland firing times</span><span class="citation-popover-snippet">Scotland firing times</span></span></span>
 
 That sounds mundane, but it matters for night-sky interpretation. A red lamp on or near a military range is not a mysterious aerial object; it is a safety signal. From a distance, however, especially on a dark coast with few competing lights, a fixed or partially obscured red light can be misdescribed as hovering, pulsing, or moving if the observer is walking, driving, looking through trees, or seeing it through haze. The same applies to lights on range vehicles, barriers, safety positions or vessels linked to sea-area control.
 
-The June 2026 Kirkcudbright firing notice shows why simple calendar assumptions are risky. It gives daily permitted firing windows, including evening and night extensions on some weekdays, and then adds that visitors should rely on onsite warning signals because published timings may not capture short-notice changes. For June 2026, the listed times include 9am to 2am on Tuesdays and Thursdays, so activity may extend deep into hours when casual observers are more likely to frame unusual lights as strange or unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
+The June 2026 Kirkcudbright firing notice shows why simple calendar assumptions are risky. It gives daily permitted firing windows, including evening and night extensions on some weekdays, and then adds that visitors should rely on onsite warning signals because published timings may not capture short-notice changes. For June 2026, the listed times include 9am to 2am on Tuesdays and Thursdays, so activity may extend deep into hours when casual observers are more likely to frame unusual lights as strange or unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
 
-Kirkcudbright also has a sea dimension. The same current GOV.UK firing notice says the training centre has a sea danger area approximately 25 kilometres in length heading south from the coastline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span> The Solway Firth Partnership’s broader review describes the sea danger area as approximately 750 square kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span> For UFO reporting, this is important because a witness on land may be looking not just at aircraft or stars, but towards a managed maritime danger area where firing, safety control, patrol activity, vessel lights or distant illumination could be relevant.
+Kirkcudbright also has a sea dimension. The same current GOV.UK firing notice says the training centre has a sea danger area approximately 25 kilometres in length heading south from the coastline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span> The Solway Firth Partnership’s broader review describes the sea danger area as approximately 750 square kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span> For UFO reporting, this is important because a witness on land may be looking not just at aircraft or stars, but towards a managed maritime danger area where firing, safety control, patrol activity, vessel lights or distant illumination could be relevant.
 
-There is also an aviation layer. The Civil Aviation Authority has a current airspace-change publication for the “Kirkcudbright Danger Area”, dated 2 February 2018, showing that Kirkcudbright is not only a land-access issue but part of formal airspace management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/data-and-publications/publications/documents/content/acp20180901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> More generally, the CAA explains that a Danger Area is airspace where activities dangerous to aircraft may be taking place, usually involving live military training or testing, and that pilots should check NOTAMs and operating details before flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://infringements.caa.co.uk/tutorial/danger-areas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infringements.caa.co.uk">[CAA Infringement Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infringements.caa.co.uk</span><span class="citation-popover-title">CAA Infringement Tutorial Danger Areas</span><span class="citation-popover-snippet">CAA Infringement Tutorial Danger Areas</span></span></span>
+There is also an aviation layer. The Civil Aviation Authority has a current airspace-change publication for the “Kirkcudbright Danger Area”, dated 2 February 2018, showing that Kirkcudbright is not only a land-access issue but part of formal airspace management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/data-and-publications/publications/documents/content/acp20180901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> More generally, the CAA explains that a Danger Area is airspace where activities dangerous to aircraft may be taking place, usually involving live military training or testing, and that pilots should check NOTAMs and operating details before flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://infringements.caa.co.uk/tutorial/danger-areas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infringements.caa.co.uk">[CAA Infringement Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infringements.caa.co.uk</span><span class="citation-popover-title">CAA Infringement Tutorial Danger Areas</span><span class="citation-popover-snippet">CAA Infringement Tutorial Danger Areas</span></span></span>
 
 For a UFO investigator, this means the first question should not be “was it aliens or aircraft?” but “was the range active, and in what way?” A useful check would compare the reported date and time with firing notices, warning signals, NOTAMs, witness direction, weather, aircraft tracks where available, and whether the object was seen over land, over the Solway, or simply in the same broad quadrant as the range.
 
@@ -297,9 +297,9 @@ Three mechanisms are especially relevant in Kirkcudbrightshire.
 
 **First, fixed warning lights can be mistaken for hovering lights.** Red lamps are meant to be visible. In a dark rural setting, a fixed safety light can seem isolated and odd, especially if the observer lacks a clear view of the ground or horizon. If the observer is moving by car or on foot, ordinary parallax can make a stationary light appear to shift position against trees, hills or cloud.
 
-**Second, live firing and pyrotechnics can separate sight from sound.** A witness may hear firing, impact noise or aircraft without being able to locate the source. In coastal weather, sound can travel strangely, and the Solway’s open water can make direction hard to judge. GOV.UK’s firing guidance also warns that military debris may be dangerous and should not be touched, which underlines that the site is a real firing environment rather than a nominal military label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
+**Second, live firing and pyrotechnics can separate sight from sound.** A witness may hear firing, impact noise or aircraft without being able to locate the source. In coastal weather, sound can travel strangely, and the Solway’s open water can make direction hard to judge. GOV.UK’s firing guidance also warns that military debris may be dangerous and should not be touched, which underlines that the site is a real firing environment rather than a nominal military label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
 
-**Third, restricted areas can make ordinary activity feel secretive.** Fences, barriers, impact areas and closed routes create an atmosphere in which people know something official is happening but cannot observe it fully. GOV.UK says the Kirkcudbright site includes a controlled impact area that is fenced, signed and forbidden to enter, and that firing takes place when red flags are raised and barriers are locked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span> That restricted visibility is fertile ground for rumours, especially when a later UFO account is based on memory rather than immediate documentation.
+**Third, restricted areas can make ordinary activity feel secretive.** Fences, barriers, impact areas and closed routes create an atmosphere in which people know something official is happening but cannot observe it fully. GOV.UK says the Kirkcudbright site includes a controlled impact area that is fenced, signed and forbidden to enter, and that firing takes place when red flags are raised and barriers are locked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span> That restricted visibility is fertile ground for rumours, especially when a later UFO account is based on memory rather than immediate documentation.
 
 This is where sceptical interpretation needs care. “Military range nearby” is a good reason to ask better questions; it is not, by itself, a solved case. A distant orange light over the Solway during a firing period might be range-related, maritime, astronomical or something else. A structured investigation should treat the range as one candidate explanation among several, not as a magic eraser.
 
@@ -307,9 +307,9 @@ This is where sceptical interpretation needs care. “Military range nearby” i
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-2-dark.svg" | relative_url }}" alt="Military Range illustration 2" data-theme-src-dark="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UFO record around the county is thin, so context carries more weight
 
-Kirkcudbrightshire is not a county with a large public archive of landmark UFO cases. The better-known recent material tends to be regional rather than county-specific. In 2024, the Daily Record reported three Dumfries and Galloway sightings compiled by UFO Identified: a “circular UFO” over the Solway Coast on 6 February 2021, a “star-like UFO” over Dumfries on 11 December 2022, and “three orbs” seen from Galloway Park on 21 October 2023. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past</span></span></span>
+Kirkcudbrightshire is not a county with a large public archive of landmark UFO cases. The better-known recent material tends to be regional rather than county-specific. In 2024, the Daily Record reported three Dumfries and Galloway sightings compiled by UFO Identified: a “circular UFO” over the Solway Coast on 6 February 2021, a “star-like UFO” over Dumfries on 11 December 2022, and “three orbs” seen from Galloway Park on 21 October 2023.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past</span></span></span>
 
-Only the Solway Coast example naturally overlaps with the coastal and military setting relevant to Kirkcudbrightshire, and even then the public wording does not securely place it inside the historic county or tie it to Kirkcudbright Training Area. The reported description — a flat, dark, round object with lights at the back — is more specific than a vague “orb” report, but public reporting does not provide the kind of detail needed to test a range explanation: exact location, viewing direction, duration, elevation, weather, aircraft data, firing schedule comparison, photographs, radar, or independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past</span></span></span>
+Only the Solway Coast example naturally overlaps with the coastal and military setting relevant to Kirkcudbrightshire, and even then the public wording does not securely place it inside the historic county or tie it to Kirkcudbright Training Area. The reported description — a flat, dark, round object with lights at the back — is more specific than a vague “orb” report, but public reporting does not provide the kind of detail needed to test a range explanation: exact location, viewing direction, duration, elevation, weather, aircraft data, firing schedule comparison, photographs, radar, or independent corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past</span></span></span>
 
 That thinness changes how the page should be read. The range is not being introduced because it has been proven to explain a famous Kirkcudbrightshire UFO case. It is introduced because, in a county with sparse public UFO evidence, the best analysis often lies in understanding the local filters that can distort sightings before they become folklore. Kirkcudbright Training Area is one of the strongest local filters.
 
@@ -319,9 +319,9 @@ A report from this area is stronger if it can show that the range was inactive, 
 
 Dundrennan Range, part of the Kirkcudbright Training Area, adds a second layer: this is not only a troop-training landscape but also a place associated with weapons testing and environmental controversy. That does not make UFO claims more likely to be exotic. It does explain why some local stories may acquire a more secretive or experimental flavour than they would in an ordinary rural setting.
 
-The Solway Firth Partnership identifies Dundrennan as a military testing range within Kirkcudbright Training Area and notes past concern about depleted uranium munitions, saying testing ceased in 2008. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> hosts Ministry of Defence and Defence Science and Technology Laboratory environmental surveys and investigations of Kirkcudbright Training Area, stating that the MOD regularly conducted surveys to assess the impact of depleted uranium test firings on terrestrial and marine environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/depleted-uranium-environmental-surveys-of-kirkcudbright-training-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Depleted Uranium: environmental surveys of Kirkcudbright Training Area</span><span class="citation-popover-snippet">Depleted Uranium: environmental surveys of Kirkcudbright Training Area</span></span></span>
+The Solway Firth Partnership identifies Dundrennan as a military testing range within Kirkcudbright Training Area and notes past concern about depleted uranium munitions, saying testing ceased in 2008.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> hosts Ministry of Defence and Defence Science and Technology Laboratory environmental surveys and investigations of Kirkcudbright Training Area, stating that the MOD regularly conducted surveys to assess the impact of depleted uranium test firings on terrestrial and marine environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/depleted-uranium-environmental-surveys-of-kirkcudbright-training-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Depleted Uranium: environmental surveys of Kirkcudbright Training Area</span><span class="citation-popover-snippet">Depleted Uranium: environmental surveys of Kirkcudbright Training Area</span></span></span>
 
-There is also a technological history that can feed public imagination. A paper listing for “The Kirkcudbright Electromagnetic Launch Facility” describes a UK Ministry of Defence electromagnetic launch facility at the Royal Armament Research and Development Establishment range at Kirkcudbright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/The-Kirkcudbright-Electromagnetic-Launch-Facility-Hammon-Dempsey/da8b04efb0ade6cbf3ad1635f5d50c66481576c5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Open source on semanticscholar.org.</span></span></span> This is relevant not because railgun research explains lights in the sky, but because known experimental or specialised military work can make later rumours sound more plausible than the evidence warrants.
+There is also a technological history that can feed public imagination. A paper listing for “The Kirkcudbright Electromagnetic Launch Facility” describes a UK Ministry of Defence electromagnetic launch facility at the Royal Armament Research and Development Establishment range at Kirkcudbright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/The-Kirkcudbright-Electromagnetic-Launch-Facility-Hammon-Dempsey/da8b04efb0ade6cbf3ad1635f5d50c66481576c5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Open source on semanticscholar.org.</span></span></span> This is relevant not because railgun research explains lights in the sky, but because known experimental or specialised military work can make later rumours sound more plausible than the evidence warrants.
 
 For UFO history, the safe conclusion is narrow. Dundrennan’s testing history makes it reasonable to check for military explanations before treating a report as unexplained. It does not justify assuming that every odd light was a classified aircraft, missile, drone, railgun test or cover-up. The best evidence remains the same: date, time, sightline, range status, airspace notice, witness reliability and independent records.
 
@@ -351,9 +351,9 @@ This approach keeps the analysis fair. It protects readers from two opposite mis
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-3-dark.svg" | relative_url }}" alt="Military Range illustration 3" data-theme-src-dark="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kirkcudbrightshire_97fbf2_training_area_contex_92b97d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a good investigation would check first
 
-A serious Kirkcudbrightshire UFO assessment should begin with local military context before reaching for more exotic explanations. The first check is the date and time against the relevant GOV.UK firing notice, remembering that modern notices show permitted firing windows and that onsite red flags or red lamps are the decisive safety signal. GOV.UK explicitly says users should refer to onsite warning signals to understand whether the site is safe to access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
+A serious Kirkcudbrightshire UFO assessment should begin with local military context before reaching for more exotic explanations. The first check is the date and time against the relevant GOV.UK firing notice, remembering that modern notices show permitted firing windows and that onsite red flags or red lamps are the decisive safety signal. GOV.UK explicitly says users should refer to onsite warning signals to understand whether the site is safe to access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">kirkcudbright range control firing times june 2026</span><span class="citation-popover-snippet">kirkcudbright range control firing times june 2026</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
 
-The second check is direction. A light seen south of Kirkcudbright, south-east towards Dundrennan, or out over the Solway is more exposed to range and sea-danger-area explanations than one seen far inland or in a different part of the sky. The training centre’s location 5 kilometres south of Kirkcudbright and its sea danger area extending south from the coast make witness bearing especially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The second check is direction. A light seen south of Kirkcudbright, south-east towards Dundrennan, or out over the Solway is more exposed to range and sea-danger-area explanations than one seen far inland or in a different part of the sky. The training centre’s location 5 kilometres south of Kirkcudbright and its sea danger area extending south from the coast make witness bearing especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
 The third check is whether the report describes an object or only a light. Many UFO accounts begin as “lights in the sky”, but in a range environment lights may be warnings, vehicles, vessels, aircraft, flares, reflections, drones, planets, satellites or meteors. A report that includes angular movement, duration, sound, photographs, multiple locations and a known horizon reference is far more useful than a single impression of a glowing point.
 
@@ -370,194 +370,194 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Can The Range Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Can The Range Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frequently addresses military witnesses and defence-related contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently addresses military witnesses and defence-related contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers military facilities, government interest and disputed sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military facilities, government interest and disputed sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand how military technology can influence UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how military technology can influence UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how secrecy and testing ranges shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secrecy and testing ranges shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print"><img src="{{ '/assets/images/marketplace-covers/44ae80316e286230af50.jpg' | relative_url }}" alt="Listing image for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print"><img src="{{ '/assets/images/marketplace-covers/44ae80316e286230af50.jpg' | relative_url }}" alt="Listing image for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPITFIRE ART BY BARRIE AF CLARKE"><img src="{{ '/assets/images/marketplace-covers/e03294ec570ae95eee3a.jpg' | relative_url }}" alt="Listing image for SPITFIRE ART BY BARRIE AF CLARKE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">SPITFIRE ART BY BARRIE AF CLARKE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPITFIRE ART BY BARRIE AF CLARKE"><img src="{{ '/assets/images/marketplace-covers/e03294ec570ae95eee3a.jpg' | relative_url }}" alt="Listing image for SPITFIRE ART BY BARRIE AF CLARKE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">SPITFIRE ART BY BARRIE AF CLARKE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-range-how-much-can-the-range-explain-kirkcudbrightshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,195 +763,195 @@ At the same time, the range should not be used to dismiss witnesses unfairly. Pe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/scotland-public-access-to-military-areas</a>  
+   Link:<a href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/scotland-public-access-to-military-areas</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Scotland firing times  
-   Link: <a href="https://www.gov.uk/government/publications/scotland-firing-times" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times</a>  
+   Link:<a href="https://www.gov.uk/government/publications/scotland-firing-times" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: kirkcudbright range control firing times june 2026  
-   Link: <a href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026</a>  
+   Link:<a href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-june-2026</a>  
    Published: june 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Depleted Uranium: environmental surveys of Kirkcudbright Training Area  
-   Link: <a href="https://www.gov.uk/government/publications/depleted-uranium-environmental-surveys-of-kirkcudbright-training-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/depleted-uranium-environmental-surveys-of-kirkcudbright-training-area</a>  
+   Link:<a href="https://www.gov.uk/government/publications/depleted-uranium-environmental-surveys-of-kirkcudbright-training-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/depleted-uranium-environmental-surveys-of-kirkcudbright-training-area</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: kirkcudbright range control firing times may 2026  
-   Link: <a href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026</a>  
+   Link:<a href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026</a>  
    Published: may 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Kirkcudbright Training Centre  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7987c340f0b63d72fc690d/sanctuary_36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7987c340f0b63d72fc690d/sanctuary_36.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7987c340f0b63d72fc690d/sanctuary_36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7987c340f0b63d72fc690d/sanctuary_36.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Sanctuary 2019 lo res web NEW  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Sanctuary magazine 2022  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/641887a18fa8f547c001318b/Sanctuary_magazine_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/641887a18fa8f547c001318b/Sanctuary_magazine_2022.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/641887a18fa8f547c001318b/Sanctuary_magazine_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/641887a18fa8f547c001318b/Sanctuary_magazine_2022.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: insidedio.blog.gov.uk  
    Title: from d day to today braunton burrows training area  
-   Link: <a href="https://insidedio.blog.gov.uk/2019/06/05/from-d-day-to-today-braunton-burrows-training-area/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2019/06/05/from-d-day-to-today-braunton-burrows-training-area/</a>  
+   Link:<a href="https://insidedio.blog.gov.uk/2019/06/05/from-d-day-to-today-braunton-burrows-training-area/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2019/06/05/from-d-day-to-today-braunton-burrows-training-area/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aidu.mod.uk  
    Title: uk U K MIL AIP ENR 5  
-   Link: <a href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf</a>  
+   Link:<a href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dumfriesandgalloway.gov.uk  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Report_F05_3rn0ovoch78f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Report_F05_3rn0ovoch78f.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Report_F05_3rn0ovoch78f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Report_F05_3rn0ovoch78f.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dumfriesandgalloway.gov.uk  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dumfriesandgalloway.gov.uk  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Statement_F01_8hy42e6f4ehr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Statement_F01_8hy42e6f4ehr.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Statement_F01_8hy42e6f4ehr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-12/SEA_Statement_F01_8hy42e6f4ehr.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dumfriesandgalloway.gov.uk  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-05/Fleet_Valley_Management_Strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-05/Fleet_Valley_Management_Strategy.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-05/Fleet_Valley_Management_Strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-05/Fleet_Valley_Management_Strategy.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kirkcudbright.co  
-   Link: <a href="https://www.kirkcudbright.co/historyarticle.asp?ID=145&amp;g=5&amp;p=29" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkcudbright.co/historyarticle.asp?ID=145&amp;g=5&amp;p=29</a>  
+   Link:<a href="https://www.kirkcudbright.co/historyarticle.asp?ID=145&amp;g=5&amp;p=29" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkcudbright.co/historyarticle.asp?ID=145&amp;g=5&amp;p=29</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: i.rcahms.gov.uk  
-   Link: <a href="https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf" target="_blank" rel="noopener noreferrer nofollow">https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf</a>  
+   Link:<a href="https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf" target="_blank" rel="noopener noreferrer nofollow">https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/operation-overlord-and-d-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/operation-overlord-and-d-day/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/operation-overlord-and-d-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/operation-overlord-and-d-day/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5842/Public%20reports%20pack%20Wednesday%2025-Sep-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkcudbrightshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkcudbrightshire</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theddaystory.com  
    Title: kirkcudbright training area dumfries galloway  
-   Link: <a href="https://theddaystory.com/markers/kirkcudbright-training-area-dumfries-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://theddaystory.com/markers/kirkcudbright-training-area-dumfries-galloway/</a>  
+   Link:<a href="https://theddaystory.com/markers/kirkcudbright-training-area-dumfries-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://theddaystory.com/markers/kirkcudbright-training-area-dumfries-galloway/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: solwayfirthpartnership.co.uk  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/acp20180901/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/acp20180901/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/acp20180901/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/acp20180901/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: infringements.caa.co.uk  
    Title: CAA Infringement Tutorial Danger Areas  
-   Link: <a href="https://infringements.caa.co.uk/tutorial/danger-areas/" target="_blank" rel="noopener noreferrer nofollow">https://infringements.caa.co.uk/tutorial/danger-areas/</a>  
+   Link:<a href="https://infringements.caa.co.uk/tutorial/danger-areas/" target="_blank" rel="noopener noreferrer nofollow">https://infringements.caa.co.uk/tutorial/danger-areas/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dailyrecord.co.uk  
    Title: Daily Record Three UFO sightings in Dumfries and Galloway over past  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-Kirkcudbright-Electromagnetic-Launch-Facility-Hammon-Dempsey/da8b04efb0ade6cbf3ad1635f5d50c66481576c5" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Kirkcudbright-Electromagnetic-Launch-Facility-Hammon-Dempsey/da8b04efb0ade6cbf3ad1635f5d50c66481576c5</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/The-Kirkcudbright-Electromagnetic-Launch-Facility-Hammon-Dempsey/da8b04efb0ade6cbf3ad1635f5d50c66481576c5" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Kirkcudbright-Electromagnetic-Launch-Facility-Hammon-Dempsey/da8b04efb0ade6cbf3ad1635f5d50c66481576c5</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Dundrennan Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Dundrennan_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dundrennan_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dundrennan_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dundrennan_Range</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirkcudbrightshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirkcudbrightshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Kirkcudbright" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkcudbright</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kirkcudbright" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkcudbright</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/19192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/19192</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/19192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/19192</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dailyrecord.co.uk  
    Title: full list ufo sightings scotland 29280825  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7-dxP_r7yF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7-dxP_r7yF4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Range Wrecks - Kirkudbright - The Search for Rare Tanks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7-dxP_r7yF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7-dxP_r7yF4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Range Wrecks - Kirkudbright - The Search for Rare Tanks...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Range Wrecks  
-   Link: <a href="https://www.youtube.com/watch?v=s6Sj2J3jWUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s6Sj2J3jWUU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Engineers Clear Explosives From A Training Area | Forces TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s6Sj2J3jWUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s6Sj2J3jWUU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Engineers Clear Explosives From A Training Area | Forces TV...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/</a>  
+   Link:<a href="https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: solwaymilitarytrail.co.uk  
-   Link: <a href="https://www.solwaymilitarytrail.co.uk/trail-attractions/dundrennan-ranges/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaymilitarytrail.co.uk/trail-attractions/dundrennan-ranges/</a>  
+   Link:<a href="https://www.solwaymilitarytrail.co.uk/trail-attractions/dundrennan-ranges/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaymilitarytrail.co.uk/trail-attractions/dundrennan-ranges/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/7670049293103878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/7670049293103878/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/7670049293103878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/7670049293103878/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/17458" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17458</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/17458" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17458</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1219068953073189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1219068953073189/</a>  
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1219068953073189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1219068953073189/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/hebrides/public-safety/information-for-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/hebrides/public-safety/information-for-pilots</a>  
+   Link:<a href="https://www.qinetiq.com/en/hebrides/public-safety/information-for-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/hebrides/public-safety/information-for-pilots</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kirkcudbrightshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kirkcudbrightshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: notaminfo.com  
-   Link: <a href="https://notaminfo.com/node/5" target="_blank" rel="noopener noreferrer nofollow">https://notaminfo.com/node/5</a>  
+   Link:<a href="https://notaminfo.com/node/5" target="_blank" rel="noopener noreferrer nofollow">https://notaminfo.com/node/5</a>  

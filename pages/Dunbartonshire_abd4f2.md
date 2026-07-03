@@ -118,9 +118,9 @@ heading_title: What Really Happened in Dunbartonshire Skies?
 page_heading_title: What Really Happened in Dunbartonshire Skies?
 source_count: 154
 infographic_count: 3
-page_website_name: Dunbartonshire UFOs
+page_website_name: Dunbartonshire
 page_banner_line: Clear, cautious routes through Dunbartonshire's scattered UFO record.
-site_website_name: Dunbartonshire UFOs
+site_website_name: Dunbartonshire
 site_banner_line: Clear, cautious routes through Dunbartonshire's scattered UFO record.
 site_image_description: A night view across the Clyde with Dumbarton Rock in the distance, aircraft lights in the sky, and a watcher standing near the...
 output_language: English
@@ -689,40 +689,40 @@ image: /assets/images/Dunbartonshire_abd4f2-overview-social.jpg
 
 ## Which Dunbartonshire is being used here?
 
-This page uses Dunbartonshire in the historic county sense, not simply the modern council area of West Dunbartonshire. That matters because UFO reports are often filed by town, council, police area or informal region, and older records may use “Dunbarton”, “Dumbartonshire” or “Dunbartonshire” differently. Scotland’s People describes Dunbarton county as a west of Scotland county also known as Dunbartonshire, notes boundary alterations in 1891, and states that counties as local government areas were abolished in Scotland in 1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span></span></span>
+This page uses Dunbartonshire in the historic county sense, not simply the modern council area of West Dunbartonshire. That matters because UFO reports are often filed by town, council, police area or informal region, and older records may use “Dunbarton”, “Dumbartonshire” or “Dunbartonshire” differently. Scotland’s People describes Dunbarton county as a west of Scotland county also known as Dunbartonshire, notes boundary alterations in 1891, and states that counties as local government areas were abolished in Scotland in 1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Dunbarton county &#124; Scotland&#x27;s People</span></span></span>
 
 
 <img src="{{ "/assets/images/Dunbartonshire_abd4f2-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Dunbartonshire..." loading="eager" decoding="sync" fetchpriority="high">
-The modern council map does not match the historic county exactly. West Dunbartonshire was created in 1996 from the former Clydebank district and the eastern part of Dumbarton district, while the largely rural western part of the old Dumbarton district, including Helensburgh, joined Argyll and Bute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/West_Dunbartonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">West Dunbartonshire</span><span class="citation-popover-snippet">West Dunbartonshire</span></span></span> A place such as Arrochar can therefore be in historic Dunbartonshire while sitting in the modern Argyll and Bute council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> For UFO history, that means a Helensburgh, Gare Loch or Rosneath Peninsula sighting can still be relevant to a Dunbartonshire page if the historic county frame is being used.
+The modern council map does not match the historic county exactly. West Dunbartonshire was created in 1996 from the former Clydebank district and the eastern part of Dumbarton district, while the largely rural western part of the old Dumbarton district, including Helensburgh, joined Argyll and Bute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/West_Dunbartonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">West Dunbartonshire</span><span class="citation-popover-snippet">West Dunbartonshire</span></span></span> A place such as Arrochar can therefore be in historic Dunbartonshire while sitting in the modern Argyll and Bute council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> For UFO history, that means a Helensburgh, Gare Loch or Rosneath Peninsula sighting can still be relevant to a Dunbartonshire page if the historic county frame is being used.
 
-The project’s county map frame also matters. The Wikishire interactive county map states that it uses historic county border data from the Historic County Borders Project, with OpenStreetMap, Ordnance Survey and National Statistics data also acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span> In practical terms, this page keeps Dumbarton, Clydebank, the Vale of Leven, Loch Lomond-side settlements, Helensburgh-side historic-county material and Clyde approaches in view, while avoiding a drift into all Glasgow, Argyll or Falkirk UFO lore unless it helps explain Dunbartonshire reports.
+The project’s county map frame also matters. The Wikishire interactive county map states that it uses historic county border data from the Historic County Borders Project, with OpenStreetMap, Ordnance Survey and National Statistics data also acknowledged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span> In practical terms, this page keeps Dumbarton, Clydebank, the Vale of Leven, Loch Lomond-side settlements, Helensburgh-side historic-county material and Clyde approaches in view, while avoiding a drift into all Glasgow, Argyll or Falkirk UFO lore unless it helps explain Dunbartonshire reports.
 
 ## What is actually recorded in Dunbartonshire?
 
 The public record is thin. There is no single Dunbartonshire UFO incident with a robust chain of evidence, official investigation file, named multiple witnesses, radar confirmation and later technical analysis. What does appear are isolated reports and newspaper/database mentions, mostly of lights or triangular forms.
 
-One modern example is the 30 October 2021 report listed by UFO Identified and reported in the Daily Record: at 9.35 pm in Dumbarton, a witness reportedly saw a triangular craft with a light at each corner, moving smoothly and silently before disappearing into cloud. The article attributes that entry to the National UFO Reporting Center, a US-based public reporting database rather than an official UK investigative body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span> NUFORC’s October 2021 index also lists a 10/30/2021 21:35 entry for “Dunbartionshire (UK/Scotland)” with the shape given as “Triangle”, though the location spelling itself is imperfect, which is a small reminder that database records need checking rather than uncritical reuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e202110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+One modern example is the 30 October 2021 report listed by UFO Identified and reported in the Daily Record: at 9.35 pm in Dumbarton, a witness reportedly saw a triangular craft with a light at each corner, moving smoothly and silently before disappearing into cloud. The article attributes that entry to the National UFO Reporting Center, a US-based public reporting database rather than an official UK investigative body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span> NUFORC’s October 2021 index also lists a 10/30/2021 21:35 entry for “Dunbartionshire (UK/Scotland)” with the shape given as “Triangle”, though the location spelling itself is imperfect, which is a small reminder that database records need checking rather than uncritical reuse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e202110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-A later NUFORC entry, posted in December 2024, describes a “massive beam of light” over Dumbarton, likened by the witness to a shooting star or asteroid, with red lights apparently in a triangular formation over the white light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That account is vivid, but it is also exactly the sort of brief, fast-moving sighting that can be difficult to investigate after the event. The witness comparison to a shooting star or asteroid is significant: some reports begin with a conventional astronomical analogy before adding details that make the observer uncertain.
+A later NUFORC entry, posted in December 2024, describes a “massive beam of light” over Dumbarton, likened by the witness to a shooting star or asteroid, with red lights apparently in a triangular formation over the white light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That account is vivid, but it is also exactly the sort of brief, fast-moving sighting that can be difficult to investigate after the event. The witness comparison to a shooting star or asteroid is significant: some reports begin with a conventional astronomical analogy before adding details that make the observer uncertain.
 
-Older newspaper indexing suggests that UFO talk in the wider Dumbarton district was not confined to the internet era. British Newspaper Archive search results for Strathclyde between 1950 and 1999 show Dunbartonshire hits for “UFO” and a snippet stating that “Unidentified Flying Objects” had been spotted several times in the Dumbarton District recently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=strathclyde%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> Because the full articles sit behind an archive interface and the snippet alone is limited, this is better treated as a pointer to local press activity than as proof of any particular unexplained event.
+Older newspaper indexing suggests that UFO talk in the wider Dumbarton district was not confined to the internet era. British Newspaper Archive search results for Strathclyde between 1950 and 1999 show Dunbartonshire hits for “UFO” and a snippet stating that “Unidentified Flying Objects” had been spotted several times in the Dumbarton District recently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=strathclyde%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> Because the full articles sit behind an archive interface and the snippet alone is limited, this is better treated as a pointer to local press activity than as proof of any particular unexplained event.
 
 
 <img src="{{ "/assets/images/Dunbartonshire_abd4f2-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Dunbartonshire... illustration 1" data-theme-src-dark="{{ "/assets/images/Dunbartonshire_abd4f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dunbartonshire_abd4f2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this area produces misidentifications
 
-Dunbartonshire’s geography makes the sky busy. Glasgow Airport’s own airspace material says that aircraft land into the wind and that, across an average year, 74% of aircraft landing on Runway 23 arrive from the north-east over areas around Clydebank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span> For anyone watching from Clydebank, Old Kilpatrick, Dumbarton, Bearsden-side areas or the hills above the Clyde, aircraft lights can appear to hover, flare, brighten, split or change direction as planes approach, bank or line up with the runway.
+Dunbartonshire’s geography makes the sky busy. Glasgow Airport’s own airspace material says that aircraft land into the wind and that, across an average year, 74% of aircraft landing on Runway 23 arrive from the north-east over areas around Clydebank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[Glasgow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span> For anyone watching from Clydebank, Old Kilpatrick, Dumbarton, Bearsden-side areas or the hills above the Clyde, aircraft lights can appear to hover, flare, brighten, split or change direction as planes approach, bank or line up with the runway.
 
 The Clyde itself adds another layer. Reports looking across water towards Greenock, Gourock, Helensburgh, Faslane or the wider estuary can be affected by distance, haze, reflected light and uncertainty over whether a source is airborne, on a hillside, on a vessel or on the far shore. A bright light over water can look detached from the landscape when there are few reference points.
 
-The National Archives’ UFO research guide gives the basic caution that is especially relevant here: in military usage, “UFO” does not mean alien spacecraft, but something in the sky an observer cannot recognise. It also notes that most investigated UFO reports have had ordinary explanations such as bright stars and planets, meteors, satellites, balloons, aircraft seen from unusual angles and space junk burning up in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span> That does not automatically explain every Dunbartonshire report, but it sets the right burden of proof.
+The National Archives’ UFO research guide gives the basic caution that is especially relevant here: in military usage, “UFO” does not mean alien spacecraft, but something in the sky an observer cannot recognise. It also notes that most investigated UFO reports have had ordinary explanations such as bright stars and planets, meteors, satellites, balloons, aircraft seen from unusual angles and space junk burning up in the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span> That does not automatically explain every Dunbartonshire report, but it sets the right burden of proof.
 
 For a Dunbartonshire sighting, the strongest first checks are usually simple:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Was the witness under or near a Glasgow Airport arrival or departure path? <span class="citation-chip-wrap"><a class="citation-chip" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[glasgowairport.consultationonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
+* Was the witness under or near a Glasgow Airport arrival or departure path?<span class="citation-chip-wrap"><a class="citation-chip" href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowairport.consultationonline.co.uk">[glasgowairport.consultationonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowairport.consultationonline.co.uk</span><span class="citation-popover-title">Glasgow Airport Current arrival routes</span><span class="citation-popover-snippet">Glasgow Airport Current arrival routes</span></span></span>
 * Was the object seen over the Clyde, where distance and reflections can mislead?
 * Was there a meteor, fireball, satellite pass or Starlink train at the same time?
 * Was the report near Faslane, Coulport or other military-linked activity?
@@ -737,22 +737,22 @@ Without those details, a case may remain “unidentified” in the everyday sens
 
 ## Faslane, the Clyde and the military question
 
-The most obvious defence link in the historic Dunbartonshire area is HM Naval Base Clyde, commonly known as Faslane, near Helensburgh on Gare Loch. The Royal Navy describes HMNB Clyde as its main presence in Scotland and the home of the core of the Submarine Service, including the UK’s nuclear deterrent and new-generation hunter-killer submarines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">Royal Navy HMNB Clyde &#124; Royal Navy</span><span class="citation-popover-snippet">Royal Navy HMNB Clyde &#124; Royal Navy</span></span></span> That makes the area sensitive, watched and occasionally rumour-prone.
+The most obvious defence link in the historic Dunbartonshire area is HM Naval Base Clyde, commonly known as Faslane, near Helensburgh on Gare Loch. The Royal Navy describes HMNB Clyde as its main presence in Scotland and the home of the core of the Submarine Service, including the UK’s nuclear deterrent and new-generation hunter-killer submarines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">Royal Navy HMNB Clyde &#124; Royal Navy</span><span class="citation-popover-snippet">Royal Navy HMNB Clyde &#124; Royal Navy</span></span></span> That makes the area sensitive, watched and occasionally rumour-prone.
 
 This does not mean that lights near Faslane should be assumed to be secret craft. It means the opposite: the threshold for claims should be higher because the area contains legitimate military, police, security, marine and aviation activity. Searchlights, patrols, helicopters, vessels, base lighting, exercises and distant aircraft can all become part of a UFO narrative when viewed from across the water or from the surrounding hills.
 
-A 2017 tabloid report described a “bizarre white light” seen above Gare Loch near Faslane from across the water in Greenock. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/1896507/watch-as-huge-mystery-lights-shine-hundreds-of-feet-into-the-sky-above-faslane-nuclear-submarine-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Watch as huge mystery lights shine into sky above Faslane</span><span class="citation-popover-snippet">The Scottish Sun Watch as huge mystery lights shine into sky above Faslane</span></span></span> That is the kind of report that can attract attention because of the nuclear-base setting, but the setting alone is not evidence. A serious assessment would need the exact position, line of sight, weather, exposure settings if filmed, local lighting conditions, marine traffic and any official response. Without that, the case remains an interesting local claim rather than a landmark Dunbartonshire incident.
+A 2017 tabloid report described a “bizarre white light” seen above Gare Loch near Faslane from across the water in Greenock.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/1896507/watch-as-huge-mystery-lights-shine-hundreds-of-feet-into-the-sky-above-faslane-nuclear-submarine-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Watch as huge mystery lights shine into sky above Faslane</span><span class="citation-popover-snippet">The Scottish Sun Watch as huge mystery lights shine into sky above Faslane</span></span></span> That is the kind of report that can attract attention because of the nuclear-base setting, but the setting alone is not evidence. A serious assessment would need the exact position, line of sight, weather, exposure settings if filmed, local lighting conditions, marine traffic and any official response. Without that, the case remains an interesting local claim rather than a landmark Dunbartonshire incident.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EpYGWW89pN0" title="Why is the UK&#x27;s nuclear deterrent at the end of a Scottish loch? | In Case You Missed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EpYGWW89pN0" target="_blank" rel="noopener noreferrer">Why is the UK&#x27;s nuclear deterrent at the end of a Scottish loch? | In Case You Missed It</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EpYGWW89pN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EpYGWW89pN0">Open on YouTube</a></p></div></div></div>
 
 ## How the Ministry of Defence record changes the reading
 
-UK official records are important because they show what the Ministry of Defence was, and was not, trying to do with UFO reports. GOV.UK’s UFO reports page describes the released material as UK UFO reports from 1997 to 2009, with dates, times, locations and brief descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> These records are useful for pattern-checking, but they are not a catalogue of confirmed anomalies.
+UK official records are important because they show what the Ministry of Defence was, and was not, trying to do with UFO reports. GOV.UK’s UFO reports page describes the released material as UK UFO reports from 1997 to 2009, with dates, times, locations and brief descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> These records are useful for pattern-checking, but they are not a catalogue of confirmed anomalies.
 
-The National Archives guide makes the distinction plain: official interest was historically tied to whether sightings might represent a defence concern, not to proving alien visitation. It also explains that some branches of the MoD used the term UAP, or unidentified aerial phenomena, for reports that remained unidentified, and that the term does not imply an extraterrestrial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The National Archives guide makes the distinction plain: official interest was historically tied to whether sightings might represent a defence concern, not to proving alien visitation. It also explains that some branches of the MoD used the term UAP, or unidentified aerial phenomena, for reports that remained unidentified, and that the term does not imply an extraterrestrial object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The MoD’s own published 2009 report carries a key policy note: from 1 December 2009, the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That matters for Dunbartonshire because later reports in NUFORC, MUFON, BUFORA-style channels, local media or social platforms are not part of a continuing MoD investigation stream. They may be worth preserving, but they do not carry the same institutional context as older reports submitted to the defence system.
+The MoD’s own published 2009 report carries a key policy note: from 1 December 2009, the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That matters for Dunbartonshire because later reports in NUFORC, MUFON, BUFORA-style channels, local media or social platforms are not part of a continuing MoD investigation stream. They may be worth preserving, but they do not carry the same institutional context as older reports submitted to the defence system.
 
 
 <img src="{{ "/assets/images/Dunbartonshire_abd4f2-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Dunbartonshire... illustration 2" data-theme-src-dark="{{ "/assets/images/Dunbartonshire_abd4f2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dunbartonshire_abd4f2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -760,7 +760,7 @@ The MoD’s own published 2009 report carries a key policy note: from 1 December
 
 Many readers looking for Scottish UFO material quickly find Bonnybridge and the “Falkirk Triangle”. That cluster sits outside Dunbartonshire, but it affects how local reports are framed. Central Belt media coverage can make any unusual light from Dumbarton, Clydebank or the Clyde feel as if it belongs to the same wider Scottish UFO belt.
 
-Bonnybridge is frequently described as a major UFO hotspot, with popular accounts claiming hundreds of sightings a year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/why-is-a-small-village-in-scotland-the-uk-s-ufo-hotspot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Open source on history.co.uk.</span></span></span> The value for a Dunbartonshire page is comparative: Bonnybridge has a sustained place-based legend, repeat media attention and a recognisable UFO identity; Dunbartonshire has scattered reports, flight-path explanations and military-adjacent geography, but not the same concentrated folklore record.
+Bonnybridge is frequently described as a major UFO hotspot, with popular accounts claiming hundreds of sightings a year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/why-is-a-small-village-in-scotland-the-uk-s-ufo-hotspot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Open source on history.co.uk.</span></span></span> The value for a Dunbartonshire page is comparative: Bonnybridge has a sustained place-based legend, repeat media attention and a recognisable UFO identity; Dunbartonshire has scattered reports, flight-path explanations and military-adjacent geography, but not the same concentrated folklore record.
 
 That difference prevents overstatement. A triangle seen over Dumbarton in 2021 is relevant to Dunbartonshire UFO history, but it should not be absorbed into the Bonnybridge mythology simply because both are in Scotland’s central belt. The counties, sighting environments and evidential bases are different.
 
@@ -792,194 +792,194 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Dunbartonshire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Dunbartonshire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a careful evidence-based approach to sightings and witness testimony, matching the article&#x27;s cautious treatment of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a careful evidence-based approach to sightings and witness testimony, matching the article&#x27;s cautious treatment of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly covers UK UFO reports, official files, and skeptical case analysis that fits a Scotland UFO sightings page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers UK UFO reports, official files, and skeptical case analysis that fits a Scotland UFO sightings page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers a foundational investigative framework for assessing unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a foundational investigative framework for assessing unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Broadens the reading list with a highly recognizable UFO-related title that attracts general-interest readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens the reading list with a highly recognizable UFO-related title that attracts general-interest readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-dunbartonshire-what-really-happened-in-dunbartonshire-skies-dunbartonshi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -995,7 +995,7 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1015,7 +1015,7 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1047,7 +1047,7 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1099,7 +1099,7 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1144,7 +1144,7 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1185,252 +1185,252 @@ The strongest current conclusion is that Dunbartonshire has a UFO record worth n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scotlandspeople.gov.uk  
    Title: Scotland's People Dunbarton county | Scotland's People  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/dunbarton-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/dunbarton-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/dunbarton-county</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: West Dunbartonshire  
-   Link: <a href="https://en.wikipedia.org/wiki/West_Dunbartonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/West_Dunbartonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/West_Dunbartonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/West_Dunbartonshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e202110" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202110</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e202110" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202110</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184758</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184758" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184758</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: royalnavy.mod.uk  
    Title: Royal Navy HMNB Clyde | Royal Navy  
-   Link: <a href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Counties of Scotland  
-   Link: <a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Nick Pope (journalist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: HMNB Clyde  
-   Link: <a href="https://en.wikipedia.org/wiki/HMNB_Clyde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMNB_Clyde</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/HMNB_Clyde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMNB_Clyde</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531995" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531995</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531995" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531995</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nrscotland.gov.uk  
-   Link: <a href="https://www.nrscotland.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrscotland.gov.uk/</a>  
+   Link:<a href="https://www.nrscotland.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrscotland.gov.uk/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nrscotland.gov.uk  
    Title: Records and archives  
-   Link: <a href="https://www.nrscotland.gov.uk/records-and-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrscotland.gov.uk/records-and-archives/</a>  
+   Link:<a href="https://www.nrscotland.gov.uk/records-and-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrscotland.gov.uk/records-and-archives/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scotland.police.uk  
-   Link: <a href="https://www.scotland.police.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/</a>  
+   Link:<a href="https://www.scotland.police.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20161003 Delivery Plan 2016 17 Apr 16 to Sep 16 For Spring RTR  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: argyll-bute.gov.uk  
    Title: mg Ai.aspx  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/mgAi.aspx?ID=85311" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/mgAi.aspx?ID=85311</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/mgAi.aspx?ID=85311" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/mgAi.aspx?ID=85311</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: west-dunbarton.gov.uk  
-   Link: <a href="https://www.west-dunbarton.gov.uk/libraries/archives-family-history/family-history/trace-your-family-history" target="_blank" rel="noopener noreferrer nofollow">https://www.west-dunbarton.gov.uk/libraries/archives-family-history/family-history/trace-your-family-history</a>  
+   Link:<a href="https://www.west-dunbarton.gov.uk/libraries/archives-family-history/family-history/trace-your-family-history" target="_blank" rel="noopener noreferrer nofollow">https://www.west-dunbarton.gov.uk/libraries/archives-family-history/family-history/trace-your-family-history</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dailyrecord.co.uk  
    Title: nearly 50 scottish ufo reports 26105801  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=strathclyde%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=strathclyde%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=strathclyde%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;region=strathclyde%2C+scotland&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: glasgowairport.consultationonline.co.uk  
    Title: Glasgow Airport Current arrival routes  
-   Link: <a href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/</a>  
+   Link:<a href="https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://glasgowairport.consultationonline.co.uk/the-airspace-change-process/arrivals/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thescottishsun.co.uk  
    Title: The Scottish Sun Watch as huge mystery lights shine into sky above Faslane  
-   Link: <a href="https://www.thescottishsun.co.uk/news/1896507/watch-as-huge-mystery-lights-shine-hundreds-of-feet-into-the-sky-above-faslane-nuclear-submarine-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/1896507/watch-as-huge-mystery-lights-shine-hundreds-of-feet-into-the-sky-above-faslane-nuclear-submarine-base/</a>  
+   Link:<a href="https://www.thescottishsun.co.uk/news/1896507/watch-as-huge-mystery-lights-shine-hundreds-of-feet-into-the-sky-above-faslane-nuclear-submarine-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/1896507/watch-as-huge-mystery-lights-shine-hundreds-of-feet-into-the-sky-above-faslane-nuclear-submarine-base/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/why-is-a-small-village-in-scotland-the-uk-s-ufo-hotspot" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/why-is-a-small-village-in-scotland-the-uk-s-ufo-hotspot</a>  
+   Link:<a href="https://www.history.co.uk/articles/why-is-a-small-village-in-scotland-the-uk-s-ufo-hotspot" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/why-is-a-small-village-in-scotland-the-uk-s-ufo-hotspot</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/glasgow-airport-is-set-to-restructure-its-arrival-and-departure-flight-corridors/1627024846091972/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/location/easting%3D250200%26northing%3D672800" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/location/easting%3D250200%26northing%3D672800</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/location/easting%3D250200%26northing%3D672800" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/location/easting%3D250200%26northing%3D672800</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: glasgowairport.com  
    Title: flightpath fund  
-   Link: <a href="https://www.glasgowairport.com/about-us/flightpath-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/about-us/flightpath-fund/</a>  
+   Link:<a href="https://www.glasgowairport.com/about-us/flightpath-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/about-us/flightpath-fund/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf</a>  
+   Link:<a href="https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/media/1992/glasgowairport_airspaceconsultationdocument.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dailyrecord.co.uk  
    Title: scottish city listed uks top 34447536  
-   Link: <a href="https://www.dailyrecord.co.uk/lifestyle/scottish-city-listed-uks-top-34447536" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/lifestyle/scottish-city-listed-uks-top-34447536</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/lifestyle/scottish-city-listed-uks-top-34447536" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/lifestyle/scottish-city-listed-uks-top-34447536</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: dailyrecord.co.uk  
    Title: UF Os and aliens  
-   Link: <a href="https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=10" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=10</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=10" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=10</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: dailyrecord.co.uk  
    Title: map art 2015 02 01.xml  
-   Link: <a href="https://www.dailyrecord.co.uk/sitemaps/map_art_2015-02-01.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/sitemaps/map_art_2015-02-01.xml</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/sitemaps/map_art_2015-02-01.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/sitemaps/map_art_2015-02-01.xml</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: democratonline.net  
-   Link: <a href="https://democratonline.net/page/2840/?fbclid=IwAR1hIrFWbOqa95lXqS-gukH0J6neuueO56jw1SwsJB-UUl0sQaTYfn1UrSs" target="_blank" rel="noopener noreferrer nofollow">https://democratonline.net/page/2840/?fbclid=IwAR1hIrFWbOqa95lXqS-gukH0J6neuueO56jw1SwsJB-UUl0sQaTYfn1UrSs</a>  
+   Link:<a href="https://democratonline.net/page/2840/?fbclid=IwAR1hIrFWbOqa95lXqS-gukH0J6neuueO56jw1SwsJB-UUl0sQaTYfn1UrSs" target="_blank" rel="noopener noreferrer nofollow">https://democratonline.net/page/2840/?fbclid=IwAR1hIrFWbOqa95lXqS-gukH0J6neuueO56jw1SwsJB-UUl0sQaTYfn1UrSs</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=secret+files&amp;MostSpecificLocation=north+west%2C+england&amp;RetrieveCountryCounts=False&amp;SomeSearch=secret+files&amp;SortOrder=score&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=secret+files&amp;MostSpecificLocation=north+west%2C+england&amp;RetrieveCountryCounts=False&amp;SomeSearch=secret+files&amp;SortOrder=score&amp;page=1</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=secret+files&amp;MostSpecificLocation=north+west%2C+england&amp;RetrieveCountryCounts=False&amp;SomeSearch=secret+files&amp;SortOrder=score&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/Search/Results?BasicSearch=secret+files&amp;MostSpecificLocation=north+west%2C+england&amp;RetrieveCountryCounts=False&amp;SomeSearch=secret+files&amp;SortOrder=score&amp;page=1</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EpYGWW89pN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EpYGWW89pN0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between joy, frustration, and longing. Is Scotland still what it once was?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EpYGWW89pN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EpYGWW89pN0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Between joy, frustration, and longing. Is Scotland still what it once was?...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Haunted Places: Bonnybridge  
-   Link: <a href="https://www.youtube.com/watch?v=c30NdE1n12E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c30NdE1n12E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is the UK&#x27;s nuclear deterrent at the end of a Scottish loch? | In Case You Missed It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c30NdE1n12E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c30NdE1n12E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why is the UK&#x27;s nuclear deterrent at the end of a Scottish loch? | In Case You Missed It...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/</a>  
+   Link:<a href="https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcthesocial/videos/the-falkirk-triangle-paranormal-scotland/1339317569852916/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1403704543262067/posts/2405057926460052/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1403704543262067/posts/2405057926460052/</a>  
+   Link:<a href="https://www.facebook.com/groups/1403704543262067/posts/2405057926460052/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1403704543262067/posts/2405057926460052/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/</a>  
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/clydebank/posts/8780675405323054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/clydebank/posts/8780675405323054/</a>  
+   Link:<a href="https://www.facebook.com/groups/clydebank/posts/8780675405323054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/clydebank/posts/8780675405323054/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: belhaven.co.uk  
-   Link: <a href="https://www.belhaven.co.uk/pubs/dunbartonshire/counting-house/deals/burger-of-the-month" target="_blank" rel="noopener noreferrer nofollow">https://www.belhaven.co.uk/pubs/dunbartonshire/counting-house/deals/burger-of-the-month</a>  
+   Link:<a href="https://www.belhaven.co.uk/pubs/dunbartonshire/counting-house/deals/burger-of-the-month" target="_blank" rel="noopener noreferrer nofollow">https://www.belhaven.co.uk/pubs/dunbartonshire/counting-house/deals/burger-of-the-month</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616187067/Ddc-19th-Edition-Tables-and-Schedules" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616187067/Ddc-19th-Edition-Tables-and-Schedules</a>  
+   Link:<a href="https://www.scribd.com/document/616187067/Ddc-19th-Edition-Tables-and-Schedules" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616187067/Ddc-19th-Edition-Tables-and-Schedules</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/drew.mcadam.9/posts/damn-if-you-watch-tv-programs-about-ufos-youll-know-who-he-is-nick-and-i-were-in/10163473003826339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drew.mcadam.9/posts/damn-if-you-watch-tv-programs-about-ufos-youll-know-who-he-is-nick-and-i-were-in/10163473003826339/</a>  
+   Link:<a href="https://www.facebook.com/drew.mcadam.9/posts/damn-if-you-watch-tv-programs-about-ufos-youll-know-who-he-is-nick-and-i-were-in/10163473003826339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drew.mcadam.9/posts/damn-if-you-watch-tv-programs-about-ufos-youll-know-who-he-is-nick-and-i-were-in/10163473003826339/</a>  

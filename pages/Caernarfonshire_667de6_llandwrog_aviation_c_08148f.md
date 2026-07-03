@@ -254,38 +254,38 @@ image: /assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-overvie
 
 ## Introduction
 
-RAF Llandwrog matters to [Caernarfonshire]({{ 'what-was-seen-over-caernarfonshire/' | relative_url }}) UFO history because it turns the local sky from a blank backdrop into an aviation setting. The old wartime airfield south-west of Caernarfon is now Caernarfon Airport, with scenic flights, training activity, Wales Air Ambulance and HM Coastguard helicopters operating from the same broad coastal site. That does not explain every odd light reported over the historic county, but it changes the first question a careful reader should ask: before treating a sighting as unexplained, has local aircraft, helicopter, rescue, training or airport activity been checked? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caernarfonairport.com/en/the-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caernarfonairport.com">[caernarfonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caernarfonairport.com</span><span class="citation-popover-snippet">Open source on caernarfonairport.com.</span></span></span>
+RAF Llandwrog matters to [Caernarfonshire]({{ 'what-was-seen-over-caernarfonshire/' | relative_url }}) UFO history because it turns the local sky from a blank backdrop into an aviation setting. The old wartime airfield south-west of Caernarfon is now Caernarfon Airport, with scenic flights, training activity, Wales Air Ambulance and HM Coastguard helicopters operating from the same broad coastal site. That does not explain every odd light reported over the historic county, but it changes the first question a careful reader should ask: before treating a sighting as unexplained, has local aircraft, helicopter, rescue, training or airport activity been checked?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caernarfonairport.com/en/the-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caernarfonairport.com">[caernarfonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caernarfonairport.com</span><span class="citation-popover-snippet">Open source on caernarfonairport.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-overview.webp" | relative_url }}" alt="Overview image for Aviation Context" loading="eager" decoding="sync" fetchpriority="high">
-This page uses Caernarfonshire in its historic-county sense: the north-west Welsh county centred on Caernarfon, the Llŷn Peninsula, the Menai Strait coast and the mountains of Eryri. That is slightly different from modern administrative labels such as Gwynedd, which often appear in official or media records. The historic-county frame is useful for a UFO project, but the skies themselves do not respect county lines, especially around Anglesey, the Irish Sea and the North Wales coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page uses Caernarfonshire in its historic-county sense: the north-west Welsh county centred on Caernarfon, the Llŷn Peninsula, the Menai Strait coast and the mountains of Eryri. That is slightly different from modern administrative labels such as Gwynedd, which often appear in official or media records. The historic-county frame is useful for a UFO project, but the skies themselves do not respect county lines, especially around Anglesey, the Irish Sea and the North Wales coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 ## Why RAF Llandwrog is the first aviation check
 
-RAF Llandwrog opened in 1941 and was used for wartime training, including gunners, radio operators and navigators. Caernarfon Airport’s own history identifies the site as the former RAF Llandwrog and places it in the continuing aviation life of the area, rather than as a vanished military footnote. For UFO interpretation, that continuity is important: a place with a long flying history is also a place where lights, engine noise, approach paths, searchlights, helicopters and training manoeuvres are part of the ordinary evidence environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caernarfonairport.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caernarfonairport.com">[caernarfonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caernarfonairport.com</span><span class="citation-popover-snippet">Open source on caernarfonairport.com.</span></span></span>
+RAF Llandwrog opened in 1941 and was used for wartime training, including gunners, radio operators and navigators. Caernarfon Airport’s own history identifies the site as the former RAF Llandwrog and places it in the continuing aviation life of the area, rather than as a vanished military footnote. For UFO interpretation, that continuity is important: a place with a long flying history is also a place where lights, engine noise, approach paths, searchlights, helicopters and training manoeuvres are part of the ordinary evidence environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caernarfonairport.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caernarfonairport.com">[caernarfonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caernarfonairport.com</span><span class="citation-popover-snippet">Open source on caernarfonairport.com.</span></span></span>
 
-The old airfield was not just a flat patch of runway. A Gwynedd Archaeological Trust report on the former watch office notes that Llandwrog’s main runway ran west-east, with the sea at one end and mountains to the east, a layout associated with training accidents when aircraft overshot. That detail is valuable because it captures the local geometry: aircraft could be seen against water, dunes, low coastal sky, foothills and mountain slopes, all of which affect distance judgement and perceived descent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesher1974.org">[walesher1974.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesher1974.org</span><span class="citation-popover-title">Former Watch Office RAF Llandwrog, Caernarfon</span><span class="citation-popover-snippet">Former Watch Office RAF Llandwrog, Caernarfon</span></span></span>
+The old airfield was not just a flat patch of runway. A Gwynedd Archaeological Trust report on the former watch office notes that Llandwrog’s main runway ran west-east, with the sea at one end and mountains to the east, a layout associated with training accidents when aircraft overshot. That detail is valuable because it captures the local geometry: aircraft could be seen against water, dunes, low coastal sky, foothills and mountain slopes, all of which affect distance judgement and perceived descent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesher1974.org">[walesher1974.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesher1974.org</span><span class="citation-popover-title">Former Watch Office RAF Llandwrog, Caernarfon</span><span class="citation-popover-snippet">Former Watch Office RAF Llandwrog, Caernarfon</span></span></span>
 
-RAF Llandwrog also has a direct rescue-history connection. The RAF says its Mountain Rescue Service had its “humble beginnings” at RAF Llandwrog in 1943, while the Imperial War Museum records a commemorative plaque stating that the service was officially formed there by Flight Lieutenant George Graham. This is not UFO evidence in itself, but it shows why North Wales aviation reports should be read alongside mountain flying, weather, emergency response and terrain hazards rather than as isolated lights in an empty sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+RAF Llandwrog also has a direct rescue-history connection. The RAF says its Mountain Rescue Service had its “humble beginnings” at RAF Llandwrog in 1943, while the Imperial War Museum records a commemorative plaque stating that the service was officially formed there by Flight Lieutenant George Graham. This is not UFO evidence in itself, but it shows why North Wales aviation reports should be read alongside mountain flying, weather, emergency response and terrain hazards rather than as isolated lights in an empty sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Context illustration 1" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1999 Caernarfon report already sounds aviation-shaped
 
-The clearest Caernarfonshire example is the Ministry of Defence report from 11 February 1999 at Caernarvon, Gwynedd. The MoD’s published UFO list records a single aircraft or object “that had rotors” and displayed blue, red and white strobes. The word “rotors” does a great deal of work here. It does not prove the witness identified the object correctly, but it strongly pushes the case towards helicopter or rotorcraft misidentification rather than an exotic explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The clearest Caernarfonshire example is the Ministry of Defence report from 11 February 1999 at Caernarvon, Gwynedd. The MoD’s published UFO list records a single aircraft or object “that had rotors” and displayed blue, red and white strobes. The word “rotors” does a great deal of work here. It does not prove the witness identified the object correctly, but it strongly pushes the case towards helicopter or rotorcraft misidentification rather than an exotic explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That does not mean the witness was foolish or the report was worthless. Night aircraft can be genuinely confusing. A helicopter seen at an oblique angle may appear to hover, slide sideways, approach without obvious forward motion, or vanish behind cloud or terrain. Coloured lights can dominate the impression while the body of the aircraft remains invisible. If the aircraft is near the coast or mountains, sound may carry oddly, be masked by wind, or arrive after the visual impression has already formed.
 
-The 1999 entry is therefore best treated as a useful “misidentification marker” in the Caernarfonshire record. It shows how a report can enter an official UFO list even when the description contains conventional clues. The MoD page explains that these published records give dates, times, locations and brief descriptions of sightings; they are not proof that an extraordinary object was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The 1999 entry is therefore best treated as a useful “misidentification marker” in the Caernarfonshire record. It shows how a report can enter an official UFO list even when the description contains conventional clues. The MoD page explains that these published records give dates, times, locations and brief descriptions of sightings; they are not proof that an extraordinary object was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vJ0358iZcM0" title="Coastguard Helicopter Landing at Caernarfon Airport - (G-MCGJ - Sikorsky S-92)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vJ0358iZcM0" target="_blank" rel="noopener noreferrer">Coastguard Helicopter Landing at Caernarfon Airport - (G-MCGJ - Sikorsky S-92)</a></p><p class="youtube-embed-meta">Channel: North Wales Boats and Planes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vJ0358iZcM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vJ0358iZcM0">Open on YouTube</a></p></div></div></div>
 
 ## Caernarfon Airport keeps the aviation setting alive
 
-The Llandwrog connection did not end with the Second World War. Caernarfon Airport describes itself as operating scenic and training flights all year round, with an aviation museum, Wales Air Ambulance and HM Coastguard helicopters operated by Bristow on site. That means a modern witness looking inland from the coast, across Caernarfon Bay, or towards the mountains may be seeing civil aviation, emergency aviation or training activity from the former RAF station’s successor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caernarfonairport.com/en/the-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caernarfonairport.com">[caernarfonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caernarfonairport.com</span><span class="citation-popover-snippet">Open source on caernarfonairport.com.</span></span></span>
+The Llandwrog connection did not end with the Second World War. Caernarfon Airport describes itself as operating scenic and training flights all year round, with an aviation museum, Wales Air Ambulance and HM Coastguard helicopters operated by Bristow on site. That means a modern witness looking inland from the coast, across Caernarfon Bay, or towards the mountains may be seeing civil aviation, emergency aviation or training activity from the former RAF station’s successor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caernarfonairport.com/en/the-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caernarfonairport.com">[caernarfonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caernarfonairport.com</span><span class="citation-popover-snippet">Open source on caernarfonairport.com.</span></span></span>
 
-The helicopter element is especially important. Bristow states that it operates the UK’s HM Coastguard search and rescue helicopter service for the Maritime and Coastguard Agency, using strategically located bases around the UK and responding over land, around the coast and at sea. Caernarfon Airport is one of the places where that broad national service becomes locally visible in Caernarfonshire’s skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bristowgroup.com/services/uk-search-and-rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristowgroup.com">[Bristow Group Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristowgroup.com</span><span class="citation-popover-snippet">Open source on bristowgroup.com.</span></span></span>
+The helicopter element is especially important. Bristow states that it operates the UK’s HM Coastguard search and rescue helicopter service for the Maritime and Coastguard Agency, using strategically located bases around the UK and responding over land, around the coast and at sea. Caernarfon Airport is one of the places where that broad national service becomes locally visible in Caernarfonshire’s skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bristowgroup.com/services/uk-search-and-rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristowgroup.com">[Bristow Group Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristowgroup.com</span><span class="citation-popover-snippet">Open source on bristowgroup.com.</span></span></span>
 
 This gives investigators a practical rule: a strange light report near Caernarfon, Dinas Dinlle, the Menai Strait, the Llŷn coast or Eryri should be checked against airport and helicopter activity before it is filed as puzzling. A search and rescue helicopter may use bright lights, operate in poor weather, hover, circle, descend towards terrain, or fly routes that look strange from the ground because the crew is responding to a casualty, coastline incident or mountain tasking.
 
@@ -293,9 +293,9 @@ This gives investigators a practical rule: a strange light report near Caernarfo
 <img src="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-Illustration-2-dark.svg" | relative_url }}" alt="Aviation Context illustration 2" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6_llandwrog_aviation_c_08148f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Helicopters, coloured lights and the “nearly crashing” illusion
 
-Aviation misidentification often begins with colour. The UK Civil Aviation Authority notes that drones flown at night in the Open Category must use a green flashing light so they can be distinguished from manned aircraft. More broadly, UK rules require aircraft to show appropriate lights at night, and civil aviation commonly uses red, green, white and anti-collision lighting. To a ground witness, especially at distance, those colours can become the whole object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Aviation misidentification often begins with colour. The UK Civil Aviation Authority notes that drones flown at night in the Open Category must use a green flashing light so they can be distinguished from manned aircraft. More broadly, UK rules require aircraft to show appropriate lights at night, and civil aviation commonly uses red, green, white and anti-collision lighting. To a ground witness, especially at distance, those colours can become the whole object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-This matters for the Caernarfon record because the 2001 MoD entry from Caernarfon described something that initially looked like a star, seemed as though it might crash into the witness’s house, and appeared green with red on the side. Five minutes later, an Amlwch report on Anglesey described a blue glow turning green, breaking up and leaving smoke. The pairing does not prove a single explanation, but it shows why colour, apparent descent and regional sky context must be treated cautiously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+This matters for the Caernarfon record because the 2001 MoD entry from Caernarfon described something that initially looked like a star, seemed as though it might crash into the witness’s house, and appeared green with red on the side. Five minutes later, an Amlwch report on Anglesey described a blue glow turning green, breaking up and leaving smoke. The pairing does not prove a single explanation, but it shows why colour, apparent descent and regional sky context must be treated cautiously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 A witness can honestly experience an aircraft or bright object as “coming down” when it is actually moving towards or away from them, descending behind a ridge, passing through low cloud, or changing brightness as its landing light points closer to the line of sight. Mountains intensify this problem. In Caernarfonshire, an object beyond a ridge can look local; an aircraft over water can appear lower than it is; a helicopter on a rescue task can hover in a way that fixed-wing aircraft do not.
 
@@ -306,7 +306,7 @@ The most useful sceptical point is not “it was definitely a helicopter”. It 
 
 ## Wartime remains, later secrecy and misleading local atmosphere
 
-RAF Llandwrog also has a post-war history that can give the area an aura of secrecy, but that should not be mistaken for UFO evidence. The Gwynedd Archaeological Trust report says the airfield officially closed in July 1945, later housed No. 277 Maintenance Unit from 1946 into the 1950s, and received large quantities of captured enemy chemical weapons under Operation Sandcastle before material was moved onward for disposal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesher1974.org">[walesher1974.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesher1974.org</span><span class="citation-popover-title">Former Watch Office RAF Llandwrog, Caernarfon</span><span class="citation-popover-snippet">Former Watch Office RAF Llandwrog, Caernarfon</span></span></span>
+RAF Llandwrog also has a post-war history that can give the area an aura of secrecy, but that should not be mistaken for UFO evidence. The Gwynedd Archaeological Trust report says the airfield officially closed in July 1945, later housed No. 277 Maintenance Unit from 1946 into the 1950s, and received large quantities of captured enemy chemical weapons under Operation Sandcastle before material was moved onward for disposal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesher1974.org">[walesher1974.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesher1974.org</span><span class="citation-popover-title">Former Watch Office RAF Llandwrog, Caernarfon</span><span class="citation-popover-snippet">Former Watch Office RAF Llandwrog, Caernarfon</span></span></span>
 
 That history is striking, but it belongs to military logistics and heritage interpretation, not to a flying-saucer claim. It may help explain why a former RAF site feels suggestive in local memory: old hangars, watch-office remains, wartime stories and secretive post-war work can make later odd lights feel more meaningful. The evidence boundary is important. A secretive maintenance unit does not make a later sky report stronger unless there is a direct, dated link to aircraft, radar, witnesses or official investigation.
 
@@ -322,9 +322,9 @@ First, was the report close to known air activity? Caernarfon Airport is not a m
 
 Second, did the witness describe features that already match aircraft? Rotors, red-green-white lights, strobes, hovering, engine noise, searchlights and repeated circling are not debunking magic words, but they are strong conventional indicators.
 
-Third, did terrain shape the sighting? The same light can look very different from a beach, a mountain road, a town street, or a viewpoint across the Menai Strait. The old runway’s sea-and-mountain setting is a reminder that this part of Wales compresses distance and height in ways that can fool even careful observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesher1974.org">[walesher1974.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesher1974.org</span><span class="citation-popover-title">Former Watch Office RAF Llandwrog, Caernarfon</span><span class="citation-popover-snippet">Former Watch Office RAF Llandwrog, Caernarfon</span></span></span>
+Third, did terrain shape the sighting? The same light can look very different from a beach, a mountain road, a town street, or a viewpoint across the Menai Strait. The old runway’s sea-and-mountain setting is a reminder that this part of Wales compresses distance and height in ways that can fool even careful observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesher1974.org">[walesher1974.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesher1974.org</span><span class="citation-popover-title">Former Watch Office RAF Llandwrog, Caernarfon</span><span class="citation-popover-snippet">Former Watch Office RAF Llandwrog, Caernarfon</span></span></span>
 
-Fourth, did the report occur during a wider regional event? The 2001 Caernarfon and Amlwch entries show why county boundaries must be handled flexibly. A sky event seen across North Wales may not be a Caernarfon-only mystery, even if one report falls within the historic county frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Fourth, did the report occur during a wider regional event? The 2001 Caernarfon and Amlwch entries show why county boundaries must be handled flexibly. A sky event seen across North Wales may not be a Caernarfon-only mystery, even if one report falls within the historic county frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_d8J6mR4-M8" title="Mountain Rescue Issue Title Is On The Spot (1943)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_d8J6mR4-M8" target="_blank" rel="noopener noreferrer">Mountain Rescue Issue Title Is On The Spot (1943)</a></p><p class="youtube-embed-meta">Channel: British Pathé</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_d8J6mR4-M8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_d8J6mR4-M8">Open on YouTube</a></p></div></div></div>
@@ -333,199 +333,199 @@ Fourth, did the report occur during a wider regional event? The 2001 Caernarfon 
 
 The aviation setting around RAF Llandwrog does not make Caernarfonshire boring. It makes the county’s UFO record more readable. Instead of treating every odd light as either “alien” or “nothing”, the Llandwrog lens asks what kind of sky the witness was actually looking at: a coastal, mountainous, aviation-active sky with a wartime airfield legacy and modern helicopter presence.
 
-That lens weakens some claims. The 1999 Caernarfon report, with rotors and coloured strobes, is far more useful as a likely aviation misidentification than as an unresolved mystery. The 2001 report remains less tidy, but its star-like appearance, green and red colouring, apparent descent and near-simultaneous North Wales context all argue for caution rather than escalation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+That lens weakens some claims. The 1999 Caernarfon report, with rotors and coloured strobes, is far more useful as a likely aviation misidentification than as an unresolved mystery. The 2001 report remains less tidy, but its star-like appearance, green and red colouring, apparent descent and near-simultaneous North Wales context all argue for caution rather than escalation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport help explain why Caernarfonshire reports so often need an aviation check before anything more exotic is considered. In this branch of the UFO map, the most important “unknown” is often not a hidden craft but a missing piece of local flight context: which helicopter was airborne, which light was being seen, which ridge or cloud layer changed the perspective, and whether the object was ever truly unidentified after those checks were made.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aviation Shaped Caernarfonshire UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aviation Shaped Caernarfonshire UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful background for distinguishing aircraft from unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for distinguishing aircraft from unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains numerous pilot and aviation-related cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains numerous pilot and aviation-related cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Emphasises aviation, defence and identification issues central to the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises aviation, defence and identification issues central to the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Helps readers evaluate aviation explanations before extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate aviation explanations before extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="{{ '/assets/images/marketplace-covers/bae82c6b1b04090fc911.jpg' | relative_url }}" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="{{ '/assets/images/marketplace-covers/bae82c6b1b04090fc911.jpg' | relative_url }}" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="{{ '/assets/images/marketplace-covers/11c4fcce147baab28608.jpg' | relative_url }}" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="{{ '/assets/images/marketplace-covers/11c4fcce147baab28608.jpg' | relative_url }}" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-context-9d2c85-how-aviation-shaped-caernarfonshire-ufo-reports-caernarfonshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport hel
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport hel
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport hel
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport hel
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport hel
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,149 +731,149 @@ The payoff is a cleaner county history. RAF Llandwrog and Caernarfon Airport hel
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: caernarfonairport.com  
-   Link: <a href="https://www.caernarfonairport.com/en/the-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.caernarfonairport.com/en/the-airport</a>  
+   Link:<a href="https://www.caernarfonairport.com/en/the-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.caernarfonairport.com/en/the-airport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: caernarfonairport.com  
-   Link: <a href="https://www.caernarfonairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.caernarfonairport.com/</a>  
+   Link:<a href="https://www.caernarfonairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.caernarfonairport.com/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: walesher1974.org  
    Title: Former Watch Office RAF Llandwrog, Caernarfon  
-   Link: <a href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf</a>  
+   Link:<a href="https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://walesher1974.org/her/groups/GAT/media/GAT_Reports/GATreport_1079_compressed.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-mountain-rescue-service-celebrates-80-years-of-life-saving-for-military-personnel1/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: RAF Llandwrog  
-   Link: <a href="https://www.youtube.com/watch?v=E80K6DFN6ro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E80K6DFN6ro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Mountain Rescue Issue Title Is On The Spot (1943)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E80K6DFN6ro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E80K6DFN6ro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Mountain Rescue Issue Title Is On The Spot (1943)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfonshire</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bristowgroup.com  
-   Link: <a href="https://www.bristowgroup.com/services/uk-search-and-rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.bristowgroup.com/services/uk-search-and-rescue</a>  
+   Link:<a href="https://www.bristowgroup.com/services/uk-search-and-rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.bristowgroup.com/services/uk-search-and-rescue</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: RAF Llandwrog  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Llandwrog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Llandwrog</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Llandwrog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Llandwrog</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caernarfonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caernarfonshire</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
    Title: West Wales Airport  
-   Link: <a href="https://wikishire.co.uk/wiki/West_Wales_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/West_Wales_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/West_Wales_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/West_Wales_Airport</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Caernarfon" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfon</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Caernarfon" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caernarfon</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: controltowers.co.uk  
-   Link: <a href="https://controltowers.co.uk/airfields/llandwrog/" target="_blank" rel="noopener noreferrer nofollow">https://controltowers.co.uk/airfields/llandwrog/</a>  
+   Link:<a href="https://controltowers.co.uk/airfields/llandwrog/" target="_blank" rel="noopener noreferrer nofollow">https://controltowers.co.uk/airfields/llandwrog/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Coastguard Helicopter Landing at Caernarfon Airport  
-   Link: <a href="https://www.youtube.com/watch?v=vJ0358iZcM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vJ0358iZcM0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Coastguard Schiebel Camcopter in Caernarfon (Taking a Drone for a Walk)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vJ0358iZcM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vJ0358iZcM0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Coastguard Schiebel Camcopter in Caernarfon (Taking a Drone for a Walk)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Caernarfon Airworld Aviation Museum | Wikipedia audio article  
-   Link: <a href="https://www.youtube.com/watch?v=ONIibn2oza8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ONIibn2oza8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Coastguard Helicopter Landing at Caernarfon Airport - (G-MCGJ - Sikorsky S-92)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ONIibn2oza8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ONIibn2oza8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Coastguard Helicopter Landing at Caernarfon Airport - (G-MCGJ - Sikorsky S-92)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_d8J6mR4-M8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_d8J6mR4-M8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Caernarfon Airworld Aviation Museum | Wikipedia audio article...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_d8J6mR4-M8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_d8J6mR4-M8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Caernarfon Airworld Aviation Museum | Wikipedia audio article...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/381688085599512/posts/1995782507523387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381688085599512/posts/1995782507523387/</a>  
+   Link:<a href="https://www.facebook.com/groups/381688085599512/posts/1995782507523387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381688085599512/posts/1995782507523387/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/raf-mountain-rescue-service" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/raf-mountain-rescue-service</a>  
+   Link:<a href="https://www.gettyimages.com/photos/raf-mountain-rescue-service" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/raf-mountain-rescue-service</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/</a>  
+   Link:<a href="https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: airworldmuseum.com  
-   Link: <a href="https://www.airworldmuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airworldmuseum.com/</a>  
+   Link:<a href="https://www.airworldmuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airworldmuseum.com/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/caernarfonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/caernarfonshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/caernarfonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/caernarfonshire/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hmcoastguard.uk  
-   Link: <a href="https://hmcoastguard.uk/coastguard-episode-three" target="_blank" rel="noopener noreferrer nofollow">https://hmcoastguard.uk/coastguard-episode-three</a>  
+   Link:<a href="https://hmcoastguard.uk/coastguard-episode-three" target="_blank" rel="noopener noreferrer nofollow">https://hmcoastguard.uk/coastguard-episode-three</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  

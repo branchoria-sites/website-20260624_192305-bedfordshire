@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /northamptonshire-ad0dee-index/
 description: Focused pages that expand on What Really Happened Over Northamptonshire....
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Northamptonshire_ad0dee
 parent_title: What Really Happened Over Northamptonshire...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-86c9dc/
 
 # Explore Topics in What Really Happened Over Northamptonshire...
 
-The following pages expand on the main **[What Really Happened Over Northamptonshire...]({{ '/what-really-happened-over-86c9dc/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened Over Northamptonshire...]({{ '/what-really-happened-over-86c9dc/' | relative_url }})** page and cover its key branches in.
 
 - [Brackley Case]({{ '/brackley-case/' | relative_url }})
 - [Explanations]({{ '/explanations-0b79e9/' | relative_url }})

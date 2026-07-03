@@ -262,40 +262,40 @@ Most [Lanarkshire]({{ 'what-really-shaped-lanarkshires-ufo/' | relative_url }}) 
 
 Lanarkshire is a difficult place to assess from a UFO point of view because many reports come from built-up towns, commuting roads and mixed urban-rural edges rather than from controlled observation sites. A light over Hamilton, Cumbernauld, Airdrie, East Kilbride or Uddingston may be seen against clouds, street lighting, aircraft routes, motorway traffic, industrial lighting or the glow of Glasgow. That makes distance, height and speed especially easy to misjudge.
 
-The Ministry of Defence’s own public UFO report lists show the problem clearly. The 5 November 2001 Hamilton entry, one of the most useful Lanarkshire records because it gives a place, time and witness occupation, says only that a police officer saw something like “half of a saucer” with red, green and white lights and rings around it. It does not provide a bearing, altitude, duration, weather, aircraft check, radar trace or follow-up finding. Without those details, even a credible witness cannot turn a strange light into a strong case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</span><span class="citation-popover-meta">Published: April 25, 2007</span></span></span>
+The Ministry of Defence’s own public UFO report lists show the problem clearly. The 5 November 2001 Hamilton entry, one of the most useful Lanarkshire records because it gives a place, time and witness occupation, says only that a police officer saw something like “half of a saucer” with red, green and white lights and rings around it. It does not provide a bearing, altitude, duration, weather, aircraft check, radar trace or follow-up finding. Without those details, even a credible witness cannot turn a strange light into a strong case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</span><span class="citation-popover-meta">Published: April 25, 2007</span></span></span>
 
-The same caution applies to modern local sighting lists. Local reporting in 2025 described Lanarkshire cases including spheres, orbs, star-like lights, a triangular beam and a “plane with no wings” over places such as Cumbernauld, Hamilton, East Kilbride, Airdrie and Uddingston. These descriptions are interesting as a pattern of public reporting, but most are short witness summaries rather than investigated case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span>
+The same caution applies to modern local sighting lists. Local reporting in 2025 described Lanarkshire cases including spheres, orbs, star-like lights, a triangular beam and a “plane with no wings” over places such as Cumbernauld, Hamilton, East Kilbride, Airdrie and Uddingston. These descriptions are interesting as a pattern of public reporting, but most are short witness summaries rather than investigated case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Lanarkshire_60db75_ordinary_explanation_a805d0-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Lanarkshire_60db75_ordinary_explanation_a805d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lanarkshire_60db75_ordinary_explanation_a805d0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, roads and airport catchments
 
-Lanarkshire sits inside a busy central Scotland aviation environment. Glasgow Airport and Edinburgh Airport are both close enough for their approach and departure traffic to matter, and Cumbernauld Airport describes itself as a busy general aviation airport with flying lessons, private and business flying, fixed-wing aircraft and helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbernauldairport.org">[Cumbernauld Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbernauldairport.org</span><span class="citation-popover-snippet">Cumbernauld AirportCumbernauld Airport: HomeCumbernauld Airport is a busy general aviation airport located centrally, within easy reach f...</span></span></span> The wider Scotland Terminal Control Area is described by the Airspace Change Organising Group as the busiest and most complex airspace in Scotland, with high volumes of flights to and from Glasgow and Edinburgh. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acog.aero/airspace-masterplan/who-is-involved/stma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acog.aero">[Airspace Change Organising Group (ACOG)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acog.aero</span><span class="citation-popover-snippet">Open source on acog.aero.</span></span></span>
+Lanarkshire sits inside a busy central Scotland aviation environment. Glasgow Airport and Edinburgh Airport are both close enough for their approach and departure traffic to matter, and Cumbernauld Airport describes itself as a busy general aviation airport with flying lessons, private and business flying, fixed-wing aircraft and helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbernauldairport.org">[Cumbernauld Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbernauldairport.org</span><span class="citation-popover-snippet">Cumbernauld AirportCumbernauld Airport: HomeCumbernauld Airport is a busy general aviation airport located centrally, within easy reach f...</span></span></span> The wider Scotland Terminal Control Area is described by the Airspace Change Organising Group as the busiest and most complex airspace in Scotland, with high volumes of flights to and from Glasgow and Edinburgh.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acog.aero/airspace-masterplan/who-is-involved/stma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acog.aero">[Airspace Change Organising Group (ACOG)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acog.aero</span><span class="citation-popover-snippet">Open source on acog.aero.</span></span></span>
 
-That matters because aircraft lights are not always read correctly from the ground. A plane flying towards a witness can appear to hover. Landing lights can look far brighter than navigation lights. Red, green and white lights can suggest a structured object even when the viewer is seeing standard aviation lighting from an awkward angle. In a brief report such as the Hamilton 2001 case, the red, green and white colour pattern is exactly the sort of detail that should trigger an aviation check before more unusual explanations are considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</span><span class="citation-popover-meta">Published: April 25, 2007</span></span></span>
+That matters because aircraft lights are not always read correctly from the ground. A plane flying towards a witness can appear to hover. Landing lights can look far brighter than navigation lights. Red, green and white lights can suggest a structured object even when the viewer is seeing standard aviation lighting from an awkward angle. In a brief report such as the Hamilton 2001 case, the red, green and white colour pattern is exactly the sort of detail that should trigger an aviation check before more unusual explanations are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</span><span class="citation-popover-meta">Published: April 25, 2007</span></span></span>
 
-Cumbernauld is especially important because it appears in both aviation and UFO-reporting contexts. It has a local airport, lies between Glasgow and Edinburgh, and has been named in recent local UFO stories. A 2025 report, for example, included Cumbernauld sightings described as a sphere moving north-east then changing direction, and an orb changing from white to red while moving back and forth and hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span> Those words can sound dramatic, but they are also compatible with the limits of judging a distant light by eye, especially if the observer has no known distance or reference point.
+Cumbernauld is especially important because it appears in both aviation and UFO-reporting contexts. It has a local airport, lies between Glasgow and Edinburgh, and has been named in recent local UFO stories. A 2025 report, for example, included Cumbernauld sightings described as a sphere moving north-east then changing direction, and an orb changing from white to red while moving back and forth and hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span> Those words can sound dramatic, but they are also compatible with the limits of judging a distant light by eye, especially if the observer has no known distance or reference point.
 
-Roads add a different kind of confusion. The Guardian’s database of British UFO files includes a 25 October 1994 Lanarkshire entry in which a driver reportedly saw a “ghost aircraft” on the M6 in Lanarkshire: a small dark object with four lights that flew into trees and vanished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News</span></span></span> Even the road label should make a reader pause, because the Scottish route through Lanarkshire is associated with the M74 and A74(M), the main Glasgow-to-Gretna motorway corridor. The M74 began with the Hamilton Bypass and became one of Scotland’s key roads between Glasgow and Carlisle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scottishroadsarchive.org/m74" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishroadsarchive.org">[Scots Roads Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishroadsarchive.org</span><span class="citation-popover-snippet">Open source on scottishroadsarchive.org.</span></span></span> A night-time driver’s report may still be sincere, but reflections, oncoming lights, roadside structures, gradients, wet windscreens and brief glimpses through trees can produce a “solid object” impression that is difficult to reconstruct later.
+Roads add a different kind of confusion. The Guardian’s database of British UFO files includes a 25 October 1994 Lanarkshire entry in which a driver reportedly saw a “ghost aircraft” on the M6 in Lanarkshire: a small dark object with four lights that flew into trees and vanished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News</span></span></span> Even the road label should make a reader pause, because the Scottish route through Lanarkshire is associated with the M74 and A74(M), the main Glasgow-to-Gretna motorway corridor. The M74 began with the Hamilton Bypass and became one of Scotland’s key roads between Glasgow and Carlisle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scottishroadsarchive.org/m74" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishroadsarchive.org">[Scots Roads Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishroadsarchive.org</span><span class="citation-popover-snippet">Open source on scottishroadsarchive.org.</span></span></span> A night-time driver’s report may still be sincere, but reflections, oncoming lights, roadside structures, gradients, wet windscreens and brief glimpses through trees can produce a “solid object” impression that is difficult to reconstruct later.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
 ## Lanterns, stars and ambiguous lights
 
-A large share of Lanarkshire’s modern reports are not close encounters but lights: star-like objects, orbs, spheres, orange shapes or objects that fade away. Those descriptions matter because they sit in the overlap between UFO culture and ordinary skywatching. The National Archives’ briefing material on UFO files explains that, in most cases, investigations have found ordinary causes such as bright stars and planets, meteors, satellites, balloons, aircraft seen from unusual angles and space debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+A large share of Lanarkshire’s modern reports are not close encounters but lights: star-like objects, orbs, spheres, orange shapes or objects that fade away. Those descriptions matter because they sit in the overlap between UFO culture and ordinary skywatching. The National Archives’ briefing material on UFO files explains that, in most cases, investigations have found ordinary causes such as bright stars and planets, meteors, satellites, balloons, aircraft seen from unusual angles and space debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Sky lanterns are one of the most common traps in UK night-sky reports. The Civil Aviation Authority has warned that sky lanterns vary in size and performance and can travel a considerable distance at unpredictable heights on prevailing winds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span> To a witness, a lantern may look like a silent orange or red object, apparently floating, rising, dimming, changing direction with the wind or disappearing when its fuel burns out. That makes lanterns a plausible first check for reports of orange, glowing or slowly drifting lights, though not a blanket answer for every case.
+Sky lanterns are one of the most common traps in UK night-sky reports. The Civil Aviation Authority has warned that sky lanterns vary in size and performance and can travel a considerable distance at unpredictable heights on prevailing winds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span> To a witness, a lantern may look like a silent orange or red object, apparently floating, rising, dimming, changing direction with the wind or disappearing when its fuel burns out. That makes lanterns a plausible first check for reports of orange, glowing or slowly drifting lights, though not a blanket answer for every case.
 
-Planets and stars create a different problem: they can appear stationary, intensely bright and strangely persistent. BBC Sky at Night Magazine notes that Venus is so bright that it is often mistaken for aircraft landing lights, while Jupiter can also be taken for a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span> This is particularly relevant to reports where the object is described as “hovering”, “stationary”, “star-like” or visible for a long period. If a Lanarkshire report does not include a compass direction, elevation, exact time and duration, a planet check may be impossible after the fact.
+Planets and stars create a different problem: they can appear stationary, intensely bright and strangely persistent. BBC Sky at Night Magazine notes that Venus is so bright that it is often mistaken for aircraft landing lights, while Jupiter can also be taken for a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span> This is particularly relevant to reports where the object is described as “hovering”, “stationary”, “star-like” or visible for a long period. If a Lanarkshire report does not include a compass direction, elevation, exact time and duration, a planet check may be impossible after the fact.
 
-Satellites and meteors can also fit some short reports. A satellite may move steadily across the sky and fade as it enters Earth’s shadow, which can look like a controlled disappearance. A meteor or fireball is usually much briefer, but if bright enough it can be startling and may be remembered as larger or lower than it was. Royal Museums Greenwich describes exceptionally bright meteors as fireballs, brighter than the brightest planets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span> For Lanarkshire cases described as fast lights that fade out, the strongest ordinary checks are therefore aircraft tracking, satellite passes and meteor activity, not just one preferred explanation.
+Satellites and meteors can also fit some short reports. A satellite may move steadily across the sky and fade as it enters Earth’s shadow, which can look like a controlled disappearance. A meteor or fireball is usually much briefer, but if bright enough it can be startling and may be remembered as larger or lower than it was. Royal Museums Greenwich describes exceptionally bright meteors as fireballs, brighter than the brightest planets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span> For Lanarkshire cases described as fast lights that fade out, the strongest ordinary checks are therefore aircraft tracking, satellite passes and meteor activity, not just one preferred explanation.
 
 
 <img src="{{ "/assets/images/Lanarkshire_60db75_ordinary_explanation_a805d0-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Lanarkshire_60db75_ordinary_explanation_a805d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lanarkshire_60db75_ordinary_explanation_a805d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why photographs often weaken rather than strengthen a case
 
-Photographs can be useful, but they can also make a weak sighting look stronger than it is. The most revealing Lanarkshire example in recent local reporting is a [Hamilton case]({{ 'hamilton-case/' | relative_url }}) from 28 December 2021 described as three saucer-shaped objects appearing stationary in a photograph but not seen with the naked eye. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span> That detail is important. If the objects were discovered only after the image was taken, then insects, birds, dirt, reflections, lens flare, compression artefacts or motion blur become serious possibilities.
+Photographs can be useful, but they can also make a weak sighting look stronger than it is. The most revealing Lanarkshire example in recent local reporting is a [Hamilton case]({{ 'hamilton-case/' | relative_url }}) from 28 December 2021 described as three saucer-shaped objects appearing stationary in a photograph but not seen with the naked eye.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span> That detail is important. If the objects were discovered only after the image was taken, then insects, birds, dirt, reflections, lens flare, compression artefacts or motion blur become serious possibilities.
 
 This does not mean the witness fabricated anything. It means the evidence type changes. A naked-eye observation asks what the person saw in the sky. A photograph-only case asks what the camera captured, processed or distorted. Modern phones sharpen, brighten and compress images automatically, and small objects close to the lens can appear like distant objects if the scene lacks scale. A “disc” in a photograph is therefore not automatically stronger than a light seen by a witness; sometimes it is less informative.
 
@@ -306,7 +306,7 @@ The best photographic cases include the original file, time stamp, location, dir
 
 ## How to separate weak reports from stronger cases
 
-A good ordinary-explanation check does not begin by dismissing the witness. It begins by asking whether the report contains enough information to test the claim. The Ministry of Defence’s former approach was defence-led: it recorded and examined reports to determine whether what was seen might have defence significance. The MoD stopped investigating UFO reports in 2009, with released files stating that no report over more than 50 years had revealed evidence of a potential threat to the UK and that further work would be an inappropriate use of defence resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
+A good ordinary-explanation check does not begin by dismissing the witness. It begins by asking whether the report contains enough information to test the claim. The Ministry of Defence’s former approach was defence-led: it recorded and examined reports to determine whether what was seen might have defence significance. The MoD stopped investigating UFO reports in 2009, with released files stating that no report over more than 50 years had revealed evidence of a potential threat to the UK and that further work would be an inappropriate use of defence resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
 
 For a county-level history such as Lanarkshire’s, that leaves a practical sorting problem. Many reports remain unresolved not because they are strong, but because they are too thin. A one-line account can be impossible to debunk and still be too weak to support a dramatic conclusion.
 
@@ -333,7 +333,7 @@ A weak report is not worthless. It can still show what people were noticing, how
 
 Ordinary explanations are not a magic eraser. Saying that a Lanarkshire light could have been an aircraft, lantern, planet or reflection is not the same as proving that it was. The fair conclusion is usually more modest: the public evidence is not detailed enough to rule out normal causes.
 
-This is why Lanarkshire is useful within the wider UK county UFO project. It shows the difference between an unresolved case and a strong mystery. The Hamilton 2001 police-officer report is worth keeping in the local record because it has a precise date, time, location and witness occupation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</span><span class="citation-popover-meta">Published: April 25, 2007</span></span></span> The 1994 “ghost aircraft” entry is memorable because of its road setting and dramatic description, but it is also fragile because the public summary lacks the detail needed to test road, aircraft or reflection explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News</span></span></span> Recent Cumbernauld, East Kilbride, Airdrie, Hamilton and Uddingston sightings show a continuing local pattern of strange lights, but most are too brief to carry much weight on their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span>
+This is why Lanarkshire is useful within the wider UK county UFO project. It shows the difference between an unresolved case and a strong mystery. The Hamilton 2001 police-officer report is worth keeping in the local record because it has a precise date, time, location and witness occupation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</span><span class="citation-popover-meta">Published: April 25, 2007</span></span></span> The 1994 “ghost aircraft” entry is memorable because of its road setting and dramatic description, but it is also fragile because the public summary lacks the detail needed to test road, aircraft or reflection explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News</span></span></span> Recent Cumbernauld, East Kilbride, Airdrie, Hamilton and Uddingston sightings show a continuing local pattern of strange lights, but most are too brief to carry much weight on their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</span><span class="citation-popover-meta">Published: January 16, 2025</span></span></span>
 
 The balanced reading is therefore neither “Lanarkshire has no UFO history” nor “Lanarkshire is full of alien craft”. It is that Lanarkshire has a real UFO-reporting history built largely from ambiguous lights in a busy, visually confusing part of central Scotland. Aircraft routes, airports, roads, lanterns, planets and cameras explain why many reports may have ordinary roots. The cases that deserve more attention are the ones that leave enough evidence for those ordinary roots to be checked and found wanting.
 
@@ -342,194 +342,194 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Else Could Lanarkshire Witnesses Have Seen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Else Could Lanarkshire Witnesses Have Seen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong emphasis on evaluating conventional explanations before extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on evaluating conventional explanations before extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrasting cases where ordinary explanations were debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrasting cases where ordinary explanations were debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Useful for understanding common sky-object misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding common sky-object misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches critical thinking relevant to assessing UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches critical thinking relevant to assessing UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale SU-57S Fighter Jet Model Detailed ABS Collectible Aircraft for Funs"><img src="{{ '/assets/images/marketplace-covers/c4788f47ca64c8cd1dd9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale SU-57S Fighter Jet Model Detailed ABS Collectible Aircraft for Funs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale SU-57S Fighter Jet Model Detailed ABS Collectible Aircraft for Funs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale SU-57S Fighter Jet Model Detailed ABS Collectible Aircraft for Funs"><img src="{{ '/assets/images/marketplace-covers/c4788f47ca64c8cd1dd9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale SU-57S Fighter Jet Model Detailed ABS Collectible Aircraft for Funs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale SU-57S Fighter Jet Model Detailed ABS Collectible Aircraft for Funs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Scale Harrier Jet Model Includes Landing Gear Diecast Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/df1ce4e6f8ee6bfcf4bc.jpg' | relative_url }}" alt="Listing image for 1/72 Scale Harrier Jet Model Includes Landing Gear Diecast Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Scale Harrier Jet Model Includes Landing Gear Diecast Fighter Jet Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Scale Harrier Jet Model Includes Landing Gear Diecast Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/df1ce4e6f8ee6bfcf4bc.jpg' | relative_url }}" alt="Listing image for 1/72 Scale Harrier Jet Model Includes Landing Gear Diecast Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Scale Harrier Jet Model Includes Landing Gear Diecast Fighter Jet Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy"><img src="{{ '/assets/images/marketplace-covers/92b4badce019635ec220.jpg' | relative_url }}" alt="Listing image for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy"><img src="{{ '/assets/images/marketplace-covers/92b4badce019635ec220.jpg' | relative_url }}" alt="Listing image for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="explanations-2399fe-what-else-could-lanarkshire-witnesses-have-seen-lanarkshire-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,209 +735,209 @@ The balanced reading is therefore neither “Lanarkshire has no UFO history” n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 2001 1April 25, 2007 — 05-Nov-01. 00:30 Hamilton. Lanarkshire. Police Officer. The object looked like half of a saucer, had red an...</p></details>
    Published: April 25, 2007  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: acog.aero  
-   Link: <a href="https://www.acog.aero/airspace-masterplan/who-is-involved/stma/" target="_blank" rel="noopener noreferrer nofollow">https://www.acog.aero/airspace-masterplan/who-is-involved/stma/</a>  
+   Link:<a href="https://www.acog.aero/airspace-masterplan/who-is-involved/stma/" target="_blank" rel="noopener noreferrer nofollow">https://www.acog.aero/airspace-masterplan/who-is-involved/stma/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Called in decision New Barnfield Hatfield ref 2190245 7 July 2014  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cf8b940f0b60a7f1a97cc/Called-in_decision_-_New_Barnfield__Hatfield__ref_2190245__7_July_2014_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cf8b940f0b60a7f1a97cc/Called-in_decision_-_New_Barnfield__Hatfield__ref_2190245__7_July_2014_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cf8b940f0b60a7f1a97cc/Called-in_decision_-_New_Barnfield__Hatfield__ref_2190245__7_July_2014_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cf8b940f0b60a7f1a97cc/Called-in_decision_-_New_Barnfield__Hatfield__ref_2190245__7_July_2014_.pdf</a>  
    Published: July 2014  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140804 FOI Bentwaters  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+   Link:<a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scotland.police.uk  
    Title: UF O Sighting  
-   Link: <a href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/</a>  
+   Link:<a href="https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/access-to-information/freedom-of-information/disclosure-log/disclosure-log-2025/november/25-3558-incident-stats-ufo-sighting-cumbernauld-airdrie-31-10-2025/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: traffic.gov.scot  
-   Link: <a href="https://www.traffic.gov.scot/traffic-information/planned-roadworks" target="_blank" rel="noopener noreferrer nofollow">https://www.traffic.gov.scot/traffic-information/planned-roadworks</a>  
+   Link:<a href="https://www.traffic.gov.scot/traffic-information/planned-roadworks" target="_blank" rel="noopener noreferrer nofollow">https://www.traffic.gov.scot/traffic-information/planned-roadworks</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: meetings.westoxon.gov.uk  
-   Link: <a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
+   Link:<a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hmicfrs.justiceinspectorates.gov.uk  
-   Link: <a href="https://hmicfrs.justiceinspectorates.gov.uk/?cat=national-police-air-service&amp;force=cheshire&amp;frs=west-sussex&amp;month=1994-08&amp;order=DESC&amp;orderby=date&amp;s=&amp;sector=fire&amp;type=publications" target="_blank" rel="noopener noreferrer nofollow">https://hmicfrs.justiceinspectorates.gov.uk/?cat=national-police-air-service&amp;force=cheshire&amp;frs=west-sussex&amp;month=1994-08&amp;order=DESC&amp;orderby=date&amp;s=&amp;sector=fire&amp;type=publications</a>  
+   Link:<a href="https://hmicfrs.justiceinspectorates.gov.uk/?cat=national-police-air-service&amp;force=cheshire&amp;frs=west-sussex&amp;month=1994-08&amp;order=DESC&amp;orderby=date&amp;s=&amp;sector=fire&amp;type=publications" target="_blank" rel="noopener noreferrer nofollow">https://hmicfrs.justiceinspectorates.gov.uk/?cat=national-police-air-service&amp;force=cheshire&amp;frs=west-sussex&amp;month=1994-08&amp;order=DESC&amp;orderby=date&amp;s=&amp;sector=fire&amp;type=publications</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</p></details>
+   Link:<a href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-revealed-hotspot-ufo-sightings-34488764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily RecordLanarkshire is revealed as a hotspot for UFO sightingsJanuary 16, 2025 — 16 Jan 2025 — The group &#x27;UFO Identified&#x27; have made n...</p></details>
    Published: January 16, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cumbernauldairport.org  
-   Link: <a href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbernauldairport.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cumbernauld AirportCumbernauld Airport: HomeCumbernauld Airport is a busy general aviation airport located centrally, within easy reach f...</p></details>
+   Link:<a href="https://www.cumbernauldairport.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbernauldairport.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cumbernauld AirportCumbernauld Airport: HomeCumbernauld Airport is a busy general aviation airport located centrally, within easy reach f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scottishroadsarchive.org  
-   Link: <a href="https://www.scottishroadsarchive.org/m74" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishroadsarchive.org/m74</a>  
+   Link:<a href="https://www.scottishroadsarchive.org/m74" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishroadsarchive.org/m74</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority CAP 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: The Guardian Alien nation: Mo D releases final UFO files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Cumbernauld Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Cumbernauld_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cumbernauld_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cumbernauld_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cumbernauld_Airport</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dailyrecord.co.uk  
    Title: ufos reported across lanarkshire mod 30655720  
-   Link: <a href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/ufos-reported-across-lanarkshire-mod-30655720" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/in-your-area/lanarkshire/ufos-reported-across-lanarkshire-mod-30655720</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/in-your-area/lanarkshire/ufos-reported-across-lanarkshire-mod-30655720" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/in-your-area/lanarkshire/ufos-reported-across-lanarkshire-mod-30655720</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DFQHX1eoMxE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFQHX1eoMxE/</a>  
+   Link:<a href="https://www.instagram.com/reel/DFQHX1eoMxE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFQHX1eoMxE/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
+   Link:<a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: UFO (?) Hamilton, South Lanarkshire, Scotland UK  
-   Link: <a href="http://www.youtube.com/watch?v=h_4wR7m74po" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=h_4wR7m74po</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind Scottish UFO&#x27;s The World&#x27;s Strangest UFO Stories The Truth Behind Scottish UFO&#x27;s | The World&#x27;s Strangest UFO Stories Que...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=h_4wR7m74po" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=h_4wR7m74po</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind Scottish UFO&#x27;s The World&#x27;s Strangest UFO Stories The Truth Behind Scottish UFO&#x27;s | The World&#x27;s Strangest UFO Stories Que...</p></details>
    Published: April 2021  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Bizarre floating 'UFO' spotted hovering above Glasgow  
-   Link: <a href="http://www.youtube.com/watch?v=o7a3bzOQL5U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=o7a3bzOQL5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (?) Hamilton, South Lanarkshire, Scotland UK - 22nd April 2021...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=o7a3bzOQL5U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=o7a3bzOQL5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (?) Hamilton, South Lanarkshire, Scotland UK - 22nd April 2021...</p></details>
    Published: April 2021  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Truth Behind Scottish UFO's | The World's Strangest UFO Stories  
-   Link: <a href="http://www.youtube.com/watch?v=Q4mnHuZ2_00" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q4mnHuZ2_00</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hotspot Bonnybridge&#x27;s Mystery Revealed...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Q4mnHuZ2_00" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q4mnHuZ2_00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hotspot Bonnybridge&#x27;s Mystery Revealed...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ourairports.com  
-   Link: <a href="https://ourairports.com/navaids/GOW/Glasgow_VOR-DME_GB/closest-airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/GOW/Glasgow_VOR-DME_GB/closest-airports.html</a>  
+   Link:<a href="https://ourairports.com/navaids/GOW/Glasgow_VOR-DME_GB/closest-airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/GOW/Glasgow_VOR-DME_GB/closest-airports.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1315930371755499/posts/9929349860413464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1315930371755499/posts/9929349860413464/</a>  
+   Link:<a href="https://www.facebook.com/groups/1315930371755499/posts/9929349860413464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1315930371755499/posts/9929349860413464/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nats_scotland-is-already-at-the-forefront-of-the-activity-7401560859174510592-zEMf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nats_scotland-is-already-at-the-forefront-of-the-activity-7401560859174510592-zEMf</a>  
+   Link:<a href="https://www.linkedin.com/posts/nats_scotland-is-already-at-the-forefront-of-the-activity-7401560859174510592-zEMf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nats_scotland-is-already-at-the-forefront-of-the-activity-7401560859174510592-zEMf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcscotlandnews/posts/edinburgh-and-glasgow-airports-could-see-the-biggest-shake-up-of-scotlands-airsp/830649479552899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcscotlandnews/posts/edinburgh-and-glasgow-airports-could-see-the-biggest-shake-up-of-scotlands-airsp/830649479552899/</a>  
+   Link:<a href="https://www.facebook.com/bbcscotlandnews/posts/edinburgh-and-glasgow-airports-could-see-the-biggest-shake-up-of-scotlands-airsp/830649479552899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcscotlandnews/posts/edinburgh-and-glasgow-airports-could-see-the-biggest-shake-up-of-scotlands-airsp/830649479552899/</a>  

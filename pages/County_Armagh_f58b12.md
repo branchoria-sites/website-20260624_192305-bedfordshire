@@ -118,9 +118,9 @@ heading_title: What Really Happened in Armagh's UFO Reports?
 page_heading_title: What Really Happened in Armagh's UFO Reports?
 source_count: 120
 infographic_count: 3
-page_website_name: Armagh UFOs
+page_website_name: Armagh
 page_banner_line: Balanced evidence on County Armagh sightings, records, folklore, and explanations.
-site_website_name: Armagh UFOs
+site_website_name: Armagh
 site_banner_line: Balanced evidence on County Armagh sightings, records, folklore, and explanations.
 site_image_description: A quiet County Armagh night sky over fields and distant rooftops, with small orange lights above the horizon and Lough Neagh...
 output_language: English
@@ -689,11 +689,11 @@ image: /assets/images/County_Armagh_f58b12-overview-social.jpg
 
 ## What area does “County Armagh” mean here?
 
-This page uses County Armagh in its historic-county sense, matching the wider project’s county-map approach. Armagh is one of the six Northern Ireland counties, and historic County Armagh sits in the south of Northern Ireland, on the border with the Republic of Ireland; it is landlocked apart from its shore on Lough Neagh. Wikishire describes the River Blackwater as marking the Tyrone border, Lough Neagh as the northern boundary, and the Ring of Gullion as marking the boundary with County Louth in the south. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">unty Armagh</span><span class="citation-popover-snippet">unty Armagh</span></span></span>
+This page uses County Armagh in its historic-county sense, matching the wider project’s county-map approach. Armagh is one of the six Northern Ireland counties, and historic County Armagh sits in the south of Northern Ireland, on the border with the Republic of Ireland; it is landlocked apart from its shore on Lough Neagh. Wikishire describes the River Blackwater as marking the Tyrone border, Lough Neagh as the northern boundary, and the Ring of Gullion as marking the boundary with County Louth in the south.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">unty Armagh</span><span class="citation-popover-snippet">unty Armagh</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12-overview.webp" | relative_url }}" alt="Overview image for County Armagh" loading="eager" decoding="sync" fetchpriority="high">
-That matters for UFO research because reports rarely respect tidy borders. Newry, for example, is often discussed in relation to Armagh and Down, while south Armagh stories can spill into borderland folklore involving Monaghan or Louth. Modern council areas also differ from the older county language: PSNI and local-government categories now use areas such as Armagh, Banbridge and Craigavon, and Newry, Mourne and Down, rather than treating County Armagh as a single administrative unit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIReports of Unidentified Phenomena &#124; PSNI</span><span class="citation-popover-snippet">PSNIReports of Unidentified Phenomena &#124; PSNI</span></span></span>
+That matters for UFO research because reports rarely respect tidy borders. Newry, for example, is often discussed in relation to Armagh and Down, while south Armagh stories can spill into borderland folklore involving Monaghan or Louth. Modern council areas also differ from the older county language: PSNI and local-government categories now use areas such as Armagh, Banbridge and Craigavon, and Newry, Mourne and Down, rather than treating County Armagh as a single administrative unit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIReports of Unidentified Phenomena &#124; PSNI</span><span class="citation-popover-snippet">PSNIReports of Unidentified Phenomena &#124; PSNI</span></span></span>
 
 The Republic of Ireland’s neighbouring counties are useful geographic context, especially for lights seen across the border, but they are not treated here as UK county branches. The centre of gravity remains historic County Armagh.
 
@@ -701,27 +701,27 @@ The Republic of Ireland’s neighbouring counties are useful geographic context,
 
 ### Portadown, January 2005: eighteen lights in the MoD list
 
-The clearest County Armagh entry in the released Ministry of Defence sighting lists is from Portadown on 24 January 2005 at 23:10. The brief description says: “There were eighteen lights moving across the sky.” It appears in the MoD’s “UFO Reports 2005” table, where Portadown is listed under Northern Ireland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The clearest County Armagh entry in the released Ministry of Defence sighting lists is from Portadown on 24 January 2005 at 23:10. The brief description says: “There were eighteen lights moving across the sky.” It appears in the MoD’s “UFO Reports 2005” table, where Portadown is listed under Northern Ireland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 This is a useful case precisely because it is sparse. There is no named witness, no photographs, no radar track, no aircraft-safety incident, and no detailed follow-up in the released table. It is therefore a recorded report, not a resolved case file. The number of lights is interesting because multiple-light reports often point investigators towards mundane possibilities: aircraft in formation, sky lanterns, satellites, advertising lights, meteor fragments, or misread perspective. None can be confirmed from the MoD table alone.
 
-The Portadown entry also shows the limits of the MoD’s published summaries. GOV.UK describes the released material as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions. That format is good for mapping patterns, but weak for assessing credibility in any single case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Portadown entry also shows the limits of the MoD’s published summaries. GOV.UK describes the released material as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions. That format is good for mapping patterns, but weak for assessing credibility in any single case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12-Illustration-1-dark.svg" | relative_url }}" alt="County Armagh illustration 1" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Abbey Park, Armagh, 2025: the “perfect triangle” report
 
-A more recent Armagh-specific report came through the PSNI. In 2025, a caller from Abbey Park in Armagh reported “three orange lights in the sky in a perfect triangle which moved then dispersed”. The PSNI said it received three reports categorised as UFOs in 2025 and none categorised as aliens; the Armagh call was one of the three. Police said the reports were noted for information only, with “nothing ongoing” and no lines of inquiry identified at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+A more recent Armagh-specific report came through the PSNI. In 2025, a caller from Abbey Park in Armagh reported “three orange lights in the sky in a perfect triangle which moved then dispersed”. The PSNI said it received three reports categorised as UFOs in 2025 and none categorised as aliens; the Armagh call was one of the three. Police said the reports were noted for information only, with “nothing ongoing” and no lines of inquiry identified at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
 This is a classic modern UFO report: orange lights, a geometric formation, movement, then dispersal. It is memorable, but not automatically extraordinary. Three orange lights in a triangle can suggest lanterns, drones, aircraft alignment, flares, or satellites viewed at an angle. The report’s weakness is that the public record does not provide duration, direction, elevation, weather, photographs, flight checks, or independent witnesses.
 
-The case still matters because it shows how UFO reporting has shifted after the MoD closed its UFO desk in 2009. Instead of being routed to a central defence office, sightings may go to police, media, social media, aviation bodies, civilian UFO groups, or nowhere at all. The PSNI stated that it works with other organisations “as and when circumstances require”, but the Abbey Park report did not appear to trigger such a process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+The case still matters because it shows how UFO reporting has shifted after the MoD closed its UFO desk in 2009. Instead of being routed to a central defence office, sightings may go to police, media, social media, aviation bodies, civilian UFO groups, or nowhere at all. The PSNI stated that it works with other organisations “as and when circumstances require”, but the Abbey Park report did not appear to trigger such a process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
 ## Why south Armagh’s “SAS and aliens” story is weaker than its reputation
 
-The most dramatic Armagh-related UFO claim is not a lights-in-the-sky report but an alleged 1993 south Armagh encounter involving SAS soldiers and “little grey men”. The story, later retold by Armagh I, claimed that soldiers on an operation near an IRA arms cache saw small grey figures, abandoned a stakeout, and saw a flash in the sky. The article also reported that the MoD, when asked under Freedom of Information, said it held no information in scope of the request. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
+The most dramatic Armagh-related UFO claim is not a lights-in-the-sky report but an alleged 1993 south Armagh encounter involving SAS soldiers and “little grey men”. The story, later retold by Armagh I, claimed that soldiers on an operation near an IRA arms cache saw small grey figures, abandoned a stakeout, and saw a flash in the sky. The article also reported that the MoD, when asked under Freedom of Information, said it held no information in scope of the request.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
 
-As a piece of local UFO folklore, the story is striking. As evidence, it is thin. The public version relies on media retelling, unnamed soldiers, alleged leaks, and no available MoD file confirming the event. The same Armagh I account notes that some outlets dismissed the story, and that later attempts were made to locate or interview the alleged soldier-witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
+As a piece of local UFO folklore, the story is striking. As evidence, it is thin. The public version relies on media retelling, unnamed soldiers, alleged leaks, and no available MoD file confirming the event. The same Armagh I account notes that some outlets dismissed the story, and that later attempts were made to locate or interview the alleged soldier-witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
 
 The MoD response does not prove the incident never happened; official files can be incomplete, and absence of a record is not the same as proof of absence. But it does substantially weaken the claim as a historical UFO case. In a county-level evidence hierarchy, it belongs below dated police or MoD sighting entries. It is best treated as a contested borderland legend shaped by south Armagh’s military atmosphere during the Troubles, not as a confirmed encounter.
 
@@ -730,21 +730,21 @@ The MoD response does not prove the incident never happened; official files can 
 
 ## What the official record can and cannot tell us
 
-The National Archives explains that the Ministry of Defence kept UFO records from the 1960s and now holds many of those files. It also notes that earlier material was often destroyed after five years until public interest led to more retention, and that many reports involved lights, flashes and shapes which could often be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The National Archives explains that the Ministry of Defence kept UFO records from the 1960s and now holds many of those files. It also notes that earlier material was often destroyed after five years until public interest led to more retention, and that many reports involved lights, flashes and shapes which could often be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 That context is important for County Armagh. A lack of famous Armagh files does not mean nobody in the county ever saw anything unusual. It means the surviving and easily searchable official record is patchy, brief, and often designed for defence triage rather than local historical analysis. The MoD’s concern was whether a report suggested a threat to UK airspace or national security, not whether a witness’s experience deserved a full public explanation.
 
-The MoD eventually closed its UFO desk in 2009. Contemporary reporting of PSNI UFO figures repeats the official rationale: after more than 50 years, no received report had disclosed evidence of a potential threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span> For County Armagh readers, that is the key institutional shift. Since 2009, a sighting is less likely to generate a central defence paper trail unless it overlaps with aviation safety, policing, airspace security, or another operational concern.
+The MoD eventually closed its UFO desk in 2009. Contemporary reporting of PSNI UFO figures repeats the official rationale: after more than 50 years, no received report had disclosed evidence of a potential threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span> For County Armagh readers, that is the key institutional shift. Since 2009, a sighting is less likely to generate a central defence paper trail unless it overlaps with aviation safety, policing, airspace security, or another operational concern.
 
-PSNI’s own Freedom of Information material also shows how hard broad UFO searches can be. In one 2025 disclosure-log entry, PSNI said that a wide request for unidentified phenomena from 2018 to 2023 exceeded the cost limit; keyword searches returned 4,492 results, and manually examining them would take hundreds of hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIReports of Unidentified Phenomena &#124; PSNI</span><span class="citation-popover-snippet">PSNIReports of Unidentified Phenomena &#124; PSNI</span></span></span> That does not mean there were thousands of UFO incidents. It means terms such as “unidentified”, “unusual lights”, “aviation incident” and related words appear across many policing contexts, making clean UFO statistics difficult to extract.
+PSNI’s own Freedom of Information material also shows how hard broad UFO searches can be. In one 2025 disclosure-log entry, PSNI said that a wide request for unidentified phenomena from 2018 to 2023 exceeded the cost limit; keyword searches returned 4,492 results, and manually examining them would take hundreds of hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIReports of Unidentified Phenomena &#124; PSNI</span><span class="citation-popover-snippet">PSNIReports of Unidentified Phenomena &#124; PSNI</span></span></span> That does not mean there were thousands of UFO incidents. It means terms such as “unidentified”, “unusual lights”, “aviation incident” and related words appear across many policing contexts, making clean UFO statistics difficult to extract.
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12-Illustration-2-dark.svg" | relative_url }}" alt="County Armagh illustration 2" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Armagh Observatory factor: why local sky literacy matters
 
-County Armagh has one feature that many UK counties do not: a major astronomical institution. Armagh Observatory and Planetarium describes itself as Ireland’s leading centre for astronomical research and education, with public outreach and a planetarium as well as an active research facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armagh.space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armagh.space">[Armagh Observatory and Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armagh.space</span><span class="citation-popover-snippet">Open source on armagh.space.</span></span></span>
+County Armagh has one feature that many UK counties do not: a major astronomical institution. Armagh Observatory and Planetarium describes itself as Ireland’s leading centre for astronomical research and education, with public outreach and a planetarium as well as an active research facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armagh.space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armagh.space">[Armagh Observatory and Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armagh.space</span><span class="citation-popover-snippet">Open source on armagh.space.</span></span></span>
 
-That does not make Armagh a UFO hotspot. It does, however, give the county a useful interpretive resource. Many UFO reports begin as sincere observations of real sky phenomena: meteors, planets, satellites, aircraft, re-entering debris, searchlights, drones, or atmospheric effects. Armagh Observatory’s public material explains, for example, that when an object enters Earth’s atmosphere, heating can make it appear as a meteor or fireball, and that meteorites are fragments that survive to reach the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armagh.space/planetarium/attractions/meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armagh.space">[Armagh Observatory and Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armagh.space</span><span class="citation-popover-snippet">Open source on armagh.space.</span></span></span>
+That does not make Armagh a UFO hotspot. It does, however, give the county a useful interpretive resource. Many UFO reports begin as sincere observations of real sky phenomena: meteors, planets, satellites, aircraft, re-entering debris, searchlights, drones, or atmospheric effects. Armagh Observatory’s public material explains, for example, that when an object enters Earth’s atmosphere, heating can make it appear as a meteor or fireball, and that meteorites are fragments that survive to reach the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armagh.space/planetarium/attractions/meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armagh.space">[Armagh Observatory and Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armagh.space</span><span class="citation-popover-snippet">Open source on armagh.space.</span></span></span>
 
 This kind of basic sky literacy is crucial when judging local reports. A short-lived bright streak is different from a stationary orange light. A cluster of slow orange points is different from a fast fireball. A “triangle” may be a structured craft, but it may also be three separate lights seen in alignment. The more precise the timing, direction, duration, weather, and witness position, the more useful the report becomes.
 
@@ -754,9 +754,9 @@ The strongest sceptical point about County Armagh’s UFO material is not that w
 
 Orange-light clusters are especially common in UK and Irish UFO reporting. The 2025 Abbey Park report involved three orange lights in a triangle, while the 2005 Portadown report involved eighteen lights moving across the sky. Without corroborating data, these descriptions fit a wide field of explanations. Lanterns, drones, aircraft lights seen in perspective, satellites, or distant flares can all create puzzling formations.
 
-Recent Irish-sky incidents show how quickly a dramatic “UFO” can become explainable. In October 2025, strange lights seen across Ireland were attributed by experts and amateur skywatchers to a SpaceX Falcon 9 launch from Florida; reports described fuel ejection, freezing at altitude, and reflecting sunlight as the likely cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rte.ie/news/2025/1030/1541336-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-title">1541336 mystery lights</span><span class="citation-popover-snippet">1541336 mystery lights</span></span></span> The PSNI’s 2025 UFO summary also noted that widely discussed lights across Ireland that October were later put down to debris from a rocket launched in Florida. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
+Recent Irish-sky incidents show how quickly a dramatic “UFO” can become explainable. In October 2025, strange lights seen across Ireland were attributed by experts and amateur skywatchers to a SpaceX Falcon 9 launch from Florida; reports described fuel ejection, freezing at altitude, and reflecting sunlight as the likely cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rte.ie/news/2025/1030/1541336-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-title">1541336 mystery lights</span><span class="citation-popover-snippet">1541336 mystery lights</span></span></span> The PSNI’s 2025 UFO summary also noted that widely discussed lights across Ireland that October were later put down to debris from a rocket launched in Florida.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">psni northern ireland nick pope belfast ministry of defence b1264593</span><span class="citation-popover-snippet">psni northern ireland nick pope belfast ministry of defence b1264593</span></span></span>
 
-Meteors are another recurring explanation. In February 2024, a “fireball” over County Down was confirmed as a meteor, with UTV reporting an estimated 1–2 metre object travelling around 10–15 km per second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/utv/2024-02-21/fireball-in-co-down-sky-confirmed-as-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">XFragments of meteor sighted in Co Down could have</span><span class="citation-popover-snippet">XFragments of meteor sighted in Co Down could have</span></span></span> That case was not County Armagh, but it is directly relevant to Armagh because bright meteors can be seen over large areas and may be reported from neighbouring counties.
+Meteors are another recurring explanation. In February 2024, a “fireball” over County Down was confirmed as a meteor, with UTV reporting an estimated 1–2 metre object travelling around 10–15 km per second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/utv/2024-02-21/fireball-in-co-down-sky-confirmed-as-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">XFragments of meteor sighted in Co Down could have</span><span class="citation-popover-snippet">XFragments of meteor sighted in Co Down could have</span></span></span> That case was not County Armagh, but it is directly relevant to Armagh because bright meteors can be seen over large areas and may be reported from neighbouring counties.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pItTsg_HUbI" title="UFO spacecraft seen over Scotland, Northern Ireland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pItTsg_HUbI" target="_blank" rel="noopener noreferrer">UFO spacecraft seen over Scotland, Northern Ireland</a></p><p class="youtube-embed-meta">Channel: WingTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pItTsg_HUbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pItTsg_HUbI">Open on YouTube</a></p></div></div></div>
@@ -767,11 +767,11 @@ A useful County Armagh UFO report should be judged by evidence quality rather th
 
 For Armagh, the current evidence sorts roughly into three tiers:
 
-**Recorded but thin:** the 2005 Portadown MoD entry and the 2025 Abbey Park PSNI report. These are genuine records of reports, but the public details are too brief to confirm anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Recorded but thin:** the 2005 Portadown MoD entry and the 2025 Abbey Park PSNI report. These are genuine records of reports, but the public details are too brief to confirm anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Folkloric or weakly sourced:** the south Armagh [SAS story]({{ 'sas-story/' | relative_url }}). It is locally memorable and linked to the county’s militarised border history, but it lacks named witnesses, a confirmed primary file, and official corroboration; the MoD later said it held no information in scope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
+**Folkloric or weakly sourced:** the south Armagh [SAS story]({{ 'sas-story/' | relative_url }}). It is locally memorable and linked to the county’s militarised border history, but it lacks named witnesses, a confirmed primary file, and official corroboration; the MoD later said it held no information in scope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghi.com">[Armagh I]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghi.com</span><span class="citation-popover-snippet">Open source on armaghi.com.</span></span></span>
 
-**Explained regional context:** rocket-debris and meteor cases across Ireland and Northern Ireland. These are not Armagh UFO cases in themselves, but they provide strong cautionary examples of how unusual lights can be real, widely witnessed, and still non-mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rte.ie/news/2025/1030/1541336-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-title">1541336 mystery lights</span><span class="citation-popover-snippet">1541336 mystery lights</span></span></span>
+**Explained regional context:** rocket-debris and meteor cases across Ireland and Northern Ireland. These are not Armagh UFO cases in themselves, but they provide strong cautionary examples of how unusual lights can be real, widely witnessed, and still non-mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rte.ie/news/2025/1030/1541336-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-title">1541336 mystery lights</span><span class="citation-popover-snippet">1541336 mystery lights</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Armagh_f58b12-Illustration-3-dark.svg" | relative_url }}" alt="County Armagh illustration 3" data-theme-src-dark="{{ "/assets/images/County_Armagh_f58b12-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Armagh_f58b12-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -788,194 +788,194 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Armagh&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Armagh&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for official UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers modern UAP discussions and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern UAP discussions and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding official sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding official sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Focuses on investigating and classifying sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating and classifying sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="county-armagh-what-really-happened-in-armagh-s-ufo-reports-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -991,7 +991,7 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1011,7 +1011,7 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1043,7 +1043,7 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1095,7 +1095,7 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1140,7 +1140,7 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1181,185 +1181,185 @@ For a balanced UK county map, County Armagh should therefore be treated as a low
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psni.police.uk  
    Title: PSNIReports of Unidentified Phenomena | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/reports-unidentified-phenomena</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rte.ie  
    Title: 1551110 ufo northern ireland  
-   Link: <a href="https://www.rte.ie/news/newslens/2026/0101/1551110-ufo-northern-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/newslens/2026/0101/1551110-ufo-northern-ireland/</a>  
+   Link:<a href="https://www.rte.ie/news/newslens/2026/0101/1551110-ufo-northern-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/newslens/2026/0101/1551110-ufo-northern-ireland/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: armaghi.com  
-   Link: <a href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow">https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247</a>  
+   Link:<a href="https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247" target="_blank" rel="noopener noreferrer nofollow">https://armaghi.com/news/south-armagh/mod-no-information-on-alleged-encounter-between-sas-and-aliens-in-south-armagh/145247</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: armagh.space  
-   Link: <a href="https://armagh.space/" target="_blank" rel="noopener noreferrer nofollow">https://armagh.space/</a>  
+   Link:<a href="https://armagh.space/" target="_blank" rel="noopener noreferrer nofollow">https://armagh.space/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: armagh.space  
-   Link: <a href="https://armagh.space/planetarium/attractions/meteorites" target="_blank" rel="noopener noreferrer nofollow">https://armagh.space/planetarium/attractions/meteorites</a>  
+   Link:<a href="https://armagh.space/planetarium/attractions/meteorites" target="_blank" rel="noopener noreferrer nofollow">https://armagh.space/planetarium/attractions/meteorites</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rte.ie  
    Title: 1541336 mystery lights  
-   Link: <a href="https://www.rte.ie/news/2025/1030/1541336-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/2025/1030/1541336-mystery-lights/</a>  
+   Link:<a href="https://www.rte.ie/news/2025/1030/1541336-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/2025/1030/1541336-mystery-lights/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: itv.com  
    Title: XFragments of meteor sighted in Co Down could have  
-   Link: <a href="https://www.itv.com/news/utv/2024-02-21/fireball-in-co-down-sky-confirmed-as-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/utv/2024-02-21/fireball-in-co-down-sky-confirmed-as-meteor</a>  
+   Link:<a href="https://www.itv.com/news/utv/2024-02-21/fireball-in-co-down-sky-confirmed-as-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/utv/2024-02-21/fireball-in-co-down-sky-confirmed-as-meteor</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79947540f0b63d72fc6eb4/reqnov11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79947540f0b63d72fc6eb4/reqnov11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79947540f0b63d72fc6eb4/reqnov11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79947540f0b63d72fc6eb4/reqnov11.csv</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: mod ps guide to information nov09  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psni.police.uk  
    Title: ufo sightings  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ireland.com  
-   Link: <a href="https://www.ireland.com/en-gb/destinations/county/armagh/county-armagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland.com/en-gb/destinations/county/armagh/county-armagh/</a>  
+   Link:<a href="https://www.ireland.com/en-gb/destinations/county/armagh/county-armagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland.com/en-gb/destinations/county/armagh/county-armagh/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
    Title: unty Armagh  
-   Link: <a href="https://wikishire.co.uk/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Armagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Armagh</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: standard.co.uk  
    Title: psni northern ireland nick pope belfast ministry of defence b1264593  
-   Link: <a href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html</a>  
+   Link:<a href="https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/psni-northern-ireland-nick-pope-belfast-ministry-of-defence-b1264593.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/</a>  
+   Link:<a href="https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/316004883738181/posts/1170677034937624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/316004883738181/posts/1170677034937624/</a>  
+   Link:<a href="https://www.facebook.com/groups/316004883738181/posts/1170677034937624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/316004883738181/posts/1170677034937624/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: County Armagh  
-   Link: <a href="https://en.wikipedia.org/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Armagh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_Armagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Armagh</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=173541" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=173541</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=173541" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=173541</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: discovernorthernireland.com  
-   Link: <a href="https://discovernorthernireland.com/listing/armagh-observatory-and-planetarium/67521101/" target="_blank" rel="noopener noreferrer nofollow">https://discovernorthernireland.com/listing/armagh-observatory-and-planetarium/67521101/</a>  
+   Link:<a href="https://discovernorthernireland.com/listing/armagh-observatory-and-planetarium/67521101/" target="_blank" rel="noopener noreferrer nofollow">https://discovernorthernireland.com/listing/armagh-observatory-and-planetarium/67521101/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Abduction of Betty & Barney Hill  
-   Link: <a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO spacecraft seen over Scotland, Northern Ireland  
-   Link: <a href="https://www.youtube.com/watch?v=pItTsg_HUbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pItTsg_HUbI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pItTsg_HUbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pItTsg_HUbI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video</a>  
+   Link:<a href="https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/436449473535787/posts/1101289097051818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436449473535787/posts/1101289097051818/</a>  
+   Link:<a href="https://www.facebook.com/groups/436449473535787/posts/1101289097051818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436449473535787/posts/1101289097051818/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thejournal.ie/posts/a-strange-light-moving-across-the-sky-in-parts-of-ireland-this-evening-is-likely/1229672442539047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-strange-light-moving-across-the-sky-in-parts-of-ireland-this-evening-is-likely/1229672442539047/</a>  
+   Link:<a href="https://www.facebook.com/thejournal.ie/posts/a-strange-light-moving-across-the-sky-in-parts-of-ireland-this-evening-is-likely/1229672442539047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-strange-light-moving-across-the-sky-in-parts-of-ireland-this-evening-is-likely/1229672442539047/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: x.com  
-   Link: <a href="https://x.com/thejournal_ie/status/1983636766763471292" target="_blank" rel="noopener noreferrer nofollow">https://x.com/thejournal_ie/status/1983636766763471292</a>  
+   Link:<a href="https://x.com/thejournal_ie/status/1983636766763471292" target="_blank" rel="noopener noreferrer nofollow">https://x.com/thejournal_ie/status/1983636766763471292</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: podcastufo.com  
-   Link: <a href="https://podcastufo.com/wp-content/uploads/2024/05/A-List-of-Sightings-by-Astronomers-UFOIC-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/wp-content/uploads/2024/05/A-List-of-Sightings-by-Astronomers-UFOIC-2004.pdf</a>  
+   Link:<a href="https://podcastufo.com/wp-content/uploads/2024/05/A-List-of-Sightings-by-Astronomers-UFOIC-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/wp-content/uploads/2024/05/A-List-of-Sightings-by-Astronomers-UFOIC-2004.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/onevisionmedia.in/posts/a-newly-circulated-ufo-video-showing-a-so-called-humanoid-figure-has-reignited-o/1450468560454446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/onevisionmedia.in/posts/a-newly-circulated-ufo-video-showing-a-so-called-humanoid-figure-has-reignited-o/1450468560454446/</a>  
+   Link:<a href="https://www.facebook.com/onevisionmedia.in/posts/a-newly-circulated-ufo-video-showing-a-so-called-humanoid-figure-has-reignited-o/1450468560454446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/onevisionmedia.in/posts/a-newly-circulated-ufo-video-showing-a-so-called-humanoid-figure-has-reignited-o/1450468560454446/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/are-there-ulster-sightings-in-whitehalls-ufo-files/28494841.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/are-there-ulster-sightings-in-whitehalls-ufo-files/28494841.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/are-there-ulster-sightings-in-whitehalls-ufo-files/28494841.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/are-there-ulster-sightings-in-whitehalls-ufo-files/28494841.html</a>  

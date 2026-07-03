@@ -248,34 +248,34 @@ image: /assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-over
 
 ## Introduction
 
-The Solway Coast report is the strongest modern UFO hook for historic [Kirkcudbrightshire]({{ 'what-makes-kirkcudbrightshire-ufo/' | relative_url }}), but it is also a good example of why local wording matters. The key sighting was said to have happened over the “Solway Coast” on 6 February 2021: witnesses described a flat, dark, round aircraft-like object with lights at the back, moving very slowly, and estimated at about 12 feet wide. That sounds more specific than a vague “light in the sky”, yet the public record does not name a town, beach, grid reference, direction of travel, observation time, duration, weather, photograph, radar trace, or official investigation file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span>
+The Solway Coast report is the strongest modern UFO hook for historic [Kirkcudbrightshire]({{ 'what-makes-kirkcudbrightshire-ufo/' | relative_url }}), but it is also a good example of why local wording matters. The key sighting was said to have happened over the “Solway Coast” on 6 February 2021: witnesses described a flat, dark, round aircraft-like object with lights at the back, moving very slowly, and estimated at about 12 feet wide. That sounds more specific than a vague “light in the sky”, yet the public record does not name a town, beach, grid reference, direction of travel, observation time, duration, weather, photograph, radar trace, or official investigation file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span>
 
 
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-overview.webp" | relative_url }}" alt="Overview image for Solway Reports" loading="eager" decoding="sync" fetchpriority="high">
-For a Kirkcudbrightshire UFO history, that uncertainty is not a minor footnote. The Solway Firth touches historic Kirkcudbrightshire, Dumfriesshire, Wigtownshire and Cumbria, while modern reports are often filed under “Dumfries and Galloway”, a council area created from several historic counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2National Library of Scotland Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Kirkcudbrightshire</span><span class="citation-popover-snippet">Wikishire Kirkcudbrightshire</span></span></span> The fair reading is therefore cautious: the 2021 Solway Coast report may belong in the Kirkcudbrightshire orbit, but it cannot be placed securely inside the historic county from the wording currently available.
+For a Kirkcudbrightshire UFO history, that uncertainty is not a minor footnote. The Solway Firth touches historic Kirkcudbrightshire, Dumfriesshire, Wigtownshire and Cumbria, while modern reports are often filed under “Dumfries and Galloway”, a council area created from several historic counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Kirkcudbrightshire</span><span class="citation-popover-snippet">Wikishire Kirkcudbrightshire</span></span></span> The fair reading is therefore cautious: the 2021 Solway Coast report may belong in the Kirkcudbrightshire orbit, but it cannot be placed securely inside the historic county from the wording currently available.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/md7OR2tJRUM" title="Exploring Kirkcudbright Dumfries And Galloway Scotland, The Artists Town" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=md7OR2tJRUM" target="_blank" rel="noopener noreferrer">Exploring Kirkcudbright Dumfries And Galloway Scotland, The Artists Town</a></p><p class="youtube-embed-meta">Channel: The Hiking Hermit Travels</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=md7OR2tJRUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=md7OR2tJRUM">Open on YouTube</a></p></div></div></div>
 
 ## What Was Reported On The Solway Coast?
 
-The modern case family begins with a small set of Dumfries and Galloway reports publicised in 2024 from material compiled by the civilian research group UFO Identified. The local newspaper account listed three recent regional sightings: the 6 February 2021 “circular UFO” over the Solway Coast, a “star-like UFO” over Dumfries on 11 December 2022, and three “orbs” seen from Galloway Park on 21 October 2023. The same report said UFO Identified had documented 1,789 UK sightings since 2020, using sources including social media, newspaper reports, Freedom of Information requests and direct reports to UFO groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span>
+The modern case family begins with a small set of Dumfries and Galloway reports publicised in 2024 from material compiled by the civilian research group UFO Identified. The local newspaper account listed three recent regional sightings: the 6 February 2021 “circular UFO” over the Solway Coast, a “star-like UFO” over Dumfries on 11 December 2022, and three “orbs” seen from Galloway Park on 21 October 2023. The same report said UFO Identified had documented 1,789 UK sightings since 2020, using sources including social media, newspaper reports, Freedom of Information requests and direct reports to UFO groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span>
 
-The 2021 Solway Coast report stands apart because it is more object-like than the others. It was described as a “round-shaped aircraft”, flat and dark, with lights at the back, moving very slowly. A separate local write-up repeated the 12-foot size estimate, which implies the witness thought the object was relatively close rather than a high, distant point of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dng24.co.uk/ufos-spotted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dng24.co.uk">[DNG 24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dng24.co.uk</span><span class="citation-popover-title">ufos spotted</span><span class="citation-popover-snippet">ufos spotted</span></span></span>
+The 2021 Solway Coast report stands apart because it is more object-like than the others. It was described as a “round-shaped aircraft”, flat and dark, with lights at the back, moving very slowly. A separate local write-up repeated the 12-foot size estimate, which implies the witness thought the object was relatively close rather than a high, distant point of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dng24.co.uk/ufos-spotted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dng24.co.uk">[DNG 24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dng24.co.uk</span><span class="citation-popover-title">ufos spotted</span><span class="citation-popover-snippet">ufos spotted</span></span></span>
 
 That detail is interesting, but it is also fragile. A witness can estimate the size of a nearby car, drone or aircraft only when there are enough cues: known distance, nearby buildings, horizon line, sound, shadow, or a clear relation to the ground. In an open coastal sky, a dark shape with lights can be misjudged very easily. Without the original report form, a map point, a duration and a direction, “about 12 feet wide” tells us more about the witness’s impression than about the object’s measured size.
 
-The two later reports are useful mainly as context. The Dumfries sighting was a bright pulsating light that changed colour and appeared to move slightly; the Galloway Park report involved three orbs apparently circling, separating and returning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span> Both are common shapes in modern UFO reporting, but both are also the kind of account most vulnerable to planets, aircraft, satellites, drones, cloud movement, eye movement, camera artefacts or other ordinary explanations. They help show that the region produces sightings, but they do not by themselves strengthen the 2021 Solway Coast case.
+The two later reports are useful mainly as context. The Dumfries sighting was a bright pulsating light that changed colour and appeared to move slightly; the Galloway Park report involved three orbs apparently circling, separating and returning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span> Both are common shapes in modern UFO reporting, but both are also the kind of account most vulnerable to planets, aircraft, satellites, drones, cloud movement, eye movement, camera artefacts or other ordinary explanations. They help show that the region produces sightings, but they do not by themselves strengthen the 2021 Solway Coast case.
 
 
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-1-dark.svg" | relative_url }}" alt="Solway Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Location Wording Matters
 
-“Solway Coast” sounds local, but it is not a precise historic-county location. Kirkcudbrightshire is a maritime county on the north coast of the Solway Firth, bounded by Wigtownshire to the west and Dumfriesshire to the east and north-east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Kirkcudbrightshire</span><span class="citation-popover-snippet">Wikishire Kirkcudbrightshire</span></span></span> That makes the Solway coast genuinely relevant to Kirkcudbrightshire, especially around places such as Kirkcudbright Bay, Dundrennan, Auchencairn, Rockcliffe and Southerness.
+“Solway Coast” sounds local, but it is not a precise historic-county location. Kirkcudbrightshire is a maritime county on the north coast of the Solway Firth, bounded by Wigtownshire to the west and Dumfriesshire to the east and north-east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Kirkcudbrightshire</span><span class="citation-popover-snippet">Wikishire Kirkcudbrightshire</span></span></span> That makes the Solway coast genuinely relevant to Kirkcudbrightshire, especially around places such as Kirkcudbright Bay, Dundrennan, Auchencairn, Rockcliffe and Southerness.
 
-The difficulty is that “Solway Coast” is also an official and popular name on the English side. The Solway Coast National Landscape describes itself as running along the northern shore of Cumbria, and Cumberland Council describes the Solway Coast Area of Outstanding Natural Beauty as covering much of the English Solway Firth coastline from Rockcliffe to Maryport, except Silloth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwaycoast-nl.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaycoast-nl.org.uk">[Solway Coast National Landscape]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaycoast-nl.org.uk</span><span class="citation-popover-snippet">Open source on solwaycoast-nl.org.uk.</span></span></span> So a report labelled “Solway Coast” can point to Scotland, England, the firth as a whole, or a loose media shorthand.
+The difficulty is that “Solway Coast” is also an official and popular name on the English side. The Solway Coast National Landscape describes itself as running along the northern shore of Cumbria, and Cumberland Council describes the Solway Coast Area of Outstanding Natural Beauty as covering much of the English Solway Firth coastline from Rockcliffe to Maryport, except Silloth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwaycoast-nl.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaycoast-nl.org.uk">[Solway Coast National Landscape]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaycoast-nl.org.uk</span><span class="citation-popover-snippet">Open source on solwaycoast-nl.org.uk.</span></span></span> So a report labelled “Solway Coast” can point to Scotland, England, the firth as a whole, or a loose media shorthand.
 
-Modern Scottish administrative wording adds another layer. “Dumfries and Galloway” is not the same as historic Kirkcudbrightshire. The modern council area brought together the historic counties of Dumfriesshire, Wigtownshire and the Stewartry of Kirkcudbright in 1975, and the National Library of Scotland describes the region in exactly those terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.nls.uk/zoom-into-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nls.uk">[National Library of Scotland Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nls.uk</span><span class="citation-popover-title">zoom into dumfries and galloway</span><span class="citation-popover-snippet">zoom into dumfries and galloway</span></span></span> A “Dumfries and Galloway UFO” may be in Kirkcudbrightshire, but it may equally be in Dumfriesshire or Wigtownshire.
+Modern Scottish administrative wording adds another layer. “Dumfries and Galloway” is not the same as historic Kirkcudbrightshire. The modern council area brought together the historic counties of Dumfriesshire, Wigtownshire and the Stewartry of Kirkcudbright in 1975, and the National Library of Scotland describes the region in exactly those terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.nls.uk/zoom-into-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nls.uk">[National Library of Scotland Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nls.uk</span><span class="citation-popover-title">zoom into dumfries and galloway</span><span class="citation-popover-snippet">zoom into dumfries and galloway</span></span></span> A “Dumfries and Galloway UFO” may be in Kirkcudbrightshire, but it may equally be in Dumfriesshire or Wigtownshire.
 
 For this page, the safe classification is:
 
@@ -295,13 +295,13 @@ This distinction prevents a common error in local UFO writing: turning a regiona
 
 ## The Military And Coastal Sky Problem
 
-The strongest local reason to take the 2021 report seriously as a Kirkcudbrightshire-adjacent sighting is also one of the strongest reasons to be cautious about it: the Solway shore near Kirkcudbright includes live military training and complex coastal sightlines. Kirkcudbright Training Centre sits on the northern coastline of the Solway Firth, about five kilometres south of Kirkcudbright, and covers 1,900 hectares of farmland used for field firing and dry training exercises. GOV.UK access guidance states that red flags by day and red lights by night mark periods when live firing is taking place and access is prohibited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The strongest local reason to take the 2021 report seriously as a Kirkcudbrightshire-adjacent sighting is also one of the strongest reasons to be cautious about it: the Solway shore near Kirkcudbright includes live military training and complex coastal sightlines. Kirkcudbright Training Centre sits on the northern coastline of the Solway Firth, about five kilometres south of Kirkcudbright, and covers 1,900 hectares of farmland used for field firing and dry training exercises. GOV.UK access guidance states that red flags by day and red lights by night mark periods when live firing is taking place and access is prohibited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
-The Solway Firth Partnership gives a wider local picture: Kirkcudbright Training Area lies south of Kirkcudbright, is used by the Ministry of Defence for live-fire exercises, has an approximate 750 square kilometre sea danger area, is frequently closed to walkers, and is an area where military jets are often heard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-title">Solway Firth Partnership Defence &#124; Solway Review</span><span class="citation-popover-snippet">Solway Firth Partnership Defence &#124; Solway Review</span></span></span> That does not prove the 2021 sighting was military. It does mean any unusual lights or aircraft-like objects on this coast should be checked against range activity, aircraft activity, warnings, sea danger areas and the direction from which the witness was looking.
+The Solway Firth Partnership gives a wider local picture: Kirkcudbright Training Area lies south of Kirkcudbright, is used by the Ministry of Defence for live-fire exercises, has an approximate 750 square kilometre sea danger area, is frequently closed to walkers, and is an area where military jets are often heard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-title">Solway Firth Partnership Defence &#124; Solway Review</span><span class="citation-popover-snippet">Solway Firth Partnership Defence &#124; Solway Review</span></span></span> That does not prove the 2021 sighting was military. It does mean any unusual lights or aircraft-like objects on this coast should be checked against range activity, aircraft activity, warnings, sea danger areas and the direction from which the witness was looking.
 
-There is also a dark-sky factor. Galloway Forest Park became the UK’s first Dark Sky Park in 2009 and is promoted as one of the best places in the UK for viewing the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/galloway-international-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryandland.gov.scot">[Forestry and Land Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryandland.gov.scot</span><span class="citation-popover-title">galloway international dark sky park</span><span class="citation-popover-snippet">galloway international dark sky park</span></span></span> [Dark skies]({{ 'dark-skies-02e93a/' | relative_url }}) help witnesses notice real objects that would be washed out elsewhere: aircraft lights, satellites, meteors, drones, planets, flares, lanterns and reflections. This improves the chance of seeing something unusual, but it also increases the number of ordinary things that can look dramatic.
+There is also a dark-sky factor. Galloway Forest Park became the UK’s first Dark Sky Park in 2009 and is promoted as one of the best places in the UK for viewing the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/galloway-international-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryandland.gov.scot">[Forestry and Land Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryandland.gov.scot</span><span class="citation-popover-title">galloway international dark sky park</span><span class="citation-popover-snippet">galloway international dark sky park</span></span></span> [Dark skies]({{ 'dark-skies-02e93a/' | relative_url }}) help witnesses notice real objects that would be washed out elsewhere: aircraft lights, satellites, meteors, drones, planets, flares, lanterns and reflections. This improves the chance of seeing something unusual, but it also increases the number of ordinary things that can look dramatic.
 
-Coastal geography compounds the problem. The Solway is a cross-border firth with wide views, tidal flats, shallow water, wind farms, shipping, aviation activity and distant lights across the water. The Solway Firth Partnership notes that the area is worked on “both sides” of the firth, while the Solway Coast and Marine Project describes the Solway Firth Estuary as the third largest estuary in the UK and the sea border between Scotland and England. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span> On such a horizon, a light or dark object can appear to be “over” one place while actually being over another county, another shore, or the firth itself.
+Coastal geography compounds the problem. The Solway is a cross-border firth with wide views, tidal flats, shallow water, wind farms, shipping, aviation activity and distant lights across the water. The Solway Firth Partnership notes that the area is worked on “both sides” of the firth, while the Solway Coast and Marine Project describes the Solway Firth Estuary as the third largest estuary in the UK and the sea border between Scotland and England.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwayfirthpartnership.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwayfirthpartnership.co.uk">[Solway Firth Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwayfirthpartnership.co.uk</span><span class="citation-popover-snippet">Open source on solwayfirthpartnership.co.uk.</span></span></span> On such a horizon, a light or dark object can appear to be “over” one place while actually being over another county, another shore, or the firth itself.
 
 
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-2-dark.svg" | relative_url }}" alt="Solway Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,19 +309,19 @@ Coastal geography compounds the problem. The Solway is a cross-border firth with
 
 The best explanation is not one single debunk. The available evidence is too thin for that. A fair assessment starts by separating what is actually reported from what is missing.
 
-What is reported is a slow-moving, dark, flat, round object with rear lights over the Solway Coast on 6 February 2021. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span> What is missing is the material that would let investigators test the sighting: exact location, time, bearing, altitude estimate, duration, weather, witness number, original report text, image metadata, aircraft checks, drone checks, range activity and satellite pass comparison.
+What is reported is a slow-moving, dark, flat, round object with rear lights over the Solway Coast on 6 February 2021.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span> What is missing is the material that would let investigators test the sighting: exact location, time, bearing, altitude estimate, duration, weather, witness number, original report text, image metadata, aircraft checks, drone checks, range activity and satellite pass comparison.
 
 Several ordinary explanations remain plausible:
 
 **A drone or small aircraft** is the most direct match for a slow, relatively close object with lights. The 12-foot estimate would be compatible with some larger unmanned aircraft or a misjudged small aircraft, but the public account gives no sound, altitude or distance cues.
 
-**A military or range-related observation** is locally plausible because of Kirkcudbright Training Centre and the associated coastal military setting, but there is no public evidence tying this exact sighting to a specific exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> It should be treated as a line of enquiry, not a conclusion.
+**A military or range-related observation** is locally plausible because of Kirkcudbright Training Centre and the associated coastal military setting, but there is no public evidence tying this exact sighting to a specific exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> It should be treated as a line of enquiry, not a conclusion.
 
-**A distant aircraft or lights across the firth** could explain the “lights at the back” if the witness was seeing an aircraft at an angle, a moving light pattern, or an object crossing a low coastal horizon. The Solway’s cross-border geography makes this especially relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwaycoastmarine.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaycoastmarine.co.uk">[Solway Coast and Marine Project (SCAMP)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaycoastmarine.co.uk</span><span class="citation-popover-snippet">Open source on solwaycoastmarine.co.uk.</span></span></span>
+**A distant aircraft or lights across the firth** could explain the “lights at the back” if the witness was seeing an aircraft at an angle, a moving light pattern, or an object crossing a low coastal horizon. The Solway’s cross-border geography makes this especially relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solwaycoastmarine.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solwaycoastmarine.co.uk">[Solway Coast and Marine Project (SCAMP)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solwaycoastmarine.co.uk</span><span class="citation-popover-snippet">Open source on solwaycoastmarine.co.uk.</span></span></span>
 
 **A satellite, planet or meteor** is less obviously suited to a dark, flat, round object with rear lights, but cannot be ruled out without time and direction. Many civilian reports begin as object descriptions but reduce to lights once investigators remove assumptions about size and distance.
 
-**A reporting or transcription problem** is also possible. The case is publicly known through secondary reporting of a compiled civilian database rather than a published primary witness statement. The Daily Record account says UFO Identified’s material was drawn from mixed sources including social media, newspaper reports, Freedom of Information requests and direct submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span> That is not a reason to dismiss it, but it does mean the public version may be compressed, paraphrased or missing important qualifiers.
+**A reporting or transcription problem** is also possible. The case is publicly known through secondary reporting of a compiled civilian database rather than a published primary witness statement. The Daily Record account says UFO Identified’s material was drawn from mixed sources including social media, newspaper reports, Freedom of Information requests and direct submissions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span><span class="citation-popover-snippet">Daily Record Three UFO sightings in Dumfries and Galloway over past three years</span></span></span> That is not a reason to dismiss it, but it does mean the public version may be compressed, paraphrased or missing important qualifiers.
 
 The remaining doubt is therefore modest but real: a witness or witnesses may have seen a genuinely unidentified object over the Solway Coast. The evidence available to the public does not let us say whether it was in historic Kirkcudbrightshire, nor whether it was anomalous in any stronger sense.
 
@@ -332,9 +332,9 @@ The remaining doubt is therefore modest but real: a witness or witnesses may hav
 
 The Solway Coast sighting matters because it gives Kirkcudbrightshire a modern, readable UFO case family without pretending the county has a landmark incident on the scale of Rendlesham Forest or Calvine. Its value lies in the uncertainty: it shows how a report can be locally relevant, geographically tempting, and evidentially weak at the same time.
 
-It also illustrates why historic-county UFO mapping needs stricter standards than ordinary newspaper geography. A modern “Dumfries and Galloway” report can cross old county lines; a “Solway Coast” report can even point readers towards Cumbria; and a coastal sighting can be observed from one county while the object, light or aircraft is actually somewhere else. National Library of Scotland Blog+2Solway Coast National Landscape <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.nls.uk/zoom-into-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nls.uk">[blog.nls.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nls.uk</span><span class="citation-popover-title">zoom into dumfries and galloway</span><span class="citation-popover-snippet">zoom into dumfries and galloway</span></span></span> For this project, that makes the Solway Coast report a useful bridge case rather than a settled Kirkcudbrightshire incident.
+It also illustrates why historic-county UFO mapping needs stricter standards than ordinary newspaper geography. A modern “Dumfries and Galloway” report can cross old county lines; a “Solway Coast” report can even point readers towards Cumbria; and a coastal sighting can be observed from one county while the object, light or aircraft is actually somewhere else. National Library of Scotland Blog+2Solway Coast National Landscape<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.nls.uk/zoom-into-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nls.uk">[blog.nls.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nls.uk</span><span class="citation-popover-title">zoom into dumfries and galloway</span><span class="citation-popover-snippet">zoom into dumfries and galloway</span></span></span> For this project, that makes the Solway Coast report a useful bridge case rather than a settled Kirkcudbrightshire incident.
 
-It is also important not to confuse this modern report with the famous Solway Firth Spaceman photograph of 1964. That older case was photographed at Burgh Marsh near Burgh by Sands in Cumbria, on the English side of the firth, and later analysis has often argued that the “spaceman” figure was probably an overexposed human figure in the background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Solway Firth Spaceman</span><span class="citation-popover-snippet">Solway Firth Spaceman</span></span></span> The shared Solway name can mislead readers into assuming a Kirkcudbrightshire connection where the geography points elsewhere.
+It is also important not to confuse this modern report with the famous Solway Firth Spaceman photograph of 1964. That older case was photographed at Burgh Marsh near Burgh by Sands in Cumbria, on the English side of the firth, and later analysis has often argued that the “spaceman” figure was probably an overexposed human figure in the background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Solway Firth Spaceman</span><span class="citation-popover-snippet">Solway Firth Spaceman</span></span></span> The shared Solway name can mislead readers into assuming a Kirkcudbrightshire connection where the geography points elsewhere.
 
 The most balanced classification is therefore: **unresolved but weakly documented; relevant to Kirkcudbrightshire’s Solway-facing UFO history; not securely located within the historic county**. That is still worth recording. Thin evidence, handled honestly, is often more useful than a dramatic claim made too confidently.
 
@@ -342,194 +342,194 @@ The most balanced classification is therefore: **unresolved but weakly documente
 <img src="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-3-dark.svg" | relative_url }}" alt="Solway Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kirkcudbrightshire_97fbf2_solway_coast_reports_476533-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did The Solway Coast Sighting Belong Here?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did The Solway Coast Sighting Belong Here?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a cautious evidence-based discussion of witness reports and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a cautious evidence-based discussion of witness reports and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores modern UFO reports, evidence quality and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern UFO reports, evidence quality and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification and evaluation of sightings rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification and evaluation of sightings rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical perspective on how reports are investigated and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical perspective on how reports are investigated and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="solway-reports-did-the-solway-coast-sighting-belong-here-kirkcudbrightshire-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ The most balanced classification is therefore: **unresolved but weakly documente
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ The most balanced classification is therefore: **unresolved but weakly documente
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ The most balanced classification is therefore: **unresolved but weakly documente
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ The most balanced classification is therefore: **unresolved but weakly documente
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ The most balanced classification is therefore: **unresolved but weakly documente
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,320 +735,320 @@ The most balanced classification is therefore: **unresolved but weakly documente
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cumberland.gov.uk  
-   Link: <a href="https://www.cumberland.gov.uk/planning-and-building-control/conservation/areas-outstanding-natural-beauty-and-nature-reserves" target="_blank" rel="noopener noreferrer nofollow">https://www.cumberland.gov.uk/planning-and-building-control/conservation/areas-outstanding-natural-beauty-and-nature-reserves</a>  
+   Link:<a href="https://www.cumberland.gov.uk/planning-and-building-control/conservation/areas-outstanding-natural-beauty-and-nature-reserves" target="_blank" rel="noopener noreferrer nofollow">https://www.cumberland.gov.uk/planning-and-building-control/conservation/areas-outstanding-natural-beauty-and-nature-reserves</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/scotland-public-access-to-military-areas</a>  
+   Link:<a href="https://www.gov.uk/guidance/scotland-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/scotland-public-access-to-military-areas</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forestryandland.gov.scot  
    Title: galloway international dark sky park  
-   Link: <a href="https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/galloway-international-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/galloway-international-dark-sky-park</a>  
+   Link:<a href="https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/galloway-international-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/galloway-international-dark-sky-park</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: forestryandland.gov.scot  
-   Link: <a href="https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park</a>  
+   Link:<a href="https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Solway Firth Spaceman  
-   Link: <a href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth_Spaceman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth_Spaceman</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=226" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=226</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=226" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=226</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/results/a?_anc=117&amp;_q=%2A" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/results/a?_anc=117&amp;_q=%2A</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/results/a?_anc=117&amp;_q=%2A" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/results/a?_anc=117&amp;_q=%2A</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
    Title: kirkcudbright range control firing times may 2026  
-   Link: <a href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026</a>  
+   Link:<a href="https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/scotland-firing-times/kirkcudbright-range-control-firing-times-may-2026</a>  
    Published: may 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Dumfries and Galloway  
-   Link: <a href="https://en.wikipedia.org/wiki/Dumfries_and_Galloway" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dumfries_and_Galloway</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dumfries_and_Galloway" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dumfries_and_Galloway</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirkcudbrightshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirkcudbrightshire</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Dundrennan Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Dundrennan_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dundrennan_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dundrennan_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dundrennan_Range</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Solway Firth  
-   Link: <a href="https://en.wikipedia.org/wiki/Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Solway_Firth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Solway Coast  
-   Link: <a href="https://en.wikipedia.org/wiki/Solway_Coast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Coast</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Solway_Coast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Coast</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Kirkcudbright Training Centre  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e25e5274a410efd0872/public_access_route_leaflet_v2.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: insidedio.blog.gov.uk  
-   Link: <a href="https://insidedio.blog.gov.uk/2022/01/24/encouraging-the-return-of-pine-martens-and-red-squirrels-to-kirkcudbright-training-centre/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2022/01/24/encouraging-the-return-of-pine-martens-and-red-squirrels-to-kirkcudbright-training-centre/</a>  
+   Link:<a href="https://insidedio.blog.gov.uk/2022/01/24/encouraging-the-return-of-pine-martens-and-red-squirrels-to-kirkcudbright-training-centre/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2022/01/24/encouraging-the-return-of-pine-martens-and-red-squirrels-to-kirkcudbright-training-centre/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: insidedio.blog.gov.uk  
    Title: blog.gov.uk Staying safe on the Defence estate this summer  
-   Link: <a href="https://insidedio.blog.gov.uk/2021/07/27/staying-safe-on-the-defence-estate-this-summer/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2021/07/27/staying-safe-on-the-defence-estate-this-summer/</a>  
+   Link:<a href="https://insidedio.blog.gov.uk/2021/07/27/staying-safe-on-the-defence-estate-this-summer/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2021/07/27/staying-safe-on-the-defence-estate-this-summer/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dartmoor.gov.uk  
-   Link: <a href="https://www.dartmoor.gov.uk/living-and-working/access-and-land-management/military-on-dartmoor" target="_blank" rel="noopener noreferrer nofollow">https://www.dartmoor.gov.uk/living-and-working/access-and-land-management/military-on-dartmoor</a>  
+   Link:<a href="https://www.dartmoor.gov.uk/living-and-working/access-and-land-management/military-on-dartmoor" target="_blank" rel="noopener noreferrer nofollow">https://www.dartmoor.gov.uk/living-and-working/access-and-land-management/military-on-dartmoor</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: i.rcahms.gov.uk  
-   Link: <a href="https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf" target="_blank" rel="noopener noreferrer nofollow">https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf</a>  
+   Link:<a href="https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf" target="_blank" rel="noopener noreferrer nofollow">https://i.rcahms.gov.uk/canmore-pdf/WP00007324.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cumbria.gov.uk  
-   Link: <a href="https://www.cumbria.gov.uk/eLibrary/Content/Internet/538/755/2789/42089132016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.gov.uk/eLibrary/Content/Internet/538/755/2789/42089132016.pdf</a>  
+   Link:<a href="https://www.cumbria.gov.uk/eLibrary/Content/Internet/538/755/2789/42089132016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.gov.uk/eLibrary/Content/Internet/538/755/2789/42089132016.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dumfriesandgalloway.gov.uk  
    Title: Dark Skies Friendly Lighting  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Dark_Skies_Friendly_Lighting_SG_LDP2_Adopted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Dark_Skies_Friendly_Lighting_SG_LDP2_Adopted.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Dark_Skies_Friendly_Lighting_SG_LDP2_Adopted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Dark_Skies_Friendly_Lighting_SG_LDP2_Adopted.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: data.gov.uk  
    Title: Galloway Dark Skies Park  
-   Link: <a href="https://www.data.gov.uk/dataset/092dc1d9-9114-4cdc-a8e3-8de7053730b9/galloway-dark-skies-park" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/092dc1d9-9114-4cdc-a8e3-8de7053730b9/galloway-dark-skies-park</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/092dc1d9-9114-4cdc-a8e3-8de7053730b9/galloway-dark-skies-park" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/092dc1d9-9114-4cdc-a8e3-8de7053730b9/galloway-dark-skies-park</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dailyrecord.co.uk  
    Title: Daily Record Three UFO sightings in Dumfries and Galloway over past three years  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/three-ufo-sightings-dumfries-galloway-32693794</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Kirkcudbrightshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkcudbrightshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkcudbrightshire</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: blog.nls.uk  
    Title: zoom into dumfries and galloway  
-   Link: <a href="https://blog.nls.uk/zoom-into-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nls.uk/zoom-into-dumfries-and-galloway/</a>  
+   Link:<a href="https://blog.nls.uk/zoom-into-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nls.uk/zoom-into-dumfries-and-galloway/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: solwaycoast-nl.org.uk  
-   Link: <a href="https://www.solwaycoast-nl.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/</a>  
+   Link:<a href="https://www.solwaycoast-nl.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoast-nl.org.uk/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: dng24.co.uk  
    Title: ufos spotted  
-   Link: <a href="https://dng24.co.uk/ufos-spotted/" target="_blank" rel="noopener noreferrer nofollow">https://dng24.co.uk/ufos-spotted/</a>  
+   Link:<a href="https://dng24.co.uk/ufos-spotted/" target="_blank" rel="noopener noreferrer nofollow">https://dng24.co.uk/ufos-spotted/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: solwayfirthpartnership.co.uk  
    Title: Solway Firth Partnership Defence | Solway Review  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: solwayfirthpartnership.co.uk  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: solwaycoastmarine.co.uk  
-   Link: <a href="https://www.solwaycoastmarine.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoastmarine.co.uk/</a>  
+   Link:<a href="https://www.solwaycoastmarine.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaycoastmarine.co.uk/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfriesshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfriesshire</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: wikishire.co.uk  
    Title: Template:FP Kirkcudbright  
-   Link: <a href="https://wikishire.co.uk/wiki/Template%3AFP-Kirkcudbright" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Template%3AFP-Kirkcudbright</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Template%3AFP-Kirkcudbright" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Template%3AFP-Kirkcudbright</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: dailyrecord.co.uk  
    Title: best ufo sightings scotland year 27460202  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/best-ufo-sightings-scotland-year-27460202" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/best-ufo-sightings-scotland-year-27460202</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/best-ufo-sightings-scotland-year-27460202" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/best-ufo-sightings-scotland-year-27460202</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: dailyrecord.co.uk  
    Title: UF Os and aliens  
-   Link: <a href="https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=4" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=4</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=4" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=4</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: dailyrecord.co.uk  
    Title: nearly 50 scottish ufo reports 26105801  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/solwayfirthpartnership/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/solwayfirthpartnership/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/solwayfirthpartnership/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/solwayfirthpartnership/?locale=en_GB</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/solwayaonb/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/solwayaonb/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/solwayaonb/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/solwayaonb/?locale=en_GB</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: daily-lazy.com  
    Title: solway firth spaceman  
-   Link: <a href="https://daily-lazy.com/2011/05/solway-firth-spaceman.html" target="_blank" rel="noopener noreferrer nofollow">https://daily-lazy.com/2011/05/solway-firth-spaceman.html</a>  
+   Link:<a href="https://daily-lazy.com/2011/05/solway-firth-spaceman.html" target="_blank" rel="noopener noreferrer nofollow">https://daily-lazy.com/2011/05/solway-firth-spaceman.html</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: scotlandstartshere.com  
-   Link: <a href="https://scotlandstartshere.com/destinations/the-solway-firth/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandstartshere.com/destinations/the-solway-firth/</a>  
+   Link:<a href="https://scotlandstartshere.com/destinations/the-solway-firth/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandstartshere.com/destinations/the-solway-firth/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: solwayfirthpartnership.co.uk  
    Title: Marine INNS in Solway 2021 2024  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2022/08/Marine-INNS-in-Solway-2021-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2022/08/Marine-INNS-in-Solway-2021-2024.pdf</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2022/08/Marine-INNS-in-Solway-2021-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2022/08/Marine-INNS-in-Solway-2021-2024.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: solwayfirthpartnership.co.uk  
    Title: WILDLIF E GUIDE  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2020/06/Wildlife-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2020/06/Wildlife-Guide.pdf</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2020/06/Wildlife-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2020/06/Wildlife-Guide.pdf</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: solwayfirthpartnership.co.uk  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/environment/special-places/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/environment/special-places/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/environment/special-places/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/environment/special-places/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: solwayfirthpartnership.co.uk  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/community/solway-coastwise/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/community/solway-coastwise/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/community/solway-coastwise/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/community/solway-coastwise/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: solwayfirthpartnership.co.uk  
    Title: Marine Natural Capital  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/environment/marine-natural-capital-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/environment/marine-natural-capital-dumfries-and-galloway/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/environment/marine-natural-capital-dumfries-and-galloway/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/environment/marine-natural-capital-dumfries-and-galloway/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Dumfries-and-Galloway" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dumfries-and-Galloway</a>  
+   Link:<a href="https://www.britannica.com/place/Dumfries-and-Galloway" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dumfries-and-Galloway</a>  
 
 ### Additional References
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
    Title: The Solway Firth Spaceman Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=FkAjr4cJ6jI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FkAjr4cJ6jI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Spaceman Mystery: Proof of Aliens or a Bizarre Optical Illusion? | Ninjas Are Butterflies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FkAjr4cJ6jI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FkAjr4cJ6jI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Spaceman Mystery: Proof of Aliens or a Bizarre Optical Illusion? | Ninjas Are Butterflies...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zeum3G2YdZw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zeum3G2YdZw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Children of Woolpit, Solway Spaceman, Hawaiian Cryptids | EP.132 | Ninjas Are Butterflies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zeum3G2YdZw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zeum3G2YdZw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Children of Woolpit, Solway Spaceman, Hawaiian Cryptids | EP.132 | Ninjas Are Butterflies...</p></details>
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/</a>  
+   Link:<a href="https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/stewartrypostcards/posts/1903953910382234/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sysuwn/posts/according-to-[official-records" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sysuwn/posts/according-to-[official-records</a>  
+   Link:<a href="https://www.facebook.com/sysuwn/posts/according-to-[official-records" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sysuwn/posts/according-to-[official-records</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites</a>  
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/dark-sky-parks-sites</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/details_of_any_recorded_ufo_sigh?unfold=1</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/dumfries1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/dumfries1.htm</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/dumfries1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/dumfries1.htm</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: scotlandstartshere.com  
-   Link: <a href="https://scotlandstartshere.com/point-of-interest/galloway-forest-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandstartshere.com/point-of-interest/galloway-forest-dark-sky-park/</a>  
+   Link:<a href="https://scotlandstartshere.com/point-of-interest/galloway-forest-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandstartshere.com/point-of-interest/galloway-forest-dark-sky-park/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kirkcudbrightshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Kirkcudbrightshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kirkcudbrightshire</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: visionofbritain.org.uk  
-   Link: <a href="https://www.visionofbritain.org.uk/place/17458" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17458</a>  
+   Link:<a href="https://www.visionofbritain.org.uk/place/17458" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofbritain.org.uk/place/17458</a>  

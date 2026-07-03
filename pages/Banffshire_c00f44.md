@@ -118,9 +118,9 @@ heading_title: What Really Happened in Banffshire's UFO Record?
 page_heading_title: What Really Happened in Banffshire's UFO Record?
 source_count: 179
 infographic_count: 3
-page_website_name: Banffshire UFOs
+page_website_name: Banffshire
 page_banner_line: Balanced county-level UFO history from Banff to Tomintoul and the Moray Firth coast.
-site_website_name: Banffshire UFOs
+site_website_name: Banffshire
 site_banner_line: Balanced county-level UFO history from Banff to Tomintoul and the Moray Firth coast.
 site_image_description: A dark Moray Firth coastline near Banff with small coastal lights, low cloud, and a bright unexplained point of light above the...
 output_language: English
@@ -689,27 +689,27 @@ image: /assets/images/Banffshire_c00f44-overview-social.jpg
 
 ## Introduction
 
-For this page, Banffshire means the historic Scottish county: a Moray Firth county running from the coast around Banff, Portsoy, Cullen and Buckie inland towards Speyside and the Cairngorms. That matters because modern addresses may now fall under Aberdeenshire or Moray, while older records, lieutenancy references and MoD sighting tables may still use “Banffshire”. The historic county ceased to be used for local government in 1975, and since 1996 the area has been split mainly between the Aberdeenshire and Moray council areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+For this page, Banffshire means the historic Scottish county: a Moray Firth county running from the coast around Banff, Portsoy, Cullen and Buckie inland towards Speyside and the Cairngorms. That matters because modern addresses may now fall under Aberdeenshire or Moray, while older records, lieutenancy references and MoD sighting tables may still use “Banffshire”. The historic county ceased to be used for local government in 1975, and since 1996 the area has been split mainly between the Aberdeenshire and Moray council areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Banffshire_c00f44-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Banffshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as Banffshire in UFO records?
 
-Banffshire is a good example of why historic county geography needs care in UFO work. The project’s map framework follows historic counties, and the Wikimedia Commons historic-county SVG set includes Banffshire as one of the UK’s mapped historic counties. Wikishire describes Banffshire as a shire on the Moray Firth stretching inland up the Spey valley into the Grampian and Cairngorm mountains, with Banff as county town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Category:SVG maps of historic counties of the United Kingdom</span><span class="citation-popover-snippet">Category:SVG maps of historic counties of the United Kingdom</span></span></span>
+Banffshire is a good example of why historic county geography needs care in UFO work. The project’s map framework follows historic counties, and the Wikimedia Commons historic-county SVG set includes Banffshire as one of the UK’s mapped historic counties. Wikishire describes Banffshire as a shire on the Moray Firth stretching inland up the Spey valley into the Grampian and Cairngorm mountains, with Banff as county town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Category:SVG maps of historic counties of the United Kingdom</span><span class="citation-popover-snippet">Category:SVG maps of historic counties of the United Kingdom</span></span></span>
 
 Modern administration can blur the evidence. A sighting listed as Banff, Banffshire in a 2000 MoD table is straightforward for this page. A report from Tomintoul, historically in Banffshire but now commonly associated with Moray council-area geography and the Cairngorms, is still relevant here when the source itself labels the county as Banffshire. Nearby reports from Elgin, Lossiemouth, Spey Bay or RAF Lossiemouth may help explain flight paths or regional patterns, but they should not be silently treated as Banffshire cases unless the geography or source label supports that reading.
 
-Banffshire’s boundaries have also shifted historically. The Lord-Lieutenant of Banffshire notes that the county’s boundaries moved on several occasions, especially in the west between Keith, Portgordon and the Spey, and that it once had detached portions within Aberdeenshire. Scotland’s People similarly notes that Banff county, also known as Banffshire, had its boundaries altered by the Boundary Commissioners in 1891 and that counties as local government areas were abolished in Scotland in 1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lordlieutenantbanffshire.co.uk/historic-county-of-banffshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lordlieutenantbanffshire.co.uk">[LordLieutenantBanff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lordlieutenantbanffshire.co.uk</span><span class="citation-popover-snippet">Open source on lordlieutenantbanffshire.co.uk.</span></span></span>
+Banffshire’s boundaries have also shifted historically. The Lord-Lieutenant of Banffshire notes that the county’s boundaries moved on several occasions, especially in the west between Keith, Portgordon and the Spey, and that it once had detached portions within Aberdeenshire. Scotland’s People similarly notes that Banff county, also known as Banffshire, had its boundaries altered by the Boundary Commissioners in 1891 and that counties as local government areas were abolished in Scotland in 1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lordlieutenantbanffshire.co.uk/historic-county-of-banffshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lordlieutenantbanffshire.co.uk">[LordLieutenantBanff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lordlieutenantbanffshire.co.uk</span><span class="citation-popover-snippet">Open source on lordlieutenantbanffshire.co.uk.</span></span></span>
 
 ## The clearest official Banffshire sightings
 
 The best-documented Banffshire entries in public official records are not long case files. They are short lines in MoD annual sighting tables. That is important: these records show that reports were received, but they do not by themselves establish what was seen.
 
-On 11 February 2000, the MoD’s “UFO Report 2000” recorded two separate entries for Banff, Banffshire, close together in time. At 18:05, a witness reported one object, visible mainly as light, “shrouded in a sort of mist”, with purple light for about five seconds and a very deep blue colour. At 18:20, another Banff entry described two star-like objects, the larger apparently emitting a cone-shaped pinkish light beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+On 11 February 2000, the MoD’s “UFO Report 2000” recorded two separate entries for Banff, Banffshire, close together in time. At 18:05, a witness reported one object, visible mainly as light, “shrouded in a sort of mist”, with purple light for about five seconds and a very deep blue colour. At 18:20, another Banff entry described two star-like objects, the larger apparently emitting a cone-shaped pinkish light beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 The timing makes these entries interesting, but also difficult. Two reports in the same town within fifteen minutes could suggest a shared stimulus: a bright astronomical object, aircraft lighting through cloud, searchlight-like atmospheric effects, or simply two witnesses interpreting the same sky conditions differently. The MoD table does not provide witness names, precise viewing direction, weather, duration beyond the brief description, or any radar or aviation follow-up. Without those details, the reports remain unresolved in the limited sense that the public record does not identify a cause, not in the stronger sense that ordinary explanations have been ruled out.
 
-A later Banffshire entry appears in the MoD’s 2009 report. On 11 May 2009, Tomintoul, Banffshire, was listed with an undated time: “Like a star, but jumping all over the sky”, around 70 degrees above the horizon, blue-white with occasional red and leaving a light trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A later Banffshire entry appears in the MoD’s 2009 report. On 11 May 2009, Tomintoul, Banffshire, was listed with an undated time: “Like a star, but jumping all over the sky”, around 70 degrees above the horizon, blue-white with occasional red and leaving a light trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That description fits a common UFO-report problem: a point-like light high in the sky can be hard to judge for distance, speed and motion. Apparent “jumping” can be caused by eye movement, atmospheric shimmer, cloud gaps, binocular or camera shake, or a genuine moving source such as an aircraft or satellite. The colour changes are also not unusual in reports of bright stars or planets near unstable air, although the Tomintoul entry’s mention of a light trail leaves room for other possibilities such as aircraft, meteor-like perception, or a brief optical effect. The public record is too thin to choose confidently between them.
 
@@ -717,9 +717,9 @@ That description fits a common UFO-report problem: a point-like light high in th
 <img src="{{ "/assets/images/Banffshire_c00f44-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Banffshire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Banffshire has aviation relevance but no major UFO base story
 
-Banffshire is not a blank patch of sky history. RAF Banff, also known locally as Boyndie, was built during the Second World War and officially opened in April 1943. The Airfields of Britain Conservation Trust describes Banff/Boyndie as a Coastal Command airfield that opened under Flying Training Command before later wartime use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/banff-boyndie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-title">banff boyndie</span><span class="citation-popover-snippet">banff boyndie</span></span></span>
+Banffshire is not a blank patch of sky history. RAF Banff, also known locally as Boyndie, was built during the Second World War and officially opened in April 1943. The Airfields of Britain Conservation Trust describes Banff/Boyndie as a Coastal Command airfield that opened under Flying Training Command before later wartime use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/banff-boyndie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-title">banff boyndie</span><span class="citation-popover-snippet">banff boyndie</span></span></span>
 
-The surviving built environment underlines the aviation connection. Historic Environment Scotland’s record for the Boyndie control tower says that on 1 September 1944 RAF Banff was taken over by 18 Group Coastal Command under Group Captain Max Aitken, and that a multi-national strike wing operated from Boyndie, including Norwegian, RAF and Royal Canadian Air Force squadrons attacking German surface vessels and U-boats in the North Sea and along the Norwegian coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB49835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
+The surviving built environment underlines the aviation connection. Historic Environment Scotland’s record for the Boyndie control tower says that on 1 September 1944 RAF Banff was taken over by 18 Group Coastal Command under Group Captain Max Aitken, and that a multi-national strike wing operated from Boyndie, including Norwegian, RAF and Royal Canadian Air Force squadrons attacking German surface vessels and U-boats in the North Sea and along the Norwegian coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB49835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
 This matters for UFO history because aviation-linked places often attract later speculation. Airfields, radar sites, coastal patrol routes, military exercises and low-flying aircraft all provide plausible reasons for unusual lights or sounds. But in Banffshire’s case, the known RAF Banff story is mainly wartime and heritage-related. It does not, on the available public evidence, create a strong post-war UFO case comparable with radar-visual incidents at active air defence sites elsewhere in the UK.
 
@@ -730,15 +730,15 @@ The more relevant modern aviation context lies just outside or near the historic
 
 ## The 1954 “Lossiemouth to Buckie” contactee tale is nearby, famous, and badly weakened
 
-One north-east Scotland story often drifts towards Banffshire because it was said to have occurred “between Lossiemouth and Buckie”. Buckie is in historic Banffshire, while Lossiemouth is in Moray, so the alleged geography sits close to this page’s western coastal edge. The story appeared in Cedric Allingham’s 1954 book *Flying Saucer from Mars*, in which Allingham claimed to have encountered a Martian spacecraft and its occupant while on holiday near Lossiemouth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
+One north-east Scotland story often drifts towards Banffshire because it was said to have occurred “between Lossiemouth and Buckie”. Buckie is in historic Banffshire, while Lossiemouth is in Moray, so the alleged geography sits close to this page’s western coastal edge. The story appeared in Cedric Allingham’s 1954 book *Flying Saucer from Mars*, in which Allingham claimed to have encountered a Martian spacecraft and its occupant while on holiday near Lossiemouth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
-For Banffshire readers, the point is not that this is a credible local landing case. It is almost the opposite. Later research treated “Cedric Allingham” as a fictional or disguised identity, and the episode has long been discussed as an elaborate hoax associated with Patrick Moore and Peter Davies, although Moore denied involvement. Encyclopedia.com summarises the later exposure through Christopher Allan and Steuart Campbell’s 1986 work in *Magonia*, including Davies’s admission that he had been involved with the book and that the supposed author’s identity was false or staged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Open source on encyclopedia.com.</span></span></span>
+For Banffshire readers, the point is not that this is a credible local landing case. It is almost the opposite. Later research treated “Cedric Allingham” as a fictional or disguised identity, and the episode has long been discussed as an elaborate hoax associated with Patrick Moore and Peter Davies, although Moore denied involvement. Encyclopedia.com summarises the later exposure through Christopher Allan and Steuart Campbell’s 1986 work in *Magonia*, including Davies’s admission that he had been involved with the book and that the supposed author’s identity was false or staged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Open source on encyclopedia.com.</span></span></span>
 
 The Allingham story still has value in a Banffshire UFO history because it shows how quickly Scottish place names became props in the 1950s “contactee” era. It also marks a sharp difference between local witness reports and literary UFO claims. The 2000 and 2009 MoD entries are thin but recognisably administrative records of reported sightings. The Allingham tale is a published narrative with photographs and a claimed alien conversation, but later evidence strongly weakens it as testimony.
 
 ## How Banffshire compares with Scotland’s better-known UFO areas
 
-Banffshire is best understood as a low-volume county in the public UFO record. That is not a judgement on every witness; it is a judgement on the surviving evidence. Scotland has much louder UFO landmarks: the Livingston or Robert Taylor incident in West Lothian, the Calvine photograph in Perthshire, and the Bonnybridge/Falkirk Triangle claims in central Scotland. Bonnybridge, for example, has long been reported in the media as attracting claims of hundreds of sightings a year, whether or not those figures are independently robust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Scots lead the way for UFO sightings &#124; UK news</span><span class="citation-popover-snippet">The Guardian Scots lead the way for UFO sightings &#124; UK news</span></span></span>
+Banffshire is best understood as a low-volume county in the public UFO record. That is not a judgement on every witness; it is a judgement on the surviving evidence. Scotland has much louder UFO landmarks: the Livingston or Robert Taylor incident in West Lothian, the Calvine photograph in Perthshire, and the Bonnybridge/Falkirk Triangle claims in central Scotland. Bonnybridge, for example, has long been reported in the media as attracting claims of hundreds of sightings a year, whether or not those figures are independently robust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Scots lead the way for UFO sightings &#124; UK news</span><span class="citation-popover-snippet">The Guardian Scots lead the way for UFO sightings &#124; UK news</span></span></span>
 
 The contrast helps set expectations. Banffshire does not currently offer a major police-investigated physical-trace case, a widely analysed photograph, or a large cluster of repeated reports in the public MoD tables. Its value is different: it shows the quieter end of the British UFO archive, where a few terse entries preserve local moments of puzzlement but do not support a dramatic county mythology.
 
@@ -752,26 +752,26 @@ The most useful sceptical approach to Banffshire is not to dismiss witnesses, bu
 
 Several common explanations are especially relevant to Banffshire’s landscape:
 
-**Bright stars and planets.** The Royal Museums Greenwich notes that Venus is so bright that, especially when low and twinkling, it can produce flashing colour effects and be reported as a peculiar object or UFO. That does not automatically explain the Banff or Tomintoul reports, but it is a serious possibility for star-like lights, colour changes and apparent hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+**Bright stars and planets.** The Royal Museums Greenwich notes that Venus is so bright that, especially when low and twinkling, it can produce flashing colour effects and be reported as a peculiar object or UFO. That does not automatically explain the Banff or Tomintoul reports, but it is a serious possibility for star-like lights, colour changes and apparent hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
 **Aircraft and military or civil traffic.** North-east Scotland has a long aviation history, and modern flight activity around Moray and Aberdeenshire can produce lights that appear to hover, merge, separate or vanish, especially when aircraft are turning, approaching head-on, disappearing behind cloud, or changing intensity.
 
-**Lantern-like orange lights.** The 2009 MoD records across the UK contain many orange-light reports, and some entries themselves mention possible Chinese lanterns or lantern-like descriptions. That national pattern matters because Banffshire’s 2009 Tomintoul report sits within a year when the MoD received a large volume of public UFO reports and many involved lights rather than structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Lantern-like orange lights.** The 2009 MoD records across the UK contain many orange-light reports, and some entries themselves mention possible Chinese lanterns or lantern-like descriptions. That national pattern matters because Banffshire’s 2009 Tomintoul report sits within a year when the MoD received a large volume of public UFO reports and many involved lights rather than structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Coastal mirage effects.** Banffshire’s Moray Firth coast is a natural setting for optical oddities. A Fata Morgana is a superior mirage seen in a narrow band above the horizon, where distant objects such as ships or coastlines can appear distorted, lifted or stacked by temperature layers in the air. Aviation safety resource SKYbrary describes it as a complex superior mirage above the horizon; such effects do not explain high-altitude star-like reports, but they are relevant to coastal “floating” or oddly shaped distant-object claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
+**Coastal mirage effects.** Banffshire’s Moray Firth coast is a natural setting for optical oddities. A Fata Morgana is a superior mirage seen in a narrow band above the horizon, where distant objects such as ships or coastlines can appear distorted, lifted or stacked by temperature layers in the air. Aviation safety resource SKYbrary describes it as a complex superior mirage above the horizon; such effects do not explain high-altitude star-like reports, but they are relevant to coastal “floating” or oddly shaped distant-object claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
-**Lenticular and mountain-wave cloud.** Banffshire reaches inland towards the Grampian and Cairngorm mountains, a terrain context where unusual cloud forms can appear. Lenticular clouds are widely noted for their smooth, lens-like shapes and their tendency to be mistaken for UFOs, particularly near mountainous terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">Open source on accuweather.com.</span></span></span>
+**Lenticular and mountain-wave cloud.** Banffshire reaches inland towards the Grampian and Cairngorm mountains, a terrain context where unusual cloud forms can appear. Lenticular clouds are widely noted for their smooth, lens-like shapes and their tendency to be mistaken for UFOs, particularly near mountainous terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">Open source on accuweather.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hwH2yFElpOM" title="Exploring Portsoy, Scotland | A Hidden Gem on the Moray Firth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hwH2yFElpOM" target="_blank" rel="noopener noreferrer">Exploring Portsoy, Scotland | A Hidden Gem on the Moray Firth</a></p><p class="youtube-embed-meta">Channel: Wandering with Watto</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hwH2yFElpOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hwH2yFElpOM">Open on YouTube</a></p></div></div></div>
 
 ## What the MoD records do — and do not — prove
 
-The MoD’s UFO records are important because they show that members of the public did report sightings, and that those reports entered a government system. GOV.UK hosts annual UFO reports from 1997 to 2009, while The National Archives explains that the Ministry of Defence kept UFO records for decades and that many describe shapes, lights and flashes, often explainable, with some more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The MoD’s UFO records are important because they show that members of the public did report sightings, and that those reports entered a government system. GOV.UK hosts annual UFO reports from 1997 to 2009, while The National Archives explains that the Ministry of Defence kept UFO records for decades and that many describe shapes, lights and flashes, often explainable, with some more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-But the official label “UFO report” does not mean the MoD endorsed an extraordinary interpretation. It usually means an object or light was unidentified to the witness, and sometimes remained unidentified in the file because no detailed investigation or conclusive explanation was recorded. In December 2024, a parliamentary written answer stated that the MOD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released its UFO files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+But the official label “UFO report” does not mean the MoD endorsed an extraordinary interpretation. It usually means an object or light was unidentified to the witness, and sometimes remained unidentified in the file because no detailed investigation or conclusive explanation was recorded. In December 2024, a parliamentary written answer stated that the MOD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released its UFO files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
-The closure of the UFO desk is central to interpreting Banffshire’s later record. The National Archives’ 2013 release material says the final files covered the last two years of the MoD UFO desk, including policy, correspondence, Freedom of Information responses and sighting reports; a transcript from the same release says the desk and hotline closed in November 2009, ending almost 60 years of collecting and analysing such reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The closure of the UFO desk is central to interpreting Banffshire’s later record. The National Archives’ 2013 release material says the final files covered the last two years of the MoD UFO desk, including policy, correspondence, Freedom of Information responses and sighting reports; a transcript from the same release says the desk and hotline closed in November 2009, ending almost 60 years of collecting and analysing such reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 That leaves Banffshire in a familiar position for UK county UFO history: the public can point to specific official entries, but the entries are usually too compressed to settle the event. A good local assessment therefore separates three categories: documented reports, plausible explanations, and genuinely unresolved details. Banffshire has documented reports; it does not currently have a strong public case where extraordinary possibilities survive detailed official, photographic, radar and witness scrutiny.
 
@@ -779,11 +779,11 @@ That leaves Banffshire in a familiar position for UK county UFO history: the pub
 <img src="{{ "/assets/images/Banffshire_c00f44-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Banffshire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A balanced assessment of Banffshire’s UFO history
 
-Banffshire’s UFO history is modest but not empty. The most concrete local evidence consists of official MoD sighting-table entries from Banff in February 2000 and Tomintoul in May 2009. These are legitimate archival traces, but they are not landmark incidents. They preserve brief witness descriptions of unusual lights and motion, without the supporting detail needed for a robust conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Banffshire’s UFO history is modest but not empty. The most concrete local evidence consists of official MoD sighting-table entries from Banff in February 2000 and Tomintoul in May 2009. These are legitimate archival traces, but they are not landmark incidents. They preserve brief witness descriptions of unusual lights and motion, without the supporting detail needed for a robust conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The county’s aviation history gives the subject local texture. RAF Banff at Boyndie was a significant wartime airfield, and the north-east coast has long been tied to military, maritime and aviation activity. That context makes the sky above Banffshire interesting, but it also supplies many non-exotic possibilities for misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/banff-boyndie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-title">banff boyndie</span><span class="citation-popover-snippet">banff boyndie</span></span></span>
+The county’s aviation history gives the subject local texture. RAF Banff at Boyndie was a significant wartime airfield, and the north-east coast has long been tied to military, maritime and aviation activity. That context makes the sky above Banffshire interesting, but it also supplies many non-exotic possibilities for misidentification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/banff-boyndie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-title">banff boyndie</span><span class="citation-popover-snippet">banff boyndie</span></span></span>
 
-The nearby Allingham/Lossiemouth-to-Buckie story is a useful warning. It is colourful, local enough to be relevant, and historically important in British UFO culture, but its credibility has been heavily undermined by later hoax research. Banffshire’s stronger record is less dramatic and more documentary: short MoD entries, careful geography, and restrained interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
+The nearby Allingham/Lossiemouth-to-Buckie story is a useful warning. It is colourful, local enough to be relevant, and historically important in British UFO culture, but its credibility has been heavily undermined by later hoax research. Banffshire’s stronger record is less dramatic and more documentary: short MoD entries, careful geography, and restrained interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
 For readers asking “what really happened in Banffshire?”, the most honest answer is: people reported puzzling lights, the MoD logged some of them, and the public evidence does not prove unusual craft. The county is better read as a small but useful part of the UK’s official UFO-reporting landscape than as a hidden centre of extraordinary activity.
 
@@ -792,194 +792,194 @@ For readers asking “what really happened in Banffshire?”, the most honest an
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Banffshire&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Banffshire&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing sightings, classifications, and unexplained aerial reports similar to those discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing sightings, classifications, and unexplained aerial reports similar to those discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s emphasis on official records, witness reports, and government documentation rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s emphasis on official records, witness reports, and government documentation rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how official investigations and witness testimony are evaluated, complementing local case studies such as Banffshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how official investigations and witness testimony are evaluated, complementing local case studies such as Banffshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly aligns with UK Ministry of Defence files and the documentary approach used in examining Banffshire reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with UK Ministry of Defence files and the documentary approach used in examining Banffshire reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-really-happened-in-banffshires-ufo-what-really-happened-in-banffshire-s-ufo-record-banffshi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-banffshire-s-ufo-record-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -995,7 +995,7 @@ For readers asking “what really happened in Banffshire?”, the most honest an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1015,7 +1015,7 @@ For readers asking “what really happened in Banffshire?”, the most honest an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1047,7 +1047,7 @@ For readers asking “what really happened in Banffshire?”, the most honest an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1099,7 +1099,7 @@ For readers asking “what really happened in Banffshire?”, the most honest an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1144,7 +1144,7 @@ For readers asking “what really happened in Banffshire?”, the most honest an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1185,337 +1185,337 @@ For readers asking “what really happened in Banffshire?”, the most honest an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banffshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banffshire</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/banff-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/banff-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/banff-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/banff-county</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: <a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
+   Link:<a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Lakenheath Bentwaters incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: RAF Banff  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Banff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Banff</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Banff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Banff</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140624 FOI 01746 Rendlesham UFO Incident1980  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: commons.wikimedia.org  
    Title: Category:Maps of traditional counties of Scotland  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_traditional_counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_traditional_counties_of_Scotland</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_traditional_counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_traditional_counties_of_Scotland</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: commons.wikimedia.org  
    Title: Category:Old maps of Banffshire  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AOld_maps_of_Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AOld_maps_of_Banffshire</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AOld_maps_of_Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AOld_maps_of_Banffshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of Scotland  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_Scotland</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_Scotland</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: commons.wikimedia.org  
    Title: File:Banffshire County.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABanffshire_County.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABanffshire_County.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABanffshire_County.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABanffshire_County.svg</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: commons.wikimedia.org  
    Title: File:BANFFSHIRE Civil Parish map.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABANFFSHIRE_Civil_Parish_map.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABANFFSHIRE_Civil_Parish_map.jpg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABANFFSHIRE_Civil_Parish_map.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABANFFSHIRE_Civil_Parish_map.jpg</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: inverclyde.gov.uk  
    Title: PUBLIC Environment & Regeneration Agenda  
-   Link: <a href="https://www.inverclyde.gov.uk/meetings/documents/9683/PUBLIC%20Environment%20%26%20Regeneration%20Agenda.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inverclyde.gov.uk/meetings/documents/9683/PUBLIC%20Environment%20%26%20Regeneration%20Agenda.pdf</a>  
+   Link:<a href="https://www.inverclyde.gov.uk/meetings/documents/9683/PUBLIC%20Environment%20%26%20Regeneration%20Agenda.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inverclyde.gov.uk/meetings/documents/9683/PUBLIC%20Environment%20%26%20Regeneration%20Agenda.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: content.time.com  
-   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: her.aberdeenshire.gov.uk  
-   Link: <a href="https://her.aberdeenshire.gov.uk/Monument/MAB17645" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB17645</a>  
+   Link:<a href="https://her.aberdeenshire.gov.uk/Monument/MAB17645" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB17645</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: accuweather.com  
    Title: fata morgana ship seen hovering off coast england  
-   Link: <a href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697</a>  
+   Link:<a href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: met.police.uk  
-   Link: <a href="https://www.met.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.met.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Banffshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Banffshire</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: lordlieutenantbanffshire.co.uk  
-   Link: <a href="https://www.lordlieutenantbanffshire.co.uk/historic-county-of-banffshire" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/historic-county-of-banffshire</a>  
+   Link:<a href="https://www.lordlieutenantbanffshire.co.uk/historic-county-of-banffshire" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/historic-county-of-banffshire</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: abct.org.uk  
    Title: banff boyndie  
-   Link: <a href="https://www.abct.org.uk/airfields/banff-boyndie/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/banff-boyndie/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/banff-boyndie/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/banff-boyndie/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: portal.historicenvironment.scot  
-   Link: <a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB49835" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB49835</a>  
+   Link:<a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB49835" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB49835</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: theguardian.com  
    Title: The Guardian Scots lead the way for UFO sightings | UK news  
-   Link: <a href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/24/kirstyscott</a>  
+   Link:<a href="https://www.theguardian.com/uk/2002/jun/24/kirstyscott" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2002/jun/24/kirstyscott</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver</a>  
+   Link:<a href="https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2003/jul/06/paulharris.theobserver</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Banffshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Banffshire</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXR2g73E0J-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXR2g73E0J-/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXR2g73E0J-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXR2g73E0J-/?hl=en</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: lordlieutenantbanffshire.co.uk  
-   Link: <a href="https://www.lordlieutenantbanffshire.co.uk/banffshire-and-morayshire-map" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/banffshire-and-morayshire-map</a>  
+   Link:<a href="https://www.lordlieutenantbanffshire.co.uk/banffshire-and-morayshire-map" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/banffshire-and-morayshire-map</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: ebay.co.uk  
    Title: Cedric Allingham  
-   Link: <a href="https://www.ebay.co.uk/itm/197767388863?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/197767388863?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
+   Link:<a href="https://www.ebay.co.uk/itm/197767388863?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/197767388863?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: hangar1publishing.com  
    Title: ufo hotspot  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopvPbRacoB6t5ooVa-jcppz-kj_MuqXPzkcXKt_LgBNBXi4GUyR" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopvPbRacoB6t5ooVa-jcppz-kj_MuqXPzkcXKt_LgBNBXi4GUyR</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopvPbRacoB6t5ooVa-jcppz-kj_MuqXPzkcXKt_LgBNBXi4GUyR" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopvPbRacoB6t5ooVa-jcppz-kj_MuqXPzkcXKt_LgBNBXi4GUyR</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/whats-on/online/members-lecture-venus-jupiters-close-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/whats-on/online/members-lecture-venus-jupiters-close-encounter</a>  
+   Link:<a href="https://www.rmg.co.uk/whats-on/online/members-lecture-venus-jupiters-close-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/whats-on/online/members-lecture-venus-jupiters-close-encounter</a>  
 
 ### Additional References
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
    Title: Exploring Scotlands Hidden History RAF-Banff: Forgotten Airfields of the, UK  
-   Link: <a href="https://www.youtube.com/watch?v=CcFuSf_AjFs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CcFuSf_AjFs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CcFuSf_AjFs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CcFuSf_AjFs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)...</p></details>
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
    Title: Exploring Portsoy, Scotland | A Hidden Gem on the Moray Firth  
-   Link: <a href="https://www.youtube.com/watch?v=hwH2yFElpOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hwH2yFElpOM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cullen Views, Morayshire - May 2026 - DJI AIR3 4K 60fps...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hwH2yFElpOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hwH2yFElpOM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cullen Views, Morayshire - May 2026 - DJI AIR3 4K 60fps...</p></details>
    Published: May 2026  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/45497950/Timeline_of_World_Wierdness" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/Timeline_of_World_Wierdness</a>  
+   Link:<a href="https://www.academia.edu/45497950/Timeline_of_World_Wierdness" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/Timeline_of_World_Wierdness</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburghlivenews/posts/a-flashing-flying-object-was-recorded-in-the-west-lothian-sky-with-an-observer-b/1324332819738011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/a-flashing-flying-object-was-recorded-in-the-west-lothian-sky-with-an-observer-b/1324332819738011/</a>  
+   Link:<a href="https://www.facebook.com/edinburghlivenews/posts/a-flashing-flying-object-was-recorded-in-the-west-lothian-sky-with-an-observer-b/1324332819738011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/a-flashing-flying-object-was-recorded-in-the-west-lothian-sky-with-an-observer-b/1324332819738011/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DR4srSECA0o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR4srSECA0o/</a>  
+   Link:<a href="https://www.instagram.com/p/DR4srSECA0o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR4srSECA0o/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: rafbanfftrust.org  
-   Link: <a href="https://www.rafbanfftrust.org/shop/banffstrikewingatwar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rafbanfftrust.org/shop/banffstrikewingatwar.html</a>  
+   Link:<a href="https://www.rafbanfftrust.org/shop/banffstrikewingatwar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rafbanfftrust.org/shop/banffstrikewingatwar.html</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: gbmaps.com  
-   Link: <a href="https://www.gbmaps.com/free-county-maps/Banffshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Banffshire.php</a>  
+   Link:<a href="https://www.gbmaps.com/free-county-maps/Banffshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Banffshire.php</a>  

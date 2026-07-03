@@ -258,7 +258,7 @@ For this page, [Suffolk]({{ 'why-suffolk-became-a-ufo-county/' | relative_url }}
 
 Most UFO reports begin as a simple perception problem: someone sees a light, movement or shape that they cannot identify at the time. Around an airbase, the same uncertainty has a different weight. A strange light may be an aircraft, a flare, a meteor, a drone, a navigation light, a training sortie, a classified exercise, a radar anomaly or something genuinely unidentified. The observer may also be a security police officer, controller, pilot or technician whose job is to notice unusual activity.
 
-That is why Suffolk’s airbase reports have had a longer afterlife than many ordinary civilian sightings. RAF Bentwaters, RAF Woodbridge, RAF Lakenheath and RAF Mildenhall were not just backdrops. They provided the people, paperwork, radar context and national-security framing that kept the stories alive. The Ministry of Defence’s released UFO material includes correspondence on the Rendlesham Forest incident and broader documents on UFO policy and communications, showing that official interest often lay less in “aliens” than in whether airspace, bases or defence assets were at risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+That is why Suffolk’s airbase reports have had a longer afterlife than many ordinary civilian sightings. RAF Bentwaters, RAF Woodbridge, RAF Lakenheath and RAF Mildenhall were not just backdrops. They provided the people, paperwork, radar context and national-security framing that kept the stories alive. The Ministry of Defence’s released UFO material includes correspondence on the Rendlesham Forest incident and broader documents on UFO policy and communications, showing that official interest often lay less in “aliens” than in whether airspace, bases or defence assets were at risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 This distinction matters. A report being filed through official channels does not prove that the object was extraordinary. It does show that someone in an official role considered the report worth recording, passing on or assessing. Suffolk’s airbase cases sit in that gap between witness seriousness and evidential uncertainty.
 
@@ -266,11 +266,11 @@ This distinction matters. A report being filed through official channels does no
 
 ### Bentwaters and Woodbridge: the Rendlesham setting
 
-RAF Bentwaters and RAF Woodbridge are the heart of Suffolk’s best-known UFO story. In December 1980, United States Air Force personnel based at RAF Woodbridge and RAF Bentwaters reported unexplained lights in and around Rendlesham Forest. The most important official document is Lieutenant Colonel Charles Halt’s January 1981 memorandum, commonly known as the Halt memo, which described “unexplained lights” seen outside RAF Woodbridge and later observations by USAF personnel. The UK Government later told Parliament that its knowledge of any US investigation was limited to the information in that Halt memorandum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">memorandum sent by Lt Col Halt USAF, Deputy Base Commander at RAF Woodbridge, to the RAF Liaison Officer at RAF Bentwaters on 13 January...</span></span></span>
+RAF Bentwaters and RAF Woodbridge are the heart of Suffolk’s best-known UFO story. In December 1980, United States Air Force personnel based at RAF Woodbridge and RAF Bentwaters reported unexplained lights in and around Rendlesham Forest. The most important official document is Lieutenant Colonel Charles Halt’s January 1981 memorandum, commonly known as the Halt memo, which described “unexplained lights” seen outside RAF Woodbridge and later observations by USAF personnel. The UK Government later told Parliament that its knowledge of any US investigation was limited to the information in that Halt memorandum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">memorandum sent by Lt Col Halt USAF, Deputy Base Commander at RAF Woodbridge, to the RAF Liaison Officer at RAF Bentwaters on 13 January...</span></span></span>
 
-The airbase setting is central to why Rendlesham became famous. The initial concern, according to the memo text, was not a mystical encounter but a possible aircraft crash or security problem outside the base. That is a very different starting point from a casual sighting by a passer-by. The witnesses were security personnel in a forest beside a military installation, and the report moved through defence channels rather than only through newspapers or UFO groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpgEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry of Defense regard...</span></span></span>
+The airbase setting is central to why Rendlesham became famous. The initial concern, according to the memo text, was not a mystical encounter but a possible aircraft crash or security problem outside the base. That is a very different starting point from a casual sighting by a passer-by. The witnesses were security personnel in a forest beside a military installation, and the report moved through defence channels rather than only through newspapers or UFO groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpgEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry of Defense regard...</span></span></span>
 
-The doubts are just as important. Sceptical investigators, especially Ian Ridpath, have argued that the Rendlesham reports can be understood as a combination of a bright fireball, the Orfordness Lighthouse, stars and misread ground marks. The local police response has often been cited because officers reported seeing only lighthouse lights, while later sceptical analysis connected the repeated flashing light to the direction and flash rhythm of Orfordness Lighthouse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+The doubts are just as important. Sceptical investigators, especially Ian Ridpath, have argued that the Rendlesham reports can be understood as a combination of a bright fireball, the Orfordness Lighthouse, stars and misread ground marks. The local police response has often been cited because officers reported seeing only lighthouse lights, while later sceptical analysis connected the repeated flashing light to the direction and flash rhythm of Orfordness Lighthouse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
 Rendlesham therefore shows both sides of the Suffolk pattern. The military context made the report harder to ignore and easier to document. The coastal setting also supplied plausible sources of confusion. A light seen from a dark forest near a guarded base could be perceived as close, threatening and anomalous, even if it was actually distant, routine or astronomical.
 
@@ -278,15 +278,15 @@ Rendlesham therefore shows both sides of the Suffolk pattern. The military conte
 <img src="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-1-dark.svg" | relative_url }}" alt="Airbases illustration 1" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lakenheath: radar, interceptors and the older Suffolk mystery
 
-The 1956 Lakenheath-Bentwaters case is the earlier airbase episode that helps explain why Suffolk was already important in UFO literature before Rendlesham. On the night of 13–14 August 1956, radar and visual reports were made around RAF Bentwaters and RAF Lakenheath. The case later appeared in material connected with the US Air Force’s Project Blue Book and the University of Colorado UFO study, often called the Condon Report. A CIA-hosted copy of the relevant case material describes the Bentwaters-Lakenheath episode as a significant radar-visual case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100010010 0</span><span class="citation-popover-snippet">cia rdp81r00560r000100010010 0</span></span></span>
+The 1956 Lakenheath-Bentwaters case is the earlier airbase episode that helps explain why Suffolk was already important in UFO literature before Rendlesham. On the night of 13–14 August 1956, radar and visual reports were made around RAF Bentwaters and RAF Lakenheath. The case later appeared in material connected with the US Air Force’s Project Blue Book and the University of Colorado UFO study, often called the Condon Report. A CIA-hosted copy of the relevant case material describes the Bentwaters-Lakenheath episode as a significant radar-visual case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100010010 0</span><span class="citation-popover-snippet">cia rdp81r00560r000100010010 0</span></span></span>
 
-The attraction of the case is obvious: it involved radar returns, airbase personnel and an attempted airborne response, not just lights seen from a garden. The commonly reported sequence includes fast radar targets, visual observations and a Venom interceptor being directed towards a target. That mixture made the case unusually durable because it seemed to join human observation with instrument data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span>
+The attraction of the case is obvious: it involved radar returns, airbase personnel and an attempted airborne response, not just lights seen from a garden. The commonly reported sequence includes fast radar targets, visual observations and a Venom interceptor being directed towards a target. That mixture made the case unusually durable because it seemed to join human observation with instrument data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span>
 
 Even here, caution is necessary. Radar returns can be affected by atmospheric conditions, equipment behaviour, interpretation error and incomplete [records]({{ 'records/' | relative_url }}). The strongest version of the Lakenheath-Bentwaters story depends on later summaries, surviving case files and contested interpretation. It remains one of Suffolk’s most interesting unresolved airbase-linked cases, but “unresolved” is not the same as “proved extraordinary”.
 
 ### Mildenhall: everyday aviation density, not one famous UFO case
 
-RAF Mildenhall plays a different role. It is less famous for a single classic UFO episode than for its contribution to Suffolk’s continuing aviation density. RAF Mildenhall is an active US Air Force installation, and its own public information presents it as a base with a wide variety of missions involving several major commands. Nearby RAF Lakenheath hosts the 48th Fighter Wing, described by US military information as USAFE’s only F-35/F-15 fighter wing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://installations.militaryonesource.mil/in-depth-overview/raf-mildenhall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: installations.militaryonesource.mil">[MilitaryINSTALLATIONS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">installations.militaryonesource.mil</span><span class="citation-popover-snippet">Open source on militaryonesource.mil.</span></span></span>
+RAF Mildenhall plays a different role. It is less famous for a single classic UFO episode than for its contribution to Suffolk’s continuing aviation density. RAF Mildenhall is an active US Air Force installation, and its own public information presents it as a base with a wide variety of missions involving several major commands. Nearby RAF Lakenheath hosts the 48th Fighter Wing, described by US military information as USAFE’s only F-35/F-15 fighter wing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://installations.militaryonesource.mil/in-depth-overview/raf-mildenhall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: installations.militaryonesource.mil">[MilitaryINSTALLATIONS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">installations.militaryonesource.mil</span><span class="citation-popover-snippet">Open source on militaryonesource.mil.</span></span></span>
 
 That matters because busy military airspace creates more opportunities for misidentification. Fast jets, tankers, formation flying, night operations, navigation lights, low approaches and exercises can all appear strange to observers who lack distance, altitude or speed cues. In a county with flat horizons and large skies, aircraft can seem lower, closer or more unusual than they are.
 
@@ -299,7 +299,7 @@ Mildenhall also shows how the UFO category has changed. In the Cold War, “unid
 
 Suffolk’s eastern edge is a good place to produce ambiguous sightings. The coast gives observers long lines of sight across dark water and low horizons. Lights from aircraft, ships, lighthouses, offshore activity and stars can appear isolated against darkness, while haze, cloud, sea air and distance make judgement harder. A light near the horizon may look as if it is hovering over a field or forest when it is actually much farther away.
 
-Rendlesham is the clearest example. The disputed light seen from the forest lay in a landscape that included RAF Woodbridge, RAF Bentwaters, the coast and Orfordness. Sceptical reconstructions argue that the flashing light was consistent with Orfordness Lighthouse and that bright stars could account for some of the higher lights described later by Halt. Supporters of the case dispute whether these explanations cover all witness claims, but the geography itself explains why the argument exists: military observers were looking through a visually complicated coastal corridor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Rendlesham is the clearest example. The disputed light seen from the forest lay in a landscape that included RAF Woodbridge, RAF Bentwaters, the coast and Orfordness. Sceptical reconstructions argue that the flashing light was consistent with Orfordness Lighthouse and that bright stars could account for some of the higher lights described later by Halt. Supporters of the case dispute whether these explanations cover all witness claims, but the geography itself explains why the argument exists: military observers were looking through a visually complicated coastal corridor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 West Suffolk has a different mechanism. Around Lakenheath and Mildenhall, the key factor is not a lighthouse on the coast but the density of military aviation and surveillance. Radar coverage can strengthen a report when it appears to confirm an object. It can also complicate the picture because radar is not a perfect camera. A blip is a signal requiring interpretation, not a labelled object.
 
@@ -309,15 +309,15 @@ This is why Suffolk’s airbase cluster should not be read as a simple map of �
 <img src="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-3-dark.svg" | relative_url }}" alt="Airbases illustration 3" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Cold War alerts to modern drone concerns
 
-Suffolk’s airbase UFO history began in a Cold War atmosphere, when unidentified aircraft or radar tracks could be treated as defence problems. Bentwaters and Woodbridge were part of a heavily militarised East Anglian landscape, and Bentwaters Cold War Museum now presents the former base’s history from the Second World War through its closure in 1993, including the units that operated there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Cold War Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-title">Bentwaters Cold War Museum The Bentwaters Cold War Museum: Home</span><span class="citation-popover-snippet">Bentwaters Cold War Museum The Bentwaters Cold War Museum: Home</span></span></span>
+Suffolk’s airbase UFO history began in a Cold War atmosphere, when unidentified aircraft or radar tracks could be treated as defence problems. Bentwaters and Woodbridge were part of a heavily militarised East Anglian landscape, and Bentwaters Cold War Museum now presents the former base’s history from the Second World War through its closure in 1993, including the units that operated there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Cold War Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-title">Bentwaters Cold War Museum The Bentwaters Cold War Museum: Home</span><span class="citation-popover-snippet">Bentwaters Cold War Museum The Bentwaters Cold War Museum: Home</span></span></span>
 
-The modern equivalent is the drone incursion. In November 2024, the US Air Force confirmed that small uncrewed aerial systems had been seen near or over RAF Lakenheath, RAF Mildenhall and RAF Feltwell between 20 and 22 November, with numbers fluctuating and the drones varying in size and configuration. The US Air Force said the drones were monitored and that no impact on base residents or critical infrastructure had been determined at that stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The modern equivalent is the drone incursion. In November 2024, the US Air Force confirmed that small uncrewed aerial systems had been seen near or over RAF Lakenheath, RAF Mildenhall and RAF Feltwell between 20 and 22 November, with numbers fluctuating and the drones varying in size and configuration. The US Air Force said the drones were monitored and that no impact on base residents or critical infrastructure had been determined at that stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The issue did not vanish as a one-day media curiosity. A USAFE-AFAFRICA update on 26 November 2024 said small unmanned aerial systems continued to be spotted around RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford since 20 November. In Parliament the next day, the Ministry of Defence said it was working with US visiting forces, police and partners, and that it maintained counter-drone capabilities at defence sites while not discussing specific security procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-title">USAFEAir Forces Africa Statement on Installation Security in the UK</span><span class="citation-popover-snippet">USAFEAir Forces Africa Statement on Installation Security in the UK</span></span></span>
+The issue did not vanish as a one-day media curiosity. A USAFE-AFAFRICA update on 26 November 2024 said small unmanned aerial systems continued to be spotted around RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford since 20 November. In Parliament the next day, the Ministry of Defence said it was working with US visiting forces, police and partners, and that it maintained counter-drone capabilities at defence sites while not discussing specific security procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-title">USAFEAir Forces Africa Statement on Installation Security in the UK</span><span class="citation-popover-snippet">USAFEAir Forces Africa Statement on Installation Security in the UK</span></span></span>
 
-By March 2025, a written parliamentary answer stated that use of uncrewed aerial systems around protected areas in the UK causes a risk to life and is illegal, and that the Ministry of Defence Police was leading the investigation into drone activity over RAF sites on behalf of the MoD. That answer is important because it places modern “unidentified aerial” reports in a law-enforcement and base-security category rather than a folklore category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theyworkforyou.com/wrans/?id=2025-02-28.34643.h" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theyworkforyou.com">[TheyWorkForYou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theyworkforyou.com</span><span class="citation-popover-snippet">Open source on theyworkforyou.com.</span></span></span>
+By March 2025, a written parliamentary answer stated that use of uncrewed aerial systems around protected areas in the UK causes a risk to life and is illegal, and that the Ministry of Defence Police was leading the investigation into drone activity over RAF sites on behalf of the MoD. That answer is important because it places modern “unidentified aerial” reports in a law-enforcement and base-security category rather than a folklore category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theyworkforyou.com/wrans/?id=2025-02-28.34643.h" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theyworkforyou.com">[TheyWorkForYou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theyworkforyou.com</span><span class="citation-popover-snippet">Open source on theyworkforyou.com.</span></span></span>
 
-Drone law also changes how readers should interpret recent reports. NATS guidance for unmanned aircraft restriction zones says it is illegal to fly a drone within such restricted zones without permission from air traffic control or the aerodrome. So a modern unidentified object near Lakenheath or Mildenhall may be mysterious in origin, but the basic concern is practical: air safety, surveillance, trespass, hostile reconnaissance or reckless civilian flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats-uk.ead-it.com">[NATS UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats-uk.ead-it.com</span><span class="citation-popover-title">NATS UKUAS Restriction Zones</span><span class="citation-popover-snippet">NATS UKUAS Restriction Zones</span></span></span>
+Drone law also changes how readers should interpret recent reports. NATS guidance for unmanned aircraft restriction zones says it is illegal to fly a drone within such restricted zones without permission from air traffic control or the aerodrome. So a modern unidentified object near Lakenheath or Mildenhall may be mysterious in origin, but the basic concern is practical: air safety, surveillance, trespass, hostile reconnaissance or reckless civilian flying.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats-uk.ead-it.com">[NATS UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats-uk.ead-it.com</span><span class="citation-popover-title">NATS UKUAS Restriction Zones</span><span class="citation-popover-snippet">NATS UKUAS Restriction Zones</span></span></span>
 
 
 <img src="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-2-dark.svg" | relative_url }}" alt="Airbases illustration 2" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_suffolk_airbases_c507dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,13 +327,13 @@ The Suffolk airbase cluster is best explained by several mechanisms working toge
 
 **More watching means more reports.** Bases have security patrols, air traffic staff, radar operators and personnel trained to notice anomalies. A strange light over open countryside may go unreported; the same light near a base may trigger a log entry, radio call or memo.
 
-**Military activity creates confusing sights.** Aircraft lights, formation manoeuvres, refuelling activity, low approaches, exercises and classified or unfamiliar operations can all look odd from the ground. Lakenheath’s current fighter role and Mildenhall’s varied missions keep west Suffolk in an active aviation environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mildenhall.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mildenhall.af.mil">[Mildenhall Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mildenhall.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+**Military activity creates confusing sights.** Aircraft lights, formation manoeuvres, refuelling activity, low approaches, exercises and classified or unfamiliar operations can all look odd from the ground. Lakenheath’s current fighter role and Mildenhall’s varied missions keep west Suffolk in an active aviation environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mildenhall.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mildenhall.af.mil">[Mildenhall Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mildenhall.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-**Coastal geography creates visual traps.** In east Suffolk, dark forests, low horizons and distant maritime or lighthouse lights can distort distance and scale. That is why the Orfordness Lighthouse explanation remains central to the Rendlesham debate, whether or not one accepts it as a complete solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+**Coastal geography creates visual traps.** In east Suffolk, dark forests, low horizons and distant maritime or lighthouse lights can distort distance and scale. That is why the Orfordness Lighthouse explanation remains central to the Rendlesham debate, whether or not one accepts it as a complete solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
 **Official records preserve some cases better than others.** Airbase incidents are more likely to produce memos, parliamentary questions, Freedom of Information releases or press statements. That creates a survival bias: future researchers see more paper around military cases than around ordinary sightings, even if ordinary sightings were numerous.
 
-**Security secrecy leaves gaps.** Defence organisations may confirm that something was reported while withholding details about sensors, procedures or responses. That is reasonable for security, but it also leaves space for speculation. The 2024 drone statements show the same pattern in modern language: officials confirmed sightings and monitoring, but avoided details of force protection measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-title">USAFEAir Forces Africa Statement on Installation Security in the UK</span><span class="citation-popover-snippet">USAFEAir Forces Africa Statement on Installation Security in the UK</span></span></span>
+**Security secrecy leaves gaps.** Defence organisations may confirm that something was reported while withholding details about sensors, procedures or responses. That is reasonable for security, but it also leaves space for speculation. The 2024 drone statements show the same pattern in modern language: officials confirmed sightings and monitoring, but avoided details of force protection measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-title">USAFEAir Forces Africa Statement on Installation Security in the UK</span><span class="citation-popover-snippet">USAFEAir Forces Africa Statement on Installation Security in the UK</span></span></span>
 
 The result is a cluster that is real as a reporting pattern, but not simple as evidence. Suffolk’s airbases attract UFO stories because they sit where perception, aviation, defence secrecy, official recording and local legend overlap.
 
@@ -353,194 +353,194 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Suffolk Airbases Attract UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Suffolk Airbases Attract UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for understanding recurring patterns in sightings around military installations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for understanding recurring patterns in sightings around military installations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly addresses the county’s best-known military-base UFO story and its legacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the county’s best-known military-base UFO story and its legacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains why airbases, pilots and official observers play such a central role in UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why airbases, pilots and official observers play such a central role in UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how military and government agencies historically evaluated unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how military and government agencies historically evaluated unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="airbases-why-suffolk-airbases-attract-ufo-stories-suffolk-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-suffolk-airbases-attract-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,244 +746,244 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest/Raf Bentwaters Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>memorandum sent by Lt Col Halt USAF, Deputy Base Commander at RAF Woodbridge, to the RAF Liaison Officer at RAF Bentwaters on 13 January...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>memorandum sent by Lt Col Halt USAF, Deputy Base Commander at RAF Woodbridge, to the RAF Liaison Officer at RAF Bentwaters on 13 January...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpgEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry of Defense regard...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpgEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry of Defense regard...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010010 0  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Lakenheath-Bentwaters incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: usafe.af.mil  
    Title: USAFEAir Forces Africa Statement on Installation Security in the UK  
-   Link: <a href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/</a>  
+   Link:<a href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Drones: RAF Bases  
-   Link: <a href="https://hansard.parliament.uk/lords/2024-11-27/debates/717F4A6D-053F-4C9F-BF32-D65D11DA6917/DronesRAFBases" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2024-11-27/debates/717F4A6D-053F-4C9F-BF32-D65D11DA6917/DronesRAFBases</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2024-11-27/debates/717F4A6D-053F-4C9F-BF32-D65D11DA6917/DronesRAFBases" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2024-11-27/debates/717F4A6D-053F-4C9F-BF32-D65D11DA6917/DronesRAFBases</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theyworkforyou.com  
-   Link: <a href="https://www.theyworkforyou.com/wrans/?id=2025-02-28.34643.h" target="_blank" rel="noopener noreferrer nofollow">https://www.theyworkforyou.com/wrans/?id=2025-02-28.34643.h</a>  
+   Link:<a href="https://www.theyworkforyou.com/wrans/?id=2025-02-28.34643.h" target="_blank" rel="noopener noreferrer nofollow">https://www.theyworkforyou.com/wrans/?id=2025-02-28.34643.h</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: raf.mod.uk  
    Title: uk Defence Aerodrome Manual  
-   Link: <a href="https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf</a>  
+   Link:<a href="https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/sites/raf-beta/assets/20262901_RAF_Waddington_DAM_AOB_Issue_52_Final-ORedacted.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: raf.mod.uk  
    Title: drone safety  
-   Link: <a href="https://www.raf.mod.uk/news/articles/drone-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/drone-safety/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/drone-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/drone-safety/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: Raf Bentwaters And Woodbridg Nuclear Weapons Allegations  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: uk Defence Programmes Developments  
-   Link: <a href="https://hansard.parliament.uk/commons/2024-11-20/debates/AC16421B-3F7D-4118-BDC0-5A4CDBE5B62C/DefenceProgrammesDevelopments" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2024-11-20/debates/AC16421B-3F7D-4118-BDC0-5A4CDBE5B62C/DefenceProgrammesDevelopments</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2024-11-20/debates/AC16421B-3F7D-4118-BDC0-5A4CDBE5B62C/DefenceProgrammesDevelopments" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2024-11-20/debates/AC16421B-3F7D-4118-BDC0-5A4CDBE5B62C/DefenceProgrammesDevelopments</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: 2024 drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: RAF Bentwaters  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: RAF Lakenheath  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lakenheath</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lakenheath</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: RAF Mildenhall  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Mildenhall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Mildenhall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Mildenhall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Mildenhall</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: military.com  
    Title: strange drones have been buzzing us air force bases united kingdom  
-   Link: <a href="https://www.military.com/daily-news/2024/11/25/strange-drones-have-been-buzzing-us-air-force-bases-united-kingdom.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2024/11/25/strange-drones-have-been-buzzing-us-air-force-bases-united-kingdom.html</a>  
+   Link:<a href="https://www.military.com/daily-news/2024/11/25/strange-drones-have-been-buzzing-us-air-force-bases-united-kingdom.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2024/11/25/strange-drones-have-been-buzzing-us-air-force-bases-united-kingdom.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ianridpath.com  
    Title: lighthouse visibility  
-   Link: <a href="https://www.ianridpath.com/ufo/lighthouse_visibility.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/lighthouse_visibility.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/lighthouse_visibility.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/lighthouse_visibility.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: installations.militaryonesource.mil  
-   Link: <a href="https://installations.militaryonesource.mil/in-depth-overview/raf-mildenhall" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-mildenhall</a>  
+   Link:<a href="https://installations.militaryonesource.mil/in-depth-overview/raf-mildenhall" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-mildenhall</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: installations.militaryonesource.mil  
-   Link: <a href="https://installations.militaryonesource.mil/military-installation/raf-lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/military-installation/raf-lakenheath</a>  
+   Link:<a href="https://installations.militaryonesource.mil/military-installation/raf-lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/military-installation/raf-lakenheath</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bcwm.org.uk  
    Title: Bentwaters Cold War Museum The Bentwaters Cold War Museum: Home  
-   Link: <a href="https://bcwm.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/</a>  
+   Link:<a href="https://bcwm.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nats-uk.ead-it.com  
    Title: NATS UKUAS Restriction Zones  
-   Link: <a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/</a>  
+   Link:<a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/uas-restriction-zones/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mildenhall.af.mil  
-   Link: <a href="https://www.mildenhall.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.mildenhall.af.mil/</a>  
+   Link:<a href="https://www.mildenhall.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.mildenhall.af.mil/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
+   Link:<a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: whatdotheyknow.com  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: installations.militaryonesource.mil  
    Title: mil RA F Lakenheath | Base Overview & Info  
-   Link: <a href="https://installations.militaryonesource.mil/in-depth-overview/raf-lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-lakenheath</a>  
+   Link:<a href="https://installations.militaryonesource.mil/in-depth-overview/raf-lakenheath" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-lakenheath</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
+   Link:<a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76307/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76307/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76307/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76307/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: westsuffolk.gov.uk  
-   Link: <a href="https://www.westsuffolk.gov.uk/Business/selling-to-usafe/" target="_blank" rel="noopener noreferrer nofollow">https://www.westsuffolk.gov.uk/Business/selling-to-usafe/</a>  
+   Link:<a href="https://www.westsuffolk.gov.uk/Business/selling-to-usafe/" target="_blank" rel="noopener noreferrer nofollow">https://www.westsuffolk.gov.uk/Business/selling-to-usafe/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: kids.kiddle.co  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt  
-   Link: <a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Inside Rendlesham Forest: Where Britain's UFO Landed  
-   Link: <a href="https://www.youtube.com/watch?v=CocWRrqz5oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CocWRrqz5oc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CocWRrqz5oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CocWRrqz5oc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Investigating the US Military Tapes of the Rendlesham UFO  
-   Link: <a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Rendlesham Forest: Where Britain&#x27;s UFO Landed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Rendlesham Forest: Where Britain&#x27;s UFO Landed...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capel Green - Official Trailer (2022)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capel Green - Official Trailer (2022)...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: rafmuseum.org.uk  
-   Link: <a href="https://www.rafmuseum.org.uk/london/plan-your-day/admissions-policy/drone-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/london/plan-your-day/admissions-policy/drone-policy/</a>  
+   Link:<a href="https://www.rafmuseum.org.uk/london/plan-your-day/admissions-policy/drone-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/london/plan-your-day/admissions-policy/drone-policy/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: x.com  
-   Link: <a href="https://x.com/UKDefJournal/status/1934341332396380601" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UKDefJournal/status/1934341332396380601</a>  
+   Link:<a href="https://x.com/UKDefJournal/status/1934341332396380601" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UKDefJournal/status/1934341332396380601</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itamilradar/posts/more-us-movements-to-the-gulf-twelve-usaf-f-35as-have-departed-raf-lakenheath-th/1627161965188722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itamilradar/posts/more-us-movements-to-the-gulf-twelve-usaf-f-35as-have-departed-raf-lakenheath-th/1627161965188722/</a>  
+   Link:<a href="https://www.facebook.com/itamilradar/posts/more-us-movements-to-the-gulf-twelve-usaf-f-35as-have-departed-raf-lakenheath-th/1627161965188722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itamilradar/posts/more-us-movements-to-the-gulf-twelve-usaf-f-35as-have-departed-raf-lakenheath-th/1627161965188722/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: dronelife.com  
-   Link: <a href="https://dronelife.com/tag/raf-feltwell/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/tag/raf-feltwell/</a>  
+   Link:<a href="https://dronelife.com/tag/raf-feltwell/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/tag/raf-feltwell/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFLakenheath/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLakenheath/</a>  
+   Link:<a href="https://www.facebook.com/RAFLakenheath/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLakenheath/</a>  

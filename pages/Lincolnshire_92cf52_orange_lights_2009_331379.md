@@ -248,7 +248,7 @@ image: /assets/images/Lincolnshire_92cf52_orange_lights_2009_331379-overview-soc
 
 ## Introduction
 
-In 2009, [Lincolnshire]({{ 'what-really-flew-over-lincolnshire/' | relative_url }}) became part of a wider UK wave of orange-light UFO reports. The most sensible reading is not that one single incident swept the county, but that several different sky events were being reported through the same cultural filter: silent orange globes, “fireballs”, groups of lights, odd movements, and local speculation sharpened by the [Conisholme]({{ 'conisholme/' | relative_url }}) wind-turbine story. Ministry of Defence records for 2009 include Lincolnshire entries from Grimsby, Spalding, Coningsby, Skegness, Tattershall, Lincoln and Bourne, many of them describing orange, amber or fiery lights. At national level, the MoD’s UFO-reporting workload trebled in 2009, and The National Archives later linked much of the 2008–09 surge to the popularity of sky lanterns, especially at parties, weddings and summer gatherings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+In 2009, [Lincolnshire]({{ 'what-really-flew-over-lincolnshire/' | relative_url }}) became part of a wider UK wave of orange-light UFO reports. The most sensible reading is not that one single incident swept the county, but that several different sky events were being reported through the same cultural filter: silent orange globes, “fireballs”, groups of lights, odd movements, and local speculation sharpened by the [Conisholme]({{ 'conisholme/' | relative_url }}) wind-turbine story. Ministry of Defence records for 2009 include Lincolnshire entries from Grimsby, Spalding, Coningsby, Skegness, Tattershall, Lincoln and Bourne, many of them describing orange, amber or fiery lights. At national level, the MoD’s UFO-reporting workload trebled in 2009, and The National Archives later linked much of the 2008–09 surge to the popularity of sky lanterns, especially at parties, weddings and summer gatherings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Lincolnshire_92cf52_orange_lights_2009_331379-overview.webp" | relative_url }}" alt="Overview image for 2009 Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,24 +259,24 @@ That does not make every Lincolnshire report worthless. It does, however, change
 
 ## The 2009 Lincolnshire Timeline
 
-The Lincolnshire strand of the 2009 flap starts in the shadow of Conisholme. In early January, a wind turbine near Conisholme in the Lincolnshire Wolds lost one blade and had another damaged. The story quickly became linked with reports of strange lights, and national newspapers treated the mystery as a UFO-tinged puzzle. The Guardian reported that Ecotricity, the turbine operator, had not yet explained the damage; possible causes under discussion included metal fatigue, a meteorite, falling ice and collision, while locals had reported strange lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Lincolnshire strand of the 2009 flap starts in the shadow of Conisholme. In early January, a wind turbine near Conisholme in the Lincolnshire Wolds lost one blade and had another damaged. The story quickly became linked with reports of strange lights, and national newspapers treated the mystery as a UFO-tinged puzzle. The Guardian reported that Ecotricity, the turbine operator, had not yet explained the damage; possible causes under discussion included metal fatigue, a meteorite, falling ice and collision, while locals had reported strange lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The later official tone was much cooler. The National Archives’ 2013 UFO highlights guide says the MoD was asked about tabloid claims that the Lincolnshire Wolds turbine had been hit by a UFO. The MoD said the incident had not been reported to it except through the media, that it knew of no substantive evidence of a UFO impact, and that it did not intend to investigate unless clear physical evidence emerged of an aircraft or other object striking the turbine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The later official tone was much cooler. The National Archives’ 2013 UFO highlights guide says the MoD was asked about tabloid claims that the Lincolnshire Wolds turbine had been hit by a UFO. The MoD said the incident had not been reported to it except through the media, that it knew of no substantive evidence of a UFO impact, and that it did not intend to investigate unless clear physical evidence emerged of an aircraft or other object striking the turbine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 The MoD’s 2009 sighting spreadsheet then shows Lincolnshire reports continuing through the year. These were mostly short log entries, not full investigations, but they are useful for seeing the pattern:
 
-* **28 January, Grimsby:** a light in the sky, with other lights “falling or dripping” from it, initially thought to be fireworks, with no noise and an estimated helicopter-like size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **28 January, Grimsby:** a light in the sky, with other lights “falling or dripping” from it, initially thought to be fireworks, with no noise and an estimated helicopter-like size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **10 March, Spalding:** “strange orange lights in the sky”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **26 April, Grimsby:** three star- or satellite-like objects seen within 20 minutes, coming from the south, varying speed, and finally heading east over the North Sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **25 July, Coningsby:** three huge orange lights, two moving at aircraft-like speed and a third moving faster “as if trying to catch up”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **7 August, Coningsby:** four wavering lights, apparently hovering, with video and photographs said to have been taken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **23 August, Skegness:** a large orange light with no noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **26 September, Tattershall:** three separate orange lights, no sound, said to have hovered for around 40 minutes before disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **27 September, Lincoln:** yellow and white cone-like flickering lights, with no defined shape, no noise and no normal aircraft navigation lights, eventually disappearing into cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
-* **5 November, Bourne:** four objects, three close together and one behind, with a bright red glow around a light and no noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **10 March, Spalding:** “strange orange lights in the sky”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **26 April, Grimsby:** three star- or satellite-like objects seen within 20 minutes, coming from the south, varying speed, and finally heading east over the North Sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **25 July, Coningsby:** three huge orange lights, two moving at aircraft-like speed and a third moving faster “as if trying to catch up”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **7 August, Coningsby:** four wavering lights, apparently hovering, with video and photographs said to have been taken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **23 August, Skegness:** a large orange light with no noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **26 September, Tattershall:** three separate orange lights, no sound, said to have hovered for around 40 minutes before disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **27 September, Lincoln:** yellow and white cone-like flickering lights, with no defined shape, no noise and no normal aircraft navigation lights, eventually disappearing into cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+* **5 November, Bourne:** four objects, three close together and one behind, with a bright red glow around a light and no noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 </div>
 
@@ -288,11 +288,11 @@ What stands out is not one dramatic, well-documented encounter. It is repetition
 
 The key practical question is whether 2009 was a genuine UFO flap, a lantern craze, or a mixed sky year. The answer is almost certainly mixed, but heavily influenced by lanterns.
 
-The National Archives’ summary of the final MoD files is unusually direct. It says MoD received an average of about 150 UFO reports per year from 2000 to 2007, that the figure doubled in 2008 and trebled in 2009, with 643 reports logged by 30 November. It also states that a large number of 2008–09 reports were generated by sightings of Chinese lanterns, with formations of orange lights filmed by members of the public who were amazed, stunned or frightened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The National Archives’ summary of the final MoD files is unusually direct. It says MoD received an average of about 150 UFO reports per year from 2000 to 2007, that the figure doubled in 2008 and trebled in 2009, with 643 reports logged by 30 November. It also states that a large number of 2008–09 reports were generated by sightings of Chinese lanterns, with formations of orange lights filmed by members of the public who were amazed, stunned or frightened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-Sky lanterns are a particularly good match for many Lincolnshire-style reports because they can be silent, orange, flame-like and slow. In groups, they can look like a formation. In wind shear, they can seem to change direction or speed. As their fuel burns out, they fade, shrink, vanish, or appear to climb into darkness. The 2009 MoD spreadsheet repeatedly contains witness phrases such as “orange lights”, “no sound”, “fireball”, “faded”, “hovered”, “formation” and “not fireworks” across the UK, which is exactly the descriptive territory in which lantern misidentification thrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Sky lanterns are a particularly good match for many Lincolnshire-style reports because they can be silent, orange, flame-like and slow. In groups, they can look like a formation. In wind shear, they can seem to change direction or speed. As their fuel burns out, they fade, shrink, vanish, or appear to climb into darkness. The 2009 MoD spreadsheet repeatedly contains witness phrases such as “orange lights”, “no sound”, “fireball”, “faded”, “hovered”, “formation” and “not fireworks” across the UK, which is exactly the descriptive territory in which lantern misidentification thrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-This does not mean every orange object was a lantern. Some 2009 reports could have been meteors or re-entering debris, especially where witnesses describe a short-lived bright object, high speed, a fiery appearance or a brief streak. Others could have been aircraft seen head-on or at long range. Lincolnshire’s aviation context matters here: RAF Coningsby is one of the RAF’s two Quick Reaction Alert stations and a Typhoon training station, while RAF Waddington is described by the RAF as one of its busiest stations and the hub of UK Intelligence, Surveillance, Target Acquisition and Reconnaissance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+This does not mean every orange object was a lantern. Some 2009 reports could have been meteors or re-entering debris, especially where witnesses describe a short-lived bright object, high speed, a fiery appearance or a brief streak. Others could have been aircraft seen head-on or at long range. Lincolnshire’s aviation context matters here: RAF Coningsby is one of the RAF’s two Quick Reaction Alert stations and a Typhoon training station, while RAF Waddington is described by the RAF as one of its busiest stations and the hub of UK Intelligence, Surveillance, Target Acquisition and Reconnaissance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 The county’s geography also makes misjudgement easier. Flat fenland and coastal horizons can make distant lights look lower, slower or more stationary than they are. A light moving towards or away from a witness may seem to hover. A lantern drifting with the wind may appear to move “under control” if the observer has no clear reference point. A distant aircraft near cloud can vanish abruptly. A meteor can be seen for only seconds and still feel close and dramatic.
 
@@ -305,9 +305,9 @@ The 2009 flap is therefore best understood as a reporting environment rather tha
 
 Conisholme matters because it gave Lincolnshire’s orange lights a physical-looking anchor. A broken turbine is more memorable than a dot in the sky. Once the story connected strange lights with damaged machinery, later orange-light reports could be read by the public through a stronger UFO frame.
 
-The strongest version of the Conisholme claim had three ingredients: reported lights, unexplained turbine damage, and early uncertainty from those examining the turbine. The Guardian’s report captured that uncertainty at the time, noting the damaged 20-metre blade, another blade bent and gnarled, and a range of possible causes still under discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The strongest version of the Conisholme claim had three ingredients: reported lights, unexplained turbine damage, and early uncertainty from those examining the turbine. The Guardian’s report captured that uncertainty at the time, noting the damaged 20-metre blade, another blade bent and gnarled, and a range of possible causes still under discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The weaker part was the evidential bridge. The existence of damage did not establish that an airborne object hit the turbine, and the existence of strange lights did not establish that those lights were connected to the damage. The National Archives’ later summary is important because it shows the MoD did not treat the case as a defence incident in the absence of physical evidence of a collision with an aircraft or object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The weaker part was the evidential bridge. The existence of damage did not establish that an airborne object hit the turbine, and the existence of strange lights did not establish that those lights were connected to the damage. The National Archives’ later summary is important because it shows the MoD did not treat the case as a defence incident in the absence of physical evidence of a collision with an aircraft or object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 For Lincolnshire UFO history, Conisholme is still valuable, but not because it proves an exotic event. It shows how quickly a local engineering mystery can become a UFO case when witnesses, media attention and ambiguous night lights line up. It also helps explain why 2009 reports from places such as Coningsby, Tattershall, Skegness and Bourne attracted more interpretive weight than similar lights might have carried in a quieter year.
 
@@ -317,11 +317,11 @@ For Lincolnshire UFO history, Conisholme is still valuable, but not because it p
 
 The most useful way to read the 2009 Lincolnshire material is to separate “unidentified” from “unexplainable”. The MoD spreadsheet often records only a date, time, place and short witness description. That is enough to show a report was made, but rarely enough to test it properly.
 
-A report is **weakly unresolved** when it lacks key details: exact direction, duration, angular size, weather, wind, cloud, aircraft traffic, witness position, photographs, original video, or independent corroboration. Many Lincolnshire 2009 entries fall into this category. “Large orange light with no noise” at Skegness, for example, is interesting as part of a pattern but too brief to carry much weight on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A report is **weakly unresolved** when it lacks key details: exact direction, duration, angular size, weather, wind, cloud, aircraft traffic, witness position, photographs, original video, or independent corroboration. Many Lincolnshire 2009 entries fall into this category. “Large orange light with no noise” at Skegness, for example, is interesting as part of a pattern but too brief to carry much weight on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-A report is **plausibly explained** when the description strongly matches a known source, even if no one has identified the exact lantern release, aircraft or meteor. Three or more silent orange lights, slowly moving or fading, especially on summer evenings or around social-event times, belong in this bracket unless additional evidence shows otherwise. The National Archives explicitly says many people in 2008–09 were seeing sky lanterns for the first time and reporting them as UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+A report is **plausibly explained** when the description strongly matches a known source, even if no one has identified the exact lantern release, aircraft or meteor. Three or more silent orange lights, slowly moving or fading, especially on summer evenings or around social-event times, belong in this bracket unless additional evidence shows otherwise. The National Archives explicitly says many people in 2008–09 were seeing sky lanterns for the first time and reporting them as UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-A report is **genuinely stronger** when it has multiple independent witnesses, precise timings, original images or video, radar or air-traffic data, and a description that resists common explanations. The 7 August Coningsby entry says video and photographs were taken, which makes it potentially more useful than a one-line sighting, but the public MoD spreadsheet does not provide the images or a technical analysis. Without those, it remains a promising lead rather than strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A report is **genuinely stronger** when it has multiple independent witnesses, precise timings, original images or video, radar or air-traffic data, and a description that resists common explanations. The 7 August Coningsby entry says video and photographs were taken, which makes it potentially more useful than a one-line sighting, but the public MoD spreadsheet does not provide the images or a technical analysis. Without those, it remains a promising lead rather than strong evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 A report should be treated as **high risk for misinterpretation** when it depends on impressions such as “too fast”, “too low”, “not a plane”, “under control” or “hovering” without measurements. These impressions may be honest, but night-sky perception is poor at judging distance and speed. A nearby lantern and a distant aircraft can produce very different physical realities while looking similarly puzzling to an observer.
 
@@ -330,7 +330,7 @@ A report should be treated as **high risk for misinterpretation** when it depend
 
 ## Why the 2009 Flap Still Matters
 
-The 2009 Lincolnshire orange-light flap matters because it is a clean example of how UFO clusters form. The sightings did not arise in a vacuum. They came during a national rise in [MoD reports]({{ 'mo-d-reports-5ec3c8/' | relative_url }}), at the end of the official UFO desk era, amid public file releases, tabloid attention, local curiosity after Conisholme and a growing sky-lantern craze. The National Archives notes that the MoD’s rising UFO workload had become difficult for the one official responsible and was affecting other defence tasks; the same guide links the 2008–09 surge to lantern reports and local newspaper coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The 2009 Lincolnshire orange-light flap matters because it is a clean example of how UFO clusters form. The sightings did not arise in a vacuum. They came during a national rise in [MoD reports]({{ 'mo-d-reports-5ec3c8/' | relative_url }}), at the end of the official UFO desk era, amid public file releases, tabloid attention, local curiosity after Conisholme and a growing sky-lantern craze. The National Archives notes that the MoD’s rising UFO workload had become difficult for the one official responsible and was affecting other defence tasks; the same guide links the 2008–09 surge to lantern reports and local newspaper coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 Lincolnshire was especially receptive to that pattern. It has dark rural skies, long sightlines, coast-facing views, RAF traffic and communities used to looking up. A silent orange object over the Fens or the coast can feel stranger than the same object over a brightly lit city. Around Coningsby and Tattershall, any unusual light also sits near an aviation landscape, which can make witnesses more alert but not necessarily more accurate.
 
@@ -342,194 +342,194 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
 <img src="{{ "/assets/images/Lincolnshire_92cf52_orange_lights_2009_331379-Illustration-3-dark.svg" | relative_url }}" alt="2009 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Lincolnshire_92cf52_orange_lights_2009_331379-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lincolnshire_92cf52_orange_lights_2009_331379-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why 2009 Filled Lincolnshire With Orange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why 2009 Filled Lincolnshire With Orange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses UFO reports, witness testimony, and the challenge of separating unexplained sightings from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses UFO reports, witness testimony, and the challenge of separating unexplained sightings from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how unusual lights and aerial reports are classified and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how unusual lights and aerial reports are classified and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides the critical-thinking framework needed to assess orange-light sightings, lantern reports, meteors, and other ambiguous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides the critical-thinking framework needed to assess orange-light sightings, lantern reports, meteors, and other ambiguous events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores historical patterns in UFO reports and the cultural interpretation of unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores historical patterns in UFO reports and the cultural interpretation of unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Over London Classic Aviation Photo Memorabilia (146)"><img src="{{ '/assets/images/marketplace-covers/e0042faf3b2d1375863f.jpg' | relative_url }}" alt="Listing image for Spitfire Over London Classic Aviation Photo Memorabilia (146)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spitfire Over London Classic Aviation Photo Memorabilia (146)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Over London Classic Aviation Photo Memorabilia (146)"><img src="{{ '/assets/images/marketplace-covers/e0042faf3b2d1375863f.jpg' | relative_url }}" alt="Listing image for Spitfire Over London Classic Aviation Photo Memorabilia (146)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spitfire Over London Classic Aviation Photo Memorabilia (146)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL."><img src="{{ '/assets/images/marketplace-covers/9c3b32c129f3990886bd.jpg' | relative_url }}" alt="Listing image for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL."><img src="{{ '/assets/images/marketplace-covers/9c3b32c129f3990886bd.jpg' | relative_url }}" alt="Listing image for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/bed7585f82d746a14885.jpg' | relative_url }}" alt="Listing image for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/bed7585f82d746a14885.jpg' | relative_url }}" alt="Listing image for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641"><img src="{{ '/assets/images/marketplace-covers/95edee0d021f6a7d07c4.jpg' | relative_url }}" alt="Listing image for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641"><img src="{{ '/assets/images/marketplace-covers/95edee0d021f6a7d07c4.jpg' | relative_url }}" alt="Listing image for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="2009-lights-9a9b57-why-2009-filled-lincolnshire-with-orange-lights-lincolnshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,168 +735,168 @@ For a county-level UFO history, the right conclusion is cautious. The 2009 Linco
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-waddington/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-waddington/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-waddington/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: des.mod.uk  
    Title: raf protector test flight waddington  
-   Link: <a href="https://des.mod.uk/raf-protector-test-flight-waddington/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/raf-protector-test-flight-waddington/</a>  
+   Link:<a href="https://des.mod.uk/raf-protector-test-flight-waddington/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/raf-protector-test-flight-waddington/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
+   Link:<a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: raf typhoons scrambled over uk  
-   Link: <a href="https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk</a>  
+   Link:<a href="https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/raf-typhoons-scrambled-over-uk</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO blamed for windfarm damage  
-   Link: <a href="https://www.youtube.com/watch?v=G852v0CnLKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G852v0CnLKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange lights in the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G852v0CnLKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G852v0CnLKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orange lights in the sky...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Orange lights in the sky  
-   Link: <a href="https://www.youtube.com/watch?v=a-zxAXe-xK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a-zxAXe-xK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fire in the sky balloons mistaken for UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a-zxAXe-xK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a-zxAXe-xK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fire in the sky balloons mistaken for UFOs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun</a>  
+   Link:<a href="https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2009/jan/08/wind-turbine-ufo-lincolnshire-the-sun</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: wind turbine ufo  
-   Link: <a href="https://www.theguardian.com/uk/2009/jan/09/wind-turbine-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/jan/09/wind-turbine-ufo</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/jan/09/wind-turbine-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/jan/09/wind-turbine-ufo</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: chinese lanterns call to ban  
-   Link: <a href="https://www.theguardian.com/uk/2011/jan/23/chinese-lanterns-call-to-ban" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2011/jan/23/chinese-lanterns-call-to-ban</a>  
+   Link:<a href="https://www.theguardian.com/uk/2011/jan/23/chinese-lanterns-call-to-ban" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2011/jan/23/chinese-lanterns-call-to-ban</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: RAF Waddington  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Waddington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Waddington</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Waddington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Waddington</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Quick Reaction Alert  
-   Link: <a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/957741139593445/posts/1274987554535467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957741139593445/posts/1274987554535467/</a>  
+   Link:<a href="https://www.facebook.com/groups/957741139593445/posts/1274987554535467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957741139593445/posts/1274987554535467/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: telegraph.co.uk  
    Title: Chinese lanterns  
-   Link: <a href="https://www.telegraph.co.uk/news/earth/agriculture/farming/10154970/Chinese-lanterns-those-lights-in-the-sky-are-beautiful-but-deadly.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/earth/agriculture/farming/10154970/Chinese-lanterns-those-lights-in-the-sky-are-beautiful-but-deadly.html</a>  
+   Link:<a href="https://www.telegraph.co.uk/news/earth/agriculture/farming/10154970/Chinese-lanterns-those-lights-in-the-sky-are-beautiful-but-deadly.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/earth/agriculture/farming/10154970/Chinese-lanterns-those-lights-in-the-sky-are-beautiful-but-deadly.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Fire in the sky balloons mistaken for UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=uGLjdzq7QIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uGLjdzq7QIM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Conisholme&quot; wind turbine UFO Conisholme wind farm Linconshire UFO crashes into wind turbine freeenergy4everyone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uGLjdzq7QIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uGLjdzq7QIM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Conisholme&quot; wind turbine UFO Conisholme wind farm Linconshire UFO crashes into wind turbine freeenergy4everyone...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Conisholme wind farm Linconshire UFO crashes into wind turbine  
-   Link: <a href="https://www.youtube.com/watch?v=FwEXFSiZcEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FwEXFSiZcEY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HITS WIND TURBINE IN CONISHOLME, LINCS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FwEXFSiZcEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FwEXFSiZcEY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HITS WIND TURBINE IN CONISHOLME, LINCS...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Derbyshire/comments/11ibrn4/anyone_have_ufo_or_supernatural_encounters_in_the/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wired-gov.net  
-   Link: <a href="https://www.wired-gov.net/wg/news.nsf/articles/Armed%2BForces%2BMinister%2Bpraises%2BQuick%2BReaction%2BAlert%2BForce%2Bon%2BRAF%2BConingsby%2Bvisit%2B26112018131500?open=" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/Armed%2BForces%2BMinister%2Bpraises%2BQuick%2BReaction%2BAlert%2BForce%2Bon%2BRAF%2BConingsby%2Bvisit%2B26112018131500?open=</a>  
+   Link:<a href="https://www.wired-gov.net/wg/news.nsf/articles/Armed%2BForces%2BMinister%2Bpraises%2BQuick%2BReaction%2BAlert%2BForce%2Bon%2BRAF%2BConingsby%2Bvisit%2B26112018131500?open=" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/Armed%2BForces%2BMinister%2Bpraises%2BQuick%2BReaction%2BAlert%2BForce%2Bon%2BRAF%2BConingsby%2Bvisit%2B26112018131500?open=</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ecotricity.co.uk  
-   Link: <a href="https://www.ecotricity.co.uk/our-news/2009/close-encounters-of-the-turbine" target="_blank" rel="noopener noreferrer nofollow">https://www.ecotricity.co.uk/our-news/2009/close-encounters-of-the-turbine</a>  
+   Link:<a href="https://www.ecotricity.co.uk/our-news/2009/close-encounters-of-the-turbine" target="_blank" rel="noopener noreferrer nofollow">https://www.ecotricity.co.uk/our-news/2009/close-encounters-of-the-turbine</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFConingsby/posts/ever-wondered-what-it-takes-to-make-quick-reaction-alert-happen-check-out-our-ne/1190687516498220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFConingsby/posts/ever-wondered-what-it-takes-to-make-quick-reaction-alert-happen-check-out-our-ne/1190687516498220/</a>  
+   Link:<a href="https://www.facebook.com/RAFConingsby/posts/ever-wondered-what-it-takes-to-make-quick-reaction-alert-happen-check-out-our-ne/1190687516498220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFConingsby/posts/ever-wondered-what-it-takes-to-make-quick-reaction-alert-happen-check-out-our-ne/1190687516498220/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFAssociation/videos/fly-with-rafs-quick-reaction-alert-crews/1881168861899528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFAssociation/videos/fly-with-rafs-quick-reaction-alert-crews/1881168861899528/</a>  
+   Link:<a href="https://www.facebook.com/RAFAssociation/videos/fly-with-rafs-quick-reaction-alert-crews/1881168861899528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFAssociation/videos/fly-with-rafs-quick-reaction-alert-crews/1881168861899528/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thefourprop.com  
-   Link: <a href="https://thefourprop.com/blogs/the-briefing/raf-waddington-article" target="_blank" rel="noopener noreferrer nofollow">https://thefourprop.com/blogs/the-briefing/raf-waddington-article</a>  
+   Link:<a href="https://thefourprop.com/blogs/the-briefing/raf-waddington-article" target="_blank" rel="noopener noreferrer nofollow">https://thefourprop.com/blogs/the-briefing/raf-waddington-article</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nfuonline.com  
-   Link: <a href="https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/</a>  
+   Link:<a href="https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/</a>  

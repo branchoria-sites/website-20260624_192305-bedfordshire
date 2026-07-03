@@ -254,19 +254,19 @@ image: /assets/images/Cornwall_4c96d0_mod_final_years_corn_ee5ee8-overview-socia
 
 ## Introduction
 
-[Cornwall]({{ 'what-really-happened-in-cornwalls-ufo/' | relative_url }})’s last Ministry of Defence UFO reports look familiar because they are mostly short accounts of orange lights, bright objects, silent movement and brief formations over coastal or semi-rural skies. In 2008 and 2009, the Cornish entries in the MoD lists included reports from Delabole, Davidstow, Lelant, Newquay, Harlyn Bay, Redruth, Penzance, Looe, St Ives and an unnamed location near a possible air station. They matter not because they prove anything extraordinary, but because they show the kind of reports still reaching Whitehall just before the UFO desk was closed: brief, intriguing, hard to verify, and often consistent with lanterns, aircraft, distant flares, meteors or lights seen over sea horizons. The MoD’s final files record the reports, but they rarely provide enough detail to settle them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+[Cornwall]({{ 'what-really-happened-in-cornwalls-ufo/' | relative_url }})’s last Ministry of Defence UFO reports look familiar because they are mostly short accounts of orange lights, bright objects, silent movement and brief formations over coastal or semi-rural skies. In 2008 and 2009, the Cornish entries in the MoD lists included reports from Delabole, Davidstow, Lelant, Newquay, Harlyn Bay, Redruth, Penzance, Looe, St Ives and an unnamed location near a possible air station. They matter not because they prove anything extraordinary, but because they show the kind of reports still reaching Whitehall just before the UFO desk was closed: brief, intriguing, hard to verify, and often consistent with lanterns, aircraft, distant flares, meteors or lights seen over sea horizons. The MoD’s final files record the reports, but they rarely provide enough detail to settle them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Cornwall_4c96d0_mod_final_years_corn_ee5ee8-overview.webp" | relative_url }}" alt="Overview image for Final Mo D Years" loading="eager" decoding="sync" fetchpriority="high">
 ## Cornwall entries in 2008 and 2009
 
-The late MoD records place Cornwall inside a national surge of public UFO reporting. The National Archives’ final-release material says the last 25 files covered the final two years of the MoD UFO desk, from late 2007 to November 2009, and that reported sightings trebled in the desk’s last year. It also says officials judged the work to “serve no defence purpose”, after more than 50 years without a report showing evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The late MoD records place Cornwall inside a national surge of public UFO reporting. The National Archives’ final-release material says the last 25 files covered the final two years of the MoD UFO desk, from late 2007 to November 2009, and that reported sightings trebled in the desk’s last year. It also says officials judged the work to “serve no defence purpose”, after more than 50 years without a report showing evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
-Against that national background, the Cornwall reports are strikingly modest. In the 2008 MoD list, Cornwall appears several times, but the entries are usually one or two lines long. Delabole produced an April report of a bright orange light that moved backwards, up and down, wobbled quickly and faded away; another Delabole entry in May described silent lights flying upwards in a straight line; later the same month, Delabole was again linked to three objects travelling south-east to north-west, with a companion entry describing a very bright orange light and three objects accelerating over the sea. Millbrook or Torpoint had a bright light zig-zagging southwards before vanishing, while Davidstow produced July reports of orange-star-like lights disappearing into cloud or rising one after another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Against that national background, the Cornwall reports are strikingly modest. In the 2008 MoD list, Cornwall appears several times, but the entries are usually one or two lines long. Delabole produced an April report of a bright orange light that moved backwards, up and down, wobbled quickly and faded away; another Delabole entry in May described silent lights flying upwards in a straight line; later the same month, Delabole was again linked to three objects travelling south-east to north-west, with a companion entry describing a very bright orange light and three objects accelerating over the sea. Millbrook or Torpoint had a bright light zig-zagging southwards before vanishing, while Davidstow produced July reports of orange-star-like lights disappearing into cloud or rising one after another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The 2009 list is even more useful for seeing the pattern. It starts early in the year with Fowey, where a 7 February report described a bright orange object “like a huge hanglider”. On 27 February, Lelant had two orange lights over Hayle Estuary moving at helicopter speed but without aircraft navigation lights, and Newquay had a bright orange object travelling west to east. Harlyn Bay followed on 14 March with five strange orange lights in formation, moving quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 list is even more useful for seeing the pattern. It starts early in the year with Fowey, where a 7 February report described a bright orange object “like a huge hanglider”. On 27 February, Lelant had two orange lights over Hayle Estuary moving at helicopter speed but without aircraft navigation lights, and Newquay had a bright orange object travelling west to east. Harlyn Bay followed on 14 March with five strange orange lights in formation, moving quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-By late spring and summer the same vocabulary kept returning. Redruth had a daytime report of a big bright light coming from west Cornwall towards Plymouth on 19 May, while Penzance had a 23 May report of ten orange lights in a line, with intermittent gaps, silent and at “helicopter height”. On 27 June, Looe had two orange balls of light travelling north in parallel, followed by another ball of light on the same heading; minutes later, Redruth had two brown “balls of fire” apparently in convoy towards Portreath. The July entries include a five-minute video report somewhere in Cornwall near an air station, “possibly Culdrose”, and a Newquay report of a triangular object. St Ives appears in September with a bright orange-red light that dimmed after several minutes on a straight, steady path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+By late spring and summer the same vocabulary kept returning. Redruth had a daytime report of a big bright light coming from west Cornwall towards Plymouth on 19 May, while Penzance had a 23 May report of ten orange lights in a line, with intermittent gaps, silent and at “helicopter height”. On 27 June, Looe had two orange balls of light travelling north in parallel, followed by another ball of light on the same heading; minutes later, Redruth had two brown “balls of fire” apparently in convoy towards Portreath. The July entries include a five-minute video report somewhere in Cornwall near an air station, “possibly Culdrose”, and a Newquay report of a triangular object. St Ives appears in September with a bright orange-red light that dimmed after several minutes on a straight, steady path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Read as a county cluster, these are not detailed investigations. They are a late-stage reporting stream: date, time, place, witness wording, and little else. That makes them valuable as a pattern, but weak as proof. The most defensible conclusion is that Cornwall was part of the 2008–09 national orange-light wave, not that any single Cornish entry can be confidently elevated into a landmark case.
 
@@ -276,13 +276,13 @@ Read as a county cluster, these are not detailed investigations. They are a late
 
 The Cornish reports repeatedly use the same sensory cues: orange, red-orange or brownish light; no sound; straight-line or convoy movement; apparent formation; fading or disappearance. Those details can feel persuasive to witnesses because they differ from the obvious signatures of nearby aircraft. A plane usually has navigation lights, engine noise at low altitude, and a track that fits known approaches. A silent orange light crossing a dark sky, especially over the sea, can seem more deliberate and mysterious.
 
-But the same cues also sit close to common misidentifications. Sky lanterns were widely discussed in relation to the 2009 surge. ITV’s coverage of the final MoD files noted that the increase in sightings was attributed in part to the popularity of Chinese lanterns at weddings and public holidays, and that possible lantern explanations featured in the files themselves. The 2009 MoD list also contains entries where witnesses or police explicitly raised lanterns as a possibility, including a Norfolk report of 11–12 objects where the witness thought they “may be Chinese lanterns”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">ufo sightings files mod the national archives</span><span class="citation-popover-snippet">ufo sightings files mod the national archives</span></span></span>
+But the same cues also sit close to common misidentifications. Sky lanterns were widely discussed in relation to the 2009 surge. ITV’s coverage of the final MoD files noted that the increase in sightings was attributed in part to the popularity of Chinese lanterns at weddings and public holidays, and that possible lantern explanations featured in the files themselves. The 2009 MoD list also contains entries where witnesses or police explicitly raised lanterns as a possibility, including a Norfolk report of 11–12 objects where the witness thought they “may be Chinese lanterns”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">ufo sightings files mod the national archives</span><span class="citation-popover-snippet">ufo sightings files mod the national archives</span></span></span>
 
 That does not mean every Cornish orange light was a lantern. It means the burden of interpretation is higher than the raw reports suggest. A lantern can appear as a steady orange orb, move silently with the wind, seem to fly in loose formation if released in a group, fade as its flame dies, and be difficult to judge for height or distance at night. A coastal observer may also be looking across a long dark horizon where distance cues are poor. Lights over estuaries, bays or open water can look lower, faster, nearer or more structured than they really are.
 
-The Cornwall geography matters here. The project uses Cornwall in the historic-county sense, centred on the south-western peninsula, with sea on multiple sides and the Tamar forming the main boundary with Devon. That gives the county a particular sighting environment: long coastal sightlines, estuaries such as Hayle, open moorland, ports, tourist events, and aviation activity crossing the county rather than stopping at administrative edges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Cornwall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+The Cornwall geography matters here. The project uses Cornwall in the historic-county sense, centred on the south-western peninsula, with sea on multiple sides and the Tamar forming the main boundary with Devon. That gives the county a particular sighting environment: long coastal sightlines, estuaries such as Hayle, open moorland, ports, tourist events, and aviation activity crossing the county rather than stopping at administrative edges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Cornwall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The possible Culdrose reference is a useful caution rather than a smoking gun. RNAS Culdrose is an active Royal Navy air station and home base for the Merlin Helicopter Force, while RAF St Mawgan remains the RAF’s South West platform and supports defence training and operations. That aviation setting makes some Cornish sightings worth logging carefully, but it also increases the chance that witnesses are seeing aircraft, helicopters, training activity or distant lights associated with normal operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/rnas-culdrose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+The possible Culdrose reference is a useful caution rather than a smoking gun. RNAS Culdrose is an active Royal Navy air station and home base for the Merlin Helicopter Force, while RAF St Mawgan remains the RAF’s South West platform and supports defence training and operations. That aviation setting makes some Cornish sightings worth logging carefully, but it also increases the chance that witnesses are seeing aircraft, helicopters, training activity or distant lights associated with normal operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/rnas-culdrose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wqh5fd-IBdY" title="More UFO sightings reported in Cornwall as strange lights appear in sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wqh5fd-IBdY" target="_blank" rel="noopener noreferrer">More UFO sightings reported in Cornwall as strange lights appear in sky</a></p><p class="youtube-embed-meta">Channel: Cornwall Live</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wqh5fd-IBdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wqh5fd-IBdY">Open on YouTube</a></p></div></div></div>
@@ -291,13 +291,13 @@ The possible Culdrose reference is a useful caution rather than a smoking gun. R
 
 An MoD entry is not the same as an MoD conclusion. The published lists show that a report was received and summarised; they do not usually show a full field investigation, weather reconstruction, radar check, witness interview chain, astronomy check, lantern-release inquiry or aircraft movement analysis. That is why the Cornwall entries remain interesting but thin.
 
-The final MoD material makes this limitation central. Dr David Clarke’s National Archives transcript says the last files covered mainly 2008–09, when the MoD closed the UFO desk, cancelled the hotline, redeployed the final desk officer and told bodies such as the Civil Aviation Authority and police that it no longer wanted to receive reports or investigate them. The transcript also states that the MoD received 643 sightings in 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">UF O file release video transcript</span><span class="citation-popover-snippet">UF O file release video transcript</span></span></span>
+The final MoD material makes this limitation central. Dr David Clarke’s National Archives transcript says the last files covered mainly 2008–09, when the MoD closed the UFO desk, cancelled the hotline, redeployed the final desk officer and told bodies such as the Civil Aviation Authority and police that it no longer wanted to receive reports or investigate them. The transcript also states that the MoD received 643 sightings in 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">UF O file release video transcript</span><span class="citation-popover-snippet">UF O file release video transcript</span></span></span>
 
-For Cornwall, this means the final-year entries arrived at exactly the wrong moment for anyone hoping for deep official follow-up. The system was still receiving reports, but the institution was moving away from treating them as a defence task. The National Archives’ final-release note says the surge in reports required increasing time and resources, while the files recorded the view that the desk “serves no defence purpose and merely encourages the generation of correspondence”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+For Cornwall, this means the final-year entries arrived at exactly the wrong moment for anyone hoping for deep official follow-up. The system was still receiving reports, but the institution was moving away from treating them as a defence task. The National Archives’ final-release note says the surge in reports required increasing time and resources, while the files recorded the view that the desk “serves no defence purpose and merely encourages the generation of correspondence”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 That creates a useful but frustrating evidential status:
 
-* **Strong enough to show a reported pattern.** The MoD lists clearly show repeated Cornish reports of orange lights and bright objects in 2008–09, including clustered descriptions around Delabole, Davidstow, Lelant, Newquay, Penzance, Looe, Redruth and St Ives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+* **Strong enough to show a reported pattern.** The MoD lists clearly show repeated Cornish reports of orange lights and bright objects in 2008–09, including clustered descriptions around Delabole, Davidstow, Lelant, Newquay, Penzance, Looe, Redruth and St Ives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -320,7 +320,7 @@ The “official list” label can therefore mislead in two opposite directions. 
 
 Cornwall’s 2008–09 MoD sightings are not the county’s most dramatic UFO stories, but they are among its clearest examples of a repeat pattern. They show how ordinary night-light reports become a local UFO cluster when several people, in different places, describe similar orange lights, silence, formations and fading movement within a short period.
 
-They also help explain why Cornwall’s UFO history is different from a single major incident. The county’s late MoD record is distributed across coastal and inland places rather than centred on one famous landing, chase or radar case. The reports are memorable because they are familiar: orange lights over estuaries, bright objects crossing from west to east, lines of lights over Penzance, balls of fire near Redruth, and a possible air-station-adjacent video near Culdrose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+They also help explain why Cornwall’s UFO history is different from a single major incident. The county’s late MoD record is distributed across coastal and inland places rather than centred on one famous landing, chase or radar case. The reports are memorable because they are familiar: orange lights over estuaries, bright objects crossing from west to east, lines of lights over Penzance, balls of fire near Redruth, and a possible air-station-adjacent video near Culdrose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 The most important lesson is methodological. A cluster does not automatically mean a single cause. Some entries may have been lanterns, some aircraft, some misjudged astronomical objects, some flares or meteors, and some may remain genuinely unidentified because the record is too sparse. The pattern is real at the reporting level, but the objects behind it need not be the same.
 
@@ -331,194 +331,194 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cornwall&#x27;s Last Mo D UFO Reports Look Familiar. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Cornwall&#x27;s Last Mo D UFO Reports Look Familiar. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explores British UFO culture, government files, media coverage, and how reports become enduring mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores British UFO culture, government files, media coverage, and how reports become enduring mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing documented UFO reports such as the Tintagel triangle case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing documented UFO reports such as the Tintagel triangle case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Cornwall&#x27;s UFO history relies heavily on MoD files and official records, making this one of the strongest matches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Cornwall&#x27;s UFO history relies heavily on MoD files and official records, making this one of the strongest matches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides firsthand context for the UK government&#x27;s handling of UFO reports, including the same system that logged Cornwall incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides firsthand context for the UK government&#x27;s handling of UFO reports, including the same system that logged Cornwall incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="final-mo-d-years-why-cornwall-s-last-mo-d-ufo-reports-look-familiar-cornwall-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,202 +724,202 @@ That is why these final-year Cornwall sightings belong in the county’s UFO his
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: itv.com  
    Title: ufo sightings files mod the national archives  
-   Link: <a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
+   Link:<a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/rnas-culdrose" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/rnas-culdrose</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/rnas-culdrose" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/rnas-culdrose</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-st-mawgan/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-st-mawgan/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-st-mawgan/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-st-mawgan/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: UF O file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: SanctuaryMagNo43 2014  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fa5550cd3bf7f03a40fe5b0/SanctuaryMagNo43_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5550cd3bf7f03a40fe5b0/SanctuaryMagNo43_2014.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fa5550cd3bf7f03a40fe5b0/SanctuaryMagNo43_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5550cd3bf7f03a40fe5b0/SanctuaryMagNo43_2014.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: accessions 2020 dataset.xlsx  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mycouncil.oxfordshire.gov.uk  
    Title: Public reports pack Monday 19 Oct 2009 10.00 Planning Regulation Committee  
-   Link: <a href="https://mycouncil.oxfordshire.gov.uk/documents/g219/Public%20reports%20pack%20Monday%2019-Oct-2009%2010.00%20Planning%20Regulation%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://mycouncil.oxfordshire.gov.uk/documents/g219/Public%20reports%20pack%20Monday%2019-Oct-2009%2010.00%20Planning%20Regulation%20Committee.pdf?T=10</a>  
+   Link:<a href="https://mycouncil.oxfordshire.gov.uk/documents/g219/Public%20reports%20pack%20Monday%2019-Oct-2009%2010.00%20Planning%20Regulation%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://mycouncil.oxfordshire.gov.uk/documents/g219/Public%20reports%20pack%20Monday%2019-Oct-2009%2010.00%20Planning%20Regulation%20Committee.pdf?T=10</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: penzance-tc.gov.uk  
    Title: Planning 02.07.25 Item 8 Reports for Decision  
-   Link: <a href="https://www.penzance-tc.gov.uk/wp-content/uploads/2025/06/Planning-02.07.25-Item-8-Reports-for-Decision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.penzance-tc.gov.uk/wp-content/uploads/2025/06/Planning-02.07.25-Item-8-Reports-for-Decision.pdf</a>  
+   Link:<a href="https://www.penzance-tc.gov.uk/wp-content/uploads/2025/06/Planning-02.07.25-Item-8-Reports-for-Decision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.penzance-tc.gov.uk/wp-content/uploads/2025/06/Planning-02.07.25-Item-8-Reports-for-Decision.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cne-siar.gov.uk  
-   Link: <a href="https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf</a>  
+   Link:<a href="https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cne-siar.gov.uk/sites/default/files/2025-04/EIA%20MAIN%20REPORT.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cornwall.gov.uk  
-   Link: <a href="https://www.cornwall.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.cornwall.gov.uk/</a>  
+   Link:<a href="https://www.cornwall.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.cornwall.gov.uk/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cornwall" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cornwall</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cornwall" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cornwall</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: RAF St Mawgan  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_St_Mawgan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_St_Mawgan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_St_Mawgan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_St_Mawgan</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: RNAS Culdrose  
-   Link: <a href="https://en.wikipedia.org/wiki/RNAS_Culdrose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RNAS_Culdrose</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RNAS_Culdrose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RNAS_Culdrose</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cornwall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cornwall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cornwall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cornwall</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationaltrust.org.uk  
-   Link: <a href="https://www.nationaltrust.org.uk/visit/cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaltrust.org.uk/visit/cornwall</a>  
+   Link:<a href="https://www.nationaltrust.org.uk/visit/cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaltrust.org.uk/visit/cornwall</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ukairfields.org.uk  
    Title: st mawgan  
-   Link: <a href="https://www.ukairfields.org.uk/st-mawgan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/st-mawgan.html</a>  
+   Link:<a href="https://www.ukairfields.org.uk/st-mawgan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/st-mawgan.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Cornwall-unitary-authority-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cornwall-unitary-authority-England</a>  
+   Link:<a href="https://www.britannica.com/place/Cornwall-unitary-authority-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cornwall-unitary-authority-England</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: More UFO sightings reported in Cornwall as strange lights appear in sky  
-   Link: <a href="https://www.youtube.com/watch?v=Wqh5fd-IBdY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wqh5fd-IBdY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The absolutely craziest UFO over Cornwall video we&#x27;ve seen yet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wqh5fd-IBdY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wqh5fd-IBdY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The absolutely craziest UFO over Cornwall video we&#x27;ve seen yet...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cornishhorizons.co.uk  
-   Link: <a href="https://www.cornishhorizons.co.uk/guides/all-you-need-to-know-about-cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.cornishhorizons.co.uk/guides/all-you-need-to-know-about-cornwall</a>  
+   Link:<a href="https://www.cornishhorizons.co.uk/guides/all-you-need-to-know-about-cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.cornishhorizons.co.uk/guides/all-you-need-to-know-about-cornwall</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: visitbritain.com  
-   Link: <a href="https://www.visitbritain.com/en/destinations/england/cornwall-and-isles-scilly" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en/destinations/england/cornwall-and-isles-scilly</a>  
+   Link:<a href="https://www.visitbritain.com/en/destinations/england/cornwall-and-isles-scilly" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en/destinations/england/cornwall-and-isles-scilly</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: opc-cornwall.org  
-   Link: <a href="https://www.opc-cornwall.org/Structure/maps.php" target="_blank" rel="noopener noreferrer nofollow">https://www.opc-cornwall.org/Structure/maps.php</a>  
+   Link:<a href="https://www.opc-cornwall.org/Structure/maps.php" target="_blank" rel="noopener noreferrer nofollow">https://www.opc-cornwall.org/Structure/maps.php</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: visitengland.com  
-   Link: <a href="https://www.visitengland.com/trip-ideas/places-to-visit-cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.visitengland.com/trip-ideas/places-to-visit-cornwall</a>  
+   Link:<a href="https://www.visitengland.com/trip-ideas/places-to-visit-cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.visitengland.com/trip-ideas/places-to-visit-cornwall</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RafStMawgan/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RafStMawgan/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/RafStMawgan/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RafStMawgan/?locale=en_GB</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: helstonhistory.co.uk  
-   Link: <a href="https://www.helstonhistory.co.uk/around-the-lizard/rnas-culdrose/" target="_blank" rel="noopener noreferrer nofollow">https://www.helstonhistory.co.uk/around-the-lizard/rnas-culdrose/</a>  
+   Link:<a href="https://www.helstonhistory.co.uk/around-the-lizard/rnas-culdrose/" target="_blank" rel="noopener noreferrer nofollow">https://www.helstonhistory.co.uk/around-the-lizard/rnas-culdrose/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnasculdrose/videos/royal-navy-helicopter-flies-over-beautiful-cornwall/1004187226684386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnasculdrose/videos/royal-navy-helicopter-flies-over-beautiful-cornwall/1004187226684386/</a>  
+   Link:<a href="https://www.facebook.com/rnasculdrose/videos/royal-navy-helicopter-flies-over-beautiful-cornwall/1004187226684386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnasculdrose/videos/royal-navy-helicopter-flies-over-beautiful-cornwall/1004187226684386/</a>  

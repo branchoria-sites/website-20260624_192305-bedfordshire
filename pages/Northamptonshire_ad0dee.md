@@ -118,9 +118,9 @@ heading_title: What Really Happened Over Northamptonshire Skies?
 page_heading_title: What Really Happened Over Northamptonshire Skies?
 source_count: 31
 infographic_count: 3
-page_website_name: Northamptonshire UFOs
+page_website_name: Northamptonshire
 page_banner_line: Evidence-led stories of strange lights, official files, and local explanations.
-site_website_name: Northamptonshire UFOs
+site_website_name: Northamptonshire
 site_banner_line: Evidence-led stories of strange lights, official files, and local explanations.
 site_image_description: A quiet Northamptonshire field at night with distant orange lights above a rural horizon and a faint airfield beacon in the...
 output_language: English
@@ -689,7 +689,7 @@ image: /assets/images/Northamptonshire_ad0dee-overview-social.jpg
 
 ## Introduction
 
-For readers exploring Northamptonshire's UFO history, the key questions are not whether extraterrestrial craft visited the county, but which incidents generated serious attention, what evidence exists, how official bodies responded, and whether later investigation strengthened or weakened the original claims. The surviving record suggests a county with persistent public interest, regular reporting, and occasional cases that entered Ministry of Defence (MoD) files, but little that can be regarded as conclusive proof of anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+For readers exploring Northamptonshire's UFO history, the key questions are not whether extraterrestrial craft visited the county, but which incidents generated serious attention, what evidence exists, how official bodies responded, and whether later investigation strengthened or weakened the original claims. The surviving record suggests a county with persistent public interest, regular reporting, and occasional cases that entered Ministry of Defence (MoD) files, but little that can be regarded as conclusive proof of anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Northamptonshire..." loading="eager" decoding="sync" fetchpriority="high">
@@ -697,7 +697,7 @@ For readers exploring Northamptonshire's UFO history, the key questions are not 
 
 Northamptonshire occupies a position that naturally generates aerial observations. It sits beneath busy civilian and military air corridors in central England and has long contained significant defence and communications installations. Among the best known are [RAF Croughton]({{ 'raf-croughton/' | relative_url }}), a major communications and intelligence facility, and a number of airfields and aviation-related sites within or close to the county's historic boundaries.
 
-Historically, locations connected with aviation, military activity, radar, and communications have attracted a disproportionate number of UFO reports across Britain. That does not mean the reports involve unusual craft; rather, people are more likely to notice unfamiliar lights, aircraft movements, exercises, and atmospheric effects in such areas. Similar patterns appear throughout the UK's declassified UFO files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+Historically, locations connected with aviation, military activity, radar, and communications have attracted a disproportionate number of UFO reports across Britain. That does not mean the reports involve unusual craft; rather, people are more likely to notice unfamiliar lights, aircraft movements, exercises, and atmospheric effects in such areas. Similar patterns appear throughout the UK's declassified UFO files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 Northamptonshire also sits close to the borders of several neighbouring counties. Witnesses frequently describe sightings over rural landscapes where county boundaries are largely irrelevant. As a result, reports linked to Northamptonshire sometimes overlap with Buckinghamshire, Oxfordshire, Leicestershire, Warwickshire, Cambridgeshire, and Bedfordshire.
 
@@ -709,15 +709,15 @@ The county's UFO history is characterised more by recurring reports than by a si
 <img src="{{ "/assets/images/Northamptonshire_ad0dee-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Northamptonshire... illustration 1" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Brackley–Towcester Report of 2000
 
-One of the better-documented Northamptonshire sightings appears in the MoD's released UFO reporting material. A report dated 5 June 2000 described three large orange objects seen in the [Brackley–Towcester]({{ 'brackley-case/' | relative_url }}) area. According to the record, the objects were said to be larger than an aircraft and appeared rectangular, square, and hook-shaped. The sighting was significant enough to be logged in the government's UFO reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 200005-Jun-00. 23:00 Brackley/Towcester. Northamptonshire. Three objects, larger than a plane, rectangle, square and hoo...</span></span></span>
+One of the better-documented Northamptonshire sightings appears in the MoD's released UFO reporting material. A report dated 5 June 2000 described three large orange objects seen in the [Brackley–Towcester]({{ 'brackley-case/' | relative_url }}) area. According to the record, the objects were said to be larger than an aircraft and appeared rectangular, square, and hook-shaped. The sighting was significant enough to be logged in the government's UFO reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 200005-Jun-00. 23:00 Brackley/Towcester. Northamptonshire. Three objects, larger than a plane, rectangle, square and hoo...</span></span></span>
 
-The existence of an official record does not mean the sighting was considered extraterrestrial. MoD policy focused on whether an observation posed a defence concern rather than on proving the existence of alien craft. Most reports were simply catalogued and assessed for security implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+The existence of an official record does not mean the sighting was considered extraterrestrial. MoD policy focused on whether an observation posed a defence concern rather than on proving the existence of alien craft. Most reports were simply catalogued and assessed for security implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
-What makes the Brackley–Towcester case noteworthy is that it demonstrates Northamptonshire's presence within the national archive of officially recorded sightings. However, publicly available information remains limited, and no definitive explanation or extraordinary evidence emerged from the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 200005-Jun-00. 23:00 Brackley/Towcester. Northamptonshire. Three objects, larger than a plane, rectangle, square and hoo...</span></span></span>
+What makes the Brackley–Towcester case noteworthy is that it demonstrates Northamptonshire's presence within the national archive of officially recorded sightings. However, publicly available information remains limited, and no definitive explanation or extraordinary evidence emerged from the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 200005-Jun-00. 23:00 Brackley/Towcester. Northamptonshire. Three objects, larger than a plane, rectangle, square and hoo...</span></span></span>
 
 ### Repeated Reports of Lights in the Sky
 
-Local newspaper archives and later discussions of the county's UFO history repeatedly refer to large numbers of reported lights, glowing objects, and unusual aerial phenomena. Newspaper reporting over several decades described Northamptonshire as producing hundreds of sightings, though many were eventually attributed to ordinary causes such as aircraft, bright planets, atmospheric conditions, lanterns, or misperceptions of distance and speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=northampton%2C+northamptonshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Many turn ot to be a trick of light...Read more...</span></span></span>
+Local newspaper archives and later discussions of the county's UFO history repeatedly refer to large numbers of reported lights, glowing objects, and unusual aerial phenomena. Newspaper reporting over several decades described Northamptonshire as producing hundreds of sightings, though many were eventually attributed to ordinary causes such as aircraft, bright planets, atmospheric conditions, lanterns, or misperceptions of distance and speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=northampton%2C+northamptonshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Many turn ot to be a trick of light...Read more...</span></span></span>
 
 These recurring reports matter because they illustrate how UFO history is often built. Most counties do not have one dramatic event; instead, they accumulate a folklore of repeated observations that gradually become part of local culture.
 
@@ -728,9 +728,9 @@ These recurring reports matter because they illustrate how UFO history is often 
 
 A common misconception is that government UFO files contain hidden confirmations of extraordinary craft. The released British records tell a more complicated story.
 
-The MoD collected reports for decades, primarily to determine whether anything represented a threat to UK airspace or national security. The files preserved by The National Archives include witness accounts, correspondence, sketches, and internal assessments. The majority contain observations rather than conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+The MoD collected reports for decades, primarily to determine whether anything represented a threat to UK airspace or national security. The files preserved by The National Archives include witness accounts, correspondence, sketches, and internal assessments. The majority contain observations rather than conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
-Project Condign, the government's classified review of UFO reports completed around 2000, concluded that many reports involved genuine observations of unusual phenomena but found no evidence that extraterrestrial vehicles were responsible. Instead, investigators pointed toward misidentifications, atmospheric effects, and other explainable causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">March 3, 2026 — This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom.Read more...</span><span class="citation-popover-meta">Published: March 3, 2026</span></span></span>
+Project Condign, the government's classified review of UFO reports completed around 2000, concluded that many reports involved genuine observations of unusual phenomena but found no evidence that extraterrestrial vehicles were responsible. Instead, investigators pointed toward misidentifications, atmospheric effects, and other explainable causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">March 3, 2026 — This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom.Read more...</span><span class="citation-popover-meta">Published: March 3, 2026</span></span></span>
 
 For Northamptonshire, this means that the presence of a report in official files should be understood as evidence that someone reported something unusual—not evidence that investigators confirmed a mysterious craft.
 
@@ -740,7 +740,7 @@ For Northamptonshire, this means that the presence of a report in official files
 
 Interest in unexplained aerial phenomena did not end when the MoD closed its UFO reporting desk. Police forces continue to receive occasional calls from members of the public reporting strange lights, unusual objects, or concerns about possible aircraft activity.
 
-Freedom of Information disclosures by Northamptonshire Police show that the force has retained records relating to UFO-related reports made by the public. These records demonstrate that sightings continue to be reported into the twenty-first century, although police involvement generally concerns public reassurance or incident logging rather than investigation of unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">Northamptonshire PoliceFOI 10701-25 UFO sightings &#124; Northamptonshire...For example &#x27;Female caller named (REDACTED) reports seeing eight...</span></span></span>
+Freedom of Information disclosures by Northamptonshire Police show that the force has retained records relating to UFO-related reports made by the public. These records demonstrate that sightings continue to be reported into the twenty-first century, although police involvement generally concerns public reassurance or incident logging rather than investigation of unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">Northamptonshire PoliceFOI 10701-25 UFO sightings &#124; Northamptonshire...For example &#x27;Female caller named (REDACTED) reports seeing eight...</span></span></span>
 
 Modern reports also face a new challenge: the growing presence of drones. Objects that might once have been reported as UFOs are increasingly found to involve consumer or commercial unmanned aircraft. Recent discussions around unidentified aerial activity near military sites elsewhere in England illustrate how quickly UFO reports can overlap with drone activity, security concerns, and ordinary aviation explanations.
 
@@ -748,9 +748,9 @@ Modern reports also face a new challenge: the growing presence of drones. Object
 
 Any discussion of Northamptonshire's UFO history inevitably touches on military infrastructure.
 
-RAF Croughton is among the most significant defence-related sites in the county. Although not famous as a UFO hotspot in the way that RAF Bentwaters and RAF Woodbridge became after the Rendlesham Forest incident, its presence contributes to the broader pattern seen across Britain: reports often cluster around military installations because those locations generate unusual aerial activity, heightened public awareness, and occasional secrecy surrounding operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+RAF Croughton is among the most significant defence-related sites in the county. Although not famous as a UFO hotspot in the way that RAF Bentwaters and RAF Woodbridge became after the Rendlesham Forest incident, its presence contributes to the broader pattern seen across Britain: reports often cluster around military installations because those locations generate unusual aerial activity, heightened public awareness, and occasional secrecy surrounding operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
-This does not mean military sites cause UFO sightings. Rather, they create environments in which unusual observations are more likely to occur and be reported. Throughout British UFO history, military connections have often amplified public interest even when no evidence of extraordinary technology was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+This does not mean military sites cause UFO sightings. Rather, they create environments in which unusual observations are more likely to occur and be reported. Throughout British UFO history, military connections have often amplified public interest even when no evidence of extraordinary technology was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OA9AD6UafeA" title="UFO files throw light on Britain&#x27;s flying saucers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OA9AD6UafeA" target="_blank" rel="noopener noreferrer">UFO files throw light on Britain&#x27;s flying saucers</a></p><p class="youtube-embed-meta">Channel: AFP News Agency &middot; Views: 2.8K &middot; Uploaded: August 2010 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OA9AD6UafeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OA9AD6UafeA">Open on YouTube</a></p></div></div></div>
@@ -763,7 +763,7 @@ When individual Northamptonshire cases are examined, several recurring explanati
 
 **Astronomical objects.** Bright planets, especially Venus, have generated UFO reports throughout Britain. Witnesses can perceive apparently stationary lights as hovering objects when viewed against a dark sky.
 
-**Chinese lanterns and sky lanterns.** Since the late 1990s and early 2000s, lantern releases have become one of the most common explanations for reports of slowly moving orange lights. British UFO investigators and official reviews repeatedly identified them as a major source of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">March 3, 2026 — This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom.Read more...</span><span class="citation-popover-meta">Published: March 3, 2026</span></span></span>
+**Chinese lanterns and sky lanterns.** Since the late 1990s and early 2000s, lantern releases have become one of the most common explanations for reports of slowly moving orange lights. British UFO investigators and official reviews repeatedly identified them as a major source of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">March 3, 2026 — This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom.Read more...</span><span class="citation-popover-meta">Published: March 3, 2026</span></span></span>
 
 **Atmospheric conditions.** Temperature inversions, haze, cloud reflections, and unusual lighting effects can alter the apparent behaviour of ordinary objects.
 
@@ -775,7 +775,7 @@ These explanations do not account for every report. Some sightings remain unreso
 <img src="{{ "/assets/images/Northamptonshire_ad0dee-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened Over Northamptonshire... illustration 3" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Northamptonshire Fits into British UFO History
 
-Northamptonshire occupies a middle ground within the UK's UFO landscape. It has generated enough reports to feature regularly in newspaper archives, police records, and government files, yet it lacks a nationally defining event comparable to Rendlesham Forest, the Calvine photographs, or the Welsh UFO waves of the late twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+Northamptonshire occupies a middle ground within the UK's UFO landscape. It has generated enough reports to feature regularly in newspaper archives, police records, and government files, yet it lacks a nationally defining event comparable to Rendlesham Forest, the Calvine photographs, or the Welsh UFO waves of the late twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 That makes the county valuable from a historical perspective. Its record reflects the ordinary reality of UFO reporting in Britain: recurring witness testimony, occasional official documentation, local media attention, military associations, and a mixture of unresolved observations and mundane explanations.
 
@@ -786,194 +786,194 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Northamptonshire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Northamptonshire Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to UK official investigations and MoD file culture discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to UK official investigations and MoD file culture discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broad, evidence-focused overview that fits a county-level UFO history page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad, evidence-focused overview that fits a county-level UFO history page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Focuses on British sightings, records and explanations similar to Northamptonshire reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on British sightings, records and explanations similar to Northamptonshire reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader interpretive context for persistent unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader interpretive context for persistent unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus Shelf Statue"><img src="{{ '/assets/images/marketplace-covers/66f3cce9f3a874eb738c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus Shelf Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus Shelf Statue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus Shelf Statue"><img src="{{ '/assets/images/marketplace-covers/66f3cce9f3a874eb738c.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus Shelf Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus Shelf Statue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Protomorph Human-Hybrid Face (Mk. 2)"><img src="{{ '/assets/images/marketplace-covers/89dbd2113eee5724c272.jpg' | relative_url }}" alt="Listing image for Alien Protomorph Human-Hybrid Face (Mk. 2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Protomorph Human-Hybrid Face (Mk. 2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Protomorph Human-Hybrid Face (Mk. 2)"><img src="{{ '/assets/images/marketplace-covers/89dbd2113eee5724c272.jpg' | relative_url }}" alt="Listing image for Alien Protomorph Human-Hybrid Face (Mk. 2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Protomorph Human-Hybrid Face (Mk. 2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="what-really-happened-over-86c9dc-what-really-happened-over-northamptonshire-skies-northamptonshi-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -989,7 +989,7 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1009,7 +1009,7 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1041,7 +1041,7 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1093,7 +1093,7 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1138,7 +1138,7 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1179,129 +1179,129 @@ For most Northamptonshire cases, the evidence neither proves extraordinary claim
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 200005-Jun-00. 23:00 Brackley/Towcester. Northamptonshire. Three objects, larger than a plane, rectangle, square and hoo...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 200005-Jun-00. 23:00 Brackley/Towcester. Northamptonshire. Three objects, larger than a plane, rectangle, square and hoo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 3, 2026 — This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 3, 2026 — This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom.Read more...</p></details>
    Published: March 3, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: northants.police.uk  
    Title: foi 10701 25 ufo sightings  
-   Link: <a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northamptonshire PoliceFOI 10701-25 UFO sightings | Northamptonshire...For example &#x27;Female caller named (REDACTED) reports seeing eight...</p></details>
+   Link:<a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northamptonshire PoliceFOI 10701-25 UFO sightings | Northamptonshire...For example &#x27;Female caller named (REDACTED) reports seeing eight...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 20033 Feb 2003 — 17 spaceships. V shaped, oblong, wings and different colours. Could see green aliens with cream coloured bellies...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 20033 Feb 2003 — 17 spaceships. V shaped, oblong, wings and different colours. Could see green aliens with cream coloured bellies...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Megatron (building)  
-   Link: <a href="https://en.wikipedia.org/wiki/Megatron_%28building%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Megatron_%28building%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Megatron (building)The Megatron was a building just outside the village of Alconbury in Cambridgeshire, UK. It was notable for its fly...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Megatron_%28building%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Megatron_%28building%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Megatron (building)The Megatron was a building just outside the village of Alconbury in Cambridgeshire, UK. It was notable for its fly...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=northampton%2C+northamptonshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=northampton%2C+northamptonshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Many turn ot to be a trick of light...Read more...</p></details>
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=northampton%2C+northamptonshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=northampton%2C+northamptonshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many turn ot to be a trick of light...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. The ministry was worried about rumours being spread suggesting that the &quot;alien landing&quot; was a clever cover story for an...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. The ministry was worried about rumours being spread suggesting that the &quot;alien landing&quot; was a clever cover story for an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian What really happened in Calvine?  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind the best UFO picture ever seenIn August 1990, two hikers near Calvine, Scotland, allegedly witnessed a diamond-shaped...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind the best UFO picture ever seenIn August 1990, two hikers near Calvine, Scotland, allegedly witnessed a diamond-shaped...</p></details>
    Published: August 1990  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings: The British X-files in full | News17 Aug 2009 — Police officer saw triangular UFO with red lights from car park of airport...</p></details>
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings: The British X-files in full | News17 Aug 2009 — Police officer saw triangular UFO with red lights from car park of airport...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: paranormaldatabase.com  
-   Link: <a href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=5" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - The Paranormal DatabaseFurther Comments: Several witnesses reported seeing a UFO hovering in the sky, resembling a glowing loaf of...</p></details>
+   Link:<a href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=5" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - The Paranormal DatabaseFurther Comments: Several witnesses reported seeing a UFO hovering in the sky, resembling a glowing loaf of...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/rafcroughton/posts/10168505030665080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rafcroughton/posts/10168505030665080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF CroughtonAccording to official U.S. Air Force reports, the sightings could not be explained by radar malfunction or by unusual weathe...</p></details>
+   Link:<a href="https://www.facebook.com/groups/rafcroughton/posts/10168505030665080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rafcroughton/posts/10168505030665080/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF CroughtonAccording to official U.S. Air Force reports, the sightings could not be explained by radar malfunction or by unusual weathe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: themortonreport.com  
-   Link: <a href="https://themortonreport.com/discoveries/paranormal/the-rendlesham-forest-ufo-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://themortonreport.com/discoveries/paranormal/the-rendlesham-forest-ufo-revisited/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO RevisitedIt&#x27;s heady stuff, and adding an extra later of drama is a scratchy audio recording Halt made as all th...</p></details>
+   Link:<a href="https://themortonreport.com/discoveries/paranormal/the-rendlesham-forest-ufo-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://themortonreport.com/discoveries/paranormal/the-rendlesham-forest-ufo-revisited/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO RevisitedIt&#x27;s heady stuff, and adding an extra later of drama is a scratchy audio recording Halt made as all th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Britain's most bizarre UFO encounters caught on camera🛸  
-   Link: <a href="https://www.facebook.com/northamptonchron/posts/britains-most-bizarre-ufo-encounters-caught-on-camerahttpstribal0u63zow/1006932724872367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northamptonchron/posts/britains-most-bizarre-ufo-encounters-caught-on-camerahttpstribal0u63zow/1006932724872367/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting by the RAF. On 5 August 1944, a reconnaissance plane returning from a mission in France reported the appearance of a metalli...</p></details>
+   Link:<a href="https://www.facebook.com/northamptonchron/posts/britains-most-bizarre-ufo-encounters-caught-on-camerahttpstribal0u63zow/1006932724872367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northamptonchron/posts/britains-most-bizarre-ufo-encounters-caught-on-camerahttpstribal0u63zow/1006932724872367/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting by the RAF. On 5 August 1944, a reconnaissance plane returning from a mission in France reported the appearance of a metalli...</p></details>
    Published: August 1944  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iflscience.com  
    Title: What Was The World's Earliest Documented UFO Sighting?  
-   Link: <a href="https://www.iflscience.com/worlds-earliest-documented-ufo-sighting-32626" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/worlds-earliest-documented-ufo-sighting-32626</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 10, 2015 — Although the earliest UFO image was taken from the summit of Mount Washington, New Hampshire, in 1870, sightings of t...</p></details>
+   Link:<a href="https://www.iflscience.com/worlds-earliest-documented-ufo-sighting-32626" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/worlds-earliest-documented-ufo-sighting-32626</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 10, 2015 — Although the earliest UFO image was taken from the summit of Mount Washington, New Hampshire, in 1870, sightings of t...</p></details>
    Published: December 10, 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: experience seeing ufouap 2014 northamptonshire uk  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1gynprz/experience_seeing_ufouap_2014_northamptonshire_uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gynprz/experience_seeing_ufouap_2014_northamptonshire_uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience seeing UFO/UAP 2014 Northamptonshire, UKI never had what i personally felt was a legitimate experience until i was 21. It was...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1gynprz/experience_seeing_ufouap_2014_northamptonshire_uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gynprz/experience_seeing_ufouap_2014_northamptonshire_uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experience seeing UFO/UAP 2014 Northamptonshire, UKI never had what i personally felt was a legitimate experience until i was 21. It was...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
    Title: The Worlds First Documented UFO Account?  
-   Link: <a href="https://medium.com/%40kevin.bergin1958/the-worlds-first-documented-ufo-account-50fd9aead9a9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/the-worlds-first-documented-ufo-account-50fd9aead9a9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Kevin BerginSeptember 8, 2025 — NORTHAMPTON and CHESTER&#x27;S UFO? It isn&#x27;t immediately clear that a UFO sighting older than this hasn&#x27;t...</p></details>
+   Link:<a href="https://medium.com/%40kevin.bergin1958/the-worlds-first-documented-ufo-account-50fd9aead9a9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/the-worlds-first-documented-ufo-account-50fd9aead9a9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Kevin BerginSeptember 8, 2025 — NORTHAMPTON and CHESTER&#x27;S UFO? It isn&#x27;t immediately clear that a UFO sighting older than this hasn&#x27;t...</p></details>
    Published: September 8, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faroutmagazine.co.uk  
    Title: rendlesham forest lure of uk ufo hotspot  
-   Link: <a href="https://faroutmagazine.co.uk/rendlesham-forest-lure-of-uk-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/rendlesham-forest-lure-of-uk-ufo-hotspot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest for UFO hunters. It&#x27;s not just locals that have heard the rumours of alien sightings, but even those from further afiel...</p></details>
+   Link:<a href="https://faroutmagazine.co.uk/rendlesham-forest-lure-of-uk-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/rendlesham-forest-lure-of-uk-ufo-hotspot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest for UFO hunters. It&#x27;s not just locals that have heard the rumours of alien sightings, but even those from further afiel...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskUK/comments/k04n09/what_are_the_overall_thoughts_brits_have_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskUK/comments/k04n09/what_are_the_overall_thoughts_brits_have_on_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>actually saw what they saw and I believe them. It&#x27;s a crazier...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskUK/comments/k04n09/what_are_the_overall_thoughts_brits_have_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskUK/comments/k04n09/what_are_the_overall_thoughts_brits_have_on_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>actually saw what they saw and I believe them. It&#x27;s a crazier...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1b2nt0p/sergant_jim_pennistons_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1b2nt0p/sergant_jim_pennistons_rendlesham_forest_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I would put some free time to use😁 Anyway I...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1b2nt0p/sergant_jim_pennistons_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1b2nt0p/sergant_jim_pennistons_rendlesham_forest_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I would put some free time to use😁 Anyway I...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know UFO/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_26" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If including the letters UFO or UAP in a search enquiry would yield too many results due to possible vehicle...Read more...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_26" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If including the letters UFO or UAP in a search enquiry would yield too many results due to possible vehicle...Read more...</p></details>

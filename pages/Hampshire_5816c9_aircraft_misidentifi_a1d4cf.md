@@ -248,7 +248,7 @@ image: /assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-overview-soci
 
 ## Introduction
 
-Some [Hampshire]({{ 'what-really-happened-in-hampshires-ufo/' | relative_url }}) UFO reports become less mysterious once the aircraft context is checked. That does not mean witnesses were foolish, or that every report is solved. It means Hampshire’s skies are complicated: airliners using Southampton routes, light aircraft moving below them, helicopters from RAF Odiham, and traffic crossing the Solent can appear layered, silent, erratic or much closer together than they really are. The strongest example is the December 2007 [Portsdown Hill]({{ 'portsdown-hill/' | relative_url }}) report, where a suspected object seemed to cross near an airliner but RAF radar checks suggested it was possibly one of several lower-flying light aircraft in the same area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
+Some [Hampshire]({{ 'what-really-happened-in-hampshires-ufo/' | relative_url }}) UFO reports become less mysterious once the aircraft context is checked. That does not mean witnesses were foolish, or that every report is solved. It means Hampshire’s skies are complicated: airliners using Southampton routes, light aircraft moving below them, helicopters from RAF Odiham, and traffic crossing the Solent can appear layered, silent, erratic or much closer together than they really are. The strongest example is the December 2007 [Portsdown Hill]({{ 'portsdown-hill/' | relative_url }}) report, where a suspected object seemed to cross near an airliner but RAF radar checks suggested it was possibly one of several lower-flying light aircraft in the same area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-overview.webp" | relative_url }}" alt="Overview image for Some Hampshire UFO Reports Become Less Mysterious Once The Aircraft..." loading="eager" decoding="sync" fetchpriority="high">
@@ -259,9 +259,9 @@ This page uses Hampshire in its historic-county sense, with Portsmouth, Southamp
 
 ## The Portsdown Hill airliner report
 
-The most useful Hampshire example is the sighting near Portsdown Hill, Portsmouth, in December 2007. The National Archives’ UFO highlights guide describes a sketch of an unidentified aerial phenomenon that appeared, from the ground, to cross the path of an airliner. The report was referred to the Ministry of Defence by a NATO official, which immediately gave it more weight than an ordinary casual sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
+The most useful Hampshire example is the sighting near Portsdown Hill, Portsmouth, in December 2007. The National Archives’ UFO highlights guide describes a sketch of an unidentified aerial phenomenon that appeared, from the ground, to cross the path of an airliner. The report was referred to the Ministry of Defence by a NATO official, which immediately gave it more weight than an ordinary casual sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
 
-The important part is what happened next. The RAF studied radar tapes and identified the object as possibly one of a number of light aircraft flying at a lower altitude than the airliner in the same area. That is a modest conclusion, not a theatrical debunking. It does not say the witness invented the object. It says that, once air traffic was checked, a serious-looking encounter could be explained by layered aircraft movements rather than a craft cutting dangerously across an airliner’s path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
+The important part is what happened next. The RAF studied radar tapes and identified the object as possibly one of a number of light aircraft flying at a lower altitude than the airliner in the same area. That is a modest conclusion, not a theatrical debunking. It does not say the witness invented the object. It says that, once air traffic was checked, a serious-looking encounter could be explained by layered aircraft movements rather than a craft cutting dangerously across an airliner’s path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
 
 This case matters because it shows how a UFO report can change shape during investigation. At first glance, the reader imagines one object and one airliner occupying nearly the same patch of sky. Radar context introduces a third dimension: the object may have been lower, nearer, slower or on a different track from the airliner. From a hilltop viewpoint, those differences can collapse into a dramatic-looking crossing.
 
@@ -271,9 +271,9 @@ Portsdown Hill is especially prone to that kind of visual trap. It gives wide vi
 <img src="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-1-dark.svg" | relative_url }}" alt="Some Hampshire UFO Reports Become Less Mysterious Once The Aircraft... illustration 1" data-theme-src-dark="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Southampton Airport and layered flight paths
 
-Southampton Airport is another reason Hampshire produces aviation-shaped UFO reports. The airport states that the airspace over Southampton is controlled airspace, meaning air traffic control has positive control over aircraft in that area where required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southamptonairport.com/about-us/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.com">[southamptonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.com</span><span class="citation-popover-snippet">Controlled airspace exists where it is deemed necessary that air traffic control...Read more...</span></span></span> Its live arrivals and departures also show that this is not an occasional-use strip but an active airport with scheduled movements across the day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southamptonairport.com/departures-arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.com">[southamptonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.com</span><span class="citation-popover-snippet">Open source on southamptonairport.com.</span></span></span>
+Southampton Airport is another reason Hampshire produces aviation-shaped UFO reports. The airport states that the airspace over Southampton is controlled airspace, meaning air traffic control has positive control over aircraft in that area where required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southamptonairport.com/about-us/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.com">[southamptonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.com</span><span class="citation-popover-snippet">Controlled airspace exists where it is deemed necessary that air traffic control...Read more...</span></span></span> Its live arrivals and departures also show that this is not an occasional-use strip but an active airport with scheduled movements across the day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southamptonairport.com/departures-arrivals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.com">[southamptonairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.com</span><span class="citation-popover-snippet">Open source on southamptonairport.com.</span></span></span>
 
-For UFO interpretation, the key phrase is “layered flight paths”. A person in Southampton, Eastleigh, Portsmouth, Winchester or the Solent edge may be looking through several kinds of aviation activity at once: commercial aircraft descending or climbing, general aviation traffic, military helicopter movement, and aircraft using neighbouring airspace. Southampton’s own airspace-change material says its redesign work concerns arrival and departure routes from the ground up to 7,000 feet, as well as controlled-airspace boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.consultationonline.co.uk">[Southampton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.consultationonline.co.uk</span><span class="citation-popover-snippet">Open source on consultationonline.co.uk.</span></span></span>
+For UFO interpretation, the key phrase is “layered flight paths”. A person in Southampton, Eastleigh, Portsmouth, Winchester or the Solent edge may be looking through several kinds of aviation activity at once: commercial aircraft descending or climbing, general aviation traffic, military helicopter movement, and aircraft using neighbouring airspace. Southampton’s own airspace-change material says its redesign work concerns arrival and departure routes from the ground up to 7,000 feet, as well as controlled-airspace boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.consultationonline.co.uk">[Southampton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.consultationonline.co.uk</span><span class="citation-popover-snippet">Open source on consultationonline.co.uk.</span></span></span>
 
 That helps explain several common witness impressions:
 
@@ -294,7 +294,7 @@ The point is not that every Hampshire light near Southampton must be an aircraft
 
 ## RAF Odiham Chinooks and night-time confusion
 
-RAF Odiham adds a different kind of aircraft clue. The RAF describes Odiham, in Hampshire, as a front-line support helicopter base and the home of the UK Chinook Force, operating three Chinook squadrons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span> Its flying information page says the station operates 24 hours a day in support of operational requirements, with a routine flying window between 9 am and 3 am. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+RAF Odiham adds a different kind of aircraft clue. The RAF describes Odiham, in Hampshire, as a front-line support helicopter base and the home of the UK Chinook Force, operating three Chinook squadrons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span> Its flying information page says the station operates 24 hours a day in support of operational requirements, with a routine flying window between 9 am and 3 am.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 That matters for UFO reports because Chinooks are not experienced like ordinary airliners. They can be loud, low, slow, dark-bodied and visually odd at night. Their lights may be noticed before the shape is understood. In some conditions, the sound may arrive late, echo, or seem to come from the wrong direction. A helicopter turning, descending or moving behind trees can create a short, confusing sighting that feels more dramatic than a straight-line aircraft passage.
 
@@ -306,9 +306,9 @@ For a Hampshire UFO file, Chinook context does not solve everything by itself. I
 <img src="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-2-dark.svg" | relative_url }}" alt="Some Hampshire UFO Reports Become Less Mysterious Once The Aircraft... illustration 2" data-theme-src-dark="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why aircraft explanations can still leave loose ends
 
-Aircraft misidentification is strongest when it matches several details at once: timing, direction, speed, light pattern, radar or flight-track data, and local operating context. The Portsdown Hill report is valuable because the explanation came after RAF radar review, not merely from someone saying “probably a plane” after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
+Aircraft misidentification is strongest when it matches several details at once: timing, direction, speed, light pattern, radar or flight-track data, and local operating context. The Portsdown Hill report is valuable because the explanation came after RAF radar review, not merely from someone saying “probably a plane” after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</span><span class="citation-popover-meta">Published: August 11, 2014</span></span></span>
 
-But many [official UFO records]({{ 'official-files/' | relative_url }}) are too short to close neatly. The Ministry of Defence’s public UFO report lists for 2008 and 2009 include brief Hampshire entries such as orange lights, fast movement, zig-zagging, circular motion or lights that witnesses said did not resemble aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> Such wording is useful as a witness summary, but often lacks the exact bearing, elevation, duration, weather and flight context needed for a firm reconstruction.
+But many [official UFO records]({{ 'official-files/' | relative_url }}) are too short to close neatly. The Ministry of Defence’s public UFO report lists for 2008 and 2009 include brief Hampshire entries such as orange lights, fast movement, zig-zagging, circular motion or lights that witnesses said did not resemble aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> Such wording is useful as a witness summary, but often lacks the exact bearing, elevation, duration, weather and flight context needed for a firm reconstruction.
 
 That is why “possibly aircraft” should be read carefully. It is not the same as “definitely solved”. A responsible Hampshire assessment usually falls into one of three categories:
 
@@ -326,7 +326,7 @@ That is why “possibly aircraft” should be read carefully. It is not the same
 
 ## How to read Hampshire aircraft clues fairly
 
-A fair reading starts with the sky before the story. In Hampshire, that means checking Portsmouth and the Solent sightlines, Southampton Airport activity, RAF Odiham helicopter operations, nearby controlled airspace and the possibility of light aircraft below or beyond larger aircraft. The Civil Aviation Authority’s airspace change portal exists because UK flight paths and controlled airspace are formal, documented systems rather than vague background noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacechange.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacechange.caa.co.uk">[airspacechange.caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacechange.caa.co.uk</span><span class="citation-popover-title">Airspace change portal</span><span class="citation-popover-snippet">Airspace change portal</span></span></span>
+A fair reading starts with the sky before the story. In Hampshire, that means checking Portsmouth and the Solent sightlines, Southampton Airport activity, RAF Odiham helicopter operations, nearby controlled airspace and the possibility of light aircraft below or beyond larger aircraft. The Civil Aviation Authority’s airspace change portal exists because UK flight paths and controlled airspace are formal, documented systems rather than vague background noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacechange.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacechange.caa.co.uk">[airspacechange.caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacechange.caa.co.uk</span><span class="citation-popover-title">Airspace change portal</span><span class="citation-popover-snippet">Airspace change portal</span></span></span>
 
 The practical lesson is simple: a good UFO report should become more specific as it is checked. A weak one often remains a vivid description with no track, no altitude, no corroboration and no way to separate aircraft from appearance. Hampshire’s aircraft-misidentification cases are therefore not a side issue in the county’s UFO history. They are one of the main tools for sorting genuinely puzzling reports from cases that only looked extraordinary before the flight context was added.
 
@@ -334,194 +334,194 @@ The practical lesson is simple: a good UFO report should become more specific as
 <img src="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-3-dark.svg" | relative_url }}" alt="Some Hampshire UFO Reports Become Less Mysterious Once The Aircraft... illustration 3" data-theme-src-dark="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hampshire_5816c9_aircraft_misidentifi_a1d4cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Hampshire UFOs Turn Out to Be Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Hampshire UFOs Turn Out to Be Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and distinguishing genuine mysteries from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and distinguishing genuine mysteries from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context on credible aerial reports and the importance of aviation evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on credible aerial reports and the importance of aviation evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Includes UFO cases within a broader framework of investigating unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes UFO cases within a broader framework of investigating unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and distinguishing genuine mysteries from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and distinguishing genuine mysteries from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x American Counter Display of Model Aircraft Parts, Canopies,Pilots &amp; Spinners"><img src="https://i.ebayimg.com/images/g/vHAAAeSwSX9qNQBT/s-l225.jpg" alt="Listing image for 1x American Counter Display of Model Aircraft Parts, Canopies,Pilots &amp; Spinners" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">1x American Counter Display of Model Aircraft Parts, Canopies,Pilots &amp; Spinners</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality"><img src="https://i.ebayimg.com/images/g/SooAAeSwx~FpmeN-/s-l225.jpg" alt="Listing image for 1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="https://i.ebayimg.com/images/g/EesAAeSwbHFqCFeB/s-l225.jpg" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="some-hampshire-ufo-reports-become-less-when-hampshire-ufos-turn-out-to-be-aircraft-hampshire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="https://i.ebayimg.com/images/g/9r4AAeSwRHNqD~ZD/s-l225.jpg" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="when-hampshire-ufos-turn-out-to-be-aircraft-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ The practical lesson is simple: a good UFO report should become more specific as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ The practical lesson is simple: a good UFO report should become more specific as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ The practical lesson is simple: a good UFO report should become more specific as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ The practical lesson is simple: a good UFO report should become more specific as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ The practical lesson is simple: a good UFO report should become more specific as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,165 +727,165 @@ The practical lesson is simple: a good UFO report should become more specific as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archivesufo-highlights-guide-2013.pdfAugust 11, 2014 — The UFO policy file DEFE 24/2458/1 (p 19-25) contains a briefing dated...</p></details>
    Published: August 11, 2014  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: southamptonairport.com  
-   Link: <a href="https://www.southamptonairport.com/about-us/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/about-us/aircraft-noise/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Controlled airspace exists where it is deemed necessary that air traffic control...Read more...</p></details>
+   Link:<a href="https://www.southamptonairport.com/about-us/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/about-us/aircraft-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Controlled airspace exists where it is deemed necessary that air traffic control...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: southamptonairport.com  
-   Link: <a href="https://www.southamptonairport.com/departures-arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/departures-arrivals/</a>  
+   Link:<a href="https://www.southamptonairport.com/departures-arrivals/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/departures-arrivals/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airspacechange.caa.co.uk  
    Title: Airspace change portal  
-   Link: <a href="https://airspacechange.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://airspacechange.caa.co.uk/</a>  
+   Link:<a href="https://airspacechange.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://airspacechange.caa.co.uk/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: airspace modernisation  
-   Link: <a href="https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation</a>  
+   Link:<a href="https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo research guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/dmwlcxjf/farnborough_acp_part-a_final_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/dmwlcxjf/farnborough_acp_part-a_final_consultation.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/dmwlcxjf/farnborough_acp_part-a_final_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/dmwlcxjf/farnborough_acp_part-a_final_consultation.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: caa.co.uk  
    Title: farnborough acp part d final consultation  
-   Link: <a href="https://www.caa.co.uk/media/penco2kn/farnborough_acp_part_d_final_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/penco2kn/farnborough_acp_part_d_final_consultation.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/penco2kn/farnborough_acp_part_d_final_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/penco2kn/farnborough_acp_part_d_final_consultation.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: southamptonairport.com  
-   Link: <a href="https://www.southamptonairport.com/about-us/airspace-change-programme/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/about-us/airspace-change-programme/</a>  
+   Link:<a href="https://www.southamptonairport.com/about-us/airspace-change-programme/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/about-us/airspace-change-programme/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: southamptonairport.com  
-   Link: <a href="https://www.southamptonairport.com/media/bgfnccvr/southampton-airport-noise-action-plan-version-1-2-final-060524-main-doc-draft-subject-to-sos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/media/bgfnccvr/southampton-airport-noise-action-plan-version-1-2-final-060524-main-doc-draft-subject-to-sos.pdf</a>  
+   Link:<a href="https://www.southamptonairport.com/media/bgfnccvr/southampton-airport-noise-action-plan-version-1-2-final-060524-main-doc-draft-subject-to-sos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/media/bgfnccvr/southampton-airport-noise-action-plan-version-1-2-final-060524-main-doc-draft-subject-to-sos.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: southamptonairport.consultationonline.co.uk  
-   Link: <a href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow">https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf</a>  
+   Link:<a href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow">https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-odiham/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-odiham/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-odiham/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-odiham/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-odiham/flying-info/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
    Title: Ufo Highlights Guide 2013  
-   Link: <a href="https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013</a>  
+   Link:<a href="https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: RAF Odiham  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Odiham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Odiham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Odiham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Odiham</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/flights/arrivals-departures/sou/southampton-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/sou/southampton-arrivals-departures</a>  
+   Link:<a href="https://www.skyscanner.net/flights/arrivals-departures/sou/southampton-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/sou/southampton-arrivals-departures</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/sou" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/sou</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/sou" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/sou</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO files throw light on Britain's flying saucers  
-   Link: <a href="https://www.youtube.com/watch?v=OA9AD6UafeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OA9AD6UafeA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files National Archives aircraft misidentification We Investigate UFO&#x27;s USA Finally Admits - BBC News Report U...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OA9AD6UafeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OA9AD6UafeA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files National Archives aircraft misidentification We Investigate UFO&#x27;s USA Finally Admits - BBC News Report U...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HampshireBBC/posts/we-were-watching-a-spy-movie-on-television-and-then-all-of-a-sudden-the-whole-sk/1267198295624600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HampshireBBC/posts/we-were-watching-a-spy-movie-on-television-and-then-all-of-a-sudden-the-whole-sk/1267198295624600/</a>  
+   Link:<a href="https://www.facebook.com/HampshireBBC/posts/we-were-watching-a-spy-movie-on-television-and-then-all-of-a-sudden-the-whole-sk/1267198295624600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HampshireBBC/posts/we-were-watching-a-spy-movie-on-television-and-then-all-of-a-sudden-the-whole-sk/1267198295624600/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: farnhamsociety.org.uk  
-   Link: <a href="https://farnhamsociety.org.uk/wp-content/uploads/2022/11/Farnborough-Airport-Airspace-and-Flight-Paths-FAQ-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://farnhamsociety.org.uk/wp-content/uploads/2022/11/Farnborough-Airport-Airspace-and-Flight-Paths-FAQ-1.pdf</a>  
+   Link:<a href="https://farnhamsociety.org.uk/wp-content/uploads/2022/11/Farnborough-Airport-Airspace-and-Flight-Paths-FAQ-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://farnhamsociety.org.uk/wp-content/uploads/2022/11/Farnborough-Airport-Airspace-and-Flight-Paths-FAQ-1.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: londoncityairport.com  
-   Link: <a href="https://www.londoncityairport.com/corporate/environment/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/environment/airspace-modernisation</a>  
+   Link:<a href="https://www.londoncityairport.com/corporate/environment/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/environment/airspace-modernisation</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOgkoQUCOqm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOgkoQUCOqm/</a>  
+   Link:<a href="https://www.instagram.com/reel/DOgkoQUCOqm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOgkoQUCOqm/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: sasig.org.uk  
-   Link: <a href="https://sasig.org.uk/wp-content/uploads/2025/01/Item-8-Background-to-Airspace-Modernisation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sasig.org.uk/wp-content/uploads/2025/01/Item-8-Background-to-Airspace-Modernisation.pdf</a>  
+   Link:<a href="https://sasig.org.uk/wp-content/uploads/2025/01/Item-8-Background-to-Airspace-Modernisation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sasig.org.uk/wp-content/uploads/2025/01/Item-8-Background-to-Airspace-Modernisation.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-gb/products/Chinook-Mk6-Synthetic-Training-System-Facility.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-gb/products/Chinook-Mk6-Synthetic-Training-System-Facility.html</a>  
+   Link:<a href="https://www.lockheedmartin.com/en-gb/products/Chinook-Mk6-Synthetic-Training-System-Facility.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-gb/products/Chinook-Mk6-Synthetic-Training-System-Facility.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFAssociation/videos/get-a-glimpse-of-what-its-like-to-fly-in-an-raf-chinook-helicopter-at-raf-odiham/1486976392868195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFAssociation/videos/get-a-glimpse-of-what-its-like-to-fly-in-an-raf-chinook-helicopter-at-raf-odiham/1486976392868195/</a>  
+   Link:<a href="https://www.facebook.com/RAFAssociation/videos/get-a-glimpse-of-what-its-like-to-fly-in-an-raf-chinook-helicopter-at-raf-odiham/1486976392868195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFAssociation/videos/get-a-glimpse-of-what-its-like-to-fly-in-an-raf-chinook-helicopter-at-raf-odiham/1486976392868195/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hantsandiownews/posts/raf-training-over-hampshire-skies-todayhampshire-and-iow-newseyes-to-the-skies-a/581088229145600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hantsandiownews/posts/raf-training-over-hampshire-skies-todayhampshire-and-iow-newseyes-to-the-skies-a/581088229145600/</a>  
+   Link:<a href="https://www.facebook.com/hantsandiownews/posts/raf-training-over-hampshire-skies-todayhampshire-and-iow-newseyes-to-the-skies-a/581088229145600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hantsandiownews/posts/raf-training-over-hampshire-skies-todayhampshire-and-iow-newseyes-to-the-skies-a/581088229145600/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CsBaipdtmE6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CsBaipdtmE6/</a>  
+   Link:<a href="https://www.instagram.com/p/CsBaipdtmE6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CsBaipdtmE6/</a>  

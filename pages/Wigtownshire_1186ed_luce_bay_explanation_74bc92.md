@@ -254,46 +254,46 @@ image: /assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-overview-s
 
 ## Introduction
 
-Could Luce Bay explain later sightings in [Wigtownshire]({{ 'why-wigtownshire-still-matters-to-ufo/' | relative_url }})? Often, yes — at least it should be the first serious question asked. Luce Bay is not just a scenic inlet on the south-west coast of historic Wigtownshire. It sits beside MOD West Freugh, a defence test and evaluation range on the northern side of the bay, where airborne, ground and maritime activity can produce lights, sounds, radar returns and restricted-area behaviour that look odd to casual observers. That does not make every report “solved”, and it does not erase the better-known 1957 RAF [West Freugh radar]({{ 'west-freugh/' | relative_url }}) case. It does mean that modern claims around Luce Bay need a stricter filter than ordinary skywatching reports: aircraft, drones, target work, range safety, ships, flares, weather and coastal optics all have to be checked before a UFO label carries much weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ+2QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+Could Luce Bay explain later sightings in [Wigtownshire]({{ 'why-wigtownshire-still-matters-to-ufo/' | relative_url }})? Often, yes — at least it should be the first serious question asked. Luce Bay is not just a scenic inlet on the south-west coast of historic Wigtownshire. It sits beside MOD West Freugh, a defence test and evaluation range on the northern side of the bay, where airborne, ground and maritime activity can produce lights, sounds, radar returns and restricted-area behaviour that look odd to casual observers. That does not make every report “solved”, and it does not erase the better-known 1957 RAF [West Freugh radar]({{ 'west-freugh/' | relative_url }}) case. It does mean that modern claims around Luce Bay need a stricter filter than ordinary skywatching reports: aircraft, drones, target work, range safety, ships, flares, weather and coastal optics all have to be checked before a UFO label carries much weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-overview.webp" | relative_url }}" alt="Overview image for Luce Bay" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the range matters
 
-MOD West Freugh is the central reason Luce Bay has to be treated differently from a rural dark-sky sighting site. QinetiQ, which operates the range on behalf of the Ministry of Defence, describes West Freugh as a weapons Test and Evaluation range supporting airborne and ground test activity for the UK Defence programme and the Armed Forces. Its location is given as about 10 km south-east of Stranraer, on the northern side of Luce Bay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+MOD West Freugh is the central reason Luce Bay has to be treated differently from a rural dark-sky sighting site. QinetiQ, which operates the range on behalf of the Ministry of Defence, describes West Freugh as a weapons Test and Evaluation range supporting airborne and ground test activity for the UK Defence programme and the Armed Forces. Its location is given as about 10 km south-east of Stranraer, on the northern side of Luce Bay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
-The physical scale is important. QinetiQ says the range includes much of the sea area of Luce Bay, a 7 km stretch of flat sandy beach at the north end of the bay, and a land area north of the bay. The Solway Firth Partnership gives a useful public-facing summary of the footprint: about 750 square kilometres of airspace, 380 square kilometres of sea area and 12 square kilometres of land available for military training, exercises and testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+The physical scale is important. QinetiQ says the range includes much of the sea area of Luce Bay, a 7 km stretch of flat sandy beach at the north end of the bay, and a land area north of the bay. The Solway Firth Partnership gives a useful public-facing summary of the footprint: about 750 square kilometres of airspace, 380 square kilometres of sea area and 12 square kilometres of land available for military training, exercises and testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
 That footprint creates a simple interpretive problem. A resident or visitor looking across Luce Bay may be seeing only a small part of a much larger controlled activity: an aircraft outside their line of sight, a target or barge in the bay, an illuminated object over water, or a test sequence whose purpose is not obvious from the shore. In UFO terms, the local question is not “is there a military base nearby?” but “was there range activity, airspace activity or maritime range use at the time, and could it account for what was seen?”
 
-The range is also historically embedded. The Luce Bay air gunnery and bombing range was formalised by pre-war byelaws in 1938, explicitly placing “Luce Bay (in the County of Wigtown)” within an air gunnery and bombing range framework. That matters for this project because it connects the modern range to historic Wigtownshire geography, rather than treating it as only a present-day Dumfries and Galloway site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5b9fb12940f0b6071970c1df/Luce_Bay_Bombing_Range_1938.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Luce Bay Bombing Range 1938</span><span class="citation-popover-snippet">Luce Bay Bombing Range 1938</span></span></span>
+The range is also historically embedded. The Luce Bay air gunnery and bombing range was formalised by pre-war byelaws in 1938, explicitly placing “Luce Bay (in the County of Wigtown)” within an air gunnery and bombing range framework. That matters for this project because it connects the modern range to historic Wigtownshire geography, rather than treating it as only a present-day Dumfries and Galloway site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5b9fb12940f0b6071970c1df/Luce_Bay_Bombing_Range_1938.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Luce Bay Bombing Range 1938</span><span class="citation-popover-snippet">Luce Bay Bombing Range 1938</span></span></span>
 
 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-Illustration-1-dark.svg" | relative_url }}" alt="Luce Bay illustration 1" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary lights and radar puzzles
 
-The best-known Wigtownshire UFO story remains the 4 April 1957 RAF West Freugh radar incident, but it should not be used carelessly as a template for every later Luce Bay report. The National Archives guide says the 1957 case involved UFOs tracked by several trailer-mounted radar units at an RAF bombing range in southern Scotland, caused national press interest, prompted Parliamentary and Joint Intelligence Committee attention, and ended with a DDI (Tech) conclusion that the incident involved “five reflecting objects of unidentified type and origin” unlikely to be conventional aircraft, meteorological balloons or charged clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The best-known Wigtownshire UFO story remains the 4 April 1957 RAF West Freugh radar incident, but it should not be used carelessly as a template for every later Luce Bay report. The National Archives guide says the 1957 case involved UFOs tracked by several trailer-mounted radar units at an RAF bombing range in southern Scotland, caused national press interest, prompted Parliamentary and Joint Intelligence Committee attention, and ended with a DDI (Tech) conclusion that the incident involved “five reflecting objects of unidentified type and origin” unlikely to be conventional aircraft, meteorological balloons or charged clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 That is a strong archival case by local UFO standards, but it is also a warning against over-reading weaker reports. The 1957 incident was notable because it had multiple radar units, official escalation and an intelligence assessment. A later witness seeing lights over Luce Bay from a beach, road, caravan park or coastal path is usually in a much weaker evidential position unless the report has independent timing, direction, aircraft checks, weather data, range-status checks and corroboration.
 
-Hansard records show why ordinary range activity can be confusing. In 2000, the Ministry of Defence described the West Freugh range as comprising the Luce Bay sea danger area and the Torrs Warren land target area. It said bombs, rockets and missiles had been released or fired over Luce Bay, that fixed and rotary-wing machine guns were used, that missiles were fired from land into the bay, and that barges in the bay were used for inert store releases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Luce Bay Range</span><span class="citation-popover-snippet">Hansard Luce Bay Range</span></span></span>
+Hansard records show why ordinary range activity can be confusing. In 2000, the Ministry of Defence described the West Freugh range as comprising the Luce Bay sea danger area and the Torrs Warren land target area. It said bombs, rockets and missiles had been released or fired over Luce Bay, that fixed and rotary-wing machine guns were used, that missiles were fired from land into the bay, and that barges in the bay were used for inert store releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Luce Bay Range</span><span class="citation-popover-snippet">Hansard Luce Bay Range</span></span></span>
 
 For a UFO report, those details matter more than the word “military” in the abstract. A light that appears to hover over water may be associated with a vessel, barge, aircraft, target, flare or safety operation. A sudden flash, burst, falling light or illuminated trail may be more consistent with range work than with a structured craft. A radar or tracking anomaly near a test range can be interesting, but it also sits inside a technical environment where objects, emissions, targets and safety procedures are not always visible to outsiders.
 
-The range has also had periods of changing activity. In a 2002 Commons debate, West Freugh was described as consisting of Torrs Warren, the airfield and the Luce Bay range, while full-time operation of the airfield had ceased after declining aircraft movements. The same debate discussed the site’s move towards “campaign operation” rather than constant full-time use. This is important because “quiet most of the time” does not mean “inactive”: a later unusual report may coincide with a concentrated campaign, exercise or trial rather than routine daily flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">west freugh airfield</span><span class="citation-popover-snippet">west freugh airfield</span></span></span>
+The range has also had periods of changing activity. In a 2002 Commons debate, West Freugh was described as consisting of Torrs Warren, the airfield and the Luce Bay range, while full-time operation of the airfield had ceased after declining aircraft movements. The same debate discussed the site’s move towards “campaign operation” rather than constant full-time use. This is important because “quiet most of the time” does not mean “inactive”: a later unusual report may coincide with a concentrated campaign, exercise or trial rather than routine daily flying.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">west freugh airfield</span><span class="citation-popover-snippet">west freugh airfield</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O241eLLQgAw" title="Joint RAF and British Army training on Exercise Joint Warrior 141" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O241eLLQgAw" target="_blank" rel="noopener noreferrer">Joint RAF and British Army training on Exercise Joint Warrior 141</a></p><p class="youtube-embed-meta">Channel: Royal Air Force</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O241eLLQgAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O241eLLQgAw">Open on YouTube</a></p></div></div></div>
 
 ## Drones, ships and coastal weather
 
-Modern Luce Bay reports also have to allow for drones. The Civil Aviation Authority explains that UK permanent airspace restrictions include prohibited areas, restricted areas and danger areas, and notes that military bases and military ranges are examples of places where restrictions often apply. For drone users, the practical point is that restricted or danger-area mapping must be checked before flying, and temporary restrictions may also apply at short notice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Modern Luce Bay reports also have to allow for drones. The Civil Aviation Authority explains that UK permanent airspace restrictions include prohibited areas, restricted areas and danger areas, and notes that military bases and military ranges are examples of places where restrictions often apply. For drone users, the practical point is that restricted or danger-area mapping must be checked before flying, and temporary restrictions may also apply at short notice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-Drones complicate UFO reporting in two ways. First, an unauthorised or poorly understood drone can itself be reported as an unidentified light. Secondly, legitimate unmanned systems used in or near military test settings may not behave like familiar civil aircraft. The UK Military Aeronautical Information Publication section on danger areas refers to military activities requiring segregation and includes beyond-visual-line-of-sight unmanned aircraft system activity within the wider airspace-management context, which shows how drone-like operations now belong in the normal aviation risk picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aidu.mod.uk">[aidu.mod.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aidu.mod.uk</span><span class="citation-popover-title">ENR 5 1</span><span class="citation-popover-snippet">ENR 5 1</span></span></span>
+Drones complicate UFO reporting in two ways. First, an unauthorised or poorly understood drone can itself be reported as an unidentified light. Secondly, legitimate unmanned systems used in or near military test settings may not behave like familiar civil aircraft. The UK Military Aeronautical Information Publication section on danger areas refers to military activities requiring segregation and includes beyond-visual-line-of-sight unmanned aircraft system activity within the wider airspace-management context, which shows how drone-like operations now belong in the normal aviation risk picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aidu.mod.uk">[aidu.mod.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aidu.mod.uk</span><span class="citation-popover-title">ENR</span><span class="citation-popover-snippet">ENR</span></span></span>
 
 Ships and marine activity matter too because Luce Bay is a large open bay, not an inland field. Lights over water are notoriously easy to misjudge: distance is harder to estimate, low cloud can hide the horizon, and a moving vessel can appear almost stationary when seen head-on. A light that seems to “hang” above the bay may be on a mast, a vessel, a buoy, a range asset, an aircraft on approach, or a reflection seen through haze.
 
-Weather is the other major filter. The Met Office defines fog as cloud at ground level that reduces visibility to less than 1,000 metres. Around a bay, fog, mist, low cloud and sea haze can reduce contrast, conceal the horizon and make lights appear detached from their source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Weather is the other major filter. The Met Office defines fog as cloud at ground level that reduces visibility to less than 1,000 metres. Around a bay, fog, mist, low cloud and sea haze can reduce contrast, conceal the horizon and make lights appear detached from their source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 This is not a debunker’s excuse for dismissing everything. It is a practical warning. Coastal weather can turn a normal source into a strange report: a fishing vessel becomes a floating light, an aircraft appears to stop when it is flying towards the observer, a flare seems to descend silently, and a bright planet or satellite looks more dramatic when the horizon is obscured. For Luce Bay, any serious sighting report should therefore record visibility, cloud base, wind direction, precipitation, sea mist and the observer’s exact viewing angle.
 
@@ -305,11 +305,11 @@ The most useful way to handle a Luce Bay report is not to begin with belief or d
 
 **Was the sightline over the range or its approaches?** A report from Sandhead, Drummore, Glenluce, the Rhins coast or the Machars may point across Luce Bay, towards the Irish Sea, towards the Isle of Man, or across the range area. A compass bearing matters more than a general phrase such as “over the bay”.
 
-**Was West Freugh active or on campaign use?** Because the site can be quiet between campaigns, witnesses may assume nothing military was happening. That assumption is weak unless checked against range notices, aviation information, local warnings or direct public information from the operator. QinetiQ’s public range pages and advance-alert arrangements are more relevant for this area than general UFO databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+**Was West Freugh active or on campaign use?** Because the site can be quiet between campaigns, witnesses may assume nothing military was happening. That assumption is weak unless checked against range notices, aviation information, local warnings or direct public information from the operator. QinetiQ’s public range pages and advance-alert arrangements are more relevant for this area than general UFO databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
-**Did the report involve a light, a radar return, a sound, or a physical object?** These categories should not be merged. A silent orange light over water is a different evidential problem from a radar track, a sonic event, a drone-like object, or an alleged structured craft seen close up. The 1957 case matters precisely because it was radar-led and officially investigated; most later reports will not have that evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+**Did the report involve a light, a radar return, a sound, or a physical object?** These categories should not be merged. A silent orange light over water is a different evidential problem from a radar track, a sonic event, a drone-like object, or an alleged structured craft seen close up. The 1957 case matters precisely because it was radar-led and officially investigated; most later reports will not have that evidential strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-**Could it be range hardware or weapons-test support?** Hansard’s description of barges, land targets, fired missiles, released stores and aircraft activity shows that the range can create unusual-looking events without requiring anything exotic. The relevant question is not whether the observer personally recognised the equipment, but whether the reported timing, bearing, height and motion fit a known range or maritime mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Luce Bay Range</span><span class="citation-popover-snippet">Hansard Luce Bay Range</span></span></span>
+**Could it be range hardware or weapons-test support?** Hansard’s description of barges, land targets, fired missiles, released stores and aircraft activity shows that the range can create unusual-looking events without requiring anything exotic. The relevant question is not whether the observer personally recognised the equipment, but whether the reported timing, bearing, height and motion fit a known range or maritime mechanism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Luce Bay Range</span><span class="citation-popover-snippet">Hansard Luce Bay Range</span></span></span>
 
 **Was the weather doing the work?** Fog, sea mist and low cloud do not invent lights, but they can make ordinary lights look unmoored from the landscape. A sighting that lacks weather detail is not worthless, but it is harder to weigh.
 
@@ -331,162 +331,162 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
 <img src="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-Illustration-3-dark.svg" | relative_url }}" alt="Luce Bay illustration 3" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_luce_bay_explanation_74bc92-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Luce Bay Explain Later Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Luce Bay Explain Later Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigating sightings systematically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating sightings systematically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to evaluating coastal and military-area sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to evaluating coastal and military-area sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances unexplained reports with investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances unexplained reports with investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages checking ordinary explanations before extraordinary ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking ordinary explanations before extraordinary ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="luce-bay-could-luce-bay-explain-later-sightings-wigtownshire-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -502,7 +502,7 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -522,7 +522,7 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -554,7 +554,7 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -606,7 +606,7 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -651,7 +651,7 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -692,234 +692,234 @@ The strongest conclusion is therefore cautious. Luce Bay can plausibly explain m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/</a>  
+   Link:<a href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/where-we-are</a>  
+   Link:<a href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/where-we-are</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Luce Bay Bombing Range 1938  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5b9fb12940f0b6071970c1df/Luce_Bay_Bombing_Range_1938.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5b9fb12940f0b6071970c1df/Luce_Bay_Bombing_Range_1938.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5b9fb12940f0b6071970c1df/Luce_Bay_Bombing_Range_1938.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5b9fb12940f0b6071970c1df/Luce_Bay_Bombing_Range_1938.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Luce Bay Range  
-   Link: <a href="https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2000-11-01/debates/d2e56d22-ef2b-46b7-80c2-123393f4e0ec/LuceBayRange</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: api.parliament.uk  
    Title: west freugh airfield  
-   Link: <a href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Luce Bay  
-   Link: <a href="https://hansard.parliament.uk/Commons/2003-04-15/debates/db5de39a-c21d-4b80-9261-fa443d595448/LuceBay" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2003-04-15/debates/db5de39a-c21d-4b80-9261-fa443d595448/LuceBay</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/2003-04-15/debates/db5de39a-c21d-4b80-9261-fa443d595448/LuceBay" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2003-04-15/debates/db5de39a-c21d-4b80-9261-fa443d595448/LuceBay</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aidu.mod.uk  
    Title: ENR 5 1  
-   Link: <a href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf</a>  
+   Link:<a href="https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aidu.mod.uk/aip/pdf/enr/ENR-5-1.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Luce Bay Bombing Range 1938  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/617294/Luce_Bay_Bombing_Range_1938.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/617294/Luce_Bay_Bombing_Range_1938.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/617294/Luce_Bay_Bombing_Range_1938.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/617294/Luce_Bay_Bombing_Range_1938.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a81fe3940f0b62305b91e8a/20170718_List_of_Byelaws_to_be_Reviewed_Alphabetical_A4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81fe3940f0b62305b91e8a/20170718_List_of_Byelaws_to_be_Reviewed_Alphabetical_A4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a81fe3940f0b62305b91e8a/20170718_List_of_Byelaws_to_be_Reviewed_Alphabetical_A4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81fe3940f0b62305b91e8a/20170718_List_of_Byelaws_to_be_Reviewed_Alphabetical_A4.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: dft avsafety pdf 500883  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5422f9aae5274a13170007a5/dft_avsafety_pdf_500883.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422f9aae5274a13170007a5/dft_avsafety_pdf_500883.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5422f9aae5274a13170007a5/dft_avsafety_pdf_500883.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422f9aae5274a13170007a5/dft_avsafety_pdf_500883.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: metoffice.gov.uk  
    Title: whats the difference between mist fog and haze  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: planninginspectorate.gov.uk Scoping Report  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010136-000585-Mooir%20Vannin_Scoping%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010136-000585-Mooir%20Vannin_Scoping%20Report.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010136-000585-Mooir%20Vannin_Scoping%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010136-000585-Mooir%20Vannin_Scoping%20Report.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: info.dumgal.gov.uk  
-   Link: <a href="https://info.dumgal.gov.uk/CorePathMaps/Walking/Stairhaven-Coast.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.dumgal.gov.uk/CorePathMaps/Walking/Stairhaven-Coast.pdf</a>  
+   Link:<a href="https://info.dumgal.gov.uk/CorePathMaps/Walking/Stairhaven-Coast.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.dumgal.gov.uk/CorePathMaps/Walking/Stairhaven-Coast.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hansard.parliament.uk  
    Title: uk Live Munitions Testing  
-   Link: <a href="https://hansard.parliament.uk/Commons/2000-01-17/debates/92e2050b-6516-4783-a328-5a1246239808/LiveMunitionsTesting" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2000-01-17/debates/92e2050b-6516-4783-a328-5a1246239808/LiveMunitionsTesting</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/2000-01-17/debates/92e2050b-6516-4783-a328-5a1246239808/LiveMunitionsTesting" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2000-01-17/debates/92e2050b-6516-4783-a328-5a1246239808/LiveMunitionsTesting</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: data.parliament.uk  
    Title: uk SSS Is  
-   Link: <a href="https://data.parliament.uk/DepositedPapers/Files/DEP2020-0130/copy_of_Annex_PQ02887_and_PQ02889.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2020-0130/copy_of_Annex_PQ02887_and_PQ02889.xlsx</a>  
+   Link:<a href="https://data.parliament.uk/DepositedPapers/Files/DEP2020-0130/copy_of_Annex_PQ02887_and_PQ02889.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2020-0130/copy_of_Annex_PQ02887_and_PQ02889.xlsx</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hansard.parliament.uk  
    Title: uk Depleted Uranium  
-   Link: <a href="https://hansard.parliament.uk/commons/2001-01-15/debates/ea9770d3-3eec-464a-8c74-92db8ed6716a/DepletedUranium" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2001-01-15/debates/ea9770d3-3eec-464a-8c74-92db8ed6716a/DepletedUranium</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2001-01-15/debates/ea9770d3-3eec-464a-8c74-92db8ed6716a/DepletedUranium" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2001-01-15/debates/ea9770d3-3eec-464a-8c74-92db8ed6716a/DepletedUranium</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: api.parliament.uk  
    Title: depleted uranium shelling  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/2001/feb/07/depleted-uranium-shelling" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/2001/feb/07/depleted-uranium-shelling</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/2001/feb/07/depleted-uranium-shelling" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/2001/feb/07/depleted-uranium-shelling</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: api.parliament.uk  
    Title: mr peter duncan  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-peter-duncan/2001" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-peter-duncan/2001</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-peter-duncan/2001" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-peter-duncan/2001</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm200001/cmhansrd/vo010115/text/10115w11.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200001/cmhansrd/vo010115/text/10115w11.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm200001/cmhansrd/vo010115/text/10115w11.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200001/cmhansrd/vo010115/text/10115w11.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: publications.parliament.uk  
    Title: Writtens 6  
-   Link: <a href="https://publications.parliament.uk/pa/cm199192/cmhansrd/1992-03-05/Writtens-6.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm199192/cmhansrd/1992-03-05/Writtens-6.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm199192/cmhansrd/1992-03-05/Writtens-6.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm199192/cmhansrd/1992-03-05/Writtens-6.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: data.jncc.gov.uk  
-   Link: <a href="https://data.jncc.gov.uk/data/0b04fecd-6a66-4d42-9fcc-5861566e1b25/jncc-report-33-scan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/0b04fecd-6a66-4d42-9fcc-5861566e1b25/jncc-report-33-scan.pdf</a>  
+   Link:<a href="https://data.jncc.gov.uk/data/0b04fecd-6a66-4d42-9fcc-5861566e1b25/jncc-report-33-scan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/0b04fecd-6a66-4d42-9fcc-5861566e1b25/jncc-report-33-scan.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: data.jncc.gov.uk  
-   Link: <a href="https://data.jncc.gov.uk/data/b4f7af71-a641-4928-a111-284ff898d5a8/jncc-mncr-sector-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/b4f7af71-a641-4928-a111-284ff898d5a8/jncc-mncr-sector-11.pdf</a>  
+   Link:<a href="https://data.jncc.gov.uk/data/b4f7af71-a641-4928-a111-284ff898d5a8/jncc-mncr-sector-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/b4f7af71-a641-4928-a111-284ff898d5a8/jncc-mncr-sector-11.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dumfriesandgalloway.gov.uk  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-08/Local_Biodiversity_Action_Plan.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dumfriesandgalloway.gov.uk  
-   Link: <a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-11/dgwlss-smaller-wind-turbines-nov-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-11/dgwlss-smaller-wind-turbines-nov-2025.pdf</a>  
+   Link:<a href="https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-11/dgwlss-smaller-wind-turbines-nov-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-11/dgwlss-smaller-wind-turbines-nov-2025.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: MOD West Freugh  
-   Link: <a href="https://en.wikipedia.org/wiki/MOD_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/MOD_West_Freugh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/MOD_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/MOD_West_Freugh</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: military-history.fandom.com  
    Title: RAF West Freugh  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_West_Freugh</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_West_Freugh</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: martinshough.com  
-   Link: <a href="https://www.martinshough.com/aerialphenomena/westfreugh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/westfreugh.pdf</a>  
+   Link:<a href="https://www.martinshough.com/aerialphenomena/westfreugh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/westfreugh.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Joint RAF and British Army training on Exercise Joint Warrior 141  
-   Link: <a href="https://www.youtube.com/watch?v=O241eLLQgAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O241eLLQgAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Washed up bomb on St Annes Beach - controlled explosion 13/01/14...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O241eLLQgAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O241eLLQgAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washed up bomb on St Annes Beach - controlled explosion 13/01/14...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/548781737447699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/548781737447699/</a>  
+   Link:<a href="https://www.facebook.com/groups/548781737447699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/548781737447699/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/acfa.cryptozoology/posts/2744560112573657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/acfa.cryptozoology/posts/2744560112573657/</a>  
+   Link:<a href="https://www.facebook.com/groups/acfa.cryptozoology/posts/2744560112573657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/acfa.cryptozoology/posts/2744560112573657/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: abp.bzh  
-   Link: <a href="https://abp.bzh/close-encounters-off-michael-are-the-aliens-back-no-just-the-mod--39386" target="_blank" rel="noopener noreferrer nofollow">https://abp.bzh/close-encounters-off-michael-are-the-aliens-back-no-just-the-mod--39386</a>  
+   Link:<a href="https://abp.bzh/close-encounters-off-michael-are-the-aliens-back-no-just-the-mod--39386" target="_blank" rel="noopener noreferrer nofollow">https://abp.bzh/close-encounters-off-michael-are-the-aliens-back-no-just-the-mod--39386</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/danger-area" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/danger-area</a>  
+   Link:<a href="https://skybrary.aero/articles/danger-area" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/danger-area</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/6019763" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/6019763</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/6019763" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/6019763</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandsscenery/posts/24462630626662980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/24462630626662980/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandsscenery/posts/24462630626662980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/24462630626662980/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: solwayfirthpartnership.co.uk  
-   Link: <a href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/</a>  
+   Link:<a href="https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwayfirthpartnership.co.uk/solway-review/productive/defence/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
+   Link:<a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/</a>  
+   Link:<a href="https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/</a>  

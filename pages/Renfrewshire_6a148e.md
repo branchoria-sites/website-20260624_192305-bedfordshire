@@ -118,9 +118,9 @@ heading_title: What Really Happened in Renfrewshire's UFO Reports?
 page_heading_title: What Really Happened in Renfrewshire's UFO Reports?
 source_count: 136
 infographic_count: 3
-page_website_name: Renfrewshire UFOs
+page_website_name: Renfrewshire
 page_banner_line: Balanced local UFO history from Paisley, Renfrew, Greenock and the Clyde skies.
-site_website_name: Renfrewshire UFOs
+site_website_name: Renfrewshire
 site_banner_line: Balanced local UFO history from Paisley, Renfrew, Greenock and the Clyde skies.
 site_image_description: A night view over Paisley and the Clyde-side skyline with several small lights in the cloudy sky near an airport approach path.
 output_language: English
@@ -689,21 +689,21 @@ image: /assets/images/Renfrewshire_6a148e-overview-social.jpg
 
 ## Which Renfrewshire is meant here?
 
-This page uses Renfrewshire in its historic-county sense, because the wider project is organised around the historic counties shown in the Wikimedia Commons and Wikishire-style county mapping frame. The Historic Counties Standard defines a historic county as one of 92 UK areas commonly known as counties or shires as they existed before the Counties (Detached Parts) Act 1844, and treats later local-government legislation as not changing those historic counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Historic Counties Trust</span></span></span>
+This page uses Renfrewshire in its historic-county sense, because the wider project is organised around the historic counties shown in the Wikimedia Commons and Wikishire-style county mapping frame. The Historic Counties Standard defines a historic county as one of 92 UK areas commonly known as counties or shires as they existed before the Counties (Detached Parts) Act 1844, and treats later local-government legislation as not changing those historic counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Historic Counties Trust</span></span></span>
 
 
 <img src="{{ "/assets/images/Renfrewshire_6a148e-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Renfrewshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters in Renfrewshire. Modern “Renfrewshire Council” is only part of the older county. Historic Renfrewshire also takes in areas now administered by East Renfrewshire and Inverclyde, and it historically includes Clyde-side towns such as Greenock and Gourock as well as Paisley, Renfrew, Johnstone, Barrhead and Newton Mearns. Wikishire describes the county as lying on the south bank of the Clyde, stretching from the southern Glasgow suburbs to the coast opposite Cowal, while the Gazetteer of British Place Names places Greenock, Port Glasgow and Gourock within the historic county’s coastal west. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Renfrewshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+That distinction matters in Renfrewshire. Modern “Renfrewshire Council” is only part of the older county. Historic Renfrewshire also takes in areas now administered by East Renfrewshire and Inverclyde, and it historically includes Clyde-side towns such as Greenock and Gourock as well as Paisley, Renfrew, Johnstone, Barrhead and Newton Mearns. Wikishire describes the county as lying on the south bank of the Clyde, stretching from the southern Glasgow suburbs to the coast opposite Cowal, while the Gazetteer of British Place Names places Greenock, Port Glasgow and Gourock within the historic county’s coastal west.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Renfrewshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 For UFO history, this means a Greenock report can be relevant to historic Renfrewshire even though modern readers may instinctively think of Greenock as Inverclyde. It also means Glasgow Airport, just north of Paisley, sits inside the practical observation landscape of Renfrewshire even when reports are written simply as “Glasgow”, “near Glasgow Airport” or “West of Glasgow Airport”.
 
 ## The strongest official traces are brief MoD log entries
 
-The clearest official Renfrewshire-linked UFO records are not dramatic case files with photographs, radar plots or police interviews. They are short entries in the Ministry of Defence’s published annual UFO report logs. GOV.UK describes the released MoD material as UFO reports from 1997 to 2009, showing date, time, location and a brief description of each sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The clearest official Renfrewshire-linked UFO records are not dramatic case files with photographs, radar plots or police interviews. They are short entries in the Ministry of Defence’s published annual UFO report logs. GOV.UK describes the released MoD material as UFO reports from 1997 to 2009, showing date, time, location and a brief description of each sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-One entry from 1 May 1999 records a sighting at Greenock, listed as “Renfrewshire”, at 21:25. The description says five lights moved into a centre, broke away into a circle, and were circling. The wording is intriguing because it suggests a formation rather than a single flash, but it is also too short to test properly: there is no witness statement, no direction of travel, no elevation, no duration, no weather note and no confirmed check against aircraft, astronomy or local events in the published summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+One entry from 1 May 1999 records a sighting at Greenock, listed as “Renfrewshire”, at 21:25. The description says five lights moved into a centre, broke away into a circle, and were circling. The wording is intriguing because it suggests a formation rather than a single flash, but it is also too short to test properly: there is no witness statement, no direction of travel, no elevation, no duration, no weather note and no confirmed check against aircraft, astronomy or local events in the published summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-A second official entry, from 18 August 2001 at 02:10, records a Paisley sighting. The witness described “a red flash” falling from the sky in a wide spiral. That is a vivid image, but again the evidence is only a compressed log note. A red or bright object apparently descending at night can fit several possibilities, including a meteor, re-entering debris, flare-like material, distant aircraft lighting seen at an unusual angle, or a witness’s impression of a short-lived luminous event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+A second official entry, from 18 August 2001 at 02:10, records a Paisley sighting. The witness described “a red flash” falling from the sky in a wide spiral. That is a vivid image, but again the evidence is only a compressed log note. A red or bright object apparently descending at night can fit several possibilities, including a meteor, re-entering debris, flare-like material, distant aircraft lighting seen at an unusual angle, or a witness’s impression of a short-lived luminous event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 These entries matter because they show that Renfrewshire sightings reached the national reporting system. They do not, on their own, show that the objects were extraordinary craft. The MoD logs were essentially a reporting record, not a verdict of mystery. Their value is strongest as a dated public archive of what people said they saw.
 
@@ -711,24 +711,24 @@ These entries matter because they show that Renfrewshire sightings reached the n
 <img src="{{ "/assets/images/Renfrewshire_6a148e-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Renfrewshire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Renfrewshire_6a148e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Renfrewshire_6a148e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Renfrew, Paisley and Greenock show a familiar pattern: lights, movement and uncertainty
 
-The best-known recent local example is the March 2022 Renfrew report covered by Glasgow Live. A member of the public filmed a small yellow light at about 7:25 pm on 3 March, describing it as “shape shifting”; the report said the light appeared to change form after the camera zoomed in and then disappear into haze. Glasgow Live itself floated a sceptical possibility: the effect might have been the camera trying to focus on a bright object in the sky, such as the International Space Station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+The best-known recent local example is the March 2022 Renfrew report covered by Glasgow Live. A member of the public filmed a small yellow light at about 7:25 pm on 3 March, describing it as “shape shifting”; the report said the light appeared to change form after the camera zoomed in and then disappear into haze. Glasgow Live itself floated a sceptical possibility: the effect might have been the camera trying to focus on a bright object in the sky, such as the International Space Station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 
 That is a useful example of how many modern UFO clips should be read. The phrase “shape-shifting” sounds spectacular, but phone zoom, digital sharpening, autofocus hunting, atmospheric haze and low-light compression can all change the apparent shape of a point of light. The sighting may have been genuinely puzzling to the witness while still being weak evidence for anything exotic.
 
-A 2023 Daily Record roundup of Scottish UFO reports included several Renfrewshire-relevant or near-Renfrewshire entries from the previous year: Greenock on 1 March, Renfrew on 3 March, and Greenock again on 18 May. The listed descriptions range from black spheres travelling in a straight line to a small yellow light changing form and intense flashes in the sky. The same list also includes nearby Glasgow sightings, which underlines how reports in this part of Scotland often spill across county, council and media boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+A 2023 Daily Record roundup of Scottish UFO reports included several Renfrewshire-relevant or near-Renfrewshire entries from the previous year: Greenock on 1 March, Renfrew on 3 March, and Greenock again on 18 May. The listed descriptions range from black spheres travelling in a straight line to a small yellow light changing form and intense flashes in the sky. The same list also includes nearby Glasgow sightings, which underlines how reports in this part of Scotland often spill across county, council and media boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
-Local reporting also points to Elderslie as part of the county’s small UFO folklore. A Daily Record result from November 2008 records “UFO sightings” in Elderslie, with two residents said to have contacted a UFO website after seeing glowing orange-coloured objects moving around. Another Daily Record result from the same local cluster mentions orange-coloured shapes and says there had been separate reports in Elderslie and Renfrew. The details available through search snippets are limited, so these should be treated as local claims rather than fully documented cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/ufo-sightings-in-elderslie-2622513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">ufo sightings in elderslie 2622513</span><span class="citation-popover-snippet">ufo sightings in elderslie 2622513</span></span></span>
+Local reporting also points to Elderslie as part of the county’s small UFO folklore. A Daily Record result from November 2008 records “UFO sightings” in Elderslie, with two residents said to have contacted a UFO website after seeing glowing orange-coloured objects moving around. Another Daily Record result from the same local cluster mentions orange-coloured shapes and says there had been separate reports in Elderslie and Renfrew. The details available through search snippets are limited, so these should be treated as local claims rather than fully documented cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/ufo-sightings-in-elderslie-2622513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">ufo sightings in elderslie 2622513</span><span class="citation-popover-snippet">ufo sightings in elderslie 2622513</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K6gpOC4F6FY" title="BREAKING: Massive Fireball Lights Up Europe — Scientists Investigate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K6gpOC4F6FY" target="_blank" rel="noopener noreferrer">BREAKING: Massive Fireball Lights Up Europe — Scientists Investigate</a></p><p class="youtube-embed-meta">Channel: NASA Space News &middot; Views: 29.2K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K6gpOC4F6FY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K6gpOC4F6FY">Open on YouTube</a></p></div></div></div>
 
 ## Why the airport and airfield history matter
 
-Renfrewshire is an unusually aviation-rich county for UFO interpretation. Glasgow Airport sits just north of Paisley, and modern airspace discussions for Glasgow involve arrival and departure routes, controlled airspace and flight-path redesign. The Scottish Airspace Modernisation material says Glasgow Airport is proposing changes to arrival and departure routes using Performance Based Navigation, while Glasgow Airport consultation material refers to aircraft joining network entry and exit points above 7,000 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scottishairspacemodernisation.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishairspacemodernisation.co.uk">[Scottish Airspace Modernisation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishairspacemodernisation.co.uk</span><span class="citation-popover-snippet">Open source on scottishairspacemodernisation.co.uk.</span></span></span>
+Renfrewshire is an unusually aviation-rich county for UFO interpretation. Glasgow Airport sits just north of Paisley, and modern airspace discussions for Glasgow involve arrival and departure routes, controlled airspace and flight-path redesign. The Scottish Airspace Modernisation material says Glasgow Airport is proposing changes to arrival and departure routes using Performance Based Navigation, while Glasgow Airport consultation material refers to aircraft joining network entry and exit points above 7,000 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scottishairspacemodernisation.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishairspacemodernisation.co.uk">[Scottish Airspace Modernisation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishairspacemodernisation.co.uk</span><span class="citation-popover-snippet">Open source on scottishairspacemodernisation.co.uk.</span></span></span>
 
 This does not “explain away” every sighting. It does mean that aircraft lights, approach patterns, holding traffic, helicopters, high-altitude aircraft and changing flight paths should be checked before a Renfrewshire sky report is treated as anomalous. A stationary-looking light can be an aircraft coming almost directly towards the observer. A sudden disappearance can be a turn, cloud, haze, landing-light angle or camera exposure shift. A formation may be multiple aircraft, drones, lanterns or distant lights seen without depth cues.
 
-The county’s aviation history goes back much further than the modern airport. Airfields of Britain Conservation Trust describes Abbotsinch, now Glasgow International Airport, as starting life as an RAF airfield and being home to No. 602 Squadron. Renfrew itself had an earlier airfield history: the Scottish Aviation and STEM Trail says RAF Renfrew may have begun as Moorpark Aerodrome and was used in the First World War period for aircraft manufacture, flying training and aircraft acceptance work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/abbotsinch-glasgow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
+The county’s aviation history goes back much further than the modern airport. Airfields of Britain Conservation Trust describes Abbotsinch, now Glasgow International Airport, as starting life as an RAF airfield and being home to No. 602 Squadron. Renfrew itself had an earlier airfield history: the Scottish Aviation and STEM Trail says RAF Renfrew may have begun as Moorpark Aerodrome and was used in the First World War period for aircraft manufacture, flying training and aircraft acceptance work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/abbotsinch-glasgow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
 
 That history matters less because old RAF sites imply secret UFO activity, and more because aviation is woven into the county’s landscape. In Renfrewshire, the sky has long been a working space. UFO interpretation here should begin with that fact.
 
@@ -736,13 +736,13 @@ That history matters less because old RAF sites imply secret UFO activity, and m
 <img src="{{ "/assets/images/Renfrewshire_6a148e-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Renfrewshire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Renfrewshire_6a148e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Renfrewshire_6a148e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MoD did, and did not, investigate
 
-The UK’s official UFO record is easy to misunderstand. The National Archives says official reporting, analysis and recording of UFO sightings began in the early 1950s; it also notes that, until 1967, MoD policy was to destroy UFO files after five years, which means many earlier records were lost. Since 1970, most surviving MoD UFO files were reviewed for eventual release because of public interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The UK’s official UFO record is easy to misunderstand. The National Archives says official reporting, analysis and recording of UFO sightings began in the early 1950s; it also notes that, until 1967, MoD policy was to destroy UFO files after five years, which means many earlier records were lost. Since 1970, most surviving MoD UFO files were reviewed for eventual release because of public interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 The MoD’s purpose was not to prove or disprove alien visitation for the public. Its central question was whether a report had defence significance. That distinction is important for Renfrewshire: a Paisley or Greenock entry in an MoD list means someone reported something unusual, not that the MoD confirmed an unknown craft.
 
-The closure of the MoD UFO desk in 2009 also shapes how later Renfrewshire reports appear. The National Archives press release on the final tranche of UFO files says the desk received more than 600 sightings in 2009, treble the previous year, and that officials concluded the work served “no defence purpose”. The same release says Defence Minister Bob Ainsworth was told that in more than 50 years no UFO report to the MoD had revealed anything suggesting an extra-terrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The closure of the MoD UFO desk in 2009 also shapes how later Renfrewshire reports appear. The National Archives press release on the final tranche of UFO files says the desk received more than 600 sightings in 2009, treble the previous year, and that officials concluded the work served “no defence purpose”. The same release says Defence Minister Bob Ainsworth was told that in more than 50 years no UFO report to the MoD had revealed anything suggesting an extra-terrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The final 2009 report itself states that from 1 December 2009 the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD. That means modern Renfrewshire sightings are more likely to survive as newspaper stories, social-media posts, aviation-safety records if relevant, or private UFO database entries rather than as MoD casework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The final 2009 report itself states that from 1 December 2009 the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD. That means modern Renfrewshire sightings are more likely to survive as newspaper stories, social-media posts, aviation-safety records if relevant, or private UFO database entries rather than as MoD casework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dZYUzWckOpw" title="Paranormal Patter • The Dechmont Woods UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer">Paranormal Patter • The Dechmont Woods UFO Incident</a></p><p class="youtube-embed-meta">Channel: Jibber Jabber Podcast &middot; Views: 569 &middot; Uploaded: February 2022 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dZYUzWckOpw">Open on YouTube</a></p></div></div></div>
@@ -753,11 +753,11 @@ The Renfrewshire pattern is mostly lights: yellow lights, orange lights, red fla
 
 **Aircraft and airport traffic** are the most obvious candidates around Paisley, Renfrew and the M8 corridor. The county contains or borders busy approach and departure zones, and aircraft can appear to hover when travelling towards the observer or when viewed at long distance.
 
-**Satellites and the International Space Station** are plausible for steady bright lights moving silently across the sky. This was explicitly raised by Glasgow Live in relation to the 2022 Renfrew video, not as a proven answer but as a sensible check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
+**Satellites and the International Space Station** are plausible for steady bright lights moving silently across the sky. This was explicitly raised by Glasgow Live in relation to the 2022 Renfrew video, not as a proven answer but as a sensible check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowlive.co.uk">[Glasgow Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowlive.co.uk</span><span class="citation-popover-title">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span><span class="citation-popover-snippet">Glasgow Live Watch as &#x27;shape-shifting UFO&#x27; captured in skies above Renfrew</span></span></span>
 
-**Meteors and re-entry events** are plausible for short flashes, falling lights or streaks. The Paisley 2001 “red flash” falling in a spiral is not enough to identify, but short-lived luminous descent is the kind of report where meteor, debris or flare-like explanations should be examined before stronger claims are made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Meteors and re-entry events** are plausible for short flashes, falling lights or streaks. The Paisley 2001 “red flash” falling in a spiral is not enough to identify, but short-lived luminous descent is the kind of report where meteor, debris or flare-like explanations should be examined before stronger claims are made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Lanterns, drones and small illuminated objects** are especially relevant to orange or yellow lights moving slowly, clustering, drifting or seeming to form patterns. The National Archives’ UFO video transcript notes a period of reports involving orange ball-shaped phenomena, often in clusters, bobbing around silently and moving in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+**Lanterns, drones and small illuminated objects** are especially relevant to orange or yellow lights moving slowly, clustering, drifting or seeming to form patterns. The National Archives’ UFO video transcript notes a period of reports involving orange ball-shaped phenomena, often in clusters, bobbing around silently and moving in formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 **Camera effects** are central to modern phone footage. A bright point of light filmed at night can bloom, wobble, split, blur, pulse or appear to change shape when zoomed. That does not mean the witness invented the sighting; it means the recording may be showing the limits of the device as much as the behaviour of the object.
 
@@ -767,7 +767,7 @@ The Renfrewshire pattern is mostly lights: yellow lights, orange lights, red fla
 
 Renfrewshire’s UFO evidence is real in the limited sense that reports exist, including official MoD log entries and local press coverage. It is weak in the stronger evidential sense: there is no widely documented Renfrewshire case with a strong public chain of evidence, multiple independent technical records, clear images, radar confirmation, official incident reconstruction and later corroboration.
 
-The 1999 Greenock and 2001 Paisley entries are useful because they are dated and archived. Their weakness is that they are compressed summaries with little context. The 2022 Renfrew video report is useful because it reflects how sightings now circulate through local media, but its own article raises a mundane camera or sky-object explanation. Elderslie and other orange-light stories are locally interesting but thinly sourced in accessible public material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[Daily Record+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 1999 Greenock and 2001 Paisley entries are useful because they are dated and archived. Their weakness is that they are compressed summaries with little context. The 2022 Renfrew video report is useful because it reflects how sightings now circulate through local media, but its own article raises a mundane camera or sky-object explanation. Elderslie and other orange-light stories are locally interesting but thinly sourced in accessible public material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 A fair classification would put Renfrewshire in the “fragmentary local record” category rather than the “landmark UFO case” category. The county has recurring reports worth preserving and comparing, especially because of its aviation setting, but the public evidence does not justify presenting any Renfrewshire sighting as a confirmed extraordinary event.
 
@@ -775,7 +775,7 @@ A fair classification would put Renfrewshire in the “fragmentary local record�
 
 A stronger Renfrewshire UFO case would need more than a striking description. The key upgrade would be independent corroboration: several witnesses in different locations, precise time and direction, original unedited imagery, weather data, aircraft and satellite checks, and any matching aviation-safety or police record. For airport-area cases, the first practical question is whether the object corresponds to known traffic, helicopter activity, drone operations, approach lights, runway direction, or aircraft holding patterns.
 
-For historic cases, the best next evidence would be local newspaper archives, police logs where available, aviation records, and the underlying MoD file if a fuller file exists beyond the annual log. The National Archives’ own guidance makes clear that the surviving MoD record is incomplete, especially before the late 1960s, so absence of a file is not proof that nothing was reported. Equally, the presence of a log entry is not proof that the object remained unexplained after serious investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+For historic cases, the best next evidence would be local newspaper archives, police logs where available, aviation records, and the underlying MoD file if a fuller file exists beyond the annual log. The National Archives’ own guidance makes clear that the surviving MoD record is incomplete, especially before the late 1960s, so absence of a file is not proof that nothing was reported. Equally, the presence of a log entry is not proof that the object remained unexplained after serious investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 Renfrewshire’s place in UK UFO history is therefore best understood as a county of watchable skies rather than settled mysteries: a Clyde and airport-edge landscape where unusual lights are often noticed, sometimes reported, occasionally archived, and usually left without enough evidence to move beyond “unidentified to the witness”.
 
@@ -784,194 +784,194 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Renfrewshire&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Renfrewshire&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are collected, classified and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are collected, classified and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating official UFO reports and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating official UFO reports and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores modern debates around official reporting and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern debates around official reporting and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for placing regional reports into wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for placing regional reports into wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="what-really-happened-in-renfrewshires-what-really-happened-in-renfrewshire-s-ufo-reports-renfrew-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-renfrewshire-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -987,7 +987,7 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1007,7 +1007,7 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1039,7 +1039,7 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1091,7 +1091,7 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1136,7 +1136,7 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1177,279 +1177,279 @@ Renfrewshire’s place in UK UFO history is therefore best understood as a count
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: historiccountiestrust.co.uk  
    Title: Historic Counties Trust  
-   Link: <a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: uk meteor huge flash as fireball lights up skies like a giant firework 12232394  
-   Link: <a href="https://news.sky.com/story/uk-meteor-huge-flash-as-fireball-lights-up-skies-like-a-giant-firework-12232394" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/uk-meteor-huge-flash-as-fireball-lights-up-skies-like-a-giant-firework-12232394</a>  
+   Link:<a href="https://news.sky.com/story/uk-meteor-huge-flash-as-fireball-lights-up-skies-like-a-giant-firework-12232394" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/uk-meteor-huge-flash-as-fireball-lights-up-skies-like-a-giant-firework-12232394</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: annual report 12 13  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annual-report-12-13.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530333" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530333</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530333" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530333</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531310" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531310</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531310" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531310</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531076" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531076</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531076" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531076</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532479" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532479</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532479" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532479</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
    Title: Category:Historic counties of England  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AHistoric_counties_of_England</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gov.scot  
-   Link: <a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/renfrewshire-council-area-map/renfrewshire-council-area-map/govscot%3Adocument/Renfrewshire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/renfrewshire-council-area-map/renfrewshire-council-area-map/govscot%3Adocument/Renfrewshire.pdf</a>  
+   Link:<a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/renfrewshire-council-area-map/renfrewshire-council-area-map/govscot%3Adocument/Renfrewshire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/renfrewshire-council-area-map/renfrewshire-council-area-map/govscot%3Adocument/Renfrewshire.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: boundaries.scot  
    Title: Renfrewshire North Cardonald  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Renfrewshire_North_Cardonald.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Renfrewshire_North_Cardonald.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Renfrewshire_North_Cardonald.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Renfrewshire_North_Cardonald.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: www1.renfrewshire.gov.uk  
-   Link: <a href="https://www1.renfrewshire.gov.uk/media/14701/LDP2021---Map-A-Rural-Area-and-Index-Map/pdf/LDP2021_-_Map_A_Rural_Area_and_Index_Map.pdf?m=1655390161653" target="_blank" rel="noopener noreferrer nofollow">https://www1.renfrewshire.gov.uk/media/14701/LDP2021---Map-A-Rural-Area-and-Index-Map/pdf/LDP2021_-_Map_A_Rural_Area_and_Index_Map.pdf?m=1655390161653</a>  
+   Link:<a href="https://www1.renfrewshire.gov.uk/media/14701/LDP2021---Map-A-Rural-Area-and-Index-Map/pdf/LDP2021_-_Map_A_Rural_Area_and_Index_Map.pdf?m=1655390161653" target="_blank" rel="noopener noreferrer nofollow">https://www1.renfrewshire.gov.uk/media/14701/LDP2021---Map-A-Rural-Area-and-Index-Map/pdf/LDP2021_-_Map_A_Rural_Area_and_Index_Map.pdf?m=1655390161653</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: space.com  
    Title: uk ufo reports soon released  
-   Link: <a href="https://www.space.com/uk-ufo-reports-soon-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/uk-ufo-reports-soon-released.html</a>  
+   Link:<a href="https://www.space.com/uk-ufo-reports-soon-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/uk-ufo-reports-soon-released.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18204695" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18204695</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18204695" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18204695</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: communitygrants.gov.au  
    Title: 6256 vg2016 successful.xlsx  
-   Link: <a href="https://www.communitygrants.gov.au/sites/default/files/documents/2022-08/6256-vg2016-successful.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.communitygrants.gov.au/sites/default/files/documents/2022-08/6256-vg2016-successful.xlsx</a>  
+   Link:<a href="https://www.communitygrants.gov.au/sites/default/files/documents/2022-08/6256-vg2016-successful.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.communitygrants.gov.au/sites/default/files/documents/2022-08/6256-vg2016-successful.xlsx</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Renfrewshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Renfrewshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Renfrewshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Renfrewshire</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: glasgowlive.co.uk  
    Title: Glasgow Live Watch as 'shape-shifting UFO' captured in skies above Renfrew  
-   Link: <a href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410</a>  
+   Link:<a href="https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/watch-shape-shifting-ufo-captured-23284410</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dailyrecord.co.uk  
    Title: ufo sightings in elderslie 2622513  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/ufo-sightings-in-elderslie-2622513" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/ufo-sightings-in-elderslie-2622513</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/ufo-sightings-in-elderslie-2622513" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/ufo-sightings-in-elderslie-2622513</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/stargazer-spots-ufo-2608324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/stargazer-spots-ufo-2608324</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/stargazer-spots-ufo-2608324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/stargazer-spots-ufo-2608324</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scottishairspacemodernisation.co.uk  
-   Link: <a href="https://scottishairspacemodernisation.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://scottishairspacemodernisation.co.uk/</a>  
+   Link:<a href="https://scottishairspacemodernisation.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://scottishairspacemodernisation.co.uk/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/abbotsinch-glasgow/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/abbotsinch-glasgow/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/abbotsinch-glasgow/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/abbotsinch-glasgow/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: glasgowlive.co.uk  
    Title: east renfrewshire ufo spotted sitting 29398406  
-   Link: <a href="https://www.glasgowlive.co.uk/news/east-renfrewshire-ufo-spotted-sitting-29398406" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/east-renfrewshire-ufo-spotted-sitting-29398406</a>  
+   Link:<a href="https://www.glasgowlive.co.uk/news/east-renfrewshire-ufo-spotted-sitting-29398406" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/east-renfrewshire-ufo-spotted-sitting-29398406</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: glasgowlive.co.uk  
    Title: ufo caught video man filming 21094437  
-   Link: <a href="https://www.glasgowlive.co.uk/news/glasgow-news/ufo-caught-video-man-filming-21094437" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/glasgow-news/ufo-caught-video-man-filming-21094437</a>  
+   Link:<a href="https://www.glasgowlive.co.uk/news/glasgow-news/ufo-caught-video-man-filming-21094437" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowlive.co.uk/news/glasgow-news/ufo-caught-video-man-filming-21094437</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/glasgowlive/photos/a-ufo-has-been-pictured-hovering-in-the-sky-above-east-renfrewshire-before-vanis/787981766848498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/glasgowlive/photos/a-ufo-has-been-pictured-hovering-in-the-sky-above-east-renfrewshire-before-vanis/787981766848498/</a>  
+   Link:<a href="https://www.facebook.com/glasgowlive/photos/a-ufo-has-been-pictured-hovering-in-the-sky-above-east-renfrewshire-before-vanis/787981766848498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/glasgowlive/photos/a-ufo-has-been-pictured-hovering-in-the-sky-above-east-renfrewshire-before-vanis/787981766848498/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
    Title: Glasgow Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Glasgow_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glasgow_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Airport</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: glasgow-airport-guide.co.uk  
-   Link: <a href="https://www.glasgow-airport-guide.co.uk/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgow-airport-guide.co.uk/history.html</a>  
+   Link:<a href="https://www.glasgow-airport-guide.co.uk/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgow-airport-guide.co.uk/history.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: glasgowairport.com  
-   Link: <a href="https://www.glasgowairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/</a>  
+   Link:<a href="https://www.glasgowairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowairport.com/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/renfrewshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/renfrewshire/</a>  
+   Link:<a href="https://realcounties.com/county/renfrewshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/renfrewshire/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: dailyrecord.co.uk  
    Title: ufo near miss airliner land glasgow 1862995  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/ufo-near-miss-airliner-land-glasgow-1862995" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/ufo-near-miss-airliner-land-glasgow-1862995</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/ufo-near-miss-airliner-land-glasgow-1862995" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/ufo-near-miss-airliner-land-glasgow-1862995</a>  
 
 ### Additional References
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Paranormal Patter • The Dechmont Woods UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Photo: The Clearest Proof of Aliens or Just Another Hoax? | Wion Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Photo: The Clearest Proof of Aliens or Just Another Hoax? | Wion Podcast...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: Bizarre floating 'UFO' spotted hovering above Glasgow  
-   Link: <a href="https://www.youtube.com/watch?v=o7a3bzOQL5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o7a3bzOQL5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o7a3bzOQL5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o7a3bzOQL5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: ebay.co.uk  
-   Link: <a href="https://www.ebay.co.uk/itm/800079015403?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/800079015403?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
+   Link:<a href="https://www.ebay.co.uk/itm/800079015403?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/800079015403?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: gumtree.com  
-   Link: <a href="https://www.gumtree.com/for-sale/baby-kids-stuff/baby-toys/other-toys/uk/renfrew?baby_kids_stuff_brand=other" target="_blank" rel="noopener noreferrer nofollow">https://www.gumtree.com/for-sale/baby-kids-stuff/baby-toys/other-toys/uk/renfrew?baby_kids_stuff_brand=other</a>  
+   Link:<a href="https://www.gumtree.com/for-sale/baby-kids-stuff/baby-toys/other-toys/uk/renfrew?baby_kids_stuff_brand=other" target="_blank" rel="noopener noreferrer nofollow">https://www.gumtree.com/for-sale/baby-kids-stuff/baby-toys/other-toys/uk/renfrew?baby_kids_stuff_brand=other</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/</a>  
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/</a>  
+   Link:<a href="https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2522150834559755/posts/7145177018923757/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPi58JyCXYe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPi58JyCXYe/</a>  
+   Link:<a href="https://www.instagram.com/reel/DPi58JyCXYe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPi58JyCXYe/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/</a>  
+   Link:<a href="https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: belhaven.co.uk  
-   Link: <a href="https://www.belhaven.co.uk/pubs/renfrewshire/flying-scotsman/deals/burger-of-the-month" target="_blank" rel="noopener noreferrer nofollow">https://www.belhaven.co.uk/pubs/renfrewshire/flying-scotsman/deals/burger-of-the-month</a>  
+   Link:<a href="https://www.belhaven.co.uk/pubs/renfrewshire/flying-scotsman/deals/burger-of-the-month" target="_blank" rel="noopener noreferrer nofollow">https://www.belhaven.co.uk/pubs/renfrewshire/flying-scotsman/deals/burger-of-the-month</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tra5i4/can_anyone_help_explain_this_sighting_hathersage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tra5i4/can_anyone_help_explain_this_sighting_hathersage/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tra5i4/can_anyone_help_explain_this_sighting_hathersage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tra5i4/can_anyone_help_explain_this_sighting_hathersage/</a>  

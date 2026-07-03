@@ -254,42 +254,42 @@ image: /assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-overview-soc
 
 ## Introduction
 
-Modern aerial reports in [Cumberland]({{ 'what-really-happened-in-cumberlands-ufo/' | relative_url }}) look very different from the older “classic UFO” stories. Since the Ministry of Defence stopped taking UFO reports in 2009, local records have become patchier and more practical: short police incident logs, Freedom of Information disclosures, and occasional local media pieces rather than formal defence files. The strongest recent evidence does not show a hidden wave of unexplained craft. It shows a small number of public calls involving lights, possible lanterns, aircraft-like objects, drones, and a few distressed or unusual “alien” reports. Cumbria Constabulary’s 2025 FOI releases are especially useful because they show both what was recorded and how little can be settled from a brief call-handler summary. cdn.nationalarchives.gov.uk+2cumbria.police.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span>
+Modern aerial reports in [Cumberland]({{ 'what-really-happened-in-cumberlands-ufo/' | relative_url }}) look very different from the older “classic UFO” stories. Since the Ministry of Defence stopped taking UFO reports in 2009, local records have become patchier and more practical: short police incident logs, Freedom of Information disclosures, and occasional local media pieces rather than formal defence files. The strongest recent evidence does not show a hidden wave of unexplained craft. It shows a small number of public calls involving lights, possible lanterns, aircraft-like objects, drones, and a few distressed or unusual “alien” reports. Cumbria Constabulary’s 2025 FOI releases are especially useful because they show both what was recorded and how little can be settled from a brief call-handler summary. cdn.nationalarchives.gov.uk+2cumbria.police.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span>
 
 
 <img src="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-overview.webp" | relative_url }}" alt="Overview image for Police Logs" loading="eager" decoding="sync" fetchpriority="high">
-For this page, “Cumberland” means the historic county focus of the wider project, while the police records discussed here are usually held under modern Cumbria. That matters because Cumbria Police records can include places outside historic Cumberland, including Barrow-in-Furness, while the historic-county frame keeps Carlisle, the Solway coast, Workington, Whitehaven and the northern Lake District at the centre of the story. Cumbria itself was created in 1974 from Cumberland, Westmorland and parts of Lancashire and Yorkshire, then replaced administratively in 2023 by Cumberland Council and Westmorland and Furness Council. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-snippet">Open source on cumbriaarchives.org.uk.</span></span></span>
+For this page, “Cumberland” means the historic county focus of the wider project, while the police records discussed here are usually held under modern Cumbria. That matters because Cumbria Police records can include places outside historic Cumberland, including Barrow-in-Furness, while the historic-county frame keeps Carlisle, the Solway coast, Workington, Whitehaven and the northern Lake District at the centre of the story. Cumbria itself was created in 1974 from Cumberland, Westmorland and parts of Lancashire and Yorkshire, then replaced administratively in 2023 by Cumberland Council and Westmorland and Furness Council.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-snippet">Open source on cumbriaarchives.org.uk.</span></span></span>
 
 ## What Cumbria police logs include and exclude
 
-Cumbria Constabulary’s clearest modern UFO disclosure is FOI 304/25, released in April 2025. It covered reports made to Cumbria Police about UFO sightings or alien abduction from 2010 to March 2025. The force disclosed a small table of incidents, not a detailed investigation file: two reports in 2011, one in 2012, one in 2015, one in 2016, one in 2017 and one in 2018. The entries are short descriptions from incident records, not witness interviews, radar checks, aviation traces or scientific assessments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+Cumbria Constabulary’s clearest modern UFO disclosure is FOI 304/25, released in April 2025. It covered reports made to Cumbria Police about UFO sightings or alien abduction from 2010 to March 2025. The force disclosed a small table of incidents, not a detailed investigation file: two reports in 2011, one in 2012, one in 2015, one in 2016, one in 2017 and one in 2018. The entries are short descriptions from incident records, not witness interviews, radar checks, aviation traces or scientific assessments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
-The same disclosure is important because it explains how the data was found. Cumbria Constabulary searched its incident recording database using terms such as UFO, UAP, aliens, extra-terrestrial, saucer, flying object, aerial phenomenon, spaceship and unexplained phenomenon. It also stated that possible drone sightings had been included and that relevant logs were checked subject to an analyst’s interpretation. That is a useful warning: the dataset is not a complete map of strange things seen in the sky. It is a keyword-led extract from police systems designed for incident management, not UFO research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+The same disclosure is important because it explains how the data was found. Cumbria Constabulary searched its incident recording database using terms such as UFO, UAP, aliens, extra-terrestrial, saucer, flying object, aerial phenomenon, spaceship and unexplained phenomenon. It also stated that possible drone sightings had been included and that relevant logs were checked subject to an analyst’s interpretation. That is a useful warning: the dataset is not a complete map of strange things seen in the sky. It is a keyword-led extract from police systems designed for incident management, not UFO research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
-Later FOI answers underline the same limitation. In February 2025, Cumbria Constabulary said it found no 2024 reports within a request that searched for UFO, UAP, UAV, USO, lights in the sky, aliens, extra-terrestrial beings, drones and orbs. In June 2025, a narrower request from January 2024 onwards found one Barrow-in-Furness incident, but it was not really an aerial sighting: the closing summary concerned someone shouting about aliens and being God. The apparent mismatch is not necessarily sinister. It shows how different keywords, date ranges, fields searched and judgement calls can change what an FOI result returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 123 25 ufo uap sightings 2024</span><span class="citation-popover-snippet">foi 123 25 ufo uap sightings 2024</span></span></span>
+Later FOI answers underline the same limitation. In February 2025, Cumbria Constabulary said it found no 2024 reports within a request that searched for UFO, UAP, UAV, USO, lights in the sky, aliens, extra-terrestrial beings, drones and orbs. In June 2025, a narrower request from January 2024 onwards found one Barrow-in-Furness incident, but it was not really an aerial sighting: the closing summary concerned someone shouting about aliens and being God. The apparent mismatch is not necessarily sinister. It shows how different keywords, date ranges, fields searched and judgement calls can change what an FOI result returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 123 25 ufo uap sightings 2024</span><span class="citation-popover-snippet">foi 123 25 ufo uap sightings 2024</span></span></span>
 
-A broader paranormal FOI released in August 2025 makes this even clearer. Cumbria Constabulary said its keyword search may miss records if different words were used or if the words appeared in a different field. It also manually excluded irrelevant matches such as “ghosting” or “alienated”. For UFO history, that is a valuable caution: police logs can prove that a report was made, but they rarely prove what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 1164 25 paranormal and supernatural activity</span><span class="citation-popover-snippet">foi 1164 25 paranormal and supernatural activity</span></span></span>
+A broader paranormal FOI released in August 2025 makes this even clearer. Cumbria Constabulary said its keyword search may miss records if different words were used or if the words appeared in a different field. It also manually excluded irrelevant matches such as “ghosting” or “alienated”. For UFO history, that is a valuable caution: police logs can prove that a report was made, but they rarely prove what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 1164 25 paranormal and supernatural activity</span><span class="citation-popover-snippet">foi 1164 25 paranormal and supernatural activity</span></span></span>
 
 
 <img src="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-1-dark.svg" | relative_url }}" alt="Police Logs illustration 1" data-theme-src-dark="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lanterns, discs, cylinders and coloured lights
 
-The older end of the modern police dataset still uses familiar UFO language. In 2011, one caller looking east of the M6 reported several lights in the sky and was unsure whether they were lanterns or UFOs; another reported a filmed “alien craft” over a house, described as cylindrical objects that hovered and disappeared. In 2015, a caller described a large spinning disc with lights around it, orange lights, a white central light and smaller objects joining it slowly. These are the phrases that sound most like older UFO folklore: discs, cylinders, hovering, sudden disappearance and structured light patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+The older end of the modern police dataset still uses familiar UFO language. In 2011, one caller looking east of the M6 reported several lights in the sky and was unsure whether they were lanterns or UFOs; another reported a filmed “alien craft” over a house, described as cylindrical objects that hovered and disappeared. In 2015, a caller described a large spinning disc with lights around it, orange lights, a white central light and smaller objects joining it slowly. These are the phrases that sound most like older UFO folklore: discs, cylinders, hovering, sudden disappearance and structured light patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
-But the same records also point towards mundane possibilities. The 2011 M6 report included the witness’s own uncertainty about lanterns. Orange lights, silent movement and groups of lights have long been a common source of UK UFO reports, especially during the period when Chinese lanterns became popular at events and celebrations. The Ministry of Defence’s 2008 national UFO report, for example, contains many descriptions of orange lights, glowing balls and silent formations across the UK; one Carlisle entry from that year was not a clear aerial case at all, but a claim that a UFO was seen and that there was an alien in the witness’s house. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+But the same records also point towards mundane possibilities. The 2011 M6 report included the witness’s own uncertainty about lanterns. Orange lights, silent movement and groups of lights have long been a common source of UK UFO reports, especially during the period when Chinese lanterns became popular at events and celebrations. The Ministry of Defence’s 2008 national UFO report, for example, contains many descriptions of orange lights, glowing balls and silent formations across the UK; one Carlisle entry from that year was not a clear aerial case at all, but a claim that a UFO was seen and that there was an alien in the witness’s house.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-By 2016 to 2018, the vocabulary in Cumbria’s police records shifts noticeably. A 2016 caller reported a red and white flashing light moving backwards and forwards between the sea and the fells; the log says the caller was asked whether it could be a drone and accepted that it could be. In 2017, a low object near a property was described first as a plane and possibly a drone, with pink and white lights. In 2018, a “suspicious looking unidentified flying object” was logged as possibly a drone, with green and red flashing lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+By 2016 to 2018, the vocabulary in Cumbria’s police records shifts noticeably. A 2016 caller reported a red and white flashing light moving backwards and forwards between the sea and the fells; the log says the caller was asked whether it could be a drone and accepted that it could be. In 2017, a low object near a property was described first as a plane and possibly a drone, with pink and white lights. In 2018, a “suspicious looking unidentified flying object” was logged as possibly a drone, with green and red flashing lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
-That does not mean every modern sighting is definitely a drone. It means “drone” has become part of the first-pass vocabulary used by witnesses and police. A drone at night can look like a small moving cluster of lights, especially if distance, height and sound are hard to judge. The Civil Aviation Authority’s Drone and Model Aircraft Code now explicitly addresses night flying and says drones or model aircraft flown at night must display a green flashing light to help others see them. That rule makes some modern light reports more likely to be framed as drones, while also making drone identification from a distance less certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+That does not mean every modern sighting is definitely a drone. It means “drone” has become part of the first-pass vocabulary used by witnesses and police. A drone at night can look like a small moving cluster of lights, especially if distance, height and sound are hard to judge. The Civil Aviation Authority’s Drone and Model Aircraft Code now explicitly addresses night flying and says drones or model aircraft flown at night must display a green flashing light to help others see them. That rule makes some modern light reports more likely to be framed as drones, while also making drone identification from a distance less certain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## Why “drone” is not a complete explanation
 
-“Drone” is often a plausible modern explanation, but it is not a magic word that closes a case. A witness who sees lights near trees or over the sea may be right, but they may also be estimating distance, height and speed under poor conditions. A small aircraft, helicopter, distant vehicle lights on high ground, a bright planet seen through broken cloud, a lantern, a balloon, a model aircraft or a drone can all look strange in a short night-time observation. The UK Airprox Board makes a similar point in aviation safety language: fleeting reports can make it hard to distinguish drones, model aircraft and unknown objects, and classification may depend heavily on the wording used by the reporting pilot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[airproxboard.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+“Drone” is often a plausible modern explanation, but it is not a magic word that closes a case. A witness who sees lights near trees or over the sea may be right, but they may also be estimating distance, height and speed under poor conditions. A small aircraft, helicopter, distant vehicle lights on high ground, a bright planet seen through broken cloud, a lantern, a balloon, a model aircraft or a drone can all look strange in a short night-time observation. The UK Airprox Board makes a similar point in aviation safety language: fleeting reports can make it hard to distinguish drones, model aircraft and unknown objects, and classification may depend heavily on the wording used by the reporting pilot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[airproxboard.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
-This matters for Cumberland because many of the likely viewing environments are difficult. The Solway coast, the west Cumbrian shore, the M6 corridor, fell edges and dark rural settlements can create wide sightlines with few reference points. A light moving “from the sea to the fells” may sound dramatic, but without a bearing, elevation, compass direction, weather, duration, photographs, flight-tracking checks or multiple independent witnesses, the log cannot show whether the object was nearby and small or distant and large. The 2016 police entry is a good example: it contains interesting detail, but it ends with uncertainty rather than resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+This matters for Cumberland because many of the likely viewing environments are difficult. The Solway coast, the west Cumbrian shore, the M6 corridor, fell edges and dark rural settlements can create wide sightlines with few reference points. A light moving “from the sea to the fells” may sound dramatic, but without a bearing, elevation, compass direction, weather, duration, photographs, flight-tracking checks or multiple independent witnesses, the log cannot show whether the object was nearby and small or distant and large. The 2016 police entry is a good example: it contains interesting detail, but it ends with uncertainty rather than resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
 The drone era also changes public expectations. In the 1960s or 1970s, a silent light or hovering object might have been described as a UFO, saucer or craft. In the 2010s and 2020s, the same observation may be reported as a drone, possible drone or “plane/drone”. That is not just a change in technology; it is a change in interpretation. The object may be no less unidentified at the moment of the call, but the cultural default has moved from “flying saucer” towards “small unmanned aircraft”.
 
@@ -297,9 +297,9 @@ The drone era also changes public expectations. In the 1960s or 1970s, a silent 
 <img src="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-2-dark.svg" | relative_url }}" alt="Police Logs illustration 2" data-theme-src-dark="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why brief police reports rarely settle a case
 
-Police logs are useful because they are time-stamped institutional records made close to the event. They can show that someone contacted the police, roughly what they said, and sometimes how the call-handler framed the matter. That gives them more evidential value than an unsourced internet anecdote. However, they are usually weak evidence for the object itself. The Cumbria FOI entries do not provide full witness statements, original video, officer observations, aviation checks, meteorological analysis, astronomical comparison or follow-up outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+Police logs are useful because they are time-stamped institutional records made close to the event. They can show that someone contacted the police, roughly what they said, and sometimes how the call-handler framed the matter. That gives them more evidential value than an unsourced internet anecdote. However, they are usually weak evidence for the object itself. The Cumbria FOI entries do not provide full witness statements, original video, officer observations, aviation checks, meteorological analysis, astronomical comparison or follow-up outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
-The 2025 Cumbria FOIs also show how easily a “UFO dataset” can mix different kinds of events. Some entries are classic sky reports. Some are possible drone nuisance or safety reports. Some are not sightings at all, but alien-themed distress or behaviour calls. The August 2025 paranormal disclosure counted keywords across ghosts, demons, aliens, UFO and related terms, producing a broad total that is useful for understanding police-recording patterns but not for proving aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 1164 25 paranormal and supernatural activity</span><span class="citation-popover-snippet">foi 1164 25 paranormal and supernatural activity</span></span></span>
+The 2025 Cumbria FOIs also show how easily a “UFO dataset” can mix different kinds of events. Some entries are classic sky reports. Some are possible drone nuisance or safety reports. Some are not sightings at all, but alien-themed distress or behaviour calls. The August 2025 paranormal disclosure counted keywords across ghosts, demons, aliens, UFO and related terms, producing a broad total that is useful for understanding police-recording patterns but not for proving aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 1164 25 paranormal and supernatural activity</span><span class="citation-popover-snippet">foi 1164 25 paranormal and supernatural activity</span></span></span>
 
 A careful reading therefore separates three categories:
 
@@ -319,7 +319,7 @@ This approach avoids two common mistakes. One is to treat every police entry as 
 
 ## After the MoD desk closed
 
-The Ministry of Defence’s UFO desk closed in November 2009, ending the public route by which many UK sightings had previously gone to Whitehall. National Archives material says the final release covered the build-up to that closure and that the hotline used by the public since 1997 was cancelled. A 2024 parliamentary answer states that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has no plan to create a dedicated team for alleged sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span>
+The Ministry of Defence’s UFO desk closed in November 2009, ending the public route by which many UK sightings had previously gone to Whitehall. National Archives material says the final release covered the build-up to that closure and that the hotline used by the public since 1997 was cancelled. A 2024 parliamentary answer states that the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has no plan to create a dedicated team for alleged sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span>
 
 For Cumberland, that makes local police disclosures more visible than they might otherwise have been. They are not a replacement for the old MOD files, because police forces are not set up to evaluate unidentified aerial phenomena as a scientific or defence category. But they are now one of the few official paper trails left for ordinary members of the public who report strange lights, possible drones or alien-themed incidents.
 
@@ -329,7 +329,7 @@ The consequence is a thinner but more revealing record. It tells us less about w
 <img src="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-3-dark.svg" | relative_url }}" alt="Police Logs illustration 3" data-theme-src-dark="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cumberland_f993d3_police_drone_sightin_ac77eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the modern record really shows
 
-The best supported conclusion is modest. Modern police logs do not show Cumberland as a major UFO hotspot, and they do not provide strong evidence for extraordinary craft. They do show that people in the wider Cumbria policing area have continued to report puzzling lights and objects, and that the language of those reports has moved towards lanterns, aircraft and drones. FOI 304/25 is the strongest single source for that pattern because it preserves the actual spread of terms from 2011 to 2018: lanterns, cylindrical objects, a spinning disc, helicopter-like lights, plane/drone descriptions and coloured flashing lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk+2cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
+The best supported conclusion is modest. Modern police logs do not show Cumberland as a major UFO hotspot, and they do not provide strong evidence for extraordinary craft. They do show that people in the wider Cumbria policing area have continued to report puzzling lights and objects, and that the language of those reports has moved towards lanterns, aircraft and drones. FOI 304/25 is the strongest single source for that pattern because it preserves the actual spread of terms from 2011 to 2018: lanterns, cylindrical objects, a spinning disc, helicopter-like lights, plane/drone descriptions and coloured flashing lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[cumbria.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-title">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-snippet">foi 304 25 ufo sightings 2010 to march 2025</span><span class="citation-popover-meta">Published: march 2025</span></span></span>
 
 For readers interested in Cumberland’s UFO history, these records matter precisely because they are undramatic. They show what happens after a famous case such as the Solway Spaceman has become folklore and after the MOD’s reporting desk has disappeared. The mystery does not vanish, but it becomes bureaucratic, local and ambiguous. A short police entry can keep a sighting from disappearing completely, yet it rarely contains enough evidence to make the leap from “unidentified to the caller” to “unexplained after investigation”.
 
@@ -338,194 +338,194 @@ For readers interested in Cumberland’s UFO history, these records matter preci
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Modern Reports Mostly Drones and Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Modern Reports Mostly Drones and Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page about assessing modern reports, witness testimony, official records, and why brief sightings often remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about assessing modern reports, witness testimony, official records, and why brief sightings often remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for lights, strange aerial reports, and how modern sightings relate to older folklore traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for lights, strange aerial reports, and how modern sightings relate to older folklore traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains sighting classifications and the limits of evidence in many reported aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sighting classifications and the limits of evidence in many reported aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Helps explain how modern reports are interpreted, circulated, and discussed in contemporary society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how modern reports are interpreted, circulated, and discussed in contemporary society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches"><img src="{{ '/assets/images/marketplace-covers/dc10eda6b86e6a4463b0.jpg' | relative_url }}" alt="Listing image for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches"><img src="{{ '/assets/images/marketplace-covers/dc10eda6b86e6a4463b0.jpg' | relative_url }}" alt="Listing image for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars"><img src="{{ '/assets/images/marketplace-covers/b028d6a6f9b6b9500ede.jpg' | relative_url }}" alt="Listing image for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars"><img src="{{ '/assets/images/marketplace-covers/b028d6a6f9b6b9500ede.jpg' | relative_url }}" alt="Listing image for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="police-logs-are-modern-reports-mostly-drones-and-lights-cumberland-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For readers interested in Cumberland’s UFO history, these records matter preci
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For readers interested in Cumberland’s UFO history, these records matter preci
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For readers interested in Cumberland’s UFO history, these records matter preci
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For readers interested in Cumberland’s UFO history, these records matter preci
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For readers interested in Cumberland’s UFO history, these records matter preci
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,186 +731,186 @@ For readers interested in Cumberland’s UFO history, these records matter preci
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cumbria.police.uk  
    Title: foi 304 25 ufo sightings 2010 to march 2025  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf</a>  
    Published: march 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cumbria.police.uk  
    Title: foi 566 25 ufo alien reports  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cumbriaarchives.org.uk  
-   Link: <a href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils</a>  
+   Link:<a href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cumbria.police.uk  
    Title: foi 123 25 ufo uap sightings 2024  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cumbria.police.uk  
    Title: foi 1164 25 paranormal and supernatural activity  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Topical-issues-and-themes/Drones/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cumbria.police.uk  
    Title: foi 455 25 paranormal supernatural reports  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cumbria.police.uk  
    Title: Get Paginated Results  
-   Link: <a href="https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=</a>  
+   Link:<a href="https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: copeland.gov.uk  
-   Link: <a href="https://www.copeland.gov.uk/local-government-reorganisation-information" target="_blank" rel="noopener noreferrer nofollow">https://www.copeland.gov.uk/local-government-reorganisation-information</a>  
+   Link:<a href="https://www.copeland.gov.uk/local-government-reorganisation-information" target="_blank" rel="noopener noreferrer nofollow">https://www.copeland.gov.uk/local-government-reorganisation-information</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cityoflondon.police.uk  
-   Link: <a href="https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.cityoflondon.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cumberland.gov.uk  
-   Link: <a href="https://www.cumberland.gov.uk/cumbria-devolution-consultation/about-cumberland-council" target="_blank" rel="noopener noreferrer nofollow">https://www.cumberland.gov.uk/cumbria-devolution-consultation/about-cumberland-council</a>  
+   Link:<a href="https://www.cumberland.gov.uk/cumbria-devolution-consultation/about-cumberland-council" target="_blank" rel="noopener noreferrer nofollow">https://www.cumberland.gov.uk/cumbria-devolution-consultation/about-cumberland-council</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cumberland.gov.uk  
    Title: local government reorganisation lgr  
-   Link: <a href="https://www.cumberland.gov.uk/housing/housing-strategies/cumberland-housing-strategy-2025-2039/local-government-reorganisation-lgr" target="_blank" rel="noopener noreferrer nofollow">https://www.cumberland.gov.uk/housing/housing-strategies/cumberland-housing-strategy-2025-2039/local-government-reorganisation-lgr</a>  
+   Link:<a href="https://www.cumberland.gov.uk/housing/housing-strategies/cumberland-housing-strategy-2025-2039/local-government-reorganisation-lgr" target="_blank" rel="noopener noreferrer nofollow">https://www.cumberland.gov.uk/housing/housing-strategies/cumberland-housing-strategy-2025-2039/local-government-reorganisation-lgr</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: polperrocommunitycouncil.gov.uk  
    Title: Drone Legislation Police Powers Investigation Advice Full Verson v2.1  
-   Link: <a href="https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf</a>  
+   Link:<a href="https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: yorkshire.guide  
-   Link: <a href="https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain" target="_blank" rel="noopener noreferrer nofollow">https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain</a>  
+   Link:<a href="https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain" target="_blank" rel="noopener noreferrer nofollow">https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cumberland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cumberland</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/543150843682896/posts/1201944897803484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/543150843682896/posts/1201944897803484/</a>  
+   Link:<a href="https://www.facebook.com/groups/543150843682896/posts/1201944897803484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/543150843682896/posts/1201944897803484/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
    Title: f0006923 board meeting notes regarding airprox  
-   Link: <a href="https://www.caa.co.uk/media/txrj1vla/f0006923-board-meeting-notes-regarding-airprox.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/txrj1vla/f0006923-board-meeting-notes-regarding-airprox.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/txrj1vla/f0006923-board-meeting-notes-regarding-airprox.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/txrj1vla/f0006923-board-meeting-notes-regarding-airprox.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
+   Link:<a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/yorkshirepost.newspaper/posts/a-reform-councillor-has-called-for-a-ufo-committee-to-be-established-by-his-coun/1260155036316757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yorkshirepost.newspaper/posts/a-reform-councillor-has-called-for-a-ufo-committee-to-be-established-by-his-coun/1260155036316757/</a>  
+   Link:<a href="https://www.facebook.com/yorkshirepost.newspaper/posts/a-reform-councillor-has-called-for-a-ufo-committee-to-be-established-by-his-coun/1260155036316757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yorkshirepost.newspaper/posts/a-reform-councillor-has-called-for-a-ufo-committee-to-be-established-by-his-coun/1260155036316757/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/coptrz/posts/a-reported-drone-sighting-that-caused-the-closure-of-east-midlands-airport-could/1441896292627784/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coptrz/posts/a-reported-drone-sighting-that-caused-the-closure-of-east-midlands-airport-could/1441896292627784/</a>  
+   Link:<a href="https://www.facebook.com/coptrz/posts/a-reported-drone-sighting-that-caused-the-closure-of-east-midlands-airport-could/1441896292627784/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coptrz/posts/a-reported-drone-sighting-that-caused-the-closure-of-east-midlands-airport-could/1441896292627784/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: co-curate.ncl.ac.uk  
-   Link: <a href="https://co-curate.ncl.ac.uk/cumberland/" target="_blank" rel="noopener noreferrer nofollow">https://co-curate.ncl.ac.uk/cumberland/</a>  
+   Link:<a href="https://co-curate.ncl.ac.uk/cumberland/" target="_blank" rel="noopener noreferrer nofollow">https://co-curate.ncl.ac.uk/cumberland/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: 1066.co.nz  
-   Link: <a href="https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm</a>  
+   Link:<a href="https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dronesaferegister.org.uk  
-   Link: <a href="https://dronesaferegister.org.uk/blog/drone-code-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://dronesaferegister.org.uk/blog/drone-code-in-the-uk</a>  
+   Link:<a href="https://dronesaferegister.org.uk/blog/drone-code-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://dronesaferegister.org.uk/blog/drone-code-in-the-uk</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rafodiham/posts/-drone-wildlife-safety-update-uk-drone-regulations-changed-on-the-1st-january-26/1207977821522791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rafodiham/posts/-drone-wildlife-safety-update-uk-drone-regulations-changed-on-the-1st-january-26/1207977821522791/</a>  
+   Link:<a href="https://www.facebook.com/rafodiham/posts/-drone-wildlife-safety-update-uk-drone-regulations-changed-on-the-1st-january-26/1207977821522791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rafodiham/posts/-drone-wildlife-safety-update-uk-drone-regulations-changed-on-the-1st-january-26/1207977821522791/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: forl.co.uk  
-   Link: <a href="https://forl.co.uk/the-historic-counties-of-cumberland-and-westmorland/" target="_blank" rel="noopener noreferrer nofollow">https://forl.co.uk/the-historic-counties-of-cumberland-and-westmorland/</a>  
+   Link:<a href="https://forl.co.uk/the-historic-counties-of-cumberland-and-westmorland/" target="_blank" rel="noopener noreferrer nofollow">https://forl.co.uk/the-historic-counties-of-cumberland-and-westmorland/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: chroniclelive.co.uk  
-   Link: <a href="https://www.chroniclelive.co.uk/news/north-east-news/crazy-calls-made-north-police-1363058" target="_blank" rel="noopener noreferrer nofollow">https://www.chroniclelive.co.uk/news/north-east-news/crazy-calls-made-north-police-1363058</a>  
+   Link:<a href="https://www.chroniclelive.co.uk/news/north-east-news/crazy-calls-made-north-police-1363058" target="_blank" rel="noopener noreferrer nofollow">https://www.chroniclelive.co.uk/news/north-east-news/crazy-calls-made-north-police-1363058</a>  

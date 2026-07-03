@@ -254,54 +254,54 @@ image: /assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-overview-socia
 
 ## Introduction
 
-[County Down]({{ 'what-really-happened-in-county-downs-ufo/' | relative_url }})’s Ministry of Defence UFO files prove a limited but useful point: unusual aerial sightings were reported from the county and preserved in official UK records, but many entries are too brief to prove much beyond the fact that a report was logged. The public MoD lists are not case files with full investigations, witness interviews, radar traces and final explanations. GOV.UK describes them as reports from 1997 to 2009 showing dates, times, locations and brief sighting descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+[County Down]({{ 'what-really-happened-in-county-downs-ufo/' | relative_url }})’s Ministry of Defence UFO files prove a limited but useful point: unusual aerial sightings were reported from the county and preserved in official UK records, but many entries are too brief to prove much beyond the fact that a report was logged. The public MoD lists are not case files with full investigations, witness interviews, radar traces and final explanations. GOV.UK describes them as reports from 1997 to 2009 showing dates, times, locations and brief sighting descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-overview.webp" | relative_url }}" alt="Overview image for Mo D Logs" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because County Down’s entries include both sparse rows, such as Newtownards reports described only as “A UFO”, and more detailed but still unresolved reports, such as the 2009 Ballynahinch lights. These records are valuable for mapping local UFO reporting, but weak as evidence for extraordinary objects. In this page, “County Down” means the historic county on Ulster’s eastern coast, centred on places such as Downpatrick, Bangor, Newtownards, Strangford Lough and the Mournes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">unty Down</span><span class="citation-popover-snippet">unty Down</span></span></span>
+That distinction matters because County Down’s entries include both sparse rows, such as Newtownards reports described only as “A UFO”, and more detailed but still unresolved reports, such as the 2009 Ballynahinch lights. These records are valuable for mapping local UFO reporting, but weak as evidence for extraordinary objects. In this page, “County Down” means the historic county on Ulster’s eastern coast, centred on places such as Downpatrick, Bangor, Newtownards, Strangford Lough and the Mournes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">unty Down</span><span class="citation-popover-snippet">unty Down</span></span></span>
 
 ## How the official sighting logs work
 
-The MoD logs are best understood as a reporting index. They record what reached the official system, not necessarily what was investigated to conclusion. The annual lists on GOV.UK give a consistent tabular format: date, time, town or village, area, reporter occupation where relevant, and a brief description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That format is useful for public transparency, but it strips away many details that would be needed to judge a sighting properly.
+The MoD logs are best understood as a reporting index. They record what reached the official system, not necessarily what was investigated to conclusion. The annual lists on GOV.UK give a consistent tabular format: date, time, town or village, area, reporter occupation where relevant, and a brief description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That format is useful for public transparency, but it strips away many details that would be needed to judge a sighting properly.
 
-The National Archives gives the broader context for these records. It notes that before the 1960s, the MoD destroyed UFO material after five years, but after public interest increased, sighting reports were retained. It also stresses that the MoD files vary greatly in content, including ordinary sighting correspondence as well as more unusual claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> For County Down, that means the surviving official record is not a neat complete history. It is a partial archive shaped by reporting habits, record-keeping choices and later release decisions.
+The National Archives gives the broader context for these records. It notes that before the 1960s, the MoD destroyed UFO material after five years, but after public interest increased, sighting reports were retained. It also stresses that the MoD files vary greatly in content, including ordinary sighting correspondence as well as more unusual claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> For County Down, that means the surviving official record is not a neat complete history. It is a partial archive shaped by reporting habits, record-keeping choices and later release decisions.
 
-David Clarke’s National Archives research guide adds an important detail about the system behind the public tables. It says the released UFO records include about 220 files covering MoD interest in the subject, and that most, but not all, MoD UFO files from 1962 onwards were preserved and reviewed for transfer to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAUnidentified Flying Objects (UFOs</span><span class="citation-popover-snippet">SHURAUnidentified Flying Objects (UFOs</span></span></span> This helps explain why a public log entry should not be treated as the whole case. In some instances, a fuller questionnaire, correspondence or internal note might have existed; in others, the public table may be all that remains readily accessible to the general reader.
+David Clarke’s National Archives research guide adds an important detail about the system behind the public tables. It says the released UFO records include about 220 files covering MoD interest in the subject, and that most, but not all, MoD UFO files from 1962 onwards were preserved and reviewed for transfer to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAUnidentified Flying Objects (UFOs</span><span class="citation-popover-snippet">SHURAUnidentified Flying Objects (UFOs</span></span></span> This helps explain why a public log entry should not be treated as the whole case. In some instances, a fuller questionnaire, correspondence or internal note might have existed; in others, the public table may be all that remains readily accessible to the general reader.
 
-The MoD’s decision to close its UFO desk in November 2009 also frames the late County Down entries. The final National Archives release described the last years of the desk, from late 2007 until November 2009, and said the files covered government policy, correspondence and the handling of the largest number of UFO sighting reports received since 1978. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The same closure context matters for interpretation: a rise in reports is not automatically a rise in unusual objects. It may also reflect media attention, easier reporting and public curiosity.
+The MoD’s decision to close its UFO desk in November 2009 also frames the late County Down entries. The final National Archives release described the last years of the desk, from late 2007 until November 2009, and said the files covered government policy, correspondence and the handling of the largest number of UFO sighting reports received since 1978.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The same closure context matters for interpretation: a rise in reports is not automatically a rise in unusual objects. It may also reflect media attention, easier reporting and public curiosity.
 
 
 <img src="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Logs illustration 1" data-theme-src-dark="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Newtownards and the problem of two-word evidence
 
-The Newtownards entries show the weakness of much local UFO evidence in its starkest form. In the 2008 MoD table, a row with no firm date, no stated time and the area “County Down” gives the description simply as “A UFO”; immediately beside it, Newtownards, County Down, is also described only as “A UFO”, with the message taken on 6 May 2008. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> A later 2008 row repeats the pattern: no firm date, no stated time, Newtownards, County Down, and again the description “A UFO”, with the message taken on 2 July 2008. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+The Newtownards entries show the weakness of much local UFO evidence in its starkest form. In the 2008 MoD table, a row with no firm date, no stated time and the area “County Down” gives the description simply as “A UFO”; immediately beside it, Newtownards, County Down, is also described only as “A UFO”, with the message taken on 6 May 2008.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> A later 2008 row repeats the pattern: no firm date, no stated time, Newtownards, County Down, and again the description “A UFO”, with the message taken on 2 July 2008.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 Those rows are official records, but they are not strong sighting evidence. They do not say what was seen, how long it lasted, where in the sky it appeared, whether it moved, whether it made sound, whether there were other witnesses, or whether the observer considered aircraft, stars, planets, lanterns or weather effects. For a reader looking for proof, they are frustrating. For a local UFO history project, they are still useful because they show that Newtownards entered the official reporting stream.
 
 The most honest interpretation is therefore modest. The Newtownards rows confirm that reports were made or received. They do not confirm an unknown craft over Newtownards, and they do not give enough information for a meaningful explanation. This is the central problem with weak local records: they can be documented without being evidentially strong.
 
-The same 2008 table also shows that this was not a special County Down weakness. Around the same section of the log, many UK entries are similarly thin, including rows described simply as “A UFO”, “A sighting”, or short phrases about lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> That comparison prevents over-reading the County Down material. The thinness is a feature of the public MoD list format and late-stage public reporting, not necessarily a sign of hidden significance.
+The same 2008 table also shows that this was not a special County Down weakness. Around the same section of the log, many UK entries are similarly thin, including rows described simply as “A UFO”, “A sighting”, or short phrases about lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> That comparison prevents over-reading the County Down material. The thinness is a feature of the public MoD list format and late-stage public reporting, not necessarily a sign of hidden significance.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uHLRqxEmwks" title="2010: UFO Files Released by UK Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer">2010: UFO Files Released by UK Government</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uHLRqxEmwks">Open on YouTube</a></p></div></div></div>
 
-## Ballynahinch gives more detail, but not a solution
+## Ballynahinch gives, but not a solution
 
-The 2009 Ballynahinch entry is more useful because it contains an actual observation rather than a bare label. The MoD table records a sighting on 30 May 2009 at 23:30 in Ballynahinch, County Down: “Three distinct sets of green, orange and white lights” that the witness said did not match any constellation and were in the wrong place. The lights appeared static to the eye, but through binoculars were said to be moving at speed and at random. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 Ballynahinch entry is more useful because it contains an actual observation rather than a bare label. The MoD table records a sighting on 30 May 2009 at 23:30 in Ballynahinch, County Down: “Three distinct sets of green, orange and white lights” that the witness said did not match any constellation and were in the wrong place. The lights appeared static to the eye, but through binoculars were said to be moving at speed and at random.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That description gives a reader something to work with. It includes a precise date, time, place, colours, number of light groups and an important observing detail: the difference between naked-eye appearance and binocular viewing. Compared with the Newtownards rows, it is a much stronger entry for local analysis.
 
 Even so, the Ballynahinch record remains unresolved in the weak sense of the word. The public log does not provide direction, elevation, weather, horizon features, duration, aircraft checks, satellite checks, astronomical conditions, independent witness statements or a follow-up conclusion. The witness’s statement that the lights did not match a constellation is relevant, but not decisive. Many ordinary sky objects can look unfamiliar when seen low on the horizon, through binocular shake, through broken cloud, or without a fixed reference point.
 
-The important lesson is that more detail does not automatically mean a strong case. Ballynahinch is worth preserving in County Down’s UFO map because it is specific and locally placed. It is not enough, on its own, to support a claim of anything beyond an unexplained sighting report.
+The important lesson is that does not automatically mean a strong case. Ballynahinch is worth preserving in County Down’s UFO map because it is specific and locally placed. It is not enough, on its own, to support a claim of anything beyond an unexplained sighting report.
 
 
 <img src="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Logs illustration 2" data-theme-src-dark="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Down_8f4eb4_mod_sighting_logs_28fe32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Boundary errors and the Newtownhamilton warning
 
-One of the most useful things the MoD logs teach is that local geography needs checking. A late 2008 entry lists Newtownhamilton under County Down and describes “one circle of bright light” as high as a telegraph pole, seen for 30 minutes, moving towards and away from a vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> On the face of it, that looks like a County Down row with more detail than the Newtownards entries.
+One of the most useful things the MoD logs teach is that local geography needs checking. A late 2008 entry lists Newtownhamilton under County Down and describes “one circle of bright light” as high as a telegraph pole, seen for 30 minutes, moving towards and away from a vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> On the face of it, that looks like a County Down row with than the Newtownards entries.
 
-The difficulty is that Newtownhamilton is not straightforwardly a historic County Down place. The Gazetteer of British Place Names lists Newtownhamilton civil parish in historic County Armagh, while also placing it within the modern Newry, Mourne and Down council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Newtownhamilton_CP%2C_Armagh_321493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> That difference matters because this project uses historic county geography, while public records and modern news reports may use council areas, broad regional labels or administrative shorthand.
+The difficulty is that Newtownhamilton is not straightforwardly a historic County Down place. The Gazetteer of British Place Names lists Newtownhamilton civil parish in historic County Armagh, while also placing it within the modern Newry, Mourne and Down council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Newtownhamilton_CP%2C_Armagh_321493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> That difference matters because this project uses historic county geography, while public records and modern news reports may use council areas, broad regional labels or administrative shorthand.
 
 The Newtownhamilton row should not be discarded, because it shows how the MoD table classified or received the report. But it should be treated carefully. For a historic County Down page, it is better understood as a boundary-warning entry than as core County Down evidence. It shows how a UFO dataset can look more precise than it really is when place labels are copied into a table without explaining the geographic system behind them.
 
@@ -312,9 +312,9 @@ This matters across the County Down branch. Sightings near Newry, Belfast, Armag
 
 ## Local records after the MoD desk closed
 
-The MoD stopped inviting public UFO reports when its UFO desk closed in November 2009, but that did not end local reporting. Later Northern Ireland records show the same problem in another form: reports continue, but the public summaries are often too thin to prove much. The Police Service of Northern Ireland’s own FOI disclosure log for 2024 says there were four reported UFO or unexplained sightings that year, with details listed in response to questions about number, location and what was reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+The MoD stopped inviting public UFO reports when its UFO desk closed in November 2009, but that did not end local reporting. Later Northern Ireland records show the same problem in another form: reports continue, but the public summaries are often too thin to prove much. The Police Service of Northern Ireland’s own FOI disclosure log for 2024 says there were four reported UFO or unexplained sightings that year, with details listed in response to questions about number, location and what was reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
-Earlier press coverage of PSNI figures shows how such reports can attract public attention while remaining evidentially weak. In 2021, The Guardian reported that PSNI records included categories such as UFOs, aerial phenomena and lights in the sky, and described reports including a dome-shaped object with eight lights in the Saintfield area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span> The Journal also reported that PSNI received eight alleged UFO sighting reports in 2021, including mysterious discs, strange images on CCTV and unexplained lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">The Journal.ie Reports of unexplained sightings in skies above Northern</span><span class="citation-popover-snippet">The Journal.ie Reports of unexplained sightings in skies above Northern</span></span></span>
+Earlier press coverage of PSNI figures shows how such reports can attract public attention while remaining evidentially weak. In 2021, The Guardian reported that PSNI records included categories such as UFOs, aerial phenomena and lights in the sky, and described reports including a dome-shaped object with eight lights in the Saintfield area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span><span class="citation-popover-snippet">The Guardian&#x27;Aliens in bedroom&#x27;: UFO sightings on the rise in Northern</span></span></span> The Journal also reported that PSNI received eight alleged UFO sighting reports in 2021, including mysterious discs, strange images on CCTV and unexplained lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">The Journal.ie Reports of unexplained sightings in skies above Northern</span><span class="citation-popover-snippet">The Journal.ie Reports of unexplained sightings in skies above Northern</span></span></span>
 
 These later records are useful continuity rather than stronger proof. They show that unusual-sky reporting did not vanish after the MoD desk closed; it shifted into police FOI records, local news and public databases. But they also show the same evidential ceiling. A short police or press summary may preserve a location and a claim, but it usually lacks the kind of technical follow-up needed to separate aircraft, lanterns, drones, astronomical objects, reflections, camera artefacts and genuinely puzzling observations.
 
@@ -326,9 +326,9 @@ For County Down, Saintfield and Downpatrick-style reports belong in the wider lo
 
 The word “unresolved” can be misleading. In everyday reading, it may sound like a mystery that defeated investigators. In many County Down entries, it simply means the public record does not include enough information to resolve the report. A row that says “A UFO” is unresolved because it is almost empty, not because ordinary explanations have been carefully ruled out.
 
-The National Archives’ overview helps keep this in proportion. It says many UFO reports describe shapes, lights and flashes, and that the files include possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> Those are exactly the kinds of explanations that would need checking for County Down sightings, especially where the reports involve coloured lights, silent movement, apparent hovering or uncertain height.
+The National Archives’ overview helps keep this in proportion. It says many UFO reports describe shapes, lights and flashes, and that the files include possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> Those are exactly the kinds of explanations that would need checking for County Down sightings, especially where the reports involve coloured lights, silent movement, apparent hovering or uncertain height.
 
-The late-2000s context adds another ordinary explanation: lanterns. The final UFO desk release described a surge of reports in the last years of the MoD desk, and other MoD-era commentary linked many orange-light reports with Chinese lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The 2009 public log itself includes an entry from Bradford where police checked with air traffic control, were told there was nothing, and suspected Chinese lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That does not explain Ballynahinch or Newtownards by itself, but it shows the kind of pattern investigators had to consider during the same reporting period.
+The late-2000s context adds another ordinary explanation: lanterns. The final UFO desk release described a surge of reports in the last years of the MoD desk, and other MoD-era commentary linked many orange-light reports with Chinese lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The 2009 public log itself includes an entry from Bradford where police checked with air traffic control, were told there was nothing, and suspected Chinese lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That does not explain Ballynahinch or Newtownards by itself, but it shows the kind of pattern investigators had to consider during the same reporting period.
 
 A good County Down assessment therefore asks a narrower question than “Was this alien?” It asks: what exactly was reported, how precise is the record, what ordinary explanations remain plausible, and what independent evidence would be needed to move the case from logged report to stronger evidence?
 
@@ -344,194 +344,194 @@ The strongest use of these files is not to build a dramatic claim, but to discip
 For readers following County Down’s wider UFO history, these logs are a starting point, not a verdict. They point towards places, dates and witness claims worth checking against local newspapers, aviation records, weather, astronomy, coastguard or police material. On their own, they prove a reporting history. They do not prove extraordinary objects over County Down.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do County Down&#x27;s UFO Files Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do County Down&#x27;s UFO Files Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers distinguish logged reports, unexplained cases, and evidential strength.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish logged reports, unexplained cases, and evidential strength.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broadens official-record interest into government, pilot, and military witness material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens official-record interest into government, pilot, and military witness material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly aligns with the page&#x27;s focus on Ministry of Defence sighting logs and what they do or do not prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with the page&#x27;s focus on Ministry of Defence sighting logs and what they do or do not prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to understanding how official UFO reporting systems collect claims without necessarily resolving them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to understanding how official UFO reporting systems collect claims without necessarily resolving them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mo-d-logs-0aa568-what-do-county-down-s-ufo-files-prove-county-down-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-county-down-s-ufo-files-prove-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ For readers following County Down’s wider UFO history, these logs are a starti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ For readers following County Down’s wider UFO history, these logs are a starti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ For readers following County Down’s wider UFO history, these logs are a starti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ For readers following County Down’s wider UFO history, these logs are a starti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ For readers following County Down’s wider UFO history, these logs are a starti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,227 +737,227 @@ For readers following County Down’s wider UFO history, these logs are a starti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAUnidentified Flying Objects (UFOs)  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: psni.police.uk  
    Title: PSNIUFO Sightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thejournal.ie  
    Title: The Journal.ie Reports of unexplained sightings in skies above Northern  
-   Link: <a href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/</a>  
+   Link:<a href="https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/unexplained-sightings-northern-ireland-ufo-5640611-Dec2021/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: place names within the united kingdom  
-   Link: <a href="https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom</a>  
+   Link:<a href="https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/place-names-of-the-united-kingdom/place-names-within-the-united-kingdom</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/10/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/10/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: unty Down  
-   Link: <a href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Down</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Down</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Newtownhamilton_CP%2C_Armagh_321493" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Newtownhamilton_CP%2C_Armagh_321493</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Newtownhamilton_CP%2C_Armagh_321493" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Newtownhamilton_CP%2C_Armagh_321493</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: The Guardian'Aliens in bedroom': UFO sightings on the rise in Northern  
-   Link: <a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
+   Link:<a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gazetteerGB/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gazetteerGB/</a>  
+   Link:<a href="https://www.facebook.com/gazetteerGB/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gazetteerGB/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: County Down  
-   Link: <a href="https://en.wikipedia.org/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Down</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Down</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cortamlet%2C_Armagh_321713" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cortamlet%2C_Armagh_321713</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cortamlet%2C_Armagh_321713" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cortamlet%2C_Armagh_321713</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/</a>  
+   Link:<a href="https://gazetteer.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Downpatrick</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Downpatrick" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Downpatrick</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: shura.shu.ac.uk  
    Title: Robinson Photographic Analysis Version5(Vo R)  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: shura.shu.ac.uk  
    Title: Clarke Want To Believe(AM)  
-   Link: <a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: shura.shu.ac.uk  
    Title: Rodgers 2022 PhD WyrdTvFolklore  
-   Link: <a href="https://shura.shu.ac.uk/31070/1/Rodgers_2022_PhD_WyrdTvFolklore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31070/1/Rodgers_2022_PhD_WyrdTvFolklore.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/31070/1/Rodgers_2022_PhD_WyrdTvFolklore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31070/1/Rodgers_2022_PhD_WyrdTvFolklore.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: en.wikivoyage.org  
    Title: County Down  
-   Link: <a href="https://en.wikivoyage.org/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Down</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/County_Down" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Down</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: irishbiogeographicalsociety.com  
-   Link: <a href="https://irishbiogeographicalsociety.com/pdf/BulletinIrishBiogeographicalSociety34-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://irishbiogeographicalsociety.com/pdf/BulletinIrishBiogeographicalSociety34-2010.pdf</a>  
+   Link:<a href="https://irishbiogeographicalsociety.com/pdf/BulletinIrishBiogeographicalSociety34-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://irishbiogeographicalsociety.com/pdf/BulletinIrishBiogeographicalSociety34-2010.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/county_down/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_down/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/county_down/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_down/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/multimedia/archive/03605/Telegraph1916_2705_3605779a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03605/Telegraph1916_2705_3605779a.pdf</a>  
+   Link:<a href="https://www.telegraph.co.uk/multimedia/archive/03605/Telegraph1916_2705_3605779a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03605/Telegraph1916_2705_3605779a.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BelfastCoastguard/videos/hm-coastguard-is-one-of-the-four-uk-emergency-services-yesterday-we-looked-at-co/1393664644152984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BelfastCoastguard/videos/hm-coastguard-is-one-of-the-four-uk-emergency-services-yesterday-we-looked-at-co/1393664644152984/</a>  
+   Link:<a href="https://www.facebook.com/BelfastCoastguard/videos/hm-coastguard-is-one-of-the-four-uk-emergency-services-yesterday-we-looked-at-co/1393664644152984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BelfastCoastguard/videos/hm-coastguard-is-one-of-the-four-uk-emergency-services-yesterday-we-looked-at-co/1393664644152984/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: irelandxo.com  
-   Link: <a href="https://irelandxo.com/ireland/armagh/newtownhamilton-armagh" target="_blank" rel="noopener noreferrer nofollow">https://irelandxo.com/ireland/armagh/newtownhamilton-armagh</a>  
+   Link:<a href="https://irelandxo.com/ireland/armagh/newtownhamilton-armagh" target="_blank" rel="noopener noreferrer nofollow">https://irelandxo.com/ireland/armagh/newtownhamilton-armagh</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/irl/ARM/Newtownhamilton" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/irl/ARM/Newtownhamilton</a>  
+   Link:<a href="https://www.genuki.org.uk/big/irl/ARM/Newtownhamilton" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/irl/ARM/Newtownhamilton</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
+   Link:<a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/belfastnewsletter/posts/ufo-sightings-three-orange-lights-in-the-sky-as-objects-are-reported-in-belfast-/1472233531571972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/belfastnewsletter/posts/ufo-sightings-three-orange-lights-in-the-sky-as-objects-are-reported-in-belfast-/1472233531571972/</a>  
+   Link:<a href="https://www.facebook.com/belfastnewsletter/posts/ufo-sightings-three-orange-lights-in-the-sky-as-objects-are-reported-in-belfast-/1472233531571972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/belfastnewsletter/posts/ufo-sightings-three-orange-lights-in-the-sky-as-objects-are-reported-in-belfast-/1472233531571972/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uHLRqxEmwks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 3 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uHLRqxEmwks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uHLRqxEmwks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 3 (audio with slides)...</p></details>
    Published: May 2008  

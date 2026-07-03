@@ -118,9 +118,9 @@ heading_title: What Really Happened in Westmorland Skies?
 page_heading_title: What Really Happened in Westmorland Skies?
 source_count: 139
 infographic_count: 3
-page_website_name: Westmorland UFOs
+page_website_name: Westmorland
 page_banner_line: Balanced county-level UFO history from fells, files and local reports.
-site_website_name: Westmorland UFOs
+site_website_name: Westmorland
 site_banner_line: Balanced county-level UFO history from fells, files and local reports.
 site_image_description: A quiet fell road near Kendal at dusk with broad hills, low cloud, and a small unexplained light above the horizon.
 output_language: English
@@ -689,35 +689,35 @@ image: /assets/images/Westmorland_dec0c1-overview-social.jpg
 
 ## Which Westmorland is meant here?
 
-This page uses Westmorland in its historic county sense. That matters because modern Cumbria, and now the Westmorland and Furness unitary authority, do not map cleanly onto the old county. Wikishire’s historic-county mapping places Westmorland between Cumberland, Lancashire, Yorkshire and County Durham, with Appleby as the county town and Kendal, Windermere, Kirkby Stephen, Ambleside and Kirkby Lonsdale among its notable places. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Westmorland</span><span class="citation-popover-snippet">Wikishire Westmorland</span></span></span>
+This page uses Westmorland in its historic county sense. That matters because modern Cumbria, and now the Westmorland and Furness unitary authority, do not map cleanly onto the old county. Wikishire’s historic-county mapping places Westmorland between Cumberland, Lancashire, Yorkshire and County Durham, with Appleby as the county town and Kendal, Windermere, Kirkby Stephen, Ambleside and Kirkby Lonsdale among its notable places.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Westmorland</span><span class="citation-popover-snippet">Wikishire Westmorland</span></span></span>
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Westmorland Skies?" loading="eager" decoding="sync" fetchpriority="high">
-The administrative picture changed sharply in the twentieth and twenty-first centuries. Cumbria Archives records that the Local Government Act 1972 created Cumbria from Cumberland, Westmorland and parts of Lancashire and the West Riding of Yorkshire, with Cumbria County Council succeeding Westmorland and Cumberland on 1 April 1974. It also records the 2023 replacement of Cumbria County Council by Cumberland Council and Westmorland and Furness Council. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-title">County Councils &#124; Cumbria Archives</span><span class="citation-popover-snippet">County Councils &#124; Cumbria Archives</span></span></span>
+The administrative picture changed sharply in the twentieth and twenty-first centuries. Cumbria Archives records that the Local Government Act 1972 created Cumbria from Cumberland, Westmorland and parts of Lancashire and the West Riding of Yorkshire, with Cumbria County Council succeeding Westmorland and Cumberland on 1 April 1974. It also records the 2023 replacement of Cumbria County Council by Cumberland Council and Westmorland and Furness Council.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-title">County Councils &#124; Cumbria Archives</span><span class="citation-popover-snippet">County Councils &#124; Cumbria Archives</span></span></span>
 
 For UFO research this is not a pedantic distinction. Many press reports and MoD lists use “Cumbria”, while historic-county projects need to ask whether a sighting was in old Westmorland, old Cumberland, Lancashire north of the sands, or Yorkshire territory later folded into Cumbria. A “Cumbria UFO” headline may therefore be relevant context without being a Westmorland case.
 
 ## What the official UFO files do — and do not — show
 
-The strongest public archive for British UFO reporting is not local folklore but the Ministry of Defence and National Archives material. GOV.UK hosts annual MoD UFO report lists from 1997 to 2009, giving dates, times, locations and short descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> The National Archives research guide explains that different Air Ministry and MoD branches handled UFO matters over time, including DDI (Tech), S6 (Air), S4 (Air), DI55 and later secretariat offices. It also notes that more than 11,000 UFO reports were logged by MoD branches between 1959 and 2007. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The strongest public archive for British UFO reporting is not local folklore but the Ministry of Defence and National Archives material. GOV.UK hosts annual MoD UFO report lists from 1997 to 2009, giving dates, times, locations and short descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> The National Archives research guide explains that different Air Ministry and MoD branches handled UFO matters over time, including DDI (Tech), S6 (Air), S4 (Air), DI55 and later secretariat offices. It also notes that more than 11,000 UFO reports were logged by MoD branches between 1959 and 2007.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-That archive is valuable, but it is not the same as proof of unusual craft. The National Archives guide quotes a 1967 MoD briefing stating that statistical analysis of reports since 1959 had found no evidence suggesting anything other than mundane explanations. The same guide also summarises the US Condon Report findings used in British policy discussions, including the view that about 90% of UFO reports were plausibly related to ordinary phenomena and that UFO sightings had not shown a defence hazard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+That archive is valuable, but it is not the same as proof of unusual craft. The National Archives guide quotes a 1967 MoD briefing stating that statistical analysis of reports since 1959 had found no evidence suggesting anything other than mundane explanations. The same guide also summarises the US Condon Report findings used in British policy discussions, including the view that about 90% of UFO reports were plausibly related to ordinary phenomena and that UFO sightings had not shown a defence hazard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The MoD’s own reporting system also came to an end. The 2009 MoD UFO report list states that from 1 December 2009 the department no longer recorded or investigated UFO sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> A National Archives press release on the final file release says the UFO desk closed after officials concluded that the work served no defence purpose, while 2009 reports had risen sharply and were consuming time and resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The MoD’s own reporting system also came to an end. The 2009 MoD UFO report list states that from 1 December 2009 the department no longer recorded or investigated UFO sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> A National Archives press release on the final file release says the UFO desk closed after officials concluded that the work served no defence purpose, while 2009 reports had risen sharply and were consuming time and resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Westmorland Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Westmorland_dec0c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Westmorland_dec0c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The nearest official-style case: a silver cylinder between Mealrigg and Langrigg
 
-The most striking MoD-listed report often pulled into wider Cumbrian UFO roundups is dated 6 February 2009 at 17:30. The entry says the sighting occurred “between Mealrigg and Langrigg, Cumbria” and describes “a clearly defined, shiny silvery metallic cylinder with rounded ends”, estimated at 50 feet long, with a small protrusion on the upper rear body, making no sound and showing no visible emissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The most striking MoD-listed report often pulled into wider Cumbrian UFO roundups is dated 6 February 2009 at 17:30. The entry says the sighting occurred “between Mealrigg and Langrigg, Cumbria” and describes “a clearly defined, shiny silvery metallic cylinder with rounded ends”, estimated at 50 feet long, with a small protrusion on the upper rear body, making no sound and showing no visible emissions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 As a UFO account, this is more interesting than a vague “orange light” report because it claims shape, surface, size, silence and structure. But it is also thin. The public list gives no witness name, no duration, no direction of travel, no weather conditions, no altitude estimate, no photographs, no radar correlation and no follow-up investigation. In evidential terms, it is an unresolved report, not a demonstrated anomalous aircraft.
 
-It also illustrates the boundary problem. Mealrigg and Langrigg are in the Allerdale/Solway side of Cumbria, historically Cumberland rather than Westmorland. For a Westmorland page, the case is useful because it shows the type of official report circulating in the wider Cumbrian skywatching environment, but it should not be misfiled as a Westmorland incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+It also illustrates the boundary problem. Mealrigg and Langrigg are in the Allerdale/Solway side of Cumbria, historically Cumberland rather than Westmorland. For a Westmorland page, the case is useful because it shows the type of official report circulating in the wider Cumbrian skywatching environment, but it should not be misfiled as a Westmorland incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 ## Kendal, Sizergh and the problem of local UFO stories
 
-Kendal is one of the best-known Westmorland places and naturally appears in local UFO curiosity. A Westmorland Gazette social-media post from October 2022 referred to a Kendal man claiming a mysterious sighting on Sizergh Fell, linking to a local article under the wording “kendal-man-witnesses-ufo-sizergh-fell”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/westmorlandgazette/posts/a-kendal-man-has-claimed-he-witnessed-a-mysterious-sighting-on-the-top-of-sizerg/10161980998998572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+Kendal is one of the best-known Westmorland places and naturally appears in local UFO curiosity. A Westmorland Gazette social-media post from October 2022 referred to a Kendal man claiming a mysterious sighting on Sizergh Fell, linking to a local article under the wording “kendal-man-witnesses-ufo-sizergh-fell”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/westmorlandgazette/posts/a-kendal-man-has-claimed-he-witnessed-a-mysterious-sighting-on-the-top-of-sizerg/10161980998998572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
 That is enough to show that UFO stories still enter local Westmorland media culture, but not enough to treat the incident as established. The publicly accessible trace found in search results gives a headline-level claim rather than a full evidential record. Without the original article text, witness statement, images, date, direction, duration and checking against aircraft, satellites, drones, astronomy and weather, the Sizergh Fell item should be classed as weakly documented.
 
@@ -728,25 +728,25 @@ Sizergh is nevertheless a credible place for misidentification-prone sightings. 
 
 ## The Kendal “UFO clouds” case shows why explanation matters
 
-One of the clearest Westmorland-area examples is not a spacecraft report but a solved-looking “UFO” visual. In June 2020, LancsLive reported that residents in Kendal saw around five UFO-like clouds over Benson Knott, identifying the curved formations as [lenticular clouds]({{ 'ufo-clouds/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancs.live/news/local-news/ufo-clouds-spotted-over-kendal-18382341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancs.live">[lancs.live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancs.live</span><span class="citation-popover-title">ufo clouds spotted over kendal 18382341</span><span class="citation-popover-snippet">ufo clouds spotted over kendal 18382341</span></span></span>
+One of the clearest Westmorland-area examples is not a spacecraft report but a solved-looking “UFO” visual. In June 2020, LancsLive reported that residents in Kendal saw around five UFO-like clouds over Benson Knott, identifying the curved formations as [lenticular clouds]({{ 'ufo-clouds/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lancs.live/news/local-news/ufo-clouds-spotted-over-kendal-18382341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lancs.live">[lancs.live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lancs.live</span><span class="citation-popover-title">ufo clouds spotted over kendal 18382341</span><span class="citation-popover-snippet">ufo clouds spotted over kendal 18382341</span></span></span>
 
-That explanation fits the landscape. The Met Office describes lenticular clouds as signs of mountain waves in the air. They are associated with air flowing over terrain and can look smooth, layered and saucer-like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span> Around Westmorland, where fells, passes, valleys and lakes shape the airflow, this is not an exotic explanation but a local one.
+That explanation fits the landscape. The Met Office describes lenticular clouds as signs of mountain waves in the air. They are associated with air flowing over terrain and can look smooth, layered and saucer-like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span> Around Westmorland, where fells, passes, valleys and lakes shape the airflow, this is not an exotic explanation but a local one.
 
 The Kendal cloud report matters because it gives readers a practical rule: not every “UFO-shaped” object is a UFO report in the investigative sense. Some are simply striking weather forms. The same place that makes Westmorland visually dramatic also makes it good at producing atmospheric effects that can feel uncanny when seen briefly or photographed from a distance.
 
 ## Why Westmorland produces scattered sightings rather than a famous flap
 
-The county’s geography is part of the answer. Historic Westmorland is mountainous and rural, with the Eden Valley in the north, Lake District fells in the west, Kendal and the Kent valley in the south, and Pennine approaches to the east. Wikishire describes Westmorland as a mountainous shire and notes that its western half lies within the Lake District National Park. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Westmorland</span><span class="citation-popover-snippet">Wikishire Westmorland</span></span></span>
+The county’s geography is part of the answer. Historic Westmorland is mountainous and rural, with the Eden Valley in the north, Lake District fells in the west, Kendal and the Kent valley in the south, and Pennine approaches to the east. Wikishire describes Westmorland as a mountainous shire and notes that its western half lies within the Lake District National Park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Westmorland</span><span class="citation-popover-snippet">Wikishire Westmorland</span></span></span>
 
 Those conditions can increase skywatching opportunities: dark horizons, open fell views, tourism, walkers outdoors at dusk, and isolated roads where a single light can seem more dramatic. But they do not automatically create strong evidence. Rural sightings often lack multiple independent observers, precise timing, video, radar confirmation or immediate official investigation.
 
-The wider MoD pattern also weakens any claim that Westmorland sits in a special category. The final National Archives release said many 2009 reports involved orange lights moving slowly across the sky, often consistent with Chinese lanterns, and that increased press attention may have encouraged more people to report sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Westmorland’s known material fits this broader British pattern: local curiosity, ambiguous observations and occasional striking descriptions, rather than a dense cluster of high-quality cases.
+The wider MoD pattern also weakens any claim that Westmorland sits in a special category. The final National Archives release said many 2009 reports involved orange lights moving slowly across the sky, often consistent with Chinese lanterns, and that increased press attention may have encouraged more people to report sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Westmorland’s known material fits this broader British pattern: local curiosity, ambiguous observations and occasional striking descriptions, rather than a dense cluster of high-quality cases.
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Westmorland Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Westmorland_dec0c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Westmorland_dec0c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military and aviation links: relevant, but easy to overstate
 
-Westmorland has no obvious released UFO case centred on an RAF base within the historic county. That distinguishes it from better-known UK UFO locations tied to military sites, radar logs or security patrols. The National Archives guide points readers to major RAF- and radar-related files elsewhere, including RAF West Freugh in 1957 and other air-defence records, but those are not Westmorland cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+Westmorland has no obvious released UFO case centred on an RAF base within the historic county. That distinguishes it from better-known UK UFO locations tied to military sites, radar logs or security patrols. The National Archives guide points readers to major RAF- and radar-related files elsewhere, including RAF West Freugh in 1957 and other air-defence records, but those are not Westmorland cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 Aviation is still relevant. Westmorland sits under a broad north-western sky used by civil and military aircraft, with approaches and routes crossing historic county [boundaries]({{ 'boundaries-4c0752/' | relative_url }}). A witness in Kendal, Shap, Appleby or Kirkby Stephen may see aircraft whose origin, destination or official recording system lies outside Westmorland. That is one reason county-level UFO research should not stop at the county line when checking possible explanations.
 
@@ -787,194 +787,194 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Westmorland Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Westmorland Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong fit for a page assessing real UFO reports, MoD records and British cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page assessing real UFO reports, MoD records and British cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating eyewitness and official UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating eyewitness and official UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing reported sightings and classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing reported sightings and classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
         
-        <p class="fr-book-desc">Provides context for interpreting rural UFO and mystery reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interpreting rural UFO and mystery reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK"><img src="{{ '/assets/images/marketplace-covers/89247864efbc4b335b2c.jpg' | relative_url }}" alt="Listing image for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK"><img src="{{ '/assets/images/marketplace-covers/89247864efbc4b335b2c.jpg' | relative_url }}" alt="Listing image for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="{{ '/assets/images/marketplace-covers/b44c6b930f57b977d67d.jpg' | relative_url }}" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="{{ '/assets/images/marketplace-covers/b44c6b930f57b977d67d.jpg' | relative_url }}" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/e679acaf456874ac9c59.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/e679acaf456874ac9c59.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="what-really-happened-in-westmorland-what-really-happened-in-westmorland-skies-westmorland-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -990,7 +990,7 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1010,7 +1010,7 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1042,7 +1042,7 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1094,7 +1094,7 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1139,7 +1139,7 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1180,269 +1180,269 @@ That makes Westmorland a useful cautionary county. It reminds readers that “UF
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cumbriaarchives.org.uk  
    Title: County Councils | Cumbria Archives  
-   Link: <a href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils</a>  
+   Link:<a href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/westmorlandgazette/posts/a-kendal-man-has-claimed-he-witnessed-a-mysterious-sighting-on-the-top-of-sizerg/10161980998998572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/westmorlandgazette/posts/a-kendal-man-has-claimed-he-witnessed-a-mysterious-sighting-on-the-top-of-sizerg/10161980998998572/</a>  
+   Link:<a href="https://www.facebook.com/westmorlandgazette/posts/a-kendal-man-has-claimed-he-witnessed-a-mysterious-sighting-on-the-top-of-sizerg/10161980998998572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/westmorlandgazette/posts/a-kendal-man-has-claimed-he-witnessed-a-mysterious-sighting-on-the-top-of-sizerg/10161980998998572/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lancs.live  
    Title: ufo clouds spotted over kendal 18382341  
-   Link: <a href="https://www.lancs.live/news/local-news/ufo-clouds-spotted-over-kendal-18382341" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/local-news/ufo-clouds-spotted-over-kendal-18382341</a>  
+   Link:<a href="https://www.lancs.live/news/local-news/ufo-clouds-spotted-over-kendal-18382341" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/local-news/ufo-clouds-spotted-over-kendal-18382341</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: WIT H VIDEO  
-   Link: <a href="https://www.facebook.com/newsandstar/posts/with-video-cumbrias-close-encounters-revealed-alien-craft-and-ufos-among-sightin/1915024668511245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newsandstar/posts/with-video-cumbrias-close-encounters-revealed-alien-craft-and-ufos-among-sightin/1915024668511245/</a>  
+   Link:<a href="https://www.facebook.com/newsandstar/posts/with-video-cumbrias-close-encounters-revealed-alien-craft-and-ufos-among-sightin/1915024668511245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newsandstar/posts/with-video-cumbrias-close-encounters-revealed-alien-craft-and-ufos-among-sightin/1915024668511245/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OakleaTrust/posts/anyone-seen-my-flying-saucer-asks-leonincomingidentified-flying-object%EF%B8%8Fgood-time/1413336614168682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OakleaTrust/posts/anyone-seen-my-flying-saucer-asks-leonincomingidentified-flying-object%EF%B8%8Fgood-time/1413336614168682/</a>  
+   Link:<a href="https://www.facebook.com/OakleaTrust/posts/anyone-seen-my-flying-saucer-asks-leonincomingidentified-flying-object%EF%B8%8Fgood-time/1413336614168682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OakleaTrust/posts/anyone-seen-my-flying-saucer-asks-leonincomingidentified-flying-object%EF%B8%8Fgood-time/1413336614168682/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/464966387555274/posts/1737235543661679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/464966387555274/posts/1737235543661679/</a>  
+   Link:<a href="https://www.facebook.com/groups/464966387555274/posts/1737235543661679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/464966387555274/posts/1737235543661679/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/westmorlandgazette/posts/have-you-ever-spotted-a-ufo-/1212811134182891/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/westmorlandgazette/posts/have-you-ever-spotted-a-ufo-/1212811134182891/</a>  
+   Link:<a href="https://www.facebook.com/westmorlandgazette/posts/have-you-ever-spotted-a-ufo-/1212811134182891/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/westmorlandgazette/posts/have-you-ever-spotted-a-ufo-/1212811134182891/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/themalverngazette/videos/ufo-over-the-malvern-hills/625732446862464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themalverngazette/videos/ufo-over-the-malvern-hills/625732446862464/</a>  
+   Link:<a href="https://www.facebook.com/themalverngazette/videos/ufo-over-the-malvern-hills/625732446862464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themalverngazette/videos/ufo-over-the-malvern-hills/625732446862464/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: The Westmorland  
-   Link: <a href="https://www.facebook.com/westmorlandgazette/photos/a-mystery-worth-clicking-on-/1565498275580840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/westmorlandgazette/photos/a-mystery-worth-clicking-on-/1565498275580840/</a>  
+   Link:<a href="https://www.facebook.com/westmorlandgazette/photos/a-mystery-worth-clicking-on-/1565498275580840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/westmorlandgazette/photos/a-mystery-worth-clicking-on-/1565498275580840/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/peter.remington.56/photos/jimmy-aird-going-back-to-the-future-on-the-flying-saucer-zekes-famous-championsh/25192420277096167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peter.remington.56/photos/jimmy-aird-going-back-to-the-future-on-the-flying-saucer-zekes-famous-championsh/25192420277096167/</a>  
+   Link:<a href="https://www.facebook.com/peter.remington.56/photos/jimmy-aird-going-back-to-the-future-on-the-flying-saucer-zekes-famous-championsh/25192420277096167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peter.remington.56/photos/jimmy-aird-going-back-to-the-future-on-the-flying-saucer-zekes-famous-championsh/25192420277096167/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: was it our mr minty costume still loststolenhidden  
-   Link: <a href="https://www.facebook.com/KendalTownFC/posts/was-it-our-mr-minty-costume-still-loststolenhidden/518258586976834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KendalTownFC/posts/was-it-our-mr-minty-costume-still-loststolenhidden/518258586976834/</a>  
+   Link:<a href="https://www.facebook.com/KendalTownFC/posts/was-it-our-mr-minty-costume-still-loststolenhidden/518258586976834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KendalTownFC/posts/was-it-our-mr-minty-costume-still-loststolenhidden/518258586976834/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/550577633645245/posts/1398991478803852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/550577633645245/posts/1398991478803852/</a>  
+   Link:<a href="https://www.facebook.com/groups/550577633645245/posts/1398991478803852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/550577633645245/posts/1398991478803852/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/did-westmorland-disappear-englands-lost-countywestmorland-is-one-of-englands-his/1241639794786252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/did-westmorland-disappear-englands-lost-countywestmorland-is-one-of-englands-his/1241639794786252/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/did-westmorland-disappear-englands-lost-countywestmorland-is-one-of-englands-his/1241639794786252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/did-westmorland-disappear-englands-lost-countywestmorland-is-one-of-englands-his/1241639794786252/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/videos/did-westmorland-disappear-englands-lost-county/1252105256361897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/videos/did-westmorland-disappear-englands-lost-county/1252105256361897/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/videos/did-westmorland-disappear-englands-lost-county/1252105256361897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/videos/did-westmorland-disappear-englands-lost-county/1252105256361897/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/138667910072083/posts/1247861765819353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/138667910072083/posts/1247861765819353/</a>  
+   Link:<a href="https://www.facebook.com/groups/138667910072083/posts/1247861765819353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/138667910072083/posts/1247861765819353/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/zephyryacht/posts/1792733894632434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/zephyryacht/posts/1792733894632434/</a>  
+   Link:<a href="https://www.facebook.com/groups/zephyryacht/posts/1792733894632434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/zephyryacht/posts/1792733894632434/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: when weather looks out of this world incredible images of ufo shaped clouds swir  
-   Link: <a href="https://www.facebook.com/peoplesweather/posts/when-weather-looks-out-of-this-world-incredible-images-of-ufo-shaped-clouds-swir/1296005673827300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peoplesweather/posts/when-weather-looks-out-of-this-world-incredible-images-of-ufo-shaped-clouds-swir/1296005673827300/</a>  
+   Link:<a href="https://www.facebook.com/peoplesweather/posts/when-weather-looks-out-of-this-world-incredible-images-of-ufo-shaped-clouds-swir/1296005673827300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peoplesweather/posts/when-weather-looks-out-of-this-world-incredible-images-of-ufo-shaped-clouds-swir/1296005673827300/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/somersetlive/posts/the-swirling-lights-have-been-seen-across-the-uk-and-have-caused-much-debate-amo/1465709678893340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/somersetlive/posts/the-swirling-lights-have-been-seen-across-the-uk-and-have-caused-much-debate-amo/1465709678893340/</a>  
+   Link:<a href="https://www.facebook.com/somersetlive/posts/the-swirling-lights-have-been-seen-across-the-uk-and-have-caused-much-debate-amo/1465709678893340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/somersetlive/posts/the-swirling-lights-have-been-seen-across-the-uk-and-have-caused-much-debate-amo/1465709678893340/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CumbriaCrack/posts/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/927392816151024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CumbriaCrack/posts/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/927392816151024/</a>  
+   Link:<a href="https://www.facebook.com/CumbriaCrack/posts/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/927392816151024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CumbriaCrack/posts/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/927392816151024/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/suphike/posts/10159669856803120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/suphike/posts/10159669856803120/</a>  
+   Link:<a href="https://www.facebook.com/groups/suphike/posts/10159669856803120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/suphike/posts/10159669856803120/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/</a>  
+   Link:<a href="https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HotelChocolat/posts/20-years-of-rabot-estate-our-founder-angus-reflects-on-the-journey-from-tree-to-/1444518084371272/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCYorkshire/posts/-ufos-in-yorkshirecouncil-meetings-are-usually-dominated-by-discussions-about-bi/1438011768370983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCYorkshire/posts/-ufos-in-yorkshirecouncil-meetings-are-usually-dominated-by-discussions-about-bi/1438011768370983/</a>  
+   Link:<a href="https://www.facebook.com/BBCYorkshire/posts/-ufos-in-yorkshirecouncil-meetings-are-usually-dominated-by-discussions-about-bi/1438011768370983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCYorkshire/posts/-ufos-in-yorkshirecouncil-meetings-are-usually-dominated-by-discussions-about-bi/1438011768370983/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
+   Link:<a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1427092687647542/posts/2435903830099751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1427092687647542/posts/2435903830099751/</a>  
+   Link:<a href="https://www.facebook.com/groups/1427092687647542/posts/2435903830099751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1427092687647542/posts/2435903830099751/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/441684989989533/posts/756135838544445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/441684989989533/posts/756135838544445/</a>  
+   Link:<a href="https://www.facebook.com/groups/441684989989533/posts/756135838544445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/441684989989533/posts/756135838544445/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: lancs.live  
    Title: alien house among 21 cumbria 18245944  
-   Link: <a href="https://www.lancs.live/news/local-news/alien-house-among-21-cumbria-18245944" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/local-news/alien-house-among-21-cumbria-18245944</a>  
+   Link:<a href="https://www.lancs.live/news/local-news/alien-house-among-21-cumbria-18245944" target="_blank" rel="noopener noreferrer nofollow">https://www.lancs.live/news/local-news/alien-house-among-21-cumbria-18245944</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532852" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532852</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: discovery.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Suffolk Archives  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531204" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531204</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531204" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531204</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: southlakeland.gov.uk  
-   Link: <a href="https://www.southlakeland.gov.uk/media/1667/01-kendal-ca-character-appraisal-51207.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southlakeland.gov.uk/media/1667/01-kendal-ca-character-appraisal-51207.pdf</a>  
+   Link:<a href="https://www.southlakeland.gov.uk/media/1667/01-kendal-ca-character-appraisal-51207.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southlakeland.gov.uk/media/1667/01-kendal-ca-character-appraisal-51207.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: boundarycommissionforengland.independent.gov.uk  
-   Link: <a href="https://boundarycommissionforengland.independent.gov.uk/review2023/9bc0b2ea-7915-4997-9d4a-3e313c0ceb51/north-west/North%20West_277_Westmorland%20and%20Lonsdale_Portrait.pdf" target="_blank" rel="noopener noreferrer nofollow">https://boundarycommissionforengland.independent.gov.uk/review2023/9bc0b2ea-7915-4997-9d4a-3e313c0ceb51/north-west/North%20West_277_Westmorland%20and%20Lonsdale_Portrait.pdf</a>  
+   Link:<a href="https://boundarycommissionforengland.independent.gov.uk/review2023/9bc0b2ea-7915-4997-9d4a-3e313c0ceb51/north-west/North%20West_277_Westmorland%20and%20Lonsdale_Portrait.pdf" target="_blank" rel="noopener noreferrer nofollow">https://boundarycommissionforengland.independent.gov.uk/review2023/9bc0b2ea-7915-4997-9d4a-3e313c0ceb51/north-west/North%20West_277_Westmorland%20and%20Lonsdale_Portrait.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: GOV.UK  
    Title: westmorland flag flies proudly at heart of government  
-   Link: <a href="https://www.gov.uk/government/news/westmorland-flag-flies-proudly-at-heart-of-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/westmorland-flag-flies-proudly-at-heart-of-government</a>  
+   Link:<a href="https://www.gov.uk/government/news/westmorland-flag-flies-proudly-at-heart-of-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/westmorland-flag-flies-proudly-at-heart-of-government</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: old.ncbj.gov.pl  
-   Link: <a href="https://old.ncbj.gov.pl/sites/default/files/tresc_doktoratu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.ncbj.gov.pl/sites/default/files/tresc_doktoratu.pdf</a>  
+   Link:<a href="https://old.ncbj.gov.pl/sites/default/files/tresc_doktoratu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.ncbj.gov.pl/sites/default/files/tresc_doktoratu.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Westmorland  
-   Link: <a href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Westmorland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Westmorland</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westmorland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westmorland</a>  
 
 ### Additional References
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3S2MTbDDYc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3S2MTbDDYc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/Unidentified Flying Object Filmed Over Haweswater Cumbria UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3S2MTbDDYc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3S2MTbDDYc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/Unidentified Flying Object Filmed Over Haweswater Cumbria UK...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/Bn1pSWDg1c6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/Bn1pSWDg1c6/</a>  
+   Link:<a href="https://www.instagram.com/p/Bn1pSWDg1c6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/Bn1pSWDg1c6/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: mountwashington.org  
-   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
+   Link:<a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: ebay.com  
-   Link: <a href="https://www.ebay.com/itm/397152228191?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/397152228191?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
+   Link:<a href="https://www.ebay.com/itm/397152228191?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/397152228191?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: sffchronicles.com  
-   Link: <a href="https://www.sffchronicles.com/threads/550030/" target="_blank" rel="noopener noreferrer nofollow">https://www.sffchronicles.com/threads/550030/</a>  
+   Link:<a href="https://www.sffchronicles.com/threads/550030/" target="_blank" rel="noopener noreferrer nofollow">https://www.sffchronicles.com/threads/550030/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: truthproof.uk  
-   Link: <a href="https://truthproof.uk/Reports2/debbiedb.html" target="_blank" rel="noopener noreferrer nofollow">https://truthproof.uk/Reports2/debbiedb.html</a>  
+   Link:<a href="https://truthproof.uk/Reports2/debbiedb.html" target="_blank" rel="noopener noreferrer nofollow">https://truthproof.uk/Reports2/debbiedb.html</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPrWh52ielP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPrWh52ielP/</a>  
+   Link:<a href="https://www.instagram.com/p/DPrWh52ielP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPrWh52ielP/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/906867522/Operation-Earth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906867522/Operation-Earth</a>  
+   Link:<a href="https://www.scribd.com/document/906867522/Operation-Earth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906867522/Operation-Earth</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: bufora.org.uk  
-   Link: <a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
+   Link:<a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/pdf/community.30136531.pdf?ab_segments=0%2Fbasic_phrase_search%2Fcontrol&amp;acceptTC=1&amp;origin=&amp;refreqid=excelsior%3A2b6ae31f3b5c67b08386c666412dc996" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/community.30136531.pdf?ab_segments=0%2Fbasic_phrase_search%2Fcontrol&amp;acceptTC=1&amp;origin=&amp;refreqid=excelsior%3A2b6ae31f3b5c67b08386c666412dc996</a>  
+   Link:<a href="https://www.jstor.org/stable/pdf/community.30136531.pdf?ab_segments=0%2Fbasic_phrase_search%2Fcontrol&amp;acceptTC=1&amp;origin=&amp;refreqid=excelsior%3A2b6ae31f3b5c67b08386c666412dc996" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/community.30136531.pdf?ab_segments=0%2Fbasic_phrase_search%2Fcontrol&amp;acceptTC=1&amp;origin=&amp;refreqid=excelsior%3A2b6ae31f3b5c67b08386c666412dc996</a>  

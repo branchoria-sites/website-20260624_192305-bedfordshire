@@ -260,13 +260,13 @@ RAF Alconbury matters to [Huntingdonshire]({{ 'what-made-huntingdonshire-notice-
 <img src="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-overview.webp" | relative_url }}" alt="Overview image for Airfields" loading="eager" decoding="sync" fetchpriority="high">
 ## Alconbury, Wyton and local flight activity
 
-RAF Alconbury and RAF Wyton sit close enough together to make this part of historic Huntingdonshire unusually aviation-heavy. The Cambridgeshire Aviation Heritage Trail describes them as “two historic Huntingdonshire airfields” about seven miles apart: Wyton began as an airfield in 1916, while Alconbury was established in 1938 and remained in United States Air Force use until 1995. That geography matters because sightings logged under modern “Cambridgeshire” headings may still belong to the historic Huntingdonshire story when they concern Huntingdon, St Neots, Alconbury or Wyton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambsaviationheritage.org.uk">[cambsaviationheritage.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambsaviationheritage.org.uk</span><span class="citation-popover-title">Cambridgeshire Aviation Heritage Trail &#124; Alconbury and Wyton</span><span class="citation-popover-snippet">Cambridgeshire Aviation Heritage Trail &#124; Alconbury and Wyton</span></span></span>
+RAF Alconbury and RAF Wyton sit close enough together to make this part of historic Huntingdonshire unusually aviation-heavy. The Cambridgeshire Aviation Heritage Trail describes them as “two historic Huntingdonshire airfields” about seven miles apart: Wyton began as an airfield in 1916, while Alconbury was established in 1938 and remained in United States Air Force use until 1995. That geography matters because sightings logged under modern “Cambridgeshire” headings may still belong to the historic Huntingdonshire story when they concern Huntingdon, St Neots, Alconbury or Wyton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambsaviationheritage.org.uk">[cambsaviationheritage.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambsaviationheritage.org.uk</span><span class="citation-popover-title">Cambridgeshire Aviation Heritage Trail &#124; Alconbury and Wyton</span><span class="citation-popover-snippet">Cambridgeshire Aviation Heritage Trail &#124; Alconbury and Wyton</span></span></span>
 
-Alconbury’s aviation role was substantial. A USAF history records that it began as a satellite base for nearby Wyton, hosted US bomber units during the Second World War, and then returned to a major American role after the USAF regained control in 1954. The 10th Tactical Reconnaissance Wing arrived in 1959 and remained the host unit for almost three decades, placing Alconbury firmly inside the Cold War reconnaissance network rather than making it a minor rural strip. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
+Alconbury’s aviation role was substantial. A USAF history records that it began as a satellite base for nearby Wyton, hosted US bomber units during the Second World War, and then returned to a major American role after the USAF regained control in 1954. The 10th Tactical Reconnaissance Wing arrived in 1959 and remained the host unit for almost three decades, placing Alconbury firmly inside the Cold War reconnaissance network rather than making it a minor rural strip.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
 
-The aircraft types associated with Alconbury are important for UFO interpretation. In 1982, Strategic Air Command’s 17th Reconnaissance Wing activated at Alconbury with TR-1 aircraft, the tactical reconnaissance version of the U-2. U-2 deployments continued after that wing’s inactivation, and the last U-2 aircraft departed Alconbury in March 1995. A-10 Thunderbolt II aircraft also formed part of Alconbury’s late Cold War story before leaving in spring 1992. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
+The aircraft types associated with Alconbury are important for UFO interpretation. In 1982, Strategic Air Command’s 17th Reconnaissance Wing activated at Alconbury with TR-1 aircraft, the tactical reconnaissance version of the U-2. U-2 deployments continued after that wing’s inactivation, and the last U-2 aircraft departed Alconbury in March 1995. A-10 Thunderbolt II aircraft also formed part of Alconbury’s late Cold War story before leaving in spring 1992.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
 
-Wyton adds a second layer. RAF records state that Wyton welcomed Photographic Reconnaissance Units in 1953, beginning a long association with Canberra reconnaissance aircraft, Victor V-bombers and later tanker aircraft, before those units relocated to RAF Marham in 1994. Wyton is no longer an operational airfield, but it remains central to UK military operations through intelligence and geospatial roles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Wyton &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Wyton &#124; Royal Air Force</span></span></span>
+Wyton adds a second layer. RAF records state that Wyton welcomed Photographic Reconnaissance Units in 1953, beginning a long association with Canberra reconnaissance aircraft, Victor V-bombers and later tanker aircraft, before those units relocated to RAF Marham in 1994. Wyton is no longer an operational airfield, but it remains central to UK military operations through intelligence and geospatial roles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Wyton &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Wyton &#124; Royal Air Force</span></span></span>
 
 For UFO reports, this means the local baseline is not “quiet countryside with no obvious aerial activity”. It is better described as a place where unusual aircraft, support movements, night operations, distant lights and military secrecy were part of the social background. That does not prove any particular report was an aircraft. It means that any strong claim needs to survive ordinary aviation checks before it can carry much weight.
 
@@ -274,9 +274,9 @@ For UFO reports, this means the local baseline is not “quiet countryside with 
 <img src="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-1-dark.svg" | relative_url }}" alt="Airfields illustration 1" data-theme-src-dark="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## High-altitude aircraft and viewing angles
 
-The U-2/TR-1 connection is especially relevant because high-altitude aircraft can behave oddly to ground observers. The U.S. Air Force describes the U-2 as a day-and-night, high-altitude, all-weather intelligence aircraft, with a ceiling above 70,000 feet and a range of more than 7,000 miles. It also notes that the TR-1A first flew in 1981, was structurally identical to the U-2R, and that all TR-1s and U-2s were redesignated as U-2Rs in 1992. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104560/u-2stu-2s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U-2S/TU-2S &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The U-2/TR-1 connection is especially relevant because high-altitude aircraft can behave oddly to ground observers. The U.S. Air Force describes the U-2 as a day-and-night, high-altitude, all-weather intelligence aircraft, with a ceiling above 70,000 feet and a range of more than 7,000 miles. It also notes that the TR-1A first flew in 1981, was structurally identical to the U-2R, and that all TR-1s and U-2s were redesignated as U-2Rs in 1992.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104560/u-2stu-2s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U-2S/TU-2S &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-A high-altitude aircraft does not look like a normal low-flying plane. It may be too far away for engine noise to be heard, may appear to move slowly despite travelling fast, and may catch sunlight after the ground below has fallen into twilight. Conversely, landing lights or approach lights from a lower aircraft can seem to hover when the aircraft is heading towards the observer. The National Archives’ guide to MoD UFO material specifically lists high-altitude aircraft, Venus, weather balloons and satellites among explanations found in official correspondence attached to sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+A high-altitude aircraft does not look like a normal low-flying plane. It may be too far away for engine noise to be heard, may appear to move slowly despite travelling fast, and may catch sunlight after the ground below has fallen into twilight. Conversely, landing lights or approach lights from a lower aircraft can seem to hover when the aircraft is heading towards the observer. The National Archives’ guide to MoD UFO material specifically lists high-altitude aircraft, Venus, weather balloons and satellites among explanations found in official correspondence attached to sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 This is where viewing angle matters. A light moving directly towards or away from a witness can look nearly stationary; a banking aircraft can seem to change brightness or direction abruptly; and a distant aircraft seen through broken cloud can appear and disappear in a way that feels deliberate. Around Huntingdonshire, where Alconbury, Wyton, former wartime airfields, civil routes and road corridors overlap, those effects become more likely than in an area with little aviation history.
 
@@ -287,9 +287,9 @@ The key point is not that “it was probably a U-2” whenever a Huntingdonshire
 
 ## The local MoD reports show ordinary ambiguity, not a dramatic base case
 
-The published Ministry of Defence UFO tables are the best starting point for late twentieth- and early twenty-first-century Huntingdonshire-area sightings. GOV.UK describes the released material as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions. The National Archives similarly stresses that most official UFO records describe lights, flashes and shapes, often explainable, while a smaller number are more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The published Ministry of Defence UFO tables are the best starting point for late twentieth- and early twenty-first-century Huntingdonshire-area sightings. GOV.UK describes the released material as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions. The National Archives similarly stresses that most official UFO records describe lights, flashes and shapes, often explainable, while a smaller number are more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The most relevant Huntingdonshire-area examples are modest. On 4 June 2005 at St Neots, the MoD table records a “dim red light” zig-zagging eastwards and described as faster than a plane. Four days later, again at St Neots, a witness reported a rod-like object that appeared silver through binoculars but grey to the naked eye and was “moving around”. These entries are intriguing as local reports, but they are not detailed case files: there is no radar data, named investigator, photographs, flight-path reconstruction or official conclusion attached to the table entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The most relevant Huntingdonshire-area examples are modest. On 4 June 2005 at St Neots, the MoD table records a “dim red light” zig-zagging eastwards and described as faster than a plane. Four days later, again at St Neots, a witness reported a rod-like object that appeared silver through binoculars but grey to the naked eye and was “moving around”. These entries are intriguing as local reports, but they are not detailed case files: there is no radar data, named investigator, photographs, flight-path reconstruction or official conclusion attached to the table entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That matters because both reports sit in a grey zone. A red light that appears to zig-zag could be an aircraft light affected by distance, observer motion, cloud, changing perspective or simple difficulty judging movement against a dark sky. A daylight or evening “rod” seen through binoculars might be a distant aircraft, balloon, reflective object, insect close to the observer, optical artefact or something genuinely not identifiable from the available description. The point is not to force a debunking; it is to avoid giving a thin record more evidential weight than it can bear.
 
@@ -299,11 +299,11 @@ The Alconbury–Wyton setting makes these reports more interesting, but not more
 <img src="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-2-dark.svg" | relative_url }}" alt="Airfields illustration 2" data-theme-src-dark="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When military context helps or misleads
 
-Military context helps when it supplies testable possibilities. Alconbury’s documented history gives investigators sensible questions to ask: were aircraft active from Alconbury or nearby bases at the time? Could a high-altitude reconnaissance aircraft, A-10 movement, special operations aircraft or visiting aircraft have been visible? Was the sighting before or after Alconbury’s flying activity ceased in 1995? Did the witness see navigation lights, strobes, landing lights, formation lights or a silhouette? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
+Military context helps when it supplies testable possibilities. Alconbury’s documented history gives investigators sensible questions to ask: were aircraft active from Alconbury or nearby bases at the time? Could a high-altitude reconnaissance aircraft, A-10 movement, special operations aircraft or visiting aircraft have been visible? Was the sighting before or after Alconbury’s flying activity ceased in 1995? Did the witness see navigation lights, strobes, landing lights, formation lights or a silhouette?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
 
-It also helps with chronology. A report from the 1980s or early 1990s near Alconbury falls into a different aviation environment from a report after 1995. USAF records state that the last U-2 left Alconbury in March 1995 and that the flightline was turned back to the Ministry of Defence in September 1995. So, after that point, “aircraft from RAF Alconbury” becomes a weaker explanation than “aircraft associated with the wider region”, “overflying traffic”, “nearby airfields”, “astronomical object”, “satellite”, “balloon” or “misperceived ground light”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
+It also helps with chronology. A report from the 1980s or early 1990s near Alconbury falls into a different aviation environment from a report after 1995. USAF records state that the last U-2 left Alconbury in March 1995 and that the flightline was turned back to the Ministry of Defence in September 1995. So, after that point, “aircraft from RAF Alconbury” becomes a weaker explanation than “aircraft associated with the wider region”, “overflying traffic”, “nearby airfields”, “astronomical object”, “satellite”, “balloon” or “misperceived ground light”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
 
-But military context misleads when it becomes a shortcut. A base nearby does not automatically mean a sighting was secret technology. It also does not automatically mean officials hid something. The Ministry of Defence’s current public position is that, over more than 50 years, no sighting reported to the department indicated a military threat to the UK; the MoD ceased investigating UFO or UAP reports in 2009 and says all files created up to that point have been released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[Parliament Questions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">Questions Written questions and answers</span><span class="citation-popover-snippet">Questions Written questions and answers</span></span></span>
+But military context misleads when it becomes a shortcut. A base nearby does not automatically mean a sighting was secret technology. It also does not automatically mean officials hid something. The Ministry of Defence’s current public position is that, over more than 50 years, no sighting reported to the department indicated a military threat to the UK; the MoD ceased investigating UFO or UAP reports in 2009 and says all files created up to that point have been released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[Parliament Questions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">Questions Written questions and answers</span><span class="citation-popover-snippet">Questions Written questions and answers</span></span></span>
 
 That official position does not settle every individual sighting. It does, however, set a useful boundary for Huntingdonshire: the public evidence does not show a sustained, documented Alconbury UFO incident comparable to the better-known Rendlesham Forest case in Suffolk. Instead, it shows a county whose UFO record is shaped by proximity to military aviation, sparse sighting descriptions and the difficulty ordinary observers face when judging lights in a sky crossed by aircraft and satellites.
 
@@ -317,7 +317,7 @@ That official position does not settle every individual sighting. It does, howev
 
 The most careful approach is to treat RAF Alconbury and RAF Wyton as context, not as an answer. They should prompt better questions, not instant conclusions. For a Huntingdonshire sighting near the former Alconbury flightline, near Wyton, along the A1 or A14, or around Huntingdon and St Neots, the most useful checks are:
 
-* **Date:** before 1995, Alconbury-based flying is more relevant; after 1995, the former airfield is still historically important but less likely to be the direct source of a sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
+* **Date:** before 1995, Alconbury-based flying is more relevant; after 1995, the former airfield is still historically important but less likely to be the direct source of a sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">tri base history</span><span class="citation-popover-snippet">Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,194 +334,194 @@ This reading keeps the military-airfield question useful without overstating it.
 <img src="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-3-dark.svg" | relative_url }}" alt="Airfields illustration 3" data-theme-src-dark="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Airfields Shape Huntingdonshire UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Airfields Shape Huntingdonshire UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sighting reports and distinguishing stronger cases from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sighting reports and distinguishing stronger cases from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how pilots, radar operators, military personnel and aviation evidence intersect with UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how pilots, radar operators, military personnel and aviation evidence intersect with UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides military context for assessing UFO claims, useful for discussions involving RAF and USAF airfields.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides military context for assessing UFO claims, useful for discussions involving RAF and USAF airfields.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Contains substantial UFO coverage while placing reports within a wider framework of unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains substantial UFO coverage while placing reports within a wider framework of unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="airfields-e0f626-did-airfields-shape-huntingdonshire-ufo-reports-huntingdonshire-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ This reading keeps the military-airfield question useful without overstating it.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ This reading keeps the military-airfield question useful without overstating it.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ This reading keeps the military-airfield question useful without overstating it.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ This reading keeps the military-airfield question useful without overstating it.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ This reading keeps the military-airfield question useful without overstating it.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,161 +727,161 @@ This reading keeps the military-airfield question useful without overstating it.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambsaviationheritage.org.uk  
    Title: Cambridgeshire Aviation Heritage Trail | Alconbury and Wyton  
-   Link: <a href="https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html</a>  
+   Link:<a href="https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cambsaviationheritage.org.uk/aviation-heritage-trail/alconbury/index.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: 501csw.usafe.af.mil  
    Title: tri base history  
-   Link: <a href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</p></details>
+   Link:<a href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Article-Display/Article/437404/tri-base-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tri-Base History &gt; 501st Combat Support Wing &gt; Article Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Wyton | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-wyton/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-wyton/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-wyton/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104560/u-2stu-2s/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104560/u-2stu-2s/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U-2S/TU-2S &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104560/u-2stu-2s/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104560/u-2stu-2s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U-2S/TU-2S &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: questions-statements.parliament.uk  
    Title: Questions Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: 501csw.usafe.af.mil  
    Title: inspiration from our history  
-   Link: <a href="https://www.501csw.usafe.af.mil/News/Commentaries/Article/2469923/inspiration-from-our-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Commentaries/Article/2469923/inspiration-from-our-history/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/News/Commentaries/Article/2469923/inspiration-from-our-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Commentaries/Article/2469923/inspiration-from-our-history/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: 501csw.usafe.af.mil  
    Title: mil501st Combat Support Wing  
-   Link: <a href="https://www.501csw.usafe.af.mil/Portals/7/Wing%20fact%20sheet%20v7%20240802.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Portals/7/Wing%20fact%20sheet%20v7%20240802.pdf</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/Portals/7/Wing%20fact%20sheet%20v7%20240802.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Portals/7/Wing%20fact%20sheet%20v7%20240802.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: 501csw.usafe.af.mil  
-   Link: <a href="https://www.501csw.usafe.af.mil/Units/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Units/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/Units/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Units/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 501csw.usafe.af.mil  
    Title: on d day pathfinders light the way  
-   Link: <a href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/1869174/on-d-day-pathfinders-light-the-way/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Article-Display/Article/1869174/on-d-day-pathfinders-light-the-way/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/News/Article-Display/Article/1869174/on-d-day-pathfinders-light-the-way/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/News/Article-Display/Article/1869174/on-d-day-pathfinders-light-the-way/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 501csw.usafe.af.mil  
-   Link: <a href="https://www.501csw.usafe.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: usafe.af.mil  
    Title: mil Illuminating history: F-4 Phantom II restoration  
-   Link: <a href="https://www.usafe.af.mil/News/Article-Display/Article/2212373/illuminating-history-f-4-phantom-ii-restoration/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/2212373/illuminating-history-f-4-phantom-ii-restoration/</a>  
+   Link:<a href="https://www.usafe.af.mil/News/Article-Display/Article/2212373/illuminating-history-f-4-phantom-ii-restoration/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/2212373/illuminating-history-f-4-phantom-ii-restoration/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: RAF Wyton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Wyton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Wyton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Wyton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Wyton</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: RAF Alconbury  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Alconbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Alconbury</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Alconbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Alconbury</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/forums/topic/satellites" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/satellites</a>  
+   Link:<a href="https://britastro.org/forums/topic/satellites" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/satellites</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airfieldresearchgroup.org.uk  
    Title: royal air force alconbury station 102 post war cold war  
-   Link: <a href="https://www.airfieldresearchgroup.org.uk/raf-history/alconbury-fact-files/royal-air-force-alconbury-station-102-post-war-cold-war" target="_blank" rel="noopener noreferrer nofollow">https://www.airfieldresearchgroup.org.uk/raf-history/alconbury-fact-files/royal-air-force-alconbury-station-102-post-war-cold-war</a>  
+   Link:<a href="https://www.airfieldresearchgroup.org.uk/raf-history/alconbury-fact-files/royal-air-force-alconbury-station-102-post-war-cold-war" target="_blank" rel="noopener noreferrer nofollow">https://www.airfieldresearchgroup.org.uk/raf-history/alconbury-fact-files/royal-air-force-alconbury-station-102-post-war-cold-war</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: USAF UK Bases Flooded With Sightings: What's REALLY Happening?  
-   Link: <a href="https://www.youtube.com/watch?v=VBLLPRD3tDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VBLLPRD3tDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>501st COMBAT SUPPORT WING | MISSION VIDEO | 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VBLLPRD3tDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VBLLPRD3tDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>501st COMBAT SUPPORT WING | MISSION VIDEO | 2020...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/501stCSW/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/501stCSW/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/501stCSW/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/501stCSW/?locale=en_GB</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/501CSW" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/501CSW</a>  
+   Link:<a href="https://www.dvidshub.net/unit/501CSW" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/501CSW</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: urbanandcivic.com  
-   Link: <a href="https://www.urbanandcivic.com/application/files/2517/2353/5897/History--Web--Low_Res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.urbanandcivic.com/application/files/2517/2353/5897/History--Web--Low_Res.pdf</a>  
+   Link:<a href="https://www.urbanandcivic.com/application/files/2517/2353/5897/History--Web--Low_Res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.urbanandcivic.com/application/files/2517/2353/5897/History--Web--Low_Res.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ukairfields.org.uk  
-   Link: <a href="https://www.ukairfields.org.uk/alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/alconbury.html</a>  
+   Link:<a href="https://www.ukairfields.org.uk/alconbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/alconbury.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/videos/baa-summer-webinar-latest-news-in-spacecraft-exploration-of-comets-and-asteroids" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/baa-summer-webinar-latest-news-in-spacecraft-exploration-of-comets-and-asteroids</a>  
+   Link:<a href="https://britastro.org/videos/baa-summer-webinar-latest-news-in-spacecraft-exploration-of-comets-and-asteroids" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/baa-summer-webinar-latest-news-in-spacecraft-exploration-of-comets-and-asteroids</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61554374741135/posts/decoding-aircraft-navigation-lights-this-helpful-visual-explains-how-to-tell-an-/122208560600145824/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61554374741135/posts/decoding-aircraft-navigation-lights-this-helpful-visual-explains-how-to-tell-an-/122208560600145824/</a>  
+   Link:<a href="https://www.facebook.com/61554374741135/posts/decoding-aircraft-navigation-lights-this-helpful-visual-explains-how-to-tell-an-/122208560600145824/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61554374741135/posts/decoding-aircraft-navigation-lights-this-helpful-visual-explains-how-to-tell-an-/122208560600145824/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nature.scot  
-   Link: <a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
+   Link:<a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: alconbury-weald.co.uk  
-   Link: <a href="https://www.alconbury-weald.co.uk/about/historic-alconbury-weald" target="_blank" rel="noopener noreferrer nofollow">https://www.alconbury-weald.co.uk/about/historic-alconbury-weald</a>  
+   Link:<a href="https://www.alconbury-weald.co.uk/about/historic-alconbury-weald" target="_blank" rel="noopener noreferrer nofollow">https://www.alconbury-weald.co.uk/about/historic-alconbury-weald</a>  

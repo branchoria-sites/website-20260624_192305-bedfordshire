@@ -118,9 +118,9 @@ heading_title: What Did Peeblesshire Actually See?
 page_heading_title: What Did Peeblesshire Actually See?
 source_count: 242
 infographic_count: 3
-page_website_name: Peeblesshire UFOs
+page_website_name: Peeblesshire
 page_banner_line: Clear, evidence-led reading of Peeblesshire's sparse UFO record.
-site_website_name: Peeblesshire UFOs
+site_website_name: Peeblesshire
 site_banner_line: Clear, evidence-led reading of Peeblesshire's sparse UFO record.
 site_image_description: A small silver object crosses a pale daytime sky above the hills and rooftops around Peebles in the Tweed valley.
 output_language: English
@@ -689,21 +689,21 @@ image: /assets/images/Peeblesshire_4beb86-overview-social.jpg
 
 ## Introduction
 
-For this page, Peeblesshire is treated as the historic County of Peebles, also known as Tweeddale, rather than simply as the modern town of Peebles or the wider Scottish Borders council area. Britannica describes Peeblesshire as a historic county in south-eastern Scotland, lying entirely within the modern Scottish Borders council area; Wikishire similarly treats it as the County of Peebles, centred on the upper Tweed and Peebles as county town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span><span class="citation-popover-snippet">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span></span></span>
+For this page, Peeblesshire is treated as the historic County of Peebles, also known as Tweeddale, rather than simply as the modern town of Peebles or the wider Scottish Borders council area. Britannica describes Peeblesshire as a historic county in south-eastern Scotland, lying entirely within the modern Scottish Borders council area; Wikishire similarly treats it as the County of Peebles, centred on the upper Tweed and Peebles as county town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span><span class="citation-popover-snippet">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span></span></span>
 
 
 <img src="{{ "/assets/images/Peeblesshire_4beb86-overview.webp" | relative_url }}" alt="Overview image for What Did Peeblesshire Actually See?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as Peeblesshire in this UFO map?
 
-Peeblesshire is one of the smaller historic Scottish counties, and that matters when reading UFO records. A report labelled “Borders”, “Tweeddale”, “Peebles”, “Innerleithen” or “West Linton” may or may not fall inside the historic-county scope depending on the exact place named. Modern administrative language can blur the picture: Peeblesshire County Council disappeared in the 1975 Scottish local government reorganisation, the area became Tweeddale district, and since 1996 it has sat within the Scottish Borders council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Peeblesshire is one of the smaller historic Scottish counties, and that matters when reading UFO records. A report labelled “Borders”, “Tweeddale”, “Peebles”, “Innerleithen” or “West Linton” may or may not fall inside the historic-county scope depending on the exact place named. Modern administrative language can blur the picture: Peeblesshire County Council disappeared in the 1975 Scottish local government reorganisation, the area became Tweeddale district, and since 1996 it has sat within the Scottish Borders council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The project’s geographic anchor is the historic county, using the Wikishire/Wikimedia historic-counties frame rather than modern council [boundaries]({{ 'boundaries-bcc340/' | relative_url }}) alone. In practical terms, that means Peebles, Innerleithen, West Linton, Broughton, Traquair and the upper Tweed valley are central; Edinburgh, Midlothian, Selkirkshire, Lanarkshire and Dumfriesshire are relevant only when they help explain flight paths, archive locations, media coverage or neighbouring sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+The project’s geographic anchor is the historic county, using the Wikishire/Wikimedia historic-counties frame rather than modern council [boundaries]({{ 'boundaries-bcc340/' | relative_url }}) alone. In practical terms, that means Peebles, Innerleithen, West Linton, Broughton, Traquair and the upper Tweed valley are central; Edinburgh, Midlothian, Selkirkshire, Lanarkshire and Dumfriesshire are relevant only when they help explain flight paths, archive locations, media coverage or neighbouring sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-This distinction is especially important for UFO material because reports are often logged by the nearest town, police area, newspaper patch or modern administrative area, not by historic county. A short Ministry of Defence entry saying “Peebles, Borders” is therefore best read as a Peeblesshire-relevant sighting, even though the official list uses the broader modern area label rather than the historic county name. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+This distinction is especially important for UFO material because reports are often logged by the nearest town, police area, newspaper patch or modern administrative area, not by historic county. A short Ministry of Defence entry saying “Peebles, Borders” is therefore best read as a Peeblesshire-relevant sighting, even though the official list uses the broader modern area label rather than the historic county name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 ## The main recorded case: Peebles, 16 December 2005
 
-The strongest specific entry for Peeblesshire is the Ministry of Defence’s 2005 UFO reports table. It records a sighting at Peebles, Borders, at 14:10 on 16 December 2005. The description is short: “The object was small and silver in colour. Was flying twice the speed of a military aircraft in a very straight line.” No witness name, occupation, exact viewing point, duration, direction of travel, altitude estimate, weather condition, photograph or investigation outcome is included in the public summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The strongest specific entry for Peeblesshire is the Ministry of Defence’s 2005 UFO reports table. It records a sighting at Peebles, Borders, at 14:10 on 16 December 2005. The description is short: “The object was small and silver in colour. Was flying twice the speed of a military aircraft in a very straight line.” No witness name, occupation, exact viewing point, duration, direction of travel, altitude estimate, weather condition, photograph or investigation outcome is included in the public summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That leaves the case in the “unresolved but weakly documented” category. It is unresolved because the published record does not identify the object. It is weakly documented because the public evidence is only a one-line summary, with no supporting testimony or technical data. The most useful way to read it is not as proof of an extraordinary craft, but as a preserved example of the kind of ordinary public report the MoD was still receiving in the mid-2000s.
 
@@ -715,7 +715,7 @@ A cautious explanation list would include a high-flying aircraft catching sunlig
 <img src="{{ "/assets/images/Peeblesshire_4beb86-Illustration-1-dark.svg" | relative_url }}" alt="What Did Peeblesshire Actually See? illustration 1" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Peeblesshire does not look like a UFO hotspot
 
-The available public evidence does not show a Peeblesshire “flap” — a concentrated wave of sightings over a short period — or a recurring local pattern comparable with better-known Scottish cases. In the MoD’s 2005 table, Peebles appears as a single entry among many scattered UK reports, ranging from orange lights and triangle shapes to fireball-like objects and vague “sighting” entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The available public evidence does not show a Peeblesshire “flap” — a concentrated wave of sightings over a short period — or a recurring local pattern comparable with better-known Scottish cases. In the MoD’s 2005 table, Peebles appears as a single entry among many scattered UK reports, ranging from orange lights and triangle shapes to fireball-like objects and vague “sighting” entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That matters because UFO reputation often grows from repetition. A county becomes a “hotspot” when reports accumulate, local newspapers revisit them, investigators build case files, and witnesses compare stories. Peeblesshire’s record, by contrast, appears fragmentary. There is no obvious public trail of repeated Peebles or Innerleithen cases in the MoD tables surfaced here, and searches for named Peeblesshire settlements produce little beyond the 2005 Peebles entry and scattered social-media-style “strange lights” posts, which are too thin to treat as formal cases.
 
@@ -723,26 +723,26 @@ The absence of a famous case does not mean nothing unusual was ever seen. It mea
 
 ## Local skies: why ordinary explanations matter here
 
-Peeblesshire’s landscape can make sightings feel more mysterious. The county is hilly, rural and relatively dark compared with major urban areas. Wikishire describes Peeblesshire as a small shire of hills and dales around the upper River Tweed, while the historic gazetteer tradition places it in the Southern Uplands, with Peebles as the main town and much of the county made up of upland terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Peeblesshire’s landscape can make sightings feel more mysterious. The county is hilly, rural and relatively dark compared with major urban areas. Wikishire describes Peeblesshire as a small shire of hills and dales around the upper River Tweed, while the historic gazetteer tradition places it in the Southern Uplands, with Peebles as the main town and much of the county made up of upland terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 That setting gives witnesses wide horizons, dark foregrounds and fewer familiar reference points. A light crossing above the Tweed valley or over the hills can be hard to judge for distance or height. A short glint in daylight can look like a silver object moving at impossible speed. At night, aircraft lights, drones, sky lanterns, meteors and atmospheric optical effects can all appear stranger in a rural sky than they would near an airport or city.
 
-Nearby aviation is relevant, even though Peeblesshire itself is not defined by a major air base. Edinburgh Airport is the nearest major airport to Peebles, with public travel sources placing it a little over twenty miles away, and Edinburgh Airport’s own material explains that its runway direction and flight paths vary with operation and wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rome2rio.com/s/Nearby-Airports/Peebles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rome2rio.com">[Rome2Rio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rome2rio.com</span><span class="citation-popover-snippet">Open source on rome2rio.com.</span></span></span>
+Nearby aviation is relevant, even though Peeblesshire itself is not defined by a major air base. Edinburgh Airport is the nearest major airport to Peebles, with public travel sources placing it a little over twenty miles away, and Edinburgh Airport’s own material explains that its runway direction and flight paths vary with operation and wind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rome2rio.com/s/Nearby-Airports/Peebles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rome2rio.com">[Rome2Rio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rome2rio.com</span><span class="citation-popover-snippet">Open source on rome2rio.com.</span></span></span>
 
-Modern explanations also include drones, though they do not explain the 2005 Peebles report in any simple way because consumer drone activity was much less common then. Current Civil Aviation Authority guidance notes that drones flown at night in the UK Open Category must display a green flashing light, a useful reminder that some present-day “odd lights” may be legally operated small aircraft rather than unidentified craft in the older sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Modern explanations also include drones, though they do not explain the 2005 Peebles report in any simple way because consumer drone activity was much less common then. Current Civil Aviation Authority guidance notes that drones flown at night in the UK Open Category must display a green flashing light, a useful reminder that some present-day “odd lights” may be legally operated small aircraft rather than unidentified craft in the older sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-Meteors and atmospheric effects also matter for Scottish reports generally. The Royal Observatory Greenwich explains that a meteor is interplanetary matter burning up in the atmosphere, while the Met Office notes that optical effects in the sky can be produced by reflection, refraction, scattering and diffraction. Lenticular clouds, which form in waves of air over hills or mountains, are a classic “saucer-like” cloud type and can be mistaken for unusual aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich+2Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">meteor shower guide 2026</span><span class="citation-popover-snippet">meteor shower guide 2026</span></span></span>
+Meteors and atmospheric effects also matter for Scottish reports generally. The Royal Observatory Greenwich explains that a meteor is interplanetary matter burning up in the atmosphere, while the Met Office notes that optical effects in the sky can be produced by reflection, refraction, scattering and diffraction. Lenticular clouds, which form in waves of air over hills or mountains, are a classic “saucer-like” cloud type and can be mistaken for unusual aerial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[rmg.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">meteor shower guide 2026</span><span class="citation-popover-snippet">meteor shower guide 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mQ1kGk2A88" title="The story of the Calvine UFO photograph | In Case You Missed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer">The story of the Calvine UFO photograph | In Case You Missed It</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 117.5K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mQ1kGk2A88">Open on YouTube</a></p></div></div></div>
 
 ## How the Ministry of Defence record should be read
 
-The Peebles entry sits inside the final era of the UK Ministry of Defence’s public UFO-reporting system. The MoD collected reports for decades, but its approach was defensive rather than paranormal: the central question was whether a sighting suggested a threat to UK airspace. When the UFO desk was closed in 2009, the stated reasoning was that no UFO report had revealed evidence of a threat to the UK, and that continuing the work brought no defence benefit. Reuters reported the MoD’s position that it had found no evidence of a threat or proof of extraterrestrials, despite thousands of public reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/after-50-years-uk-ministry-shuts-down-ufo-unit-idUSTRE5B416X/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">After 50 years, UK ministry shuts down UFO unit</span><span class="citation-popover-snippet">After 50 years, UK ministry shuts down UFO unit</span></span></span>
+The Peebles entry sits inside the final era of the UK Ministry of Defence’s public UFO-reporting system. The MoD collected reports for decades, but its approach was defensive rather than paranormal: the central question was whether a sighting suggested a threat to UK airspace. When the UFO desk was closed in 2009, the stated reasoning was that no UFO report had revealed evidence of a threat to the UK, and that continuing the work brought no defence benefit. Reuters reported the MoD’s position that it had found no evidence of a threat or proof of extraterrestrials, despite thousands of public reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/after-50-years-uk-ministry-shuts-down-ufo-unit-idUSTRE5B416X/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">After 50 years, UK ministry shuts down UFO unit</span><span class="citation-popover-snippet">After 50 years, UK ministry shuts down UFO unit</span></span></span>
 
-The National Archives release material also makes clear that the later files included the final years of the MoD UFO desk, official correspondence and public reports, including a surge in sightings in 2008–09. That wider context is important for Peeblesshire: the Peebles listing was one small item in a national administrative process, not evidence that the county was subject to a special investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives release material also makes clear that the later files included the final years of the MoD UFO desk, official correspondence and public reports, including a surge in sightings in 2008–09. That wider context is important for Peeblesshire: the Peebles listing was one small item in a national administrative process, not evidence that the county was subject to a special investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Project Condign, the secret Defence Intelligence Staff study later released after Freedom of Information pressure, is also relevant to interpretation. It reviewed UK unidentified aerial phenomena in defence terms and argued that many cases were misidentified ordinary objects, natural phenomena or poorly understood atmospheric effects. The report has itself been criticised and debated, but its existence shows that the UK state treated UFO reports primarily as an air-defence and intelligence-filtering problem, not as a county folklore catalogue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Condign</span><span class="citation-popover-snippet">Project Condign</span></span></span>
+Project Condign, the secret Defence Intelligence Staff study later released after Freedom of Information pressure, is also relevant to interpretation. It reviewed UK unidentified aerial phenomena in defence terms and argued that many cases were misidentified ordinary objects, natural phenomena or poorly understood atmospheric effects. The report has itself been criticised and debated, but its existence shows that the UK state treated UFO reports primarily as an air-defence and intelligence-filtering problem, not as a county folklore catalogue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Condign</span><span class="citation-popover-snippet">Project Condign</span></span></span>
 
 For the Peebles case, this means the absence of a detailed public conclusion should not be overread. Many MoD entries were logged, summarised and left without a public explanation. “Unidentified” in this setting usually means “not identified from the information supplied”, not “shown to be exotic”.
 
@@ -750,11 +750,11 @@ For the Peebles case, this means the absence of a detailed public conclusion sho
 <img src="{{ "/assets/images/Peeblesshire_4beb86-Illustration-2-dark.svg" | relative_url }}" alt="What Did Peeblesshire Actually See? illustration 2" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Archives, newspapers and the missing local trail
 
-A stronger Peeblesshire UFO history would ideally draw on local newspapers, police logs, aviation records and private investigator files. The National Archives Discovery index shows that Edinburgh archival holdings include references to UFO research society material and to Peeblesshire Police among many institutional records, but that does not by itself establish a Peeblesshire UFO case file. It does, however, point to the sort of archive trail that may matter for future work: university UFO societies, local police records, regional newspapers and private correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+A stronger Peeblesshire UFO history would ideally draw on local newspapers, police logs, aviation records and private investigator files. The National Archives Discovery index shows that Edinburgh archival holdings include references to UFO research society material and to Peeblesshire Police among many institutional records, but that does not by itself establish a Peeblesshire UFO case file. It does, however, point to the sort of archive trail that may matter for future work: university UFO societies, local police records, regional newspapers and private correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Local media can both preserve and distort UFO history. A short sighting can become memorable if a newspaper gives it a striking headline; a more detailed report can disappear if it was never published, or if the paper is not digitised. The Peeblesshire News has circulated broader Scottish UFO-interest material online, but the accessible evidence found here does not turn that into a robust Peeblesshire case history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PeeblesScotBorders/posts/ufo-special-the-seven-strangest-unexplained-sightings-in-scotlands-skies/1131197293947801/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+Local media can both preserve and distort UFO history. A short sighting can become memorable if a newspaper gives it a striking headline; a more detailed report can disappear if it was never published, or if the paper is not digitised. The Peeblesshire News has circulated broader Scottish UFO-interest material online, but the accessible evidence found here does not turn that into a robust Peeblesshire case history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PeeblesScotBorders/posts/ufo-special-the-seven-strangest-unexplained-sightings-in-scotlands-skies/1131197293947801/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
-This is where Peeblesshire differs from places with famous Scottish UFO narratives. Calvine, in Perthshire, became important because a striking photograph, named investigators, press involvement and MoD handling later converged into a durable mystery; the Guardian’s later account describes how two men reportedly photographed a diamond-shaped object near Calvine in 1990 and how the story passed through press and MoD channels. Peeblesshire has no equivalent public chain of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine? The mystery behind</span><span class="citation-popover-snippet">The Guardian What really happened in Calvine? The mystery behind</span></span></span>
+This is where Peeblesshire differs from places with famous Scottish UFO narratives. Calvine, in Perthshire, became important because a striking photograph, named investigators, press involvement and MoD handling later converged into a durable mystery; the Guardian’s later account describes how two men reportedly photographed a diamond-shaped object near Calvine in 1990 and how the story passed through press and MoD channels. Peeblesshire has no equivalent public chain of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine? The mystery behind</span><span class="citation-popover-snippet">The Guardian What really happened in Calvine? The mystery behind</span></span></span>
 
 
 <img src="{{ "/assets/images/Peeblesshire_4beb86-Illustration-3-dark.svg" | relative_url }}" alt="What Did Peeblesshire Actually See? illustration 3" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -762,7 +762,7 @@ This is where Peeblesshire differs from places with famous Scottish UFO narrativ
 
 The 2005 Peebles entry would become more significant if additional records emerged. The most valuable evidence would be an original witness statement, exact location, viewing direction, duration, weather, date-stamped photographs, aviation checks, or independent witnesses seeing the same object from another point in Peeblesshire or a neighbouring county.
 
-It would be weakened by any matching ordinary explanation: a known aircraft movement, a reflective balloon release, a military or civilian aviation exercise, a bright planet or meteor in a matching direction, or a local event involving pyrotechnics or sky lanterns. The Civil Aviation Authority’s sky-lantern guidance is a useful reminder that lanterns and similar aerial objects can travel unpredictably and create aviation concerns, although the Peebles report’s daytime “small silver” description is not a classic lantern report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+It would be weakened by any matching ordinary explanation: a known aircraft movement, a reflective balloon release, a military or civilian aviation exercise, a bright planet or meteor in a matching direction, or a local event involving pyrotechnics or sky lanterns. The Civil Aviation Authority’s sky-lantern guidance is a useful reminder that lanterns and similar aerial objects can travel unpredictably and create aviation concerns, although the Peebles report’s daytime “small silver” description is not a classic lantern report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 At present, the best classification is modest: a single official UK UFO-report entry, geographically relevant to historic Peeblesshire, interesting because it was a daytime silver-object report, but too sparse to support strong claims.
 
@@ -771,7 +771,7 @@ At present, the best classification is modest: a single official UK UFO-report e
 
 ## Peeblesshire’s place in the wider Scottish UFO story
 
-Peeblesshire’s UFO history is most useful as a contrast case. Scotland has a rich UFO culture, from early flying-saucer enthusiasm to modern UAP debates. The Royal Society of Edinburgh’s 2025 event on Scotland’s UFO history described a tradition stretching from the early 1950s to the 1990s, shaped by Cold War anxiety, contactee hopes, investigators, and social change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rse.org.uk/event/scotlands-history-with-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rse.org.uk">[Royal Society of Edinburgh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rse.org.uk</span><span class="citation-popover-snippet">Open source on rse.org.uk.</span></span></span>
+Peeblesshire’s UFO history is most useful as a contrast case. Scotland has a rich UFO culture, from early flying-saucer enthusiasm to modern UAP debates. The Royal Society of Edinburgh’s 2025 event on Scotland’s UFO history described a tradition stretching from the early 1950s to the 1990s, shaped by Cold War anxiety, contactee hopes, investigators, and social change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rse.org.uk/event/scotlands-history-with-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rse.org.uk">[Royal Society of Edinburgh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rse.org.uk</span><span class="citation-popover-snippet">Open source on rse.org.uk.</span></span></span>
 
 Within that wider story, Peeblesshire is not a headline county. Its record points instead to the quieter underside of UFO history: single reports, thin summaries, ambiguous skies, and the difficulty of reconstructing local events after the official system that recorded them has closed. The county’s hills, dark skies and proximity to wider Scottish aviation routes make sightings plausible in the everyday sense — people can and do see puzzling things — but the public evidence does not justify a claim of repeated unknown craft over Tweeddale.
 
@@ -782,194 +782,194 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Peeblesshire Actually See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Peeblesshire Actually See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating official reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating official reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a page examining sparse local UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page examining sparse local UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Relevant to British sighting records like Peebles 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to British sighting records like Peebles 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds historical perspective to isolated sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds historical perspective to isolated sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-did-peeblesshire-actually-see-peeblesshire-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-peeblesshire-actually-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-peeblesshire-actually-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -985,7 +985,7 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1005,7 +1005,7 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1037,7 +1037,7 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1089,7 +1089,7 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1134,7 +1134,7 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1175,496 +1175,496 @@ The most honest reading is therefore balanced. Peeblesshire has at least one cle
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Peeblesshire | Borderland, Lowland, Scotland  
-   Link: <a href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peeblesshire</a>  
+   Link:<a href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peeblesshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peeblesshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peeblesshire</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scotborders.gov.uk  
-   Link: <a href="https://www.scotborders.gov.uk/council-2/tweeddale-area-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/council-2/tweeddale-area-partnership</a>  
+   Link:<a href="https://www.scotborders.gov.uk/council-2/tweeddale-area-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/council-2/tweeddale-area-partnership</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rome2rio.com  
-   Link: <a href="https://www.rome2rio.com/s/Nearby-Airports/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.rome2rio.com/s/Nearby-Airports/Peebles</a>  
+   Link:<a href="https://www.rome2rio.com/s/Nearby-Airports/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.rome2rio.com/s/Nearby-Airports/Peebles</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: After 50 years, UK ministry shuts down UFO unit  
-   Link: <a href="https://www.reuters.com/article/lifestyle/after-50-years-uk-ministry-shuts-down-ufo-unit-idUSTRE5B416X/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/after-50-years-uk-ministry-shuts-down-ufo-unit-idUSTRE5B416X/</a>  
+   Link:<a href="https://www.reuters.com/article/lifestyle/after-50-years-uk-ministry-shuts-down-ufo-unit-idUSTRE5B416X/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/after-50-years-uk-ministry-shuts-down-ufo-unit-idUSTRE5B416X/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531143</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531143" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531143</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PeeblesScotBorders/posts/ufo-special-the-seven-strangest-unexplained-sightings-in-scotlands-skies/1131197293947801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeeblesScotBorders/posts/ufo-special-the-seven-strangest-unexplained-sightings-in-scotlands-skies/1131197293947801/</a>  
+   Link:<a href="https://www.facebook.com/PeeblesScotBorders/posts/ufo-special-the-seven-strangest-unexplained-sightings-in-scotlands-skies/1131197293947801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeeblesScotBorders/posts/ufo-special-the-seven-strangest-unexplained-sightings-in-scotlands-skies/1131197293947801/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://de.wikipedia.org/wiki/Ufologie" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Ufologie</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Ufologie" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Ufologie</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Counties of Scotland  
-   Link: <a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Curtis Peebles  
-   Link: <a href="https://en.wikipedia.org/wiki/Curtis_Peebles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Curtis_Peebles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Curtis_Peebles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Curtis_Peebles</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C., UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Chiles Whitted UFO encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: RAF Charterhall  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Charterhall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Charterhall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Charterhall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Charterhall</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: RAF Church Broughton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Church_Broughton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Church_Broughton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Church_Broughton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Church_Broughton</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Perseids" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perseids</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perseids" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perseids</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archive.org  
    Title: watchskieschroni0000peeb k3q2  
-   Link: <a href="https://archive.org/details/watchskieschroni0000peeb_k3q2" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/watchskieschroni0000peeb_k3q2</a>  
+   Link:<a href="https://archive.org/details/watchskieschroni0000peeb_k3q2" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/watchskieschroni0000peeb_k3q2</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandsscenery/posts/4742773369075332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/4742773369075332/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandsscenery/posts/4742773369075332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/4742773369075332/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/878759398876058/posts/26680850871573557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/878759398876058/posts/26680850871573557/</a>  
+   Link:<a href="https://www.facebook.com/groups/878759398876058/posts/26680850871573557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/878759398876058/posts/26680850871573557/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
    Title: peeblesshire siorrachd nam pùballan tweeddale upper tweeddale shire from 12th ce  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/peeblesshire-siorrachd-nam-p%C3%B9ballan-tweeddale-upper-tweeddale-shire-from-12th-ce/1167175255566040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/peeblesshire-siorrachd-nam-p%C3%B9ballan-tweeddale-upper-tweeddale-shire-from-12th-ce/1167175255566040/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/peeblesshire-siorrachd-nam-p%C3%B9ballan-tweeddale-upper-tweeddale-shire-from-12th-ce/1167175255566040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/peeblesshire-siorrachd-nam-p%C3%B9ballan-tweeddale-upper-tweeddale-shire-from-12th-ce/1167175255566040/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/the-county-of-peebles-is-a-shire-in-southern-scotlandthe-county-is-also-known-as/897464799203755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-peebles-is-a-shire-in-southern-scotlandthe-county-is-also-known-as/897464799203755/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/the-county-of-peebles-is-a-shire-in-southern-scotlandthe-county-is-also-known-as/897464799203755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-peebles-is-a-shire-in-southern-scotlandthe-county-is-also-known-as/897464799203755/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/803467291554517/posts/1114225393812037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803467291554517/posts/1114225393812037/</a>  
+   Link:<a href="https://www.facebook.com/groups/803467291554517/posts/1114225393812037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803467291554517/posts/1114225393812037/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
    Title: the report was published recently  
-   Link: <a href="https://www.facebook.com/peeblesshirenews/posts/the-report-was-published-recently/1469004595232517/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peeblesshirenews/posts/the-report-was-published-recently/1469004595232517/</a>  
+   Link:<a href="https://www.facebook.com/peeblesshirenews/posts/the-report-was-published-recently/1469004595232517/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peeblesshirenews/posts/the-report-was-published-recently/1469004595232517/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/savekingsmeadows/posts/1532746411363101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/savekingsmeadows/posts/1532746411363101/</a>  
+   Link:<a href="https://www.facebook.com/groups/savekingsmeadows/posts/1532746411363101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/savekingsmeadows/posts/1532746411363101/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/clevelandorchestra/posts/whether-his-hair-was-flying-or-he-was-conversing-intimately-with-the-keyboard-th/829220415561259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/clevelandorchestra/posts/whether-his-hair-was-flying-or-he-was-conversing-intimately-with-the-keyboard-th/829220415561259/</a>  
+   Link:<a href="https://www.facebook.com/clevelandorchestra/posts/whether-his-hair-was-flying-or-he-was-conversing-intimately-with-the-keyboard-th/829220415561259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/clevelandorchestra/posts/whether-his-hair-was-flying-or-he-was-conversing-intimately-with-the-keyboard-th/829220415561259/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/peeblesshirenews/posts/did-you-see-anything/794317119367938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peeblesshirenews/posts/did-you-see-anything/794317119367938/</a>  
+   Link:<a href="https://www.facebook.com/peeblesshirenews/posts/did-you-see-anything/794317119367938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peeblesshirenews/posts/did-you-see-anything/794317119367938/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lauriegwenshapiro/posts/i-saw-this-last-week-and-many-people-saying-ufos-le-sighprof-mark-inall-an-ocean/10227281314552366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lauriegwenshapiro/posts/i-saw-this-last-week-and-many-people-saying-ufos-le-sighprof-mark-inall-an-ocean/10227281314552366/</a>  
+   Link:<a href="https://www.facebook.com/lauriegwenshapiro/posts/i-saw-this-last-week-and-many-people-saying-ufos-le-sighprof-mark-inall-an-ocean/10227281314552366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lauriegwenshapiro/posts/i-saw-this-last-week-and-many-people-saying-ufos-le-sighprof-mark-inall-an-ocean/10227281314552366/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburgh.evening.news/posts/locals-shared-their-confusion-at-the-strange-sighting/6153442301380960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburgh.evening.news/posts/locals-shared-their-confusion-at-the-strange-sighting/6153442301380960/</a>  
+   Link:<a href="https://www.facebook.com/edinburgh.evening.news/posts/locals-shared-their-confusion-at-the-strange-sighting/6153442301380960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburgh.evening.news/posts/locals-shared-their-confusion-at-the-strange-sighting/6153442301380960/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Innerleithen.Online/posts/6889333081108179/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Innerleithen.Online/posts/6889333081108179/</a>  
+   Link:<a href="https://www.facebook.com/groups/Innerleithen.Online/posts/6889333081108179/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Innerleithen.Online/posts/6889333081108179/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandsscenery/posts/27365179139741433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/27365179139741433/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandsscenery/posts/27365179139741433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/27365179139741433/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/751932428325919/posts/2801432160042592/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/751932428325919/posts/2801432160042592/</a>  
+   Link:<a href="https://www.facebook.com/groups/751932428325919/posts/2801432160042592/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/751932428325919/posts/2801432160042592/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandsscenery/posts/24464067966519246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/24464067966519246/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandsscenery/posts/24464067966519246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/24464067966519246/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/</a>  
+   Link:<a href="https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/475466395815935/posts/these-are-a-few-of-my-ufo-quilts-which-i-have-managed-to-complete-sewing-now-i-h/855242851171619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/475466395815935/posts/these-are-a-few-of-my-ufo-quilts-which-i-have-managed-to-complete-sewing-now-i-h/855242851171619/</a>  
+   Link:<a href="https://www.facebook.com/475466395815935/posts/these-are-a-few-of-my-ufo-quilts-which-i-have-managed-to-complete-sewing-now-i-h/855242851171619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/475466395815935/posts/these-are-a-few-of-my-ufo-quilts-which-i-have-managed-to-complete-sewing-now-i-h/855242851171619/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/peeblesshirenews/posts/the-man-was-recovered-from-the-river-near-innerleithen/10158009637430194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peeblesshirenews/posts/the-man-was-recovered-from-the-river-near-innerleithen/10158009637430194/</a>  
+   Link:<a href="https://www.facebook.com/peeblesshirenews/posts/the-man-was-recovered-from-the-river-near-innerleithen/10158009637430194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peeblesshirenews/posts/the-man-was-recovered-from-the-river-near-innerleithen/10158009637430194/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/when-the-blue-book-records-yes-the-ones-about-the-ufos-were-transferred-from-the/10156560891452994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/when-the-blue-book-records-yes-the-ones-about-the-ufos-were-transferred-from-the/10156560891452994/</a>  
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/when-the-blue-book-records-yes-the-ones-about-the-ufos-were-transferred-from-the/10156560891452994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/when-the-blue-book-records-yes-the-ones-about-the-ufos-were-transferred-from-the/10156560891452994/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNTNews/posts/an-nt-businessman-has-shed-light-on-recent-mystery-ufo-sightings-read-the-latest/1507264437415856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/an-nt-businessman-has-shed-light-on-recent-mystery-ufo-sightings-read-the-latest/1507264437415856/</a>  
+   Link:<a href="https://www.facebook.com/TheNTNews/posts/an-nt-businessman-has-shed-light-on-recent-mystery-ufo-sightings-read-the-latest/1507264437415856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/an-nt-businessman-has-shed-light-on-recent-mystery-ufo-sightings-read-the-latest/1507264437415856/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Innerleithen.Online/posts/24614613554820192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Innerleithen.Online/posts/24614613554820192/</a>  
+   Link:<a href="https://www.facebook.com/groups/Innerleithen.Online/posts/24614613554820192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Innerleithen.Online/posts/24614613554820192/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/</a>  
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/a-royal-air-force-shadow-aircraft-observed-conducting-unusual-flight-patterns-ov/1013941990779064/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/highlandcountyohchat/posts/1822538445268209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/highlandcountyohchat/posts/1822538445268209/</a>  
+   Link:<a href="https://www.facebook.com/groups/highlandcountyohchat/posts/1822538445268209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/highlandcountyohchat/posts/1822538445268209/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KREM2/posts/a-meteor-sighting-has-drawn-families-collectors-and-curious-visitors-into-fields/1405537108284422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KREM2/posts/a-meteor-sighting-has-drawn-families-collectors-and-curious-visitors-into-fields/1405537108284422/</a>  
+   Link:<a href="https://www.facebook.com/KREM2/posts/a-meteor-sighting-has-drawn-families-collectors-and-curious-visitors-into-fields/1405537108284422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KREM2/posts/a-meteor-sighting-has-drawn-families-collectors-and-curious-visitors-into-fields/1405537108284422/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCairns/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1063199979251003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCairns/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1063199979251003/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCairns/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1063199979251003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCairns/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1063199979251003/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NBC10Boston/videos/dashcam-video-from-a-driver-in-upstate-new-york-captured-the-meteor-on-camera-sa/1506239697621009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBC10Boston/videos/dashcam-video-from-a-driver-in-upstate-new-york-captured-the-meteor-on-camera-sa/1506239697621009/</a>  
+   Link:<a href="https://www.facebook.com/NBC10Boston/videos/dashcam-video-from-a-driver-in-upstate-new-york-captured-the-meteor-on-camera-sa/1506239697621009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBC10Boston/videos/dashcam-video-from-a-driver-in-upstate-new-york-captured-the-meteor-on-camera-sa/1506239697621009/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/LaneCountyCaughtOnCamera/posts/2101329710251211/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/LaneCountyCaughtOnCamera/posts/2101329710251211/</a>  
+   Link:<a href="https://www.facebook.com/groups/LaneCountyCaughtOnCamera/posts/2101329710251211/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/LaneCountyCaughtOnCamera/posts/2101329710251211/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DakotaNewsNow/posts/aviation-experts-theorized-the-lights-could-be-from-parachute-flares-used-by-the/3324559997615681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DakotaNewsNow/posts/aviation-experts-theorized-the-lights-could-be-from-parachute-flares-used-by-the/3324559997615681/</a>  
+   Link:<a href="https://www.facebook.com/DakotaNewsNow/posts/aviation-experts-theorized-the-lights-could-be-from-parachute-flares-used-by-the/3324559997615681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DakotaNewsNow/posts/aviation-experts-theorized-the-lights-could-be-from-parachute-flares-used-by-the/3324559997615681/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
    Title: look an outdoor sightingtheymatter  
-   Link: <a href="https://www.facebook.com/PeeblesElementary/posts/look-an-outdoor-sightingtheymatter/2953612621348232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeeblesElementary/posts/look-an-outdoor-sightingtheymatter/2953612621348232/</a>  
+   Link:<a href="https://www.facebook.com/PeeblesElementary/posts/look-an-outdoor-sightingtheymatter/2953612621348232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeeblesElementary/posts/look-an-outdoor-sightingtheymatter/2953612621348232/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10164707224467280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10164707224467280/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10164707224467280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10164707224467280/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/549368463201028/posts/1388250185979514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/549368463201028/posts/1388250185979514/</a>  
+   Link:<a href="https://www.facebook.com/groups/549368463201028/posts/1388250185979514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/549368463201028/posts/1388250185979514/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/p/RAF-Church-Broughton-100066521588139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/RAF-Church-Broughton-100066521588139/</a>  
+   Link:<a href="https://www.facebook.com/p/RAF-Church-Broughton-100066521588139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/RAF-Church-Broughton-100066521588139/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/3910229602562000/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/3910229602562000/</a>  
+   Link:<a href="https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/3910229602562000/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/3910229602562000/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KPRC2AnthonyYanez/posts/houston-ufo-clouds-heres-the-science-those-smooth-lens-shaped-clouds-that-photog/1178987880713668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KPRC2AnthonyYanez/posts/houston-ufo-clouds-heres-the-science-those-smooth-lens-shaped-clouds-that-photog/1178987880713668/</a>  
+   Link:<a href="https://www.facebook.com/KPRC2AnthonyYanez/posts/houston-ufo-clouds-heres-the-science-those-smooth-lens-shaped-clouds-that-photog/1178987880713668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KPRC2AnthonyYanez/posts/houston-ufo-clouds-heres-the-science-those-smooth-lens-shaped-clouds-that-photog/1178987880713668/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
+   Link:<a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: facebook.com  
    Title: a fifth of edinburghs residents claim to have had a legitimate ufo sighting acco  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/a-fifth-of-edinburghs-residents-claim-to-have-had-a-legitimate-ufo-sighting-acco/3231523030471049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/a-fifth-of-edinburghs-residents-claim-to-have-had-a-legitimate-ufo-sighting-acco/3231523030471049/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/a-fifth-of-edinburghs-residents-claim-to-have-had-a-legitimate-ufo-sighting-acco/3231523030471049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/a-fifth-of-edinburghs-residents-claim-to-have-had-a-legitimate-ufo-sighting-acco/3231523030471049/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Annual Report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ca477e5274a38e5755d8b/0469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ca477e5274a38e5755d8b/0469.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ca477e5274a38e5755d8b/0469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ca477e5274a38e5755d8b/0469.pdf</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cd18b40f0b6629523c000/0095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cd18b40f0b6629523c000/0095.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cd18b40f0b6629523c000/0095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cd18b40f0b6629523c000/0095.pdf</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peebles</a>  
+   Link:<a href="https://www.britannica.com/place/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peebles</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
+   Link:<a href="https://www.britannica.com/topic/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/historic-county</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13532575" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13532575</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/ufos-unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/ufos-unidentified-flying-objects</a>  
+   Link:<a href="https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/ufos-unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/ufos-unidentified-flying-objects</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: newspapers.com  
-   Link: <a href="https://www.newspapers.com/newspage/1047461695/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/newspage/1047461695/</a>  
+   Link:<a href="https://www.newspapers.com/newspage/1047461695/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/newspage/1047461695/</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peeblesshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peeblesshire</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: rmg.co.uk  
    Title: meteor shower guide 2026  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: theguardian.com  
    Title: The Guardian What really happened in Calvine? The mystery behind  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-92. <a id="endnote-92"></a>
+92.<a id="endnote-92"></a>
    Source: rse.org.uk  
-   Link: <a href="https://rse.org.uk/event/scotlands-history-with-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://rse.org.uk/event/scotlands-history-with-ufos/</a>  
+   Link:<a href="https://rse.org.uk/event/scotlands-history-with-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://rse.org.uk/event/scotlands-history-with-ufos/</a>  
 
-93. <a id="endnote-93"></a>
+93.<a id="endnote-93"></a>
    Source: caa.co.uk  
    Title: CA P 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-94. <a id="endnote-94"></a>
+94.<a id="endnote-94"></a>
    Source: caa.co.uk  
    Title: Outdoor laser lights and fireworks  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
 
-95. <a id="endnote-95"></a>
+95.<a id="endnote-95"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
 
-96. <a id="endnote-96"></a>
+96.<a id="endnote-96"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/comets-meteors-asteroids" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/comets-meteors-asteroids</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/comets-meteors-asteroids" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/comets-meteors-asteroids</a>  
 
-97. <a id="endnote-97"></a>
+97.<a id="endnote-97"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy</a>  
 
-98. <a id="endnote-98"></a>
+98.<a id="endnote-98"></a>
    Source: journals.socantscot.org  
-   Link: <a href="https://journals.socantscot.org/index.php/psas/article/view/8445" target="_blank" rel="noopener noreferrer nofollow">https://journals.socantscot.org/index.php/psas/article/view/8445</a>  
+   Link:<a href="https://journals.socantscot.org/index.php/psas/article/view/8445" target="_blank" rel="noopener noreferrer nofollow">https://journals.socantscot.org/index.php/psas/article/view/8445</a>  
 
-99. <a id="endnote-99"></a>
+99.<a id="endnote-99"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-100. <a id="endnote-100"></a>
+100.<a id="endnote-100"></a>
    Source: space.com  
    Title: meteor showers 2026  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/meteor-showers-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/meteor-showers-2026</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/meteor-showers-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/meteor-showers-2026</a>  
 
-101. <a id="endnote-101"></a>
+101.<a id="endnote-101"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-102. <a id="endnote-102"></a>
+102.<a id="endnote-102"></a>
    Source: scotlandagainstspin.org  
-   Link: <a href="https://scotlandagainstspin.org/author/aileen-jackson/page/1398/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandagainstspin.org/author/aileen-jackson/page/1398/</a>  
+   Link:<a href="https://scotlandagainstspin.org/author/aileen-jackson/page/1398/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandagainstspin.org/author/aileen-jackson/page/1398/</a>  
 
 ### Additional References
 
-103. <a id="endnote-103"></a>
+103.<a id="endnote-103"></a>
    Source: youtube.com  
    Title: The Town with the Most UFO Sightings in the World  
-   Link: <a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Scotland Dechmont Calvine Bonnybridge documentary The Scottish Village That Became UK&#x27;s Main UFO Hotspot | Paranormal Files | Absolut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Scotland Dechmont Calvine Bonnybridge documentary The Scottish Village That Became UK&#x27;s Main UFO Hotspot | Paranormal Files | Absolut...</p></details>
 
-104. <a id="endnote-104"></a>
+104.<a id="endnote-104"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=pc0v6lLaFPU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pc0v6lLaFPU</a>  
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Life UFO Sightings In Scotland | Our Life...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pc0v6lLaFPU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pc0v6lLaFPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real Life UFO Sightings In Scotland | Our Life...</p></details>
 
-105. <a id="endnote-105"></a>
+105.<a id="endnote-105"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="http://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History...</p></details>
 
-106. <a id="endnote-106"></a>
+106.<a id="endnote-106"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UNBELIEVABLE UFO Photo Shatters Logic (Season 20) | History  
-   Link: <a href="http://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8JV0xnHHfHo</a>  
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8JV0xnHHfHo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8JV0xnHHfHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
 
-107. <a id="endnote-107"></a>
+107.<a id="endnote-107"></a>
    Source: youtube.com  
    Title: Real Life UFO Sightings In Scotland | Our Life  
-   Link: <a href="http://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_BncA7etPeY</a>  
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_BncA7etPeY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
 
-108. <a id="endnote-108"></a>
+108.<a id="endnote-108"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-109. <a id="endnote-109"></a>
+109.<a id="endnote-109"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/190d72p/76th_anniversary_of_the_first_uforelated_death/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/190d72p/76th_anniversary_of_the_first_uforelated_death/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/190d72p/76th_anniversary_of_the_first_uforelated_death/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/190d72p/76th_anniversary_of_the_first_uforelated_death/</a>  
 
-110. <a id="endnote-110"></a>
+110.<a id="endnote-110"></a>
    Source: ebay.com  
-   Link: <a href="https://www.ebay.com/itm/366237171781?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/366237171781?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
+   Link:<a href="https://www.ebay.com/itm/366237171781?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/366237171781?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
 
-111. <a id="endnote-111"></a>
+111.<a id="endnote-111"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/travel-planning/plane" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/travel-planning/plane</a>  
+   Link:<a href="https://www.visitscotland.com/travel-planning/plane" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/travel-planning/plane</a>  
 
-112. <a id="endnote-112"></a>
+112.<a id="endnote-112"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/collections/item/object/1500026754" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1500026754</a>  
+   Link:<a href="https://www.iwm.org.uk/collections/item/object/1500026754" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1500026754</a>  

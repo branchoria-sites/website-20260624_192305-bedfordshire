@@ -248,7 +248,7 @@ image: /assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-overview-soci
 
 ## Introduction
 
-The Lossiemouth Martian story lasted because it was a perfect 1950s contactee tale: remote beach, solitary witness, landed saucer, human-like visitor, blurry photographs and just enough local colour to sound reportable. Cedric Allingham’s *Flying Saucer from Mars* claimed that on 18 February 1954, during a caravan holiday near Lossiemouth in [Morayshire]({{ 'what-really-happened-in-morayshires-ufo/' | relative_url }}), he met a Martian pilot and communicated by signs and telepathy. The story is now best read not as an unresolved Morayshire landing case, but as a British UFO hoax that used a real Moray Firth setting to give a doubtful tale a convincing stage. Later investigation by Christopher Allan and Steuart Campbell in *Magonia* linked the book to Peter Davies and, controversially, to the astronomer Patrick Moore; Moore denied responsibility, but the case against “Allingham” as a genuine witness is strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The Lossiemouth Martian story lasted because it was a perfect 1950s contactee tale: remote beach, solitary witness, landed saucer, human-like visitor, blurry photographs and just enough local colour to sound reportable. Cedric Allingham’s *Flying Saucer from Mars* claimed that on 18 February 1954, during a caravan holiday near Lossiemouth in [Morayshire]({{ 'what-really-happened-in-morayshires-ufo/' | relative_url }}), he met a Martian pilot and communicated by signs and telepathy. The story is now best read not as an unresolved Morayshire landing case, but as a British UFO hoax that used a real Moray Firth setting to give a doubtful tale a convincing stage. Later investigation by Christopher Allan and Steuart Campbell in *Magonia* linked the book to Peter Davies and, controversially, to the astronomer Patrick Moore; Moore denied responsibility, but the case against “Allingham” as a genuine witness is strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
 
 <img src="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-overview.webp" | relative_url }}" alt="Overview image for Martian Hoax" loading="eager" decoding="sync" fetchpriority="high">
@@ -259,13 +259,13 @@ For Morayshire’s UFO history, the value of the case is therefore critical rath
 
 ## The claimed saucer meeting near Lossiemouth
 
-Lossiemouth was a useful setting for the story because it was recognisable but not over-familiar to most readers outside north-east Scotland. It was a real fishing town in Morayshire, at the mouth of the River Lossie on the Moray Firth, with beaches, dunes, a harbour landscape and open coastal views. Wikishire describes Lossiemouth as a Morayshire town that developed from fishing communities, while Britannica places Lossiemouth in both the Moray council area and the historic county of Moray. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Lossiemouth</span><span class="citation-popover-snippet">Wikishire Lossiemouth</span></span></span>
+Lossiemouth was a useful setting for the story because it was recognisable but not over-familiar to most readers outside north-east Scotland. It was a real fishing town in Morayshire, at the mouth of the River Lossie on the Moray Firth, with beaches, dunes, a harbour landscape and open coastal views. Wikishire describes Lossiemouth as a Morayshire town that developed from fishing communities, while Britannica places Lossiemouth in both the Moray council area and the historic county of Moray.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Lossiemouth</span><span class="citation-popover-snippet">Wikishire Lossiemouth</span></span></span>
 
-That geography matters. A tale set in central London or at a busy railway station would invite immediate corroboration. A tale set near Lossiemouth, on a lonely beach during a caravan holiday, could sound plausible while remaining hard to check. Allingham presented himself as a sober, outdoorsy observer: a writer, amateur astronomer, bird-watcher and caravanner. This was not accidental texture. It made the narrator look like the sort of person who might be alone with binoculars and a camera, but also the sort of person who could claim enough technical competence to describe a craft and its occupant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Open source on spookyisles.com.</span></span></span>
+That geography matters. A tale set in central London or at a busy railway station would invite immediate corroboration. A tale set near Lossiemouth, on a lonely beach during a caravan holiday, could sound plausible while remaining hard to check. Allingham presented himself as a sober, outdoorsy observer: a writer, amateur astronomer, bird-watcher and caravanner. This was not accidental texture. It made the narrator look like the sort of person who might be alone with binoculars and a camera, but also the sort of person who could claim enough technical competence to describe a craft and its occupant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Open source on spookyisles.com.</span></span></span>
 
-The story itself followed the contactee pattern. Allingham said he was bird-watching near Lossiemouth when a flying saucer landed, a human-like occupant emerged, and the two communicated. The visitor was identified as coming from Mars and, in some versions, as having visited Venus and the Moon. The supposed supporting evidence included blurred saucer photographs, a rear-view image of the departing occupant, and a statement attributed to a local fisherman named James Duncan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The story itself followed the contactee pattern. Allingham said he was bird-watching near Lossiemouth when a flying saucer landed, a human-like occupant emerged, and the two communicated. The visitor was identified as coming from Mars and, in some versions, as having visited Venus and the Moon. The supposed supporting evidence included blurred saucer photographs, a rear-view image of the departing occupant, and a statement attributed to a local fisherman named James Duncan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
-The claim appeared in the immediate wake of George Adamski’s much-publicised contactee material. Adamski and Desmond Leslie’s *Flying Saucers Have Landed* had appeared in 1953, helping to popularise the idea that selected humans were meeting friendly, human-like visitors from nearby planets. Academic work on post-war UFO culture describes the period as one in which UFOs became a transnational modern myth, mixing spaceflight, popular science, spiritual expectation and contested evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The claim appeared in the immediate wake of George Adamski’s much-publicised contactee material. Adamski and Desmond Leslie’s *Flying Saucers Have Landed* had appeared in 1953, helping to popularise the idea that selected humans were meeting friendly, human-like visitors from nearby planets. Academic work on post-war UFO culture describes the period as one in which UFOs became a transnational modern myth, mixing spaceflight, popular science, spiritual expectation and contested evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
 The Lossiemouth claim was therefore not an isolated oddity. It was the British version of a recognisable formula: a lone experiencer, a landed disc, a planetary visitor, a moral message about human civilisation, and photographs that were impressive enough for believers but weak enough to be challenged by sceptics.
 
@@ -273,11 +273,11 @@ The Lossiemouth claim was therefore not an isolated oddity. It was the British v
 <img src="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-1-dark.svg" | relative_url }}" alt="Martian Hoax illustration 1" data-theme-src-dark="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the evidence weakened quickly
 
-The first problem was the quality and character of the evidence. *Magonia*’s later review noted that the book’s photographs looked contrived, including one in which a supporting wire could reportedly be seen and another showing only an out-of-focus rear view of the supposed alien. Encyclopedia.com similarly summarises the “Martian” photograph as a soft-focus back view rather than a clear image of an identifiable being. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The first problem was the quality and character of the evidence. *Magonia*’s later review noted that the book’s photographs looked contrived, including one in which a supporting wire could reportedly be seen and another showing only an out-of-focus rear view of the supposed alien. Encyclopedia.com similarly summarises the “Martian” photograph as a soft-focus back view rather than a clear image of an identifiable being.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
-The second problem was the witness chain. Allingham’s only named local corroborating witness, James Duncan, was said to be a fisherman, but he could not be traced. That is especially damaging in a case where the physical evidence was weak. A named independent witness can sometimes rescue a thin sighting report; here, the witness became another absence to explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The second problem was the witness chain. Allingham’s only named local corroborating witness, James Duncan, was said to be a fisherman, but he could not be traced. That is especially damaging in a case where the physical evidence was weak. A named independent witness can sometimes rescue a thin sighting report; here, the witness became another absence to explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
-The third problem was Allingham himself. After the book appeared in October 1954, investigators and flying saucer enthusiasts tried to find him. Instead of becoming available for questioning, he became increasingly elusive. Accounts describe him as being in the United States, then ill with tuberculosis in a Swiss sanatorium, and then dead. Robert Chapman later argued that if Duncan could not be found and Allingham could not be found, perhaps neither the witness nor the author existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The third problem was Allingham himself. After the book appeared in October 1954, investigators and flying saucer enthusiasts tried to find him. Instead of becoming available for questioning, he became increasingly elusive. Accounts describe him as being in the United States, then ill with tuberculosis in a Swiss sanatorium, and then dead. Robert Chapman later argued that if Duncan could not be found and Allingham could not be found, perhaps neither the witness nor the author existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
 This is the key distinction for a county UFO page. A Morayshire case can be weak because no official file survives, because witnesses disagree, or because an ordinary stimulus such as aircraft, stars or weather was misidentified. The Lossiemouth Martian story is different. Its weakness is structural: the claimed author was not available, the corroborating witness was not traceable, the photographs were poor, and the plot closely followed a fashionable contactee template.
 
@@ -286,15 +286,15 @@ This is the key distinction for a county UFO page. A Morayshire case can be weak
 
 ## How later writers challenged Cedric Allingham
 
-The decisive later challenge came from Christopher Allan and Steuart Campbell, whose 1986 *Magonia* article “Flying Saucer from Moore’s?” examined whether Cedric Allingham had ever been a real, independent witness. They found that no Allingham appeared in relevant membership lists where one might expect an amateur astronomer of the book’s claimed profile to appear, and they identified detailed astronomical knowledge in the book that pointed towards someone embedded in British astronomical circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The decisive later challenge came from Christopher Allan and Steuart Campbell, whose 1986 *Magonia* article “Flying Saucer from Moore’s?” examined whether Cedric Allingham had ever been a real, independent witness. They found that no Allingham appeared in relevant membership lists where one might expect an amateur astronomer of the book’s claimed profile to appear, and they identified detailed astronomical knowledge in the book that pointed towards someone embedded in British astronomical circles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
-Their investigation focused on Patrick Moore, already known as an astronomer, writer, broadcaster and critic of UFO claims. The case was circumstantial rather than a courtroom confession. It included similarities between the Allingham text and Moore’s writings, Moore’s own statements that he had met Allingham at a UFO lecture, and the fact that Moore appeared to be the only person who claimed personal knowledge of the elusive author. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+Their investigation focused on Patrick Moore, already known as an astronomer, writer, broadcaster and critic of UFO claims. The case was circumstantial rather than a courtroom confession. It included similarities between the Allingham text and Moore’s writings, Moore’s own statements that he had met Allingham at a UFO lecture, and the fact that Moore appeared to be the only person who claimed personal knowledge of the elusive author.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
-The investigation then brought in Peter Davies. Allan and Campbell traced Davies after a returned publisher’s envelope revealed identifying information. Davies reportedly admitted involvement with *Flying Saucer from Mars*, said he had revised the manuscript to disguise the author’s style, and admitted that the frontispiece photograph of “Allingham” was actually himself in disguise. He also said he had posed as Allingham at a lecture to a flying saucer group in Kent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric &#124; Encyclopedia.com</span></span></span>
+The investigation then brought in Peter Davies. Allan and Campbell traced Davies after a returned publisher’s envelope revealed identifying information. Davies reportedly admitted involvement with *Flying Saucer from Mars*, said he had revised the manuscript to disguise the author’s style, and admitted that the frontispiece photograph of “Allingham” was actually himself in disguise. He also said he had posed as Allingham at a lecture to a flying saucer group in Kent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric &#124; Encyclopedia.com</span></span></span>
 
-The photographic trail strengthened the case. *Magonia* reproduced and discussed the book’s frontispiece image, captioned as Cedric Allingham with his telescope, and identified it instead as Peter Davies beside Patrick Moore’s reflector in Moore’s garden at East Grinstead. Encyclopedia.com gives the same broad account: the telescope, garden background and Davies connection pointed away from a genuine Lossiemouth witness and towards an organised literary hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+The photographic trail strengthened the case. *Magonia* reproduced and discussed the book’s frontispiece image, captioned as Cedric Allingham with his telescope, and identified it instead as Peter Davies beside Patrick Moore’s reflector in Moore’s garden at East Grinstead. Encyclopedia.com gives the same broad account: the telescope, garden background and Davies connection pointed away from a genuine Lossiemouth witness and towards an organised literary hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
-Moore never publicly accepted responsibility. He denied being the author and threatened legal action against those repeating the accusation, though accounts note that the threatened actions did not settle the matter by producing a clear alternative explanation. The fairest wording is therefore not that Moore “confessed”, but that later investigators made a strong circumstantial case for a hoax involving Davies and almost certainly Moore, while Moore denied the allegation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric &#124; Encyclopedia.com</span></span></span>
+Moore never publicly accepted responsibility. He denied being the author and threatened legal action against those repeating the accusation, though accounts note that the threatened actions did not settle the matter by producing a clear alternative explanation. The fairest wording is therefore not that Moore “confessed”, but that later investigators made a strong circumstantial case for a hoax involving Davies and almost certainly Moore, while Moore denied the allegation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric &#124; Encyclopedia.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-2-dark.svg" | relative_url }}" alt="Martian Hoax illustration 2" data-theme-src-dark="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,9 +302,9 @@ Moore never publicly accepted responsibility. He denied being the author and thr
 
 The story endured because it did several things at once. It entertained readers, flattered believers with apparent photographic proof, gave British UFO culture its own contactee narrative, and offered sceptics a near-perfect example of how saucer lore could be manufactured.
 
-It also showed the power of local realism. Lossiemouth was not incidental window dressing. The Moray coast gave the tale a believable isolation: a beach, a bird-watcher, a fisherman, a distant craft and a visitor who could vanish before anyone else arrived. The town’s real maritime identity helped the fictional James Duncan feel plausible. The open coastal landscape helped the saucer landing feel visually imaginable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Lossiemouth</span><span class="citation-popover-snippet">Wikishire Lossiemouth</span></span></span>
+It also showed the power of local realism. Lossiemouth was not incidental window dressing. The Moray coast gave the tale a believable isolation: a beach, a bird-watcher, a fisherman, a distant craft and a visitor who could vanish before anyone else arrived. The town’s real maritime identity helped the fictional James Duncan feel plausible. The open coastal landscape helped the saucer landing feel visually imaginable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Lossiemouth</span><span class="citation-popover-snippet">Wikishire Lossiemouth</span></span></span>
 
-At the same time, the hoax reveals a weakness in contactee folklore. These stories often presented themselves as unusually direct evidence: not just lights in the sky, but beings, craft, messages and photographs. Yet the more detailed the Lossiemouth account became, the more vulnerable it was to verification. Where was the author? Where was Duncan? Why were the photographs so poor? Why did the narrative resemble the Adamski model so closely? Why did the supposed witness disappear just when interviewers wanted to test the claim? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+At the same time, the hoax reveals a weakness in contactee folklore. These stories often presented themselves as unusually direct evidence: not just lights in the sky, but beings, craft, messages and photographs. Yet the more detailed the Lossiemouth account became, the more vulnerable it was to verification. Where was the author? Where was Duncan? Why were the photographs so poor? Why did the narrative resemble the Adamski model so closely? Why did the supposed witness disappear just when interviewers wanted to test the claim?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
 
 For Morayshire, that makes the case a landmark of caution rather than mystery. It belongs in local UFO history because the place-name travelled internationally with the story, not because the event is credible as a landing. The case is part of how Lossiemouth entered UFO folklore, but it should not be treated like a sighting awaiting a better explanation.
 
@@ -327,194 +327,194 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
 <img src="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-3-dark.svg" | relative_url }}" alt="Martian Hoax illustration 3" data-theme-src-dark="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morayshire_6abd28_lossiemouth_martian_f31ee8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Lossiemouth Martian Story Last?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the Lossiemouth Martian Story Last?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly examines the overlap between UFO stories, folklore and contactee narratives like the Allingham case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the overlap between UFO stories, folklore and contactee narratives like the Allingham case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EhtmpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucers Are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EhtmpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucers Are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Provides the cultural context of 1950s UFO enthusiasm that helped stories like Lossiemouth spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the cultural context of 1950s UFO enthusiasm that helped stories like Lossiemouth spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers compare folklore-rich claims with evidence-based case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare folklore-rich claims with evidence-based case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrast between stronger documented cases and classic contactee stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrast between stronger documented cases and classic contactee stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers Are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers Are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="martian-hoax-why-did-the-lossiemouth-martian-story-last-morayshire-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,139 +720,139 @@ This is why the story lasted. It was vivid enough for believers, ridiculous enou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
    Title: Allingham, Cedric | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lossiemouth</a>  
+   Link:<a href="https://www.britannica.com/place/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lossiemouth</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Moray-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Moray-council-area-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Moray-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Moray-council-area-Scotland</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lossiemouth.org  
-   Link: <a href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/heritage-walk/" target="_blank" rel="noopener noreferrer nofollow">https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/heritage-walk/</a>  
+   Link:<a href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/heritage-walk/" target="_blank" rel="noopener noreferrer nofollow">https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/heritage-walk/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: magoniamagazine.blogspot.com  
    Title: Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore's?  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/10/allingham.html</a>  
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/10/allingham.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Lossiemouth  
-   Link: <a href="https://wikishire.co.uk/wiki/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lossiemouth</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lossiemouth</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spookyisles.com  
-   Link: <a href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/cedric-allingham-ufos/</a>  
+   Link:<a href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/cedric-allingham-ufos/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: <a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: <a href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Cedric_Allingham</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Cedric_Allingham</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: County of Moray  
-   Link: <a href="https://en.wikipedia.org/wiki/County_of_Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_of_Moray</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_of_Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_of_Moray</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moray</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moray</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Morayshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Morayshire</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Trust  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Trust" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Trust</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Trust" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Trust</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spookyisles.com  
    Title: falkirk triangle ufo  
-   Link: <a href="https://www.spookyisles.com/falkirk-triangle-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/falkirk-triangle-ufo/</a>  
+   Link:<a href="https://www.spookyisles.com/falkirk-triangle-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/falkirk-triangle-ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: professorsolomon.com  
    Title: George Adamski  
-   Link: <a href="https://www.professorsolomon.com/graphics/georgeadamski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.professorsolomon.com/graphics/georgeadamski.pdf</a>  
+   Link:<a href="https://www.professorsolomon.com/graphics/georgeadamski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.professorsolomon.com/graphics/georgeadamski.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: goodreads.com  
    Title: George Adamski  
-   Link: <a href="https://www.goodreads.com/book/show/46269986" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/46269986</a>  
+   Link:<a href="https://www.goodreads.com/book/show/46269986" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/46269986</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sfandfantasy.co.uk  
    Title: Patrick Moore  
-   Link: <a href="https://sfandfantasy.co.uk/php/pm.php" target="_blank" rel="noopener noreferrer nofollow">https://sfandfantasy.co.uk/php/pm.php</a>  
+   Link:<a href="https://sfandfantasy.co.uk/php/pm.php" target="_blank" rel="noopener noreferrer nofollow">https://sfandfantasy.co.uk/php/pm.php</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-LtfWWEsuqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LtfWWEsuqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cedric Allingham Flying Saucer from Mars Patrick Moore Patrick Moore &amp; Flying Saucer From Mars?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-LtfWWEsuqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LtfWWEsuqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cedric Allingham Flying Saucer from Mars Patrick Moore Patrick Moore &amp; Flying Saucer From Mars?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The A70 Incident: Scotland&#x27;s Extraterrestrial Abduction Mystery (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The A70 Incident: Scotland&#x27;s Extraterrestrial Abduction Mystery (Paranormal &amp; Mystery)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iDXfK4-06WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iDXfK4-06WE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iDXfK4-06WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iDXfK4-06WE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Lossiemouth Incident Part 2: The Author (Paranormal & Mystery)  
-   Link: <a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ycVLUrymwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Moore &amp; Flying Saucer From Mars?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ycVLUrymwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Moore &amp; Flying Saucer From Mars?...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Patrick Moore & Flying Saucer From Mars?!  
-   Link: <a href="https://www.youtube.com/watch?v=fiRLQ2YMFAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fiRLQ2YMFAs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Moore 金星語を話せますか？Can You Speak Venusian? One Pair Of Eyes 1969...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fiRLQ2YMFAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fiRLQ2YMFAs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Moore 金星語を話せますか？Can You Speak Venusian? One Pair Of Eyes 1969...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2</a>  
+   Link:<a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
+   Link:<a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
+   Link:<a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tomhascallcole.com  
-   Link: <a href="https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html</a>  
+   Link:<a href="https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf</a>  

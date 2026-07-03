@@ -254,17 +254,17 @@ image: /assets/images/Wigtownshire_1186ed_official_file_trail_71d329-overview-so
 
 ## Introduction
 
-The [Wigtownshire]({{ 'why-wigtownshire-still-matters-to-ufo/' | relative_url }}) UFO source trail is not a tidy county archive. It is a national defence paper trail that happens to touch Wigtownshire most clearly through RAF [West Freugh]({{ 'west-freugh/' | relative_url }}), the bombing and weapons range south-east of Stranraer on Luce Bay. The key 1957 case sits in Air Ministry and later Ministry of Defence records, Parliamentary material and National Archives guidance, not in a neat folder labelled “Wigtownshire UFOs”. That matters because a county-level search can easily miss the best evidence: radar reports may be filed under an RAF station, an Air Ministry branch, a Parliamentary Question, a defence intelligence series, or a later UFO-release batch rather than under the historic county name. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+The [Wigtownshire]({{ 'why-wigtownshire-still-matters-to-ufo/' | relative_url }}) UFO source trail is not a tidy county archive. It is a national defence paper trail that happens to touch Wigtownshire most clearly through RAF [West Freugh]({{ 'west-freugh/' | relative_url }}), the bombing and weapons range south-east of Stranraer on Luce Bay. The key 1957 case sits in Air Ministry and later Ministry of Defence records, Parliamentary material and National Archives guidance, not in a neat folder labelled “Wigtownshire UFOs”. That matters because a county-level search can easily miss the best evidence: radar reports may be filed under an RAF station, an Air Ministry branch, a Parliamentary Question, a defence intelligence series, or a later UFO-release batch rather than under the historic county name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[qinetiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-overview.webp" | relative_url }}" alt="Overview image for Official Files" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to judge what the official record actually supports, the source trail points to a careful middle position. West Freugh was taken seriously enough to reach defence-intelligence channels, but the surviving files do not prove an extraordinary object. They show how British authorities collected, classified, explained, lost, retained and eventually released fragments of a case that remains unresolved because the record is incomplete as well as unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+For readers trying to judge what the official record actually supports, the source trail points to a careful middle position. West Freugh was taken seriously enough to reach defence-intelligence channels, but the surviving files do not prove an extraordinary object. They show how British authorities collected, classified, explained, lost, retained and eventually released fragments of a case that remains unresolved because the record is incomplete as well as unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 ## Why Wigtownshire Records Sit in National Defence Files
 
-Wigtownshire’s strongest UFO evidence is tied to RAF West Freugh rather than to a local civilian sighting ledger. QinetiQ, which operates the present MOD West Freugh range, describes it as a weapons Test and Evaluation range about 10 km south-east of Stranraer, on the northern side of [Luce Bay]({{ 'luce-bay/' | relative_url }}), supporting airborne and ground test activity for the UK defence programme and Armed Forces. That setting helps explain why a strange radar incident there would move through national defence systems rather than through a county archive or local council file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
+Wigtownshire’s strongest UFO evidence is tied to RAF West Freugh rather than to a local civilian sighting ledger. QinetiQ, which operates the present MOD West Freugh range, describes it as a weapons Test and Evaluation range about 10 km south-east of Stranraer, on the northern side of [Luce Bay]({{ 'luce-bay/' | relative_url }}), supporting airborne and ground test activity for the UK defence programme and Armed Forces. That setting helps explain why a strange radar incident there would move through national defence systems rather than through a county archive or local council file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Open source on qinetiq.com.</span></span></span>
 
-The relevant official machinery was already in place before the West Freugh incident. The National Archives research guide explains that, after early-1950s RAF interest in “aerial phenomena”, reports from RAF personnel and radar stations were to be sent to the Air Ministry’s Deputy Directorate of Intelligence (Technical), or DDI (Tech), for examination, analysis and classification. The same guide says the Air Ministry obtained advice from Fighter Command, the Meteorological Office and the Royal Greenwich Observatory when assessing likely explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The relevant official machinery was already in place before the West Freugh incident. The National Archives research guide explains that, after early-1950s RAF interest in “aerial phenomena”, reports from RAF personnel and radar stations were to be sent to the Air Ministry’s Deputy Directorate of Intelligence (Technical), or DDI (Tech), for examination, analysis and classification. The same guide says the Air Ministry obtained advice from Fighter Command, the Meteorological Office and the Royal Greenwich Observatory when assessing likely explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 That structure is the first important lesson for Wigtownshire research. A reported object above Luce Bay might be geographically local, but once it involved RAF radar it entered a defence-intelligence pathway. The county name could disappear behind station names, branch names and record series: RAF West Freugh, Air Ministry, DDI (Tech), AIR files, CAB files, DEFE files, Parliamentary Questions and later MoD release material.
 
@@ -272,13 +272,13 @@ That structure is the first important lesson for Wigtownshire research. A report
 <img src="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-1-dark.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Air Ministry and MoD Handling
 
-The West Freugh case reached official attention because it was not simply a member of the public describing a light in the sky. The National Archives guide says that following press reports of UFOs tracked by radar at RAF West Freugh in April 1957, the Air Ministry informed the Joint Intelligence Committee that it could not explain four recent incidents. That is a significant paper-trail marker: the case was not merely a local rumour, but part of a national discussion about aerial phenomena and possible defence interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The West Freugh case reached official attention because it was not simply a member of the public describing a light in the sky. The National Archives guide says that following press reports of UFOs tracked by radar at RAF West Freugh in April 1957, the Air Ministry informed the Joint Intelligence Committee that it could not explain four recent incidents. That is a significant paper-trail marker: the case was not merely a local rumour, but part of a national discussion about aerial phenomena and possible defence interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The same guide identifies RAF West Freugh among the better-documented Air Ministry and MoD UFO cases. It says AIR 2/18564 and AIR 20/9320 contain reports from RAF stations including West Freugh in 1957, and describes the incident as involving UFOs tracked by a number of trailer-mounted radar units at an RAF bombing range in southern Scotland. Its strongest official quotation is the DDI (Tech) conclusion that the incident was due to “five reflecting objects of unidentified type and origin” and was unlikely to have been conventional aircraft, meteorological balloons or charged clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Clarke National Archives Research(AM</span><span class="citation-popover-snippet">Clarke National Archives Research(AM</span></span></span>
+The same guide identifies RAF West Freugh among the better-documented Air Ministry and MoD UFO cases. It says AIR 2/18564 and AIR 20/9320 contain reports from RAF stations including West Freugh in 1957, and describes the incident as involving UFOs tracked by a number of trailer-mounted radar units at an RAF bombing range in southern Scotland. Its strongest official quotation is the DDI (Tech) conclusion that the incident was due to “five reflecting objects of unidentified type and origin” and was unlikely to have been conventional aircraft, meteorological balloons or charged clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Clarke National Archives Research(AM</span><span class="citation-popover-snippet">Clarke National Archives Research(AM</span></span></span>
 
-That wording is often the reason West Freugh is treated as one of the more serious British radar cases. But it should be read precisely. “Unidentified type and origin” is not the same as “extraterrestrial”. It means that the official investigators did not settle on a conventional explanation from the evidence available to them. The Air Ministry’s own wider position, as summarised in the National Archives guide, was cautious: unexplained cases could remain unexplained through lack of data, while defence interest lay partly in the possibility of observing foreign aircraft of unusual design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+That wording is often the reason West Freugh is treated as one of the more serious British radar cases. But it should be read precisely. “Unidentified type and origin” is not the same as “extraterrestrial”. It means that the official investigators did not settle on a conventional explanation from the evidence available to them. The Air Ministry’s own wider position, as summarised in the National Archives guide, was cautious: unexplained cases could remain unexplained through lack of data, while defence interest lay partly in the possibility of observing foreign aircraft of unusual design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The later MoD structure changed names and branches, but the same broad split remained: public-facing correspondence on one side, defence or intelligence assessment on the other. The National Archives guide says the Air Ministry became part of the new Ministry of Defence in 1964; S4 (Air) later handled secretariat responsibilities, and Defence Intelligence branch DI55 inherited responsibility in 1967 for incidents considered to have possible defence significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The later MoD structure changed names and branches, but the same broad split remained: public-facing correspondence on one side, defence or intelligence assessment on the other. The National Archives guide says the Air Ministry became part of the new Ministry of Defence in 1964; S4 (Air) later handled secretariat responsibilities, and Defence Intelligence branch DI55 inherited responsibility in 1967 for incidents considered to have possible defence significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
@@ -287,7 +287,7 @@ The later MoD structure changed names and branches, but the same broad split rem
 
 A reader searching “Wigtownshire UFO records” may find much less than the official record actually contains. The reason is not that the county is irrelevant, but that British UFO records were created around defence administration rather than historic-county cataloguing. In the surviving official lists, West Freugh appears through record references such as AIR 20/9320 and AIR 2/18564, not as a county collection.
 
-Hansard’s 1998 list of open Public Record Office files is a good example. It describes AIR 20/9320 as including a 1957 Parliamentary Question, notes for the minister, and the “UFO incident at West Freugh in Wigtownshire in 1957”, alongside incidents at RAF Church Lawford, RAF Bempton and RAF Lakenheath, plus press cuttings and photographs from other reports. In other words, the Wigtownshire item is one component inside a national Air Ministry file about UFO questions and briefings, not a standalone local case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[Parliament Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+Hansard’s 1998 list of open Public Record Office files is a good example. It describes AIR 20/9320 as including a 1957 Parliamentary Question, notes for the minister, and the “UFO incident at West Freugh in Wigtownshire in 1957”, alongside incidents at RAF Church Lawford, RAF Bempton and RAF Lakenheath, plus press cuttings and photographs from other reports. In other words, the Wigtownshire item is one component inside a national Air Ministry file about UFO questions and briefings, not a standalone local case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[Parliament Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 This creates several practical traps:
 
@@ -307,32 +307,32 @@ The result is that a local-history approach and an archive approach can produce 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-2-dark.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The West Freugh File Trail in Practice
 
-The most useful way to follow the Wigtownshire trail is to treat West Freugh as a node in several overlapping records rather than as a single missing “truth file”. AIR 20/9320 matters because Hansard identifies it as containing the 1957 Parliamentary Question material and the West Freugh incident. AIR 20/9321 and AIR 20/9322 matter because the same Hansard answer places them among 1957 Parliamentary Questions and ministerial notes on UFO detections, radar incidents and press coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[Parliament Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The most useful way to follow the Wigtownshire trail is to treat West Freugh as a node in several overlapping records rather than as a single missing “truth file”. AIR 20/9320 matters because Hansard identifies it as containing the 1957 Parliamentary Question material and the West Freugh incident. AIR 20/9321 and AIR 20/9322 matter because the same Hansard answer places them among 1957 Parliamentary Questions and ministerial notes on UFO detections, radar incidents and press coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[Parliament Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
-AIR 2/18564 matters because National Archives guidance and later file-release material identify it as “UFO Reports: West Freugh 1957”, covering 1957–71. That wider date span is important: it suggests later correspondence or review material may have become attached to the original 1957 case, rather than the file being only a same-day operational report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+AIR 2/18564 matters because National Archives guidance and later file-release material identify it as “UFO Reports: West Freugh 1957”, covering 1957–71. That wider date span is important: it suggests later correspondence or review material may have become attached to the original 1957 case, rather than the file being only a same-day operational report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-CAB references matter because the Joint Intelligence Committee connection shows how the incident rose above routine sighting handling. The National Archives guide says that after press reports of UFOs tracked by radar at West Freugh, the Air Ministry informed the JIC that it was unable to explain four recent incidents, citing CAB 157/27. For Wigtownshire readers, that is one of the clearest signs that the case was treated as a defence question, not just a curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+CAB references matter because the Joint Intelligence Committee connection shows how the incident rose above routine sighting handling. The National Archives guide says that after press reports of UFOs tracked by radar at West Freugh, the Air Ministry informed the JIC that it was unable to explain four recent incidents, citing CAB 157/27. For Wigtownshire readers, that is one of the clearest signs that the case was treated as a defence question, not just a curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-Secondary technical work can help orient readers, but it should not outrank the official file trail. Martin Shough’s study, for example, summarises the West Freugh episode as unusual radar contacts detected on three tracking radars of the Bombing Trials Unit at RAF West Freugh. That is useful specialist context, but the evidential centre remains the official Air Ministry conclusion and the National Archives/Hansard references that locate the records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.martinshough.com/aerialphenomena/westfreugh.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-snippet">Open source on martinshough.com.</span></span></span>
+Secondary technical work can help orient readers, but it should not outrank the official file trail. Martin Shough’s study, for example, summarises the West Freugh episode as unusual radar contacts detected on three tracking radars of the Bombing Trials Unit at RAF West Freugh. That is useful specialist context, but the evidential centre remains the official Air Ministry conclusion and the National Archives/Hansard references that locate the records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.martinshough.com/aerialphenomena/westfreugh.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-snippet">Open source on martinshough.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0dMlej9QJg" title="UFO file release June 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer">UFO file release June 2013</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 120.0K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0dMlej9QJg">Open on YouTube</a></p></div></div></div>
 
 ## What Lost Files Mean for Certainty
 
-The hardest part of the Wigtownshire source trail is not simply finding records; it is knowing what did not survive. The National Archives guide states that until 1967 Ministry of Defence policy was to destroy UFO files at five-yearly intervals, so many records have been lost. It also notes that some earlier Air Ministry UFO papers survived destruction, including AIR 20 files, but that survival was uneven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The hardest part of the Wigtownshire source trail is not simply finding records; it is knowing what did not survive. The National Archives guide states that until 1967 Ministry of Defence policy was to destroy UFO files at five-yearly intervals, so many records have been lost. It also notes that some earlier Air Ministry UFO papers survived destruction, including AIR 20 files, but that survival was uneven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This matters directly for West Freugh. The case looks strong because it involved radar operators, multiple radar units, official attention and a striking unresolved conclusion. But the gaps limit what can be claimed. Missing or partial records can remove calibration details, operator statements, weather assessments, technical diagrams, internal disagreements and the full route by which alternative explanations were accepted or rejected.
 
-Lost files do not make a case stronger by mystery alone. They make it less certain. A missing technical annex might have contained material that sharpened the anomaly; it might also have contained a mundane clue that later writers never saw. The fair reading is therefore restrained: the surviving official record shows that West Freugh was unresolved at the time and taken seriously by Air Ministry channels, but it does not allow a confident reconstruction of everything that happened above Luce Bay on 4 April 1957. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Clarke National Archives Research(AM</span><span class="citation-popover-snippet">Clarke National Archives Research(AM</span></span></span>
+Lost files do not make a case stronger by mystery alone. They make it less certain. A missing technical annex might have contained material that sharpened the anomaly; it might also have contained a mundane clue that later writers never saw. The fair reading is therefore restrained: the surviving official record shows that West Freugh was unresolved at the time and taken seriously by Air Ministry channels, but it does not allow a confident reconstruction of everything that happened above Luce Bay on 4 April 1957.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Clarke National Archives Research(AM</span><span class="citation-popover-snippet">Clarke National Archives Research(AM</span></span></span>
 
 
 <img src="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-3-dark.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wigtownshire_1186ed_official_file_trail_71d329-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later Release Does Not Mean Later Proof
 
-The later release of MoD UFO files changed public access, not the basic evidential status of the Wigtownshire case. The National Archives announced the final tranche of UFO files in 2013, covering the last two years of the MoD’s UFO desk from late 2007 to November 2009. Those files explained why the desk was closed: officials concluded that the work served no defence purpose and that no UFO sighting reported to the MoD had revealed evidence of an extraterrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The later release of MoD UFO files changed public access, not the basic evidential status of the Wigtownshire case. The National Archives announced the final tranche of UFO files in 2013, covering the last two years of the MoD’s UFO desk from late 2007 to November 2009. Those files explained why the desk was closed: officials concluded that the work served no defence purpose and that no UFO sighting reported to the MoD had revealed evidence of an extraterrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That later policy statement should not be used to erase the West Freugh anomaly. The 1957 file trail still shows an official unresolved radar case. But it does place the case inside the broader British defence posture: collect reports where they might matter, assess them for air-defence or intelligence relevance, and avoid treating unexplained as automatically extraordinary. The MoD’s eventual closure of the UFO desk reflected a resource judgement across decades of reports, not a fresh technical solution to every older case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+That later policy statement should not be used to erase the West Freugh anomaly. The 1957 file trail still shows an official unresolved radar case. But it does place the case inside the broader British defence posture: collect reports where they might matter, assess them for air-defence or intelligence relevance, and avoid treating unexplained as automatically extraordinary. The MoD’s eventual closure of the UFO desk reflected a resource judgement across decades of reports, not a fresh technical solution to every older case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 For Wigtownshire, the practical takeaway is simple. The county’s UFO history is not best understood by counting local sightings. It is best understood by following how one radar incident at a military range travelled through Air Ministry intelligence, Parliamentary scrutiny, National Archives cataloguing and later MoD disclosure. The source trail strengthens the case’s importance, but also keeps its interpretation bounded: well documented, officially unresolved, historically significant, and still not proof of anything beyond the limits of the surviving record.
 
@@ -341,194 +341,194 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Do the Wigtownshire UFO Records Sit?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Do the Wigtownshire UFO Records Sit?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz6EGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly addresses British government handling of UFO reports and defence-file investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses British government handling of UFO reports and defence-file investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing incomplete and disputed UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing incomplete and disputed UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official records, military evidence and government responses to unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official records, military evidence and government responses to unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explores British UFO records, archives and the documentary trail behind famous cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores British UFO records, archives and the documentary trail behind famous cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS04 UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/OqUAAOSw3Odmz0pG/s-l225.jpg" alt="Listing image for FS04 UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">FS04 UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="official-files-5dbfad-where-do-the-wigtownshire-ufo-records-sit-wigtownshire-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC MOON PLANETS SPACE UFO POSTER ART PRINT IMAGE SIZE A4"><img src="https://i.ebayimg.com/images/g/JP8AAOSw-aldinci/s-l225.jpg" alt="Listing image for TRIPPY PSYCHEDELIC MOON PLANETS SPACE UFO POSTER ART PRINT IMAGE SIZE A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC MOON PLANETS SPACE UFO POSTER ART PRINT IMAGE SIZE A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-the-wigtownshire-ufo-records-sit-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,177 +734,177 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/</a>  
+   Link:<a href="https://www.qinetiq.com/en/westfreugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shura.shu.ac.uk  
    Title: Clarke National Archives Research(AM)  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: martinshough.com  
-   Link: <a href="https://www.martinshough.com/aerialphenomena/westfreugh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/westfreugh.pdf</a>  
+   Link:<a href="https://www.martinshough.com/aerialphenomena/westfreugh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/westfreugh.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Lords/1998-10-14/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords/1998-10-14/WrittenAnswers</a>  
+   Link:<a href="https://hansard.parliament.uk/html/Lords/1998-10-14/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords/1998-10-14/WrittenAnswers</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1998-10-14/debates/2465cab9-cc68-431d-a829-c88f4d507610/UnidentifiedFlyingObjects</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: api.parliament.uk  
    Title: west freugh airfield  
-   Link: <a href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/westminster-hall/2002/oct/22/west-freugh-airfield</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/where-we-are</a>  
+   Link:<a href="https://www.qinetiq.com/en/westfreugh/where-we-are" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/westfreugh/where-we-are</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2028-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2028-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2028-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2028-1-1.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: martinshough.com  
    Title: Mo D 2  
-   Link: <a href="https://martinshough.com/aerialphenomena/Lakenheath/MoD-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/MoD-2.htm</a>  
+   Link:<a href="https://martinshough.com/aerialphenomena/Lakenheath/MoD-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/MoD-2.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: files.bluebookfiles.org  
    Title: the national archives  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2056-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2056-1.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2056-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2056-1.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: MOD West Freugh  
-   Link: <a href="https://en.wikipedia.org/wiki/MOD_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/MOD_West_Freugh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/MOD_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/MOD_West_Freugh</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: military-history.fandom.com  
    Title: RAF West Freugh  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_West_Freugh</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_West_Freugh" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_West_Freugh</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: solwaymilitarytrail.co.uk  
-   Link: <a href="https://www.solwaymilitarytrail.co.uk/trail-attractions/raf-west-freugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaymilitarytrail.co.uk/trail-attractions/raf-west-freugh/</a>  
+   Link:<a href="https://www.solwaymilitarytrail.co.uk/trail-attractions/raf-west-freugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.solwaymilitarytrail.co.uk/trail-attractions/raf-west-freugh/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
+   Link:<a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/moviesforever.nt/posts/2727683780949114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/moviesforever.nt/posts/2727683780949114/</a>  
+   Link:<a href="https://www.facebook.com/groups/moviesforever.nt/posts/2727683780949114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/moviesforever.nt/posts/2727683780949114/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013</a>  
+   Link:<a href="https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/149141032/Ufo-Highlights-Guide-2013</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: trove.scot  
-   Link: <a href="https://www.trove.scot/place/280210" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/280210</a>  
+   Link:<a href="https://www.trove.scot/place/280210" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/280210</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/</a>  
+   Link:<a href="https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
    Title: the isle of mans first ufo sightingon this day in 1902 the manx newspapers repor  
-   Link: <a href="https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/</a>  
+   Link:<a href="https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/</a>  

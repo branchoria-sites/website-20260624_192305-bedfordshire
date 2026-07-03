@@ -254,49 +254,49 @@ image: /assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-overview-soc
 
 ## Introduction
 
-The “Matlock Triangle” is best understood as a local UFO label rather than a proven zone of repeated extraordinary events. It grew from a real concentration of stories around Matlock, [Bonsall]({{ 'bonsall/' | relative_url }}), Wirksworth and the [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }}) Dales, especially after the Bonsall footage associated with Sharon Rowlands and the early-2000s run of reported sightings. But the evidence does not yet show a clean, measured pattern in the way a researcher would need: fixed boundaries, consistent dates, comparable witness reports, checked aircraft and astronomy data, and independent follow-up. The label matters because it shows how Derbyshire UFO folklore can attach itself to a particular landscape, then become stronger through press repetition, local tourism and memorable phrasing. It should not be dismissed as pure invention, but neither should it be treated as a confirmed hotspot without more disciplined evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph+2Reflections Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
+The “Matlock Triangle” is best understood as a local UFO label rather than a proven zone of repeated extraordinary events. It grew from a real concentration of stories around Matlock, [Bonsall]({{ 'bonsall/' | relative_url }}), Wirksworth and the [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }}) Dales, especially after the Bonsall footage associated with Sharon Rowlands and the early-2000s run of reported sightings. But the evidence does not yet show a clean, measured pattern in the way a researcher would need: fixed boundaries, consistent dates, comparable witness reports, checked aircraft and astronomy data, and independent follow-up. The label matters because it shows how Derbyshire UFO folklore can attach itself to a particular landscape, then become stronger through press repetition, local tourism and memorable phrasing. It should not be dismissed as pure invention, but neither should it be treated as a confirmed hotspot without more disciplined evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[derbytelegraph.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-overview.webp" | relative_url }}" alt="Overview image for Matlock Triangle" loading="eager" decoding="sync" fetchpriority="high">
-This page treats Derbyshire in the historic-county sense used by the project’s map framework, while recognising that the Matlock area is also described through modern local government, tourism and Peak District geography. Wikishire’s county map uses Historic County Borders Project data, and that matters here because “Matlock”, “Bonsall”, “Derbyshire Dales” and “Peak District” are not always used in exactly the same way by witnesses, journalists or later retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+This page treats Derbyshire in the historic-county sense used by the project’s map framework, while recognising that the Matlock area is also described through modern local government, tourism and Peak District geography. Wikishire’s county map uses Historic County Borders Project data, and that matters here because “Matlock”, “Bonsall”, “Derbyshire Dales” and “Peak District” are not always used in exactly the same way by witnesses, journalists or later retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/arvmF-FuPEE" title="BONSALL: Derbyshire Dales Parish #1 of 109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=arvmF-FuPEE" target="_blank" rel="noopener noreferrer">BONSALL: Derbyshire Dales Parish #1 of 109</a></p><p class="youtube-embed-meta">Channel: The Village Idiot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=arvmF-FuPEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=arvmF-FuPEE">Open on YouTube</a></p></div></div></div>
 
 ## Where the label came from
 
-The phrase “Matlock Triangle” works because it borrows the familiar structure of mystery-place folklore: take a real location, draw a loose triangle around scattered reports, then let the label imply that the place itself is unusual. In this case, the phrase appears in regional paranormal coverage and in archive descriptions of a 2001 television item in which conspiracy researcher Trevor Howes travelled to Matlock to investigate UFO sightings, speaking to figures including Don Hale of the Matlock Mercury. That does not prove the existence of a physical anomaly; it shows that by the early 2000s the area had become visible enough in local media to be packaged as a named UFO district. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/matlock-triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-snippet">Open source on macearchive.org.</span></span></span>
+The phrase “Matlock Triangle” works because it borrows the familiar structure of mystery-place folklore: take a real location, draw a loose triangle around scattered reports, then let the label imply that the place itself is unusual. In this case, the phrase appears in regional paranormal coverage and in archive descriptions of a 2001 television item in which conspiracy researcher Trevor Howes travelled to Matlock to investigate UFO sightings, speaking to figures including Don Hale of the Matlock Mercury. That does not prove the existence of a physical anomaly; it shows that by the early 2000s the area had become visible enough in local media to be packaged as a named UFO district.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/matlock-triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-snippet">Open source on macearchive.org.</span></span></span>
 
-The strongest anchor for the folklore is Bonsall, a small village in the hills south-east of Matlock. Visit Peak District & Derbyshire describes Bonsall as a former lead-mining village in steep limestone dales, about two miles south-east of Matlock, and even notes that the surrounding area has attracted worldwide interest for paranormal activity, including UFO sightings. That is important because the “triangle” idea is not just a map claim; it is tied to a distinctive place with dark rural horizons, upland viewpoints, old mine country, village pubs and a tourist-friendly sense of mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitpeakdistrict.com/towns-villages/bonsall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpeakdistrict.com">[Visit Peak District &amp; Derbyshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpeakdistrict.com</span><span class="citation-popover-title">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span><span class="citation-popover-snippet">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span></span></span>
+The strongest anchor for the folklore is Bonsall, a small village in the hills south-east of Matlock. Visit Peak District & Derbyshire describes Bonsall as a former lead-mining village in steep limestone dales, about two miles south-east of Matlock, and even notes that the surrounding area has attracted worldwide interest for paranormal activity, including UFO sightings. That is important because the “triangle” idea is not just a map claim; it is tied to a distinctive place with dark rural horizons, upland viewpoints, old mine country, village pubs and a tourist-friendly sense of mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitpeakdistrict.com/towns-villages/bonsall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpeakdistrict.com">[Visit Peak District &amp; Derbyshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpeakdistrict.com</span><span class="citation-popover-title">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span><span class="citation-popover-snippet">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span></span></span>
 
-The headline Bonsall story is the Sharon Rowlands footage. Regional reporting says that in 2001 Rowlands reportedly sold footage of a claimed flying saucer to a Hollywood producer for £20,000, and that NASA interest was said to have been linked to a supposed similarity with imagery from the STS-75 Columbia Space Shuttle mission. The same accounts say that, beyond the film, 19 UFO sightings were reported in the early 2000s, including descriptions of a “ball of fire”, “two big, bright lights” and a pink, vertical glow. Those details are the raw material from which a hotspot reputation can form: one marketable case, several supporting anecdotes, and repeated local retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
+The headline Bonsall story is the Sharon Rowlands footage. Regional reporting says that in 2001 Rowlands reportedly sold footage of a claimed flying saucer to a Hollywood producer for £20,000, and that NASA interest was said to have been linked to a supposed similarity with imagery from the STS-75 Columbia Space Shuttle mission. The same accounts say that, beyond the film, 19 UFO sightings were reported in the early 2000s, including descriptions of a “ball of fire”, “two big, bright lights” and a pink, vertical glow. Those details are the raw material from which a hotspot reputation can form: one marketable case, several supporting anecdotes, and repeated local retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
 
-Later coverage helped keep the story alive. Reflections Magazine, writing in 2015, framed north and mid-Derbyshire as a local “X-Files” landscape and opened with Phil Bramhall’s 2010 report of strange moving lights over Matlock that repeatedly came together and separated as he drove home to Wirksworth. The article’s tags explicitly include “matlock triangle”, showing how individual sightings and the larger label reinforced one another in local-interest media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reflections-magazine.com/the-truth-is-out-there-we-are-a-ufo-hot-spot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reflections-magazine.com">[Reflections Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reflections-magazine.com</span><span class="citation-popover-title">Reflections Magazine The truth is out there: we are a UFO ‘hot spot’</span><span class="citation-popover-snippet">Reflections Magazine The truth is out there: we are a UFO ‘hot spot’</span></span></span>
+Later coverage helped keep the story alive. Reflections Magazine, writing in 2015, framed north and mid-Derbyshire as a local “X-Files” landscape and opened with Phil Bramhall’s 2010 report of strange moving lights over Matlock that repeatedly came together and separated as he drove home to Wirksworth. The article’s tags explicitly include “matlock triangle”, showing how individual sightings and the larger label reinforced one another in local-interest media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reflections-magazine.com/the-truth-is-out-there-we-are-a-ufo-hot-spot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reflections-magazine.com">[Reflections Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reflections-magazine.com</span><span class="citation-popover-title">Reflections Magazine The truth is out there: we are a UFO ‘hot spot’</span><span class="citation-popover-snippet">Reflections Magazine The truth is out there: we are a UFO ‘hot spot’</span></span></span>
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-1-dark.svg" | relative_url }}" alt="Matlock Triangle illustration 1" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hotspot boundaries are slippery
 
-A real sighting pattern needs more than a memorable name. The Matlock Triangle is slippery because its edges change depending on who is telling the story. Sometimes the centre is Matlock itself; sometimes it is Bonsall; sometimes it widens into the Derbyshire Dales or the Peak District. Matlock Town Council notes that Matlock is often casually understood to include nearby places such as Tansley, Matlock Bath, Cromford, Bonsall and Darley Dale, even though those areas have their own parish or town councils. That everyday looseness is harmless in conversation, but it becomes a problem if someone is trying to count reports scientifically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://matlock.gov.uk/the-council/what-we-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matlock.gov.uk">[Matlock Town Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matlock.gov.uk</span><span class="citation-popover-snippet">Open source on matlock.gov.uk.</span></span></span>
+A real sighting pattern needs more than a memorable name. The Matlock Triangle is slippery because its edges change depending on who is telling the story. Sometimes the centre is Matlock itself; sometimes it is Bonsall; sometimes it widens into the Derbyshire Dales or the Peak District. Matlock Town Council notes that Matlock is often casually understood to include nearby places such as Tansley, Matlock Bath, Cromford, Bonsall and Darley Dale, even though those areas have their own parish or town councils. That everyday looseness is harmless in conversation, but it becomes a problem if someone is trying to count reports scientifically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://matlock.gov.uk/the-council/what-we-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matlock.gov.uk">[Matlock Town Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matlock.gov.uk</span><span class="citation-popover-snippet">Open source on matlock.gov.uk.</span></span></span>
 
-The Bonsall example shows the issue clearly. A village source describes Bonsall as about five miles from Matlock and 18 miles from Derby, while Visit Peak District places it two miles south-east of Matlock in the hills. Both descriptions are useful in context, but they point to different ways of framing the same place: village identity, tourist geography, road distance, and a broader Matlock-area reputation. A sighting logged as “Matlock”, “near Matlock”, “Bonsall Moor”, “Derbyshire Dales” or “Peak District” may or may not belong in the same cluster, depending on the rules used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bonsallhistory.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bonsallhistory.org.uk">[bonsallhistory.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bonsallhistory.org.uk</span><span class="citation-popover-snippet">Open source on bonsallhistory.org.uk.</span></span></span>
+The Bonsall example shows the issue clearly. A village source describes Bonsall as about five miles from Matlock and 18 miles from Derby, while Visit Peak District places it two miles south-east of Matlock in the hills. Both descriptions are useful in context, but they point to different ways of framing the same place: village identity, tourist geography, road distance, and a broader Matlock-area reputation. A sighting logged as “Matlock”, “near Matlock”, “Bonsall Moor”, “Derbyshire Dales” or “Peak District” may or may not belong in the same cluster, depending on the rules used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bonsallhistory.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bonsallhistory.org.uk">[bonsallhistory.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bonsallhistory.org.uk</span><span class="citation-popover-snippet">Open source on bonsallhistory.org.uk.</span></span></span>
 
 This is why the “triangle” should be treated as folklore until its boundary is defined before the evidence is counted. If the boundary is drawn after the stories are known, the pattern may be partly self-made. Reports that fit the legend are pulled in; reports just outside the chosen area are ignored; weakly dated accounts are grouped with better ones; and colourful descriptions are repeated more often than dull explanations. That does not mean witnesses were dishonest. It means a named hotspot can grow through selection effects as much as through unusual activity.
 
-There is also a reporting-bias problem. A place that becomes known for UFOs is more likely to attract people watching the sky, more likely to generate letters to local newspapers, and more likely to be covered again when a new sighting occurs. The Derbyshire Live account even notes that a former Bonsall pub landlord used to take tourists onto nearby moors on UFO tours, which shows how the story moved beyond private witness testimony into public local identity. Once that happens, the number of stories can rise because more people are looking, talking and reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
+There is also a reporting-bias problem. A place that becomes known for UFOs is more likely to attract people watching the sky, more likely to generate letters to local newspapers, and more likely to be covered again when a new sighting occurs. The Derbyshire Live account even notes that a former Bonsall pub landlord used to take tourists onto nearby moors on UFO tours, which shows how the story moved beyond private witness testimony into public local identity. Once that happens, the number of stories can rise because more people are looking, talking and reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b0jn_I-IHGA" title="&#x27;We saw a disk with coloured lights round it&#x27; | Sharon Rowlands on her sighting of a UFO in Bonsall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b0jn_I-IHGA" target="_blank" rel="noopener noreferrer">&#x27;We saw a disk with coloured lights round it&#x27; | Sharon Rowlands on her sighting of a UFO in Bonsall</a></p><p class="youtube-embed-meta">Channel: GBNews &middot; Views: 24.4K &middot; Uploaded: February 2023 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b0jn_I-IHGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b0jn_I-IHGA">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence can and cannot show
 
-The evidence for a real Matlock-area sighting cluster is strongest at the level of public narrative. There are named places, named witnesses in local reporting, repeated accounts over more than one decade, and a widely repeated claim of 19 early-2000s sightings around Bonsall. There is also at least one archived television treatment under the Matlock Triangle label. That is enough to say that the Matlock and Bonsall area has a genuine place in Derbyshire UFO history. It is not enough to show that the sky over the area produced a statistically unusual rate of unexplained objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph+2Reflections Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
+The evidence for a real Matlock-area sighting cluster is strongest at the level of public narrative. There are named places, named witnesses in local reporting, repeated accounts over more than one decade, and a widely repeated claim of 19 early-2000s sightings around Bonsall. There is also at least one archived television treatment under the Matlock Triangle label. That is enough to say that the Matlock and Bonsall area has a genuine place in Derbyshire UFO history. It is not enough to show that the sky over the area produced a statistically unusual rate of unexplained objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[derbytelegraph.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
 
-The official record makes the picture more cautious. In a 2018 Freedom of Information response about UFO sightings in Derbyshire, the Ministry of Defence said it held some information within scope, but that records before 1 December 2009 had been transferred to The National Archives. The same response stated that the MOD “has no opinion on the existence, or otherwise, of extra-terrestrial life and does not investigate UFO reports.” That is significant because modern official material does not provide a hidden confirmation of the Matlock Triangle; it mostly shows how limited and fragmented the official reporting route became. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire/response/1260144/attach/3/20181026%20FOI%202018%2012725%20Doolan%20UFO%20Records.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The official record makes the picture more cautious. In a 2018 Freedom of Information response about UFO sightings in Derbyshire, the Ministry of Defence said it held some information within scope, but that records before 1 December 2009 had been transferred to The National Archives. The same response stated that the MOD “has no opinion on the existence, or otherwise, of extra-terrestrial life and does not investigate UFO reports.” That is significant because modern official material does not provide a hidden confirmation of the Matlock Triangle; it mostly shows how limited and fragmented the official reporting route became.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire/response/1260144/attach/3/20181026%20FOI%202018%2012725%20Doolan%20UFO%20Records.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
-The wider MOD files also warn against reading clusters too quickly as anomalies. The National Archives highlights guide says the final tranche of MOD UFO files covered the final two years of the UFO desk, from late 2007 to November 2009, and included policy, correspondence, Freedom of Information responses and sighting reports. It also records the MOD’s view that more than 50 years of reports had not revealed anything suggesting an extra-terrestrial presence or a military threat to the UK, and that continued investigation produced no defence benefit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The wider MOD files also warn against reading clusters too quickly as anomalies. The National Archives highlights guide says the final tranche of MOD UFO files covered the final two years of the UFO desk, from late 2007 to November 2009, and included policy, correspondence, Freedom of Information responses and sighting reports. It also records the MOD’s view that more than 50 years of reports had not revealed anything suggesting an extra-terrestrial presence or a military threat to the UK, and that continued investigation produced no defence benefit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-One especially relevant lesson from the MOD material is the role of ordinary lights. The National Archives guide says many 2008–09 reports were generated by sightings of Chinese lanterns, with formations of [orange lights]({{ 'orange-lights-b4079e/' | relative_url }}) filmed on phones and cameras by people who were amazed, stunned or frightened. That does not automatically explain the Bonsall footage or the Matlock reports, but it shows why any fair review of Derbyshire lights in the sky has to check lanterns, aircraft, meteors, drones, satellites and local events before treating a cluster as unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+One especially relevant lesson from the MOD material is the role of ordinary lights. The National Archives guide says many 2008–09 reports were generated by sightings of Chinese lanterns, with formations of [orange lights]({{ 'orange-lights-b4079e/' | relative_url }}) filmed on phones and cameras by people who were amazed, stunned or frightened. That does not automatically explain the Bonsall footage or the Matlock reports, but it shows why any fair review of Derbyshire lights in the sky has to check lanterns, aircraft, meteors, drones, satellites and local events before treating a cluster as unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-2-dark.svg" | relative_url }}" alt="Matlock Triangle illustration 2" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,14 +320,14 @@ A useful review would also divide reports into categories rather than treating t
 
 This approach would not “debunk” the Matlock Triangle by default. It would show which part of the story is genuinely unexplained, which part is simply unverified, and which part belongs to Derbyshire’s local folklore. That distinction is important because a weakly sourced report is not the same thing as a false report, and an unexplained report is not the same thing as evidence of an extraordinary craft.
 
-The Rowlands case would need especially careful handling. It is central to the reputation, but a proper comparison would treat the film separately from later retellings about Hollywood, NASA and the village’s hotspot status. A video can be examined for camera behaviour, focus, exposure, direction, distance estimates and possible ordinary sources; a media story about a video can only show how the claim circulated. Those are different kinds of evidence, and merging them is one reason local UFO legends become harder to assess over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
+The Rowlands case would need especially careful handling. It is central to the reputation, but a proper comparison would treat the film separately from later retellings about Hollywood, NASA and the village’s hotspot status. A video can be examined for camera behaviour, focus, exposure, direction, distance estimates and possible ordinary sources; a media story about a video can only show how the claim circulated. Those are different kinds of evidence, and merging them is one reason local UFO legends become harder to assess over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derbytelegraph.co.uk">[Derby Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derbytelegraph.co.uk</span><span class="citation-popover-snippet">Open source on derbytelegraph.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_-NHTciUJ9I" title="UFO&#x27;s in Derbyshire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_-NHTciUJ9I" target="_blank" rel="noopener noreferrer">UFO&#x27;s in Derbyshire</a></p><p class="youtube-embed-meta">Channel: Renah Wolzinger</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_-NHTciUJ9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_-NHTciUJ9I">Open on YouTube</a></p></div></div></div>
 
 ## What the Matlock Triangle really adds to Derbyshire UFO history
 
-The Matlock Triangle is valuable because it captures the difference between a local cluster and a confirmed phenomenon. Derbyshire does have a recognisable UFO tradition centred on the Matlock and Bonsall area. The stories are not random internet invention: they appear in local and regional press, in tourism-facing descriptions of Bonsall, in archive listings, and in later public discussion of Derbyshire UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitpeakdistrict.com/towns-villages/bonsall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpeakdistrict.com">[Visit Peak District &amp; Derbyshire+2Reflections Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpeakdistrict.com</span><span class="citation-popover-title">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span><span class="citation-popover-snippet">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span></span></span>
+The Matlock Triangle is valuable because it captures the difference between a local cluster and a confirmed phenomenon. Derbyshire does have a recognisable UFO tradition centred on the Matlock and Bonsall area. The stories are not random internet invention: they appear in local and regional press, in tourism-facing descriptions of Bonsall, in archive listings, and in later public discussion of Derbyshire UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitpeakdistrict.com/towns-villages/bonsall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpeakdistrict.com">[visitpeakdistrict.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpeakdistrict.com</span><span class="citation-popover-title">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span><span class="citation-popover-snippet">Visit Peak District &amp; Derbyshire Bonsall &#124; Visit Peak District &amp; Derbyshire</span></span></span>
 
 But the label is also risky. It can make a loose set of reports sound more precise than it is. It can imply a fixed triangular zone when the real geography is a blend of Matlock-area identity, Derbyshire Dales settlements, Peak District tourism and village folklore. It can also encourage the reader to treat all sightings as part of one mystery, even when they may involve different dates, witnesses and ordinary explanations.
 
@@ -337,194 +337,194 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
 <img src="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-3-dark.svg" | relative_url }}" alt="Matlock Triangle illustration 3" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_matlock_triangle_pat_c5e1cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the Matlock Triangle a Real Pattern?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the Matlock Triangle a Real Pattern?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports should be evaluated and classified, matching the page&#x27;s focus on whether an apparent hotspot represents a genuin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports should be evaluated and classified, matching the page&#x27;s focus on whether an apparent hotspot represents a genuin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Demonstrates standards of documentation and corroboration that can be compared with claims about local UFO concentrations such as the Mat...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates standards of documentation and corroboration that can be compared with claims about local UFO concentrations such as the Mat...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims and distinguishing genuine anomalies from weak evidence and repeated stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims and distinguishing genuine anomalies from weak evidence and repeated stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people detect patterns and create narratives, directly relevant to assessing whether a named hotspot reflects evidence or fo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people detect patterns and create narratives, directly relevant to assessing whether a named hotspot reflects evidence or fo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRPORT 77 Original Film Memorabilia."><img src="{{ '/assets/images/marketplace-covers/51406c776158d0e39e70.jpg' | relative_url }}" alt="Listing image for AIRPORT 77 Original Film Memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">AIRPORT 77 Original Film Memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRPORT 77 Original Film Memorabilia."><img src="{{ '/assets/images/marketplace-covers/51406c776158d0e39e70.jpg' | relative_url }}" alt="Listing image for AIRPORT 77 Original Film Memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">AIRPORT 77 Original Film Memorabilia.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Firefighter/ Fireman&#x27;s Helmet with Face visor R130"><img src="{{ '/assets/images/marketplace-covers/c47833085cdb2363f637.jpg' | relative_url }}" alt="Listing image for Airport Firefighter/ Fireman&#x27;s Helmet with Face visor R130" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Airport Firefighter/ Fireman&#x27;s Helmet with Face visor R130</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Firefighter/ Fireman&#x27;s Helmet with Face visor R130"><img src="{{ '/assets/images/marketplace-covers/c47833085cdb2363f637.jpg' | relative_url }}" alt="Listing image for Airport Firefighter/ Fireman&#x27;s Helmet with Face visor R130" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Airport Firefighter/ Fireman&#x27;s Helmet with Face visor R130</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Memorabilia"><img src="{{ '/assets/images/marketplace-covers/c9f88267d20322cbefdf.jpg' | relative_url }}" alt="Listing image for Airport Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Airport Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Memorabilia"><img src="{{ '/assets/images/marketplace-covers/c9f88267d20322cbefdf.jpg' | relative_url }}" alt="Listing image for Airport Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Airport Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Royal Opening Of Terminal A Manchester Airport Glass Paperweight"><img src="{{ '/assets/images/marketplace-covers/f6eaff675ddd1fd2e2e1.jpg' | relative_url }}" alt="Listing image for The Royal Opening Of Terminal A Manchester Airport Glass Paperweight" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Royal Opening Of Terminal A Manchester Airport Glass Paperweight</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Royal Opening Of Terminal A Manchester Airport Glass Paperweight"><img src="{{ '/assets/images/marketplace-covers/f6eaff675ddd1fd2e2e1.jpg' | relative_url }}" alt="Listing image for The Royal Opening Of Terminal A Manchester Airport Glass Paperweight" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Royal Opening Of Terminal A Manchester Airport Glass Paperweight</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport memorabilia" data-ebay-reference="matlock-triangle-is-the-matlock-triangle-a-real-pattern-derbyshire-airport-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,157 +730,157 @@ The most balanced judgement is that the Matlock Triangle is a real folklore patt
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reflections-magazine.com  
    Title: Reflections Magazine The truth is out there: we are a UFO ‘hot spot’  
-   Link: <a href="https://reflections-magazine.com/the-truth-is-out-there-we-are-a-ufo-hot-spot/" target="_blank" rel="noopener noreferrer nofollow">https://reflections-magazine.com/the-truth-is-out-there-we-are-a-ufo-hot-spot/</a>  
+   Link:<a href="https://reflections-magazine.com/the-truth-is-out-there-we-are-a-ufo-hot-spot/" target="_blank" rel="noopener noreferrer nofollow">https://reflections-magazine.com/the-truth-is-out-there-we-are-a-ufo-hot-spot/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire/response/1260144/attach/3/20181026%20FOI%202018%2012725%20Doolan%20UFO%20Records.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire/response/1260144/attach/3/20181026%20FOI%202018%2012725%20Doolan%20UFO%20Records.pdf?cookie_passthrough=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire/response/1260144/attach/3/20181026%20FOI%202018%2012725%20Doolan%20UFO%20Records.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire/response/1260144/attach/3/20181026%20FOI%202018%2012725%20Doolan%20UFO%20Records.pdf?cookie_passthrough=1</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bonsallhistory.org.uk  
-   Link: <a href="https://www.bonsallhistory.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bonsallhistory.org.uk/</a>  
+   Link:<a href="https://www.bonsallhistory.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bonsallhistory.org.uk/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reflections-magazine.com  
    Title: matlock triangle  
-   Link: <a href="https://reflections-magazine.com/tag/matlock-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://reflections-magazine.com/tag/matlock-triangle/</a>  
+   Link:<a href="https://reflections-magazine.com/tag/matlock-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://reflections-magazine.com/tag/matlock-triangle/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: whatdotheyknow.com  
    Title: UF O Sightings in Derbyshire  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_derbyshire</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: derbytelegraph.co.uk  
-   Link: <a href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow">https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444</a>  
+   Link:<a href="https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444" target="_blank" rel="noopener noreferrer nofollow">https://www.derbytelegraph.co.uk/news/local-news/bonsall-fascinating-village-edge-peak-7988444</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: macearchive.org  
-   Link: <a href="https://www.macearchive.org/films/matlock-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/matlock-triangle</a>  
+   Link:<a href="https://www.macearchive.org/films/matlock-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/matlock-triangle</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: macearchive.org  
-   Link: <a href="https://www.macearchive.org/films/1st-cut-2001-1-2" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/1st-cut-2001-1-2</a>  
+   Link:<a href="https://www.macearchive.org/films/1st-cut" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/1st-cut</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: visitpeakdistrict.com  
    Title: Visit Peak District & Derbyshire Bonsall | Visit Peak District & Derbyshire  
-   Link: <a href="https://visitpeakdistrict.com/towns-villages/bonsall" target="_blank" rel="noopener noreferrer nofollow">https://visitpeakdistrict.com/towns-villages/bonsall</a>  
+   Link:<a href="https://visitpeakdistrict.com/towns-villages/bonsall" target="_blank" rel="noopener noreferrer nofollow">https://visitpeakdistrict.com/towns-villages/bonsall</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: matlock.gov.uk  
-   Link: <a href="https://matlock.gov.uk/the-council/what-we-do/" target="_blank" rel="noopener noreferrer nofollow">https://matlock.gov.uk/the-council/what-we-do/</a>  
+   Link:<a href="https://matlock.gov.uk/the-council/what-we-do/" target="_blank" rel="noopener noreferrer nofollow">https://matlock.gov.uk/the-council/what-we-do/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bonsall-pc.gov.uk  
-   Link: <a href="https://bonsall-pc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bonsall-pc.gov.uk/</a>  
+   Link:<a href="https://bonsall-pc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bonsall-pc.gov.uk/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: derbyshiredales.gov.uk  
-   Link: <a href="https://www.derbyshiredales.gov.uk/planning/conservation/conservation-areas/bonsall" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshiredales.gov.uk/planning/conservation/conservation-areas/bonsall</a>  
+   Link:<a href="https://www.derbyshiredales.gov.uk/planning/conservation/conservation-areas/bonsall" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshiredales.gov.uk/planning/conservation/conservation-areas/bonsall</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: derbyshiredales.gov.uk  
    Title: applications invited for historic matlock grant3 2  
-   Link: <a href="https://www.derbyshiredales.gov.uk/your-council/news-and-social-media/latest-news/applications-invited-for-historic-matlock-grant3-2" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshiredales.gov.uk/your-council/news-and-social-media/latest-news/applications-invited-for-historic-matlock-grant3-2</a>  
+   Link:<a href="https://www.derbyshiredales.gov.uk/your-council/news-and-social-media/latest-news/applications-invited-for-historic-matlock-grant3-2" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshiredales.gov.uk/your-council/news-and-social-media/latest-news/applications-invited-for-historic-matlock-grant3-2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: derbyshiredales.gov.uk  
-   Link: <a href="https://www.derbyshiredales.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshiredales.gov.uk/</a>  
+   Link:<a href="https://www.derbyshiredales.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshiredales.gov.uk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/derbyshiredales/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/derbyshiredales/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/derbyshiredales/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/derbyshiredales/?locale=en_GB</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Trust  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Trust" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Trust</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Trust" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Trust</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dayoutwiththekids.co.uk  
-   Link: <a href="https://www.dayoutwiththekids.co.uk/things-to-do/east-midlands/derbyshire/bonsall" target="_blank" rel="noopener noreferrer nofollow">https://www.dayoutwiththekids.co.uk/things-to-do/east-midlands/derbyshire/bonsall</a>  
+   Link:<a href="https://www.dayoutwiththekids.co.uk/things-to-do/east-midlands/derbyshire/bonsall" target="_blank" rel="noopener noreferrer nofollow">https://www.dayoutwiththekids.co.uk/things-to-do/east-midlands/derbyshire/bonsall</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b0jn_I-IHGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0jn_I-IHGA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Weirdest and Most Isolated Towns in Midlands...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b0jn_I-IHGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0jn_I-IHGA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Weirdest and Most Isolated Towns in Midlands...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GBNewsOnline/videos/we-saw-a-disk-with-coloured-lights-round-it-sharon-rowlands-on-her-sighting-of-a/561639689036599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GBNewsOnline/videos/we-saw-a-disk-with-coloured-lights-round-it-sharon-rowlands-on-her-sighting-of-a/561639689036599/</a>  
+   Link:<a href="https://www.facebook.com/GBNewsOnline/videos/we-saw-a-disk-with-coloured-lights-round-it-sharon-rowlands-on-her-sighting-of-a/561639689036599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GBNewsOnline/videos/we-saw-a-disk-with-coloured-lights-round-it-sharon-rowlands-on-her-sighting-of-a/561639689036599/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bonsallvillagehall.org.uk  
-   Link: <a href="https://bonsallvillagehall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bonsallvillagehall.org.uk/</a>  
+   Link:<a href="https://bonsallvillagehall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bonsallvillagehall.org.uk/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/693092001248577/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/693092001248577/</a>  
+   Link:<a href="https://www.facebook.com/groups/693092001248577/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/693092001248577/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/visitpeakdistrict/posts/catch-the-bus-for-this-great-circular-walk-from-matlock-to-the-beautiful-village/1170110398479565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitpeakdistrict/posts/catch-the-bus-for-this-great-circular-walk-from-matlock-to-the-beautiful-village/1170110398479565/</a>  
+   Link:<a href="https://www.facebook.com/visitpeakdistrict/posts/catch-the-bus-for-this-great-circular-walk-from-matlock-to-the-beautiful-village/1170110398479565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitpeakdistrict/posts/catch-the-bus-for-this-great-circular-walk-from-matlock-to-the-beautiful-village/1170110398479565/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C2UgjIkttM4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C2UgjIkttM4/</a>  
+   Link:<a href="https://www.instagram.com/p/C2UgjIkttM4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C2UgjIkttM4/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UNILADAdventure/posts/its-a-mystery-that-has-baffled-the-world-for-almost-a-century-/1289288945900126/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNILADAdventure/posts/its-a-mystery-that-has-baffled-the-world-for-almost-a-century-/1289288945900126/</a>  
+   Link:<a href="https://www.facebook.com/UNILADAdventure/posts/its-a-mystery-that-has-baffled-the-world-for-almost-a-century-/1289288945900126/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNILADAdventure/posts/its-a-mystery-that-has-baffled-the-world-for-almost-a-century-/1289288945900126/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/downloads/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/downloads/</a>  
+   Link:<a href="https://abcounties.com/downloads/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/downloads/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/735389799823006/posts/1480968528598459/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/735389799823006/posts/1480968528598459/</a>  
+   Link:<a href="https://www.facebook.com/groups/735389799823006/posts/1480968528598459/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/735389799823006/posts/1480968528598459/</a>  

@@ -254,7 +254,7 @@ image: /assets/images/Hampshire_5816c9_portsdown_solent_hot_f8bcfe-overview-soci
 
 ## Introduction
 
-Portsdown Hill is a convincing [Hampshire]({{ 'what-really-happened-in-hampshires-ufo/' | relative_url }}) UFO-reporting hotspot not because it has produced one unanswerable case file, but because it is almost designed to make distant lights look strange. From the ridge above Portsmouth, witnesses can look across the city, the naval dockyard, Portsmouth Harbour, the Eastern Solent, Gosport, Hayling Island and towards the Isle of Wight. That gives a wide, layered night-time view in which ships, aircraft, helicopters, flares, lanterns, planets and reflections can appear to hover over water or move without obvious scale. Fort Nelson is described by the Royal Armouries as overlooking Portsmouth Harbour, while local visitor material repeatedly stresses the hill’s panoramic view across Portsmouth and the Solent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalarmouries.org/fort-nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalarmouries.org">[Royal Armouries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalarmouries.org</span><span class="citation-popover-snippet">Open source on royalarmouries.org.</span></span></span>
+Portsdown Hill is a convincing [Hampshire]({{ 'what-really-happened-in-hampshires-ufo/' | relative_url }}) UFO-reporting hotspot not because it has produced one unanswerable case file, but because it is almost designed to make distant lights look strange. From the ridge above Portsmouth, witnesses can look across the city, the naval dockyard, Portsmouth Harbour, the Eastern Solent, Gosport, Hayling Island and towards the Isle of Wight. That gives a wide, layered night-time view in which ships, aircraft, helicopters, flares, lanterns, planets and reflections can appear to hover over water or move without obvious scale. Fort Nelson is described by the Royal Armouries as overlooking Portsmouth Harbour, while local visitor material repeatedly stresses the hill’s panoramic view across Portsmouth and the Solent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalarmouries.org/fort-nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalarmouries.org">[Royal Armouries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalarmouries.org</span><span class="citation-popover-snippet">Open source on royalarmouries.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Hampshire_5816c9_portsdown_solent_hot_f8bcfe-overview.webp" | relative_url }}" alt="Overview image for Portsdown Hill" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,11 +262,11 @@ For Hampshire UFO history, Portsdown Hill matters as a mechanism: it helps expla
 
 ## The view across Portsmouth and the Solent
 
-Portsdown Hill gives observers something many inland UFO locations do not: a raised, open sightline over a dense mixture of sea, city and sky. The ridge sits just north of Portsmouth and looks south over the harbour and the Solent, with the Isle of Wight beyond on clear days. Local descriptions of the viewpoint emphasise not a narrow landmark view but a broad sweep across Portsmouth, Hayling Island, Gosport and the water, which is exactly the kind of visual field in which distance and direction can become hard to judge at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://a3traveller.com/2015/06/09/portsdown-hill-best-viewpoint-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: a3traveller.com">[A3 Traveller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">a3traveller.com</span><span class="citation-popover-title">A3 Traveller Portsdown Hill – best viewpoint over Portsmouth</span><span class="citation-popover-snippet">A3 Traveller Portsdown Hill – best viewpoint over Portsmouth</span></span></span>
+Portsdown Hill gives observers something many inland UFO locations do not: a raised, open sightline over a dense mixture of sea, city and sky. The ridge sits just north of Portsmouth and looks south over the harbour and the Solent, with the Isle of Wight beyond on clear days. Local descriptions of the viewpoint emphasise not a narrow landmark view but a broad sweep across Portsmouth, Hayling Island, Gosport and the water, which is exactly the kind of visual field in which distance and direction can become hard to judge at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://a3traveller.com/2015/06/09/portsdown-hill-best-viewpoint-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: a3traveller.com">[A3 Traveller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">a3traveller.com</span><span class="citation-popover-title">A3 Traveller Portsdown Hill – best viewpoint over Portsmouth</span><span class="citation-popover-snippet">A3 Traveller Portsdown Hill – best viewpoint over Portsmouth</span></span></span>
 
 That matters because a witness on a hill is often not watching a single object against a simple background. They may be seeing several layers at once: car headlights on the M27 or local roads, fixed lights on the city skyline, moving lights from ferries and naval craft, aircraft lights higher up, and bright astronomical objects low near the horizon. When one light appears to cross behind another, fade in haze, or line up with a mast or ship, the brain can turn a flat night scene into an apparent manoeuvre.
 
-The Solent also has a long UFO-reporting context because Portsmouth is not just a coastal city; it is a naval city. The King’s Harbour Master Portsmouth is the regulatory authority for the Dockyard Port of Portsmouth, covering about 55 square miles including Portsmouth Harbour and the Eastern Solent. That official footprint puts regular military, commercial and small-vessel movement directly into the field of view from Portsdown Hill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/groups/qhm-portsmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">KH M Portsmouth</span><span class="citation-popover-snippet">KH M Portsmouth</span></span></span>
+The Solent also has a long UFO-reporting context because Portsmouth is not just a coastal city; it is a naval city. The King’s Harbour Master Portsmouth is the regulatory authority for the Dockyard Port of Portsmouth, covering about 55 square miles including Portsmouth Harbour and the Eastern Solent. That official footprint puts regular military, commercial and small-vessel movement directly into the field of view from Portsdown Hill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/groups/qhm-portsmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">KH M Portsmouth</span><span class="citation-popover-snippet">KH M Portsmouth</span></span></span>
 
 The result is a place where witnesses can be both reasonable and wrong. A person may genuinely see a light that they cannot identify, especially if it is silent, orange, low, or apparently stationary. The explanation may still be mundane once the observer’s position, the line of sight and the available traffic are reconstructed.
 
@@ -276,9 +276,9 @@ The result is a place where witnesses can be both reasonable and wrong. A person
 
 Portsdown Hill’s strongest “hotspot” feature is not mystery; it is overlap. Several ordinary systems meet in the same sky.
 
-Portsmouth Harbour has formal shipping notices and movement listings, and the Royal Navy’s King’s Harbour Master publishes shipping movements and planned diving information for the port. These are not UFO records, but they show that the harbour is an organised, active environment where unusual-looking lights may have a scheduled maritime source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+Portsmouth Harbour has formal shipping notices and movement listings, and the Royal Navy’s King’s Harbour Master publishes shipping movements and planned diving information for the port. These are not UFO records, but they show that the harbour is an organised, active environment where unusual-looking lights may have a scheduled maritime source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-The aviation picture is just as important. Civil Aviation Authority chart material for Southampton airspace shows Solent control areas, the Southampton control zone, Lee-on-Solent, Fleetlands, a Portsdown marked area, the Spinnaker Tower visual reference point and other local aviation features around Portsmouth and the Solent. This means that a hilltop observer can be looking through or beneath a complex local flying environment rather than an empty sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacesafety.com/wp-content/uploads/2018/12/EG_AD_2_EGHI_4-1_en_2018-03-01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacesafety.com">[Airspace Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacesafety.com</span><span class="citation-popover-title">Airspace Safety EG.en_GB</span><span class="citation-popover-snippet">Airspace Safety EG.en_GB</span></span></span>
+The aviation picture is just as important. Civil Aviation Authority chart material for Southampton airspace shows Solent control areas, the Southampton control zone, Lee-on-Solent, Fleetlands, a Portsdown marked area, the Spinnaker Tower visual reference point and other local aviation features around Portsmouth and the Solent. This means that a hilltop observer can be looking through or beneath a complex local flying environment rather than an empty sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacesafety.com/wp-content/uploads/2018/12/EG_AD_2_EGHI_4-1_en_2018-03-01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacesafety.com">[Airspace Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacesafety.com</span><span class="citation-popover-title">Airspace Safety EG.en_GB</span><span class="citation-popover-snippet">Airspace Safety EG.en_GB</span></span></span>
 
 A few common witness impressions follow from that setting:
 
@@ -301,19 +301,19 @@ This does not mean every report is automatically solved. It means Portsdown Hill
 
 The most useful explanations for Portsdown Hill and Solent lights are not exotic. They are the recurring causes that appear across UK UFO records and become especially persuasive in a place with water, ports and busy skies.
 
-**Chinese lanterns and orange lights** are a major example. The National Archives’ guide to the final Ministry of Defence UFO files says MoD reports rose sharply in 2008 and 2009, with many reports generated by Chinese lanterns. It describes formations of orange lights filmed by members of the public, often during summer outdoor activities, and notes that some maritime authorities also received false alarms when lanterns were mistaken for distress flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+**Chinese lanterns and orange lights** are a major example. The National Archives’ guide to the final Ministry of Defence UFO files says MoD reports rose sharply in 2008 and 2009, with many reports generated by Chinese lanterns. It describes formations of orange lights filmed by members of the public, often during summer outdoor activities, and notes that some maritime authorities also received false alarms when lanterns were mistaken for distress flares.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 That pattern maps neatly onto the Solent. A slow, silent, orange light drifting over water can look more purposeful than it is. From Portsdown Hill, several lanterns released from a wedding, party or seafront event could appear as a formation over Portsmouth, Gosport or the Isle of Wight, even if they are much closer or farther away than assumed.
 
-**Aircraft and helicopters** are another strong explanation. The Solent and south Hampshire area includes controlled airspace, airport routes, general aviation activity, and local reference points that pilots use. Southampton Airport’s airspace programme notes that the airport is responsible for the design of flight paths into and out of the airport up to about 7,000 feet, while NATS is responsible above that height. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.consultationonline.co.uk">[Southampton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.consultationonline.co.uk</span><span class="citation-popover-snippet">Open source on consultationonline.co.uk.</span></span></span>
+**Aircraft and helicopters** are another strong explanation. The Solent and south Hampshire area includes controlled airspace, airport routes, general aviation activity, and local reference points that pilots use. Southampton Airport’s airspace programme notes that the airport is responsible for the design of flight paths into and out of the airport up to about 7,000 feet, while NATS is responsible above that height.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southamptonairport.consultationonline.co.uk">[Southampton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southamptonairport.consultationonline.co.uk</span><span class="citation-popover-snippet">Open source on consultationonline.co.uk.</span></span></span>
 
 For a witness, that means a light may not behave like a simple overhead aircraft. It may appear low, slow, fixed, descending, or turning away. Aircraft lights can brighten suddenly when pointed towards the observer and then dim as the aircraft changes angle. A helicopter over water can be even more deceptive, because its motion may be slow and its sound may arrive late or be masked by wind and road noise.
 
-**Ships, ferries and harbour lights** are especially relevant to Portsdown Hill. Portsmouth International Port and the naval dockyard sit below the hill’s field of view, while the Eastern Solent is a corridor for vessels moving between harbour, ferry routes and open water. The King’s Harbour Master’s role over Portsmouth Harbour and the Eastern Solent underlines how much managed marine activity occurs in the same visual sector where a witness might report a light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/groups/qhm-portsmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">KH M Portsmouth</span><span class="citation-popover-snippet">KH M Portsmouth</span></span></span>
+**Ships, ferries and harbour lights** are especially relevant to Portsdown Hill. Portsmouth International Port and the naval dockyard sit below the hill’s field of view, while the Eastern Solent is a corridor for vessels moving between harbour, ferry routes and open water. The King’s Harbour Master’s role over Portsmouth Harbour and the Eastern Solent underlines how much managed marine activity occurs in the same visual sector where a witness might report a light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/groups/qhm-portsmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">KH M Portsmouth</span><span class="citation-popover-snippet">KH M Portsmouth</span></span></span>
 
 At night, marine lights can appear detached from their vessels. A bright mast light, ferry window line, searchlight, tug, buoy or ship on the horizon may seem to float in the sky if the waterline is dark. Reflections can add a second light below the first, making a single source look larger or stranger.
 
-**Planets and low bright objects** should not be dismissed either. Sky at Night Magazine notes that Venus is often mistaken for an aircraft landing light because it can appear very bright before sunrise or after sunset and seems almost stationary. NASA’s Night Sky Network similarly lists Venus low and bright as a repeated source of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+**Planets and low bright objects** should not be dismissed either. Sky at Night Magazine notes that Venus is often mistaken for an aircraft landing light because it can appear very bright before sunrise or after sunset and seems almost stationary. NASA’s Night Sky Network similarly lists Venus low and bright as a repeated source of UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
 From Portsdown Hill, a bright planet over the Solent or Isle of Wight horizon can sit in exactly the wrong place for confident identification: low enough to look local, bright enough to feel artificial, and steady enough to seem as though it is hovering.
 
@@ -323,7 +323,7 @@ From Portsdown Hill, a bright planet over the Solent or Isle of Wight horizon ca
 
 Water changes the problem. Over land, people can often judge distance by buildings, trees, roads and nearby landmarks. Over the Solent at night, the background is darker and flatter. A light that is actually several miles away may look as if it is just beyond Portsmouth Harbour, while a small nearby light may look like a large distant object.
 
-Atmospheric effects can add another layer. The Met Office explains that optical effects in the sky arise through reflection, refraction, scattering and diffraction, while mirage explanations depend on light bending through air layers of different temperatures. Over coastal water, haze, moisture and temperature changes can make distant lights shimmer, distort, stretch or fade. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Atmospheric effects can add another layer. The Met Office explains that optical effects in the sky arise through reflection, refraction, scattering and diffraction, while mirage explanations depend on light bending through air layers of different temperatures. Over coastal water, haze, moisture and temperature changes can make distant lights shimmer, distort, stretch or fade.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 This is why Portsdown Hill is a better place for UFO reports than for UFO conclusions. The hill improves visibility, but it also multiplies ambiguity. A witness can see more, but may understand less about distance, scale and height.
 
@@ -334,9 +334,9 @@ The strongest local approach is therefore comparative. A report becomes more int
 
 ## What the evidence does and does not show
 
-There are local UFO anecdotes linked to Portsmouth and the wider hill-and-harbour area, but the public evidence for Portsdown Hill as a discrete, archive-rich UFO case location is thinner than the folklore label might suggest. A local Portsmouth article, for example, preserves a reader’s memory of a 1991 student sighting and photographs that were reportedly picked up by local and tabloid press, but this is a recollection rather than a full investigative file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.strongisland.co/2011/05/11/ufos-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strongisland.co">[Strong Island]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strongisland.co</span><span class="citation-popover-title">Strong Island UFOs over Portsmouth</span><span class="citation-popover-snippet">Strong Island UFOs over Portsmouth</span></span></span>
+There are local UFO anecdotes linked to Portsmouth and the wider hill-and-harbour area, but the public evidence for Portsdown Hill as a discrete, archive-rich UFO case location is thinner than the folklore label might suggest. A local Portsmouth article, for example, preserves a reader’s memory of a 1991 student sighting and photographs that were reportedly picked up by local and tabloid press, but this is a recollection rather than a full investigative file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.strongisland.co/2011/05/11/ufos-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strongisland.co">[Strong Island]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strongisland.co</span><span class="citation-popover-title">Strong Island UFOs over Portsmouth</span><span class="citation-popover-snippet">Strong Island UFOs over Portsmouth</span></span></span>
 
-The better-supported official record is broader: the Ministry of Defence published UFO report lists for 1997 to 2009, giving dates, locations and brief descriptions, and the National Archives later summarised the final release of MoD UFO files. Those records show that UK UFO reporting often involved brief light descriptions, orange objects, formations and sightings that were difficult to assess after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The better-supported official record is broader: the Ministry of Defence published UFO report lists for 1997 to 2009, giving dates, locations and brief descriptions, and the National Archives later summarised the final release of MoD UFO files. Those records show that UK UFO reporting often involved brief light descriptions, orange objects, formations and sightings that were difficult to assess after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 For Hampshire readers, that distinction is important. Portsdown Hill is not best understood as a place where evidence proves repeated extraordinary craft. It is best understood as a high-quality observation point beside a high-confusion environment. It brings together the conditions that generate reports: wide horizons, water, naval activity, air traffic, city lighting, weather effects and a local culture already alert to strange lights over Portsmouth.
 
@@ -368,194 +368,194 @@ This method will not solve every old story, especially where records are missing
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Strange Lights Gather Over Portsdown Hill?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Strange Lights Gather Over Portsdown Hill?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Especially useful for understanding recurring light sightings and observational ambiguities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially useful for understanding recurring light sightings and observational ambiguities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison with stronger aviation-related cases than typical hotspot reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with stronger aviation-related cases than typical hotspot reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps identify planets, stars and celestial objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify planets, stars and celestial objects often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Contrasts anecdotal hotspot sightings with cases supported by physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts anecdotal hotspot sightings with cases supported by physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/862b7c4711fe1b753759.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/862b7c4711fe1b753759.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/fe7a6d87f0abaa6bd6b4.jpg' | relative_url }}" alt="Listing image for Vulcan war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/fe7a6d87f0abaa6bd6b4.jpg' | relative_url }}" alt="Listing image for Vulcan war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="portsdown-hill-why-do-strange-lights-gather-over-portsdown-hill-hampshire-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ This method will not solve every old story, especially where records are missing
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ This method will not solve every old story, especially where records are missing
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ This method will not solve every old story, especially where records are missing
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ This method will not solve every old story, especially where records are missing
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ This method will not solve every old story, especially where records are missing
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,233 +761,233 @@ This method will not solve every old story, especially where records are missing
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: a3traveller.com  
    Title: A3 Traveller Portsdown Hill – best viewpoint over Portsmouth  
-   Link: <a href="https://a3traveller.com/2015/06/09/portsdown-hill-best-viewpoint-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow">https://a3traveller.com/2015/06/09/portsdown-hill-best-viewpoint-over-portsmouth/</a>  
+   Link:<a href="https://a3traveller.com/2015/06/09/portsdown-hill-best-viewpoint-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow">https://a3traveller.com/2015/06/09/portsdown-hill-best-viewpoint-over-portsmouth/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: a3traveller.com  
    Title: A3 Traveller The best view of The Solent: Portsdown Hill  
-   Link: <a href="https://a3traveller.com/2014/03/25/the-best-view-of-the-solent-portsdown-hill/" target="_blank" rel="noopener noreferrer nofollow">https://a3traveller.com/2014/03/25/the-best-view-of-the-solent-portsdown-hill/</a>  
+   Link:<a href="https://a3traveller.com/2014/03/25/the-best-view-of-the-solent-portsdown-hill/" target="_blank" rel="noopener noreferrer nofollow">https://a3traveller.com/2014/03/25/the-best-view-of-the-solent-portsdown-hill/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: KH M Portsmouth  
-   Link: <a href="https://www.gov.uk/government/groups/qhm-portsmouth" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/groups/qhm-portsmouth</a>  
+   Link:<a href="https://www.gov.uk/government/groups/qhm-portsmouth" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/groups/qhm-portsmouth</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/today" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/today</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/today" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/today</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Identifying UFOs and UAPs  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7da9ae40f0b65d88633a9f/ReqSept2012.csv</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7b03f940f0b66a2fc0480d/sea3_comments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b03f940f0b66a2fc0480d/sea3_comments.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7b03f940f0b66a2fc0480d/sea3_comments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b03f940f0b66a2fc0480d/sea3_comments.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a750b5b40f0b6360e472e51/Evidence_Supporting_the_Use_of_Environmental_Remediation_to_Improve_Water_Quality_in_the_South_Marine_Plan_Areas_report__1105_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a750b5b40f0b6360e472e51/Evidence_Supporting_the_Use_of_Environmental_Remediation_to_Improve_Water_Quality_in_the_South_Marine_Plan_Areas_report__1105_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a750b5b40f0b6360e472e51/Evidence_Supporting_the_Use_of_Environmental_Remediation_to_Improve_Water_Quality_in_the_South_Marine_Plan_Areas_report__1105_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a750b5b40f0b6360e472e51/Evidence_Supporting_the_Use_of_Environmental_Remediation_to_Improve_Water_Quality_in_the_South_Marine_Plan_Areas_report__1105_.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a757b5bed915d731495a4d8/RBMP_HRA_South_East_FINAL_Jan_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b5bed915d731495a4d8/RBMP_HRA_South_East_FINAL_Jan_2016.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a757b5bed915d731495a4d8/RBMP_HRA_South_East_FINAL_Jan_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b5bed915d731495a4d8/RBMP_HRA_South_East_FINAL_Jan_2016.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a8080beed915d74e33facd5/Sustainability_Appraisal_Part_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8080beed915d74e33facd5/Sustainability_Appraisal_Part_2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8080beed915d74e33facd5/Sustainability_Appraisal_Part_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8080beed915d74e33facd5/Sustainability_Appraisal_Part_2.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/khm/portsmouth" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/khm/portsmouth" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/tomorrow</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/khm/portsmouth/shipping-movements/tomorrow</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: legislation.gov.uk  
    Title: uksi 20191000 en  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2019/1000/pdfs/uksi_20191000_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2019/1000/pdfs/uksi_20191000_en.pdf</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2019/1000/pdfs/uksi_20191000_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2019/1000/pdfs/uksi_20191000_en.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: royalarmouries.org  
-   Link: <a href="https://royalarmouries.org/fort-nelson" target="_blank" rel="noopener noreferrer nofollow">https://royalarmouries.org/fort-nelson</a>  
+   Link:<a href="https://royalarmouries.org/fort-nelson" target="_blank" rel="noopener noreferrer nofollow">https://royalarmouries.org/fort-nelson</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: airspacesafety.com  
    Title: Airspace Safety EG.en_GB  
-   Link: <a href="https://airspacesafety.com/wp-content/uploads/2018/12/EG_AD_2_EGHI_4-1_en_2018-03-01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airspacesafety.com/wp-content/uploads/2018/12/EG_AD_2_EGHI_4-1_en_2018-03-01.pdf</a>  
+   Link:<a href="https://airspacesafety.com/wp-content/uploads/2018/12/EG_AD_2_EGHI_4-1_en_2018-03-01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airspacesafety.com/wp-content/uploads/2018/12/EG_AD_2_EGHI_4-1_en_2018-03-01.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: southamptonairport.consultationonline.co.uk  
-   Link: <a href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow">https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf</a>  
+   Link:<a href="https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf" target="_blank" rel="noopener noreferrer nofollow">https://southamptonairport.consultationonline.co.uk/wp-content/uploads/sites/310/2022/06/FAQs-for-Southampton-Airspace-Website.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: strongisland.co  
    Title: Strong Island UFOs over Portsmouth  
-   Link: <a href="https://www.strongisland.co/2011/05/11/ufos-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongisland.co/2011/05/11/ufos-over-portsmouth/</a>  
+   Link:<a href="https://www.strongisland.co/2011/05/11/ufos-over-portsmouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongisland.co/2011/05/11/ufos-over-portsmouth/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/875206713201868/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/875206713201868/</a>  
+   Link:<a href="https://www.facebook.com/groups/875206713201868/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/875206713201868/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: royal armouries fort nelson on top of portsdown hill overlooking the solent make  
-   Link: <a href="https://www.facebook.com/ourhampshire/posts/royal-armouries-fort-nelson-on-top-of-portsdown-hill-overlooking-the-solent-make/546552742938061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ourhampshire/posts/royal-armouries-fort-nelson-on-top-of-portsdown-hill-overlooking-the-solent-make/546552742938061/</a>  
+   Link:<a href="https://www.facebook.com/ourhampshire/posts/royal-armouries-fort-nelson-on-top-of-portsdown-hill-overlooking-the-solent-make/546552742938061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ourhampshire/posts/royal-armouries-fort-nelson-on-top-of-portsdown-hill-overlooking-the-solent-make/546552742938061/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thesolentcluster.com  
-   Link: <a href="https://www.thesolentcluster.com/members/southampton-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesolentcluster.com/members/southampton-airport/</a>  
+   Link:<a href="https://www.thesolentcluster.com/members/southampton-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesolentcluster.com/members/southampton-airport/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: visitportsmouth.co.uk  
-   Link: <a href="https://www.visitportsmouth.co.uk/listing/royal-armouries-fort-nelson/164639101/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitportsmouth.co.uk/listing/royal-armouries-fort-nelson/164639101/</a>  
+   Link:<a href="https://www.visitportsmouth.co.uk/listing/royal-armouries-fort-nelson/164639101/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitportsmouth.co.uk/listing/royal-armouries-fort-nelson/164639101/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: southamptonairport.com  
-   Link: <a href="https://www.southamptonairport.com/about-us/airspace-change-programme/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/about-us/airspace-change-programme/</a>  
+   Link:<a href="https://www.southamptonairport.com/about-us/airspace-change-programme/" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/about-us/airspace-change-programme/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: southamptonairport.com  
-   Link: <a href="https://www.southamptonairport.com/media/fwnh31wg/sou-a-vision-for-sustainable-growth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/media/fwnh31wg/sou-a-vision-for-sustainable-growth.pdf</a>  
+   Link:<a href="https://www.southamptonairport.com/media/fwnh31wg/sou-a-vision-for-sustainable-growth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southamptonairport.com/media/fwnh31wg/sou-a-vision-for-sustainable-growth.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: falmouthharbour.co.uk  
    Title: Shipping Movements  
-   Link: <a href="https://falmouthharbour.co.uk/harbour/shipping-movements/" target="_blank" rel="noopener noreferrer nofollow">https://falmouthharbour.co.uk/harbour/shipping-movements/</a>  
+   Link:<a href="https://falmouthharbour.co.uk/harbour/shipping-movements/" target="_blank" rel="noopener noreferrer nofollow">https://falmouthharbour.co.uk/harbour/shipping-movements/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: visit-hampshire.co.uk  
    Title: Royal Armouries  
-   Link: <a href="https://www.visit-hampshire.co.uk/things-to-do/royal-armouries-fort-nelson-p1464901" target="_blank" rel="noopener noreferrer nofollow">https://www.visit-hampshire.co.uk/things-to-do/royal-armouries-fort-nelson-p1464901</a>  
+   Link:<a href="https://www.visit-hampshire.co.uk/things-to-do/royal-armouries-fort-nelson-p1464901" target="_blank" rel="noopener noreferrer nofollow">https://www.visit-hampshire.co.uk/things-to-do/royal-armouries-fort-nelson-p1464901</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: OVERLOOKING THE CITY OF PORTSMOUTH from Portsdown Hill  
-   Link: <a href="https://www.youtube.com/watch?v=yrTqdNvbeDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yrTqdNvbeDs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE HOLY GRAIL TIME LAPSE | Portsmouth Cityscape | Sony A7iii &amp; 70-200mm Gmaster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yrTqdNvbeDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yrTqdNvbeDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE HOLY GRAIL TIME LAPSE | Portsmouth Cityscape | Sony A7iii &amp; 70-200mm Gmaster...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: A quick view of Portsmouth from up on the hill during the July heatwave  
-   Link: <a href="https://www.youtube.com/watch?v=rj0GBCF-EwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rj0GBCF-EwY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVERLOOKING THE CITY OF PORTSMOUTH from Portsdown Hill - Timelapse Photography...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rj0GBCF-EwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rj0GBCF-EwY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVERLOOKING THE CITY OF PORTSMOUTH from Portsdown Hill - Timelapse Photography...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: THE HOLY GRAIL TIME LAPSE | Portsmouth Cityscape | Sony A7iii & 70-200mm Gmaster  
-   Link: <a href="https://www.youtube.com/watch?v=fjptWBxMQy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fjptWBxMQy8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the top of Portsdown Hill in a thunderstorm! MAY 2nd 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fjptWBxMQy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fjptWBxMQy8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the top of Portsdown Hill in a thunderstorm! MAY 2nd 2024...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Solent, Portsmouth and Gosport from the air in 4K  
-   Link: <a href="https://www.youtube.com/watch?v=121PtVoFO8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=121PtVoFO8c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A quick view of Portsmouth from up on the hill during the July heatwave...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=121PtVoFO8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=121PtVoFO8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A quick view of Portsmouth from up on the hill during the July heatwave...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/340419784596809/posts/464452855526834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/340419784596809/posts/464452855526834/</a>  
+   Link:<a href="https://www.facebook.com/groups/340419784596809/posts/464452855526834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/340419784596809/posts/464452855526834/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: solentships.com  
-   Link: <a href="https://www.solentships.com/expected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.solentships.com/expected.html</a>  
+   Link:<a href="https://www.solentships.com/expected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.solentships.com/expected.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: hacaneast.org.uk  
-   Link: <a href="https://www.hacaneast.org.uk/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.hacaneast.org.uk/flight-paths</a>  
+   Link:<a href="https://www.hacaneast.org.uk/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.hacaneast.org.uk/flight-paths</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/hampshire-view-from-portsdown-hill-spinnaker-tower.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/hampshire-view-from-portsdown-hill-spinnaker-tower.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/hampshire-view-from-portsdown-hill-spinnaker-tower.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/hampshire-view-from-portsdown-hill-spinnaker-tower.html</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWOy-k8g47F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWOy-k8g47F/</a>  
+   Link:<a href="https://www.instagram.com/reel/DWOy-k8g47F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWOy-k8g47F/</a>  

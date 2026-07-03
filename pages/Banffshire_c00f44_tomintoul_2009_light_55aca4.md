@@ -248,7 +248,7 @@ image: /assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-overview-soc
 
 ## Introduction
 
-The Tomintoul sighting of 11 May 2009 is one of [Banffshire]({{ 'what-really-happened-in-banffshires-ufo/' | relative_url }})’s most useful small cases because it sounds dramatic but rests on a very thin official record. The Ministry of Defence table gives only a short entry: Tomintoul, Banffshire; time not given; a light “like a star” that was “jumping all over the sky”, about 70 degrees above the horizon, blue-white with occasional red, and leaving a light trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Tomintoul sighting of 11 May 2009 is one of [Banffshire]({{ 'what-really-happened-in-banffshires-ufo/' | relative_url }})’s most useful small cases because it sounds dramatic but rests on a very thin official record. The Ministry of Defence table gives only a short entry: Tomintoul, Banffshire; time not given; a light “like a star” that was “jumping all over the sky”, about 70 degrees above the horizon, blue-white with occasional red, and leaving a light trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-overview.webp" | relative_url }}" alt="Overview image for Tomintoul" loading="eager" decoding="sync" fetchpriority="high">
@@ -258,13 +258,13 @@ That makes the case less a “mystery craft” story than a test of how point-li
 <img src="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-Illustration-3-dark.svg" | relative_url }}" alt="Tomintoul illustration 3" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The MoD's 2009 Tomintoul entry
 
-The official wording is brief but distinctive. In the MoD’s 2009 sighting list, the Tomintoul report appears between other May entries from Harlow, Northwich, central London, Southampton and Nenthead. The Tomintoul line records the date as 11 May 2009, gives no time, names the location as Tomintoul and the county as Banffshire, and describes the object as “like a star” but apparently moving erratically, with blue-white and occasional red colour and a light trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The official wording is brief but distinctive. In the MoD’s 2009 sighting list, the Tomintoul report appears between other May entries from Harlow, Northwich, central London, Southampton and Nenthead. The Tomintoul line records the date as 11 May 2009, gives no time, names the location as Tomintoul and the county as Banffshire, and describes the object as “like a star” but apparently moving erratically, with blue-white and occasional red colour and a light trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The entry matters for Banffshire because it is not a second-hand internet anecdote or a later local legend. It appears in the published MoD sighting table for 2009, the final year in which the department was still recording UFO reports before its policy changed on 1 December 2009. The same MoD document states that after that date UFO sighting reports were no longer recorded or investigated by the department. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The entry matters for Banffshire because it is not a second-hand internet anecdote or a later local legend. It appears in the published MoD sighting table for 2009, the final year in which the department was still recording UFO reports before its policy changed on 1 December 2009. The same MoD document states that after that date UFO sighting reports were no longer recorded or investigated by the department.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-That official status should not be overstated. The MoD table is a receipt of a report, not a solved case file. It does not name the witness, provide a full statement, say whether anyone checked the sky conditions, identify aircraft activity, or confirm that the light behaved as described. National Archives material on the later release of UFO files shows that the MoD UFO desk handled reports, correspondence, Freedom of Information requests and public enquiries before closing in November 2009, but that does not mean every sighting received a deep technical investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+That official status should not be overstated. The MoD table is a receipt of a report, not a solved case file. It does not name the witness, provide a full statement, say whether anyone checked the sky conditions, identify aircraft activity, or confirm that the light behaved as described. National Archives material on the later release of UFO files shows that the MoD UFO desk handled reports, correspondence, Freedom of Information requests and public enquiries before closing in November 2009, but that does not mean every sighting received a deep technical investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Tomintoul’s geography is also relevant. The village sits inland towards the Cairngorms and is treated in historic-county terms as Banffshire, even though modern readers may associate it with Moray and the Cairngorms National Park. Wikishire places Tomintoul in the parish of Kirkmichael, Banffshire, while the Cairngorms National Park describes it as the highest village in the park. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Tomintoul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Tomintoul’s geography is also relevant. The village sits inland towards the Cairngorms and is treated in historic-county terms as Banffshire, even though modern readers may associate it with Moray and the Cairngorms National Park. Wikishire places Tomintoul in the parish of Kirkmichael, Banffshire, while the Cairngorms National Park describes it as the highest village in the park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Tomintoul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-Illustration-1-dark.svg" | relative_url }}" alt="Tomintoul illustration 1" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44_tomintoul_2009_light_55aca4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -272,11 +272,11 @@ Tomintoul’s geography is also relevant. The village sits inland towards the Ca
 
 The phrase “like a star” is the key to the case. A star-like UFO report usually means the witness saw a point of light rather than a structured object. Once a light is point-like, the observer has very few clues for judging distance, height, size or speed. A nearby aircraft light, a high satellite, a bright star, a planet, or a brief meteor can all begin as “just a light” until other clues appear.
 
-The colour changes in the Tomintoul report fit a well-known sky effect. Stars twinkle because their light passes through moving layers of air with different temperatures and densities. This can make a point source seem to vary in brightness, colour and even apparent position. Sky & Telescope notes that stellar scintillation can make a star’s brightness or position appear to change, while Space.com explains that atmospheric refraction can make bright stars seem to change colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Sky &amp; Telescope Why Stars Twinkle</span><span class="citation-popover-snippet">Sky &amp; Telescope Why Stars Twinkle</span></span></span>
+The colour changes in the Tomintoul report fit a well-known sky effect. Stars twinkle because their light passes through moving layers of air with different temperatures and densities. This can make a point source seem to vary in brightness, colour and even apparent position. Sky & Telescope notes that stellar scintillation can make a star’s brightness or position appear to change, while Space.com explains that atmospheric refraction can make bright stars seem to change colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Sky &amp; Telescope Why Stars Twinkle</span><span class="citation-popover-snippet">Sky &amp; Telescope Why Stars Twinkle</span></span></span>
 
 That does not automatically solve Tomintoul. The reported altitude, about 70 degrees above the horizon, is fairly high in the sky. Twinkling is usually most obvious near the horizon because starlight passes through more atmosphere, so a high-altitude light “jumping all over the sky” would need either unusually noticeable turbulence, a very bright object, or a perception effect on top of ordinary scintillation. The 70-degree detail therefore weakens a simple “low star twinkling” explanation, but it does not remove the possibility of a star or planet being misread.
 
-The autokinetic effect is especially relevant. This is a visual illusion in which a stationary point of light in a dark or featureless setting appears to move. Aviation safety sources discuss it because pilots at night can misperceive a fixed light, such as a star or ground light, as moving. SKYbrary describes the effect as a stationary small point of light appearing to move when there is little visual reference, and the FAA’s night-vision material says the illusion can be caused by staring at a fixed light in a dark, featureless background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
+The autokinetic effect is especially relevant. This is a visual illusion in which a stationary point of light in a dark or featureless setting appears to move. Aviation safety sources discuss it because pilots at night can misperceive a fixed light, such as a star or ground light, as moving. SKYbrary describes the effect as a stationary small point of light appearing to move when there is little visual reference, and the FAA’s night-vision material says the illusion can be caused by staring at a fixed light in a dark, featureless background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
 That maps neatly onto Tomintoul. A dark inland sky towards the Cairngorms, a single star-like light, and a witness watching it long enough to notice colour and motion could create the impression that the light was darting or “jumping”. The phrase “all over the sky” may describe real angular movement, but it may also be a witness’s way of describing unstable apparent motion around a fixed point.
 
@@ -291,11 +291,11 @@ Satellites are weaker for the exact wording. They can look like star-like points
 
 The light trail is the most awkward part of the report. A star can twinkle, shift colour and seem to wander, but it does not physically leave a trail across the sky. That pushes the case away from a simple stationary-star explanation and towards either a moving object, a meteor-like event, an aircraft light, or a visual effect created in the observer’s eye.
 
-A meteor is the obvious “trail” candidate. Meteors are brief streaks of light caused by material entering the Earth’s atmosphere at high speed, and brighter events can leave glowing trains. The American Meteor Society explains that a train is a glowing trail of ionised and excited air molecules left after a meteor, usually lasting seconds but sometimes longer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+A meteor is the obvious “trail” candidate. Meteors are brief streaks of light caused by material entering the Earth’s atmosphere at high speed, and brighter events can leave glowing trains. The American Meteor Society explains that a train is a glowing trail of ionised and excited air molecules left after a meteor, usually lasting seconds but sometimes longer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
 The problem is that the rest of the Tomintoul wording does not sound like a clean meteor report. A meteor usually crosses a visible part of the sky in seconds; it does not sit “like a star” and then jump around repeatedly. Without a duration, it is impossible to know whether the witness saw a single fast streak, a bright point with a short tail, or a longer observation of a fixed light that seemed to smear as the eyes moved.
 
-There is also a human-vision possibility. Bright lights against dark backgrounds can leave short-lived visual afterimages or smears, especially when the eyes move. Cleveland Clinic describes palinopsia as persistent or recurring visual images after the object is gone, though that is a medical symptom rather than a routine explanation for a single sighting. More cautiously, the Tomintoul “trail” could have been a momentary visual persistence effect, especially if the witness was tracking or refixating on a bright point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://my.clevelandclinic.org/health/symptoms/palinopsia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.clevelandclinic.org">[Cleveland Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.clevelandclinic.org</span><span class="citation-popover-title">Cleveland Clinic Palinopsia: What It Is, Types, Causes &amp; Treatments</span><span class="citation-popover-snippet">Cleveland Clinic Palinopsia: What It Is, Types, Causes &amp; Treatments</span></span></span>
+There is also a human-vision possibility. Bright lights against dark backgrounds can leave short-lived visual afterimages or smears, especially when the eyes move. Cleveland Clinic describes palinopsia as persistent or recurring visual images after the object is gone, though that is a medical symptom rather than a routine explanation for a single sighting. More cautiously, the Tomintoul “trail” could have been a momentary visual persistence effect, especially if the witness was tracking or refixating on a bright point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://my.clevelandclinic.org/health/symptoms/palinopsia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.clevelandclinic.org">[Cleveland Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.clevelandclinic.org</span><span class="citation-popover-title">Cleveland Clinic Palinopsia: What It Is, Types, Causes &amp; Treatments</span><span class="citation-popover-snippet">Cleveland Clinic Palinopsia: What It Is, Types, Causes &amp; Treatments</span></span></span>
 
 Aircraft strobes can also seem to leave short trails to the eye, particularly in dark conditions, and long-exposure photographs often exaggerate such effects. But the MoD entry does not say there was a photograph, so photographic streaking should not be imported into the case. The safest reading is that “left a light trail” is a witness description that cannot be tested from the table alone.
 
@@ -334,194 +334,194 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Tomintoul Light Seem to Jump?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the Tomintoul Light Seem to Jump?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating official UFO reports and separating stronger cases from weak or ambiguous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating official UFO reports and separating stronger cases from weak or ambiguous observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joJTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joJTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how UFO reports are investigated, classified and interpreted, matching a case study focused on a potentially misidenti...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how UFO reports are investigated, classified and interpreted, matching a case study focused on a potentially misidenti...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores perception, pattern recognition and belief formation, all relevant to reports of lights apparently moving erratically in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores perception, pattern recognition and belief formation, all relevant to reports of lights apparently moving erratically in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Helps readers understand cognitive biases and witness interpretation issues that often arise in anomalous-sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand cognitive biases and witness interpretation issues that often arise in anomalous-sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms"><img src="{{ '/assets/images/marketplace-covers/8ac580add95c452e13ac.jpg' | relative_url }}" alt="Listing image for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms"><img src="{{ '/assets/images/marketplace-covers/8ac580add95c452e13ac.jpg' | relative_url }}" alt="Listing image for BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">BARGAIN! HM 1939 Silver possibly an RAF sports medal, Essex Coat of Arms</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF ROUNDEL MOD TARGET SCOOTER BOY LAPEL MEMORABILIA PIN BADGE - SILVER (M33B)"><img src="{{ '/assets/images/marketplace-covers/8b0d2876af780385f8fd.jpg' | relative_url }}" alt="Listing image for RAF ROUNDEL MOD TARGET SCOOTER BOY LAPEL MEMORABILIA PIN BADGE - SILVER (M33B)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF ROUNDEL MOD TARGET SCOOTER BOY LAPEL MEMORABILIA PIN BADGE - SILVER (M33B)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF ROUNDEL MOD TARGET SCOOTER BOY LAPEL MEMORABILIA PIN BADGE - SILVER (M33B)"><img src="{{ '/assets/images/marketplace-covers/8b0d2876af780385f8fd.jpg' | relative_url }}" alt="Listing image for RAF ROUNDEL MOD TARGET SCOOTER BOY LAPEL MEMORABILIA PIN BADGE - SILVER (M33B)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF ROUNDEL MOD TARGET SCOOTER BOY LAPEL MEMORABILIA PIN BADGE - SILVER (M33B)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF at War nostalgic memorabilia pack containing interesting replica items"><img src="{{ '/assets/images/marketplace-covers/a47e6114b1a80e58c846.jpg' | relative_url }}" alt="Listing image for RAF at War nostalgic memorabilia pack containing interesting replica items" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF at War nostalgic memorabilia pack containing interesting replica items</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF at War nostalgic memorabilia pack containing interesting replica items"><img src="{{ '/assets/images/marketplace-covers/a47e6114b1a80e58c846.jpg' | relative_url }}" alt="Listing image for RAF at War nostalgic memorabilia pack containing interesting replica items" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF at War nostalgic memorabilia pack containing interesting replica items</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Royal Air Force, RAF Medals and Memorabilia Box"><img src="{{ '/assets/images/marketplace-covers/56cd422f7afc124ec64d.jpg' | relative_url }}" alt="Listing image for Personalised Royal Air Force, RAF Medals and Memorabilia Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Personalised Royal Air Force, RAF Medals and Memorabilia Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Royal Air Force, RAF Medals and Memorabilia Box"><img src="{{ '/assets/images/marketplace-covers/56cd422f7afc124ec64d.jpg' | relative_url }}" alt="Listing image for Personalised Royal Air Force, RAF Medals and Memorabilia Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Personalised Royal Air Force, RAF Medals and Memorabilia Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF memorabilia" data-ebay-reference="tomintoul-why-did-the-tomintoul-light-seem-to-jump-banffshire-raf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,182 +727,182 @@ That is why the Tomintoul case should be treated as unresolved but weakly eviden
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: why do stars twinkle  
-   Link: <a href="https://www.space.com/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/why-do-stars-twinkle</a>  
+   Link:<a href="https://www.space.com/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/why-do-stars-twinkle</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
+   Link:<a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: how to tell difference between meteors shooting stars and satellites in photos  
-   Link: <a href="https://www.space.com/how-to-tell-difference-between-meteors-shooting-stars-and-satellites-in-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/how-to-tell-difference-between-meteors-shooting-stars-and-satellites-in-photos</a>  
+   Link:<a href="https://www.space.com/how-to-tell-difference-between-meteors-shooting-stars-and-satellites-in-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/how-to-tell-difference-between-meteors-shooting-stars-and-satellites-in-photos</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uktomintoul harvesting limited  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/SC359782/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/SC359782/officers</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/SC359782/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/SC359782/officers</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Tomintoul</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Tomintoul</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skyandtelescope.org  
    Title: Sky & Telescope Why Stars Twinkle  
-   Link: <a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
+   Link:<a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: my.clevelandclinic.org  
    Title: Cleveland Clinic Palinopsia: What It Is, Types, Causes & Treatments  
-   Link: <a href="https://my.clevelandclinic.org/health/symptoms/palinopsia" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/symptoms/palinopsia</a>  
+   Link:<a href="https://my.clevelandclinic.org/health/symptoms/palinopsia" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/symptoms/palinopsia</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tomintoul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tomintoul</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: allaboutvision.com  
-   Link: <a href="https://www.allaboutvision.com/conditions/related/palinopsia/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutvision.com/conditions/related/palinopsia/</a>  
+   Link:<a href="https://www.allaboutvision.com/conditions/related/palinopsia/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutvision.com/conditions/related/palinopsia/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wikishire.co.uk  
    Title: Kirkmichael, Banffshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Kirkmichael%2C_Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkmichael%2C_Banffshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kirkmichael%2C_Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kirkmichael%2C_Banffshire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
    Title: Category:Towns and villages in Banffshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_Banffshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3ATowns_and_villages_in_Banffshire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/sct/BAN/Kirkmichael/Tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/BAN/Kirkmichael/Tomintoul</a>  
+   Link:<a href="https://www.genuki.org.uk/big/sct/BAN/Kirkmichael/Tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/BAN/Kirkmichael/Tomintoul</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tomintoulwhisky.com  
-   Link: <a href="https://tomintoulwhisky.com/" target="_blank" rel="noopener noreferrer nofollow">https://tomintoulwhisky.com/</a>  
+   Link:<a href="https://tomintoulwhisky.com/" target="_blank" rel="noopener noreferrer nofollow">https://tomintoulwhisky.com/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: skyandtelescope.org  
-   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/</a>  
+   Link:<a href="https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
    Title: autokinetic effect  
-   Link: <a href="https://www.britannica.com/science/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/autokinetic-effect</a>  
+   Link:<a href="https://www.britannica.com/science/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/autokinetic-effect</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/info/towns-villages/tomintoul-p237651" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/info/towns-villages/tomintoul-p237651</a>  
+   Link:<a href="https://www.visitscotland.com/info/towns-villages/tomintoul-p237651" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/info/towns-villages/tomintoul-p237651</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: education.nationalgeographic.org  
-   Link: <a href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/meteor/</a>  
+   Link:<a href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/meteor/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Exploring the World's Most Active UFO Town! Scotland's UFO Hotspot  
-   Link: <a href="https://www.youtube.com/watch?v=1tWTUH5s2ZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1tWTUH5s2ZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1tWTUH5s2ZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1tWTUH5s2ZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: faasafety.gov  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=s7VszyC2IdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s7VszyC2IdE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO reports rise as &#x27;X Files&#x27; unit shuts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s7VszyC2IdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s7VszyC2IdE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO reports rise as &#x27;X Files&#x27; unit shuts...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: UK UFO reports rise as 'X Files' unit shuts  
-   Link: <a href="https://www.youtube.com/watch?v=gEhfTpS77CE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gEhfTpS77CE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the World&#x27;s Most Active UFO Town! Scotland&#x27;s UFO Hotspot...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gEhfTpS77CE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gEhfTpS77CE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the World&#x27;s Most Active UFO Town! Scotland&#x27;s UFO Hotspot...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect</a>  
+   Link:<a href="https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/banffshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/banffshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/banffshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/banffshire/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cairngorms.co.uk  
-   Link: <a href="https://cairngorms.co.uk/towns-and-villages/tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://cairngorms.co.uk/towns-and-villages/tomintoul</a>  
+   Link:<a href="https://cairngorms.co.uk/towns-and-villages/tomintoul" target="_blank" rel="noopener noreferrer nofollow">https://cairngorms.co.uk/towns-and-villages/tomintoul</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WTNH8/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1505099611662359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTNH8/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1505099611662359/</a>  
+   Link:<a href="https://www.facebook.com/WTNH8/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1505099611662359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTNH8/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1505099611662359/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NoStupidQuestions/comments/1t304vr/have_you_ever_seen_a_ufo_and_if_you_did_what_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/1t304vr/have_you_ever_seen_a_ufo_and_if_you_did_what_did/</a>  
+   Link:<a href="https://www.reddit.com/r/NoStupidQuestions/comments/1t304vr/have_you_ever_seen_a_ufo_and_if_you_did_what_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/1t304vr/have_you_ever_seen_a_ufo_and_if_you_did_what_did/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/</a>  
+   Link:<a href="https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/</a>  

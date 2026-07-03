@@ -254,22 +254,22 @@ image: /assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-overview
 
 ## Introduction
 
-The orange-light reports from Worcester and Evesham are best understood as a small but revealing part of [Worcestershire]({{ 'what-did-worcestershire-really-see/' | relative_url }})’s modern UFO record: not a single spectacular encounter, but a cluster of brief official entries in which bright lights, balloon-like objects and lantern-like behaviour became difficult to separate. The key Evesham case was logged by the Ministry of Defence on 28 October 2009 at 5.50pm as an “airborne craft” with “non-conform lighting” and a steady strong orange colour. Earlier Worcester entries describe round bright objects, orange-yellow lights, a fast conventional-aircraft-like object and, most tellingly, a “helium type balloon” with flashing blue and red lights moving north along the A38 south of Worcester. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The orange-light reports from Worcester and Evesham are best understood as a small but revealing part of [Worcestershire]({{ 'what-did-worcestershire-really-see/' | relative_url }})’s modern UFO record: not a single spectacular encounter, but a cluster of brief official entries in which bright lights, balloon-like objects and lantern-like behaviour became difficult to separate. The key Evesham case was logged by the Ministry of Defence on 28 October 2009 at 5.50pm as an “airborne craft” with “non-conform lighting” and a steady strong orange colour. Earlier Worcester entries describe round bright objects, orange-yellow lights, a fast conventional-aircraft-like object and, most tellingly, a “helium type balloon” with flashing blue and red lights moving north along the A38 south of Worcester. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-overview.webp" | relative_url }}" alt="Overview image for Orange Lights" loading="eager" decoding="sync" fetchpriority="high">
-These reports matter because they sit at the exact point where UK UFO reporting was changing. By 2009, the MoD’s UFO desk was receiving a surge of sightings, many involving slow orange lights that officials and later commentators associated with the popularity of Chinese lanterns. That does not prove every Worcestershire report was a lantern, but it strongly shapes how the evidence should be read. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+These reports matter because they sit at the exact point where UK UFO reporting was changing. By 2009, the MoD’s UFO desk was receiving a surge of sightings, many involving slow orange lights that officials and later commentators associated with the popularity of Chinese lanterns. That does not prove every Worcestershire report was a lantern, but it strongly shapes how the evidence should be read.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0dMlej9QJg" title="UFO file release June 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer">UFO file release June 2013</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 120.0K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0dMlej9QJg">Open on YouTube</a></p></div></div></div>
 
 ## Worcester’s bright lights and balloon-like entries
 
-Worcester’s relevant entries begin before the 2009 lantern wave. On 4 May 1997, the MoD list recorded a Worcester sighting of one object “the size of the North Star”, round, orange and yellow, “quite bright”, first stationary and then moving steadily. A few months later, on 1 August 1997, another Worcester entry was less about colour than motion: “A UFO. Similar to a conventional aircraft. Travelling Northwards at huge speed.” These terse lines are typical of the MoD summary lists: they preserve the witness impression but rarely include direction bearings, elevation, weather, aircraft checks or a follow-up identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Worcester’s relevant entries begin before the 2009 lantern wave. On 4 May 1997, the MoD list recorded a Worcester sighting of one object “the size of the North Star”, round, orange and yellow, “quite bright”, first stationary and then moving steadily. A few months later, on 1 August 1997, another Worcester entry was less about colour than motion: “A UFO. Similar to a conventional aircraft. Travelling Northwards at huge speed.” These terse lines are typical of the MoD summary lists: they preserve the witness impression but rarely include direction bearings, elevation, weather, aircraft checks or a follow-up identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-A later Worcester entry from 16 May 1999 described one round, very bright object, yellow with a red flash. Read on its own, that could sound strange; read in the wider MoD tables, it resembles many short reports of point lights, aircraft-like lights, astronomical objects, balloons or distant fireballs that were logged because the witness could not identify them at the time. The useful fact is not that the entry proves a craft, but that Worcester repeatedly produced the same kind of low-detail “bright object” report that appears across the national files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+A later Worcester entry from 16 May 1999 described one round, very bright object, yellow with a red flash. Read on its own, that could sound strange; read in the wider MoD tables, it resembles many short reports of point lights, aircraft-like lights, astronomical objects, balloons or distant fireballs that were logged because the witness could not identify them at the time. The useful fact is not that the entry proves a craft, but that Worcester repeatedly produced the same kind of low-detail “bright object” report that appears across the national files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The most important Worcester comparison is the 27 August 2003 report. It described “a helium type balloon, size of a moon, with flashing blue and red lights”, moving north along the line of the A38 over the area south of Worcester. That description is valuable because it shows how a witness or recorder could already frame a strange aerial object in balloon terms before the later lantern boom. It also places the object along a recognisable local corridor rather than in an abstract “sky over Worcestershire”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The most important Worcester comparison is the 27 August 2003 report. It described “a helium type balloon, size of a moon, with flashing blue and red lights”, moving north along the line of the A38 over the area south of Worcester. That description is valuable because it shows how a witness or recorder could already frame a strange aerial object in balloon terms before the later lantern boom. It also places the object along a recognisable local corridor rather than in an abstract “sky over Worcestershire”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 For Worcester, then, the pattern is mixed rather than dramatic. The records include orange-yellow brightness, red flashes, aircraft-like motion and an explicitly balloon-like report. None of these entries carries the kind of supporting evidence that would make it a strong unresolved case. Their value is cumulative: they show the ordinary mechanisms by which a county UFO record forms, one short sighting description at a time.
 
@@ -277,11 +277,11 @@ For Worcester, then, the pattern is mixed rather than dramatic. The records incl
 <img src="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-1-dark.svg" | relative_url }}" alt="Orange Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evesham’s orange craft report in 2009
 
-The Evesham entry is sharper because of its date and wording. The MoD’s 2009 sighting list records: 28 October 2009, 17:50, Evesham, Worcestershire, “Airborne craft with non-conform lighting, steady strong orange.” It is a compact but intriguing phrase. “Non-conform lighting” suggests the witness thought the light did not match normal aircraft navigation lights; “steady strong orange” places it squarely in the colour pattern that dominated many late-2000s UK reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Evesham entry is sharper because of its date and wording. The MoD’s 2009 sighting list records: 28 October 2009, 17:50, Evesham, Worcestershire, “Airborne craft with non-conform lighting, steady strong orange.” It is a compact but intriguing phrase. “Non-conform lighting” suggests the witness thought the light did not match normal aircraft navigation lights; “steady strong orange” places it squarely in the colour pattern that dominated many late-2000s UK reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The timing matters. A sunset table for October 2009 gives sunset on 28 October as 4.42pm, so the 5.50pm Evesham report occurred after dark or in the darker part of evening, when a warm floating light could stand out strongly and distance would be hard to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.suntoday.org/sunrise-sunset/2009/october.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suntoday.org">[Sun Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suntoday.org</span><span class="citation-popover-snippet">Open source on suntoday.org.</span></span></span> That does not identify the object, but it narrows the practical problem: the witness was probably judging a light source against a darkening sky, not viewing a detailed craft in daylight.
+The timing matters. A sunset table for October 2009 gives sunset on 28 October as 4.42pm, so the 5.50pm Evesham report occurred after dark or in the darker part of evening, when a warm floating light could stand out strongly and distance would be hard to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.suntoday.org/sunrise-sunset/2009/october.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suntoday.org">[Sun Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suntoday.org</span><span class="citation-popover-snippet">Open source on suntoday.org.</span></span></span> That does not identify the object, but it narrows the practical problem: the witness was probably judging a light source against a darkening sky, not viewing a detailed craft in daylight.
 
-The national context makes the Evesham entry less isolated than it first appears. On the same MoD page, the surrounding late-October 2009 entries include bright orange spheres in Derbyshire, orange lights in a row over East Sussex, a single orange light with a triangular formation in Staffordshire, “ten flaming balls of fire” in Lancashire, a large orange ball in Norfolk, and several further orange or fire-like reports on 31 October. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The Evesham report is therefore part of a broader wave of orange-light sightings rather than a lone Worcestershire anomaly.
+The national context makes the Evesham entry less isolated than it first appears. On the same MoD page, the surrounding late-October 2009 entries include bright orange spheres in Derbyshire, orange lights in a row over East Sussex, a single orange light with a triangular formation in Staffordshire, “ten flaming balls of fire” in Lancashire, a large orange ball in Norfolk, and several further orange or fire-like reports on 31 October.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> The Evesham report is therefore part of a broader wave of orange-light sightings rather than a lone Worcestershire anomaly.
 
 That is the central interpretive point. If the Evesham sighting had included radar confirmation, multiple independent observers, photographs, a precise flight path or official aviation checks, it might stand apart. In the public MoD list, however, it is a one-line summary surrounded by many similar orange-light reports. Its evidential weight is modest, but its historical usefulness is high because it captures the exact kind of report that made 2009 a peak year for the MoD UFO desk.
 
@@ -290,13 +290,13 @@ That is the central interpretive point. If the Evesham sighting had included rad
 
 ## Why lanterns became the leading explanation
 
-Chinese lanterns are not a magic answer for every orange light, but they are the most relevant explanation for the Evesham-style report. The National Archives’ release note on the final MoD UFO files states that the UFO Desk received over 600 sightings in 2009, about three times the previous year’s number, and that officials linked part of the surge to the craze for releasing Chinese lanterns at weddings and public holidays. Dr David Clarke, quoted in the same release, noted that many reports of formations of orange lights moving slowly across the sky matched the appearance of Chinese lanterns even when witnesses did not recognise them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Chinese lanterns are not a magic answer for every orange light, but they are the most relevant explanation for the Evesham-style report. The National Archives’ release note on the final MoD UFO files states that the UFO Desk received over 600 sightings in 2009, about three times the previous year’s number, and that officials linked part of the surge to the craze for releasing Chinese lanterns at weddings and public holidays. Dr David Clarke, quoted in the same release, noted that many reports of formations of orange lights moving slowly across the sky matched the appearance of Chinese lanterns even when witnesses did not recognise them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That is especially important for Worcestershire because the Evesham description gives colour but not structure. A lantern can appear as a steady orange light, can seem silent, can drift or climb, and can give a misleading impression of size if there is no reference point. Multiple lanterns released together can look like a formation, while a single lantern can be interpreted as one “craft” if the flame and paper envelope blur into a compact glow.
 
-The Civil Aviation Authority treats sky lanterns as part of a wider category of aerial activities — alongside fireworks, searchlights, lasers and toy balloons — that may distract or confuse aircrew or damage aircraft during flight operations. Its guidance is not about UFOs, but it confirms that sky lanterns are real aerial objects capable of entering airspace and creating ambiguous night-time sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The Civil Aviation Authority treats sky lanterns as part of a wider category of aerial activities — alongside fireworks, searchlights, lasers and toy balloons — that may distract or confuse aircrew or damage aircraft during flight operations. Its guidance is not about UFOs, but it confirms that sky lanterns are real aerial objects capable of entering airspace and creating ambiguous night-time sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-For the Worcester records, lanterns are only one of several possible explanations. The 2003 “helium type balloon” entry points directly to balloon-like misidentification; the 1997 and 1999 bright-object reports could involve stars, planets, aircraft lights, distant helicopters, balloons, meteors or other transient light sources. The National Archives’ general guide to UFO records notes that many reports describe shapes, lights and flashes that can often be explained, and specifically mentions possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites in older files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+For the Worcester records, lanterns are only one of several possible explanations. The 2003 “helium type balloon” entry points directly to balloon-like misidentification; the 1997 and 1999 bright-object reports could involve stars, planets, aircraft lights, distant helicopters, balloons, meteors or other transient light sources. The National Archives’ general guide to UFO records notes that many reports describe shapes, lights and flashes that can often be explained, and specifically mentions possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites in older files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 
 <img src="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-2-dark.svg" | relative_url }}" alt="Orange Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,7 +317,7 @@ Several kinds of evidence would make the Evesham case stronger:
 
 </div>
 
-Several factors weaken the extraordinary interpretation. The Evesham record is a single summary line; it appears during a national peak of orange-light reports; neighbouring entries in the MoD table use classic lantern-like language such as silent orange balls, flaming lights and lights in a row; and the MoD closed its UFO desk soon afterwards partly because the process was judged to serve no defence purpose. In 2009, ministers were told that more than 50 years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Several factors weaken the extraordinary interpretation. The Evesham record is a single summary line; it appears during a national peak of orange-light reports; neighbouring entries in the MoD table use classic lantern-like language such as silent orange balls, flaming lights and lights in a row; and the MoD closed its UFO desk soon afterwards partly because the process was judged to serve no defence purpose. In 2009, ministers were told that more than 50 years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 This does not mean witnesses were foolish or dishonest. A small orange light in the sky can be genuinely puzzling, especially when seen briefly, at night, without sound, and with no clear sense of scale. The lesson of the Worcestershire records is more practical: a sincere sighting can be real as an observation while still being weak as evidence for an extraordinary object.
 
@@ -336,194 +336,194 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
 <img src="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-3-dark.svg" | relative_url }}" alt="Orange Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Worcestershire_9671d5_orange_lights_worces_7b675b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Worcestershire&#x27;s Orange Lights UFOs or Lanterns?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Worcestershire&#x27;s Orange Lights UFOs or Lanterns?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page built around government-recorded sightings and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page built around government-recorded sightings and official reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses UFO sighting reports and methods for evaluating unexplained aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses UFO sighting reports and methods for evaluating unexplained aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
         
-        <p class="fr-book-desc">Places UFO sightings within the wider context of unexplained phenomena and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places UFO sightings within the wider context of unexplained phenomena and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for assessing extraordinary claims and common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing extraordinary claims and common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Unexplained+Phenomena+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Unexplained Phenomena books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Unexplained+Phenomena+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Unexplained Phenomena books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins"><img src="{{ '/assets/images/marketplace-covers/34e7d70d238cef745946.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins"><img src="{{ '/assets/images/marketplace-covers/34e7d70d238cef745946.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!"><img src="{{ '/assets/images/marketplace-covers/0421bd52e30612956506.jpg' | relative_url }}" alt="Listing image for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!"><img src="{{ '/assets/images/marketplace-covers/0421bd52e30612956506.jpg' | relative_url }}" alt="Listing image for OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">OFFICIAL ALIEN 40TH ANNIVERSARY LIMITED EDITION PIN BADGE BRAND NEW!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens"><img src="{{ '/assets/images/marketplace-covers/49f16e3f6f0ba5b828cf.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens"><img src="{{ '/assets/images/marketplace-covers/49f16e3f6f0ba5b828cf.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph lapel pin 3d printed resin hatchling painted Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien pin" data-ebay-reference="orange-lights-4499ee-were-worcestershire-s-orange-lights-ufos-or-lanterns-worcestershire-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,149 +729,149 @@ The most balanced reading is therefore cautious. Some Worcestershire orange-ligh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.now  
-   Link: <a href="https://time.now/evesham/sun/tomorrow/" target="_blank" rel="noopener noreferrer nofollow">https://time.now/evesham/sun/tomorrow/</a>  
+   Link:<a href="https://time.now/evesham/sun/tomorrow/" target="_blank" rel="noopener noreferrer nofollow">https://time.now/evesham/sun/tomorrow/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140804 FOI Bentwaters  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: suntoday.org  
-   Link: <a href="https://www.suntoday.org/sunrise-sunset/2009/october.html" target="_blank" rel="noopener noreferrer nofollow">https://www.suntoday.org/sunrise-sunset/2009/october.html</a>  
+   Link:<a href="https://www.suntoday.org/sunrise-sunset/2009/october.html" target="_blank" rel="noopener noreferrer nofollow">https://www.suntoday.org/sunrise-sunset/2009/october.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sunrise-sunset.org  
-   Link: <a href="https://sunrise-sunset.org/gb/evesham" target="_blank" rel="noopener noreferrer nofollow">https://sunrise-sunset.org/gb/evesham</a>  
+   Link:<a href="https://sunrise-sunset.org/gb/evesham" target="_blank" rel="noopener noreferrer nofollow">https://sunrise-sunset.org/gb/evesham</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK</a>  
+   Link:<a href="https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/61826578/UFOReports2003WholeoftheUK</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: New UFO files released  
-   Link: <a href="http://www.youtube.com/watch?v=TwO8Fyrp0Y8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TwO8Fyrp0Y8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK National Archives UFO files Chinese lanterns orange lights More incredible footage of a UFO rising from our oceans! What are these adv...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TwO8Fyrp0Y8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TwO8Fyrp0Y8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK National Archives UFO files Chinese lanterns orange lights More incredible footage of a UFO rising from our oceans! What are these adv...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Inside the New UFO Files: What They Actually Show  
-   Link: <a href="http://www.youtube.com/watch?v=19mbUxhkz9U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=19mbUxhkz9U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=19mbUxhkz9U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=19mbUxhkz9U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
+   Link:<a href="https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbccumbria/videos/ufo-sighting-in-workington-cumbria-while-out-walking-my-dogits-possible-it-could/834287553332641/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/birdlifesouthafrica/posts/10160504946433415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/birdlifesouthafrica/posts/10160504946433415/</a>  
+   Link:<a href="https://www.facebook.com/groups/birdlifesouthafrica/posts/10160504946433415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/birdlifesouthafrica/posts/10160504946433415/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caracal.es  
-   Link: <a href="https://caracal.es/articles/garde-boue-ufo-arrire-orange-en-polypropylne-inject-rsistant-pour-ktm-sx-f--s2-B197730742254" target="_blank" rel="noopener noreferrer nofollow">https://caracal.es/articles/garde-boue-ufo-arrire-orange-en-polypropylne-inject-rsistant-pour-ktm-sx-f--s2-B197730742254</a>  
+   Link:<a href="https://caracal.es/articles/garde-boue-ufo-arrire-orange-en-polypropylne-inject-rsistant-pour-ktm-sx-f--s2-B197730742254" target="_blank" rel="noopener noreferrer nofollow">https://caracal.es/articles/garde-boue-ufo-arrire-orange-en-polypropylne-inject-rsistant-pour-ktm-sx-f--s2-B197730742254</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bonzac.fr  
-   Link: <a href="https://bonzac.fr/articles/garde-boue-avant-ufo-orange-ktm-exc-sx-plastique-carrosserie-kt03092-127--s2-C157695550834" target="_blank" rel="noopener noreferrer nofollow">https://bonzac.fr/articles/garde-boue-avant-ufo-orange-ktm-exc-sx-plastique-carrosserie-kt03092-127--s2-C157695550834</a>  
+   Link:<a href="https://bonzac.fr/articles/garde-boue-avant-ufo-orange-ktm-exc-sx-plastique-carrosserie-kt03092-127--s2-C157695550834" target="_blank" rel="noopener noreferrer nofollow">https://bonzac.fr/articles/garde-boue-avant-ufo-orange-ktm-exc-sx-plastique-carrosserie-kt03092-127--s2-C157695550834</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/</a>  
+   Link:<a href="https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufodozens-of-reports-of-ufo-sightings-in-worcestershire-hav/4457825924289781/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/birdlifesouthafrica/posts/10160837034498415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/birdlifesouthafrica/posts/10160837034498415/</a>  
+   Link:<a href="https://www.facebook.com/groups/birdlifesouthafrica/posts/10160837034498415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/birdlifesouthafrica/posts/10160837034498415/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: paradigmresearchgroup.org  
-   Link: <a href="https://www.paradigmresearchgroup.org/News_Items-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmresearchgroup.org/News_Items-2.htm</a>  
+   Link:<a href="https://www.paradigmresearchgroup.org/News_Items-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmresearchgroup.org/News_Items-2.htm</a>  

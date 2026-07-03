@@ -254,7 +254,7 @@ image: /assets/images/Merionethshire_8af4e7_county_boundaries_re_faec68-overview
 
 ## Introduction
 
-The Berwyn story belongs to historic [Merionethshire]({{ 'merionethshire/' | relative_url }}), but it cannot be understood if it is forced into one neat county label. The famous events of 23 January 1974 were centred on the Bala, Llandrillo and Berwyn Mountains area: a loud bang, ground-shaking, reported lights, an emergency search and later claims of a crashed UFO. Yet the same places now appear in different administrative boxes. Bala sits in modern Gwynedd; Llandrillo is now in Denbighshire; the Berwyn range itself lies across old county edges and modern reporting habits often reduce the whole case to “North Wales”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The Berwyn story belongs to historic [Merionethshire]({{ 'merionethshire/' | relative_url }}), but it cannot be understood if it is forced into one neat county label. The famous events of 23 January 1974 were centred on the Bala, Llandrillo and Berwyn Mountains area: a loud bang, ground-shaking, reported lights, an emergency search and later claims of a crashed UFO. Yet the same places now appear in different administrative boxes. Bala sits in modern Gwynedd; Llandrillo is now in Denbighshire; the Berwyn range itself lies across old county edges and modern reporting habits often reduce the whole case to “North Wales”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7_county_boundaries_re_faec68-overview.webp" | relative_url }}" alt="Overview image for County Boundaries" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,23 +262,23 @@ That boundary problem matters because UFO history is built from labels: police l
 
 ## Why Historic Merionethshire Still Matters
 
-Historic Merionethshire was one of the old Welsh counties, running from Cardigan Bay inland through mountain country towards Bala and the Berwyns. Britannica describes Merioneth as a historic county of north-west Wales extending from the coast into Snowdonia and the Berwyn mountains, with most of the old county now in Gwynedd and its northern part in modern Denbighshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Historic Merionethshire was one of the old Welsh counties, running from Cardigan Bay inland through mountain country towards Bala and the Berwyns. Britannica describes Merioneth as a historic county of north-west Wales extending from the coast into Snowdonia and the Berwyn mountains, with most of the old county now in Gwynedd and its northern part in modern Denbighshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-That is the first key to the [Berwyn case]({{ 'berwyn-case/' | relative_url }}). The incident is often described as taking place at Llandrillo, historically in Merionethshire, while modern gazetteers and local-government references place Llandrillo in Denbighshire. Wikishire describes Llandrillo as a village and parish in the Edeirnion area of Merionethshire, on the Bala-to-Corwen road; other modern summaries describe the same village as a Denbighshire community, historically in Merionethshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Llandrillo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+That is the first key to the [Berwyn case]({{ 'berwyn-case/' | relative_url }}). The incident is often described as taking place at Llandrillo, historically in Merionethshire, while modern gazetteers and local-government references place Llandrillo in Denbighshire. Wikishire describes Llandrillo as a village and parish in the Edeirnion area of Merionethshire, on the Bala-to-Corwen road; other modern summaries describe the same village as a Denbighshire community, historically in Merionethshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Llandrillo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 For a historic-county UFO project, the useful answer is not to choose one label and erase the others. The best practice is to state the frame plainly: this page treats the Berwyn incident as part of Merionethshire’s historic-county UFO history, while recognising that modern administrative records, press archives and public memory may file the same material under Gwynedd, Denbighshire, Clwyd or North Wales.
 
-The project’s wider geographic index uses historic counties rather than modern council areas. That approach is supported by the historic-counties mapping tradition: Wikimedia Commons hosts a Wales historic counties map showing the thirteen Welsh historic counties as they existed until 1974, and the Wikishire-linked historic county map material is built around fixed historic county boundaries rather than current local-government units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map.svg</span></span></span>
+The project’s wider geographic index uses historic counties rather than modern council areas. That approach is supported by the historic-counties mapping tradition: Wikimedia Commons hosts a Wales historic counties map showing the thirteen Welsh historic counties as they existed until 1974, and the Wikishire-linked historic county map material is built around fixed historic county boundaries rather than current local-government units.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Wales Historic Counties map.svg</span><span class="citation-popover-snippet">Commons File:Wales Historic Counties map.svg</span></span></span>
 
 
 <img src="{{ "/assets/images/Merionethshire_8af4e7_county_boundaries_re_faec68-Illustration-1-dark.svg" | relative_url }}" alt="County Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Merionethshire_8af4e7_county_boundaries_re_faec68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Merionethshire_8af4e7_county_boundaries_re_faec68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bala, Llandrillo And The Berwyn Border Problem
 
-The Berwyn story is geographically awkward because its strongest place names do different jobs. Bala gives the earthquake its usual scientific label: R. M. W. Musson’s study calls it the Bala earthquake of 23 January 1974 and gives the instrumental magnitude as 3.5 ML, with macroseismic estimates higher at about 3.9 to 4.0 ML. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
+The Berwyn story is geographically awkward because its strongest place names do different jobs. Bala gives the earthquake its usual scientific label: R. M. W. Musson’s study calls it the Bala earthquake of 23 January 1974 and gives the instrumental magnitude as 3.5 ML, with macroseismic estimates higher at about 3.9 to 4.0 ML.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
 
-Llandrillo gives the case its village-level witness setting. It is the place most often attached to reports of residents hearing the bang, feeling the tremor and assuming that an aircraft might have crashed in the mountains. GENUKI’s Merionethshire entry places Llandrillo in the hundred of Edeirnion, county Merioneth, five miles south-west of Corwen and seven miles north-east of Bala, which helps explain why older descriptions keep pulling the story back into Merionethshire even when modern maps say Denbighshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: genuki.org.uk">[genuki.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">genuki.org.uk</span><span class="citation-popover-snippet">Open source on genuki.org.uk.</span></span></span>
+Llandrillo gives the case its village-level witness setting. It is the place most often attached to reports of residents hearing the bang, feeling the tremor and assuming that an aircraft might have crashed in the mountains. GENUKI’s Merionethshire entry places Llandrillo in the hundred of Edeirnion, county Merioneth, five miles south-west of Corwen and seven miles north-east of Bala, which helps explain why older descriptions keep pulling the story back into Merionethshire even when modern maps say Denbighshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: genuki.org.uk">[genuki.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">genuki.org.uk</span><span class="citation-popover-snippet">Open source on genuki.org.uk.</span></span></span>
 
-The Berwyn Mountains provide the dramatic landscape but also complicate the filing. Wikishire describes the Berwyn range as a sparsely populated moorland area in north-east Wales, on the boundaries of Merionethshire with Denbighshire and Montgomeryshire, roughly bounded by Llangollen, Corwen, Bala and Oswestry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Berwyn Range</span><span class="citation-popover-snippet">Berwyn Range</span></span></span> That means a single light seen “over the Berwyns” may be locally reported through several different mental maps.
+The Berwyn Mountains provide the dramatic landscape but also complicate the filing. Wikishire describes the Berwyn range as a sparsely populated moorland area in north-east Wales, on the boundaries of Merionethshire with Denbighshire and Montgomeryshire, roughly bounded by Llangollen, Corwen, Bala and Oswestry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Berwyn Range</span><span class="citation-popover-snippet">Berwyn Range</span></span></span> That means a single light seen “over the Berwyns” may be locally reported through several different mental maps.
 
 A practical way to read the geography is this:
 
@@ -301,11 +301,11 @@ This is why the question “Where does the Berwyn story belong?” has more than
 
 County names matter most when a reader tries to verify the story. A modern search for “Merionethshire UFO” may lead to the historic framing; a search for “Denbighshire UFO Llandrillo” may lead to modern place labels; a search for “Bala earthquake” may lead to seismology rather than UFO literature; and a search for “Berwyn Mountain UFO” may lead to popular retellings, documentaries and conspiracy claims.
 
-The official and technical trail does not sit neatly in one local box. Musson’s reconstruction records that police received numerous calls after the 8.38 pm earthquake, checked with RAF Valley on Anglesey and the Preston air traffic control centre, and treated the situation as a possible aircraft crash. Within about an hour, officers were searching the Berwyn Mountains where lights had been reported, and an RAF mountain rescue group later became involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
+The official and technical trail does not sit neatly in one local box. Musson’s reconstruction records that police received numerous calls after the 8.38 pm earthquake, checked with RAF Valley on Anglesey and the Preston air traffic control centre, and treated the situation as a possible aircraft crash. Within about an hour, officers were searching the Berwyn Mountains where lights had been reported, and an RAF mountain rescue group later became involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
 
 That pattern is exactly what should be expected in a boundary-crossing upland incident. An apparent crash in darkness would not respect county lines. Reports could come from homes, roads and valleys on different sides of the hills. Police and RAF checks would follow operational geography, not antiquarian county geography. Later researchers then inherit a mixed paper trail: local memory from villages, newspaper coverage from the wider region, Ministry of Defence correspondence and scientific discussion of the earthquake.
 
-The National Archives’ UFO briefing material also treats the case in wider institutional terms. Its 2012 briefing guide notes that AIR 2/19083 contains brief details of the so-called Berwyn Mountains UFO incident, reported in North Wales in January 1974, with further details released to a member of the public in 2003 in DEFE 24/2045/1. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span> That wording is important: the archive label is not “Merionethshire UFO case” but “North Wales” and “Berwyn Mountains”.
+The National Archives’ UFO briefing material also treats the case in wider institutional terms. Its 2012 briefing guide notes that AIR 2/19083 contains brief details of the so-called Berwyn Mountains UFO incident, reported in North Wales in January 1974, with further details released to a member of the public in 2003 in DEFE 24/2045/1.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide</span><span class="citation-popover-snippet">briefing guide</span></span></span> That wording is important: the archive label is not “Merionethshire UFO case” but “North Wales” and “Berwyn Mountains”.
 
 ## Why “North Wales” Is Useful But Blunt
 
@@ -313,7 +313,7 @@ The National Archives’ UFO briefing material also treats the case in wider ins
 
 But the shorthand is blunt. It can flatten a specific geography into a vague paranormal landscape. Bala, Llandrillo and the Berwyns are not interchangeable. The earthquake evidence is tied to the Bala area; the village reports cluster around places such as Llandrillo; the later crash narrative attaches itself to high ground in the Berwyn range. Treating all of that as simply “a North Wales UFO” makes the story easier to sell but harder to check.
 
-This matters especially for the sceptical assessment. The strongest non-UFO explanation is not a generic dismissal but a place-specific reconstruction: a real earthquake in the Bala area, coinciding with a bright meteor or fireball seen more widely, plus local lights and the confusion of a night-time mountain search. Musson’s paper presents the earthquake as a significant North Wales event away from the better-known Caernarfon–Llŷn seismic area, while popular and local accounts preserve the witness experience of lights, rumbling and emergency concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
+This matters especially for the sceptical assessment. The strongest non-UFO explanation is not a generic dismissal but a place-specific reconstruction: a real earthquake in the Bala area, coinciding with a bright meteor or fireball seen more widely, plus local lights and the confusion of a night-time mountain search. Musson’s paper presents the earthquake as a significant North Wales event away from the better-known Caernarfon–Llŷn seismic area, while popular and local accounts preserve the witness experience of lights, rumbling and emergency concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
 
 A good county-level account should therefore use “North Wales” as a reporting frame, not as a substitute for local geography. The term explains why the case appears in regional media and national UFO files; it does not replace the need to identify where the historic Merionethshire elements lie.
 
@@ -323,7 +323,7 @@ A good county-level account should therefore use “North Wales” as a reportin
 
 Some apparent contradictions in Berwyn reporting are not contradictions in the event; they are contradictions in labelling. A reader may see Llandrillo described as Merionethshire in one source and Denbighshire in another and assume one is wrong. In fact, both can be correct if the source is using a different geographic frame.
 
-The same issue affects the county identity of the Berwyn uplands. Wikishire’s historic-county description places the range on the boundaries of Merionethshire, Denbighshire and Montgomeryshire, while modern public descriptions often use Denbighshire, Gwynedd or simply North Wales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Berwyn Range</span><span class="citation-popover-snippet">Berwyn Range</span></span></span> For UFO reporting, that means a sighting may be geographically stable while its label changes over time.
+The same issue affects the county identity of the Berwyn uplands. Wikishire’s historic-county description places the range on the boundaries of Merionethshire, Denbighshire and Montgomeryshire, while modern public descriptions often use Denbighshire, Gwynedd or simply North Wales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Berwyn Range</span><span class="citation-popover-snippet">Berwyn Range</span></span></span> For UFO reporting, that means a sighting may be geographically stable while its label changes over time.
 
 This is a common problem in British UFO archives. Ministry of Defence files, local newspapers and later researchers often sort sightings by the administrative vocabulary of their own period. A 1974 local report, a 1990s retelling and a 2010s declassified-file article may all describe the same underlying event, but the county names around it may reflect different mapping habits.
 
@@ -340,9 +340,9 @@ That phrasing is not elegant, but it prevents the two common mistakes: treating 
 
 Boundary confusion does not strengthen the UFO-crash claim by itself. It explains why records and retellings are scattered, but it does not create evidence of wreckage, bodies, a hidden recovery operation or an extraterrestrial craft.
 
-The strongest documented facts remain more modest. There was a real seismic event; people reported lights and sounds; police and rescue services acted as though an aircraft crash was possible; searches found no crashed aircraft or confirmed object. Musson’s study supports the earthquake component, and later file releases and press reports show that the Ministry of Defence and National Archives material treated the matter as a reported North Wales UFO incident rather than proof of a recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
+The strongest documented facts remain more modest. There was a real seismic event; people reported lights and sounds; police and rescue services acted as though an aircraft crash was possible; searches found no crashed aircraft or confirmed object. Musson’s study supports the earthquake component, and later file releases and press reports show that the Ministry of Defence and National Archives material treated the matter as a reported North Wales UFO incident rather than proof of a recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[nerc.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">Bala paper Musson</span><span class="citation-popover-snippet">Bala paper Musson</span></span></span>
 
-At the same time, boundary clarity should not be used to belittle witnesses. For people in and around Llandrillo and Bala, the experience was immediate: a bang, shaking ground, lights, fear of a crash and visible emergency activity. Those ingredients are enough to explain why the story lasted. They are also enough to explain why later retellings could grow more elaborate, especially once the case acquired the “Welsh Roswell” nickname in popular coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">berwyn mountain ufo the welsh roswell</span><span class="citation-popover-snippet">berwyn mountain ufo the welsh roswell</span></span></span>
+At the same time, boundary clarity should not be used to belittle witnesses. For people in and around Llandrillo and Bala, the experience was immediate: a bang, shaking ground, lights, fear of a crash and visible emergency activity. Those ingredients are enough to explain why the story lasted. They are also enough to explain why later retellings could grow more elaborate, especially once the case acquired the “Welsh Roswell” nickname in popular coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">berwyn mountain ufo the welsh roswell</span><span class="citation-popover-snippet">berwyn mountain ufo the welsh roswell</span></span></span>
 
 The boundary issue therefore changes how the case should be filed and read, not the evidential standard. It helps explain archive fragmentation and regional identity. It does not turn a weakly supported crash narrative into a confirmed event.
 
@@ -351,7 +351,7 @@ The boundary issue therefore changes how the case should be filed and read, not 
 
 ## A Better Way To File The Berwyn Case
 
-For this project, the Berwyn case should be indexed under historic Merionethshire because the Bala–Llandrillo setting sits naturally within the county’s historic geography and because Llandrillo’s older county identity is Merionethshire. It should also be cross-referenced to Denbighshire, Gwynedd and wider North Wales reporting because modern readers and modern archives often encounter the story through those labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Llandrillo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this project, the Berwyn case should be indexed under historic Merionethshire because the Bala–Llandrillo setting sits naturally within the county’s historic geography and because Llandrillo’s older county identity is Merionethshire. It should also be cross-referenced to Denbighshire, Gwynedd and wider North Wales reporting because modern readers and modern archives often encounter the story through those labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Llandrillo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 The practical filing model is:
 
@@ -377,194 +377,194 @@ The Berwyn story belongs to Merionethshire in the historic-county sense, but it 
 The most reliable reading is geographical rather than sensational. County boundaries explain why the archive trail is messy. They explain why one person calls it a Merionethshire case, another a Denbighshire case and another a North Wales mystery. They do not by themselves explain the lights or prove a crash. For that, the strongest available evidence still points to a real earthquake near Bala, widely reported lights consistent with a meteor or fireball, and a reasonable emergency response in difficult mountain terrain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Does The Berwyn Story Belong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Does The Berwyn Story Belong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how case records are preserved and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how case records are preserved and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains how British cases are documented and remembered.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how British cases are documented and remembered.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Useful for understanding UK UFO case histories and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding UK UFO case histories and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broader context for regional UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for regional UFO traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="county-boundaries-where-does-the-berwyn-story-belong-merionethshire-ufo-wall-art-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ The most reliable reading is geographical rather than sensational. County bounda
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ The most reliable reading is geographical rather than sensational. County bounda
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ The most reliable reading is geographical rather than sensational. County bounda
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ The most reliable reading is geographical rather than sensational. County bounda
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ The most reliable reading is geographical rather than sensational. County bounda
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,214 +770,214 @@ The most reliable reading is geographical rather than sensational. County bounda
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Merioneth</a>  
+   Link:<a href="https://www.britannica.com/place/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Merioneth</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Llandrillo, Denbighshire  
-   Link: <a href="https://en.wikipedia.org/wiki/Llandrillo%2C_Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Llandrillo%2C_Denbighshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Llandrillo%2C_Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Llandrillo%2C_Denbighshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Wales Historic Counties map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo</a>  
+   Link:<a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Berwyn Mountain UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merionethshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merionethshire</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Historic counties of Wales  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_Wales</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_Wales</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: File:Northern England Historic counties.svg  
-   Link: <a href="https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map Denbighshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Denbighshire.svg</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: Category:Llandrillo, Denbighshire  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ALlandrillo%2C_Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ALlandrillo%2C_Denbighshire</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ALlandrillo%2C_Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ALlandrillo%2C_Denbighshire</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: Category:Maps of counties of England  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_England</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 with ridings.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:Historic counties of the United Kingdom.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:English ceremonial counties 2010.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_ceremonial_counties_2010.svg</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo/Gaz1868" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo/Gaz1868</a>  
+   Link:<a href="https://www.genuki.org.uk/big/wal/MER/Llandrillo/Gaz1868" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/wal/MER/Llandrillo/Gaz1868</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
+   Link:<a href="https://www.britannica.com/place/Denbighshire-county-Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Denbighshire-county-Wales</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Llandrillo</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Llandrillo" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Llandrillo</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
    Title: Berwyn Range  
-   Link: <a href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berwyn_Range</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Berwyn_Range" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berwyn_Range</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nora.nerc.ac.uk  
    Title: Bala paper Musson  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/1531/1/Bala_paper_Musson.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: datamap.gov.wales  
    Title: Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
    Title: ufo files welsh roswell national archive  
-   Link: <a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: history.co.uk  
    Title: berwyn mountain ufo the welsh roswell  
-   Link: <a href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell</a>  
+   Link:<a href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=220" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=220</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=220" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=220</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Denbighshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Denbighshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Denbighshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Merionethshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Merionethshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7988ebe5274a684690a486/reqjan11_2.csv</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Merioneth</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=ECE5660aeZo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ECE5660aeZo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berwyn Mountain UFO incident 1974 documentary UFO Documentary 2015 UFO Encounters Berwyn Mountain Mystery New Ufo documentary documentary...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ECE5660aeZo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ECE5660aeZo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berwyn Mountain UFO incident 1974 documentary UFO Documentary 2015 UFO Encounters Berwyn Mountain Mystery New Ufo documentary documentary...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Berwyn Mountains "Welsh Roswell" UFO incident,  
-   Link: <a href="http://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jLwzZdJKW0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>‘The Welsh Roswell’ - the Berwyn mountain UFO crash, Llandrillo, Wales, January 23, 1974...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jLwzZdJKW0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jLwzZdJKW0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>‘The Welsh Roswell’ - the Berwyn mountain UFO crash, Llandrillo, Wales, January 23, 1974...</p></details>
    Published: January 23, 1974  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: ‘The Welsh Roswell’  
-   Link: <a href="http://www.youtube.com/watch?v=hxo65ym4dog" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxo65ym4dog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What crash landed in the Berwyn mountains?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hxo65ym4dog" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxo65ym4dog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What crash landed in the Berwyn mountains?...</p></details>
    Published: January 23, 1974  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=3sjkImmziEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3sjkImmziEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Documentary 2015 UFO Encounters Berwyn Mountain Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=3sjkImmziEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3sjkImmziEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Documentary 2015 UFO Encounters Berwyn Mountain Mystery...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bala%2C_Merionethshire_2001</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: wikitree.com  
-   Link: <a href="https://www.wikitree.com/wiki/Category%3ABala%2C_Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://www.wikitree.com/wiki/Category%3ABala%2C_Merionethshire</a>  
+   Link:<a href="https://www.wikitree.com/wiki/Category%3ABala%2C_Merionethshire" target="_blank" rel="noopener noreferrer nofollow">https://www.wikitree.com/wiki/Category%3ABala%2C_Merionethshire</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/counties-of-wales/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties-of-wales/</a>  
+   Link:<a href="https://realcounties.com/counties-of-wales/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties-of-wales/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: library.wales  
-   Link: <a href="https://www.library.wales/discover-learn/digital-exhibitions/maps/county-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wales/discover-learn/digital-exhibitions/maps/county-maps</a>  
+   Link:<a href="https://www.library.wales/discover-learn/digital-exhibitions/maps/county-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wales/discover-learn/digital-exhibitions/maps/county-maps</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: mythslegendsodditiesnorth-east-wales.co.uk  
-   Link: <a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
+   Link:<a href="https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.mythslegendsodditiesnorth-east-wales.co.uk/berwyn-ufo-incident</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/denbighshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/denbighshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/denbighshire/</a>  

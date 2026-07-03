@@ -118,9 +118,9 @@ heading_title: What Really Happened in West Lothian's UFO Files?
 page_heading_title: What Really Happened in West Lothian's UFO Files?
 source_count: 111
 infographic_count: 3
-page_website_name: West Lothian UFOs
+page_website_name: West Lothian
 page_banner_line: Balanced local evidence on Dechmont Law and West Lothian sighting records.
-site_website_name: West Lothian UFOs
+site_website_name: West Lothian
 site_banner_line: Balanced local evidence on Dechmont Law and West Lothian sighting records.
 site_image_description: A wooded path at Dechmont Law near Livingston with a small plaque beside a clearing and distant Central Belt roads beyond the trees.
 output_language: English
@@ -689,17 +689,17 @@ image: /assets/images/West_Lothian_1c9504-overview-social.jpg
 
 ## Introduction
 
-For this page, “West Lothian” is treated as the historic county and mapped project area, while noting that the modern council area does not perfectly match the old county. The historic county was also known as Linlithgowshire, centred on Linlithgow, and its boundaries differ from the present West Lothian council area, especially around Bo’ness, South Queensferry and parts added from Midlothian. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/West_Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire West Lothian</span><span class="citation-popover-snippet">Wikishire West Lothian</span></span></span>
+For this page, “West Lothian” is treated as the historic county and mapped project area, while noting that the modern council area does not perfectly match the old county. The historic county was also known as Linlithgowshire, centred on Linlithgow, and its boundaries differ from the present West Lothian council area, especially around Bo’ness, South Queensferry and parts added from Midlothian.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/West_Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire West Lothian</span><span class="citation-popover-snippet">Wikishire West Lothian</span></span></span>
 
 
 <img src="{{ "/assets/images/West_Lothian_1c9504-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in West Lothian&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Dechmont Law became West Lothian’s landmark UFO case
 
-The Livingston incident took place on 9 November 1979 at Dechmont Law, on the northern fringe of Livingston. West Lothian Council’s own visitor information describes Dechmont Law as a 66-hectare recreational area of grassland, mixed woodland and paths, south of the M8 motorway. That setting is important: the case is often imagined as remote woodland folklore, but the site is actually close to housing, roads, rail links and modern Central Belt infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Dechmont Law</span><span class="citation-popover-snippet">West Lothian Council Dechmont Law</span></span></span>
+The Livingston incident took place on 9 November 1979 at Dechmont Law, on the northern fringe of Livingston. West Lothian Council’s own visitor information describes Dechmont Law as a 66-hectare recreational area of grassland, mixed woodland and paths, south of the M8 motorway. That setting is important: the case is often imagined as remote woodland folklore, but the site is actually close to housing, roads, rail links and modern Central Belt infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Dechmont Law</span><span class="citation-popover-snippet">West Lothian Council Dechmont Law</span></span></span>
 
-According to the account preserved in local interpretation material, Robert Taylor was a Livingston Development Corporation forestry worker carrying out a routine inspection with his red setter when he entered a clearing and saw a large metallic sphere. He later described two smaller spheres moving towards him, gripping his legs, an acrid smell, a hissing sound and a period of unconsciousness. The West Lothian Council information sheet gives the location as Dechmont Law, West Lothian, and the incident date as 9 November 1979. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+According to the account preserved in local interpretation material, Robert Taylor was a Livingston Development Corporation forestry worker carrying out a routine inspection with his red setter when he entered a clearing and saw a large metallic sphere. He later described two smaller spheres moving towards him, gripping his legs, an acrid smell, a hissing sound and a period of unconsciousness. The West Lothian Council information sheet gives the location as Dechmont Law, West Lothian, and the incident date as 9 November 1979.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
-The case acquired its lasting reputation because Taylor did not merely report a distant object. He returned home muddy and injured, with torn clothing, and his wife contacted a doctor and the police. A later summary notes that police accompanied him back to the site, where marks were found on the ground in the clearing. The incident was recorded as a criminal assault, which is why the case is often described as the UK’s only UFO sighting to have become the subject of a criminal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
+The case acquired its lasting reputation because Taylor did not merely report a distant object. He returned home muddy and injured, with torn clothing, and his wife contacted a doctor and the police. A later summary notes that police accompanied him back to the site, where marks were found on the ground in the clearing. The incident was recorded as a criminal assault, which is why the case is often described as the UK’s only UFO sighting to have become the subject of a criminal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
 
 That phrase should be handled carefully. It does not mean the police confirmed an extraterrestrial event. It means the police had a living complainant with injuries and damaged clothing, so the matter entered a normal investigative category. The unusual part is that Taylor’s explanation for the assault involved an unidentified object rather than a human attacker.
 
@@ -709,10 +709,10 @@ The best evidence in the Dechmont case is not a photograph, radar track or recov
 
 The strongest points are:
 
-* **A named witness with a known occupation.** Taylor was identified as a forestry worker for the Livingston Development Corporation, not an anonymous caller or later internet claimant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
-* **Immediate physical aftermath.** Accounts agree that Taylor came home muddy, with torn clothes and grazes, and was seen by a doctor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
-* **Police involvement.** The police visited the site and the matter was recorded as a criminal assault, giving the case more documentary weight than most local UFO stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
-* **Persistent local memory.** The location has been marked and interpreted through a Dechmont UFO trail and plaque, making the incident part of West Lothian’s public heritage landscape rather than only specialist UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Dechmont Law</span><span class="citation-popover-snippet">West Lothian Council Dechmont Law</span></span></span>
+* **A named witness with a known occupation.** Taylor was identified as a forestry worker for the Livingston Development Corporation, not an anonymous caller or later internet claimant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+* **Immediate physical aftermath.** Accounts agree that Taylor came home muddy, with torn clothes and grazes, and was seen by a doctor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
+* **Police involvement.** The police visited the site and the matter was recorded as a criminal assault, giving the case more documentary weight than most local UFO stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
+* **Persistent local memory.** The location has been marked and interpreted through a Dechmont UFO trail and plaque, making the incident part of West Lothian’s public heritage landscape rather than only specialist UFO literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Dechmont Law</span><span class="citation-popover-snippet">West Lothian Council Dechmont Law</span></span></span>
 
 Even so, these points do not prove that Taylor encountered a craft. They show that something happened to him, that he sincerely reported an extraordinary experience, and that police and local officials treated the physical aftermath seriously enough to examine it. They do not establish the origin of the object he described, and they do not remove ordinary explanations from consideration.
 
@@ -720,9 +720,9 @@ Even so, these points do not prove that Taylor encountered a craft. They show th
 <img src="{{ "/assets/images/West_Lothian_1c9504-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in West Lothian&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/West_Lothian_1c9504-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Lothian_1c9504-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main doubts and sceptical explanations
 
-The Livingston incident is interesting partly because the sceptical explanations have never erased the case, but they have made it harder to present as strong evidence of anything non-human. One common sceptical line is medical: Taylor may have experienced a collapse or seizure, followed by confused perception and memory. Undiscovered Scotland summarises this view by noting that some have attributed the experience to epilepsy with hallucinations, linked to Taylor’s previous meningitis, while also stressing that no one seems to doubt that Taylor believed the experience was real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
+The Livingston incident is interesting partly because the sceptical explanations have never erased the case, but they have made it harder to present as strong evidence of anything non-human. One common sceptical line is medical: Taylor may have experienced a collapse or seizure, followed by confused perception and memory. Undiscovered Scotland summarises this view by noting that some have attributed the experience to epilepsy with hallucinations, linked to Taylor’s previous meningitis, while also stressing that no one seems to doubt that Taylor believed the experience was real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
 
-Another doubt concerns the site itself. A modern visit to Dechmont Woods does not feel like a sealed-off paranormal zone. The University of Glasgow-linked “UFO practice in Scotland” project describes the location as close to the M8, near the outskirts of Livingston, with traffic noise, nearby aircraft and ordinary public use. That matters because West Lothian sits in a busy transport corridor between Edinburgh and Glasgow, where lights, aircraft, vehicles and reflections can all complicate sky reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Dechmont Woods – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Dechmont Woods – UFO practice in Scotland</span></span></span>
+Another doubt concerns the site itself. A modern visit to Dechmont Woods does not feel like a sealed-off paranormal zone. The University of Glasgow-linked “UFO practice in Scotland” project describes the location as close to the M8, near the outskirts of Livingston, with traffic noise, nearby aircraft and ordinary public use. That matters because West Lothian sits in a busy transport corridor between Edinburgh and Glasgow, where lights, aircraft, vehicles and reflections can all complicate sky reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Dechmont Woods – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Dechmont Woods – UFO practice in Scotland</span></span></span>
 
 The ground marks have also been debated. They were important enough to be recorded in retellings of the police visit, but they were not the kind of controlled forensic evidence that could identify an unknown machine. In a woodland and open-space setting, marks on the ground can be suggestive without being decisive. The problem is not that the evidence is worthless; it is that it remains ambiguous.
 
@@ -730,13 +730,13 @@ The fair assessment is therefore cautious: the case is unresolved as a personal 
 
 ## West Lothian in the MoD sighting logs
 
-The Ministry of Defence UFO reports for 1997 to 2009 are useful for seeing West Lothian in the wider official record. The GOV.UK collection describes the files as UFO reports from across the UK, giving dates, times, locations and short descriptions. These are sighting logs, not case conclusions. They normally record what was reported, not what was proved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence UFO reports for 1997 to 2009 are useful for seeing West Lothian in the wider official record. The GOV.UK collection describes the files as UFO reports from across the UK, giving dates, times, locations and short descriptions. These are sighting logs, not case conclusions. They normally record what was reported, not what was proved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The West Lothian entries are brief but revealing. In 1997, the MoD log includes a Bathgate report of a slow-moving cylindrical object on 15 May; an undated West Lothian-area report on 25 June of a low “barbeque shaped” object with green and white lights; a Livingston report on 19 November of a glowing white and orange round object moving up, down and westwards; a Fauldhouse/Edinburgh report on 30 November of an orange, green and yellow object flying low and erratically; and a Craigshill/Livingston report on 27 December of two huge explosions with bright light but no sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The West Lothian entries are brief but revealing. In 1997, the MoD log includes a Bathgate report of a slow-moving cylindrical object on 15 May; an undated West Lothian-area report on 25 June of a low “barbeque shaped” object with green and white lights; a Livingston report on 19 November of a glowing white and orange round object moving up, down and westwards; a Fauldhouse/Edinburgh report on 30 November of an orange, green and yellow object flying low and erratically; and a Craigshill/Livingston report on 27 December of two huge explosions with bright light but no sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-The later logs show the same pattern of short, low-context entries. In 1998, there were West Lothian-listed reports from Livingston, Blackridge and an entry oddly labelled “Edinburgh West Lothian”; in 1999, Deans, Livingston appears with only the minimal description that the witness “just said it was an object”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The later logs show the same pattern of short, low-context entries. In 1998, there were West Lothian-listed reports from Livingston, Blackridge and an entry oddly labelled “Edinburgh West Lothian”; in 1999, Deans, Livingston appears with only the minimal description that the witness “just said it was an object”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2009 log is especially relevant because it was the last year before the MoD UFO desk closed. It includes a Livingston report on 25 January of an extremely bright blue circular light that appeared to dive and rise before vanishing; a Linlithgow report on 12 April recorded only as “A UFO”; and a Winchburgh report on 31 October of a low, silent cylindrical shape with red navigation and strobe lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 log is especially relevant because it was the last year before the MoD UFO desk closed. It includes a Livingston report on 25 January of an extremely bright blue circular light that appeared to dive and rise before vanishing; a Linlithgow report on 12 April recorded only as “A UFO”; and a Winchburgh report on 31 October of a low, silent cylindrical shape with red navigation and strobe lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 These entries do not create a strong West Lothian “flap” on their own. They show recurring reports, especially of lights and shapes, but usually lack witness interviews, photographs, weather checks, aircraft correlation or follow-up investigation in the public files. For readers, the most useful conclusion is that Dechmont is the major case, while the MoD logs supply a background pattern of ordinary UFO reporting rather than a second landmark incident.
 
@@ -745,23 +745,23 @@ These entries do not create a strong West Lothian “flap” on their own. They 
 
 ## Why aircraft, roads and neighbouring hotspots matter
 
-West Lothian’s geography makes UFO interpretation unusually dependent on movement across boundaries. The historic county lies in Scotland’s Central Lowlands, between Edinburgh and Glasgow, with towns and transport corridors along the M8 and A71. Wikishire describes this as an industrial and urban belt shaped by major roads, railways and the Clyde-Forth corridor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/West_Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire West Lothian</span><span class="citation-popover-snippet">Wikishire West Lothian</span></span></span>
+West Lothian’s geography makes UFO interpretation unusually dependent on movement across boundaries. The historic county lies in Scotland’s Central Lowlands, between Edinburgh and Glasgow, with towns and transport corridors along the M8 and A71. Wikishire describes this as an industrial and urban belt shaped by major roads, railways and the Clyde-Forth corridor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/West_Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire West Lothian</span><span class="citation-popover-snippet">Wikishire West Lothian</span></span></span>
 
-That matters because many UFO reports are made by people seeing something briefly in a busy sky or near a transport route. Dechmont Law itself is close to the M8 and within a wider soundscape that includes aircraft travelling to or from Edinburgh Airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Dechmont Woods – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Dechmont Woods – UFO practice in Scotland</span></span></span>
+That matters because many UFO reports are made by people seeing something briefly in a busy sky or near a transport route. Dechmont Law itself is close to the M8 and within a wider soundscape that includes aircraft travelling to or from Edinburgh Airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Dechmont Woods – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Dechmont Woods – UFO practice in Scotland</span></span></span>
 
-West Lothian also has a military aviation connection, though it should not be overstated. RAF Kirknewton opened in November 1941, served wartime and post-war aviation functions, and later became associated with gliding and flying-club use. The Scottish Aviation & STEM Trail records its Second World War role, including an anti-aircraft co-operation squadron, No. 309 Polish Squadron and a maintenance unit, as well as later gliding activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scottishaviation.org.uk/locations/93/raf-kirknewton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishaviation.org.uk">[Scottish Aviation &amp; STEM Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishaviation.org.uk</span><span class="citation-popover-title">Scottish Aviation &amp; STEM Trail RAF Kirknewton</span><span class="citation-popover-snippet">Scottish Aviation &amp; STEM Trail RAF Kirknewton</span></span></span>
+West Lothian also has a military aviation connection, though it should not be overstated. RAF Kirknewton opened in November 1941, served wartime and post-war aviation functions, and later became associated with gliding and flying-club use. The Scottish Aviation & STEM Trail records its Second World War role, including an anti-aircraft co-operation squadron, No. 309 Polish Squadron and a maintenance unit, as well as later gliding activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scottishaviation.org.uk/locations/93/raf-kirknewton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottishaviation.org.uk">[Scottish Aviation &amp; STEM Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottishaviation.org.uk</span><span class="citation-popover-title">Scottish Aviation &amp; STEM Trail RAF Kirknewton</span><span class="citation-popover-snippet">Scottish Aviation &amp; STEM Trail RAF Kirknewton</span></span></span>
 
 There is no good public evidence that RAF Kirknewton explains the Dechmont incident. Its relevance is broader: West Lothian is not an isolated rural backdrop, but part of a region with airfields, civil aviation, military history, railways, roads and nearby urban light pollution. Those factors do not debunk every sighting, but they widen the range of ordinary explanations that should be checked before treating a report as extraordinary.
 
-Neighbouring UFO geography also affects how West Lothian is perceived. Bonnybridge and the so-called Falkirk Triangle, just outside West Lothian’s centre of gravity, have often attracted media attention for alleged sighting clusters. The University of Glasgow’s UFO practice project notes Bonnybridge as a major Scottish UFO narrative and treats Dechmont Woods as one of the unavoidable reference points in Scotland’s UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-snippet">Open source on ufos.ac.uk.</span></span></span>
+Neighbouring UFO geography also affects how West Lothian is perceived. Bonnybridge and the so-called Falkirk Triangle, just outside West Lothian’s centre of gravity, have often attracted media attention for alleged sighting clusters. The University of Glasgow’s UFO practice project notes Bonnybridge as a major Scottish UFO narrative and treats Dechmont Woods as one of the unavoidable reference points in Scotland’s UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-snippet">Open source on ufos.ac.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/West_Lothian_1c9504-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in West Lothian&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/West_Lothian_1c9504-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Lothian_1c9504-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official records changed the story
 
-The MoD’s wider UFO archive helps set the limits of what official interest meant. The UK government did collect UFO reports for decades, and GOV.UK still hosts the 1997–2009 report series. But the existence of a report in those files should not be read as an MoD endorsement of the sighting. It usually means a member of the public, police officer, pilot or other witness made a report that was logged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD’s wider UFO archive helps set the limits of what official interest meant. The UK government did collect UFO reports for decades, and GOV.UK still hosts the 1997–2009 report series. But the existence of a report in those files should not be read as an MoD endorsement of the sighting. It usually means a member of the public, police officer, pilot or other witness made a report that was logged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The National Archives material on the closure of the UFO desk is central to understanding this. Its final-tranche release notes that the MoD UFO desk received more than 600 reports in 2009, treble the previous year, and that officials concluded the work served “no defence purpose”. The same release says ministers were told that in more than 50 years no UFO report had revealed evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives material on the closure of the UFO desk is central to understanding this. Its final-tranche release notes that the MoD UFO desk received more than 600 reports in 2009, treble the previous year, and that officials concluded the work served “no defence purpose”. The same release says ministers were told that in more than 50 years no UFO report had revealed evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For West Lothian, that national context cuts both ways. On one hand, it confirms that sightings from [places]({{ 'places/' | relative_url }}) like Livingston, Linlithgow and Winchburgh entered a real official reporting system. On the other, it shows that the system was primarily about air-defence relevance, not solving every local mystery. If a report did not indicate a threat to UK airspace, it was unlikely to receive the kind of investigation that UFO enthusiasts might want.
 
@@ -771,11 +771,11 @@ This is why the Dechmont case stands apart. It was not just a routine MoD-style 
 <img src="{{ "/assets/images/West_Lothian_1c9504-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in West Lothian&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/West_Lothian_1c9504-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Lothian_1c9504-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What later reporting strengthened or weakened
 
-Later reporting has strengthened the Dechmont incident as a cultural landmark, but not necessarily as a proven UFO event. West Lothian Council’s own Dechmont Law page now describes the site as “perhaps most well-known” for the 1979 incident, and the local landscape includes an official UFO trail and interpretive material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Dechmont Law</span><span class="citation-popover-snippet">West Lothian Council Dechmont Law</span></span></span>
+Later reporting has strengthened the Dechmont incident as a cultural landmark, but not necessarily as a proven UFO event. West Lothian Council’s own Dechmont Law page now describes the site as “perhaps most well-known” for the 1979 incident, and the local landscape includes an official UFO trail and interpretive material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Dechmont Law</span><span class="citation-popover-snippet">West Lothian Council Dechmont Law</span></span></span>
 
-The story has also lasted because Taylor’s character is often treated sympathetically. The Telegraph obituary reported that he sparked a police enquiry after claiming he had been attacked by a UFO, while the Economist also marked his death with an obituary. That level of attention helped move the case beyond local folklore into national UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Bob Taylor</span><span class="citation-popover-snippet">Bob Taylor</span></span></span>
+The story has also lasted because Taylor’s character is often treated sympathetically. The Telegraph obituary reported that he sparked a police enquiry after claiming he had been attacked by a UFO, while the Economist also marked his death with an obituary. That level of attention helped move the case beyond local folklore into national UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Bob Taylor</span><span class="citation-popover-snippet">Bob Taylor</span></span></span>
 
-What has weakened the case is not a single definitive debunking, but the cumulative problem of evidence quality. There is no publicly available photograph of the object, no known radar confirmation, no independent witness to the encounter itself, and no physical artefact that clearly demonstrates an unknown machine. The strongest modern summaries tend to preserve the human mystery while allowing conventional explanations to remain plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
+What has weakened the case is not a single definitive debunking, but the cumulative problem of evidence quality. There is no publicly available photograph of the object, no known radar confirmation, no independent witness to the encounter itself, and no physical artefact that clearly demonstrates an unknown machine. The strongest modern summaries tend to preserve the human mystery while allowing conventional explanations to remain plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Open source on undiscoveredscotland.co.uk.</span></span></span>
 
 In other words, later reporting has made Dechmont more visible, more visitable and more memorable. It has not turned the original claim into a settled fact.
 
@@ -786,7 +786,7 @@ In other words, later reporting has made Dechmont more visible, more visitable a
 
 West Lothian has one genuinely important UFO case and a scattered official record of lesser sightings. The Dechmont Woods incident deserves attention because it has a named witness, an exact place, medical and police involvement, and a long afterlife in local memory. It should not be flattened into either “proof of aliens” or “nothing happened”. The more careful reading is that Robert Taylor experienced something serious and alarming, but the available evidence does not establish what caused it.
 
-The MoD logs add useful background. They show that West Lothian residents continued to report unusual lights and objects across the late 1990s and in 2009, including entries from Bathgate, Livingston, Linlithgow, Winchburgh, Blackridge, Deans and Craigshill. But most entries are too brief to support strong conclusions. They are best treated as a record of reported perception, not a catalogue of confirmed unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The MoD logs add useful background. They show that West Lothian residents continued to report unusual lights and objects across the late 1990s and in 2009, including entries from Bathgate, Livingston, Linlithgow, Winchburgh, Blackridge, Deans and Craigshill. But most entries are too brief to support strong conclusions. They are best treated as a record of reported perception, not a catalogue of confirmed unexplained craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The key distinction for readers is simple: Dechmont is unresolved in a meaningful local-history sense; most other West Lothian sightings are weakly evidenced; and none of the public material currently proves an extraterrestrial or hostile explanation. That still leaves a worthwhile county-level UFO story — not because it answers the mystery, but because it shows how a single West Lothian woodland encounter moved through police procedure, local memory, official interpretation, sceptical debate and Scottish UFO culture without ever becoming fully settled.
 
@@ -795,194 +795,194 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in West Lothian&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in West Lothian&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Excellent overview for a county-wide UFO history page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent overview for a county-wide UFO history page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances serious cases with evidence-focused discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances serious cases with evidence-focused discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places famous encounters within broader folklore traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places famous encounters within broader folklore traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explores belief formation and anomalous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explores belief formation and anomalous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-west-lothians-what-really-happened-in-west-lothian-s-ufo-files-west-loth-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -998,7 +998,7 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1018,7 +1018,7 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1050,7 +1050,7 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1102,7 +1102,7 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1147,7 +1147,7 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1188,219 +1188,219 @@ The key distinction for readers is simple: Dechmont is unresolved in a meaningfu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: westlothian.gov.uk  
    Title: West Lothian Council  
-   Link: <a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
+   Link:<a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: westlothian.gov.uk  
    Title: West Lothian Council Dechmont Law  
-   Link: <a href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/dechmontlaw</a>  
+   Link:<a href="https://www.westlothian.gov.uk/dechmontlaw" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/dechmontlaw</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: economist.com  
    Title: robert taylor  
-   Link: <a href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/obituary/2007/03/29/robert-taylor</a>  
+   Link:<a href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/obituary/2007/03/29/robert-taylor</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: westlothian.gov.uk  
    Title: Dechmont Law UFO Map  
-   Link: <a href="https://www.westlothian.gov.uk/media/26987/Dechmont-Law-UFO-Map/pdf/Dechmont_Law_UFO_Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26987/Dechmont-Law-UFO-Map/pdf/Dechmont_Law_UFO_Map.pdf</a>  
+   Link:<a href="https://www.westlothian.gov.uk/media/26987/Dechmont-Law-UFO-Map/pdf/Dechmont_Law_UFO_Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26987/Dechmont-Law-UFO-Map/pdf/Dechmont_Law_UFO_Map.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: westlothian.gov.uk  
    Title: Heritage in West Lothian  
-   Link: <a href="https://www.westlothian.gov.uk/article/44852/Heritage-in-West-Lothian" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/44852/Heritage-in-West-Lothian</a>  
+   Link:<a href="https://www.westlothian.gov.uk/article/44852/Heritage-in-West-Lothian" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/44852/Heritage-in-West-Lothian</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: westlothian.gov.uk  
-   Link: <a href="https://www.westlothian.gov.uk/article/44856/Local-History-Library-and-Family-History" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/44856/Local-History-Library-and-Family-History</a>  
+   Link:<a href="https://www.westlothian.gov.uk/article/44856/Local-History-Library-and-Family-History" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/44856/Local-History-Library-and-Family-History</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: westlothian.gov.uk  
-   Link: <a href="https://www.westlothian.gov.uk/archives" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/archives</a>  
+   Link:<a href="https://www.westlothian.gov.uk/archives" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/archives</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: westlothian.gov.uk  
    Title: Museum Collections  
-   Link: <a href="https://www.westlothian.gov.uk/article/44860/Museum-Collections" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/44860/Museum-Collections</a>  
+   Link:<a href="https://www.westlothian.gov.uk/article/44860/Museum-Collections" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/article/44860/Museum-Collections</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gov.scot  
    Title: West Lothian  
-   Link: <a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/west-lothian-council-area-map/west-lothian-council-area-map/govscot%3Adocument/West_Lothian.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/west-lothian-council-area-map/west-lothian-council-area-map/govscot%3Adocument/West_Lothian.pdf</a>  
+   Link:<a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/west-lothian-council-area-map/west-lothian-council-area-map/govscot%3Adocument/West_Lothian.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/west-lothian-council-area-map/west-lothian-council-area-map/govscot%3Adocument/West_Lothian.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Paranormal Patter • The Dechmont Woods UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official | The Dechmont Woods Case - Documentary | Trailer 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official | The Dechmont Woods Case - Documentary | Trailer 2...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Official | The Dechmont Woods Case  
-   Link: <a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sxNdBY5NImo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 9, 1979 - The Livingston Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sxNdBY5NImo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 9, 1979 - The Livingston Incident...</p></details>
    Published: November 9, 1979  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
    Title: Wikishire West Lothian  
-   Link: <a href="https://wikishire.co.uk/wiki/West_Lothian" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/West_Lothian</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/West_Lothian" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/West_Lothian</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufos.ac.uk  
    Title: UFOs Dechmont Woods – UFO practice in Scotland  
-   Link: <a href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/dechmont-woods/</a>  
+   Link:<a href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/dechmont-woods/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html</a>  
+   Link:<a href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: telegraph.co.uk  
    Title: Bob Taylor  
-   Link: <a href="https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html</a>  
+   Link:<a href="https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scottishaviation.org.uk  
    Title: Scottish Aviation & STEM Trail RAF Kirknewton  
-   Link: <a href="https://www.scottishaviation.org.uk/locations/93/raf-kirknewton" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishaviation.org.uk/locations/93/raf-kirknewton</a>  
+   Link:<a href="https://www.scottishaviation.org.uk/locations/93/raf-kirknewton" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishaviation.org.uk/locations/93/raf-kirknewton</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ufos.ac.uk  
-   Link: <a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
+   Link:<a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: RAF Kirknewton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Kirknewton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Kirknewton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Kirknewton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Kirknewton</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/west-lothian-is-a-small-county-though-populous-of-120-square-miles-and-a-coast-l/972016591748575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/west-lothian-is-a-small-county-though-populous-of-120-square-miles-and-a-coast-l/972016591748575/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/west-lothian-is-a-small-county-though-populous-of-120-square-miles-and-a-coast-l/972016591748575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/west-lothian-is-a-small-county-though-populous-of-120-square-miles-and-a-coast-l/972016591748575/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-westlothian-or-linlithgow-is-a-shire-on-the-south-bank-and-at-the-/910253281258240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-westlothian-or-linlithgow-is-a-shire-on-the-south-bank-and-at-the-/910253281258240/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-westlothian-or-linlithgow-is-a-shire-on-the-south-bank-and-at-the-/910253281258240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-westlothian-or-linlithgow-is-a-shire-on-the-south-bank-and-at-the-/910253281258240/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/kirknewton/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/kirknewton/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/kirknewton/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/kirknewton/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: military-history.fandom.com  
    Title: RAF Kirknewton  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_Kirknewton" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Kirknewton</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_Kirknewton" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Kirknewton</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: atlasobscura.com  
    Title: dechmont ufo trail  
-   Link: <a href="https://www.atlasobscura.com/places/dechmont-ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/dechmont-ufo-trail</a>  
+   Link:<a href="https://www.atlasobscura.com/places/dechmont-ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/dechmont-ufo-trail</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Arthur C Clarke's Mysterious World | Ep 10. UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=l31x-C3ux0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l31x-C3ux0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Beaten Up By An Alien!! | Paranormal UFO Files E05 | Sci-Fi Central...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l31x-C3ux0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l31x-C3ux0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man Beaten Up By An Alien!! | Paranormal UFO Files E05 | Sci-Fi Central...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/</a>  
+   Link:<a href="https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Livingstoni/photos/bob-taylor-ufo-site-at-dechmont-law-livingston-one-of-the-most-writing-about-ufo/10152679734189826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Livingstoni/photos/bob-taylor-ufo-site-at-dechmont-law-livingston-one-of-the-most-writing-about-ufo/10152679734189826/</a>  
+   Link:<a href="https://www.facebook.com/Livingstoni/photos/bob-taylor-ufo-site-at-dechmont-law-livingston-one-of-the-most-writing-about-ufo/10152679734189826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Livingstoni/photos/bob-taylor-ufo-site-at-dechmont-law-livingston-one-of-the-most-writing-about-ufo/10152679734189826/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ramblers.org.uk  
-   Link: <a href="https://www.ramblers.org.uk/go-walking/group-walks/dechmont-lawufo-site-and-woodland-circular-walk" target="_blank" rel="noopener noreferrer nofollow">https://www.ramblers.org.uk/go-walking/group-walks/dechmont-lawufo-site-and-woodland-circular-walk</a>  
+   Link:<a href="https://www.ramblers.org.uk/go-walking/group-walks/dechmont-lawufo-site-and-woodland-circular-walk" target="_blank" rel="noopener noreferrer nofollow">https://www.ramblers.org.uk/go-walking/group-walks/dechmont-lawufo-site-and-woodland-circular-walk</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/dechmont-law-west-lothian.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/dechmont-law-west-lothian.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/dechmont-law-west-lothian.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/dechmont-law-west-lothian.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gingermanwithacam/posts/exploring-bonnybridge-britains-ufo-hotspot-didnt-find-any-aliens-but-i-did-find-/1287060210091598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gingermanwithacam/posts/exploring-bonnybridge-britains-ufo-hotspot-didnt-find-any-aliens-but-i-did-find-/1287060210091598/</a>  
+   Link:<a href="https://www.facebook.com/gingermanwithacam/posts/exploring-bonnybridge-britains-ufo-hotspot-didnt-find-any-aliens-but-i-did-find-/1287060210091598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gingermanwithacam/posts/exploring-bonnybridge-britains-ufo-hotspot-didnt-find-any-aliens-but-i-did-find-/1287060210091598/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/lovetovisitscotland/posts/24324387650594173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lovetovisitscotland/posts/24324387650594173/</a>  
+   Link:<a href="https://www.facebook.com/groups/lovetovisitscotland/posts/24324387650594173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lovetovisitscotland/posts/24324387650594173/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
+   Link:<a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Dechmont-Woods-Incident-Ordinary-Extraordinary/dp/0244159114?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Dechmont-Woods-Incident-Ordinary-Extraordinary/dp/0244159114?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.com/Dechmont-Woods-Incident-Ordinary-Extraordinary/dp/0244159114?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Dechmont-Woods-Incident-Ordinary-Extraordinary/dp/0244159114?tag=searcht-20</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/west_lothian/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/west_lothian/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/west_lothian/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/west_lothian/</a>  

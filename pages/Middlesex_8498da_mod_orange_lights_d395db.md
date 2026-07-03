@@ -254,11 +254,11 @@ image: /assets/images/Middlesex_8498da_mod_orange_lights_d395db-overview-social.
 
 ## Introduction
 
-The Ministry of Defence UFO logs do not prove that extraordinary craft were operating over [Middlesex]({{ 'what-makes-middlesexs-ufo-record/' | relative_url }}). What they do show is more useful for county-level UFO history: scattered reports from Harrow, Hayes, Ruislip, Northolt, Heathrow and nearby historic Middlesex places became part of a national late-2000s reporting surge dominated by orange, amber and fire-like lights. The pattern matters because it sits exactly where ordinary skywatching, dense urban lighting, RAF Northolt, Heathrow airspace and popular sky lantern releases all overlapped. The strongest reading is that many entries are weak as individual cases, but valuable as a dataset showing how a “UFO wave” formed from brief public reports, repeated colour descriptions and official logging practices. GOV.UK describes the published MoD material as UFO reports from 1997 to 2009, giving dates, times, locations and short sighting descriptions rather than full investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence UFO logs do not prove that extraordinary craft were operating over [Middlesex]({{ 'what-makes-middlesexs-ufo-record/' | relative_url }}). What they do show is more useful for county-level UFO history: scattered reports from Harrow, Hayes, Ruislip, Northolt, Heathrow and nearby historic Middlesex places became part of a national late-2000s reporting surge dominated by orange, amber and fire-like lights. The pattern matters because it sits exactly where ordinary skywatching, dense urban lighting, RAF Northolt, Heathrow airspace and popular sky lantern releases all overlapped. The strongest reading is that many entries are weak as individual cases, but valuable as a dataset showing how a “UFO wave” formed from brief public reports, repeated colour descriptions and official logging practices. GOV.UK describes the published MoD material as UFO reports from 1997 to 2009, giving dates, times, locations and short sighting descriptions rather than full investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <img src="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-overview.webp" | relative_url }}" alt="Overview image for Mo D Logs" loading="eager" decoding="sync" fetchpriority="high">
-For this page, Middlesex means the historic county used in the project’s map frame. That creates a necessary complication: much of Middlesex is now described administratively as Greater London, while the MoD logs sometimes use “Middlesex”, sometimes “London”, and sometimes airport or borough geography. Historic-county mapping remains useful here because places such as Harrow, Hayes, Ruislip, Northolt, Enfield, Teddington, Stanwell and Heathrow belong naturally to the older Middlesex evidence field even when modern records label the area differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span>
+For this page, Middlesex means the historic county used in the project’s map frame. That creates a necessary complication: much of Middlesex is now described administratively as Greater London, while the MoD logs sometimes use “Middlesex”, sometimes “London”, and sometimes airport or borough geography. Historic-county mapping remains useful here because places such as Harrow, Hayes, Ruislip, Northolt, Enfield, Teddington, Stanwell and Heathrow belong naturally to the older Middlesex evidence field even when modern records label the area differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzbK905kwc" title="UFO file release October 2008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer">UFO file release October 2008</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 19.5K &middot; Uploaded: October 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzbK905kwc">Open on YouTube</a></p></div></div></div>
@@ -267,9 +267,9 @@ For this page, Middlesex means the historic county used in the project’s map f
 
 The late MoD sighting logs are not polished case files. They are tabular records: a date, a time when supplied, a town or village, an area or county label, sometimes an occupation, and a short description. That format is important. It means the records are good for spotting clusters, repeated language and reporting habits, but much weaker for deciding what any single object actually was. A one-line entry rarely tells us weather, direction, aircraft movements, witness distance, precise duration, triangulation, radar checks or follow-up results.
 
-Middlesex appears in these files in two overlapping ways. Some entries explicitly give “Middlesex” as the area. Others use London or Greater London for places that sit within the historic county frame. GOV.UK’s index for the annual reports says the files cover 1997 to 2009 and provide a brief description of each sighting, which is exactly what the Middlesex entries look like: small fragments inside a national reporting stream, not stand-alone investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+Middlesex appears in these files in two overlapping ways. Some entries explicitly give “Middlesex” as the area. Others use London or Greater London for places that sit within the historic county frame. GOV.UK’s index for the annual reports says the files cover 1997 to 2009 and provide a brief description of each sighting, which is exactly what the Middlesex entries look like: small fragments inside a national reporting stream, not stand-alone investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The value is therefore cumulative. A single report of an orange light over west London may be mundane. A run of similar reports across 2006, 2008 and 2009, including entries near Heathrow and RAF Northolt, shows how the county became part of a recognisable national wave. The National Archives later stated that the MoD UFO Desk received more than 600 sightings and reports in 2009, around three times the previous year, and that officials saw no defence purpose in continuing the desk after more than 50 years without evidence of an extraterrestrial presence or military threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The value is therefore cumulative. A single report of an orange light over west London may be mundane. A run of similar reports across 2006, 2008 and 2009, including entries near Heathrow and RAF Northolt, shows how the county became part of a recognisable national wave. The National Archives later stated that the MoD UFO Desk received more than 600 sightings and reports in 2009, around three times the previous year, and that officials saw no defence purpose in continuing the desk after more than 50 years without evidence of an extraterrestrial presence or military threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That official position should not be over-read. It does not mean every witness was wrong, dishonest or foolish. It means the MoD did not see enough defence relevance in these public reports to justify maintaining a dedicated UFO hotline and email address. For Middlesex, that distinction is crucial: the files are evidence of reporting and perception, not proof of either alien craft or blanket misidentification.
 
@@ -279,24 +279,24 @@ That official position should not be over-read. It does not mean every witness w
 
 The most useful Middlesex entries are not spectacular stories. They are short, place-specific examples showing how local reports fitted the larger orange-light pattern while still retaining a few distinctive details.
 
-In 2008, the Heathrow entry is one of the clearest airport-linked records. At 00:30 on 7 June 2008, the log records “twenty five amber lights” seen leaving the Heathrow area, travelling west at 45 degrees and an estimated 200–300 knots. The location is listed as Heathrow, Middlesex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> The entry is striking because it combines a large number of lights, an amber colour and airport geography. It is also exactly the kind of report that needs caution: speed estimates for lights in the night sky can be highly unreliable without known distance or altitude, and “leaving the Heathrow area” does not by itself show that the objects were aircraft, lanterns, drones, balloons or anything more unusual.
+In 2008, the Heathrow entry is one of the clearest airport-linked records. At 00:30 on 7 June 2008, the log records “twenty five amber lights” seen leaving the Heathrow area, travelling west at 45 degrees and an estimated 200–300 knots. The location is listed as Heathrow, Middlesex.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> The entry is striking because it combines a large number of lights, an amber colour and airport geography. It is also exactly the kind of report that needs caution: speed estimates for lights in the night sky can be highly unreliable without known distance or altitude, and “leaving the Heathrow area” does not by itself show that the objects were aircraft, lanterns, drones, balloons or anything more unusual.
 
-Hayes appears twice in the 2009 log. On 9 March 2009 at 21:15, the entry records an object hovering in the sky with bright lights. On 30 June 2009 at 02:41, the log records a “roundish glowing shape” flying steadily with no noise on a clear night; the witness reportedly filmed it, but the camera died. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These are typical MoD-log entries: interesting enough to have been reported, but too sparse to support a strong conclusion. The second Hayes entry sits close to the wave’s signature language — glowing shape, steady movement, no noise — but does not by itself identify a lantern.
+Hayes appears twice in the 2009 log. On 9 March 2009 at 21:15, the entry records an object hovering in the sky with bright lights. On 30 June 2009 at 02:41, the log records a “roundish glowing shape” flying steadily with no noise on a clear night; the witness reportedly filmed it, but the camera died.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> These are typical MoD-log entries: interesting enough to have been reported, but too sparse to support a strong conclusion. The second Hayes entry sits close to the wave’s signature language — glowing shape, steady movement, no noise — but does not by itself identify a lantern.
 
-Harrow gives two contrasting April 2009 examples. On 11 April at 21:05, the log records “a big ball of fire, like a star” that decreased in size over two minutes. On 24 April at 01:22, it records a longer, more craft-like description: a long-shaped vehicle with a red light at the front and two gold lights on either side, reportedly hovering above a house, moving off fast, returning, and later drifting away; it was also described as louder than a plane or helicopter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The first Harrow report fits the orange-fireball family much more neatly. The second is more complicated because sound, apparent structure and repeated movement are included, though without corroboration or technical data it remains a weakly evidenced report rather than a firm anomaly.
+Harrow gives two contrasting April 2009 examples. On 11 April at 21:05, the log records “a big ball of fire, like a star” that decreased in size over two minutes. On 24 April at 01:22, it records a longer, more craft-like description: a long-shaped vehicle with a red light at the front and two gold lights on either side, reportedly hovering above a house, moving off fast, returning, and later drifting away; it was also described as louder than a plane or helicopter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The first Harrow report fits the orange-fireball family much more neatly. The second is more complicated because sound, apparent structure and repeated movement are included, though without corroboration or technical data it remains a weakly evidenced report rather than a firm anomaly.
 
-Ruislip is especially important because the 18 July 2009 entry links a classic orange-light description with RAF Northolt. At 22:30, the log records three bright orange lights over Ruislip, not flashing, very big and high up, set equally apart. The witness reported the sighting to RAF Northolt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is one of the more locally resonant entries for historic Middlesex because Ruislip and Northolt sit inside the county’s aviation geography. Still, the details do not establish a military encounter. The record says the sighting was reported to RAF Northolt; it does not show interception, radar confirmation, or formal classification as a defence incident.
+Ruislip is especially important because the 18 July 2009 entry links a classic orange-light description with RAF Northolt. At 22:30, the log records three bright orange lights over Ruislip, not flashing, very big and high up, set equally apart. The witness reported the sighting to RAF Northolt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is one of the more locally resonant entries for historic Middlesex because Ruislip and Northolt sit inside the county’s aviation geography. Still, the details do not establish a military encounter. The record says the sighting was reported to RAF Northolt; it does not show interception, radar confirmation, or formal classification as a defence incident.
 
-Northolt itself appears later in 2009 in a report logged at 20:40 on 27 September. The occupation field says “RAF”, and the description says two UFOs looked like balls of fire; as they approached RAF Northolt, the fireball went out, but the craft remained visible and looked like a “jelly fish dome”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That is one of the more unusual Middlesex-area descriptions, partly because of the RAF location and partly because the witness described a change from fireball to visible shape. Yet the same caution applies: the log gives a report, not an investigation outcome. It does not provide distance, altitude, wind, radar data, aircraft checks or independent witness statements.
+Northolt itself appears later in 2009 in a report logged at 20:40 on 27 September. The occupation field says “RAF”, and the description says two UFOs looked like balls of fire; as they approached RAF Northolt, the fireball went out, but the craft remained visible and looked like a “jelly fish dome”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That is one of the more unusual Middlesex-area descriptions, partly because of the RAF location and partly because the witness described a change from fireball to visible shape. Yet the same caution applies: the log gives a report, not an investigation outcome. It does not provide distance, altitude, wind, radar data, aircraft checks or independent witness statements.
 
-Older entries help show that the late-2000s wave did not appear from nowhere. In 2005, Teddington, Middlesex, appears in a bare entry saying that “something was seen in the sky”. In 2007, Stanwell Village/Staines, Middlesex, is logged as a star-shaped object that did not move for 10–15 minutes. In 2006, Enfield, Middlesex, is recorded as thirteen orange “orb” objects darting in different directions before shooting straight up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The difference is that by 2008 and 2009, the orange-light motif had become much more prominent nationally.
+Older entries help show that the late-2000s wave did not appear from nowhere. In 2005, Teddington, Middlesex, appears in a bare entry saying that “something was seen in the sky”. In 2007, Stanwell Village/Staines, Middlesex, is logged as a star-shaped object that did not move for 10–15 minutes. In 2006, Enfield, Middlesex, is recorded as thirteen orange “orb” objects darting in different directions before shooting straight up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The difference is that by 2008 and 2009, the orange-light motif had become much more prominent nationally.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## Chinese lanterns and the orange-light wave
 
-The National Archives’ final release statement gives the clearest official explanation for the late surge. It says the 2009 increase was partly believed to be linked to the craze for releasing Chinese lanterns at weddings and public holidays, and quotes Dr David Clarke explaining that many accounts of “formations of orange lights moving slowly across the sky” described the appearance of Chinese lanterns even though witnesses did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The National Archives’ final release statement gives the clearest official explanation for the late surge. It says the 2009 increase was partly believed to be linked to the craze for releasing Chinese lanterns at weddings and public holidays, and quotes Dr David Clarke explaining that many accounts of “formations of orange lights moving slowly across the sky” described the appearance of Chinese lanterns even though witnesses did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 This explanation fits many Middlesex-linked entries better than exotic aircraft would. Lanterns can appear orange, amber, reddish or fire-like. They can move silently. They can travel in groups if released together. They can seem to fade, vanish, climb or change brightness as the fuel burns out, cloud intervenes, or distance increases. They can also be reported as moving “too slowly” for aircraft or “too steadily” for fireworks, which is exactly why they produced UFO calls.
 
@@ -304,15 +304,15 @@ The Heathrow and Ruislip entries show the interpretive problem sharply. Twenty-f
 
 The lantern explanation is not a universal solvent. It cannot be fairly applied to every report without checking details. Some entries describe sound, unusual manoeuvres, structured shapes, green or white lights, or stationary objects. Others may be stars, planets, meteors, aircraft on approach, helicopters, advertising lights, reflections, balloons, fireworks, kites, or simple uncertainty. The better conclusion is narrower: the orange-light wave gives a strong mundane explanation for many late-2000s reports, especially slow, silent, grouped, amber or fire-like lights, but the MoD logs are too compressed to prove the explanation case by case.
 
-Modern safety guidance also explains why airport-adjacent orange-light reports were taken seriously as reports even when they were probably mundane. Sky lanterns are paper-covered frames lifted by an open flame and can drift for miles; local authority guidance notes that they are hard to control once released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newcastle.gov.uk">[Newcastle City Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newcastle.gov.uk</span><span class="citation-popover-snippet">Open source on newcastle.gov.uk.</span></span></span> Fire and rescue bodies have also warned that lanterns can create fire, livestock and emergency-service problems, including being mistaken for distress flares or UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCSky Lanterns</span><span class="citation-popover-snippet">NFCCSky Lanterns</span></span></span> Aviation-focused guidance is particularly relevant to Middlesex: airport guidance states that sky lanterns can travel considerable distances at unpredictable heights and pose risks if ingested by aircraft engines or if debris lands near runways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/5c2b21af7a/drones-fireworks-toy-balloons-sky-lanterns-near-manchester-airport-data-sheet-web-2022-update-lr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.live.dxp.maginfrastructure.com">[MagInfrastructure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.live.dxp.maginfrastructure.com</span><span class="citation-popover-title">Mag Infrastructuredrones-fireworks-toy-balloons-sky-lanterns-near-manchester</span><span class="citation-popover-snippet">Mag Infrastructuredrones-fireworks-toy-balloons-sky-lanterns-near-manchester</span></span></span>
+Modern safety guidance also explains why airport-adjacent orange-light reports were taken seriously as reports even when they were probably mundane. Sky lanterns are paper-covered frames lifted by an open flame and can drift for miles; local authority guidance notes that they are hard to control once released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newcastle.gov.uk">[Newcastle City Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newcastle.gov.uk</span><span class="citation-popover-snippet">Open source on newcastle.gov.uk.</span></span></span> Fire and rescue bodies have also warned that lanterns can create fire, livestock and emergency-service problems, including being mistaken for distress flares or UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCSky Lanterns</span><span class="citation-popover-snippet">NFCCSky Lanterns</span></span></span> Aviation-focused guidance is particularly relevant to Middlesex: airport guidance states that sky lanterns can travel considerable distances at unpredictable heights and pose risks if ingested by aircraft engines or if debris lands near runways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/5c2b21af7a/drones-fireworks-toy-balloons-sky-lanterns-near-manchester-airport-data-sheet-web-2022-update-lr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.live.dxp.maginfrastructure.com">[MagInfrastructure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.live.dxp.maginfrastructure.com</span><span class="citation-popover-title">Mag Infrastructuredrones-fireworks-toy-balloons-sky-lanterns-near-manchester</span><span class="citation-popover-snippet">Mag Infrastructuredrones-fireworks-toy-balloons-sky-lanterns-near-manchester</span></span></span>
 
 
 <img src="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Logs illustration 2" data-theme-src-dark="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the logs can and cannot prove
 
-The MoD logs make Middlesex more legible, but they do not make it more mysterious in the way sensational UFO accounts often imply. Their main contribution is structure. Instead of isolated anecdotes, we can see repeated entries across time and place: Heathrow in 2008, Hayes and Harrow in spring and summer 2009, Ruislip in July 2009, Northolt in September 2009, with Enfield, Teddington and Stanwell/Staines providing earlier context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+4GOV.UK+4GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+The MoD logs make Middlesex more legible, but they do not make it more mysterious in the way sensational UFO accounts often imply. Their main contribution is structure. Instead of isolated anecdotes, we can see repeated entries across time and place: Heathrow in 2008, Hayes and Harrow in spring and summer 2009, Ruislip in July 2009, Northolt in September 2009, with Enfield, Teddington and Stanwell/Staines providing earlier context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-They also show the risk of treating official logging as official endorsement. A sighting being recorded by the MoD does not mean the MoD verified the object as unusual. In many cases, the record is closer to a receipt of public concern: somebody reported something; the office logged it; the description was preserved. The National Archives’ release statement makes clear that by 2009 the reporting load itself had become part of the problem, with more than 600 reports and rising resource demands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+They also show the risk of treating official logging as official endorsement. A sighting being recorded by the MoD does not mean the MoD verified the object as unusual. In many cases, the record is closer to a receipt of public concern: somebody reported something; the office logged it; the description was preserved. The National Archives’ release statement makes clear that by 2009 the reporting load itself had become part of the problem, with more than 600 reports and rising resource demands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 For readers assessing Middlesex UFO history, the most reliable takeaways are modest but useful:
 
@@ -342,194 +342,194 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
 <img src="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-Illustration-3-dark.svg" | relative_url }}" alt="Mo D Logs illustration 3" data-theme-src-dark="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middlesex_8498da_mod_orange_lights_d395db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Mo D logs reveal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Mo D logs reveal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Middlesex sightings sit within the wider British MoD reporting system discussed throughout the book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Middlesex sightings sit within the wider British MoD reporting system discussed throughout the book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explores official investigations and witness assessment, fitting discussions of airport traffic and observational reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official investigations and witness assessment, fitting discussions of airport traffic and observational reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a documented, evidence-focused framework for evaluating witness reports similar to those found in Middlesex records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a documented, evidence-focused framework for evaluating witness reports similar to those found in Middlesex records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Listen+to+Us+by+Dorriet+Kavanaugh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Listen to Us on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Listen+to+Us+by+Dorriet+Kavanaugh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Listen to Us">Listen to Us</a>
-        </h4>
-        <p class="fr-book-author">By Dorriet Kavanaugh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Listen+to+Us+by+Dorriet+Kavanaugh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Listen to Us on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Listen+to+Us+by+Dorriet+Kavanaugh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Listen to Us">Listen to Us</a>
+</h4>
+<p class="fr-book-author">By Dorriet Kavanaugh</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unexplained aerial sightings like the Acton light while stressing evidence quality and witness testim...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Listen+to+Us+by+Dorriet+Kavanaugh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating unexplained aerial sightings like the Acton light while stressing evidence quality and witness testim...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Listen+to+Us+by+Dorriet+Kavanaugh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="mo-d-logs-2a5a09-what-the-mo-d-logs-reveal-middlesex-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,159 +735,159 @@ The most balanced assessment is that the MoD files turn Middlesex from a set of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newcastle.gov.uk  
-   Link: <a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
+   Link:<a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nfcc.org.uk  
    Title: NFCCSky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.live.dxp.maginfrastructure.com  
    Title: Mag Infrastructuredrones-fireworks-toy-balloons-sky-lanterns-near-manchester  
-   Link: <a href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/5c2b21af7a/drones-fireworks-toy-balloons-sky-lanterns-near-manchester-airport-data-sheet-web-2022-update-lr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.live.dxp.maginfrastructure.com/f/73114/x/5c2b21af7a/drones-fireworks-toy-balloons-sky-lanterns-near-manchester-airport-data-sheet-web-2022-update-lr.pdf</a>  
+   Link:<a href="https://assets.live.dxp.maginfrastructure.com/f/73114/x/5c2b21af7a/drones-fireworks-toy-balloons-sky-lanterns-near-manchester-airport-data-sheet-web-2022-update-lr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.live.dxp.maginfrastructure.com/f/73114/x/5c2b21af7a/drones-fireworks-toy-balloons-sky-lanterns-near-manchester-airport-data-sheet-web-2022-update-lr.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: warwickshire.gov.uk  
-   Link: <a href="https://www.warwickshire.gov.uk/fire-safety-home/seasonal-fire-safety/6" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.gov.uk/fire-safety-home/seasonal-fire-safety/6</a>  
+   Link:<a href="https://www.warwickshire.gov.uk/fire-safety-home/seasonal-fire-safety/6" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.gov.uk/fire-safety-home/seasonal-fire-safety/6</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: london-fire.gov.uk  
-   Link: <a href="https://www.london-fire.gov.uk/news/2025-news/june/wildfire-warning-issued-for-london-as-people-urged-to-act-responsibly-during-the-heatwave/" target="_blank" rel="noopener noreferrer nofollow">https://www.london-fire.gov.uk/news/2025-news/june/wildfire-warning-issued-for-london-as-people-urged-to-act-responsibly-during-the-heatwave/</a>  
+   Link:<a href="https://www.london-fire.gov.uk/news/2025-news/june/wildfire-warning-issued-for-london-as-people-urged-to-act-responsibly-during-the-heatwave/" target="_blank" rel="noopener noreferrer nofollow">https://www.london-fire.gov.uk/news/2025-news/june/wildfire-warning-issued-for-london-as-people-urged-to-act-responsibly-during-the-heatwave/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: northantsfire.gov.uk  
    Title: warnings about sky lantern fire risk  
-   Link: <a href="https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/</a>  
+   Link:<a href="https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: meetings.westoxon.gov.uk  
-   Link: <a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
+   Link:<a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Middlesex</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Middlesex</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/319158151494464/posts/5614210128655880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/319158151494464/posts/5614210128655880/</a>  
+   Link:<a href="https://www.facebook.com/groups/319158151494464/posts/5614210128655880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/319158151494464/posts/5614210128655880/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: british-history.ac.uk  
-   Link: <a href="https://www.british-history.ac.uk/vch/middx/vol4/pp109-113" target="_blank" rel="noopener noreferrer nofollow">https://www.british-history.ac.uk/vch/middx/vol4/pp109-113</a>  
+   Link:<a href="https://www.british-history.ac.uk/vch/middx/vol4/pp109-113" target="_blank" rel="noopener noreferrer nofollow">https://www.british-history.ac.uk/vch/middx/vol4/pp109-113</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mycitychennai/posts/ufo-sighted-in-chennai-how-many-witnessed-orange-bright-object-floating-in-the-s/673769009323556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mycitychennai/posts/ufo-sighted-in-chennai-how-many-witnessed-orange-bright-object-floating-in-the-s/673769009323556/</a>  
+   Link:<a href="https://www.facebook.com/mycitychennai/posts/ufo-sighted-in-chennai-how-many-witnessed-orange-bright-object-floating-in-the-s/673769009323556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mycitychennai/posts/ufo-sighted-in-chennai-how-many-witnessed-orange-bright-object-floating-in-the-s/673769009323556/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/184572175211655/posts/2504441973224652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/184572175211655/posts/2504441973224652/</a>  
+   Link:<a href="https://www.facebook.com/groups/184572175211655/posts/2504441973224652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/184572175211655/posts/2504441973224652/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: astronomytrek.com  
-   Link: <a href="https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/</a>  
+   Link:<a href="https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/news/british-ufo-x-files-released-by-mod/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cg1m7t/chinese_lanterns_and_orbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cg1m7t/chinese_lanterns_and_orbs/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cg1m7t/chinese_lanterns_and_orbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cg1m7t/chinese_lanterns_and_orbs/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/</a>  
+   Link:<a href="https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Middlesex</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Middlesex" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Middlesex</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rspca.org.uk  
-   Link: <a href="https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns</a>  
+   Link:<a href="https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: county-borders.co.uk  
-   Link: <a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
+   Link:<a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: history.ac.uk  
-   Link: <a href="https://www.history.ac.uk/research/victoria-county-history/counties-z/london-middlesex/vch-middlesex-london-publications" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/research/victoria-county-history/counties-z/london-middlesex/vch-middlesex-london-publications</a>  
+   Link:<a href="https://www.history.ac.uk/research/victoria-county-history/counties-z/london-middlesex/vch-middlesex-london-publications" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/research/victoria-county-history/counties-z/london-middlesex/vch-middlesex-london-publications</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/warwickshirefireandrescueservice/posts/chinese-lanterns-also-known-as-sky-lanterns-are-a-popular-tradition-and-are-ofte/1373338234837036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/warwickshirefireandrescueservice/posts/chinese-lanterns-also-known-as-sky-lanterns-are-a-popular-tradition-and-are-ofte/1373338234837036/</a>  
+   Link:<a href="https://www.facebook.com/warwickshirefireandrescueservice/posts/chinese-lanterns-also-known-as-sky-lanterns-are-a-popular-tradition-and-are-ofte/1373338234837036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/warwickshirefireandrescueservice/posts/chinese-lanterns-also-known-as-sky-lanterns-are-a-popular-tradition-and-are-ofte/1373338234837036/</a>  

@@ -118,9 +118,9 @@ heading_title: What Really Happened in Staffordshire's UFO Files?
 page_heading_title: What Really Happened in Staffordshire's UFO Files?
 source_count: 130
 infographic_count: 3
-page_website_name: Staffordshire UFOs
+page_website_name: Staffordshire
 page_banner_line: Balanced evidence on the county's sightings, records and modern folklore.
-site_website_name: Staffordshire UFOs
+site_website_name: Staffordshire
 site_banner_line: Balanced evidence on the county's sightings, records and modern folklore.
 site_image_description: A quiet Staffordshire field at dusk with a police notebook, distant orange lights in the sky, and dark trees on the horizon.
 output_language: English
@@ -695,17 +695,17 @@ That does not make the county unimportant. Staffordshire shows how British UFO h
 <img src="{{ "/assets/images/Staffordshire_e11f30-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Staffordshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Which Staffordshire is meant here?
 
-This page treats Staffordshire primarily as the historic county used by the project’s UK county map, while noting where modern local government [boundaries]({{ 'boundaries-5e7b12/' | relative_url }}) affect the record. Historic Staffordshire includes places that many modern readers may now associate with the West Midlands metropolitan county, including Wolverhampton, Walsall and parts of the Black Country. The Historic County Borders Project describes historic county boundary data as covering the ancient or geographical counties, while the UK Government has separately recognised England’s historic counties as continuing cultural and geographical identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: county-borders.co.uk">[County Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">county-borders.co.uk</span><span class="citation-popover-snippet">unty BordersThe Historic County Borders Project: The Historic Counties TrustThe Historic County Borders Project has digitised the borde...</span></span></span>
+This page treats Staffordshire primarily as the historic county used by the project’s UK county map, while noting where modern local government [boundaries]({{ 'boundaries-5e7b12/' | relative_url }}) affect the record. Historic Staffordshire includes places that many modern readers may now associate with the West Midlands metropolitan county, including Wolverhampton, Walsall and parts of the Black Country. The Historic County Borders Project describes historic county boundary data as covering the ancient or geographical counties, while the UK Government has separately recognised England’s historic counties as continuing cultural and geographical identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: county-borders.co.uk">[County Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">county-borders.co.uk</span><span class="citation-popover-snippet">unty BordersThe Historic County Borders Project: The Historic Counties TrustThe Historic County Borders Project has digitised the borde...</span></span></span>
 
-That matters for UFO research because witnesses, newspapers and official records do not always use the same geography. A report logged as “Staffordshire” by the MoD may refer to Stoke-on-Trent, Stafford, Chasetown or Burslem; a “Midlands” case may cross Staffordshire’s historic boundary; and a modern reader may expect some Black Country material to sit under the West Midlands instead. Stoke-on-Trent is especially important because it is a modern unitary authority but remains geographically and ceremonially associated with Staffordshire, and it appears repeatedly in MoD UFO report lists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stoke-on-Trent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">January 23, 2003 — Stoke-on-Trent, often known as Stoke, is a city and unitary authority area in Staffordshire, England. It had an estima...</span><span class="citation-popover-meta">Published: January 23, 2003</span></span></span>
+That matters for UFO research because witnesses, newspapers and official records do not always use the same geography. A report logged as “Staffordshire” by the MoD may refer to Stoke-on-Trent, Stafford, Chasetown or Burslem; a “Midlands” case may cross Staffordshire’s historic boundary; and a modern reader may expect some Black Country material to sit under the West Midlands instead. Stoke-on-Trent is especially important because it is a modern unitary authority but remains geographically and ceremonially associated with Staffordshire, and it appears repeatedly in MoD UFO report lists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stoke-on-Trent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">January 23, 2003 — Stoke-on-Trent, often known as Stoke, is a city and unitary authority area in Staffordshire, England. It had an estima...</span><span class="citation-popover-meta">Published: January 23, 2003</span></span></span>
 
 The safest approach is therefore practical rather than doctrinaire: keep Staffordshire as the centre of gravity, but flag boundary-sensitive cases where the evidence is better understood as part of a wider Midlands skywatching pattern.
 
 ## The Chasetown case: Staffordshire’s most memorable MoD-linked report
 
-The county’s best-known documentary UFO case is the Chasetown incident of 4 May 1995. According to accounts released with the MoD files, two youths ran into a Staffordshire police station after walking near Rugeley Road, Burntwood, and reported seeing a landed or low-hovering object in a field near Chasetown. The National Archives’ 2009 highlights guide identifies the relevant file as DEFE 24/1961, pages 191–207, and summarises it as a Staffordshire Police report in which two youths said a UFO landed in a field, a face appeared, and a voice said: “We want you, come with us.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
+The county’s best-known documentary UFO case is the Chasetown incident of 4 May 1995. According to accounts released with the MoD files, two youths ran into a Staffordshire police station after walking near Rugeley Road, Burntwood, and reported seeing a landed or low-hovering object in a field near Chasetown. The National Archives’ 2009 highlights guide identifies the relevant file as DEFE 24/1961, pages 191–207, and summarises it as a Staffordshire Police report in which two youths said a UFO landed in a field, a face appeared, and a voice said: “We want you, come with us.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
 
-Contemporary national reporting made the story sound dramatic. The Guardian reported that the youths described intense heat, glowing red skin, a darkish silver inverted saucer-shaped object glowing red underneath, and a “lemon-like head” beneath the machine. The same account added two details that matter for assessing the case: police said neither youth appeared drunk or under the influence of illegal substances, and when officers returned to the field the next day they found only a farmer crop-spraying, who said he had seen nothing unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span><span class="citation-popover-snippet">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span></span></span>
+Contemporary national reporting made the story sound dramatic. The Guardian reported that the youths described intense heat, glowing red skin, a darkish silver inverted saucer-shaped object glowing red underneath, and a “lemon-like head” beneath the machine. The same account added two details that matter for assessing the case: police said neither youth appeared drunk or under the influence of illegal substances, and when officers returned to the field the next day they found only a farmer crop-spraying, who said he had seen nothing unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span><span class="citation-popover-snippet">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span></span></span>
 
 The case is valuable because it was not just a pub story or later paranormal anecdote. It entered official circulation through Staffordshire Police and the MoD archive. It also shows the limits of such evidence. There is no cited radar track, photograph, recovered material, independent aviation confirmation or physical trace that turns the report into a confirmed extraordinary event. The surviving value lies in the immediacy of the witnesses’ distress and the fact that police documented the claim, not in any proof that an unknown craft landed in Staffordshire.
 
@@ -719,7 +719,7 @@ The case also helps readers separate “unexplained” from “established”. A
 
 ### What weakens it?
 
-The most obvious weakness is evidential isolation. Two witnesses made a vivid claim, but the available public summaries do not show a chain of independent witnesses, matching radar data or a documented site effect. The farmer’s crop-spraying presence is not a complete explanation, but it is a reminder that the scene was not empty or sealed off from mundane activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span><span class="citation-popover-snippet">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span></span></span>
+The most obvious weakness is evidential isolation. Two witnesses made a vivid claim, but the available public summaries do not show a chain of independent witnesses, matching radar data or a documented site effect. The farmer’s crop-spraying presence is not a complete explanation, but it is a reminder that the scene was not empty or sealed off from mundane activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span><span class="citation-popover-snippet">The Guardian Mo D&#x27;s latest UFO files reveal saucerful of secrets</span></span></span>
 
 The Chasetown story also became media-friendly because of the “lemon-headed alien” detail. That phrase made the report memorable, but it can distort the case by making the whole episode sound like entertainment rather than a police-recorded witness claim. For a balanced Staffordshire UFO history, the case should be treated as a serious report with weak corroboration, not as either proof of alien contact or obvious nonsense.
 
@@ -727,9 +727,9 @@ The Chasetown story also became media-friendly because of the “lemon-headed al
 
 The MoD’s published annual UFO report lists for 1997–2009 are useful because they show the ordinary texture of Staffordshire sightings. Most entries are short: date, time, place and a few words of description. They are not full investigations. Still, they reveal a recurring pattern of bright lights, orange or red lights, discs, spheres and fast-moving objects over Staffordshire towns.
 
-In 1997, the MoD list includes a Stoke-on-Trent report on 19 March describing “one large, round, white object” brighter than aircraft lights; a Burslem/Stoke-on-Trent report on 29 March describing three orange-red lights around 500 yards apart moving left to right; and other Midlands reports nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> In 2007, the list includes a general Staffordshire entry on 23 September, five fast-moving objects over Stoke-on-Trent on 30 September, and eight small discs in formation at Stanfields/Stoke-on-Trent on 3 November. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+In 1997, the MoD list includes a Stoke-on-Trent report on 19 March describing “one large, round, white object” brighter than aircraft lights; a Burslem/Stoke-on-Trent report on 29 March describing three orange-red lights around 500 yards apart moving left to right; and other Midlands reports nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> In 2007, the list includes a general Staffordshire entry on 23 September, five fast-moving objects over Stoke-on-Trent on 30 September, and eight small discs in formation at Stanfields/Stoke-on-Trent on 3 November.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
-The 2008 and 2009 lists continue the same theme. Stafford appears in October 2008 with a bright orange craft-like object moving slowly, while Stoke-on-Trent appears in July 2009 with a “huge red light” moving through the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> The repetition is interesting, but it does not automatically imply one recurring phenomenon. It may instead reflect population density, clear-weather evenings, media attention, and common misidentifications such as aircraft lights, lanterns, astronomical objects, satellites, balloons or distant drones.
+The 2008 and 2009 lists continue the same theme. Stafford appears in October 2008 with a bright orange craft-like object moving slowly, while Stoke-on-Trent appears in July 2009 with a “huge red light” moving through the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span> The repetition is interesting, but it does not automatically imply one recurring phenomenon. It may instead reflect population density, clear-weather evenings, media attention, and common misidentifications such as aircraft lights, lanterns, astronomical objects, satellites, balloons or distant drones.
 
 The lists also show why Staffordshire is more useful as a county-level pattern than as a single-case narrative. The MoD records suggest many people saw things they could not identify, but the descriptions are mostly too brief to support a confident reconstruction. A reader should treat these entries as signposts for further research, not as solved cases.
 
@@ -738,11 +738,11 @@ The lists also show why Staffordshire is more useful as a county-level pattern t
 
 ## Cannock Chase: UFO hotspot, folklore engine, or both?
 
-Cannock Chase has become Staffordshire’s most recognisable “strange phenomena” landscape. In popular coverage it is associated not only with UFOs, but also with ghost stories, black-eyed child legends, big cat claims and other paranormal folklore. Birmingham Mail’s 2023 feature described Cannock Chase as a hotbed for UFO sightings and noted a 2015 flurry in which locals reported a loud drone and a massive object moving slowly over homes. It also reported sceptical suggestions that the episode could have involved a drone or secret aircraft rather than anything extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-snippet">Open source on birminghammail.co.uk.</span></span></span>
+Cannock Chase has become Staffordshire’s most recognisable “strange phenomena” landscape. In popular coverage it is associated not only with UFOs, but also with ghost stories, black-eyed child legends, big cat claims and other paranormal folklore. Birmingham Mail’s 2023 feature described Cannock Chase as a hotbed for UFO sightings and noted a 2015 flurry in which locals reported a loud drone and a massive object moving slowly over homes. It also reported sceptical suggestions that the episode could have involved a drone or secret aircraft rather than anything extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-snippet">Open source on birminghammail.co.uk.</span></span></span>
 
 This is where the evidence becomes more mixed. Cannock Chase is a real place with repeated sighting claims, but it is also a story-generating landscape. Once a location gains a reputation, new reports are more likely to be framed through that reputation. A loud, slow-moving object over homes may be genuinely puzzling to witnesses; in a known UFO “hotspot”, it is also more likely to be retold in extraordinary terms.
 
-The best way to read Cannock Chase is not to dismiss it, but to separate three layers: <span class="citation-chip-wrap"><a class="citation-chip" href="https://obscurban-legend.fandom.com/wiki/Cannock_Chase" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obscurban-legend.fandom.com">[obscurban-legend.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obscurban-legend.fandom.com</span><span class="citation-popover-title">Cannock Chase</span><span class="citation-popover-snippet">Cannock Chase</span></span></span>
+The best way to read Cannock Chase is not to dismiss it, but to separate three layers:<span class="citation-chip-wrap"><a class="citation-chip" href="https://obscurban-legend.fandom.com/wiki/Cannock_Chase" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obscurban-legend.fandom.com">[obscurban-legend.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obscurban-legend.fandom.com</span><span class="citation-popover-title">Cannock Chase</span><span class="citation-popover-snippet">Cannock Chase</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
@@ -759,9 +759,9 @@ Cannock Chase therefore matters less as a proven mystery and more as Staffordshi
 <img src="{{ "/assets/images/Staffordshire_e11f30-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Staffordshire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Staffordshire_e11f30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Staffordshire_e11f30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official records help, but do not settle the cases
 
-The UK’s official UFO records are often misunderstood. The Ministry of Defence did collect and assess reports, but its concern was defence significance, not proving or disproving extraterrestrial visitation. The National Archives explains that surviving UFO records mainly consist of official policy papers, Parliamentary business, correspondence from the public to the MoD, and UFO sighting reports. It also notes that many reports are shapes, lights and flashes that can often be explained, while some are more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The UK’s official UFO records are often misunderstood. The Ministry of Defence did collect and assess reports, but its concern was defence significance, not proving or disproving extraterrestrial visitation. The National Archives explains that surviving UFO records mainly consist of official policy papers, Parliamentary business, correspondence from the public to the MoD, and UFO sighting reports. It also notes that many reports are shapes, lights and flashes that can often be explained, while some are more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MoD’s own reporting lists are therefore best read as a log of public reports received, not as a catalogue of confirmed unknown craft. The 2009 MoD report also records that from 1 December 2009 the department’s UFO policy changed, meaning reports would no longer be handled in the same way by the old UFO desk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">UFO Reports 2009 for MoD website-Edited12 Jan 2009 — Bright light, rising behind a fence, went up into the sky. 12-Jul-09. 01:39. S...</span></span></span> National reporting at the time of the final file releases likewise stressed that the MoD had closed the desk and that most sightings had conventional explanations, though a minority remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+The MoD’s own reporting lists are therefore best read as a log of public reports received, not as a catalogue of confirmed unknown craft. The 2009 MoD report also records that from 1 December 2009 the department’s UFO policy changed, meaning reports would no longer be handled in the same way by the old UFO desk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">UFO Reports 2009 for MoD website-Edited12 Jan 2009 — Bright light, rising behind a fence, went up into the sky. 12-Jul-09. 01:39. S...</span></span></span> National reporting at the time of the final file releases likewise stressed that the MoD had closed the desk and that most sightings had conventional explanations, though a minority remained unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
 For Staffordshire, this means official presence in the archive improves traceability but does not automatically improve proof. Chasetown is more historically important because it is in the MoD release; the Stoke and Stafford list entries are more useful because they are dated and located. But the archive does not convert them into confirmed visits, secret aircraft or paranormal events.
 
@@ -769,7 +769,7 @@ For Staffordshire, this means official presence in the archive improves traceabi
 
 Many Staffordshire UFO reports are brief descriptions of lights: orange lights, red lights, white spheres, fast-moving points, formations, or objects that appear to hover and then move. Those descriptions overlap heavily with common causes of UFO reports across Britain.
 
-The National Archives’ own material gives useful cautionary examples from outside Staffordshire. Its 2009 UFO transcript discusses the 1993 Cosford incident, a Midlands-linked flap in which police and military witnesses reported bright lights; the MoD checked radar tapes, found nothing unusual, and the majority of reports were later linked to the re-entry of the Russian rocket that launched Cosmos 2238. The same transcript notes that many London “UFO” sightings in 1993 and 1994 were traced to a Virgin airship advertising the Ford Mondeo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National Archives UFO files</span></span></span>
+The National Archives’ own material gives useful cautionary examples from outside Staffordshire. Its 2009 UFO transcript discusses the 1993 Cosford incident, a Midlands-linked flap in which police and military witnesses reported bright lights; the MoD checked radar tapes, found nothing unusual, and the majority of reports were later linked to the re-entry of the Russian rocket that launched Cosmos 2238. The same transcript notes that many London “UFO” sightings in 1993 and 1994 were traced to a Virgin airship advertising the Ford Mondeo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National Archives UFO files</span></span></span>
 
 Those examples matter for Staffordshire because they show that sincere, numerous and even official-witness reports can still have ordinary explanations. The likely explanation for any given Staffordshire report depends on date, time, direction, weather, aircraft activity and astronomy, but the main categories are familiar:
 
@@ -794,7 +794,7 @@ A report remains interesting when those explanations do not fit well. It becomes
 
 Staffordshire sits in the middle of several important UFO-reporting zones. To the south and west are the West Midlands and Shropshire; to the north are Cheshire and Derbyshire; and to the east are Leicestershire and Warwickshire. This geography matters because lights in the sky do not respect county borders, and neither do newspapers, radio stations, flight paths or police-force communications.
 
-The 1993 Cosford-related sightings are a good example of a wider Midlands case that helps interpret Staffordshire’s sky reports. RAF Cosford lies in Shropshire, close to the Staffordshire border and the West Midlands conurbation. National Archives commentary says more than 30 sightings were reported across the south and west of the British Isles over about six hours, with the majority later attributed to a Russian rocket re-entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National Archives UFO files</span></span></span> A Staffordshire observer seeing the same event might honestly report a local UFO, even though the explanation lay in a much wider track across the sky.
+The 1993 Cosford-related sightings are a good example of a wider Midlands case that helps interpret Staffordshire’s sky reports. RAF Cosford lies in Shropshire, close to the Staffordshire border and the West Midlands conurbation. National Archives commentary says more than 30 sightings were reported across the south and west of the British Isles over about six hours, with the majority later attributed to a Russian rocket re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National Archives UFO files</span></span></span> A Staffordshire observer seeing the same event might honestly report a local UFO, even though the explanation lay in a much wider track across the sky.
 
 This cross-border character also affects Chasetown and Cannock Chase. Chasetown and Burntwood sit close to the West Midlands urban fringe, while Cannock Chase is both rural enough to feel eerie and close enough to large populations to generate many reports. Staffordshire’s UFO history is therefore not isolated countryside mystery; it is a Midlands mix of urban skies, rural edges, transport corridors and local folklore.
 
@@ -805,11 +805,11 @@ This cross-border character also affects Chasetown and Cannock Chase. Chasetown 
 
 A fair Staffordshire UFO page should not force every report into one category. The evidence points to a range.
 
-**Unresolved but weakly corroborated:** Chasetown is the strongest candidate. It has a police and MoD paper trail and dramatic witness testimony, but no public evidence that confirms a craft, occupants or physical effects. It remains historically notable rather than evidentially decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
+**Unresolved but weakly corroborated:** Chasetown is the strongest candidate. It has a police and MoD paper trail and dramatic witness testimony, but no public evidence that confirms a craft, occupants or physical effects. It remains historically notable rather than evidentially decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
 
-**Patterned but low-detail:** The Stoke-on-Trent, Burslem, Stafford and Stanfields entries in MoD annual lists show repeated public reports of lights and objects, especially in the late 1990s and 2000s. They are useful for mapping sighting patterns but usually too short to resolve. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+**Patterned but low-detail:** The Stoke-on-Trent, Burslem, Stafford and Stanfields entries in MoD annual lists show repeated public reports of lights and objects, especially in the late 1990s and 2000s. They are useful for mapping sighting patterns but usually too short to resolve. GOV.UK Assets+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-**Folklore-amplified:** Cannock Chase reports matter culturally because the area has a sustained reputation for strange experiences. That reputation may preserve local testimony, but it can also amplify ordinary sightings into a broader paranormal brand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-snippet">Open source on birminghammail.co.uk.</span></span></span>
+**Folklore-amplified:** Cannock Chase reports matter culturally because the area has a sustained reputation for strange experiences. That reputation may preserve local testimony, but it can also amplify ordinary sightings into a broader paranormal brand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghammail.co.uk">[Birmingham Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghammail.co.uk</span><span class="citation-popover-snippet">Open source on birminghammail.co.uk.</span></span></span>
 
 **Plausibly explained in principle:** Many light-based Staffordshire reports resemble known UFO triggers: lanterns, aircraft, drones, satellites, bright planets or re-entering space debris. This does not solve each sighting individually, but it sets a sensible default unless stronger case evidence appears.
 
@@ -817,201 +817,201 @@ A fair Staffordshire UFO page should not force every report into one category. T
 <img src="{{ "/assets/images/Staffordshire_e11f30-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Staffordshire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Staffordshire_e11f30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Staffordshire_e11f30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would strengthen Staffordshire UFO research?
 
-The most useful next step for Staffordshire is not more dramatic retelling. It is better case reconstruction. A strong county-level UFO archive would bring together exact dates, times, locations, weather, aircraft movements, astronomical conditions, witness positions and original documents. For Chasetown, the key material is the underlying DEFE 24/1961 file pages noted by The National Archives, not only the later newspaper summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
+The most useful next step for Staffordshire is not more dramatic retelling. It is better case reconstruction. A strong county-level UFO archive would bring together exact dates, times, locations, weather, aircraft movements, astronomical conditions, witness positions and original documents. For Chasetown, the key material is the underlying DEFE 24/1961 file pages noted by The National Archives, not only the later newspaper summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
 
 For Stoke-on-Trent and Stafford, the MoD annual reports provide a starting index, but local newspapers, police logs where available, aviation records and witness follow-ups would be needed to distinguish one-off misidentifications from genuinely puzzling cases. For Cannock Chase, researchers should separate first-hand sighting reports from folklore compilations and tourism-oriented retellings.
 
 Staffordshire’s UFO history is most credible when presented with that discipline. The county has striking stories, especially Chasetown, and a genuine pattern of reported lights over its towns and rural edges. But the public evidence is uneven. The best reading is neither debunking for sport nor believing for atmosphere: Staffordshire is a good case study in how local UFO history is made from witness experience, official paperwork, regional identity and the stubborn difficulty of identifying strange things seen briefly in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Staffordshire&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Staffordshire&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to British UFO reporting, MoD files, and the kinds of cases discussed in Staffordshire records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to British UFO reporting, MoD files, and the kinds of cases discussed in Staffordshire records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing sightings, close encounters, and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing sightings, close encounters, and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented reports and credible witnesses, matching the evidential approach used in Staffordshire cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented reports and credible witnesses, matching the evidential approach used in Staffordshire cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores UFO evidence, witness testimony, and official documentation themes relevant to local case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO evidence, witness testimony, and official documentation themes relevant to local case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-staffordshires-what-really-happened-in-staffordshire-s-ufo-files-staffor-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1027,7 +1027,7 @@ Staffordshire’s UFO history is most credible when presented with that discipli
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1047,7 +1047,7 @@ Staffordshire’s UFO history is most credible when presented with that discipli
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1079,7 +1079,7 @@ Staffordshire’s UFO history is most credible when presented with that discipli
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1131,7 +1131,7 @@ Staffordshire’s UFO history is most credible when presented with that discipli
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1176,7 +1176,7 @@ Staffordshire’s UFO history is most credible when presented with that discipli
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1217,316 +1217,316 @@ Staffordshire’s UFO history is most credible when presented with that discipli
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: celebrating the historic counties of england  
-   Link: <a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2019 — Local authorities may install signs indicating the boundary of a historic or traditional county on their land. May Stafford...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2019 — Local authorities may install signs indicating the boundary of a historic or traditional county on their land. May Stafford...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stoke-on-Trent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stoke-on-Trent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 23, 2003 — Stoke-on-Trent, often known as Stoke, is a city and unitary authority area in Staffordshire, England. It had an estima...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Stoke-on-Trent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stoke-on-Trent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 23, 2003 — Stoke-on-Trent, often known as Stoke, is a city and unitary authority area in Staffordshire, England. It had an estima...</p></details>
    Published: January 23, 2003  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports 2009 for MoD website-Edited12 Jan 2009 — Bright light, rising behind a fence, went up into the sky. 12-Jul-09. 01:39. S...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports 2009 for MoD website-Edited12 Jan 2009 — Bright light, rising behind a fence, went up into the sky. 12-Jul-09. 01:39. S...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Highlights Guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: West Midlands (county)  
-   Link: <a href="https://en.wikipedia.org/wiki/West_Midlands_%28county%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/West_Midlands_%28county%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/West_Midlands_%28county%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/West_Midlands_%28county%29</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/priorities0910.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530124" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530124</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533115" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533115</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=153" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=153</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a?_ref=153" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a?_ref=153</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79d10ced915d6b1deb38eb/Strategic_Environmental_Assessment_of_the_Revocation_of_the_West_Midlands_of_England_Regional_Strategy_-_Appendix_E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79d10ced915d6b1deb38eb/Strategic_Environmental_Assessment_of_the_Revocation_of_the_West_Midlands_of_England_Regional_Strategy_-_Appendix_E.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79d10ced915d6b1deb38eb/Strategic_Environmental_Assessment_of_the_Revocation_of_the_West_Midlands_of_England_Regional_Strategy_-_Appendix_E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79d10ced915d6b1deb38eb/Strategic_Environmental_Assessment_of_the_Revocation_of_the_West_Midlands_of_England_Regional_Strategy_-_Appendix_E.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 15 10 22 DL IR Stone Park Farm Stafford 2212769  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a80a51ae5274a2e87dbb017/15-10-22_DL_IR_Stone_Park_Farm_Stafford_2212769.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80a51ae5274a2e87dbb017/15-10-22_DL_IR_Stone_Park_Farm_Stafford_2212769.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a80a51ae5274a2e87dbb017/15-10-22_DL_IR_Stone_Park_Farm_Stafford_2212769.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80a51ae5274a2e87dbb017/15-10-22_DL_IR_Stone_Park_Farm_Stafford_2212769.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk High Speed Rail (West Midlands  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a81e5d9ed915d74e6234b48/E10_Volume_3_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81e5d9ed915d74e6234b48/E10_Volume_3_WEB.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a81e5d9ed915d74e6234b48/E10_Volume_3_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81e5d9ed915d74e6234b48/E10_Volume_3_WEB.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
    Title: P2Lo R Ipsos MORI FINAL REPORT.pdf  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74fe7c40f0b6399b2afd20/P2LoR_Ipsos_MORI_FINAL_REPORT.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74fe7c40f0b6399b2afd20/P2LoR_Ipsos_MORI_FINAL_REPORT.pdf.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74fe7c40f0b6399b2afd20/P2LoR_Ipsos_MORI_FINAL_REPORT.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74fe7c40f0b6399b2afd20/P2LoR_Ipsos_MORI_FINAL_REPORT.pdf.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 17 04 03 IR Scout Moor Wind Farm Rochdale  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a82aad440f0b6230269c114/17-04-03_IR_Scout_Moor_Wind_Farm__Rochdale.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a82aad440f0b6230269c114/17-04-03_IR_Scout_Moor_Wind_Farm__Rochdale.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a82aad440f0b6230269c114/17-04-03_IR_Scout_Moor_Wind_Farm__Rochdale.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a82aad440f0b6230269c114/17-04-03_IR_Scout_Moor_Wind_Farm__Rochdale.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c4555ed915d76e2ebc3c2/gene0910bsqu-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4555ed915d76e2ebc3c2/gene0910bsqu-e-e.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c4555ed915d76e2ebc3c2/gene0910bsqu-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4555ed915d76e2ebc3c2/gene0910bsqu-e-e.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Volume 3 Route wide effects  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c73daed915d6969f44f87/Volume_3_Route-wide_effects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c73daed915d6969f44f87/Volume_3_Route-wide_effects.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c73daed915d6969f44f87/Volume_3_Route-wide_effects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c73daed915d6969f44f87/Volume_3_Route-wide_effects.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 0850 i  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
    Title: hs2 draft es consultation response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cc850e5274a38e5756b73/hs2-draft-es-consultation-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc850e5274a38e5756b73/hs2-draft-es-consultation-response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cc850e5274a38e5756b73/hs2-draft-es-consultation-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc850e5274a38e5756b73/hs2-draft-es-consultation-response.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1995/1779/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1995/1779/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1995/1779/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1995/1779/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: GOV.UK  
    Title: ufo files  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: archive.org  
    Title: May 24 1996, The Times, #65588, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/NewsUK1996UKEnglish/May%2024%201996%2C%20The%20Times%2C%20%2365588%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1996UKEnglish/May%2024%201996%2C%20The%20Times%2C%20%2365588%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewsUK1996UKEnglish/May%2024%201996%2C%20The%20Times%2C%20%2365588%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1996UKEnglish/May%2024%201996%2C%20The%20Times%2C%20%2365588%2C%20UK%20%28en%29_djvu.txt</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: county-borders.co.uk  
-   Link: <a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unty BordersThe Historic County Borders Project: The Historic Counties TrustThe Historic County Borders Project has digitised the borde...</p></details>
+   Link:<a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unty BordersThe Historic County Borders Project: The Historic Counties TrustThe Historic County Borders Project has digitised the borde...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: theguardian.com  
    Title: The Guardian Mo D's latest UFO files reveal saucerful of secrets  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757</a>  
+   Link:<a href="https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/black-country/inside-history-cannock-chases-mythical-26223757</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/stokeontrentlive/photos/thats-gotta-be-a-ufo-mystery-as-strange-lights-appear-over-stoke-on-trent-httpss/933746338784615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stokeontrentlive/photos/thats-gotta-be-a-ufo-mystery-as-strange-lights-appear-over-stoke-on-trent-httpss/933746338784615/</a>  
+   Link:<a href="https://www.facebook.com/stokeontrentlive/photos/thats-gotta-be-a-ufo-mystery-as-strange-lights-appear-over-stoke-on-trent-httpss/933746338784615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stokeontrentlive/photos/thats-gotta-be-a-ufo-mystery-as-strange-lights-appear-over-stoke-on-trent-httpss/933746338784615/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Staffordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Staffordshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Staffordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Staffordshire</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/story?id=8346458" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/story?id=8346458</a>  
+   Link:<a href="https://abcnews.com/International/story?id=8346458" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/story?id=8346458</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: birminghammail.co.uk  
    Title: midlands ufo sightings revealed in new 188415  
-   Link: <a href="https://www.birminghammail.co.uk/news/local-news/midlands-ufo-sightings-revealed-in-new-188415" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/midlands-ufo-sightings-revealed-in-new-188415</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/local-news/midlands-ufo-sightings-revealed-in-new-188415" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/midlands-ufo-sightings-revealed-in-new-188415</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: birminghammail.co.uk  
    Title: spinning and hovering ufo seen in staffordshire 236557  
-   Link: <a href="https://www.birminghammail.co.uk/news/local-news/spinning-and-hovering-ufo-seen-in-staffordshire-236557" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/spinning-and-hovering-ufo-seen-in-staffordshire-236557</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/local-news/spinning-and-hovering-ufo-seen-in-staffordshire-236557" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/spinning-and-hovering-ufo-seen-in-staffordshire-236557</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: birminghammail.co.uk  
-   Link: <a href="https://www.birminghammail.co.uk/news/local-news/lemon-headed-alien-abduction-attempt-in-chasetown-242213" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/lemon-headed-alien-abduction-attempt-in-chasetown-242213</a>  
+   Link:<a href="https://www.birminghammail.co.uk/news/local-news/lemon-headed-alien-abduction-attempt-in-chasetown-242213" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghammail.co.uk/news/local-news/lemon-headed-alien-abduction-attempt-in-chasetown-242213</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: obscurban-legend.fandom.com  
    Title: Cannock Chase  
-   Link: <a href="https://obscurban-legend.fandom.com/wiki/Cannock_Chase" target="_blank" rel="noopener noreferrer nofollow">https://obscurban-legend.fandom.com/wiki/Cannock_Chase</a>  
+   Link:<a href="https://obscurban-legend.fandom.com/wiki/Cannock_Chase" target="_blank" rel="noopener noreferrer nofollow">https://obscurban-legend.fandom.com/wiki/Cannock_Chase</a>  
 
 ### Additional References
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: TERRIFYING Monster Stories from Cannock Chase  
-   Link: <a href="https://www.youtube.com/watch?v=vn5cAfWhYew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vn5cAfWhYew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling Cannock Chase: From Werewolves to WWII Secrets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vn5cAfWhYew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vn5cAfWhYew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling Cannock Chase: From Werewolves to WWII Secrets...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/318674/_Re_Constructing_Music_Festival_Places_PhD_Thesis_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/318674/_Re_Constructing_Music_Festival_Places_PhD_Thesis_</a>  
+   Link:<a href="https://www.academia.edu/318674/_Re_Constructing_Music_Festival_Places_PhD_Thesis_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/318674/_Re_Constructing_Music_Festival_Places_PhD_Thesis_</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Black_Country" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Black_Country</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Black_Country" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Black_Country</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/can-this-really-be-a-ufo-crash-site-found-in-woods-near-cornwall-have-a-look-and/3432464336787392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/can-this-really-be-a-ufo-crash-site-found-in-woods-near-cornwall-have-a-look-and/3432464336787392/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/can-this-really-be-a-ufo-crash-site-found-in-woods-near-cornwall-have-a-look-and/3432464336787392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/can-this-really-be-a-ufo-crash-site-found-in-woods-near-cornwall-have-a-look-and/3432464336787392/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/672818376463049/posts/1907404433004431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/672818376463049/posts/1907404433004431/</a>  
+   Link:<a href="https://www.facebook.com/groups/672818376463049/posts/1907404433004431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/672818376463049/posts/1907404433004431/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nottinghamshirelive/posts/clifton-man-recalls-being-frozen-to-the-ground-after-reported-ufo-sighting/5979091522123805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nottinghamshirelive/posts/clifton-man-recalls-being-frozen-to-the-ground-after-reported-ufo-sighting/5979091522123805/</a>  
+   Link:<a href="https://www.facebook.com/nottinghamshirelive/posts/clifton-man-recalls-being-frozen-to-the-ground-after-reported-ufo-sighting/5979091522123805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nottinghamshirelive/posts/clifton-man-recalls-being-frozen-to-the-ground-after-reported-ufo-sighting/5979091522123805/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: wmlieutenancy.org  
-   Link: <a href="https://wmlieutenancy.org/about/county-of-west-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://wmlieutenancy.org/about/county-of-west-midlands/</a>  
+   Link:<a href="https://wmlieutenancy.org/about/county-of-west-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://wmlieutenancy.org/about/county-of-west-midlands/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/factsheets</a>  
+   Link:<a href="https://gazetteer.org.uk/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/factsheets</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HistoricCounties/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricCounties/</a>  
+   Link:<a href="https://www.facebook.com/HistoricCounties/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricCounties/</a>  

@@ -118,9 +118,9 @@ heading_title: What Really Happened in Fermanagh's UFO Stories?
 page_heading_title: What Really Happened in Fermanagh's UFO Stories?
 source_count: 156
 infographic_count: 3
-page_website_name: Fermanagh UFOs
+page_website_name: Fermanagh
 page_banner_line: Evidence-led UFO history from Kinawley, Enniskillen and the skies over Lough Erne.
-site_website_name: Fermanagh UFOs
+site_website_name: Fermanagh
 site_banner_line: Evidence-led UFO history from Kinawley, Enniskillen and the skies over Lough Erne.
 site_image_description: A quiet Fermanagh hillside at dusk with Lough Erne in the distance and a small search helicopter above the ridgeline.
 output_language: English
@@ -689,7 +689,7 @@ image: /assets/images/Fermanagh_69251a-overview-social.jpg
 
 ## Introduction
 
-In this page, “Fermanagh” means the historic County Fermanagh in south-western Northern Ireland, rather than the larger modern Fermanagh and Omagh local government district. That distinction matters because the present council area, created in 2015, includes all of County Fermanagh and parts of County Tyrone, whereas this project’s county index follows historic county geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fermanaghomagh.com/your-council/about-the-council/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council+2EANI Funding]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Open source on fermanaghomagh.com.</span></span></span>
+In this page, “Fermanagh” means the historic County Fermanagh in south-western Northern Ireland, rather than the larger modern Fermanagh and Omagh local government district. That distinction matters because the present council area, created in 2015, includes all of County Fermanagh and parts of County Tyrone, whereas this project’s county index follows historic county geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fermanaghomagh.com/your-council/about-the-council/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[fermanaghomagh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Open source on fermanaghomagh.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Fermanagh_69251a-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Fermanagh&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
@@ -697,17 +697,17 @@ In this page, “Fermanagh” means the historic County Fermanagh in south-weste
 
 Fermanagh is a rural, border county of lakes, hills, small settlements and wide dark skies. Those conditions can make unusual lights more noticeable: an aircraft, drone, meteor, satellite flare or mountain cloud may stand out far more than it would in a bright urban sky. The area’s geography also complicates reporting. Sightings near Kinawley, Cuilcagh, Lough Erne or the border may be described by witnesses, newspapers or online posts using Fermanagh, Cavan, Enniskillen, Northern Ireland, Ireland or Ulster depending on where the observer stood and which audience the report was written for.
 
-The county also has genuine [aviation context]({{ 'aviation-context-9e2a08/' | relative_url }}). Enniskillen/St Angelo Airport is three miles north of Enniskillen on the shores of Lough Erne, and the site has a wartime and post-war military history. Aviation heritage records identify St Angelo, also known as Enniskillen Airport or RAF St Angelo, as a Fermanagh airfield opened in April 1941, used by the RAF, and still active in aviation use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enniskillen-airport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enniskillen-airport.co.uk">[Enniskillen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enniskillen-airport.co.uk</span><span class="citation-popover-snippet">Open source on enniskillen-airport.co.uk.</span></span></span> That does not explain every sighting, but it raises the threshold for good UFO evidence: in an area with historic and modern flying activity, the first question is usually whether the object was an aircraft, helicopter, training flight, flare, drone or distant light seen under odd conditions.
+The county also has genuine [aviation context]({{ 'aviation-context-9e2a08/' | relative_url }}). Enniskillen/St Angelo Airport is three miles north of Enniskillen on the shores of Lough Erne, and the site has a wartime and post-war military history. Aviation heritage records identify St Angelo, also known as Enniskillen Airport or RAF St Angelo, as a Fermanagh airfield opened in April 1941, used by the RAF, and still active in aviation use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enniskillen-airport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enniskillen-airport.co.uk">[Enniskillen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enniskillen-airport.co.uk</span><span class="citation-popover-snippet">Open source on enniskillen-airport.co.uk.</span></span></span> That does not explain every sighting, but it raises the threshold for good UFO evidence: in an area with historic and modern flying activity, the first question is usually whether the object was an aircraft, helicopter, training flight, flare, drone or distant light seen under odd conditions.
 
 Fermanagh is therefore best read as a county with a handful of documented or semi-documented UFO reports rather than a major national hotspot. The useful story is not “aliens over Fermanagh”; it is how rural sightings become local mysteries, how official bodies respond, and why most cases remain unresolved only in the modest sense that no firm identification was recorded.
 
 ## The Kinawley mountain search: Fermanagh’s clearest official UFO case
 
-The most important Fermanagh UFO-related incident took place near Kinawley on 13 February 2001. Reports of smoke on Benaughlin Mountain led to a search by police and troops, assisted by a helicopter. The question reached the House of Lords later that year as a “UFO Crash Report”. The government answer was brief but valuable: nothing was found to indicate either a downed aircraft or a fire, and the incident was closed after a further search the next morning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+The most important Fermanagh UFO-related incident took place near Kinawley on 13 February 2001. Reports of smoke on Benaughlin Mountain led to a search by police and troops, assisted by a helicopter. The question reached the House of Lords later that year as a “UFO Crash Report”. The government answer was brief but valuable: nothing was found to indicate either a downed aircraft or a fire, and the incident was closed after a further search the next morning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
 This matters because it gives the case something many local UFO stories lack: a traceable official record. The wording does not say that an alien craft crashed. It says there were reports of smoke, that the authorities treated the possibility seriously enough to search the mountain, and that the search found no evidence of a crash or fire. In evidential terms, that moves the Kinawley story into a middle category. It is stronger than a rumour because an official search happened; it is weaker than a physical-evidence case because the search found nothing.
 
-Local press also treated Kinawley as a repeated mystery at the time. The Belfast Telegraph reported in February 2001 that the Fermanagh village had experienced a second UFO sighting, and later reporting on released UFO material referred back to the Co Fermanagh report around Kinawley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> The repeated attention helped the story linger, but repetition in newspapers is not the same as corroboration. The hard anchor remains the parliamentary answer: reports were investigated, no crash site or fire was found, and the incident was closed.
+Local press also treated Kinawley as a repeated mystery at the time. The Belfast Telegraph reported in February 2001 that the Fermanagh village had experienced a second UFO sighting, and later reporting on released UFO material referred back to the Co Fermanagh report around Kinawley.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> The repeated attention helped the story linger, but repetition in newspapers is not the same as corroboration. The hard anchor remains the parliamentary answer: reports were investigated, no crash site or fire was found, and the incident was closed.
 
 The most cautious reading is that Kinawley was a genuine emergency-style report of an unidentified event, not proof of an extraordinary object. Possible explanations include a misreported fire, smoke or mist on the mountain, an aircraft-related concern that proved unfounded, a meteor or flare-like event seen at a confusing angle, or a local rumour amplified by the drama of a search. None is proven from the available public record.
 
@@ -715,11 +715,11 @@ The most cautious reading is that Kinawley was a genuine emergency-style report 
 <img src="{{ "/assets/images/Fermanagh_69251a-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Fermanagh&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Fermanagh_69251a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fermanagh_69251a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Enniskillen and recent lights: what modern reports add
 
-Recent Fermanagh coverage shows the same pattern in a more contemporary form. In February 2025, the Fermanagh Herald reported that an Enniskillen man had seen mysterious white and green lights darting over Enniskillen the previous week. The report framed the event as a UFO sighting but, from the available public summary, it appears to rest mainly on witness testimony rather than official investigation, radar data, multiple independent videos or physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghherald.com">[The Fermanagh Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghherald.com</span><span class="citation-popover-title">The Fermanagh Herald UFO sighting in Fermanagh</span><span class="citation-popover-snippet">The Fermanagh Herald UFO sighting in Fermanagh</span></span></span>
+Recent Fermanagh coverage shows the same pattern in a more contemporary form. In February 2025, the Fermanagh Herald reported that an Enniskillen man had seen mysterious white and green lights darting over Enniskillen the previous week. The report framed the event as a UFO sighting but, from the available public summary, it appears to rest mainly on witness testimony rather than official investigation, radar data, multiple independent videos or physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghherald.com">[The Fermanagh Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghherald.com</span><span class="citation-popover-title">The Fermanagh Herald UFO sighting in Fermanagh</span><span class="citation-popover-snippet">The Fermanagh Herald UFO sighting in Fermanagh</span></span></span>
 
-That does not mean the witness saw nothing. It means the public evidence is not yet strong enough to do more than describe the claim and assess likely categories. White and green lights are compatible with several ordinary possibilities: aircraft navigation lights, drones, reflections, satellites seen under unusual lighting, or distant objects whose movement appears exaggerated because the observer lacks a clear distance reference. From 2026, UK Open Category drones flown at night must display a green flashing light, a rule intended to help distinguish drones from crewed aircraft; even before that, many drones and aircraft could present coloured light patterns that seem odd to a ground observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hiredronepilot.uk/blog/spot-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[hiredronepilot.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">How to Spot Your Drone at Night Under UK Rules</span><span class="citation-popover-snippet">How to Spot Your Drone at Night Under UK Rules</span></span></span>
+That does not mean the witness saw nothing. It means the public evidence is not yet strong enough to do more than describe the claim and assess likely categories. White and green lights are compatible with several ordinary possibilities: aircraft navigation lights, drones, reflections, satellites seen under unusual lighting, or distant objects whose movement appears exaggerated because the observer lacks a clear distance reference. From 2026, UK Open Category drones flown at night must display a green flashing light, a rule intended to help distinguish drones from crewed aircraft; even before that, many drones and aircraft could present coloured light patterns that seem odd to a ground observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hiredronepilot.uk/blog/spot-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[hiredronepilot.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">How to Spot Your Drone at Night Under UK Rules</span><span class="citation-popover-snippet">How to Spot Your Drone at Night Under UK Rules</span></span></span>
 
-A separate Co Fermanagh report from December 2020 involved a grey shape photographed by Sheamus Greene, with UFO investigators said to be seeking an explanation. The story was picked up by Sunday Life/Belfast Telegraph and by UFO investigation websites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/sunday-life/news/sinn-feins-greene-sees-mysterious-orange-lights-and-ufo-in-skies-over-fermanagh/a/114484088.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> Its value is that it shows Fermanagh continuing to appear in modern UFO culture; its weakness is that public reporting does not appear to provide enough independent technical analysis to rule out mundane causes such as a bird, insect, lens artefact, windblown object, distant aircraft or photographic distortion.
+A separate Co Fermanagh report from December 2020 involved a grey shape photographed by Sheamus Greene, with UFO investigators said to be seeking an explanation. The story was picked up by Sunday Life/Belfast Telegraph and by UFO investigation websites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/sunday-life/news/sinn-feins-greene-sees-mysterious-orange-lights-and-ufo-in-skies-over-fermanagh/a/114484088.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span> Its value is that it shows Fermanagh continuing to appear in modern UFO culture; its weakness is that public reporting does not appear to provide enough independent technical analysis to rule out mundane causes such as a bird, insect, lens artefact, windblown object, distant aircraft or photographic distortion.
 
 The lesson from these modern cases is not that they should be dismissed, but that they need better data than most local sightings receive. A useful report would include exact time, direction, duration, weather, camera metadata, whether the object crossed known flight paths, whether other witnesses saw it from different locations, and whether astronomy or satellite checks match the observation.
 
@@ -728,13 +728,13 @@ The lesson from these modern cases is not that they should be dismissed, but tha
 
 ## Police, MoD and the official record in Northern Ireland
 
-For much of the post-war period, the UK Ministry of Defence collected UFO reports because unidentified aerial objects could, in principle, have air-defence implications. The National Archives explains that official recording began in the early 1950s, that earlier MoD policy destroyed many older files after five years, and that surviving files from 1970 onwards were later reviewed for release because of public interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The National Archives also notes that, before the 1960s, MoD UFO material was destroyed after five years, while later public interest led to the retention of sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+For much of the post-war period, the UK Ministry of Defence collected UFO reports because unidentified aerial objects could, in principle, have air-defence implications. The National Archives explains that official recording began in the early 1950s, that earlier MoD policy destroyed many older files after five years, and that surviving files from 1970 onwards were later reviewed for release because of public interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The National Archives also notes that, before the 1960s, MoD UFO material was destroyed after five years, while later public interest led to the retention of sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That national background is important for Fermanagh because it explains why older county-level records can be patchy. A missing file is not automatically evidence of a cover-up; in many cases, it may simply reflect routine disposal, inconsistent reporting, or the fact that a sighting never reached central government in the first place.
 
-The MoD’s UFO desk was closed in November 2009. National Archives release material states that from 2000 UFO reports were no longer copied to DI55, the defence intelligence branch that had previously received them, and that the UFO desk closed in 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span> Contemporary reporting on the final file releases said the closure was justified on the grounds that the work served “no defence purpose” and diverted staff from more valuable defence activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+The MoD’s UFO desk was closed in November 2009. National Archives release material states that from 2000 UFO reports were no longer copied to DI55, the defence intelligence branch that had previously received them, and that the UFO desk closed in 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span> Contemporary reporting on the final file releases said the closure was justified on the grounds that the work served “no defence purpose” and diverted staff from more valuable defence activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
-Since then, Northern Ireland sightings have tended to surface through police logs, Freedom of Information responses and local media rather than a dedicated UK UFO investigation unit. A PSNI Freedom of Information disclosure recorded four UFO or unexplained-sighting reports in Northern Ireland during 2024, with examples from Crumlin, Belfast, Newtownabbey and Bangor. The disclosed entries show the practical nature of modern police recording: brief caller descriptions, locations and dates, not scientific investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+Since then, Northern Ireland sightings have tended to surface through police logs, Freedom of Information responses and local media rather than a dedicated UK UFO investigation unit. A PSNI Freedom of Information disclosure recorded four UFO or unexplained-sighting reports in Northern Ireland during 2024, with examples from Crumlin, Belfast, Newtownabbey and Bangor. The disclosed entries show the practical nature of modern police recording: brief caller descriptions, locations and dates, not scientific investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
 That PSNI 2024 list does not place a case in Fermanagh, which is itself useful. It suggests that Fermanagh’s recent public UFO profile is driven more by local press and individual witness reports than by a large volume of police-recorded incidents. It also reminds readers that “no police record found” and “nothing happened” are not the same thing: many witnesses never report sightings to police, and many modern sightings circulate first on social media.
 
@@ -744,11 +744,11 @@ That PSNI 2024 list does not place a case in Fermanagh, which is itself useful. 
 
 The strongest sceptical explanations for Fermanagh sightings are not exotic debunks invented after the fact. They are ordinary sky phenomena that repeatedly produce UFO reports in rural Britain and Ireland.
 
-Meteors and fireballs are a good example. In September 2022, a major fireball was reported across Scotland and Northern Ireland. The American Meteor Society, working with international partners including UKMON, said nearly 1,200 reports and multiple videos were received for an event between Northern Ireland and Scotland at 20:57 UTC on 14 September 2022. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span><span class="citation-popover-snippet">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span></span></span> The Society for Popular Astronomy’s Meteor Section described the same event as seen by more than 1,000 observers over Northern Ireland and western Scotland, with analysis suggesting a slow-moving chunk of asteroid burned up over the sea south of Islay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/section-reports-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[popastro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">section reports 2022</span><span class="citation-popover-snippet">section reports 2022</span></span></span> A fireball like that can look dramatic, silent, low, greenish or controlled, especially when seen unexpectedly.
+Meteors and fireballs are a good example. In September 2022, a major fireball was reported across Scotland and Northern Ireland. The American Meteor Society, working with international partners including UKMON, said nearly 1,200 reports and multiple videos were received for an event between Northern Ireland and Scotland at 20:57 UTC on 14 September 2022.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span><span class="citation-popover-snippet">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span></span></span> The Society for Popular Astronomy’s Meteor Section described the same event as seen by more than 1,000 observers over Northern Ireland and western Scotland, with analysis suggesting a slow-moving chunk of asteroid burned up over the sea south of Islay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/section-reports-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[popastro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">section reports 2022</span><span class="citation-popover-snippet">section reports 2022</span></span></span> A fireball like that can look dramatic, silent, low, greenish or controlled, especially when seen unexpectedly.
 
-Clouds can also mislead. The Met Office identifies lenticular clouds as strange, saucer-like formations that can develop downwind of hills or mountains, and says they are believed to be among the common explanations for UFO sightings worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span> Fermanagh’s uplands, including areas around Cuilcagh and the border country, make weather and line-of-sight effects relevant, even where no specific Fermanagh case has been tied to a lenticular cloud.
+Clouds can also mislead. The Met Office identifies lenticular clouds as strange, saucer-like formations that can develop downwind of hills or mountains, and says they are believed to be among the common explanations for UFO sightings worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span> Fermanagh’s uplands, including areas around Cuilcagh and the border country, make weather and line-of-sight effects relevant, even where no specific Fermanagh case has been tied to a lenticular cloud.
 
-Aviation is the other recurring filter. Enniskillen/St Angelo Airport, local helicopter activity, small aircraft, military heritage, cross-border routes, and lights seen across Lough Erne can all create ambiguous observations. The airport’s own public information places it just north of Enniskillen, while aviation heritage sources identify the site as RAF St Angelo during the Second World War and later as a continuing aviation site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enniskillen-airport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enniskillen-airport.co.uk">[Enniskillen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enniskillen-airport.co.uk</span><span class="citation-popover-snippet">Open source on enniskillen-airport.co.uk.</span></span></span> In a county where observers may be looking across water, hills or dark rural skies, distance and speed are especially easy to misjudge.
+Aviation is the other recurring filter. Enniskillen/St Angelo Airport, local helicopter activity, small aircraft, military heritage, cross-border routes, and lights seen across Lough Erne can all create ambiguous observations. The airport’s own public information places it just north of Enniskillen, while aviation heritage sources identify the site as RAF St Angelo during the Second World War and later as a continuing aviation site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enniskillen-airport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enniskillen-airport.co.uk">[Enniskillen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enniskillen-airport.co.uk</span><span class="citation-popover-snippet">Open source on enniskillen-airport.co.uk.</span></span></span> In a county where observers may be looking across water, hills or dark rural skies, distance and speed are especially easy to misjudge.
 
 None of these explanations should be used automatically. A meteor does not explain a hovering object seen for twenty minutes; a drone does not explain a daylight object at high altitude; a cloud does not explain a fast point of light. But they are the first checks that make a Fermanagh report stronger or weaker.
 
@@ -759,11 +759,11 @@ None of these explanations should be used automatically. A meteor does not expla
 
 Fermanagh’s UFO evidence is best divided into three practical categories.
 
-**Officially documented but unresolved in a limited sense:** the Kinawley/Benaughlin Mountain search of February 2001. It is documented because Parliament recorded the official response, and because police, troops and a helicopter were involved. It remains unresolved only in the sense that the original reports of smoke or an unidentified crash concern were not matched to a confirmed cause. The search found no downed aircraft and no fire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+**Officially documented but unresolved in a limited sense:** the Kinawley/Benaughlin Mountain search of February 2001. It is documented because Parliament recorded the official response, and because police, troops and a helicopter were involved. It remains unresolved only in the sense that the original reports of smoke or an unidentified crash concern were not matched to a confirmed cause. The search found no downed aircraft and no fire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
-**Locally reported but weakly evidenced:** the 2025 Enniskillen white and green lights and the 2020 Co Fermanagh photographed object. These are relevant to the county’s UFO history because they show what residents and local media considered unusual, but the publicly available evidence is not strong enough to establish an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghherald.com">[The Fermanagh Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghherald.com</span><span class="citation-popover-title">The Fermanagh Herald UFO sighting in Fermanagh</span><span class="citation-popover-snippet">The Fermanagh Herald UFO sighting in Fermanagh</span></span></span>
+**Locally reported but weakly evidenced:** the 2025 Enniskillen white and green lights and the 2020 Co Fermanagh photographed object. These are relevant to the county’s UFO history because they show what residents and local media considered unusual, but the publicly available evidence is not strong enough to establish an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghherald.com">[The Fermanagh Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghherald.com</span><span class="citation-popover-title">The Fermanagh Herald UFO sighting in Fermanagh</span><span class="citation-popover-snippet">The Fermanagh Herald UFO sighting in Fermanagh</span></span></span>
 
-**Contextual rather than county-specific:** wider Northern Ireland police logs, UK MoD files, meteor reports and weather explanations. These do not prove or disprove a particular Fermanagh sighting, but they help readers judge how such reports are usually recorded and what common explanations should be tested first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[Met Office+3PSNI+3The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+**Contextual rather than county-specific:** wider Northern Ireland police logs, UK MoD files, meteor reports and weather explanations. These do not prove or disprove a particular Fermanagh sighting, but they help readers judge how such reports are usually recorded and what common explanations should be tested first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
 On that evidence, Fermanagh should not be described as a confirmed UFO hotspot. It is better described as a rural county with a small number of notable reports, one unusually well-documented search incident, and a wider skywatching environment where misidentification is plausible but not always provable.
 
@@ -780,194 +780,194 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Fermanagh&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Fermanagh&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate sightings systematically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate sightings systematically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a county-level survey of reported UFO events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a county-level survey of reported UFO events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers modern UFO reporting and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern UFO reporting and investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how regional stories develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how regional stories develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-fermanaghs-ufo-what-really-happened-in-fermanagh-s-ufo-stories-fermanagh-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fermanagh-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -983,7 +983,7 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1003,7 +1003,7 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1035,7 +1035,7 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1087,7 +1087,7 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1132,7 +1132,7 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1173,323 +1173,323 @@ The county’s most credible UFO history is therefore not a catalogue of spectac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Northern Ireland: Ufo Crash Report  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hiredronepilot.uk  
    Title: How to Spot Your Drone at Night Under UK Rules  
-   Link: <a href="https://hiredronepilot.uk/blog/spot-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/spot-drone-at-night/</a>  
+   Link:<a href="https://hiredronepilot.uk/blog/spot-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/spot-drone-at-night/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: psni.police.uk  
    Title: PSNIUFO Sightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amsmeteors.org  
    Title: big fireball between northern ireland and scotland sept 14 2022 at 2057 ut  
-   Link: <a href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/</a>  
+   Link:<a href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: popastro.com  
    Title: section reports 2022  
-   Link: <a href="https://www.popastro.com/meteor/section-reports-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/section-reports-2022/</a>  
+   Link:<a href="https://www.popastro.com/meteor/section-reports-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/section-reports-2022/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: api.parliament.uk  
    Title: uk Northern Ireland: UFO Crash Report  
-   Link: <a href="https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psni.police.uk  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381</a>  
+   Link:<a href="https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.sky.com  
    Title: what are the ufo clouds seen hanging over uk skies 13291303  
-   Link: <a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
+   Link:<a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fermanaghomagh.com  
-   Link: <a href="https://www.fermanaghomagh.com/your-council/about-the-council/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/your-council/about-the-council/</a>  
+   Link:<a href="https://www.fermanaghomagh.com/your-council/about-the-council/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/your-council/about-the-council/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eanifunding.org.uk  
-   Link: <a href="https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Fermanagh-and-Omagh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Fermanagh-and-Omagh.pdf</a>  
+   Link:<a href="https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Fermanagh-and-Omagh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eanifunding.org.uk/wp-content/uploads/2022/11/Area-Profile-Fermanagh-and-Omagh.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: enniskillen-airport.co.uk  
-   Link: <a href="https://www.enniskillen-airport.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.enniskillen-airport.co.uk/</a>  
+   Link:<a href="https://www.enniskillen-airport.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.enniskillen-airport.co.uk/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fermanaghherald.com  
    Title: The Fermanagh Herald UFO sighting in Fermanagh  
-   Link: <a href="https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/</a>  
+   Link:<a href="https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/2025/02/ufo-sighting-in-fermanagh/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/sunday-life/news/sinn-feins-greene-sees-mysterious-orange-lights-and-ufo-in-skies-over-fermanagh/a/114484088.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/sunday-life/news/sinn-feins-greene-sees-mysterious-orange-lights-and-ufo-in-skies-over-fermanagh/a/114484088.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/sunday-life/news/sinn-feins-greene-sees-mysterious-orange-lights-and-ufo-in-skies-over-fermanagh/a/114484088.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/sunday-life/news/sinn-feins-greene-sees-mysterious-orange-lights-and-ufo-in-skies-over-fermanagh/a/114484088.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: County Fermanagh  
-   Link: <a href="https://en.wikipedia.org/wiki/County_Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Fermanagh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Fermanagh</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Fermanagh and Omagh  
-   Link: <a href="https://en.wikipedia.org/wiki/Fermanagh_and_Omagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fermanagh_and_Omagh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fermanagh_and_Omagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fermanagh_and_Omagh</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: St Angelo Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Enniskillen/St_Angelo_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enniskillen/St_Angelo_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enniskillen/St_Angelo_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enniskillen/St_Angelo_Airport</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fermanaghherald.com  
-   Link: <a href="https://fermanaghherald.com/tag/ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/tag/ufo-sighting/</a>  
+   Link:<a href="https://fermanaghherald.com/tag/ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/tag/ufo-sighting/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: fermanaghherald.com  
    Title: close encounters of the coonian kind  
-   Link: <a href="https://fermanaghherald.com/2021/01/close-encounters-of-the-coonian-kind/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/2021/01/close-encounters-of-the-coonian-kind/</a>  
+   Link:<a href="https://fermanaghherald.com/2021/01/close-encounters-of-the-coonian-kind/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/2021/01/close-encounters-of-the-coonian-kind/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: fermanaghherald.com  
    Title: uk first as hangar‑homes at st angelo airport approved  
-   Link: <a href="https://fermanaghherald.com/2025/09/uk-first-as-hangar%E2%80%91homes-at-st-angelo-airport-approved/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/2025/09/uk-first-as-hangar%E2%80%91homes-at-st-angelo-airport-approved/</a>  
+   Link:<a href="https://fermanaghherald.com/2025/09/uk-first-as-hangar%E2%80%91homes-at-st-angelo-airport-approved/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/2025/09/uk-first-as-hangar%E2%80%91homes-at-st-angelo-airport-approved/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fermanaghherald.com  
-   Link: <a href="https://fermanaghherald.com/tag/alien/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/tag/alien/</a>  
+   Link:<a href="https://fermanaghherald.com/tag/alien/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/tag/alien/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fermanaghherald.com  
    Title: Charlotte Mc Cutcheon Archives  
-   Link: <a href="https://fermanaghherald.com/journalist/charlotte-mccutcheon/page/27/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/journalist/charlotte-mccutcheon/page/27/</a>  
+   Link:<a href="https://fermanaghherald.com/journalist/charlotte-mccutcheon/page/27/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/journalist/charlotte-mccutcheon/page/27/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: fermanaghherald.com  
-   Link: <a href="https://fermanaghherald.com/author/staff-reporter/page/110/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/author/staff-reporter/page/110/</a>  
+   Link:<a href="https://fermanaghherald.com/author/staff-reporter/page/110/" target="_blank" rel="noopener noreferrer nofollow">https://fermanaghherald.com/author/staff-reporter/page/110/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
    Title: Enniskillen Airport Ltd 100079853077229  
-   Link: <a href="https://www.facebook.com/p/Enniskillen-Airport-Ltd-100079853077229/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/Enniskillen-Airport-Ltd-100079853077229/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/p/Enniskillen-Airport-Ltd-100079853077229/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/Enniskillen-Airport-Ltd-100079853077229/?locale=en_GB</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/mod-files-reveal-ufo-sightings/a/118916589.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/mod-files-reveal-ufo-sightings/a/118916589.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/mod-files-reveal-ufo-sightings/a/118916589.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/mod-files-reveal-ufo-sightings/a/118916589.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/why-mod-decided-to-close-ufo-desk/a/118804235.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/why-mod-decided-to-close-ufo-desk/a/118804235.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/why-mod-decided-to-close-ufo-desk/a/118804235.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/why-mod-decided-to-close-ufo-desk/a/118804235.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/mysterious-fireball-lights-up-night-sky/a/112387495.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/mysterious-fireball-lights-up-night-sky/a/112387495.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/mysterious-fireball-lights-up-night-sky/a/112387495.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/mysterious-fireball-lights-up-night-sky/a/112387495.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/video-zebra/video-mysterious-meteor-lights-up-the-sky-above-armagh/a/118215806.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/video-zebra/video-mysterious-meteor-lights-up-the-sky-above-armagh/a/118215806.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/video-zebra/video-mysterious-meteor-lights-up-the-sky-above-armagh/a/118215806.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/video-zebra/video-mysterious-meteor-lights-up-the-sky-above-armagh/a/118215806.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Fermanagh</a>  
+   Link:<a href="https://www.britannica.com/place/Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Fermanagh</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Northern-Ireland</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: kids.britannica.com  
    Title: Northern Ireland  
-   Link: <a href="https://kids.britannica.com/students/article/Northern-Ireland/275088" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Northern-Ireland/275088</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Northern-Ireland/275088" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Northern-Ireland/275088</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Fermanagh-and-Omagh" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Fermanagh-and-Omagh</a>  
+   Link:<a href="https://www.britannica.com/place/Fermanagh-and-Omagh" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Fermanagh-and-Omagh</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: fermanaghomagh.com  
-   Link: <a href="https://www.fermanaghomagh.com/app/uploads/2023/04/Overview-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/app/uploads/2023/04/Overview-Map.pdf</a>  
+   Link:<a href="https://www.fermanaghomagh.com/app/uploads/2023/04/Overview-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/app/uploads/2023/04/Overview-Map.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: fermanaghomagh.com  
-   Link: <a href="https://www.fermanaghomagh.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/</a>  
+   Link:<a href="https://www.fermanaghomagh.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: fermanaghomagh.com  
-   Link: <a href="https://www.fermanaghomagh.com/app/uploads/2015/11/Population-Growth-Appendix.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/app/uploads/2015/11/Population-Growth-Appendix.pdf</a>  
+   Link:<a href="https://www.fermanaghomagh.com/app/uploads/2015/11/Population-Growth-Appendix.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/app/uploads/2015/11/Population-Growth-Appendix.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: enniskillen-airport.co.uk  
-   Link: <a href="https://www.enniskillen-airport.co.uk/Airport_Information_History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.enniskillen-airport.co.uk/Airport_Information_History.html</a>  
+   Link:<a href="https://www.enniskillen-airport.co.uk/Airport_Information_History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.enniskillen-airport.co.uk/Airport_Information_History.html</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: enniskillen-airport.co.uk  
-   Link: <a href="https://www.enniskillen-airport.co.uk/Contact.html" target="_blank" rel="noopener noreferrer nofollow">https://www.enniskillen-airport.co.uk/Contact.html</a>  
+   Link:<a href="https://www.enniskillen-airport.co.uk/Contact.html" target="_blank" rel="noopener noreferrer nofollow">https://www.enniskillen-airport.co.uk/Contact.html</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fermanagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fermanagh</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: dailyrecord.co.uk  
    Title: met office ufo shaped clouds 32355770  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: fireballs.imo.net  
-   Link: <a href="https://fireballs.imo.net/members/imo_view/event/2025/3666?org=imo" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo_view/event/2025/3666?org=imo</a>  
+   Link:<a href="https://fireballs.imo.net/members/imo_view/event/2025/3666?org=imo" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo_view/event/2025/3666?org=imo</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: kids.kiddle.co  
    Title: RAF St Angelo  
-   Link: <a href="https://kids.kiddle.co/RAF_St_Angelo" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/RAF_St_Angelo</a>  
+   Link:<a href="https://kids.kiddle.co/RAF_St_Angelo" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/RAF_St_Angelo</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk ENNISKILLE N AIRPORT LIMITED overview  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/NI048715" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/NI048715</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/NI048715" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/NI048715</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: en.wikivoyage.org  
    Title: County Fermanagh  
-   Link: <a href="https://en.wikivoyage.org/wiki/County_Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Fermanagh</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/County_Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Fermanagh</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/enniskillen-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/enniskillen-airport.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/enniskillen-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/enniskillen-airport.html</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: irish-world.com  
-   Link: <a href="https://www.irish-world.com/fermanagh/about-county-fermanagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.irish-world.com/fermanagh/about-county-fermanagh/</a>  
+   Link:<a href="https://www.irish-world.com/fermanagh/about-county-fermanagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.irish-world.com/fermanagh/about-county-fermanagh/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
 ### Additional References
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: youtube.com  
    Title: The White Horse of Benaughlin – A Fermanagh Folklore Tale  
-   Link: <a href="http://www.youtube.com/watch?v=ZTsMpbFqPfA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZTsMpbFqPfA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Ireland UFO sightings UAP UFO SIGHTING NORTHERN IRELAND 2025 UFO SIGHTINGS CHANNEL...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ZTsMpbFqPfA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZTsMpbFqPfA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Ireland UFO sightings UAP UFO SIGHTING NORTHERN IRELAND 2025 UFO SIGHTINGS CHANNEL...</p></details>
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8s04-cdOKXs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8s04-cdOKXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big increase in unexplained UFO sightings makes Northern Ireland alien hotspot...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8s04-cdOKXs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8s04-cdOKXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big increase in unexplained UFO sightings makes Northern Ireland alien hotspot...</p></details>
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
    Title: UFOs over Ireland: A Saint Patrick's Day Special  
-   Link: <a href="http://www.youtube.com/watch?v=pUPc7_zV7-Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pUPc7_zV7-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The White Horse of Benaughlin – A Fermanagh Folklore Tale...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pUPc7_zV7-Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pUPc7_zV7-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The White Horse of Benaughlin – A Fermanagh Folklore Tale...</p></details>
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: gettyimages.co.uk  
-   Link: <a href="https://www.gettyimages.co.uk/photos/sinn-fein-fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/sinn-fein-fermanagh</a>  
+   Link:<a href="https://www.gettyimages.co.uk/photos/sinn-fein-fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/sinn-fein-fermanagh</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/st-angelo-ballycassidy-enniskillen/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/st-angelo-ballycassidy-enniskillen/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/st-angelo-ballycassidy-enniskillen/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/st-angelo-ballycassidy-enniskillen/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: pinterest.com  
-   Link: <a href="https://www.pinterest.com/ideas/antique-county-fermanagh-map/951481657548/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/ideas/antique-county-fermanagh-map/951481657548/</a>  
+   Link:<a href="https://www.pinterest.com/ideas/antique-county-fermanagh-map/951481657548/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/ideas/antique-county-fermanagh-map/951481657548/</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/enniskillenfriendsandneighbours/posts/24009887631970085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/enniskillenfriendsandneighbours/posts/24009887631970085/</a>  
+   Link:<a href="https://www.facebook.com/groups/enniskillenfriendsandneighbours/posts/24009887631970085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/enniskillenfriendsandneighbours/posts/24009887631970085/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/county_fermanagh/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_fermanagh/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/county_fermanagh/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/county_fermanagh/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: iho.ie  
-   Link: <a href="https://www.iho.ie/index.php?iho_field=specific&amp;iho_function=2&amp;iho_other_parameter=place&amp;iho_searchterm=County+Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://www.iho.ie/index.php?iho_field=specific&amp;iho_function=2&amp;iho_other_parameter=place&amp;iho_searchterm=County+Fermanagh</a>  
+   Link:<a href="https://www.iho.ie/index.php?iho_field=specific&amp;iho_function=2&amp;iho_other_parameter=place&amp;iho_searchterm=County+Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://www.iho.ie/index.php?iho_field=specific&amp;iho_function=2&amp;iho_other_parameter=place&amp;iho_searchterm=County+Fermanagh</a>  

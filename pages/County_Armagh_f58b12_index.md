@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /county-armagh-f58b12-index/
 description: Focused pages that expand on County Armagh.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: County_Armagh_f58b12
 parent_title: County Armagh
@@ -16,7 +16,7 @@ parent_permalink: /county-armagh/
 
 # Explore Topics in County Armagh
 
-The following pages expand on the main **[County Armagh]({{ '/county-armagh/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[County Armagh]({{ '/county-armagh/' | relative_url }})** page and cover its key branches in.
 
 - [Abbey Triangle]({{ '/abbey-triangle/' | relative_url }})
 - [Sky Checks]({{ '/sky-checks-2a907f/' | relative_url }})

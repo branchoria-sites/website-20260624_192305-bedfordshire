@@ -118,9 +118,9 @@ heading_title: What Really Happened in Fife's UFO Reports?
 page_heading_title: What Really Happened in Fife's UFO Reports?
 source_count: 124
 infographic_count: 3
-page_website_name: Fife UFOs
+page_website_name: Fife
 page_banner_line: Balanced evidence on Fife sightings, Leuchars links and local close-encounter claims.
-site_website_name: Fife UFOs
+site_website_name: Fife
 site_banner_line: Balanced evidence on Fife sightings, Leuchars links and local close-encounter claims.
 site_image_description: A quiet Fife coastline at dusk with distant aircraft lights over the Firth and a small town below the sky.
 output_language: English
@@ -689,21 +689,21 @@ image: /assets/images/Fife_ef689b-overview-social.jpg
 
 ## Introduction
 
-That does not make Fife uninteresting. Quite the opposite. Its geography places it between the Firth of Tay, the North Sea and the Firth of Forth, with coastal air routes, military flying, search-and-rescue history, and the former RAF Leuchars all shaping how strange objects in the sky have been noticed, reported and interpreted. Fife is therefore best read as a county where UFO claims sit at the junction of local witness testimony, defence records and everyday aviation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Fife-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span></span></span>
+That does not make Fife uninteresting. Quite the opposite. Its geography places it between the Firth of Tay, the North Sea and the Firth of Forth, with coastal air routes, military flying, search-and-rescue history, and the former RAF Leuchars all shaping how strange objects in the sky have been noticed, reported and interpreted. Fife is therefore best read as a county where UFO claims sit at the junction of local witness testimony, defence records and everyday aviation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Fife-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span></span></span>
 
 
 <img src="{{ "/assets/images/Fife_ef689b-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Fife&#x27;s UFO Reports?" loading="eager" decoding="sync" fetchpriority="high">
 ## Which Fife is meant here?
 
-This page treats Fife as the historic county and the modern council area, because in this case the distinction is unusually straightforward. Fife is both a historic county and a present-day council area in eastern Scotland, occupying the peninsula bounded by the Firth of Tay to the north, the North Sea to the east and the Firth of Forth to the south. Britannica notes that the modern council area covers the same area as the historic county, so there is less boundary ambiguity here than in many UK county-level UFO pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Fife-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span></span></span>
+This page treats Fife as the historic county and the modern council area, because in this case the distinction is unusually straightforward. Fife is both a historic county and a present-day council area in eastern Scotland, occupying the peninsula bounded by the Firth of Tay to the north, the North Sea to the east and the Firth of Forth to the south. Britannica notes that the modern council area covers the same area as the historic county, so there is less boundary ambiguity here than in many UK county-level UFO pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Fife-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Fife &#124; Scotland, Map, History, &amp; Facts</span></span></span>
 
 That matters because UFO reporting often follows practical rather than historical boundaries. A sighting over the Tay may be reported from Dundee or Newport-on-Tay; a light over the Forth may be seen from both Fife and the Lothians; and aircraft activity connected with Leuchars may be noticed well beyond the old county line. The centre of gravity here remains Fife, but the evidence has to be read with the sky in mind: lights and aircraft do not respect county borders.
 
 ## What the official MoD logs actually show
 
-The Ministry of Defence published UK UFO report lists for 1997 to 2009, giving dates, times, places and short descriptions rather than full investigative files. GOV.UK describes the release as “UFO Reports 1997 to 2009 in the UK”, showing “dates and times, location and a brief description of the sighting”. That format is important: the records confirm that reports were received, but they do not by themselves prove that the objects were extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence published UK UFO report lists for 1997 to 2009, giving dates, times, places and short descriptions rather than full investigative files. GOV.UK describes the release as “UFO Reports 1997 to 2009 in the UK”, showing “dates and times, location and a brief description of the sighting”. That format is important: the records confirm that reports were received, but they do not by themselves prove that the objects were extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Several Fife entries appear in those logs. In the 1998 report, St Andrews appears on 29 October with a “dull, orange, elliptical” object, and Tayport appears on 16 November with an “elongated pear shape” described as turquoise, low and large, with a shooting-star effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> In the 2002 report, St Andrews appears again on 1 January with a glowing white flashing light; Leven appears on 22 February with a white ball that flashed and became bright; and Newport-on-Tay appears on 25 March with a bright orange-red cigar-shaped object seen over the sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Several Fife entries appear in those logs. In the 1998 report, St Andrews appears on 29 October with a “dull, orange, elliptical” object, and Tayport appears on 16 November with an “elongated pear shape” described as turquoise, low and large, with a shooting-star effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> In the 2002 report, St Andrews appears again on 1 January with a glowing white flashing light; Leven appears on 22 February with a white ball that flashed and became bright; and Newport-on-Tay appears on 25 March with a bright orange-red cigar-shaped object seen over the sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 Taken together, these logs suggest a familiar pattern in UK UFO archives: short reports of lights, glowing shapes and brief movements, often with no follow-up evidence in the public record. The St Andrews, Leven, Tayport and Newport-on-Tay entries are worth noting because they are official records of reports from Fife, but they are not strong cases in the sense of having multiple independent witnesses, radar correlation, photographs with provenance, or a detailed investigation trail.
 
@@ -711,15 +711,15 @@ Taken together, these logs suggest a familiar pattern in UK UFO archives: short 
 <img src="{{ "/assets/images/Fife_ef689b-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Fife&#x27;s UFO Reports? illustration 1" data-theme-src-dark="{{ "/assets/images/Fife_ef689b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fife_ef689b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Leuchars changes how Fife sightings are read
 
-Any serious Fife UFO page has to account for Leuchars. RAF Leuchars, now Leuchars Aerodrome, was a major air defence site on the north-east coast of Fife. The RAF’s own station history says flying began at Leuchars in 1911, the station became RAF Leuchars in 1920, became a fighter station in 1950, and remained an air defence airfield through the Cold War until it was handed to the British Army in 2015. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">leuchars station</span><span class="citation-popover-snippet">leuchars station</span></span></span>
+Any serious Fife UFO page has to account for Leuchars. RAF Leuchars, now Leuchars Aerodrome, was a major air defence site on the north-east coast of Fife. The RAF’s own station history says flying began at Leuchars in 1911, the station became RAF Leuchars in 1920, became a fighter station in 1950, and remained an air defence airfield through the Cold War until it was handed to the British Army in 2015.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">leuchars station</span><span class="citation-popover-snippet">leuchars station</span></span></span>
 
-This does not mean that every Fife UFO report can be dismissed as a military aircraft. It means that the local sky has long included fast jets, training flights, maritime patrol links, search-and-rescue activity, diversion use and later temporary returns of Quick Reaction Alert operations. In 2020, for example, the RAF announced that Quick Reaction Alert would temporarily move to Leuchars Station in Fife during runway works at RAF Lossiemouth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/next-phase-of-runway-resurfacing-sees-airfield-closed-at-raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">next phase of runway resurfacing sees airfield closed at raf lossiemouth</span><span class="citation-popover-snippet">next phase of runway resurfacing sees airfield closed at raf lossiemouth</span></span></span> A few months later, RAF Typhoons were reported as having scrambled from Leuchars to intercept Russian Tu-160 bombers approaching the UK area of interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-typhoons-intercept-russian-bombers-near-uk-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf typhoons intercept russian bombers near uk airspace</span><span class="citation-popover-snippet">raf typhoons intercept russian bombers near uk airspace</span></span></span>
+This does not mean that every Fife UFO report can be dismissed as a military aircraft. It means that the local sky has long included fast jets, training flights, maritime patrol links, search-and-rescue activity, diversion use and later temporary returns of Quick Reaction Alert operations. In 2020, for example, the RAF announced that Quick Reaction Alert would temporarily move to Leuchars Station in Fife during runway works at RAF Lossiemouth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/next-phase-of-runway-resurfacing-sees-airfield-closed-at-raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">next phase of runway resurfacing sees airfield closed at raf lossiemouth</span><span class="citation-popover-snippet">next phase of runway resurfacing sees airfield closed at raf lossiemouth</span></span></span> A few months later, RAF Typhoons were reported as having scrambled from Leuchars to intercept Russian Tu-160 bombers approaching the UK area of interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-typhoons-intercept-russian-bombers-near-uk-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf typhoons intercept russian bombers near uk airspace</span><span class="citation-popover-snippet">raf typhoons intercept russian bombers near uk airspace</span></span></span>
 
 For UFO interpretation, Leuchars cuts both ways. It makes aviation explanations more plausible in many cases, especially for lights, noise, fast movement and unusual flight paths. But it also means witnesses in Fife have sometimes had a reasonable basis for asking whether the authorities knew more about an object than the public did. That is one reason local UFO stories linked to Leuchars, even indirectly, tend to gain more traction than isolated lights seen over a town.
 
 ## The Falkland Hill case: Fife’s most dramatic local claim
 
-The most vivid Fife UFO story is the alleged Falkland Hill incident of 1996, centred near Newton of Falkland in North East Fife. Local reporting by The Courier describes it as a case in which witnesses claimed to have seen a triangular craft near Newton of Falkland and, in some accounts, “beings” in a field. The same report connects the case with later writing by Scottish UFO investigator Malcolm Robinson. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-snippet">Open source on thecourier.co.uk.</span></span></span>
+The most vivid Fife UFO story is the alleged Falkland Hill incident of 1996, centred near Newton of Falkland in North East Fife. Local reporting by The Courier describes it as a case in which witnesses claimed to have seen a triangular craft near Newton of Falkland and, in some accounts, “beings” in a field. The same report connects the case with later writing by Scottish UFO investigator Malcolm Robinson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-snippet">Open source on thecourier.co.uk.</span></span></span>
 
 The reason the case stands out is not that it has been proved; it has not. It stands out because it is a full close-encounter narrative rather than a brief light-in-the-sky report. The claims go beyond a distant object and into alleged entities, a large triangular craft, unusual lights and a rural setting. That makes it memorable, but it also raises the evidential bar. A claim of this kind needs more than a compelling story: it needs contemporary documentation, clear witness statements, independent corroboration, physical evidence, photographs or official records that can be checked.
 
@@ -730,7 +730,7 @@ On the public evidence available, Falkland Hill remains disputed and weakly sour
 
 ## Kirkcaldy, Auchtermuchty and the value of local press reports
 
-Fife’s UFO record also includes local press and community-level sightings that sit somewhere between folklore and reportable observation. One example is the reported 2009 Auchtermuchty sighting, in which a young woman was said to have filmed objects zig-zagging for several hours across the night sky; reporting noted that RAF Leuchars had ruled out its own jets and Chinook helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fightercontrol.co.uk/forum/viewtopic.php?t=4365" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fightercontrol.co.uk">[FighterControl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fightercontrol.co.uk</span><span class="citation-popover-snippet">Open source on fightercontrol.co.uk.</span></span></span> Another is the later revival of interest in a 1990 Kirkcaldy sighting, with The Courier reporting in 2024 that RAF Leuchars had been informed and that the incident had been reported to HQ Strike Command at RAF High Wycombe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/fife/5055321/kirkcaldy-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">kirkcaldy ufo sighting</span><span class="citation-popover-snippet">kirkcaldy ufo sighting</span></span></span>
+Fife’s UFO record also includes local press and community-level sightings that sit somewhere between folklore and reportable observation. One example is the reported 2009 Auchtermuchty sighting, in which a young woman was said to have filmed objects zig-zagging for several hours across the night sky; reporting noted that RAF Leuchars had ruled out its own jets and Chinook helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fightercontrol.co.uk/forum/viewtopic.php?t=4365" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fightercontrol.co.uk">[FighterControl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fightercontrol.co.uk</span><span class="citation-popover-snippet">Open source on fightercontrol.co.uk.</span></span></span> Another is the later revival of interest in a 1990 Kirkcaldy sighting, with The Courier reporting in 2024 that RAF Leuchars had been informed and that the incident had been reported to HQ Strike Command at RAF High Wycombe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/fife/5055321/kirkcaldy-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-title">kirkcaldy ufo sighting</span><span class="citation-popover-snippet">kirkcaldy ufo sighting</span></span></span>
 
 These are exactly the kinds of cases that matter at county level. They are not necessarily national landmarks, but they show how local UFO reports develop: a witness sees something, a local paper covers it, a nearby airbase is asked whether it had aircraft involved, and the story either fades or is revived years later by investigators seeking witnesses.
 
@@ -738,9 +738,9 @@ The difficulty is that [local reports]({{ 'local-reports/' | relative_url }}) of
 
 ## The Calvine shadow: not Fife, but relevant to Fife’s air-defence setting
 
-The Calvine UFO photograph was not a Fife sighting; it was reported near Calvine in Perthshire. It belongs primarily to Perthshire’s UFO history. It still matters for Fife because the story is often discussed in connection with RAF Leuchars and Scottish air defence. The reported 1990 Calvine case involved two witnesses who said they saw a diamond-shaped object and took photographs; the material was passed to the Ministry of Defence, and the case later became one of Britain’s most discussed UFO photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Case Files: Calvine UFO photographs</span><span class="citation-popover-snippet">Case Files: Calvine UFO photographs</span></span></span>
+The Calvine UFO photograph was not a Fife sighting; it was reported near Calvine in Perthshire. It belongs primarily to Perthshire’s UFO history. It still matters for Fife because the story is often discussed in connection with RAF Leuchars and Scottish air defence. The reported 1990 Calvine case involved two witnesses who said they saw a diamond-shaped object and took photographs; the material was passed to the Ministry of Defence, and the case later became one of Britain’s most discussed UFO photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Case Files: Calvine UFO photographs</span><span class="citation-popover-snippet">Case Files: Calvine UFO photographs</span></span></span>
 
-The Leuchars connection is interpretive rather than geographic. Public accounts of the case have often noted the possibility of military aircraft in the area, and later discussions have focused on whether the object was an unknown aircraft, a hoax, a misidentified object, or something genuinely unexplained. David Clarke’s work on the case is especially relevant because it shows how a UFO story can change when original documentation, retired officials, photographic provenance and later media treatment are all examined together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Case Files: Calvine UFO photographs</span><span class="citation-popover-snippet">Case Files: Calvine UFO photographs</span></span></span>
+The Leuchars connection is interpretive rather than geographic. Public accounts of the case have often noted the possibility of military aircraft in the area, and later discussions have focused on whether the object was an unknown aircraft, a hoax, a misidentified object, or something genuinely unexplained. David Clarke’s work on the case is especially relevant because it shows how a UFO story can change when original documentation, retired officials, photographic provenance and later media treatment are all examined together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Case Files: Calvine UFO photographs</span><span class="citation-popover-snippet">Case Files: Calvine UFO photographs</span></span></span>
 
 For Fife readers, Calvine is a useful comparison point. It shows why the mere presence of a military aviation link does not solve a case, but also why it makes sober investigation essential. Without clear provenance and testable data, even a famous photograph can remain controversial.
 
@@ -748,7 +748,7 @@ For Fife readers, Calvine is a useful comparison point. It shows why the mere pr
 <img src="{{ "/assets/images/Fife_ef689b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Fife&#x27;s UFO Reports? illustration 2" data-theme-src-dark="{{ "/assets/images/Fife_ef689b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fife_ef689b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What explanations fit many Fife reports?
 
-Most Fife entries in official logs are short descriptions of lights or simple shapes. That makes ordinary explanations highly relevant, not as a way of dismissing witnesses, but as a way of matching the evidence to the most likely causes. The final tranche of UK UFO files released through the National Archives noted that many accounts of formations of orange lights moving slowly across the sky resembled Chinese lanterns, even when observers did not recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The Guardian also reported that the popularity of Chinese lanterns helped explain a surge in orange-light reports to the MoD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
+Most Fife entries in official logs are short descriptions of lights or simple shapes. That makes ordinary explanations highly relevant, not as a way of dismissing witnesses, but as a way of matching the evidence to the most likely causes. The final tranche of UK UFO files released through the National Archives noted that many accounts of formations of orange lights moving slowly across the sky resembled Chinese lanterns, even when observers did not recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The Guardian also reported that the popularity of Chinese lanterns helped explain a surge in orange-light reports to the MoD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
 
 For Fife specifically, the recurring possibilities include aircraft from or near Leuchars, civilian aviation, helicopters, satellites, meteors, bright planets, lanterns, drones, coastal flares, reflections over water and atmospheric effects. The sea-facing geography matters: the Firth of Tay, the Firth of Forth and the North Sea can all complicate distance judgement, especially at night when a light over water has few visual reference points.
 
@@ -759,9 +759,9 @@ This is why the official MoD summaries should be handled carefully. A “white b
 
 ## How the MoD’s role shaped the record
 
-The Ministry of Defence did not run a public UFO identification service in the way many people imagine. Its interest was whether a report suggested a defence threat or unauthorised activity in UK airspace. The released GOV.UK report page is essentially a catalogue of received reports, not a database of solved mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Ministry of Defence did not run a public UFO identification service in the way many people imagine. Its interest was whether a report suggested a defence threat or unauthorised activity in UK airspace. The released GOV.UK report page is essentially a catalogue of received reports, not a database of solved mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-By 2009 the MoD had decided to close its UFO desk. The Guardian reported that more than 650 reports reached the MoD in 2009, the highest number for 31 years, before the UFO desk, known as Air Secretariat 2A1, was closed in December of that year. The same report notes that earlier released files covered years when sightings were running at about 200 to 300 a year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+By 2009 the MoD had decided to close its UFO desk. The Guardian reported that more than 650 reports reached the MoD in 2009, the highest number for 31 years, before the UFO desk, known as Air Secretariat 2A1, was closed in December of that year. The same report notes that earlier released files covered years when sightings were running at about 200 to 300 a year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 That policy context matters for Fife because it explains why many local reports have such thin official records. If a sighting did not suggest a defence issue, the MoD was unlikely to conduct a deep inquiry. For researchers, that leaves a gap: a report can be genuine as a witness report but still unresolved only because nobody collected enough data at the time.
 
@@ -774,9 +774,9 @@ The best way to read Fife’s UFO history is to separate cases by evidence stren
 
 **Stronger local records** are those with a precise date, time and location, an original report, independent witnesses, photographs or footage with provenance, and some record of checking aircraft or astronomical explanations. A case involving RAF Leuchars being formally contacted is more useful than a rumour, but it still needs detail before it becomes strong evidence.
 
-**Moderate records** include MoD log entries such as St Andrews, Leven, Tayport and Newport-on-Tay. These show that a report was made and preserved, but their short descriptions leave many possible explanations open. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Moderate records** include MoD log entries such as St Andrews, Leven, Tayport and Newport-on-Tay. These show that a report was made and preserved, but their short descriptions leave many possible explanations open.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Weak or folklore-level records** include stories that are retold years later without original notes, exact times, named witnesses, photographs, weather checks or independent corroboration. The Falkland Hill case is culturally important in Fife UFO discussion, but its extraordinary claims need stronger public evidence than is currently available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-snippet">Open source on thecourier.co.uk.</span></span></span>
+**Weak or folklore-level records** include stories that are retold years later without original notes, exact times, named witnesses, photographs, weather checks or independent corroboration. The Falkland Hill case is culturally important in Fife UFO discussion, but its extraordinary claims need stronger public evidence than is currently available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecourier.co.uk">[The Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecourier.co.uk</span><span class="citation-popover-snippet">Open source on thecourier.co.uk.</span></span></span>
 
 This approach does not require cynicism. It simply keeps different kinds of evidence in their proper lanes. A sincere witness can misjudge distance. A military denial can be incomplete without being a cover-up. A dramatic story can be worth preserving without being proved.
 
@@ -791,194 +791,194 @@ For readers, the main takeaway is that Fife’s UFO history is best understood a
 That leaves Fife in an interesting middle category. It is neither empty of UFO material nor home to a proven mystery. It is a county where the best evidence points to a recurring human problem: people sometimes see things in the sky that they cannot identify, but the difference between an unexplained sighting and a poorly recorded one is often decided in the first few minutes after the event.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Fife&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Fife&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing county-level UFO reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing county-level UFO reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a page focused on documented reports, witness testimony and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a page focused on documented reports, witness testimony and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines contemporary UFO claims and investigative approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary UFO claims and investigative approaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Places local UFO stories within a wider tradition of unsolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local UFO stories within a wider tradition of unsolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-fifes-ufo-what-really-happened-in-fife-s-ufo-reports-fife-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-fife-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -994,7 +994,7 @@ That leaves Fife in an interesting middle category. It is neither empty of UFO m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1014,7 +1014,7 @@ That leaves Fife in an interesting middle category. It is neither empty of UFO m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1046,7 +1046,7 @@ That leaves Fife in an interesting middle category. It is neither empty of UFO m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1098,7 +1098,7 @@ That leaves Fife in an interesting middle category. It is neither empty of UFO m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1143,7 +1143,7 @@ That leaves Fife in an interesting middle category. It is neither empty of UFO m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1184,241 +1184,241 @@ That leaves Fife in an interesting middle category. It is neither empty of UFO m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Fife | Scotland, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Fife-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Fife-council-area-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Fife-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Fife-council-area-Scotland</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: raf.mod.uk  
    Title: leuchars station  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/leuchars-station/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/leuchars-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/leuchars-station/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79c019ed915d07d35b7d24/UFOReports2002WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
    Title: next phase of runway resurfacing sees airfield closed at raf lossiemouth  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/next-phase-of-runway-resurfacing-sees-airfield-closed-at-raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/next-phase-of-runway-resurfacing-sees-airfield-closed-at-raf-lossiemouth/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/next-phase-of-runway-resurfacing-sees-airfield-closed-at-raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/next-phase-of-runway-resurfacing-sees-airfield-closed-at-raf-lossiemouth/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
    Title: raf typhoons intercept russian bombers near uk airspace  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-typhoons-intercept-russian-bombers-near-uk-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-typhoons-intercept-russian-bombers-near-uk-airspace/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-typhoons-intercept-russian-bombers-near-uk-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-typhoons-intercept-russian-bombers-near-uk-airspace/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: drdavidclarke.co.uk  
    Title: Case Files: Calvine UFO photographs  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/the-calvine-ufo-photographs/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: raf.mod.uk  
    Title: raf lossiemouth  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: raf.mod.uk  
    Title: major works to our runways and operating surfaces  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/major-works-to-our-runways-and-operating-surfaces/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/major-works-to-our-runways-and-operating-surfaces/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/major-works-to-our-runways-and-operating-surfaces/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/news/major-works-to-our-runways-and-operating-surfaces/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: reqjan11 3.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78d2ba40f0b62b22cbd143/reqjan11_3.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d2ba40f0b62b22cbd143/reqjan11_3.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78d2ba40f0b62b22cbd143/reqjan11_3.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d2ba40f0b62b22cbd143/reqjan11_3.csv</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: Website search results: ufo UFOs · Help with your research  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fife.gov.uk  
    Title: conservation areas  
-   Link: <a href="https://www.fife.gov.uk/kb/docs/articles/planning-and-building2/built-and-natural-heritage/conservation-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.fife.gov.uk/kb/docs/articles/planning-and-building2/built-and-natural-heritage/conservation-areas</a>  
+   Link:<a href="https://www.fife.gov.uk/kb/docs/articles/planning-and-building2/built-and-natural-heritage/conservation-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.fife.gov.uk/kb/docs/articles/planning-and-building2/built-and-natural-heritage/conservation-areas</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: GOV.UK  
    Title: mod appraisal report 2020 accessible version  
-   Link: <a href="https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: GOV.UK  
    Title: noise amelioration scheme military raf leuchars  
-   Link: <a href="https://www.gov.uk/government/publications/noise-amelioration-scheme-military-raf-leuchars" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/noise-amelioration-scheme-military-raf-leuchars</a>  
+   Link:<a href="https://www.gov.uk/government/publications/noise-amelioration-scheme-military-raf-leuchars" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/noise-amelioration-scheme-military-raf-leuchars</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: boundaries.scot  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/FIFE_0_1758892796.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/FIFE_0_1758892796.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/FIFE_0_1758892796.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/FIFE_0_1758892796.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
    Title: unidentified flying object  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thecourier.co.uk  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/fife/4024528/falkland-hill-ufo-incident-it-sounds-fanciful-but-did-aliens-land-in-north-east-fife-in-1996/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: fightercontrol.co.uk  
-   Link: <a href="https://www.fightercontrol.co.uk/forum/viewtopic.php?t=4365" target="_blank" rel="noopener noreferrer nofollow">https://www.fightercontrol.co.uk/forum/viewtopic.php?t=4365</a>  
+   Link:<a href="https://www.fightercontrol.co.uk/forum/viewtopic.php?t=4365" target="_blank" rel="noopener noreferrer nofollow">https://www.fightercontrol.co.uk/forum/viewtopic.php?t=4365</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thecourier.co.uk  
    Title: kirkcaldy ufo sighting  
-   Link: <a href="https://www.thecourier.co.uk/fp/news/fife/5055321/kirkcaldy-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/fife/5055321/kirkcaldy-ufo-sighting/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/news/fife/5055321/kirkcaldy-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/news/fife/5055321/kirkcaldy-ufo-sighting/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: The Guardian Alien nation: Mo D releases final UFO files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-fife-is-a-shire-lying-along-the-northern-shore-of-the-firth-of-for/876030134680555/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thecourier.co.uk  
    Title: historic ufo sightings dundee and tayside  
-   Link: <a href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/</a>  
+   Link:<a href="https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecourier.co.uk/fp/past-times/2642775/historic-ufo-sightings-dundee-and-tayside/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: RAF Leuchars  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Leuchars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Leuchars</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Leuchars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Leuchars</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fife</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fife</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
+   Link:<a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/leuchars/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/leuchars/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/leuchars/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/leuchars/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
+   Link:<a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Episode 326 – Alien Hunting in Bonnybridge: Scotland's UFO Capital  
-   Link: <a href="https://www.youtube.com/watch?v=Jpg9L-RLVsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jpg9L-RLVsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Scottish UFO Landing PROVED By Physical Evidence (Season 29) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jpg9L-RLVsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jpg9L-RLVsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Scottish UFO Landing PROVED By Physical Evidence (Season 29) | History...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Life UFO Sightings In Scotland | Our Life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real Life UFO Sightings In Scotland | Our Life...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Real Life UFO Sightings In Scotland | Our Life  
-   Link: <a href="https://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BncA7etPeY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 326 – Alien Hunting in Bonnybridge: Scotland&#x27;s UFO Capital...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BncA7etPeY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 326 – Alien Hunting in Bonnybridge: Scotland&#x27;s UFO Capital...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Chapel_Flat%2C_Fife_189990</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/counties-of-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties-of-scotland/</a>  
+   Link:<a href="https://realcounties.com/counties-of-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties-of-scotland/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/VisitScotland/posts/2377879325994280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VisitScotland/posts/2377879325994280/</a>  
+   Link:<a href="https://www.facebook.com/groups/VisitScotland/posts/2377879325994280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VisitScotland/posts/2377879325994280/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: westcoasttoday.co.uk  
-   Link: <a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
+   Link:<a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
+   Link:<a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/travelscotlandgoals/posts/8205179686175799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/travelscotlandgoals/posts/8205179686175799/</a>  
+   Link:<a href="https://www.facebook.com/groups/travelscotlandgoals/posts/8205179686175799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/travelscotlandgoals/posts/8205179686175799/</a>  

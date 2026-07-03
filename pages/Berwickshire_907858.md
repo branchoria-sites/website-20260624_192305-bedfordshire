@@ -118,9 +118,9 @@ heading_title: What Really Happened in Berwickshire's UFO Files?
 page_heading_title: What Really Happened in Berwickshire's UFO Files?
 source_count: 123
 infographic_count: 3
-page_website_name: Berwickshire UFOs
+page_website_name: Berwickshire
 page_banner_line: Local sightings, MoD records and grounded explanations from the eastern Borders.
-site_website_name: Berwickshire UFOs
+site_website_name: Berwickshire
 site_banner_line: Local sightings, MoD records and grounded explanations from the eastern Borders.
 site_image_description: A night view over Duns and the surrounding Borders countryside with a small cluster of unexplained lights above distant hills.
 output_language: English
@@ -689,21 +689,21 @@ image: /assets/images/Berwickshire_907858-overview-social.jpg
 
 ## What counts as “Berwickshire” for this page?
 
-This page uses Berwickshire in its historic-county sense: the south-eastern Scottish county centred on places such as Duns, Greenlaw, Coldstream, Eyemouth, Coldingham and the Merse, rather than simply the modern Scottish Borders council area. The distinction matters because UFO reports are often filed under whatever name the witness, newspaper, police force or MoD desk used at the time. A report might say “Duns”, “Borders”, “Scottish Borders” or “Berwickshire”, and each label can point to the same broad local landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page uses Berwickshire in its historic-county sense: the south-eastern Scottish county centred on places such as Duns, Greenlaw, Coldstream, Eyemouth, Coldingham and the Merse, rather than simply the modern Scottish Borders council area. The distinction matters because UFO reports are often filed under whatever name the witness, newspaper, police force or MoD desk used at the time. A report might say “Duns”, “Borders”, “Scottish Borders” or “Berwickshire”, and each label can point to the same broad local landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Berwickshire_907858-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Berwickshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-Historic Berwickshire is now largely within the Scottish Borders council area, while the older county identity survived in place names, local organisations and lieutenancy usage. Duns was the county town after earlier periods in which Berwick-upon-Tweed, Greenlaw and Duns all played county roles; Berwick itself has been on the English side of the border since the late medieval period, even though the county took its name from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Historic Berwickshire is now largely within the Scottish Borders council area, while the older county identity survived in place names, local organisations and lieutenancy usage. Duns was the county town after earlier periods in which Berwick-upon-Tweed, Greenlaw and Duns all played county roles; Berwick itself has been on the English side of the border since the late medieval period, even though the county took its name from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 For UFO research, the county’s geography is also more complicated than a map outline. Berwickshire lies between the North Sea, the Tweed, the Lammermuirs and the English border. Sightings over the coast may be reported from East Lothian, Northumberland or the Firth of Forth area; inland lights may be visible across county lines; and modern aviation records may refer to the Scottish Borders rather than Berwickshire. That is why the centre of gravity here is Berwickshire, but nearby airspace and neighbouring counties sometimes matter when interpreting a report.
 
 ## The Duns reports: small entries, big caution
 
-The strongest official Berwickshire-specific UFO item found in the released MoD annual sighting lists is the 2008 Duns entry. In the MoD’s “UFO Reports 2008” table, the location is given as “Duns”, the area as “Borders”, the date and time as “No Firm Date” and “Not stated”, and the description as simply “A UFO. (Message taken 17 July 2008).” That is not much evidence: there is no shape, duration, direction, witness occupation, weather, aircraft check or follow-up explanation in the public table. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+The strongest official Berwickshire-specific UFO item found in the released MoD annual sighting lists is the 2008 Duns entry. In the MoD’s “UFO Reports 2008” table, the location is given as “Duns”, the area as “Borders”, the date and time as “No Firm Date” and “Not stated”, and the description as simply “A UFO. (Message taken 17 July 2008).” That is not much evidence: there is no shape, duration, direction, witness occupation, weather, aircraft check or follow-up explanation in the public table.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-This lack of detail does not mean the witness was wrong, but it does mean the case cannot carry much weight. A useful UFO record normally needs the date, time, viewing direction, duration, angular size, movement, number of witnesses, weather, nearby aircraft activity and whether anyone checked astronomical or satellite possibilities. The National Archives’ research guide notes that MoD UFO records include policy files, sighting reports, correspondence and parliamentary material, but many public-facing entries are only summaries, not full investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+This lack of detail does not mean the witness was wrong, but it does mean the case cannot carry much weight. A useful UFO record normally needs the date, time, viewing direction, duration, angular size, movement, number of witnesses, weather, nearby aircraft activity and whether anyone checked astronomical or satellite possibilities. The National Archives’ research guide notes that MoD UFO records include policy files, sighting reports, correspondence and parliamentary material, but many public-facing entries are only summaries, not full investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-There was also local press interest in Duns several years earlier. The British Newspaper Archive indexes a Berwick Advertiser item from 14 June 2001 titled “UFOs in Duns?”, describing “unidentified floating objects” seen in the night sky over Duns on a Sunday evening. The indexed snippet indicates at least two witnesses, but the archive preview does not supply enough detail here to assess the report fully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+There was also local press interest in Duns several years earlier. The British Newspaper Archive indexes a Berwick Advertiser item from 14 June 2001 titled “UFOs in Duns?”, describing “unidentified floating objects” seen in the night sky over Duns on a Sunday evening. The indexed snippet indicates at least two witnesses, but the archive preview does not supply enough detail here to assess the report fully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
 These two Duns references are best read together. They suggest that Duns had recurring local UFO-interest moments, but neither, on the accessible evidence, becomes a landmark case. The important point for readers is evidential quality: an official log entry and a newspaper headline show that reports existed, not that an extraordinary object was demonstrated.
 
@@ -711,35 +711,35 @@ These two Duns references are best read together. They suggest that Duns had rec
 <img src="{{ "/assets/images/Berwickshire_907858-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Berwickshire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Berwickshire_907858-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berwickshire_907858-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 2008 timing matters
 
-The 2008 Duns entry sits inside a much wider UK reporting surge. The National Archives’ final-tranche release said the MoD’s UFO desk received a rising number of reports in its last years, and the 2008–09 files include many accounts of lights, formations and orange objects. The same release and associated reporting connected many such reports with the Chinese-lantern craze, especially slow-moving orange lights in groups that witnesses did not recognise at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The 2008 Duns entry sits inside a much wider UK reporting surge. The National Archives’ final-tranche release said the MoD’s UFO desk received a rising number of reports in its last years, and the 2008–09 files include many accounts of lights, formations and orange objects. The same release and associated reporting connected many such reports with the Chinese-lantern craze, especially slow-moving orange lights in groups that witnesses did not recognise at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-That national pattern is relevant to Berwickshire because the Duns MoD entry is too bare to test against specific alternatives. If the report involved a silent orange light, a cluster of lights, or slowly drifting points in the night sky, lanterns would be a plausible explanation. If it involved a straight line of lights, modern readers would also ask about satellites. If it involved a hovering or manoeuvring light near the horizon, aircraft, drones, planets, reflections, hilltop lights or coastal atmospheric effects might be candidates. The public MoD table simply does not say enough to choose between them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+That national pattern is relevant to Berwickshire because the Duns MoD entry is too bare to test against specific alternatives. If the report involved a silent orange light, a cluster of lights, or slowly drifting points in the night sky, lanterns would be a plausible explanation. If it involved a straight line of lights, modern readers would also ask about satellites. If it involved a hovering or manoeuvring light near the horizon, aircraft, drones, planets, reflections, hilltop lights or coastal atmospheric effects might be candidates. The public MoD table simply does not say enough to choose between them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-The MoD closed its UFO desk and hotline in 2009. The stated reason in the released files was not that every report had been solved, but that the work served “no defence purpose” and diverted staff from more valuable defence activity. That is a subtle but important distinction: closure was an administrative and defence-priority judgement, not a scientific proof that all sightings were mundane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD closed its UFO desk and hotline in 2009. The stated reason in the released files was not that every report had been solved, but that the work served “no defence purpose” and diverted staff from more valuable defence activity. That is a subtle but important distinction: closure was an administrative and defence-priority judgement, not a scientific proof that all sightings were mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mQ1kGk2A88" title="The story of the Calvine UFO photograph | In Case You Missed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer">The story of the Calvine UFO photograph | In Case You Missed It</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 117.5K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mQ1kGk2A88">Open on YouTube</a></p></div></div></div>
 
 ## Military and aviation links in the county
 
-Berwickshire is not usually treated as a major RAF-UFO hotspot, but it does have aviation history. The most relevant local site is [Charterhall]({{ 'charterhall/' | relative_url }}), between Greenlaw and Duns. It began as a First World War landing ground, was reconstructed during the Second World War, and was associated especially with No. 54 Operational Training Unit, flying types such as Beaufighters, Blenheims and Oxfords. The airfield later became known for motor racing and is now used only in limited private-airstrip form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/charterhall-eccles-tofts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
+Berwickshire is not usually treated as a major RAF-UFO hotspot, but it does have aviation history. The most relevant local site is [Charterhall]({{ 'charterhall/' | relative_url }}), between Greenlaw and Duns. It began as a First World War landing ground, was reconstructed during the Second World War, and was associated especially with No. 54 Operational Training Unit, flying types such as Beaufighters, Blenheims and Oxfords. The airfield later became known for motor racing and is now used only in limited private-airstrip form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/charterhall-eccles-tofts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
 
-That matters because old RAF sites often attract UFO speculation simply by association. In Berwickshire, however, the available Duns UFO records do not show a clear radar case, military scramble, pilot encounter or official air-defence incident tied to Charterhall. The airfield’s presence is still useful context: local skies have included military training, light aviation, microlight activity and small-aircraft movements, all of which can complicate witness impressions. But a former RAF airfield nearby should not be treated as evidence that a reported light was military or exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mortonhall.co.uk/charterhall/charterhall-airfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mortonhall.co.uk">[mortonhall.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mortonhall.co.uk</span><span class="citation-popover-snippet">Open source on mortonhall.co.uk.</span></span></span>
+That matters because old RAF sites often attract UFO speculation simply by association. In Berwickshire, however, the available Duns UFO records do not show a clear radar case, military scramble, pilot encounter or official air-defence incident tied to Charterhall. The airfield’s presence is still useful context: local skies have included military training, light aviation, microlight activity and small-aircraft movements, all of which can complicate witness impressions. But a former RAF airfield nearby should not be treated as evidence that a reported light was military or exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mortonhall.co.uk/charterhall/charterhall-airfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mortonhall.co.uk">[mortonhall.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mortonhall.co.uk</span><span class="citation-popover-snippet">Open source on mortonhall.co.uk.</span></span></span>
 
-The Berwickshire coast also looks out towards wider aviation and maritime corridors. Nearby Torness nuclear power station is in East Lothian, not Berwickshire, but it is visible from parts of the south-east Scottish coast and can appear in regional “strange lights” discussions. Its relevance here is interpretive rather than evidential: large coastal infrastructure, aircraft routes, vessels, railway lights and weather over the North Sea can all produce observations that travel across county boundaries in witness reports and local media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edfenergy.com/energy/power-stations/torness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edfenergy.com">[EDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edfenergy.com</span><span class="citation-popover-snippet">Open source on edfenergy.com.</span></span></span>
+The Berwickshire coast also looks out towards wider aviation and maritime corridors. Nearby Torness nuclear power station is in East Lothian, not Berwickshire, but it is visible from parts of the south-east Scottish coast and can appear in regional “strange lights” discussions. Its relevance here is interpretive rather than evidential: large coastal infrastructure, aircraft routes, vessels, railway lights and weather over the North Sea can all produce observations that travel across county boundaries in witness reports and local media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edfenergy.com/energy/power-stations/torness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edfenergy.com">[EDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edfenergy.com</span><span class="citation-popover-snippet">Open source on edfenergy.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Berwickshire_907858-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Berwickshire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Berwickshire_907858-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berwickshire_907858-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common explanations worth checking before calling a case unresolved
 
-For Berwickshire, the most responsible approach is not to force a dramatic answer onto thin reports. It is to ask what ordinary [explanations]({{ 'explanations-e26f73/' | relative_url }}) fit the time, direction, colour and motion described by the witness. Unfortunately, the most accessible Duns official entry lacks those details, so the explanation remains open only in a weak sense: not “mysterious after investigation”, but “not assessable from the public summary”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+For Berwickshire, the most responsible approach is not to force a dramatic answer onto thin reports. It is to ask what ordinary [explanations]({{ 'explanations-e26f73/' | relative_url }}) fit the time, direction, colour and motion described by the witness. Unfortunately, the most accessible Duns official entry lacks those details, so the explanation remains open only in a weak sense: not “mysterious after investigation”, but “not assessable from the public summary”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 The main checks for Berwickshire sightings are practical:
 
-* **Lanterns and event lights:** especially orange, silent lights drifting with the wind or appearing in groups during the late 2000s reporting surge. The National Archives specifically highlighted lantern-like reports in the 2008–09 MoD material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
-* **Aircraft and small airfields:** Charterhall’s current light-aircraft use is limited, but its existence, plus wider Borders and East Coast aviation, means aircraft should always be checked before treating a light as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mortonhall.co.uk/charterhall/charterhall-airfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mortonhall.co.uk">[mortonhall.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mortonhall.co.uk</span><span class="citation-popover-snippet">Open source on mortonhall.co.uk.</span></span></span>
-* **Drones:** modern reports after the 2010s need to account for drones. The Civil Aviation Authority notes that drones flown at night in the Open Category must have a green flashing light, which can help identify some recent sightings but may also create unfamiliar moving lights for observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
-* **Astronomy and space weather:** meteors, bright planets, satellites and aurora can all be misread, especially in rural areas with dark skies. The Met Office’s public astronomy and space-weather material shows how regular sky events can produce striking visible effects without being aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">how to see the perseid meteor shower 2025</span><span class="citation-popover-snippet">how to see the perseid meteor shower 2025</span></span></span>
+* **Lanterns and event lights:** especially orange, silent lights drifting with the wind or appearing in groups during the late 2000s reporting surge. The National Archives specifically highlighted lantern-like reports in the 2008–09 MoD material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+* **Aircraft and small airfields:** Charterhall’s current light-aircraft use is limited, but its existence, plus wider Borders and East Coast aviation, means aircraft should always be checked before treating a light as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mortonhall.co.uk/charterhall/charterhall-airfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mortonhall.co.uk">[mortonhall.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mortonhall.co.uk</span><span class="citation-popover-snippet">Open source on mortonhall.co.uk.</span></span></span>
+* **Drones:** modern reports after the 2010s need to account for drones. The Civil Aviation Authority notes that drones flown at night in the Open Category must have a green flashing light, which can help identify some recent sightings but may also create unfamiliar moving lights for observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+* **Astronomy and space weather:** meteors, bright planets, satellites and aurora can all be misread, especially in rural areas with dark skies. The Met Office’s public astronomy and space-weather material shows how regular sky events can produce striking visible effects without being aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">how to see the perseid meteor shower 2025</span><span class="citation-popover-snippet">how to see the perseid meteor shower 2025</span></span></span>
 
 None of these explanations should be imposed automatically. A fast, structured object seen at close range is different from a distant orange dot. But for Berwickshire’s known public record, the available evidence is too sparse to rule ordinary explanations out.
 
@@ -748,9 +748,9 @@ None of these explanations should be imposed automatically. A fast, structured o
 
 ## How strong is the Berwickshire UFO evidence?
 
-The evidence is modest. There are signs of local reports, including Duns newspaper coverage in 2001 and an MoD-listed Duns report in 2008, but the accessible material does not show a major multi-witness, radar-backed, police-investigated or pilot-confirmed case inside Berwickshire. Sky News’ coverage of the 2013 file release even used an image captioned as an apparent UFO over Duns in 2008, which shows that the case had enough visual or media value to be noticed nationally, but the public article does not by itself resolve what the image showed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The evidence is modest. There are signs of local reports, including Duns newspaper coverage in 2001 and an MoD-listed Duns report in 2008, but the accessible material does not show a major multi-witness, radar-backed, police-investigated or pilot-confirmed case inside Berwickshire. Sky News’ coverage of the 2013 file release even used an image captioned as an apparent UFO over Duns in 2008, which shows that the case had enough visual or media value to be noticed nationally, but the public article does not by itself resolve what the image showed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-That puts Berwickshire in a different category from better-known Scottish UFO narratives such as Bonnybridge or the Calvine photograph. Those cases have larger bodies of testimony, media attention or continuing dispute, even if they remain contested. Berwickshire’s record is quieter: more a local file-trail than a famous mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Calls for UK Government to release Scots X-Files</span><span class="citation-popover-snippet">The Scottish Sun Calls for UK Government to release Scots X-Files</span></span></span>
+That puts Berwickshire in a different category from better-known Scottish UFO narratives such as Bonnybridge or the Calvine photograph. Those cases have larger bodies of testimony, media attention or continuing dispute, even if they remain contested. Berwickshire’s record is quieter: more a local file-trail than a famous mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Calls for UK Government to release Scots X-Files</span><span class="citation-popover-snippet">The Scottish Sun Calls for UK Government to release Scots X-Files</span></span></span>
 
 The fairest classification is therefore mixed but cautious. The [Duns reports]({{ 'duns-reports/' | relative_url }}) are **documented as reports**, not confirmed anomalous events. They remain **unresolved in the limited archival sense** that the available summaries do not give enough information to identify a cause. They are not strong enough to claim Berwickshire as a UFO hotspot, and not detailed enough to dismiss every witness impression as definitely explained.
 
@@ -758,13 +758,13 @@ The fairest classification is therefore mixed but cautious. The [Duns reports]({
 <img src="{{ "/assets/images/Berwickshire_907858-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Berwickshire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Berwickshire_907858-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berwickshire_907858-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would make a Berwickshire case stronger?
 
-A stronger Berwickshire case would need more than a place name and the word “UFO”. It would need a recoverable original report, a clear time and date, multiple independent witnesses, a direction of travel, duration, photographs or video with metadata, weather conditions, and checks against aircraft, satellites, drones, lantern releases and astronomical objects. Police logs, local newspaper follow-ups, airfield records or MoD correspondence would also help. The National Archives’ UFO research guidance makes clear that surviving official files often mix policy, public correspondence and sighting material, so the best cases are those where a short sighting entry can be linked to fuller documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+A stronger Berwickshire case would need more than a place name and the word “UFO”. It would need a recoverable original report, a clear time and date, multiple independent witnesses, a direction of travel, duration, photographs or video with metadata, weather conditions, and checks against aircraft, satellites, drones, lantern releases and astronomical objects. Police logs, local newspaper follow-ups, airfield records or MoD correspondence would also help. The National Archives’ UFO research guidance makes clear that surviving official files often mix policy, public correspondence and sighting material, so the best cases are those where a short sighting entry can be linked to fuller documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Berwickshire, the most promising research paths are local rather than sensational: Berwick Advertiser and Berwickshire News archives for Duns, Eyemouth, Coldstream and coastal reports; MoD DEFE-series files for any fuller version of the 2008 Duns entry; Scottish Borders and Police Scotland disclosure material where available; and aviation checks around Charterhall, East Lothian, Northumberland and the East Coast corridor. That kind of work may not produce a dramatic answer, but it is exactly how a thin “UFO” mention becomes either a better case, a likely explanation, or a dead-end record.
 
 ## Bottom line for Berwickshire
 
-Berwickshire’s UFO history is real but slight. The county has identifiable UFO references, especially around Duns, and it sits in a landscape where rural darkness, coastal visibility, former RAF infrastructure, light aviation and cross-border reporting can all shape what people see and how they describe it. But the available public evidence does not support a claim that Berwickshire has a major unresolved UFO incident on the scale of Scotland’s best-known cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+Berwickshire’s UFO history is real but slight. The county has identifiable UFO references, especially around Duns, and it sits in a landscape where rural darkness, coastal visibility, former RAF infrastructure, light aviation and cross-border reporting can all shape what people see and how they describe it. But the available public evidence does not support a claim that Berwickshire has a major unresolved UFO incident on the scale of Scotland’s best-known cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 The most honest reading is that Berwickshire belongs in the UK UFO map as a county with scattered, under-documented reports rather than a headline hotspot. Its value is in showing how local UFO history often works: a newspaper item here, an MoD table entry there, a few ambiguous lights, and a great deal depending on whether later researchers can recover the missing details.
 
@@ -773,194 +773,194 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Berwickshire&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Berwickshire&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on documented sightings, official files, and separating evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on documented sightings, official files, and separating evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Offers regional context from one of Britain&#x27;s best-known UFO investigations, complementing a Scottish Borders UFO page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers regional context from one of Britain&#x27;s best-known UFO investigations, complementing a Scottish Borders UFO page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the investigative framework useful for assessing local cases such as those discussed in Berwickshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the investigative framework useful for assessing local cases such as those discussed in Berwickshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local reports, folklore, and later reinterpretation interact, closely matching the page&#x27;s discussion of fragmented regional...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local reports, folklore, and later reinterpretation interact, closely matching the page&#x27;s discussion of fragmented regional...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-berwickshires-what-really-happened-in-berwickshire-s-ufo-files-berwicksh-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -976,7 +976,7 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -996,7 +996,7 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1028,7 +1028,7 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1080,7 +1080,7 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1125,7 +1125,7 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1166,239 +1166,239 @@ The most honest reading is that Berwickshire belongs in the UK UFO map as a coun
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scotborders.gov.uk  
-   Link: <a href="https://www.scotborders.gov.uk/council-2/berwickshire-area-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/council-2/berwickshire-area-partnership</a>  
+   Link:<a href="https://www.scotborders.gov.uk/council-2/berwickshire-area-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/council-2/berwickshire-area-partnership</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berwickshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berwickshire</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo research guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mortonhall.co.uk  
-   Link: <a href="https://www.mortonhall.co.uk/charterhall/charterhall-airfield/" target="_blank" rel="noopener noreferrer nofollow">https://www.mortonhall.co.uk/charterhall/charterhall-airfield/</a>  
+   Link:<a href="https://www.mortonhall.co.uk/charterhall/charterhall-airfield/" target="_blank" rel="noopener noreferrer nofollow">https://www.mortonhall.co.uk/charterhall/charterhall-airfield/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: edfenergy.com  
-   Link: <a href="https://www.edfenergy.com/energy/power-stations/torness" target="_blank" rel="noopener noreferrer nofollow">https://www.edfenergy.com/energy/power-stations/torness</a>  
+   Link:<a href="https://www.edfenergy.com/energy/power-stations/torness" target="_blank" rel="noopener noreferrer nofollow">https://www.edfenergy.com/energy/power-stations/torness</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metoffice.gov.uk  
    Title: how to see the perseid meteor shower 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-perseid-meteor-shower-2025</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/specialist-forecasts/space-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/space-weather</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/specialist-forecasts/space-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/space-weather</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: RAF Charterhall  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Charterhall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Charterhall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Charterhall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Charterhall</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Torness nuclear power station  
-   Link: <a href="https://en.wikipedia.org/wiki/Torness_nuclear_power_station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Torness_nuclear_power_station</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Torness_nuclear_power_station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Torness_nuclear_power_station</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/lyrid-meteor-shower-how-to-spot-the-celestial-show-and-what-will-the-weather-be-like-13534928" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/lyrid-meteor-shower-how-to-spot-the-celestial-show-and-what-will-the-weather-be-like-13534928</a>  
+   Link:<a href="https://news.sky.com/story/lyrid-meteor-shower-how-to-spot-the-celestial-show-and-what-will-the-weather-be-like-13534928" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/lyrid-meteor-shower-how-to-spot-the-celestial-show-and-what-will-the-weather-be-like-13534928</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: Oct 12 1973, The Times Literary Supplement, #3736, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/TheTimesLiterarySupplement1973UKEnglish/Oct%2012%201973%2C%20The%20Times%20Literary%20Supplement%2C%20%233736%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheTimesLiterarySupplement1973UKEnglish/Oct%2012%201973%2C%20The%20Times%20Literary%20Supplement%2C%20%233736%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheTimesLiterarySupplement1973UKEnglish/Oct%2012%201973%2C%20The%20Times%20Literary%20Supplement%2C%20%233736%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheTimesLiterarySupplement1973UKEnglish/Oct%2012%201973%2C%20The%20Times%20Literary%20Supplement%2C%20%233736%2C%20UK%20%28en%29_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: find-and-update.company-information.service.gov.uk  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/SC307670/persons-with-significant-control" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/SC307670/persons-with-significant-control</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/SC307670/persons-with-significant-control" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/SC307670/persons-with-significant-control</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: register-of-charities.charitycommission.gov.uk  
    Title: charitycommission.gov.uk TH E HISTORIC COUNTIES TRUST  
-   Link: <a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/governing-document" target="_blank" rel="noopener noreferrer nofollow">https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/governing-document</a>  
+   Link:<a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/governing-document" target="_blank" rel="noopener noreferrer nofollow">https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/governing-document</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berwickshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Berwickshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berwickshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/2000-01-01/2024-12-31?basicsearch=ufo&amp;county=northumberland%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/charterhall-eccles-tofts/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/charterhall-eccles-tofts/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/charterhall-eccles-tofts/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/charterhall-eccles-tofts/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: thescottishsun.co.uk  
    Title: The Scottish Sun Calls for UK Government to release Scots X-Files  
-   Link: <a href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/</a>  
+   Link:<a href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/berwickshire.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/berwickshire.htm</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/berwickshire.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/berwickshire.htm</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Berwickshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Berwickshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Berwickshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Berwickshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
    Title: torness nuclear power station  
-   Link: <a href="https://www.reddit.com/r/nuclear/comments/1t47d98/torness_nuclear_power_station/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nuclear/comments/1t47d98/torness_nuclear_power_station/</a>  
+   Link:<a href="https://www.reddit.com/r/nuclear/comments/1t47d98/torness_nuclear_power_station/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nuclear/comments/1t47d98/torness_nuclear_power_station/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Duns" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Duns</a>  
+   Link:<a href="https://www.britannica.com/place/Duns" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Duns</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: The Town with the Most UFO Sightings in the World  
-   Link: <a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Calvine UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=7j1NwlKL9zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7j1NwlKL9zQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7j1NwlKL9zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7j1NwlKL9zQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/torness-power-station" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/torness-power-station</a>  
+   Link:<a href="https://www.gettyimages.com/photos/torness-power-station" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/torness-power-station</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: antiquemapsandprints.com  
-   Link: <a href="https://www.antiquemapsandprints.com/products/berwickshire-coast-dunbar-duns-eyemouth-berwick-upon-tweed-cary-1794-old-map-p-6-045458?srsltid=AfmBOopkblzFwfRYp_FnMD8rSTtqyl3tWKl5UIAXOMpcrvY94Vbv4QMk" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemapsandprints.com/products/berwickshire-coast-dunbar-duns-eyemouth-berwick-upon-tweed-cary-1794-old-map-p-6-045458?srsltid=AfmBOopkblzFwfRYp_FnMD8rSTtqyl3tWKl5UIAXOMpcrvY94Vbv4QMk</a>  
+   Link:<a href="https://www.antiquemapsandprints.com/products/berwickshire-coast-dunbar-duns-eyemouth-berwick-upon-tweed-cary-1794-old-map-p-6-045458?srsltid=AfmBOopkblzFwfRYp_FnMD8rSTtqyl3tWKl5UIAXOMpcrvY94Vbv4QMk" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemapsandprints.com/products/berwickshire-coast-dunbar-duns-eyemouth-berwick-upon-tweed-cary-1794-old-map-p-6-045458?srsltid=AfmBOopkblzFwfRYp_FnMD8rSTtqyl3tWKl5UIAXOMpcrvY94Vbv4QMk</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: wikidata.org  
-   Link: <a href="https://www.wikidata.org/wiki/Q786649" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q786649</a>  
+   Link:<a href="https://www.wikidata.org/wiki/Q786649" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q786649</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/berwickshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/berwickshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/berwickshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/berwickshire/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: englandsnortheast.co.uk  
-   Link: <a href="https://englandsnortheast.co.uk/berwickshire-scotland-borders/" target="_blank" rel="noopener noreferrer nofollow">https://englandsnortheast.co.uk/berwickshire-scotland-borders/</a>  
+   Link:<a href="https://englandsnortheast.co.uk/berwickshire-scotland-borders/" target="_blank" rel="noopener noreferrer nofollow">https://englandsnortheast.co.uk/berwickshire-scotland-borders/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: dayoutwiththekids.co.uk  
-   Link: <a href="https://www.dayoutwiththekids.co.uk/things-to-do/south-scotland/scottish-borders/eyemouth/adventure/climbing" target="_blank" rel="noopener noreferrer nofollow">https://www.dayoutwiththekids.co.uk/things-to-do/south-scotland/scottish-borders/eyemouth/adventure/climbing</a>  
+   Link:<a href="https://www.dayoutwiththekids.co.uk/things-to-do/south-scotland/scottish-borders/eyemouth/adventure/climbing" target="_blank" rel="noopener noreferrer nofollow">https://www.dayoutwiththekids.co.uk/things-to-do/south-scotland/scottish-borders/eyemouth/adventure/climbing</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  

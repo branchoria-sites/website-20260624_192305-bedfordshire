@@ -258,18 +258,18 @@ Banbury’s 1971–72 sighting wave matters because it turned a north [Oxfordshi
 
 
 <img src="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-overview.webp" | relative_url }}" alt="Overview image for Banbury Wave" loading="eager" decoding="sync" fetchpriority="high">
-For this page, Banbury is treated as part of Oxfordshire in the historic-county sense used by the wider county map project. That is straightforward for the town itself, though reports in the wider “Banbury area” could easily involve sky objects over neighbouring Northamptonshire or Warwickshire. Wikishire describes Oxfordshire as extending north to Banbury, while Banbury Hundred is described as lying in the north of the county, bounded by Warwickshire and Northamptonshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Oxfordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this page, Banbury is treated as part of Oxfordshire in the historic-county sense used by the wider county map project. That is straightforward for the town itself, though reports in the wider “Banbury area” could easily involve sky objects over neighbouring Northamptonshire or Warwickshire. Wikishire describes Oxfordshire as extending north to Banbury, while Banbury Hundred is described as lying in the north of the county, bounded by Warwickshire and Northamptonshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Oxfordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TMSMpsmtRlo" title="UFO sightings at Banbury filmed by ATV Today on 11-10-1971" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer">UFO sightings at Banbury filmed by ATV Today on 11-10-1971</a></p><p class="youtube-embed-meta">Channel: B C M</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TMSMpsmtRlo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TMSMpsmtRlo" title="UFO sightings at Banbury filmed by ATV Today on" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer">UFO sightings at Banbury filmed by ATV Today on</a></p><p class="youtube-embed-meta">Channel: B C M</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TMSMpsmtRlo">Open on YouTube</a></p></div></div></div>
 
 ## The sightings reported around Banbury
 
-The wave’s centrepiece was the 26 October 1971 Enstone/[Banbury film]({{ 'banbury-film/' | relative_url }}) incident. A surviving BUFORA report by Roger H. Stanway identifies it as “a UFO event recorded on 16mm cine film” near Banbury, Oxfordshire, and gives the date as 26 October 1971. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span> Its case summary describes a daylight event between roughly 11.50am and 12.15pm, with reports not only from Oxfordshire but also Northamptonshire and Bedfordshire, involving at least seven independent witness groups and about twenty-five people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+The wave’s centrepiece was the 26 October 1971 Enstone/[Banbury film]({{ 'banbury-film/' | relative_url }}) incident. A surviving BUFORA report by Roger H. Stanway identifies it as “a UFO event recorded on 16mm cine film” near Banbury, Oxfordshire, and gives the date as 26 October 1971.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span> Its case summary describes a daylight event between roughly 11.50am and 12.15pm, with reports not only from Oxfordshire but also Northamptonshire and Bedfordshire, involving at least seven independent witness groups and about twenty-five people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-That geography is important. The “Banbury UFO” was not simply someone seeing a light over one street. The reconstructed account placed witnesses across a broad South Midlands corridor, which is why the case quickly outgrew ordinary local gossip. The BUFORA summary describes the object as a small bright orange fluorescent ball of light, sometimes giving off a dense vapour or smoke trail, and appearing to make rapid changes of motion, including pauses during which it seemed to “hang” in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
+That geography is important. The “Banbury UFO” was not simply someone seeing a light over one street. The reconstructed account placed witnesses across a broad South Midlands corridor, which is why the case quickly outgrew ordinary local gossip. The BUFORA summary describes the object as a small bright orange fluorescent ball of light, sometimes giving off a dense vapour or smoke trail, and appearing to make rapid changes of motion, including pauses during which it seemed to “hang” in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span>
 
-A second key point is that the sighting was recorded by a professional television crew rather than only remembered later. The Media Archive for Central England catalogue lists an ATV Today item from 26 October 1971 in which Lionel Hampden describes the sighting by an ATV film unit in a field at Radford, Enstone, with cameraman Noel Smart and production assistant Chris Fewlass also interviewed and the captured footage shown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-title">atv today 26101971 ufo sighting atv film unit</span><span class="citation-popover-snippet">atv today 26101971 ufo sighting atv film unit</span></span></span> MACE also lists an earlier ATV Today item from 11 October 1971, “UFO Sightings at Banbury”, in which Peter Plant interviewed several people claiming to have seen UFOs around Banbury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-title">atv today 11101971 ufo sightings banbury</span><span class="citation-popover-snippet">atv today 11101971 ufo sightings banbury</span></span></span>
+A second key point is that the sighting was recorded by a professional television crew rather than only remembered later. The Media Archive for Central England catalogue lists an ATV Today item from 26 October 1971 in which Lionel Hampden describes the sighting by an ATV film unit in a field at Radford, Enstone, with cameraman Noel Smart and production assistant Chris Fewlass also interviewed and the captured footage shown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-title">atv today 26101971 ufo sighting atv film unit</span><span class="citation-popover-snippet">atv today 26101971 ufo sighting atv film unit</span></span></span> MACE also lists an earlier ATV Today item from 11 October 1971, “UFO Sightings at Banbury”, in which Peter Plant interviewed several people claiming to have seen UFOs around Banbury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macearchive.org">[MACE Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macearchive.org</span><span class="citation-popover-title">atv today 11101971 ufo sightings banbury</span><span class="citation-popover-snippet">atv today 11101971 ufo sightings banbury</span></span></span>
 
 Taken together, those two ATV entries show that the 26 October film did not appear in a vacuum. Banbury already had enough local UFO talk by 11 October for regional television to run interviews, and the film incident later gave the wave a stronger visual and investigative focus. This is one reason Banbury stands out within Oxfordshire’s UFO history: the flap had both a public-reporting phase and a documented media object around which investigators could argue.
 
@@ -279,13 +279,13 @@ Taken together, those two ATV entries show that the 26 October film did not appe
 
 The police aspect is one of the reasons the Banbury wave is remembered, but it needs careful handling. Police witnesses can strengthen a case because they are used to taking observations seriously, working with times and locations, and distinguishing routine public nuisance from something worth recording. They do not, however, make an aerial object extraordinary by themselves. Police officers can misjudge distance, altitude, angle and speed like anyone else, especially when observing brief lights at night.
 
-The clearest publicly indexed police report connected with the Banbury wave is the 27 October 1971 Bratch Hill entry found in later police-UFO compilations. The PRUFOS police database lists an on-duty uniformed officer, PC Perry Jackson, accompanied by cadet William Bryon, seeing an orange object at 9.40pm near Bratch Hill, Banbury. The entry says it crossed a moonlit, star-filled sky, appeared about “the size of a golf ball”, was visible for around three seconds, then moved downwards at about a 45-degree angle; it also says numerous members of the public reported the object and that the reports were collected by Banbury police and submitted to the Ministry of Defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[PRUFOS Police Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-snippet">Open source on prufospolicedatabase.co.uk.</span></span></span>
+The clearest publicly indexed police report connected with the Banbury wave is the 27 October 1971 Bratch Hill entry found in later police-UFO compilations. The PRUFOS police database lists an on-duty uniformed officer, PC Perry Jackson, accompanied by cadet William Bryon, seeing an orange object at 9.40pm near Bratch Hill, Banbury. The entry says it crossed a moonlit, star-filled sky, appeared about “the size of a golf ball”, was visible for around three seconds, then moved downwards at about a 45-degree angle; it also says numerous members of the public reported the object and that the reports were collected by Banbury police and submitted to the Ministry of Defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[PRUFOS Police Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-snippet">Open source on prufospolicedatabase.co.uk.</span></span></span>
 
 That is a valuable lead, but it is still a secondary listing rather than the original police paperwork. The short duration also limits what can be inferred. A three-second orange object descending at an angle could invite several ordinary possibilities: a meteor, aircraft light seen in a misleading perspective, a flare-like effect, or a brief reflection. What makes the report more interesting is not the description alone, but the claimed clustering: police observation, public reports and onward submission to the MoD.
 
-The same police database also lists a 1972 Banbury report involving PC Perry Jackson and PC William Byrne, describing a yellow, cigar-shaped object that reportedly moved slowly for a few seconds and then shot away at high speed. It adds that many strange-light reports had been made at the police station and that the MoD had confirmed numerous reports over several weeks, though without reaching a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/55951253/UFO-Timeline-Chronology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UFO Timeline Chronology</span><span class="citation-popover-snippet">UFO Timeline Chronology</span></span></span> Again, the phrasing is suggestive rather than conclusive: it supports the idea of a continuing flap, but it does not provide enough technical detail to establish height, speed, size or cause.
+The same police database also lists a 1972 Banbury report involving PC Perry Jackson and PC William Byrne, describing a yellow, cigar-shaped object that reportedly moved slowly for a few seconds and then shot away at high speed. It adds that many strange-light reports had been made at the police station and that the MoD had confirmed numerous reports over several weeks, though without reaching a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/55951253/UFO-Timeline-Chronology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UFO Timeline Chronology</span><span class="citation-popover-snippet">UFO Timeline Chronology</span></span></span> Again, the phrasing is suggestive rather than conclusive: it supports the idea of a continuing flap, but it does not provide enough technical detail to establish height, speed, size or cause.
 
-The Ministry of Defence context matters here. The National Archives explains that British UFO records often consist of reported shapes, lights and flashes, many of which can be explained, while others are more unusual; it also notes that earlier MoD material was not always preserved, with pre-1960s UFO material destroyed after five years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span> Later MoD policy confirms the official frame: UFO reports were handled for possible defence relevance, not as proof of alien visitation. In 2024, a parliamentary answer stated that the MoD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and released pre-2009 UFO files to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The Ministry of Defence context matters here. The National Archives explains that British UFO records often consist of reported shapes, lights and flashes, many of which can be explained, while others are more unusual; it also notes that earlier MoD material was not always preserved, with pre-1960s UFO material destroyed after five years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span> Later MoD policy confirms the official frame: UFO reports were handled for possible defence relevance, not as proof of alien visitation. In 2024, a parliamentary answer stated that the MoD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and released pre-2009 UFO files to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_p9yTJaee6g" title="Police Officers Describe UFO Encounter (1967)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer">Police Officers Describe UFO Encounter (1967)</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 399.7K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_p9yTJaee6g">Open on YouTube</a></p></div></div></div>
@@ -294,25 +294,25 @@ The Ministry of Defence context matters here. The National Archives explains tha
 
 Banbury’s wave grew because reports were not isolated. They circulated through police channels, local conversation, television, UFO investigators and newspapers. That feedback loop is central to understanding any flap: once a town is primed to look up, more people report ambiguous lights, and newspapers have a ready-made local mystery to follow.
 
-The British Newspaper Archive’s Banbury Guardian index shows that UFO stories remained a recognisable local newspaper category in later years, including articles about alleged UFOs over Banbury in 1979 and a Ratley mystery aircraft sighting in 1978 that referred to police and Ministry of Defence interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> Those later snippets are not evidence for the 1971–72 sightings themselves, but they show the media environment into which the earlier wave fitted: “UFO over nearby village”, “police notified”, “MoD baffled or consulted”, and frightened local witnesses were all reportable local-news themes.
+The British Newspaper Archive’s Banbury Guardian index shows that UFO stories remained a recognisable local newspaper category in later years, including articles about alleged UFOs over Banbury in 1979 and a Ratley mystery aircraft sighting in 1978 that referred to police and Ministry of Defence interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> Those later snippets are not evidence for the 1971–72 sightings themselves, but they show the media environment into which the earlier wave fitted: “UFO over nearby village”, “police notified”, “MoD baffled or consulted”, and frightened local witnesses were all reportable local-news themes.
 
-Television amplified the wave more strongly than any single newspaper clipping. The BBC’s Man Alive episode “UFOs” was broadcast in early February 1972 and is repeatedly indexed as joining local UFO watchers around Banbury after “275 UFO sightings” had reportedly been made in recent weeks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://m.imdb.com/title/tt6190914/plotsummary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.imdb.com</span><span class="citation-popover-snippet">Open source on imdb.com.</span></span></span> BBC Archive social posts repeat the same core framing: Banbury had become a place where a large number of sightings drew skywatchers out despite poor weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BBCArchive/videos/1972-ufos-in-oxford-onthisday-1972-man-alive-joined-local-ufologists-in-banbury-/1936216870354343/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">1972 ufos in oxford onthisday 1972 man alive joined local ufologists in banbury</span><span class="citation-popover-snippet">1972 ufos in oxford onthisday 1972 man alive joined local ufologists in banbury</span></span></span>
+Television amplified the wave more strongly than any single newspaper clipping. The BBC’s Man Alive episode “UFOs” was broadcast in early February 1972 and is repeatedly indexed as joining local UFO watchers around Banbury after “275 UFO sightings” had reportedly been made in recent weeks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://m.imdb.com/title/tt6190914/plotsummary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.imdb.com</span><span class="citation-popover-snippet">Open source on imdb.com.</span></span></span> BBC Archive social posts repeat the same core framing: Banbury had become a place where a large number of sightings drew skywatchers out despite poor weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BBCArchive/videos/1972-ufos-in-oxford-onthisday-1972-man-alive-joined-local-ufologists-in-banbury-/1936216870354343/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">1972 ufos in oxford onthisday 1972 man alive joined local ufologists in banbury</span><span class="citation-popover-snippet">1972 ufos in oxford onthisday 1972 man alive joined local ufologists in banbury</span></span></span>
 
 That number should be read cautiously. “275 sightings” is a media figure, not a modern audited dataset with deduplicated cases, weather checks, aircraft correlations and witness interviews for each report. It does, however, convey scale. Even if many of the reports were weak, duplicated, or explainable, the figure shows that Banbury had become a recognised reporting centre by the winter of 1971–72.
 
-The wave also entered wider UFO debate. Timothy Good’s *Above Top Secret* refers to a televised public meeting at Banbury Town Hall on 26 January 1972, where a Ministry of Defence spokesman, Anthony Davies, was questioned about the Bentwaters/Lakenheath case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Above Top Secret</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Above Top Secret</span></span></span> That detail is not mainly important because of Bentwaters; it matters here because it shows Banbury’s flap had become a public forum for national UFO questions, not just a local curiosity.
+The wave also entered wider UFO debate. Timothy Good’s *Above Top Secret* refers to a televised public meeting at Banbury Town Hall on 26 January 1972, where a Ministry of Defence spokesman, Anthony Davies, was questioned about the Bentwaters/Lakenheath case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Above Top Secret</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Above Top Secret</span></span></span> That detail is not mainly important because of Bentwaters; it matters here because it shows Banbury’s flap had become a public forum for national UFO questions, not just a local curiosity.
 
 
 <img src="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-Illustration-2-dark.svg" | relative_url }}" alt="Banbury Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why aircraft explanations never went away
 
-The Banbury wave sat under a complicated sky. Northern Oxfordshire was close to Cold War aviation activity, and RAF [Upper Heyford]({{ 'upper-heyford/' | relative_url }}) was a major factor in later interpretations. A 1988 Hansard debate states that F-111 aircraft had been based at Upper Heyford since 1970, and describes the aircraft as noisy and locally significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1988/nov/30/raf-upper-heyford" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[API Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">raf upper heyford</span><span class="citation-popover-snippet">raf upper heyford</span></span></span> That date overlaps directly with the Banbury wave.
+The Banbury wave sat under a complicated sky. Northern Oxfordshire was close to Cold War aviation activity, and RAF [Upper Heyford]({{ 'upper-heyford/' | relative_url }}) was a major factor in later interpretations. A 1988 Hansard debate states that F-111 aircraft had been based at Upper Heyford since 1970, and describes the aircraft as noisy and locally significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1988/nov/30/raf-upper-heyford" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[API Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">raf upper heyford</span><span class="citation-popover-snippet">raf upper heyford</span></span></span> That date overlaps directly with the Banbury wave.
 
-For the 26 October 1971 daylight film, the most persistent sceptical explanation was fuel dumping or aircraft-related vapour from an F-111 associated with Upper Heyford. The BUFORA report itself records that the Ministry of Defence considered a plane dumping fuel to be the most likely explanation, while Stanway argued from witness evidence that this was “highly unlikely”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span> This disagreement is the heart of the case: the evidence was strong enough to demand a prosaic explanation, but the available public record was not strong enough to settle the argument.
+For the 26 October 1971 daylight film, the most persistent sceptical explanation was fuel dumping or aircraft-related vapour from an F-111 associated with Upper Heyford. The BUFORA report itself records that the Ministry of Defence considered a plane dumping fuel to be the most likely explanation, while Stanway argued from witness evidence that this was “highly unlikely”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Avalon Library</span></span></span> This disagreement is the heart of the case: the evidence was strong enough to demand a prosaic explanation, but the available public record was not strong enough to settle the argument.
 
 Several features pull in opposite directions. A vapour trail, a bright daylight object and a west-to-east path are all compatible with aviation. The reported pauses, apparent spinning, colour changes and rapid accelerations are harder to fit neatly, but those details depend on witness interpretation and viewing geometry. A distant aircraft changing angle, catching sunlight, leaving intermittent trail, or being seen through atmospheric conditions can appear stranger than it is. At the same time, simply saying “aircraft” does not fully answer why multiple witnesses described apparently unusual motion unless the timing, route and aircraft behaviour can be matched in detail.
 
-This is where Banbury’s case remains historically interesting rather than evidentially decisive. It illustrates the exact problem that runs through many UK UFO files: a report can be sincere, multi-witness and worth investigating, while still falling short of proving an unknown craft. The National Archives’ broader description of UFO reports as shapes, lights and flashes, often explainable but sometimes unusual, fits Banbury well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+This is where Banbury’s case remains historically interesting rather than evidentially decisive. It illustrates the exact problem that runs through many UK UFO files: a report can be sincere, multi-witness and worth investigating, while still falling short of proving an unknown craft. The National Archives’ broader description of UFO reports as shapes, lights and flashes, often explainable but sometimes unusual, fits Banbury well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnMSCKZ811Q" title="1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer">1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive &middot; Views: 22.8K &middot; Uploaded: August 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnMSCKZ811Q">Open on YouTube</a></p></div></div></div>
@@ -329,194 +329,194 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
 <img src="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-Illustration-3-dark.svg" | relative_url }}" alt="Banbury Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oxfordshire_491609_banbury_sighting_wav_55571d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Banbury Report So Many UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Banbury Report So Many UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding patterns and classifications of sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding patterns and classifications of sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers notable cases involving multiple witnesses and institutional attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers notable cases involving multiple witnesses and institutional attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Matches a UK sighting-wave page focused on reports, publicity and official interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a UK sighting-wave page focused on reports, publicity and official interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical perspective on clusters of reports and public reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical perspective on clusters of reports and public reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/aec77946d64ae5160cdc.jpg' | relative_url }}" alt="Listing image for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/aec77946d64ae5160cdc.jpg' | relative_url }}" alt="Listing image for American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Glasgow Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)"><img src="{{ '/assets/images/marketplace-covers/609a69e7a79fa0ba9f84.jpg' | relative_url }}" alt="Listing image for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)"><img src="{{ '/assets/images/marketplace-covers/609a69e7a79fa0ba9f84.jpg' | relative_url }}" alt="Listing image for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/c508e797108ba28595be.jpg' | relative_url }}" alt="Listing image for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/c508e797108ba28595be.jpg' | relative_url }}" alt="Listing image for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="banbury-wave-why-did-banbury-report-so-many-ufos-oxfordshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,270 +722,270 @@ That makes Banbury a useful case family for the wider Oxfordshire branch. It sit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: avalonlibrary.net  
    Title: Avalon Library  
-   Link: <a href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf</a>  
+   Link:<a href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/Research_Books_%26_Studies/1971%20-%20A%20Challenge%20to%20Science%20Banbury%20Film%20Case%20Roger%20Stanway.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribd.com  
    Title: UFO Timeline Chronology  
-   Link: <a href="https://www.scribd.com/document/55951253/UFO-Timeline-Chronology" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/55951253/UFO-Timeline-Chronology</a>  
+   Link:<a href="https://www.scribd.com/document/55951253/UFO-Timeline-Chronology" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/55951253/UFO-Timeline-Chronology</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: m.imdb.com  
-   Link: <a href="https://m.imdb.com/title/tt6190914/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://m.imdb.com/title/tt6190914/plotsummary/</a>  
+   Link:<a href="https://m.imdb.com/title/tt6190914/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://m.imdb.com/title/tt6190914/plotsummary/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt6190914/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt6190914/</a>  
+   Link:<a href="https://www.imdb.com/title/tt6190914/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt6190914/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: 1972 ufos in oxford onthisday 1972 man alive joined local ufologists in banbury  
-   Link: <a href="https://www.facebook.com/BBCArchive/videos/1972-ufos-in-oxford-onthisday-1972-man-alive-joined-local-ufologists-in-banbury-/1936216870354343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1972-ufos-in-oxford-onthisday-1972-man-alive-joined-local-ufologists-in-banbury-/1936216870354343/</a>  
+   Link:<a href="https://www.facebook.com/BBCArchive/videos/1972-ufos-in-oxford-onthisday-1972-man-alive-joined-local-ufologists-in-banbury-/1936216870354343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1972-ufos-in-oxford-onthisday-1972-man-alive-joined-local-ufologists-in-banbury-/1936216870354343/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: 1972 man alive ufos  
-   Link: <a href="https://www.facebook.com/BBCArchive/videos/1972-man-alive-ufos/504031970520752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1972-man-alive-ufos/504031970520752/</a>  
+   Link:<a href="https://www.facebook.com/BBCArchive/videos/1972-man-alive-ufos/504031970520752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1972-man-alive-ufos/504031970520752/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Above Top Secret"  
-   Link: <a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: api.parliament.uk  
    Title: raf upper heyford  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/1988/nov/30/raf-upper-heyford" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1988/nov/30/raf-upper-heyford</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/1988/nov/30/raf-upper-heyford" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1988/nov/30/raf-upper-heyford</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Banburyshireinfo/posts/10157301398376622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Banburyshireinfo/posts/10157301398376622/</a>  
+   Link:<a href="https://www.facebook.com/groups/Banburyshireinfo/posts/10157301398376622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Banburyshireinfo/posts/10157301398376622/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
+   Link:<a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Banburyshireinfo/posts/10162933272276622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Banburyshireinfo/posts/10162933272276622/</a>  
+   Link:<a href="https://www.facebook.com/groups/Banburyshireinfo/posts/10162933272276622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Banburyshireinfo/posts/10162933272276622/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: confirmed ufo sighting over penge 1968 sighting was by a 9 year old girl of ken  
-   Link: <a href="https://www.facebook.com/BromleyGloss/posts/-confirmed-ufo-sighting-over-penge-1968-sighting-was-by-a-9-year-old-girl-of-ken/2357456841204371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BromleyGloss/posts/-confirmed-ufo-sighting-over-penge-1968-sighting-was-by-a-9-year-old-girl-of-ken/2357456841204371/</a>  
+   Link:<a href="https://www.facebook.com/BromleyGloss/posts/-confirmed-ufo-sighting-over-penge-1968-sighting-was-by-a-9-year-old-girl-of-ken/2357456841204371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BromleyGloss/posts/-confirmed-ufo-sighting-over-penge-1968-sighting-was-by-a-9-year-old-girl-of-ken/2357456841204371/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cambridgeshirelive/posts/the-incident-is-among-the-most-famous-claimed-sightings-of-a-ufo-in-the-uk-/10158424970158031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cambridgeshirelive/posts/the-incident-is-among-the-most-famous-claimed-sightings-of-a-ufo-in-the-uk-/10158424970158031/</a>  
+   Link:<a href="https://www.facebook.com/cambridgeshirelive/posts/the-incident-is-among-the-most-famous-claimed-sightings-of-a-ufo-in-the-uk-/10158424970158031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cambridgeshirelive/posts/the-incident-is-among-the-most-famous-claimed-sightings-of-a-ufo-in-the-uk-/10158424970158031/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/184608231686712/posts/850418421772353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/184608231686712/posts/850418421772353/</a>  
+   Link:<a href="https://www.facebook.com/groups/184608231686712/posts/850418421772353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/184608231686712/posts/850418421772353/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBradyBunch/posts/the-bradys-show-a-policeman-photos-they-took-of-a-ufo/481308111167003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBradyBunch/posts/the-bradys-show-a-policeman-photos-they-took-of-a-ufo/481308111167003/</a>  
+   Link:<a href="https://www.facebook.com/TheBradyBunch/posts/the-bradys-show-a-policeman-photos-they-took-of-a-ufo/481308111167003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBradyBunch/posts/the-bradys-show-a-policeman-photos-they-took-of-a-ufo/481308111167003/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Banburyshireinfo/posts/10156402821961622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Banburyshireinfo/posts/10156402821961622/</a>  
+   Link:<a href="https://www.facebook.com/groups/Banburyshireinfo/posts/10156402821961622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Banburyshireinfo/posts/10156402821961622/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aiautomotiveart/posts/1291050055749538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aiautomotiveart/posts/1291050055749538/</a>  
+   Link:<a href="https://www.facebook.com/groups/aiautomotiveart/posts/1291050055749538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aiautomotiveart/posts/1291050055749538/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10162198540191696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162198540191696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10162198540191696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162198540191696/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/975315132574199/posts/9033029026802729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/975315132574199/posts/9033029026802729/</a>  
+   Link:<a href="https://www.facebook.com/groups/975315132574199/posts/9033029026802729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/975315132574199/posts/9033029026802729/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBroasterHut/posts/broaster-hut-uk-is-a-fast-food-restaurant-with-an-aim-to-offer-delicious-food-an/326789959025813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBroasterHut/posts/broaster-hut-uk-is-a-fast-food-restaurant-with-an-aim-to-offer-delicious-food-an/326789959025813/</a>  
+   Link:<a href="https://www.facebook.com/TheBroasterHut/posts/broaster-hut-uk-is-a-fast-food-restaurant-with-an-aim-to-offer-delicious-food-an/326789959025813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBroasterHut/posts/broaster-hut-uk-is-a-fast-food-restaurant-with-an-aim-to-offer-delicious-food-an/326789959025813/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/883140526322936/posts/1300910047879313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883140526322936/posts/1300910047879313/</a>  
+   Link:<a href="https://www.facebook.com/groups/883140526322936/posts/1300910047879313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883140526322936/posts/1300910047879313/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/videos/504031970520752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/504031970520752/</a>  
+   Link:<a href="https://www.facebook.com/BBCArchive/videos/504031970520752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/504031970520752/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0404629/episodes/?year=1972" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0404629/episodes/?year=1972</a>  
+   Link:<a href="https://www.imdb.com/title/tt0404629/episodes/?year=1972" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0404629/episodes/?year=1972</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/pt/title/tt6190914/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/pt/title/tt6190914/</a>  
+   Link:<a href="https://www.imdb.com/pt/title/tt6190914/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/pt/title/tt6190914/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Oxfordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Oxfordshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Oxfordshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Oxfordshire</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
    Title: Banbury Hundred  
-   Link: <a href="https://wikishire.co.uk/wiki/Banbury_Hundred" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Banbury_Hundred</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Banbury_Hundred" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Banbury_Hundred</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: macearchive.org  
    Title: atv today 26101971 ufo sighting atv film unit  
-   Link: <a href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit</a>  
+   Link:<a href="https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-26101971-ufo-sighting-atv-film-unit</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: macearchive.org  
    Title: atv today 11101971 ufo sightings banbury  
-   Link: <a href="https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury</a>  
+   Link:<a href="https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.macearchive.org/films/atv-today-11101971-ufo-sightings-banbury</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: prufospolicedatabase.co.uk  
-   Link: <a href="https://www.prufospolicedatabase.co.uk/2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prufospolicedatabase.co.uk/2.html</a>  
+   Link:<a href="https://www.prufospolicedatabase.co.uk/2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prufospolicedatabase.co.uk/2.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results?basicsearch=ufo&amp;newspapertitle=banbury%2Bguardian&amp;retrievecountrycounts=false&amp;somesearch=ufo&amp;sortorder=score</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Banbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banbury</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Banbury" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banbury</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: fightercontrol.co.uk  
    Title: Upper Heyford  
-   Link: <a href="https://www.fightercontrol.co.uk/forum/viewtopic.php?t=108146" target="_blank" rel="noopener noreferrer nofollow">https://www.fightercontrol.co.uk/forum/viewtopic.php?t=108146</a>  
+   Link:<a href="https://www.fightercontrol.co.uk/forum/viewtopic.php?t=108146" target="_blank" rel="noopener noreferrer nofollow">https://www.fightercontrol.co.uk/forum/viewtopic.php?t=108146</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Banbury</a>  
+   Link:<a href="https://www.britannica.com/place/Banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Banbury</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: modgov.cherwell.gov.uk  
    Title: cherwell.gov.uk Brighter Futures In BANBURY  
-   Link: <a href="https://modgov.cherwell.gov.uk/documents/s55592/Brighter%2BFutures%2BAnnual%2BReport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://modgov.cherwell.gov.uk/documents/s55592/Brighter%2BFutures%2BAnnual%2BReport.pdf</a>  
+   Link:<a href="https://modgov.cherwell.gov.uk/documents/s55592/Brighter%2BFutures%2BAnnual%2BReport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://modgov.cherwell.gov.uk/documents/s55592/Brighter%2BFutures%2BAnnual%2BReport.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: cherwell.gov.uk  
-   Link: <a href="https://www.cherwell.gov.uk/info/284/banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.cherwell.gov.uk/info/284/banbury</a>  
+   Link:<a href="https://www.cherwell.gov.uk/info/284/banbury" target="_blank" rel="noopener noreferrer nofollow">https://www.cherwell.gov.uk/info/284/banbury</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: westoxon.gov.uk  
-   Link: <a href="https://westoxon.gov.uk/media/vl2hn2bp/oxford-cambridge-arc-prospectus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://westoxon.gov.uk/media/vl2hn2bp/oxford-cambridge-arc-prospectus.pdf</a>  
+   Link:<a href="https://westoxon.gov.uk/media/vl2hn2bp/oxford-cambridge-arc-prospectus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://westoxon.gov.uk/media/vl2hn2bp/oxford-cambridge-arc-prospectus.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: banbury.gov.uk  
-   Link: <a href="https://banbury.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://banbury.gov.uk/</a>  
+   Link:<a href="https://banbury.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://banbury.gov.uk/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: heritagesearch.oxfordshire.gov.uk  
-   Link: <a href="https://heritagesearch.oxfordshire.gov.uk/mapping" target="_blank" rel="noopener noreferrer nofollow">https://heritagesearch.oxfordshire.gov.uk/mapping</a>  
+   Link:<a href="https://heritagesearch.oxfordshire.gov.uk/mapping" target="_blank" rel="noopener noreferrer nofollow">https://heritagesearch.oxfordshire.gov.uk/mapping</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Banbury 1971 UFO sightings at Banbury filmed by ATV Today on 11-10-1971 B C M...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Banbury 1971 UFO sightings at Banbury filmed by ATV Today on 11-10-1971 B C M...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TMSMpsmtRlo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Banbury Ballyhoo - Weird Retro UFO Encounters - High Strangeness Paranormal Entities...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TMSMpsmtRlo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TMSMpsmtRlo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Banbury Ballyhoo - Weird Retro UFO Encounters - High Strangeness Paranormal Entities...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_p9yTJaee6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_p9yTJaee6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/bbc_archive/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/bbc_archive/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/bbc_archive/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/bbc_archive/?hl=en</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?id=150651&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=150651&amp;source=osm</a>  
+   Link:<a href="https://mapy.com/en/?id=150651&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=150651&amp;source=osm</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/banbury_guardian/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/banbury_guardian/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/banbury_guardian/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/banbury_guardian/?hl=en</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/banbury-oxfordshire-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/banbury-oxfordshire-map.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/banbury-oxfordshire-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/banbury-oxfordshire-map.html</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Banbury%2C_Oxfordshire_2220" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Banbury%2C_Oxfordshire_2220</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Banbury%2C_Oxfordshire_2220" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Banbury%2C_Oxfordshire_2220</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/baldychops/44880820614" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/baldychops/44880820614</a>  
+   Link:<a href="https://www.flickr.com/photos/baldychops/44880820614" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/baldychops/44880820614</a>  

@@ -254,7 +254,7 @@ image: /assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-overview-social
 
 ## Introduction
 
-[Norfolk]({{ 'what-really-happened-in-norfolks-ufo/' | relative_url }})’s orange-light UFO reports are best understood as a modern sighting pattern, not as one single mystery. From Dereham in 2006 to Norwich, Lenwade, King’s Lynn and wider west Norfolk reports in 2009, witnesses repeatedly described slow, silent orange lights, often in groups or loose formations. That description matters because it closely matches the national “Chinese lantern” wave that the Ministry of Defence and National Archives later identified as a major driver of UK UFO reports in 2008–09. It does not mean every Norfolk orange light was definitely a lantern. It does mean that, for this particular pattern, the simplest explanation is often the strongest: small flame-lit sky lanterns drifting on the wind, seen at night by people who had not yet learned to recognise them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+[Norfolk]({{ 'what-really-happened-in-norfolks-ufo/' | relative_url }})’s orange-light UFO reports are best understood as a modern sighting pattern, not as one single mystery. From Dereham in 2006 to Norwich, Lenwade, King’s Lynn and wider west Norfolk reports in 2009, witnesses repeatedly described slow, silent orange lights, often in groups or loose formations. That description matters because it closely matches the national “Chinese lantern” wave that the Ministry of Defence and National Archives later identified as a major driver of UK UFO reports in 2008–09. It does not mean every Norfolk orange light was definitely a lantern. It does mean that, for this particular pattern, the simplest explanation is often the strongest: small flame-lit sky lanterns drifting on the wind, seen at night by people who had not yet learned to recognise them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-overview.webp" | relative_url }}" alt="Overview image for Orange Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,15 +262,15 @@ image: /assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-overview-social
 
 Older UFO stories in Norfolk tend to centre on radar, airbases or Cold War military links. The orange-light reports are different. They belong to the 2000s period when cheap sky lanterns, mobile-phone cameras and local online news combined to make drifting lights feel both mysterious and widely shared.
 
-The pattern is easy to see in the official sighting logs. On 20 May 2006, an MoD-listed report from East Dereham described orange lights “in formation” and “travelling quite slowly”. On 7 February 2009, another report, between Norwich and Lenwade, described ten orange orbs with slightly pulsating orange lights, no navigation lights and no noise. Those details are important: silence, warm colour, loose grouping, slow travel and fading brightness are all common in lantern-style reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The pattern is easy to see in the official sighting logs. On 20 May 2006, an MoD-listed report from East Dereham described orange lights “in formation” and “travelling quite slowly”. On 7 February 2009, another report, between Norwich and Lenwade, described ten orange orbs with slightly pulsating orange lights, no navigation lights and no noise. Those details are important: silence, warm colour, loose grouping, slow travel and fading brightness are all common in lantern-style reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The National Archives’ 2013 UFO highlights guide gives the wider national context. It says MoD reports averaged about 150 a year from 2000 to 2007, doubled in 2008, and reached 643 by 30 November 2009. The same guide links many of those reports to Chinese lanterns, especially “formations of orange lights” filmed by the public during summer evenings, barbecues and outdoor gatherings. Norfolk’s reports fit that broader British spike rather than standing apart as a uniquely local phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The National Archives’ 2013 UFO highlights guide gives the wider national context. It says MoD reports averaged about 150 a year from 2000 to 2007, doubled in 2008, and reached 643 by 30 November 2009. The same guide links many of those reports to Chinese lanterns, especially “formations of orange lights” filmed by the public during summer evenings, barbecues and outdoor gatherings. Norfolk’s reports fit that broader British spike rather than standing apart as a uniquely local phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 ## Norwich and Dereham reports
 
 The Dereham and Norwich-area sightings show why these cases can feel persuasive at first glance. A single orange light can be dismissed as an aircraft, planet or flare; several orange lights moving together look more structured. To a witness, especially at night, a line or cluster can suggest purposeful formation flying.
 
-The Dereham entry from 2006 is short, but it has the classic features: orange lights, formation, slow movement. The Norwich-Lenwade entry from 2009 adds more: ten orbs, slight pulsation, no aircraft-style navigation lights and no sound. None of that proves lanterns, but none of it requires a craft either. A group of lanterns released together can spread out, rise, drift, flicker and vanish one by one as the fuel cells burn down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Dereham entry from 2006 is short, but it has the classic features: orange lights, formation, slow movement. The Norwich-Lenwade entry from 2009 adds more: ten orbs, slight pulsation, no aircraft-style navigation lights and no sound. None of that proves lanterns, but none of it requires a craft either. A group of lanterns released together can spread out, rise, drift, flicker and vanish one by one as the fuel cells burn down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 That is why these reports are better treated as pattern evidence than as strong individual cases. They show what Norfolk residents were seeing and reporting, but the records are brief. They do not include precise wind checks, launch-site searches, triangulation, radar confirmation or recovered objects. Without those, the most responsible conclusion is not “alien craft” or “definitely lanterns”, but “consistent with the lantern wave, unless extra evidence says otherwise”.
 
@@ -278,11 +278,11 @@ That is why these reports are better treated as pattern evidence than as strong 
 <img src="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-Illustration-1-dark.svg" | relative_url }}" alt="Orange Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## King’s Lynn and west Norfolk sightings
 
-West Norfolk added another useful clue: geography. Around King’s Lynn, the Wash and the north Norfolk coast, drifting lights can also be confused with distress flares, aircraft, coastal activity or distant lights distorted by weather. The National Archives guide notes that in summer 2009 maritime authorities elsewhere in Britain dealt with false alarms caused by people releasing Chinese lanterns, because observers mistook them for distress flares. That is directly relevant to west Norfolk, where the coastline and Wash make “orange light over the horizon” a safety question as well as a UFO question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+West Norfolk added another useful clue: geography. Around King’s Lynn, the Wash and the north Norfolk coast, drifting lights can also be confused with distress flares, aircraft, coastal activity or distant lights distorted by weather. The National Archives guide notes that in summer 2009 maritime authorities elsewhere in Britain dealt with false alarms caused by people releasing Chinese lanterns, because observers mistook them for distress flares. That is directly relevant to west Norfolk, where the coastline and Wash make “orange light over the horizon” a safety question as well as a UFO question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-A King’s Lynn forum discussion from April 2009 repeated the East Dereham MoD entry and framed west Norfolk orange objects as part of the same local UFO conversation. It is not as strong as an official file, but it shows how local reporting circulated: a brief MoD line became a community discussion point, inviting readers to compare their own sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kingslynn-forums.co.uk/viewtopic.php?f=5&amp;t=3859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kingslynn-forums.co.uk">[Kings Lynn Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kingslynn-forums.co.uk</span><span class="citation-popover-title">Kings Lynn Forums KLF • View topic</span><span class="citation-popover-snippet">Kings Lynn Forums KLF • View topic</span></span></span>
+A King’s Lynn forum discussion from April 2009 repeated the East Dereham MoD entry and framed west Norfolk orange objects as part of the same local UFO conversation. It is not as strong as an official file, but it shows how local reporting circulated: a brief MoD line became a community discussion point, inviting readers to compare their own sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kingslynn-forums.co.uk/viewtopic.php?f=5&amp;t=3859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kingslynn-forums.co.uk">[Kings Lynn Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kingslynn-forums.co.uk</span><span class="citation-popover-title">Kings Lynn Forums KLF • View topic</span><span class="citation-popover-snippet">Kings Lynn Forums KLF • View topic</span></span></span>
 
-That local echo matters because UFO waves often grow socially. Once newspapers, forums and neighbours are talking about orange orbs, people are more likely to watch the sky, photograph ambiguous lights and report similar things. The National Archives made the same point nationally: press coverage and public awareness helped encourage more reports during the 2008–09 surge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+That local echo matters because UFO waves often grow socially. Once newspapers, forums and neighbours are talking about orange orbs, people are more likely to watch the sky, photograph ambiguous lights and report similar things. The National Archives made the same point nationally: press coverage and public awareness helped encourage more reports during the 2008–09 surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 ## Why Chinese lanterns explain so much
 
@@ -302,7 +302,7 @@ The strongest lantern clues in Norfolk-style reports are:
 
 </div>
 
-The MoD and National Archives did not argue that every orange light was a lantern. Their point was narrower and stronger: many reports from that period described exactly the kind of orange, silent, clustered lights that lanterns produce, and many witnesses were seeing them for the first time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD and National Archives did not argue that every orange light was a lantern. Their point was narrower and stronger: many reports from that period described exactly the kind of orange, silent, clustered lights that lanterns produce, and many witnesses were seeing them for the first time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0dMlej9QJg" title="UFO file release June 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer">UFO file release June 2013</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 120.0K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0dMlej9QJg">Open on YouTube</a></p></div></div></div>
@@ -321,9 +321,9 @@ The key difference is behaviour. A meteor is fast and brief. Aircraft usually sh
 
 Calling these reports “probably lanterns” can sound like a brush-off, but it is actually a useful explanation because it fits the evidence and the period. It also explains why sincere witnesses could be unsettled. A group of orange lights moving silently over a dark Norfolk skyline is genuinely striking if the observer has never seen sky lanterns before.
 
-The Civil Aviation Authority treats sky lantern releases as an aviation matter, not as a joke. Its CAP 736 guidance covers sky lanterns, balloons, fireworks and directed lights in UK airspace, and explains that notification helps aviation users assess and reduce risks. Norfolk County Council has also banned sky lantern and balloon releases on county-owned land, citing fire hazards, harm to farmland, woodland, wildlife and livestock, and uncertainty over where lanterns will land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span>
+The Civil Aviation Authority treats sky lantern releases as an aviation matter, not as a joke. Its CAP 736 guidance covers sky lanterns, balloons, fireworks and directed lights in UK airspace, and explains that notification helps aviation users assess and reduce risks. Norfolk County Council has also banned sky lantern and balloon releases on county-owned land, citing fire hazards, harm to farmland, woodland, wildlife and livestock, and uncertainty over where lanterns will land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span>
 
-That practical risk is part of the UFO story. Lanterns do not just explain sightings; they create real-world confusion. Fire services, coastguards, pilots and local authorities have to deal with lights that can be mistaken for aircraft problems, distress flares or unexplained objects. The National Fire Chiefs Council specifically notes that lanterns may be mistaken for distress flares or UFOs, while also posing fire and livestock risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCSky Lanterns</span><span class="citation-popover-snippet">NFCCSky Lanterns</span></span></span>
+That practical risk is part of the UFO story. Lanterns do not just explain sightings; they create real-world confusion. Fire services, coastguards, pilots and local authorities have to deal with lights that can be mistaken for aircraft problems, distress flares or unexplained objects. The National Fire Chiefs Council specifically notes that lanterns may be mistaken for distress flares or UFOs, while also posing fire and livestock risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCSky Lanterns</span><span class="citation-popover-snippet">NFCCSky Lanterns</span></span></span>
 
 
 <img src="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-Illustration-2-dark.svg" | relative_url }}" alt="Orange Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17_orange_lights_lanter_bd9f0f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -349,194 +349,194 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Norfolk&#x27;s Orange Lights UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Norfolk&#x27;s Orange Lights UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how aerial sightings are classified and investigated, matching the article&#x27;s focus on interpreting reported lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how aerial sightings are classified and investigated, matching the article&#x27;s focus on interpreting reported lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to British UFO reporting, official investigations, and the wider UK context behind orange-light sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to British UFO reporting, official investigations, and the wider UK context behind orange-light sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced survey of notable cases and official testimony, useful background for readers interested in unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced survey of notable cases and official testimony, useful background for readers interested in unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s emphasis on evaluating ordinary explanations before accepting extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s emphasis on evaluating ordinary explanations before accepting extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print"><img src="{{ '/assets/images/marketplace-covers/a8c8d7123fc0c679918a.jpg' | relative_url }}" alt="Listing image for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print"><img src="{{ '/assets/images/marketplace-covers/a8c8d7123fc0c679918a.jpg' | relative_url }}" alt="Listing image for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/d17516fa652c6f7f0ae9.jpg' | relative_url }}" alt="Listing image for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/d17516fa652c6f7f0ae9.jpg' | relative_url }}" alt="Listing image for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)"><img src="{{ '/assets/images/marketplace-covers/609a69e7a79fa0ba9f84.jpg' | relative_url }}" alt="Listing image for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)"><img src="{{ '/assets/images/marketplace-covers/609a69e7a79fa0ba9f84.jpg' | relative_url }}" alt="Listing image for Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Picture Postcard_ AVIATION POSTER POSTCARD, SCOTLAND, FLY B.O.A.C. (REPRO)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="orange-lights-c6cbe7-were-norfolk-s-orange-lights-ufos-norfolk-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,145 +742,145 @@ The fairest verdict is cautious but fairly firm: most Norfolk orange-light repor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/39022/Sky-lanterns-and-balloon-release-charter" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/39022/Sky-lanterns-and-balloon-release-charter</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/39022/Sky-lanterns-and-balloon-release-charter" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/39022/Sky-lanterns-and-balloon-release-charter</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nfcc.org.uk  
    Title: NFCCSky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csapps.norfolk.gov.uk  
-   Link: <a href="https://csapps.norfolk.gov.uk/csshared/ecourier2/news.asp?itemid=43709" target="_blank" rel="noopener noreferrer nofollow">https://csapps.norfolk.gov.uk/csshared/ecourier2/news.asp?itemid=43709</a>  
+   Link:<a href="https://csapps.norfolk.gov.uk/csshared/ecourier2/news.asp?itemid=43709" target="_blank" rel="noopener noreferrer nofollow">https://csapps.norfolk.gov.uk/csshared/ecourier2/news.asp?itemid=43709</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/38581/Reduce-your-waste" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/38581/Reduce-your-waste</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/38581/Reduce-your-waste" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/38581/Reduce-your-waste</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/43803/Specialist-fire-safety-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43803/Specialist-fire-safety-advice</a>  
+   Link:<a href="https://www.norfolk.gov.uk/article/43803/Specialist-fire-safety-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43803/Specialist-fire-safety-advice</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: democracy.west-norfolk.gov.uk  
    Title: west-norfolk.gov.uk Issue  
-   Link: <a href="https://democracy.west-norfolk.gov.uk/ieIssueDetails.aspx?IId=38192&amp;Opt=3" target="_blank" rel="noopener noreferrer nofollow">https://democracy.west-norfolk.gov.uk/ieIssueDetails.aspx?IId=38192&amp;Opt=3</a>  
+   Link:<a href="https://democracy.west-norfolk.gov.uk/ieIssueDetails.aspx?IId=38192&amp;Opt=3" target="_blank" rel="noopener noreferrer nofollow">https://democracy.west-norfolk.gov.uk/ieIssueDetails.aspx?IId=38192&amp;Opt=3</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: democracy.west-norfolk.gov.uk  
    Title: mg Ai.aspx  
-   Link: <a href="https://democracy.west-norfolk.gov.uk/mgAi.aspx?ID=34113" target="_blank" rel="noopener noreferrer nofollow">https://democracy.west-norfolk.gov.uk/mgAi.aspx?ID=34113</a>  
+   Link:<a href="https://democracy.west-norfolk.gov.uk/mgAi.aspx?ID=34113" target="_blank" rel="noopener noreferrer nofollow">https://democracy.west-norfolk.gov.uk/mgAi.aspx?ID=34113</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: norfolkprepared.gov.uk  
-   Link: <a href="https://www.norfolkprepared.gov.uk/article/63778/Wildfires" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolkprepared.gov.uk/article/63778/Wildfires</a>  
+   Link:<a href="https://www.norfolkprepared.gov.uk/article/63778/Wildfires" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolkprepared.gov.uk/article/63778/Wildfires</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: northantsfire.gov.uk  
    Title: warnings about sky lantern fire risk  
-   Link: <a href="https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/</a>  
+   Link:<a href="https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: committees.bolsover.gov.uk  
    Title: 6. Briefing Paper Sky Lanterns and Helium Balloons  
-   Link: <a href="https://committees.bolsover.gov.uk/documents/s16138/6.%20Briefing%20Paper%20-%20Sky%20Lanterns%20and%20Helium%20Balloons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://committees.bolsover.gov.uk/documents/s16138/6.%20Briefing%20Paper%20-%20Sky%20Lanterns%20and%20Helium%20Balloons.pdf</a>  
+   Link:<a href="https://committees.bolsover.gov.uk/documents/s16138/6.%20Briefing%20Paper%20-%20Sky%20Lanterns%20and%20Helium%20Balloons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://committees.bolsover.gov.uk/documents/s16138/6.%20Briefing%20Paper%20-%20Sky%20Lanterns%20and%20Helium%20Balloons.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kingslynn-forums.co.uk  
    Title: Kings Lynn Forums KLF • View topic  
-   Link: <a href="https://www.kingslynn-forums.co.uk/viewtopic.php?f=5&amp;t=3859" target="_blank" rel="noopener noreferrer nofollow">https://www.kingslynn-forums.co.uk/viewtopic.php?f=5&amp;t=3859</a>  
+   Link:<a href="https://www.kingslynn-forums.co.uk/viewtopic.php?f=5&amp;t=3859" target="_blank" rel="noopener noreferrer nofollow">https://www.kingslynn-forums.co.uk/viewtopic.php?f=5&amp;t=3859</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority CAP 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F0dMlej9QJg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO file release&quot; &quot;National Archives&quot; UFO file release February 2010 The National Archives UK...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F0dMlej9QJg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO file release&quot; &quot;National Archives&quot; UFO file release February 2010 The National Archives UK...</p></details>
    Published: June 2013  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NorthNorfolkDC/status/1493940820721950723" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NorthNorfolkDC/status/1493940820721950723</a>  
+   Link:<a href="https://x.com/NorthNorfolkDC/status/1493940820721950723" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NorthNorfolkDC/status/1493940820721950723</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/</a>  
+   Link:<a href="https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mcsuk.org  
-   Link: <a href="https://www.mcsuk.org/what-we-do/pollution/marine-litter/plastic/dontletgo/dont-let-go-councils/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcsuk.org/what-we-do/pollution/marine-litter/plastic/dontletgo/dont-let-go-councils/</a>  
+   Link:<a href="https://www.mcsuk.org/what-we-do/pollution/marine-litter/plastic/dontletgo/dont-let-go-councils/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcsuk.org/what-we-do/pollution/marine-litter/plastic/dontletgo/dont-let-go-councils/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211937906243123/posts/2158624711574423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211937906243123/posts/2158624711574423/</a>  
+   Link:<a href="https://www.facebook.com/groups/211937906243123/posts/2158624711574423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211937906243123/posts/2158624711574423/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hiddenea.com  
-   Link: <a href="https://www.hiddenea.com/Lantern%2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hiddenea.com/Lantern%2018.pdf</a>  
+   Link:<a href="https://www.hiddenea.com/Lantern%2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hiddenea.com/Lantern%2018.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Norwich/comments/1pbnppt/orange_glow_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Norwich/comments/1pbnppt/orange_glow_in_the_sky/</a>  
+   Link:<a href="https://www.reddit.com/r/Norwich/comments/1pbnppt/orange_glow_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Norwich/comments/1pbnppt/orange_glow_in_the_sky/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rspca.org.uk  
-   Link: <a href="https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns</a>  
+   Link:<a href="https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.rspca.org.uk/adviceandwelfare/litter/skylanterns</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hwfire.org.uk  
-   Link: <a href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/</a>  
+   Link:<a href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/</a>  

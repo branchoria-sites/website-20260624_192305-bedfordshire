@@ -118,9 +118,9 @@ heading_title: What Really Happened in East Lothian's UFO Files?
 page_heading_title: What Really Happened in East Lothian's UFO Files?
 source_count: 132
 infographic_count: 3
-page_website_name: East Lothian UFOs
+page_website_name: East Lothian
 page_banner_line: Balanced county-level UFO history from MoD records, local skies and aviation context.
-site_website_name: East Lothian UFOs
+site_website_name: East Lothian
 site_banner_line: Balanced county-level UFO history from MoD records, local skies and aviation context.
 site_image_description: A night view over the East Lothian coast with low hills, farmland, a distant airfield, and several small coloured lights in the sky.
 output_language: English
@@ -689,26 +689,26 @@ image: /assets/images/East_Lothian_a7dd3d-overview-social.jpg
 
 ## Which East Lothian is meant here?
 
-For this project, East Lothian is treated primarily as the historic county, also known as Haddingtonshire, rather than simply the present council area. That distinction matters because modern East Lothian and historic East Lothian do not perfectly match: Britannica notes that the Musselburgh area is in the modern East Lothian council area but historically belongs to Midlothian, while part of the Lammermuir Hills belongs to historic East Lothian but is now in the Scottish Borders council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/East-Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+For this project, East Lothian is treated primarily as the historic county, also known as Haddingtonshire, rather than simply the present council area. That distinction matters because modern East Lothian and historic East Lothian do not perfectly match: Britannica notes that the Musselburgh area is in the modern East Lothian council area but historically belongs to Midlothian, while part of the Lammermuir Hills belongs to historic East Lothian but is now in the Scottish Borders council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/East-Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/East_Lothian_a7dd3d-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in East Lothian&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-The historic county is a coastal shire on the south side of the Firth of Forth and the North Sea, with Haddington as county town and a long shoreline running through or near places such as Dunbar, North Berwick, Gullane, Aberlady and East Linton. Wikishire describes the county as having a 41-mile coast, low northern farmland, and higher ground in the Lammermuirs, with prominent local features including Traprain Law and North Berwick Law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/East_Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire East Lothian</span><span class="citation-popover-snippet">Wikishire East Lothian</span></span></span>
+The historic county is a coastal shire on the south side of the Firth of Forth and the North Sea, with Haddington as county town and a long shoreline running through or near places such as Dunbar, North Berwick, Gullane, Aberlady and East Linton. Wikishire describes the county as having a 41-mile coast, low northern farmland, and higher ground in the Lammermuirs, with prominent local features including Traprain Law and North Berwick Law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/East_Lothian" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire East Lothian</span><span class="citation-popover-snippet">Wikishire East Lothian</span></span></span>
 
-That geography shapes the UFO record. A light seen over East Lothian may be connected with Edinburgh’s airspace, aircraft over the Firth of Forth, activity near East Fortune, astronomical objects low over the coast, or weather forming over hills. The boundary question is especially important for reports listed vaguely as “Lothian”, “Edinburgh”, “Midlothian” or “Fife” in old MoD tables, because those entries may be nearby but are not automatically East Lothian cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+That geography shapes the UFO record. A light seen over East Lothian may be connected with Edinburgh’s airspace, aircraft over the Firth of Forth, activity near East Fortune, astronomical objects low over the coast, or weather forming over hills. The boundary question is especially important for reports listed vaguely as “Lothian”, “Edinburgh”, “Midlothian” or “Fife” in old MoD tables, because those entries may be nearby but are not automatically East Lothian cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RFCIysiiaNo" title="Scientists Still Can’t Explain What Happened to These Two Men - The A70 story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RFCIysiiaNo" target="_blank" rel="noopener noreferrer">Scientists Still Can’t Explain What Happened to These Two Men - The A70 story</a></p><p class="youtube-embed-meta">Channel: Motech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RFCIysiiaNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RFCIysiiaNo">Open on YouTube</a></p></div></div></div>
 
 ## What the MoD records actually show
 
-The most useful public source for East Lothian UFO reports is the MoD’s annual UFO report list for 1997 to 2009. GOV.UK describes these as UK UFO reports giving the date, time, location and a brief description of each sighting. The lists are valuable because they preserve many reports that might otherwise have disappeared into local rumour, but they are also limited: most entries are one-line summaries, not full case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The most useful public source for East Lothian UFO reports is the MoD’s annual UFO report list for 1997 to 2009. GOV.UK describes these as UK UFO reports giving the date, time, location and a brief description of each sighting. The lists are valuable because they preserve many reports that might otherwise have disappeared into local rumour, but they are also limited: most entries are one-line summaries, not full case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The clearest East Lothian cluster appears in 1999. On 9 January 1999 at 21:37, a report from Dunbar, East Lothian, described “one light” with red, green and yellow alternating lights. On 29 March 1999 at 21:00, a Tranent report described a “star shape” coloured red, green and blue. Both descriptions are classic examples of ambiguous night-light reports: they are specific enough to be interesting, but too short to establish size, distance, altitude, direction, duration, weather, or whether the object was checked against aircraft or astronomical data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The clearest East Lothian cluster appears in 1999. On 9 January 1999 at 21:37, a report from Dunbar, East Lothian, described “one light” with red, green and yellow alternating lights. On 29 March 1999 at 21:00, a Tranent report described a “star shape” coloured red, green and blue. Both descriptions are classic examples of ambiguous night-light reports: they are specific enough to be interesting, but too short to establish size, distance, altitude, direction, duration, weather, or whether the object was checked against aircraft or astronomical data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-A later East Lothian entry appears in the 2005 MoD list: “Harrington East Lothian”, with the note that the witness “just said that it was a UFO” and that it was seen sometime in December 2005. This entry needs caution. “Harrington” is not an obvious East Lothian place-name in the same way as Haddington, and the entry may be a spelling, transcription or reporting error. As evidence, it is weak: no time, no shape, no movement, no duration and no corroboration are included. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+A later East Lothian entry appears in the 2005 MoD list: “Harrington East Lothian”, with the note that the witness “just said that it was a UFO” and that it was seen sometime in December 2005. This entry needs caution. “Harrington” is not an obvious East Lothian place-name in the same way as Haddington, and the entry may be a spelling, transcription or reporting error. As evidence, it is weak: no time, no shape, no movement, no duration and no corroboration are included.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2006 list gives a more recognisable East Lothian location. On 29 September 2006, East Linton, East Lothian, is recorded with the description “a big, round, swirly thing in the sky.” This is vivid but still thin. “Round” and “swirly” could suggest cloud, searchlight, atmospheric optical effect, smoke, a balloon, or an object seen through disturbed cloud, but the public summary does not provide enough detail to choose confidently between those possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The 2006 list gives a more recognisable East Lothian location. On 29 September 2006, East Linton, East Lothian, is recorded with the description “a big, round, swirly thing in the sky.” This is vivid but still thin. “Round” and “swirly” could suggest cloud, searchlight, atmospheric optical effect, smoke, a balloon, or an object seen through disturbed cloud, but the public summary does not provide enough detail to choose confidently between those possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in East Lothian&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -716,24 +716,24 @@ The 2006 list gives a more recognisable East Lothian location. On 29 September 2
 
 East Lothian is not an isolated dark-sky wilderness. It sits beside Edinburgh, the Firth of Forth and historic aviation sites, while also having coast, hills and open farmland. That mix creates many opportunities for sincere witnesses to see something real but misidentify it.
 
-Aircraft are the most obvious factor. East Fortune Airfield, now the home of the National Museum of Flight, is in East Lothian, and the Airfields of Britain Conservation Trust notes that runways and historic buildings remain, with microlight flying still taking place on part of the runway. The same source records East Fortune’s military history, including wartime units, post-war closure, allocation to the USAF in 1950, and brief use as Edinburgh Airport in 1961 during runway work at Turnhouse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/east-fortune/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-title">Airfields of Britain Conservation Trust East Fortune</span><span class="citation-popover-snippet">Airfields of Britain Conservation Trust East Fortune</span></span></span>
+Aircraft are the most obvious factor. East Fortune Airfield, now the home of the National Museum of Flight, is in East Lothian, and the Airfields of Britain Conservation Trust notes that runways and historic buildings remain, with microlight flying still taking place on part of the runway. The same source records East Fortune’s military history, including wartime units, post-war closure, allocation to the USAF in 1950, and brief use as Edinburgh Airport in 1961 during runway work at Turnhouse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/east-fortune/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-title">Airfields of Britain Conservation Trust East Fortune</span><span class="citation-popover-snippet">Airfields of Britain Conservation Trust East Fortune</span></span></span>
 
-The modern visitor-facing evidence of that aviation heritage is still prominent: National Museums Scotland lists the National Museum of Flight at East Fortune Airfield, East Lothian. That does not explain any particular UFO report by itself, but it does mean aircraft culture, air displays, microlights and remembered military associations are part of the county’s skywatching context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nms.ac.uk/national-museum-of-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nms.ac.uk">[National Museums Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nms.ac.uk</span><span class="citation-popover-title">National Museums Scotland National Museum of Flight &#124; National Museums Scotland</span><span class="citation-popover-snippet">National Museums Scotland National Museum of Flight &#124; National Museums Scotland</span></span></span>
+The modern visitor-facing evidence of that aviation heritage is still prominent: National Museums Scotland lists the National Museum of Flight at East Fortune Airfield, East Lothian. That does not explain any particular UFO report by itself, but it does mean aircraft culture, air displays, microlights and remembered military associations are part of the county’s skywatching context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nms.ac.uk/national-museum-of-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nms.ac.uk">[National Museums Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nms.ac.uk</span><span class="citation-popover-title">National Museums Scotland National Museum of Flight &#124; National Museums Scotland</span><span class="citation-popover-snippet">National Museums Scotland National Museum of Flight &#124; National Museums Scotland</span></span></span>
 
-Astronomy is another common source of confusion. Royal Museums Greenwich notes that very bright white lights are often Jupiter or Venus, and that Venus can be strikingly bright. It also points out that stars can appear to twinkle and change colour, with Sirius in Britain sometimes flashing blue, red and other colours. This is directly relevant to East Lothian’s 1999 Dunbar and Tranent entries, because both emphasise [coloured lights]({{ 'coloured-lights/' | relative_url }}) rather than a clearly structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+Astronomy is another common source of confusion. Royal Museums Greenwich notes that very bright white lights are often Jupiter or Venus, and that Venus can be strikingly bright. It also points out that stars can appear to twinkle and change colour, with Sirius in Britain sometimes flashing blue, red and other colours. This is directly relevant to East Lothian’s 1999 Dunbar and Tranent entries, because both emphasise [coloured lights]({{ 'coloured-lights/' | relative_url }}) rather than a clearly structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
-Weather matters too. The Met Office explains that lenticular clouds can look like the classic “flying saucer” shape and are among the common explanations for UFO sightings worldwide. They form when air flows over hills or mountains, setting up standing waves in which moisture condenses. East Lothian’s Lammermuir edge, Traprain Law, North Berwick Law and coastal weather do not prove a lenticular-cloud explanation for any particular report, but they make cloud and atmospheric explanations especially worth checking before treating a sighting as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
+Weather matters too. The Met Office explains that lenticular clouds can look like the classic “flying saucer” shape and are among the common explanations for UFO sightings worldwide. They form when air flows over hills or mountains, setting up standing waves in which moisture condenses. East Lothian’s Lammermuir edge, Traprain Law, North Berwick Law and coastal weather do not prove a lenticular-cloud explanation for any particular report, but they make cloud and atmospheric explanations especially worth checking before treating a sighting as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
 
-Sky lanterns are also relevant to later reports involving orange or drifting lights, though the East Lothian entries above are not all obvious lantern cases. The Civil Aviation Authority warns that sky lanterns vary in size and performance, can travel considerable distances at unpredictable heights on prevailing winds, and may create aviation risks. In UFO-reporting terms, that same behaviour can make them look purposeful, silent and hard to judge for distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span>
+Sky lanterns are also relevant to later reports involving orange or drifting lights, though the East Lothian entries above are not all obvious lantern cases. The Civil Aviation Authority warns that sky lanterns vary in size and performance, can travel considerable distances at unpredictable heights on prevailing winds, and may create aviation risks. In UFO-reporting terms, that same behaviour can make them look purposeful, silent and hard to judge for distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority CAP 736</span><span class="citation-popover-snippet">Civil Aviation Authority CAP 736</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhVELCYJpyc" title="The A70 UFO case: The Night Aliens Came to Edinburgh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhVELCYJpyc" target="_blank" rel="noopener noreferrer">The A70 UFO case: The Night Aliens Came to Edinburgh</a></p><p class="youtube-embed-meta">Channel: Eerie Edinburgh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhVELCYJpyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhVELCYJpyc">Open on YouTube</a></p></div></div></div>
 
 ## What official investigation did, and did not, mean
 
-A report appearing in an MoD list does not mean the MoD verified an extraordinary object. It means the report was received and logged. The public annual tables are often closer to an index than an investigation file: date, time, place and a short description. For East Lothian, that is a crucial limitation because the public summaries do not show follow-up interviews, radar checks, meteorological analysis or aviation cross-checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+A report appearing in an MoD list does not mean the MoD verified an extraordinary object. It means the report was received and logged. The public annual tables are often closer to an index than an investigation file: date, time, place and a short description. For East Lothian, that is a crucial limitation because the public summaries do not show follow-up interviews, radar checks, meteorological analysis or aviation cross-checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The broader UK policy also argues against over-reading these entries. In a December 2024 parliamentary answer, the Ministry of Defence said that, in more than 50 years, no sighting reported to the Department had indicated a military threat to the UK. The same answer stated that the MoD stopped investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released its pre-2009 UFO files to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The broader UK policy also argues against over-reading these entries. In a December 2024 parliamentary answer, the Ministry of Defence said that, in more than 50 years, no sighting reported to the Department had indicated a military threat to the UK. The same answer stated that the MoD stopped investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had released its pre-2009 UFO files to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
 That does not make every East Lothian report “explained”. It means the official record does not elevate them into high-confidence cases. The difference is important: unresolved is not the same as extraordinary. A report can remain unexplained simply because the original information was too brief, too late, or too imprecise to test.
 
@@ -741,9 +741,9 @@ That does not make every East Lothian report “explained”. It means the offic
 <img src="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in East Lothian&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## East Lothian’s strongest and weakest claims
 
-The strongest East Lothian material is not strong in the sense of proving an unknown craft; it is strong because it is traceable to official public records. The Dunbar, Tranent and East Linton entries can be located in MoD annual lists, with dates and locations. They are therefore better evidence for “people reported unusual lights or objects in East Lothian” than for any specific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The strongest East Lothian material is not strong in the sense of proving an unknown craft; it is strong because it is traceable to official public records. The Dunbar, Tranent and East Linton entries can be located in MoD annual lists, with dates and locations. They are therefore better evidence for “people reported unusual lights or objects in East Lothian” than for any specific explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The weakest material is the material that survives only as vague local chatter, social media fragments, or highly compressed descriptions. The 2005 “Harrington East Lothian” entry is weak even though it is official, because it gives no useful observational detail and may contain a place-name problem. The East Linton “big, round, swirly thing” report is more colourful, but still lacks the basic information needed for a serious reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The weakest material is the material that survives only as vague local chatter, social media fragments, or highly compressed descriptions. The 2005 “Harrington East Lothian” entry is weak even though it is official, because it gives no useful observational detail and may contain a place-name problem. The East Linton “big, round, swirly thing” report is more colourful, but still lacks the basic information needed for a serious reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 The best sceptical reading is therefore modest. East Lothian has documented UFO reports, but no public case in the released material appears to have the combination of multiple independent witnesses, instrument evidence, clear photographs, official investigation notes and durable later analysis that would place it among Britain’s major UFO incidents.
 
@@ -752,7 +752,7 @@ The best sceptical reading is therefore modest. East Lothian has documented UFO 
 
 ## How East Lothian fits the wider Scottish picture
 
-East Lothian sits close to better-known Scottish UFO material, but it should not be swallowed by it. Reports from Edinburgh, West Lothian, Midlothian, Fife or the wider Lothian region may help explain patterns of aircraft, weather and media coverage, yet they are not automatically East Lothian cases. The MoD tables themselves show how messy this can get: some entries label Edinburgh with unexpected county fields, including “Fife” or “Lothian”, which is a warning against treating every nearby record as clean county evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+East Lothian sits close to better-known Scottish UFO material, but it should not be swallowed by it. Reports from Edinburgh, West Lothian, Midlothian, Fife or the wider Lothian region may help explain patterns of aircraft, weather and media coverage, yet they are not automatically East Lothian cases. The MoD tables themselves show how messy this can get: some entries label Edinburgh with unexpected county fields, including “Fife” or “Lothian”, which is a warning against treating every nearby record as clean county evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The county’s real value in a UK UFO map is as a grounded local case study. It shows how official archives can preserve small sightings that never became famous, how place-name and boundary issues affect interpretation, and how ordinary explanations must be checked carefully in coastal and aviation-heavy areas. East Lothian’s UFO record is not empty, but it is cautious, low-resolution and best read as a set of reported experiences rather than a portfolio of proven anomalies.
 
@@ -760,194 +760,194 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
 <img src="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in East Lothian&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/East_Lothian_a7dd3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in East Lothian&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in East Lothian&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for assessing official UFO reports and unexplained sightings similar to those found in British government files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing official UFO reports and unexplained sightings similar to those found in British government files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to the UK MoD UFO reporting system that produced many of the East Lothian sightings discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to the UK MoD UFO reporting system that produced many of the East Lothian sightings discussed in the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Offers a strong British UFO case study that complements the weaker but similar regional reports from East Lothian.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a strong British UFO case study that complements the weaker but similar regional reports from East Lothian.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Closely matches the article&#x27;s emphasis on released government files, case records and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the article&#x27;s emphasis on released government files, case records and official reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-east-lothians-what-really-happened-in-east-lothian-s-ufo-files-east-loth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-east-lothian-s-ufo-files-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -963,7 +963,7 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -983,7 +983,7 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1015,7 +1015,7 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1067,7 +1067,7 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1112,7 +1112,7 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1153,257 +1153,257 @@ The county’s real value in a UK UFO map is as a grounded local case study. It 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/East-Lothian" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/East-Lothian</a>  
+   Link:<a href="https://www.britannica.com/place/East-Lothian" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/East-Lothian</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Unusual cloud formations  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sky.com  
    Title: what are the ufo clouds seen hanging over uk skies 13291303  
-   Link: <a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
+   Link:<a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/West-Lothian-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Lothian-council-area-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/West-Lothian-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Lothian-council-area-Scotland</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kids.britannica.com  
    Title: East Lothian  
-   Link: <a href="https://kids.britannica.com/students/article/East-Lothian/604027" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/East-Lothian/604027</a>  
+   Link:<a href="https://kids.britannica.com/students/article/East-Lothian/604027" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/East-Lothian/604027</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/students/article/Midlothian/341287" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Midlothian/341287</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Midlothian/341287" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Midlothian/341287</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/east-lothian-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/east-lothian-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/east-lothian-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/east-lothian-county</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gov.scot  
    Title: East Lothian  
-   Link: <a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/east-lothian-council-area-map/east-lothian-council-area-map/govscot%3Adocument/East_Lothian.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/east-lothian-council-area-map/east-lothian-council-area-map/govscot%3Adocument/East_Lothian.pdf</a>  
+   Link:<a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/east-lothian-council-area-map/east-lothian-council-area-map/govscot%3Adocument/East_Lothian.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/east-lothian-council-area-map/east-lothian-council-area-map/govscot%3Adocument/East_Lothian.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rctcbc.gov.uk  
    Title: Release Of Sky Lanterns  
-   Link: <a href="https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf</a>  
+   Link:<a href="https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rctcbc.gov.uk/EN/Council/CouncillorsCommitteesandMeetings/DelegatedDecisions/RelatedDocuments/Decisions/2015to2016/ReleaseOfSkyLanterns.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
    Title: Wikishire East Lothian  
-   Link: <a href="https://wikishire.co.uk/wiki/East_Lothian" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/East_Lothian</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/East_Lothian" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/East_Lothian</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abct.org.uk  
    Title: Airfields of Britain Conservation Trust East Fortune  
-   Link: <a href="https://www.abct.org.uk/airfields/east-fortune/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/east-fortune/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/east-fortune/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/east-fortune/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nms.ac.uk  
    Title: National Museums Scotland National Museum of Flight | National Museums Scotland  
-   Link: <a href="https://www.nms.ac.uk/national-museum-of-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.nms.ac.uk/national-museum-of-flight</a>  
+   Link:<a href="https://www.nms.ac.uk/national-museum-of-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.nms.ac.uk/national-museum-of-flight</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority CAP 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nms.ac.uk  
-   Link: <a href="https://www.nms.ac.uk/national-museum-of-flight/plan-your-visit" target="_blank" rel="noopener noreferrer nofollow">https://www.nms.ac.uk/national-museum-of-flight/plan-your-visit</a>  
+   Link:<a href="https://www.nms.ac.uk/national-museum-of-flight/plan-your-visit" target="_blank" rel="noopener noreferrer nofollow">https://www.nms.ac.uk/national-museum-of-flight/plan-your-visit</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: National Museum of Flight  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Museum_of_Flight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Museum_of_Flight</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Museum_of_Flight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Museum_of_Flight</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: East Lothian  
-   Link: <a href="https://en.wikipedia.org/wiki/East_Lothian" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/East_Lothian</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/East_Lothian" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/East_Lothian</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Haddington" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Haddington</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Haddington" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Haddington</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/astronomy</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/astronomy</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NationalMuseumsScotland/posts/the-national-museum-of-flight-is-the-big-50-yay-%EF%B8%8Fthe-historic-east-fortune-airfi/1125795169586165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalMuseumsScotland/posts/the-national-museum-of-flight-is-the-big-50-yay-%EF%B8%8Fthe-historic-east-fortune-airfi/1125795169586165/</a>  
+   Link:<a href="https://www.facebook.com/NationalMuseumsScotland/posts/the-national-museum-of-flight-is-the-big-50-yay-%EF%B8%8Fthe-historic-east-fortune-airfi/1125795169586165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalMuseumsScotland/posts/the-national-museum-of-flight-is-the-big-50-yay-%EF%B8%8Fthe-historic-east-fortune-airfi/1125795169586165/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EastLothianCouncil/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EastLothianCouncil/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/EastLothianCouncil/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EastLothianCouncil/?locale=en_GB</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eastlothiancourier/photos/michelle-moncur-managed-to-capture-this-beautiful-sunset-at-longniddry-bents-rec/10159135896657383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eastlothiancourier/photos/michelle-moncur-managed-to-capture-this-beautiful-sunset-at-longniddry-bents-rec/10159135896657383/</a>  
+   Link:<a href="https://www.facebook.com/eastlothiancourier/photos/michelle-moncur-managed-to-capture-this-beautiful-sunset-at-longniddry-bents-rec/10159135896657383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eastlothiancourier/photos/michelle-moncur-managed-to-capture-this-beautiful-sunset-at-longniddry-bents-rec/10159135896657383/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: airnavradar.com  
    Title: East Lothian Council  
-   Link: <a href="https://www.airnavradar.com/stations/EXTRPI007625" target="_blank" rel="noopener noreferrer nofollow">https://www.airnavradar.com/stations/EXTRPI007625</a>  
+   Link:<a href="https://www.airnavradar.com/stations/EXTRPI007625" target="_blank" rel="noopener noreferrer nofollow">https://www.airnavradar.com/stations/EXTRPI007625</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: intotheblue.co.uk  
    Title: East Fortune Airfield  
-   Link: <a href="https://www.intotheblue.co.uk/locations/airfield-information/east-fortune-airfield/?srsltid=AfmBOopRaK1DFn7xjzLl76qITC0cGcqVJwvEhKYpKLE2mEJ66rnLVZXM" target="_blank" rel="noopener noreferrer nofollow">https://www.intotheblue.co.uk/locations/airfield-information/east-fortune-airfield/?srsltid=AfmBOopRaK1DFn7xjzLl76qITC0cGcqVJwvEhKYpKLE2mEJ66rnLVZXM</a>  
+   Link:<a href="https://www.intotheblue.co.uk/locations/airfield-information/east-fortune-airfield/?srsltid=AfmBOopRaK1DFn7xjzLl76qITC0cGcqVJwvEhKYpKLE2mEJ66rnLVZXM" target="_blank" rel="noopener noreferrer nofollow">https://www.intotheblue.co.uk/locations/airfield-information/east-fortune-airfield/?srsltid=AfmBOopRaK1DFn7xjzLl76qITC0cGcqVJwvEhKYpKLE2mEJ66rnLVZXM</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/skywatching/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/skywatching/</a>  
+   Link:<a href="https://science.nasa.gov/skywatching/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/skywatching/</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Frightening finds at the Abandoned RAF East Fortune Military Hospital  
-   Link: <a href="https://www.youtube.com/watch?v=Yxr5OOn5gXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yxr5OOn5gXI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Museum of Flight, East Fortune Airfield, East Lothian, Scotland [4K]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yxr5OOn5gXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yxr5OOn5gXI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Museum of Flight, East Fortune Airfield, East Lothian, Scotland [4K]...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Scientists Still Can't Explain What Happened to These Two Men  
-   Link: <a href="https://www.youtube.com/watch?v=RFCIysiiaNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RFCIysiiaNo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotlands Chilling PARANORMAL CASE Of The A70 Incident - Weird World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RFCIysiiaNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RFCIysiiaNo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotlands Chilling PARANORMAL CASE Of The A70 Incident - Weird World...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j7JzMv5XNdc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7JzMv5XNdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s Early Silver: Traprain Law Treasure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j7JzMv5XNdc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7JzMv5XNdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s Early Silver: Traprain Law Treasure...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Scotlands Chilling PARANORMAL CASE Of The A70 Incident  
-   Link: <a href="https://www.youtube.com/watch?v=q-cT2A7dmrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q-cT2A7dmrc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNEXPECTED! Dirleton Castle&#x27;s DARK SECRETS &amp; Enchanting Gardens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q-cT2A7dmrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q-cT2A7dmrc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNEXPECTED! Dirleton Castle&#x27;s DARK SECRETS &amp; Enchanting Gardens...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: UNEXPECTED! Dirleton Castle's DARK SECRETS & Enchanting Gardens  
-   Link: <a href="https://www.youtube.com/watch?v=V9gDMIE7k0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V9gDMIE7k0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frightening finds at the Abandoned RAF East Fortune Military Hospital...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V9gDMIE7k0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V9gDMIE7k0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frightening finds at the Abandoned RAF East Fortune Military Hospital...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
    Title: The A70 UFO case: The Night Aliens Came to Edinburgh  
-   Link: <a href="https://www.youtube.com/watch?v=IhVELCYJpyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhVELCYJpyc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Still Can&#x27;t Explain What Happened to These Two Men - The A70 story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IhVELCYJpyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhVELCYJpyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Still Can&#x27;t Explain What Happened to These Two Men - The A70 story...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404699212_UAP-UFOs_Identified_Plasma_-Plasmoids_Filmed_by_the_US_Military_in_the_Troposphere_Analysis_of_US_Dept_of_Defense_De-Classified_UAP_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404699212_UAP-UFOs_Identified_Plasma_-Plasmoids_Filmed_by_the_US_Military_in_the_Troposphere_Analysis_of_US_Dept_of_Defense_De-Classified_UAP_Videos</a>  
+   Link:<a href="https://www.researchgate.net/publication/404699212_UAP-UFOs_Identified_Plasma_-Plasmoids_Filmed_by_the_US_Military_in_the_Troposphere_Analysis_of_US_Dept_of_Defense_De-Classified_UAP_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404699212_UAP-UFOs_Identified_Plasma_-Plasmoids_Filmed_by_the_US_Military_in_the_Troposphere_Analysis_of_US_Dept_of_Defense_De-Classified_UAP_Videos</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UFODAYSELMWOOD/posts/5050-ticket-winner/2430861313626744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFODAYSELMWOOD/posts/5050-ticket-winner/2430861313626744/</a>  
+   Link:<a href="https://www.facebook.com/UFODAYSELMWOOD/posts/5050-ticket-winner/2430861313626744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFODAYSELMWOOD/posts/5050-ticket-winner/2430861313626744/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburghlivenews/posts/a-family-have-been-left-stunned-after-a-close-encounter-with-a-ufo-in-the-skies-/2064661303693133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/a-family-have-been-left-stunned-after-a-close-encounter-with-a-ufo-in-the-skies-/2064661303693133/</a>  
+   Link:<a href="https://www.facebook.com/edinburghlivenews/posts/a-family-have-been-left-stunned-after-a-close-encounter-with-a-ufo-in-the-skies-/2064661303693133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/a-family-have-been-left-stunned-after-a-close-encounter-with-a-ufo-in-the-skies-/2064661303693133/</a>  

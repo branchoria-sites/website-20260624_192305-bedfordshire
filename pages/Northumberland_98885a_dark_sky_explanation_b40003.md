@@ -262,11 +262,11 @@ For Northumberland UFO history, this matters because the county’s strongest ca
 
 ## Why Northumberland’s dark skies change the evidence
 
-Northumberland is not simply a rural backdrop for UFO stories. It is one of England’s best places to see the night sky. Northumberland National Park describes its skies as among the darkest in England, with clear nights offering views of thousands of stars, the Milky Way and even the Andromeda Galaxy with the naked eye. The protected dark-sky area combines Northumberland National Park with Kielder Water and Forest Park, and was recognised in 2013 as an International Dark Sky Park. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northumberlandnationalpark.org.uk">[Northumberland National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northumberlandnationalpark.org.uk</span><span class="citation-popover-snippet">Northumberland National ParkDiscover Our Dark SkiesDiscover the darkest skies in England in Northumberland National Park where you can se...</span></span></span>
+Northumberland is not simply a rural backdrop for UFO stories. It is one of England’s best places to see the night sky. Northumberland National Park describes its skies as among the darkest in England, with clear nights offering views of thousands of stars, the Milky Way and even the Andromeda Galaxy with the naked eye. The protected dark-sky area combines Northumberland National Park with Kielder Water and Forest Park, and was recognised in 2013 as an International Dark Sky Park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northumberlandnationalpark.org.uk">[Northumberland National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northumberlandnationalpark.org.uk</span><span class="citation-popover-snippet">Northumberland National ParkDiscover Our Dark SkiesDiscover the darkest skies in England in Northumberland National Park where you can se...</span></span></span>
 
 That strength creates a special problem for UFO interpretation. In a city, light pollution hides many faint objects. In Northumberland, the same objects can become visible enough to startle a casual observer. A person stepping out of a cottage near Kielder, walking on the Hadrian’s Wall corridor, or watching the northern horizon from the coast may suddenly notice things that are present elsewhere but usually washed out: satellites gliding in formation, meteors, the Milky Way, aircraft at altitude, auroral arcs, or reflections and flares near the horizon.
 
-The county’s International Dark Sky Park is also large. Visit Northumberland gives its area as 572 square miles, or 1,483 square kilometres, and says it received gold-tier designation because of its pristine skies. Kielder Observatory similarly describes the dark-sky zone as one of the largest protected night-sky areas in Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitnorthumberland.com/explore/things-to-do/attractions/great-outdoors/northumberland-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitnorthumberland.com">[Visit Northumberland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitnorthumberland.com</span><span class="citation-popover-snippet">Visit NorthumberlandNorthumberland Dark Sky ParkDue to its pristine skies it was awarded gold tier designation by the International Dark...</span></span></span> This scale matters because Northumberland “UFO” reports are not all made under the same viewing conditions. A sighting from central Newcastle, modern Tyneside, or a lit coastal town is different from one made in the interior of the historic county under very dark skies.
+The county’s International Dark Sky Park is also large. Visit Northumberland gives its area as 572 square miles, or 1,483 square kilometres, and says it received gold-tier designation because of its pristine skies. Kielder Observatory similarly describes the dark-sky zone as one of the largest protected night-sky areas in Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitnorthumberland.com/explore/things-to-do/attractions/great-outdoors/northumberland-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitnorthumberland.com">[Visit Northumberland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitnorthumberland.com</span><span class="citation-popover-snippet">Visit NorthumberlandNorthumberland Dark Sky ParkDue to its pristine skies it was awarded gold tier designation by the International Dark...</span></span></span> This scale matters because Northumberland “UFO” reports are not all made under the same viewing conditions. A sighting from central Newcastle, modern Tyneside, or a lit coastal town is different from one made in the interior of the historic county under very dark skies.
 
 The practical result is that darkness should be treated as a piece of evidence, not just scenery. A report from a dark Northumberland location may be more likely to include real astronomical detail; it may also be more vulnerable to misidentification because the witness is seeing more than they normally see.
 
@@ -274,13 +274,13 @@ The practical result is that darkness should be treated as a piece of evidence, 
 <img src="{{ "/assets/images/Northumberland_98885a_dark_sky_explanation_b40003-Illustration-1-dark.svg" | relative_url }}" alt="Dark Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Northumberland_98885a_dark_sky_explanation_b40003-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northumberland_98885a_dark_sky_explanation_b40003-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aurora can look dramatic on camera but faint in person
 
-Aurora is one of the most important natural explanations for unusual lights in northern England. The Met Office says the Northern Lights can sometimes be seen as far south as Scotland, northern England and Ireland when skies are clear, but it also warns that distance from the auroral belt, light pollution and twilight can make the display difficult to see clearly with the naked eye. Photographs often show aurora much brighter than it appeared to people standing under the same sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Aurora is one of the most important natural explanations for unusual lights in northern England. The Met Office says the Northern Lights can sometimes be seen as far south as Scotland, northern England and Ireland when skies are clear, but it also warns that distance from the auroral belt, light pollution and twilight can make the display difficult to see clearly with the naked eye. Photographs often show aurora much brighter than it appeared to people standing under the same sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 That camera gap is especially relevant in Northumberland. The county has dark northern horizons, coastal viewpoints and upland sites where a weak aurora may show as a pale glow, a grey-green band, a reddish smear, or a shifting curtain low in the sky. A long-exposure phone photograph can then reveal vivid pinks and greens. To a witness who does not know that cameras gather light over time, the difference between what they saw and what the photograph shows can make the event feel stranger rather than more explainable.
 
-Kielder Observatory’s aurora guidance makes the same point in a local way: aurora is elusive as far south as England, but Kielder’s dark position on Black Fell gives a good view when displays occur. A Northumberland aurora guide by Kielder astronomer Dan Monk also notes that most displays in the county are faint and colourless to the naked eye, with colour often strengthened by long-exposure photography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kielderobservatory.org/our-events/all/aurora-night-22q3-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kielderobservatory.org">[Kielder Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kielderobservatory.org</span><span class="citation-popover-title">aurora night 22q3 7</span><span class="citation-popover-snippet">aurora night 22q3 7</span></span></span>
+Kielder Observatory’s aurora guidance makes the same point in a local way: aurora is elusive as far south as England, but Kielder’s dark position on Black Fell gives a good view when displays occur. A Northumberland aurora guide by Kielder astronomer Dan Monk also notes that most displays in the county are faint and colourless to the naked eye, with colour often strengthened by long-exposure photography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kielderobservatory.org/our-events/all/aurora-night-22q3-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kielderobservatory.org">[Kielder Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kielderobservatory.org</span><span class="citation-popover-title">aurora night 22q3 7</span><span class="citation-popover-snippet">aurora night 22q3 7</span></span></span>
 
-The May 2024 geomagnetic storm shows why this matters for modern UFO reporting. The British Geological Survey described the 10–11 May 2024 event as one of the most extreme and long-lasting geomagnetic storms recorded in the last 155 years, while contemporary UK reporting recorded aurora sightings much farther south than usual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.govdelivery.com/accounts/UKBGS/bulletins/39c6f39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">Open source on govdelivery.com.</span></span></span> For Northumberland, an event like this is a reminder that a spectacular “unearthly” sky can be perfectly real without being a craft, flare, weapon, or unknown object.
+The May 2024 geomagnetic storm shows why this matters for modern UFO reporting. The British Geological Survey described the 10–11 May 2024 event as one of the most extreme and long-lasting geomagnetic storms recorded in the last 155 years, while contemporary UK reporting recorded aurora sightings much farther south than usual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.govdelivery.com/accounts/UKBGS/bulletins/39c6f39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">Open source on govdelivery.com.</span></span></span> For Northumberland, an event like this is a reminder that a spectacular “unearthly” sky can be perfectly real without being a craft, flare, weapon, or unknown object.
 
 Aurora should be considered when a Northumberland report includes:
 
@@ -302,13 +302,13 @@ A strong aurora explanation does not mean a witness imagined the event. It means
 
 ## Meteors, fireballs and the North Sea horizon
 
-Meteors are another common source of “UFO” reports because they are sudden, bright and emotionally memorable. The Royal Observatory’s UK meteor-shower guides describe annual showers such as the Quadrantids and Perseids, with the Quadrantids known for bright fireballs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">space astronomy highlights 2026</span><span class="citation-popover-snippet">space astronomy highlights 2026</span></span></span> A meteor can look close even when it is high in the atmosphere, and a bright fireball can produce colours, fragmentation and flashes that are hard to judge in real time.
+Meteors are another common source of “UFO” reports because they are sudden, bright and emotionally memorable. The Royal Observatory’s UK meteor-shower guides describe annual showers such as the Quadrantids and Perseids, with the Quadrantids known for bright fireballs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">space astronomy highlights 2026</span><span class="citation-popover-snippet">space astronomy highlights 2026</span></span></span> A meteor can look close even when it is high in the atmosphere, and a bright fireball can produce colours, fragmentation and flashes that are hard to judge in real time.
 
-Northumberland has a useful recent example. In April 2026, a bright green fireball was photographed above Lindisfarne Castle on Holy Island after a small meteor broke up over the North Sea. Reporting based on expert assessment described the object as weighing about 12 grams, travelling at around 20,000 mph, and being seen by hundreds of witnesses across the UK and parts of mainland Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">The meteor&#x27;s bright green glow was likely caused by magnesium and nickel in its composition. Though fireballs can sometimes produce sonic...</span></span></span>
+Northumberland has a useful recent example. In April 2026, a bright green fireball was photographed above Lindisfarne Castle on Holy Island after a small meteor broke up over the North Sea. Reporting based on expert assessment described the object as weighing about 12 grams, travelling at around 20,000 mph, and being seen by hundreds of witnesses across the UK and parts of mainland Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">The meteor&#x27;s bright green glow was likely caused by magnesium and nickel in its composition. Though fireballs can sometimes produce sonic...</span></span></span>
 
 That case is not a classic UFO incident, and that is precisely why it is useful. It shows how a startling Northumberland light can be dramatic, widely witnessed, photographed and still naturally explained. The colour was not a clue to alien technology; green fireballs can be produced by the chemistry of the meteor as it burns up. The direction over the North Sea also shows why coastal sightings can feel especially mysterious: there may be no obvious ground reference, no sound, and no nearby landmark to judge distance.
 
-The UK Meteor Network provides a practical safeguard against over-reading such events. It operates more than 200 video cameras across the UK, Ireland and western Europe to detect meteors, and invites fireball reports from the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukmeteornetwork.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmeteornetwork.org">[The UK Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmeteornetwork.org</span><span class="citation-popover-title">The UK Meteor Network The UK Meteor Network</span><span class="citation-popover-snippet">The UK Meteor Network The UK Meteor Network</span></span></span> The UK Fireball Alliance similarly brings together camera networks to record meteors and fireballs and, where possible, recover meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span> For a Northumberland UFO report involving a fast streak, flash, fragmentation or green light, these networks may be more relevant than a UFO archive.
+The UK Meteor Network provides a practical safeguard against over-reading such events. It operates more than 200 video cameras across the UK, Ireland and western Europe to detect meteors, and invites fireball reports from the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukmeteornetwork.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmeteornetwork.org">[The UK Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmeteornetwork.org</span><span class="citation-popover-title">The UK Meteor Network The UK Meteor Network</span><span class="citation-popover-snippet">The UK Meteor Network The UK Meteor Network</span></span></span> The UK Fireball Alliance similarly brings together camera networks to record meteors and fireballs and, where possible, recover meteorites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span> For a Northumberland UFO report involving a fast streak, flash, fragmentation or green light, these networks may be more relevant than a UFO archive.
 
 A meteor explanation becomes stronger when the sighting was brief, fast, silent, seen across a wide region, and described as a streak, flare, fragmentation or sudden burst. It becomes weaker when the object reportedly hovered, reversed direction, remained visible for a long period, or was seen only from one restricted viewpoint.
 
@@ -318,9 +318,9 @@ A meteor explanation becomes stronger when the sighting was brief, fast, silent,
 
 Many modern strange-light reports are not produced by one object at all. They are produced by multiple ordinary objects seen together. Starlink satellite trains are the clearest example: newly launched satellites can appear as a line of evenly spaced lights crossing the sky. To someone unfamiliar with them, they can look coordinated, artificial, silent and unlike an aircraft.
 
-This is particularly relevant in Northumberland because dark skies make satellite passes easier to see. A line of satellites that might be invisible over a bright town can stand out sharply over Kielder, the Cheviots, the Northumberland coast or rural sections of Hadrian’s Wall. BBC Sky at Night Magazine’s guide to things commonly mistaken for UFOs includes satellites and sky lanterns among recurring explanations, and notes that objects released or seen in groups can easily be interpreted as formations rather than separate lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+This is particularly relevant in Northumberland because dark skies make satellite passes easier to see. A line of satellites that might be invisible over a bright town can stand out sharply over Kielder, the Cheviots, the Northumberland coast or rural sections of Hadrian’s Wall. BBC Sky at Night Magazine’s guide to things commonly mistaken for UFOs includes satellites and sky lanterns among recurring explanations, and notes that objects released or seen in groups can easily be interpreted as formations rather than separate lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
-Starlink is not the only satellite issue. Individual satellites can flare when sunlight catches them. Rocket launches can leave strange expanding clouds or spirals after fuel venting or exhaust plumes at high altitude; a 2025 UK report, for example, described a strange night-sky spiral as likely caused by a frozen SpaceX rocket exhaust plume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iomtoday.co.im/news/strange-swirl-in-the-sky-stuns-onlookers-as-uk-met-office-offers-explanation-777340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iomtoday.co.im">[Isle of Man Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iomtoday.co.im</span><span class="citation-popover-title">Isle of Man Today Strange swirl in the sky stuns onlookers as UK Met Office</span><span class="citation-popover-snippet">Isle of Man Today Strange swirl in the sky stuns onlookers as UK Met Office</span></span></span> These events can look stranger than a simple moving dot because they appear luminous, expanding or structured.
+Starlink is not the only satellite issue. Individual satellites can flare when sunlight catches them. Rocket launches can leave strange expanding clouds or spirals after fuel venting or exhaust plumes at high altitude; a 2025 UK report, for example, described a strange night-sky spiral as likely caused by a frozen SpaceX rocket exhaust plume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iomtoday.co.im/news/strange-swirl-in-the-sky-stuns-onlookers-as-uk-met-office-offers-explanation-777340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iomtoday.co.im">[Isle of Man Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iomtoday.co.im</span><span class="citation-popover-title">Isle of Man Today Strange swirl in the sky stuns onlookers as UK Met Office</span><span class="citation-popover-snippet">Isle of Man Today Strange swirl in the sky stuns onlookers as UK Met Office</span></span></span> These events can look stranger than a simple moving dot because they appear luminous, expanding or structured.
 
 For Northumberland UFO assessment, satellite checks should be routine. The question is not simply “did it move like an aircraft?” Many satellites do not. They can move steadily without sound, fade abruptly as they enter Earth’s shadow, appear in lines, or brighten briefly. A witness near a dark-sky site may be sincere and accurate about seeing silent lights in formation, while the identification remains orbital rather than unexplained.
 
@@ -333,7 +333,7 @@ Useful clues include direction of travel, time after sunset or before dawn, whet
 
 Dark-sky explanations are not limited to astronomy. Human-made lights can become more confusing when viewed across open countryside or over the sea. Orange sky lanterns, drones, distant aircraft, helicopters, ships, flares, car headlights on high roads and reflections can all appear odd when there are few nearby reference points.
 
-The Ministry of Defence’s released UFO material shows how often British reports came down to shapes, lights and flashes rather than clearly structured craft. The National Archives notes that MoD UFO records have been kept since the 1960s and that most describe shapes, lights and flashes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span> In the final years of the MoD UFO desk, reported sightings increased sharply; The National Archives’ release material says the final tranche covered the desk’s last two years and that reports in its last year had trebled, while press coverage of the files linked the surge with Chinese lanterns at weddings and public holidays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The Ministry of Defence’s released UFO material shows how often British reports came down to shapes, lights and flashes rather than clearly structured craft. The National Archives notes that MoD UFO records have been kept since the 1960s and that most describe shapes, lights and flashes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span> In the final years of the MoD UFO desk, reported sightings increased sharply; The National Archives’ release material says the final tranche covered the desk’s last two years and that reports in its last year had trebled, while press coverage of the files linked the surge with Chinese lanterns at weddings and public holidays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This national pattern helps interpret Northumberland without replacing local detail. A cluster of orange lights drifting silently over Ashington, Alnwick, the coast or rural villages may sound impressive in a witness account, but orange lanterns and low aircraft lights have a long record as UFO triggers. Conversely, the same explanation should not be forced onto every report. Lanterns drift with the wind, fade as fuel burns out, and do not show controlled high-speed manoeuvres. Aircraft have predictable routes, navigation lights and, often, sound. Ships and offshore activity sit low on the horizon and can be distorted by weather.
 
@@ -372,194 +372,194 @@ This distinction is important when reading older and newer reports side by side.
 For readers, the practical takeaway is simple. Northumberland is one of the best places in England to see the night sky, and that means it is also one of the best places to misread the night sky. Aurora, meteors, satellites and distant lights should be checked first, especially in the Dark Sky Park and along the coast. If a report remains odd after those checks, it is more valuable precisely because the common explanations have been tested rather than ignored.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Are Northumberland UFOs Just the Night Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Are Northumberland UFOs Just the Night Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and separating explainable observations from genuinely unidentified cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and separating explainable observations from genuinely unidentified cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Presents well-documented cases while encouraging evidence-based assessment of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents well-documented cases while encouraging evidence-based assessment of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify stars, planets, meteors and other sky phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify stars, planets, meteors and other sky phenomena often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Teaches practical night-sky observation skills useful for checking unusual lights and objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches practical night-sky observation skills useful for checking unusual lights and objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="dark-skies-when-are-northumberland-ufos-just-the-night-sky-northumberland-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ For readers, the practical takeaway is simple. Northumberland is one of the best
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ For readers, the practical takeaway is simple. Northumberland is one of the best
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ For readers, the practical takeaway is simple. Northumberland is one of the best
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ For readers, the practical takeaway is simple. Northumberland is one of the best
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ For readers, the practical takeaway is simple. Northumberland is one of the best
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,263 +765,263 @@ For readers, the practical takeaway is simple. Northumberland is one of the best
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: content.govdelivery.com  
-   Link: <a href="https://content.govdelivery.com/accounts/UKBGS/bulletins/39c6f39" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/UKBGS/bulletins/39c6f39</a>  
+   Link:<a href="https://content.govdelivery.com/accounts/UKBGS/bulletins/39c6f39" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/UKBGS/bulletins/39c6f39</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: In search of the Aurora  
-   Link: <a href="https://www.youtube.com/watch?v=oegXe710G24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oegXe710G24</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Sky Park | Land of Great Opportunities...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oegXe710G24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oegXe710G24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Sky Park | Land of Great Opportunities...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Dark Sky Park | Land of Great Opportunities  
-   Link: <a href="https://www.youtube.com/watch?v=Dxo-a9yPmKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dxo-a9yPmKs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Time Lapse Kielder 7th November 2017 - Northern Lights Northumberland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dxo-a9yPmKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dxo-a9yPmKs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Time Lapse Kielder 7th November 2017 - Northern Lights Northumberland...</p></details>
    Published: November 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Real-Time Aurora Borealis with the Sony a7S II  
-   Link: <a href="https://www.youtube.com/watch?v=u2h4F12xqdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u2h4F12xqdE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kielder Observatory&quot; &quot;Aurora&quot; OR &quot;Dark skies&quot; Kielder Observatory Milky Way Timelapse Dan Pye - British Male Voiceover...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u2h4F12xqdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u2h4F12xqdE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kielder Observatory&quot; &quot;Aurora&quot; OR &quot;Dark skies&quot; Kielder Observatory Milky Way Timelapse Dan Pye - British Male Voiceover...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: northumberlandnationalpark.org.uk  
-   Link: <a href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northumberland National ParkDiscover Our Dark SkiesDiscover the darkest skies in England in Northumberland National Park where you can se...</p></details>
+   Link:<a href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northumberland National ParkDiscover Our Dark SkiesDiscover the darkest skies in England in Northumberland National Park where you can se...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kielderobservatory.org  
    Title: 82 northumberland international dark sky park  
-   Link: <a href="https://kielderobservatory.org/outreach/dark-skies/82-northumberland-international-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/outreach/dark-skies/82-northumberland-international-dark-sky-park</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The IDA, based in Tucson, USA, in December 2013, granted Gold Tier Dark Sky Park status to the...Read more...</p></details>
+   Link:<a href="https://kielderobservatory.org/outreach/dark-skies/82-northumberland-international-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/outreach/dark-skies/82-northumberland-international-dark-sky-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IDA, based in Tucson, USA, in December 2013, granted Gold Tier Dark Sky Park status to the...Read more...</p></details>
    Published: December 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: visitnorthumberland.com  
-   Link: <a href="https://www.visitnorthumberland.com/explore/things-to-do/attractions/great-outdoors/northumberland-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthumberland.com/explore/things-to-do/attractions/great-outdoors/northumberland-dark-sky-park</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit NorthumberlandNorthumberland Dark Sky ParkDue to its pristine skies it was awarded gold tier designation by the International Dark...</p></details>
+   Link:<a href="https://www.visitnorthumberland.com/explore/things-to-do/attractions/great-outdoors/northumberland-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthumberland.com/explore/things-to-do/attractions/great-outdoors/northumberland-dark-sky-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit NorthumberlandNorthumberland Dark Sky ParkDue to its pristine skies it was awarded gold tier designation by the International Dark...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kielderobservatory.org  
-   Link: <a href="https://kielderobservatory.org/outreach/dark-skies" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/outreach/dark-skies</a>  
+   Link:<a href="https://kielderobservatory.org/outreach/dark-skies" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/outreach/dark-skies</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kielderobservatory.org  
    Title: aurora night 22q3 7  
-   Link: <a href="https://kielderobservatory.org/our-events/all/aurora-night-22q3-7" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/our-events/all/aurora-night-22q3-7</a>  
+   Link:<a href="https://kielderobservatory.org/our-events/all/aurora-night-22q3-7" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/our-events/all/aurora-night-22q3-7</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rmg.co.uk  
    Title: space astronomy highlights 2026  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rmg.co.uk  
    Title: perseid meteor shower guide uk when where to see  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor&#x27;s bright green glow was likely caused by magnesium and nickel in its composition. Though fireballs can sometimes produce sonic...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor&#x27;s bright green glow was likely caused by magnesium and nickel in its composition. Though fireballs can sometimes produce sonic...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iomtoday.co.im  
    Title: Isle of Man Today Strange swirl in the sky stuns onlookers as UK Met Office  
-   Link: <a href="https://www.iomtoday.co.im/news/strange-swirl-in-the-sky-stuns-onlookers-as-uk-met-office-offers-explanation-777340" target="_blank" rel="noopener noreferrer nofollow">https://www.iomtoday.co.im/news/strange-swirl-in-the-sky-stuns-onlookers-as-uk-met-office-offers-explanation-777340</a>  
+   Link:<a href="https://www.iomtoday.co.im/news/strange-swirl-in-the-sky-stuns-onlookers-as-uk-met-office-offers-explanation-777340" target="_blank" rel="noopener noreferrer nofollow">https://www.iomtoday.co.im/news/strange-swirl-in-the-sky-stuns-onlookers-as-uk-met-office-offers-explanation-777340</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/royal-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/royal-observatory</a>  
+   Link:<a href="https://www.rmg.co.uk/royal-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/royal-observatory</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rmg.co.uk  
    Title: meteor shower guide 2026  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/meteor-shower-guide-2026</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Northumberland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northumberland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Northumberland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northumberland</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: Visit Northumberland  
-   Link: <a href="https://www.facebook.com/visitnorthumberland/posts/look-up-into-the-night-sky-of-northumberlands-international-dark-sky-park-and-en/10156420958267841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitnorthumberland/posts/look-up-into-the-night-sky-of-northumberlands-international-dark-sky-park-and-en/10156420958267841/</a>  
+   Link:<a href="https://www.facebook.com/visitnorthumberland/posts/look-up-into-the-night-sky-of-northumberlands-international-dark-sky-park-and-en/10156420958267841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitnorthumberland/posts/look-up-into-the-night-sky-of-northumberlands-international-dark-sky-park-and-en/10156420958267841/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: visitnorthumberland.com  
    Title: Dark Sky events  
-   Link: <a href="https://www.visitnorthumberland.com/explore/destinations/darkskies/events" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthumberland.com/explore/destinations/darkskies/events</a>  
+   Link:<a href="https://www.visitnorthumberland.com/explore/destinations/darkskies/events" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthumberland.com/explore/destinations/darkskies/events</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: visitnorthumberland.com  
-   Link: <a href="https://www.visitnorthumberland.com/explore/destinations/darkskies" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthumberland.com/explore/destinations/darkskies</a>  
+   Link:<a href="https://www.visitnorthumberland.com/explore/destinations/darkskies" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthumberland.com/explore/destinations/darkskies</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kielderobservatory.org  
-   Link: <a href="https://kielderobservatory.org/star-diary/index.php?Itemid=74&amp;id=23&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/star-diary/index.php?Itemid=74&amp;id=23&amp;option=com_content&amp;view=article</a>  
+   Link:<a href="https://kielderobservatory.org/star-diary/index.php?Itemid=74&amp;id=23&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/star-diary/index.php?Itemid=74&amp;id=23&amp;option=com_content&amp;view=article</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: kielderobservatory.org  
    Title: Kielder Observatory  
-   Link: <a href="https://kielderobservatory.org/" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/</a>  
+   Link:<a href="https://kielderobservatory.org/" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: kielderobservatory.org  
-   Link: <a href="https://kielderobservatory.org/our-events" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/our-events</a>  
+   Link:<a href="https://kielderobservatory.org/our-events" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/our-events</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: kielderobservatory.org  
-   Link: <a href="https://kielderobservatory.org/events/faqs/177-tickets" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/events/faqs/177-tickets</a>  
+   Link:<a href="https://kielderobservatory.org/events/faqs/177-tickets" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/events/faqs/177-tickets</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: kielderobservatory.org  
    Title: aurora night we  
-   Link: <a href="https://kielderobservatory.org/our-events/all/aurora-night-we" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/our-events/all/aurora-night-we</a>  
+   Link:<a href="https://kielderobservatory.org/our-events/all/aurora-night-we" target="_blank" rel="noopener noreferrer nofollow">https://kielderobservatory.org/our-events/all/aurora-night-we</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: visitnorthumberland.org.uk  
-   Link: <a href="https://visitnorthumberland.org.uk/resources-insights/become-dark-sky-friendly" target="_blank" rel="noopener noreferrer nofollow">https://visitnorthumberland.org.uk/resources-insights/become-dark-sky-friendly</a>  
+   Link:<a href="https://visitnorthumberland.org.uk/resources-insights/become-dark-sky-friendly" target="_blank" rel="noopener noreferrer nofollow">https://visitnorthumberland.org.uk/resources-insights/become-dark-sky-friendly</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: independent.co.uk  
    Title: northumberland national park stargazing experience b2985732  
-   Link: <a href="https://www.independent.co.uk/travel/news-and-advice/northumberland-national-park-stargazing-experience-b2985732.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/travel/news-and-advice/northumberland-national-park-stargazing-experience-b2985732.html</a>  
+   Link:<a href="https://www.independent.co.uk/travel/news-and-advice/northumberland-national-park-stargazing-experience-b2985732.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/travel/news-and-advice/northumberland-national-park-stargazing-experience-b2985732.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: darksky.org  
    Title: northumberland national park and kielder water forest dark sky park  
-   Link: <a href="https://darksky.org/places/northumberland-national-park-and-kielder-water-forest-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/northumberland-national-park-and-kielder-water-forest-dark-sky-park/</a>  
+   Link:<a href="https://darksky.org/places/northumberland-national-park-and-kielder-water-forest-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/northumberland-national-park-and-kielder-water-forest-dark-sky-park/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: northumberlandnationalpark.org.uk  
-   Link: <a href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/protected-dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/protected-dark-skies/</a>  
+   Link:<a href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/protected-dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/protected-dark-skies/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: northumberlandnationalpark.org.uk  
-   Link: <a href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/where-to-stargaze/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/where-to-stargaze/</a>  
+   Link:<a href="https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/where-to-stargaze/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/discover-explore/things-to-do/discover-dark-skies/where-to-stargaze/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: northumberlandnationalpark.org.uk  
-   Link: <a href="https://www.northumberlandnationalpark.org.uk/dark-skies-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/dark-skies-10/</a>  
+   Link:<a href="https://www.northumberlandnationalpark.org.uk/dark-skies-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.northumberlandnationalpark.org.uk/dark-skies-10/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: skyatnightmagazine.com  
    Title: how to see the aurora in the uk  
-   Link: <a href="https://www.skyatnightmagazine.com/advice/how-to-see-the-aurora-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/how-to-see-the-aurora-in-the-uk</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/advice/how-to-see-the-aurora-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/how-to-see-the-aurora-in-the-uk</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.smallbouldering.aurorawatchuk" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.smallbouldering.aurorawatchuk</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.smallbouldering.aurorawatchuk" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.smallbouldering.aurorawatchuk</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nationalparks.uk  
    Title: Dark skies  
-   Link: <a href="https://www.nationalparks.uk/dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparks.uk/dark-skies/</a>  
+   Link:<a href="https://www.nationalparks.uk/dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparks.uk/dark-skies/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/kielder-forest/kielder-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/kielder-forest/kielder-observatory</a>  
+   Link:<a href="https://www.forestryengland.uk/kielder-forest/kielder-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/kielder-forest/kielder-observatory</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WTbtA4ws7Dc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WTbtA4ws7Dc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time Aurora Borealis with the Sony a7S II...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WTbtA4ws7Dc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WTbtA4ws7Dc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time Aurora Borealis with the Sony a7S II...</p></details>
    Published: November 2017  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/homepage" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/homepage</a>  
+   Link:<a href="https://www.spaceweather.gov/homepage" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/homepage</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: swpc.noaa.gov  
-   Link: <a href="https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10" target="_blank" rel="noopener noreferrer nofollow">https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10</a>  
+   Link:<a href="https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10" target="_blank" rel="noopener noreferrer nofollow">https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Celebrating 10 years of Northumberland International Dark Sky Park  
-   Link: <a href="https://www.youtube.com/watch?v=5doG57nyoGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5doG57nyoGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In search of the Aurora - Dr Melanie Windridge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5doG57nyoGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5doG57nyoGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In search of the Aurora - Dr Melanie Windridge...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
+   Link:<a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/natgeo/posts/a-fleet-of-ufos-a-bizarre-alignment-of-meteors-a-drone-show-these-are-just-a-few/842495283914570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/natgeo/posts/a-fleet-of-ufos-a-bizarre-alignment-of-meteors-a-drone-show-these-are-just-a-few/842495283914570/</a>  
+   Link:<a href="https://www.facebook.com/natgeo/posts/a-fleet-of-ufos-a-bizarre-alignment-of-meteors-a-drone-show-these-are-just-a-few/842495283914570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/natgeo/posts/a-fleet-of-ufos-a-bizarre-alignment-of-meteors-a-drone-show-these-are-just-a-few/842495283914570/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/8NewsNOW/posts/a-severe-geomagnetic-storm-could-bring-the-northern-lights-and-possible-technolo/1117159380445624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/a-severe-geomagnetic-storm-could-bring-the-northern-lights-and-possible-technolo/1117159380445624/</a>  
+   Link:<a href="https://www.facebook.com/8NewsNOW/posts/a-severe-geomagnetic-storm-could-bring-the-northern-lights-and-possible-technolo/1117159380445624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/a-severe-geomagnetic-storm-could-bring-the-northern-lights-and-possible-technolo/1117159380445624/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DTtKR9jjq-g/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTtKR9jjq-g/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DTtKR9jjq-g/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTtKR9jjq-g/?hl=en</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/</a>  
+   Link:<a href="https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXPXNiyjqvU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPXNiyjqvU/</a>  
+   Link:<a href="https://www.instagram.com/p/DXPXNiyjqvU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPXNiyjqvU/</a>  

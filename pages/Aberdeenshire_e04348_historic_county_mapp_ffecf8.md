@@ -260,11 +260,11 @@ image: /assets/images/Aberdeenshire_e04348_historic_county_mapp_ffecf8-overview-
 <img src="{{ "/assets/images/Aberdeenshire_e04348_historic_county_mapp_ffecf8-overview.webp" | relative_url }}" alt="Overview image for Boundaries" loading="eager" decoding="sync" fetchpriority="high">
 ## Historic county or modern council area?
 
-The historic county used by this project follows the wider UK historic-counties frame: 92 historic counties across the UK, including 34 in Scotland, 39 in England, 13 in Wales and 6 in Northern Ireland. The Wikimedia Commons historic-counties SVG lists Aberdeenshire as one of those mapped counties, and the Historic County Borders Project describes its digitised historic-county borders as freely available geographic data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2county-borders.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Historic counties of the United Kingdom.svgFile:Historic counties of the United Kingdom.svg · 1 Aberdeenshire · 2 A...</span></span></span>
+The historic county used by this project follows the wider UK historic-counties frame: 92 historic counties across the UK, including 34 in Scotland, 39 in England, 13 in Wales and 6 in Northern Ireland. The Wikimedia Commons historic-counties SVG lists Aberdeenshire as one of those mapped counties, and the Historic County Borders Project describes its digitised historic-county borders as freely available geographic data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[wikimedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Historic counties of the United Kingdom.svgFile:Historic counties of the United Kingdom.svg · 1 Aberdeenshire · 2 A...</span></span></span>
 
-That is not the same thing as the modern Aberdeenshire council area. Modern Aberdeenshire was created as one of Scotland’s 32 council areas in 1996 and has boundaries that differ substantially from the historic county: it includes much of historic Kincardineshire and part of Banffshire, while Aberdeen City is a separate council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> For UFO mapping, this means a modern “Aberdeenshire” dataset can quietly pull in places that are not historic Aberdeenshire, while excluding Aberdeen city even though Aberdeen was historically central to the county’s identity and regional reporting.
+That is not the same thing as the modern Aberdeenshire council area. Modern Aberdeenshire was created as one of Scotland’s 32 council areas in 1996 and has boundaries that differ substantially from the historic county: it includes much of historic Kincardineshire and part of Banffshire, while Aberdeen City is a separate council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> For UFO mapping, this means a modern “Aberdeenshire” dataset can quietly pull in places that are not historic Aberdeenshire, while excluding Aberdeen city even though Aberdeen was historically central to the county’s identity and regional reporting.
 
-The historic County of Aberdeen also has a distinctive geography of its own. Wikishire describes it as bordering Kincardineshire, Angus and Perthshire to the south, Inverness-shire and Banffshire to the west, and the North Sea to the north and east, with about 65 miles of coastline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> That coastal and upland spread helps explain why UFO reports from the area often involve lights over open country, sea-facing horizons, oil and helicopter traffic, or ambiguous sightings around Aberdeen’s urban fringe.
+The historic County of Aberdeen also has a distinctive geography of its own. Wikishire describes it as bordering Kincardineshire, Angus and Perthshire to the south, Inverness-shire and Banffshire to the west, and the North Sea to the north and east, with about 65 miles of coastline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> That coastal and upland spread helps explain why UFO reports from the area often involve lights over open country, sea-facing horizons, oil and helicopter traffic, or ambiguous sightings around Aberdeen’s urban fringe.
 
 The boundary choice therefore affects both inclusion and interpretation. A sighting logged as “Aberdeen, Aberdeenshire” in a Ministry of Defence table can be historically relevant to Aberdeenshire even if a modern council map would place Aberdeen outside Aberdeenshire Council. A sighting at Muchalls, by contrast, may look like an Aberdeenshire item in modern media but sits in historic Kincardineshire. The mapping decision is not just clerical; it changes the shape of the local UFO story.
 
@@ -274,11 +274,11 @@ The boundary choice therefore affects both inclusion and interpretation. A sight
 
 Aberdeen is the first mapping problem. In everyday speech, it is often treated as the centre of the north-east, and older county language ties it closely to Aberdeenshire. In modern local government, however, Aberdeen City is separate from Aberdeenshire Council. That distinction is easy to miss when reading UFO material because MoD tables, press stories and witness accounts often use place names more casually than a historical gazetteer would.
 
-The MoD’s published UFO report tables show why this matters. GOV.UK describes the 1997–2009 UFO reports as records giving the date, time, location and brief description of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> In 1997, one entry recorded “Aberdeen” in “Aberdeenshire” and described four bright, roundish white lights moving in a small circle before rotating clockwise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> In 2007, another entry gave “Bridge of Don/Aberdeen” in “Aberdeenshire” and described lights forming two bright triangle formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> In 2008, an Aberdeen entry simply recorded “strange lights in the sky”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+The MoD’s published UFO report tables show why this matters. GOV.UK describes the 1997–2009 UFO reports as records giving the date, time, location and brief description of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> In 1997, one entry recorded “Aberdeen” in “Aberdeenshire” and described four bright, roundish white lights moving in a small circle before rotating clockwise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span> In 2007, another entry gave “Bridge of Don/Aberdeen” in “Aberdeenshire” and described lights forming two bright triangle formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span> In 2008, an Aberdeen entry simply recorded “strange lights in the sky”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 A modern council-only map could treat those as Aberdeen City rather than Aberdeenshire. A historic-county UFO map should not erase them automatically, because Aberdeen is part of the older county story and is a major reference point for witnesses, newspapers and [aviation]({{ 'aviation/' | relative_url }}) geography. The cleanest labelling would be: “Aberdeen area — historic Aberdeenshire context; modern Aberdeen City council area.” That tells readers why the entry appears without pretending the current council boundary says the same thing.
 
-Muchalls is the opposite kind of problem. Recent media coverage has described Muchalls as an Aberdeenshire UFO “hotspot” or “window area”, drawing on claims by Scottish UFO writer Malcolm Robinson and stories said to date back to the 1960s and 1970s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">uk village known ufo hotspot 31026114</span><span class="citation-popover-snippet">uk village known ufo hotspot 31026114</span></span></span> But geographically, Muchalls is usually described as a small coastal village in Kincardineshire, south of Newtonhill and north of Stonehaven, even though it now sits within the Aberdeenshire council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Muchalls is the opposite kind of problem. Recent media coverage has described Muchalls as an Aberdeenshire UFO “hotspot” or “window area”, drawing on claims by Scottish UFO writer Malcolm Robinson and stories said to date back to the 1960s and 1970s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">uk village known ufo hotspot 31026114</span><span class="citation-popover-snippet">uk village known ufo hotspot 31026114</span></span></span> But geographically, Muchalls is usually described as a small coastal village in Kincardineshire, south of Newtonhill and north of Stonehaven, even though it now sits within the Aberdeenshire council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That does not make the Muchalls stories irrelevant. They belong in the north-east UFO picture and may deserve cross-linking from an Aberdeenshire page because they are repeatedly marketed to readers as “Aberdeenshire” cases. But they should not be silently counted as historic Aberdeenshire evidence. A careful map would tag Muchalls as: “modern Aberdeenshire council area; historic Kincardineshire; north-east Scotland UFO context.” That one line prevents a misleading cluster from appearing inside the historic County of Aberdeen.
 
@@ -291,11 +291,11 @@ A UFO map can look more convincing than the underlying evidence deserves. Dots o
 
 First, there is **administrative drift**. Modern Aberdeenshire includes areas that historic-county mapping would place in Kincardineshire or Banffshire, while excluding Aberdeen City. If a map uses council boundaries but calls the result “historic Aberdeenshire”, it will overcount some southern and northern cases and under-explain Aberdeen city reports.
 
-Second, there is **source drift**. The MoD tables are valuable because they preserve official report entries, but they are short logs rather than full investigations. The National Archives’ UFO research guide says surviving UFO records include policy papers, Parliamentary material, correspondence with the public and sighting reports; it does not present those reports as proof of unusual craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> For Aberdeenshire, that means a logged sighting should be treated as evidence that a report was made, not as confirmation that an extraordinary object was present.
+Second, there is **source drift**. The MoD tables are valuable because they preserve official report entries, but they are short logs rather than full investigations. The National Archives’ UFO research guide says surviving UFO records include policy papers, Parliamentary material, correspondence with the public and sighting reports; it does not present those reports as proof of unusual craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> For Aberdeenshire, that means a logged sighting should be treated as evidence that a report was made, not as confirmation that an extraordinary object was present.
 
-Third, there is **media drift**. Local and national articles may use familiar modern labels because those are clearer to contemporary readers. That can be useful for public communication, but it can also blur historic geography. A headline calling Muchalls an Aberdeenshire UFO hotspot may be understandable in council-area terms, but it is not precise enough for a historic-county index. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">uk village known ufo hotspot 31026114</span><span class="citation-popover-snippet">uk village known ufo hotspot 31026114</span></span></span>
+Third, there is **media drift**. Local and national articles may use familiar modern labels because those are clearer to contemporary readers. That can be useful for public communication, but it can also blur historic geography. A headline calling Muchalls an Aberdeenshire UFO hotspot may be understandable in council-area terms, but it is not precise enough for a historic-county index.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">uk village known ufo hotspot 31026114</span><span class="citation-popover-snippet">uk village known ufo hotspot 31026114</span></span></span>
 
-Fourth, there is **sky-geography drift**. Witnesses report what they saw from a place, not always where the object actually was. A light seen from Portlethen, Bridge of Don or Ballater may have been above another district, over the North Sea, on an aircraft route, or far beyond the county line. The 2009 Portlethen entry, for example, described “a big yellow glow in the sky to the south of Aberdeen” at about 2,500 feet and specifically said it was not aircraft landing lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The report belongs in the local record, but the object’s true position cannot be fixed from the brief table wording alone.
+Fourth, there is **sky-geography drift**. Witnesses report what they saw from a place, not always where the object actually was. A light seen from Portlethen, Bridge of Don or Ballater may have been above another district, over the North Sea, on an aircraft route, or far beyond the county line. The 2009 Portlethen entry, for example, described “a big yellow glow in the sky to the south of Aberdeen” at about 2,500 feet and specifically said it was not aircraft landing lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The report belongs in the local record, but the object’s true position cannot be fixed from the brief table wording alone.
 
 The result is that Aberdeenshire UFO mapping should not be a simple count of dots. It should be a layered reading of place, boundary, report source and uncertainty.
 
@@ -319,7 +319,7 @@ A useful entry should record:
 
 </div>
 
-This matters most for cases that readers are likely to remember. The 1999 Ballater report, which described two glitter-ball-like objects with blue, red and green lights, sits comfortably within Aberdeenshire’s historic-county frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 1998 Ladysbridge report, logged by the MoD as Aberdeenshire and describing a slow-moving orange object with an intense bright light, needs more care because local and historic county associations around Banffshire can complicate how readers place it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Muchalls needs still more care because its modern and historic labels point in different directions.
+This matters most for cases that readers are likely to remember. The 1999 Ballater report, which described two glitter-ball-like objects with blue, red and green lights, sits comfortably within Aberdeenshire’s historic-county frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 1998 Ladysbridge report, logged by the MoD as Aberdeenshire and describing a slow-moving orange object with an intense bright light, needs more care because local and historic county associations around Banffshire can complicate how readers place it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Muchalls needs still more care because its modern and historic labels point in different directions.
 
 The payoff is not pedantry. It helps readers distinguish a genuine local pattern from a map-making artefact. If several reports cluster around Aberdeen, that may say something about population density, airport visibility, press access or skywatching from an urban edge. If a cluster appears around Muchalls only after modern council boundaries are used, the correct interpretation may be “north-east coastal folklore and Kincardineshire-border reporting”, not “historic Aberdeenshire hotspot”.
 
@@ -333,7 +333,7 @@ The payoff is not pedantry. It helps readers distinguish a genuine local pattern
 
 Using historic Aberdeenshire as the centre of gravity produces a more disciplined UFO history. It keeps the county page from becoming a catch-all for every north-east Scottish sighting, but it also avoids the opposite mistake of excluding Aberdeen-related records just because modern local government has redrawn the map.
 
-The strongest boundary-sensitive lesson is that Aberdeenshire’s UFO record is mixed rather than singular. Official MoD entries give a run of reportable incidents around Aberdeen, Ballater, Portlethen and other named places, but the tables are brief and rarely include the checks needed to resolve them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> Media and UFO-literature claims add colour, especially around Muchalls, but those claims often need extra geographic labelling before they can be used responsibly on a historic-county map. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">uk village known ufo hotspot 31026114</span><span class="citation-popover-snippet">uk village known ufo hotspot 31026114</span></span></span>
+The strongest boundary-sensitive lesson is that Aberdeenshire’s UFO record is mixed rather than singular. Official MoD entries give a run of reportable incidents around Aberdeen, Ballater, Portlethen and other named places, but the tables are brief and rarely include the checks needed to resolve them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span> Media and UFO-literature claims add colour, especially around Muchalls, but those claims often need extra geographic labelling before they can be used responsibly on a historic-county map.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirror.co.uk">[Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirror.co.uk</span><span class="citation-popover-title">uk village known ufo hotspot 31026114</span><span class="citation-popover-snippet">uk village known ufo hotspot 31026114</span></span></span>
 
 The right reader takeaway is simple: ask “which Aberdeenshire?” before asking “how many sightings?” A modern council map, a historic-county map and a north-east media map will not produce the same answer. For UFO history, where evidence is often brief, anecdotal or loosely reported, that difference can decide whether a case looks central, marginal, duplicated or misplaced.
 
@@ -341,194 +341,194 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
 <img src="{{ "/assets/images/Aberdeenshire_e04348_historic_county_mapp_ffecf8-Illustration-3-dark.svg" | relative_url }}" alt="Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348_historic_county_mapp_ffecf8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348_historic_county_mapp_ffecf8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Aberdeenshire Counts for UFO History?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Aberdeenshire Counts for UFO History?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Case Files of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2UJEYgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Case Files of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Case Files of Scotland">UFO Case Files of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Robinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Case Files of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2UJEYgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Case Files of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Case Files of Scotland">UFO Case Files of Scotland</a>
+</h4>
+<p class="fr-book-author">By Malcolm Robinson</p>
         
-        <p class="fr-book-desc">Focuses on Scottish sightings and provides local context relevant to Aberdeenshire and neighbouring areas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on Scottish sightings and provides local context relevant to Aberdeenshire and neighbouring areas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland+by+Malcolm+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Scotland+by+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6GySAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Scotland+by+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Ron Halliday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Scotland+by+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6GySAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Scotland+by+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
+</h4>
+<p class="fr-book-author">By Ron Halliday</p>
         
-        <p class="fr-book-desc">Directly covers Scottish UFO reports, geography, and case distribution, helping readers place Aberdeenshire sightings within a wider nati...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Scotland+by+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Scottish UFO reports, geography, and case distribution, helping readers place Aberdeenshire sightings within a wider nati...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Scotland+by+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for understanding how UK UFO reports were recorded, classified, and mapped across changing administrative areas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how UK UFO reports were recorded, classified, and mapped across changing administrative areas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Aberdeenshire+by+Geoff+Holder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Aberdeenshire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9l4sQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Aberdeenshire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+Aberdeenshire+by+Geoff+Holder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Aberdeenshire">Mysterious Aberdeenshire</a>
-        </h4>
-        <p class="fr-book-author">By Geoff Holder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Aberdeenshire+by+Geoff+Holder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Aberdeenshire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9l4sQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Aberdeenshire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysterious+Aberdeenshire+by+Geoff+Holder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Aberdeenshire">Mysterious Aberdeenshire</a>
+</h4>
+<p class="fr-book-author">By Geoff Holder</p>
         
-        <p class="fr-book-desc">Explores unusual events, folklore, and unexplained stories tied specifically to Aberdeenshire geography and place names.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+Aberdeenshire+by+Geoff+Holder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unusual events, folklore, and unexplained stories tied specifically to Aberdeenshire geography and place names.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysterious+Aberdeenshire+by+Geoff+Holder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Case Files of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Case+Files+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Case Files of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Macduff, Aberdeenshire Market Cross - Antique Print - 1900 (Seller Ref V2)"><img src="https://i.ebayimg.com/images/g/ezgAAeSwzANp87d5/s-l225.jpg" alt="Listing image for Macduff, Aberdeenshire Market Cross - Antique Print - 1900 (Seller Ref V2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer">Macduff, Aberdeenshire Market Cross - Antique Print - 1900 (Seller Ref V2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aberdeenshire map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Aberdeenshire map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map of Aberdeenshire 1924 - Vintage Hutchinson&#x27;s &#x27;Britain Beautiful&#x27; Print"><img src="https://i.ebayimg.com/images/g/j8MAAeSwr0Np30kg/s-l225.jpg" alt="Listing image for Map of Aberdeenshire 1924 - Vintage Hutchinson&#x27;s &#x27;Britain Beautiful&#x27; Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer">Map of Aberdeenshire 1924 - Vintage Hutchinson&#x27;s &#x27;Britain Beautiful&#x27; Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aberdeenshire map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Aberdeenshire map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Duo Vicecomitatus Aberdonia &amp; Banfia&#x27;. Aberdeen Banff BLAEU 1654 copy 1912 map"><img src="https://i.ebayimg.com/images/g/HbIAAeSwMvJqKays/s-l225.jpg" alt="Listing image for &#x27;Duo Vicecomitatus Aberdonia &amp; Banfia&#x27;. Aberdeen Banff BLAEU 1654 copy 1912 map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer">&#x27;Duo Vicecomitatus Aberdonia &amp; Banfia&#x27;. Aberdeen Banff BLAEU 1654 copy 1912 map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aberdeenshire map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Aberdeenshire map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-2ce3e2-which-aberdeenshire-counts-for-ufo-history-aberdeenshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aberdeenshire Aberdeen Map - c.1930&#x27;s Clipping / Print"><img src="https://i.ebayimg.com/images/g/l~4AAOSwU2VlfbVp/s-l225.jpg" alt="Listing image for Aberdeenshire Aberdeen Map - c.1930&#x27;s Clipping / Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer">Aberdeenshire Aberdeen Map - c.1930&#x27;s Clipping / Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aberdeenshire map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Aberdeenshire map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aberdeenshire+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aberdeenshire map print" data-ebay-reference="which-aberdeenshire-counts-for-ufo-history-aberdeenshire-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,254 +734,254 @@ The right reader takeaway is simple: ask “which Aberdeenshire?” before askin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Historic counties of the United Kingdom.svgFile:Historic counties of the United Kingdom.svg · 1 Aberdeenshire · 2 A...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHistoric_counties_of_the_United_Kingdom.svg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Historic counties of the United Kingdom.svgFile:Historic counties of the United Kingdom.svg · 1 Aberdeenshire · 2 A...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: county-borders.co.uk  
-   Link: <a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Historic County Borders Project: The Historic Counties TrustThe Historic County Borders Project has digitised the borders of the hist...</p></details>
+   Link:<a href="https://www.county-borders.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.county-borders.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Historic County Borders Project: The Historic Counties TrustThe Historic County Borders Project has digitised the borders of the hist...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muchalls</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muchalls</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: boundaries.scot  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/BS136_ABN_ABNS_ANG_MOR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/BS136_ABN_ABNS_ANG_MOR.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/BS136_ABN_ABNS_ANG_MOR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/BS136_ABN_ABNS_ANG_MOR.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Aberdeenshire (historic)  
-   Link: <a href="https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 with ridings.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_with_ridings.svg</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/media/5981/siteatcraigviewroadballater050213.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/5981/siteatcraigviewroadballater050213.pdf</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/media/5981/siteatcraigviewroadballater050213.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/5981/siteatcraigviewroadballater050213.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archives.aberdeencity.gov.uk  
-   Link: <a href="https://archives.aberdeencity.gov.uk/calmview/Record.aspx?id=ASC%2F3%2F4%2F2021%2F10&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://archives.aberdeencity.gov.uk/calmview/Record.aspx?id=ASC%2F3%2F4%2F2021%2F10&amp;src=CalmView.Catalog</a>  
+   Link:<a href="https://archives.aberdeencity.gov.uk/calmview/Record.aspx?id=ASC%2F3%2F4%2F2021%2F10&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://archives.aberdeencity.gov.uk/calmview/Record.aspx?id=ASC%2F3%2F4%2F2021%2F10&amp;src=CalmView.Catalog</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: sites.aberdeencity.gov.uk  
    Title: aberdeencity.gov.uk UF O Project Sheet No information is available for this page  
-   Link: <a href="https://sites.aberdeencity.gov.uk/sites/default/files/2025-02/UFO%20Project%20Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.aberdeencity.gov.uk/sites/default/files/2025-02/UFO%20Project%20Sheet.pdf</a>  
+   Link:<a href="https://sites.aberdeencity.gov.uk/sites/default/files/2025-02/UFO%20Project%20Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.aberdeencity.gov.uk/sites/default/files/2025-02/UFO%20Project%20Sheet.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sites.aberdeencity.gov.uk  
-   Link: <a href="https://sites.aberdeencity.gov.uk/media/9161" target="_blank" rel="noopener noreferrer nofollow">https://sites.aberdeencity.gov.uk/media/9161</a>  
+   Link:<a href="https://sites.aberdeencity.gov.uk/media/9161" target="_blank" rel="noopener noreferrer nofollow">https://sites.aberdeencity.gov.uk/media/9161</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: marine.gov.scot  
-   Link: <a href="https://marine.gov.scot/sites/default/files/00457478.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/00457478.pdf</a>  
+   Link:<a href="https://marine.gov.scot/sites/default/files/00457478.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/00457478.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: bcomm-scotland.independent.gov.uk  
-   Link: <a href="https://www.bcomm-scotland.independent.gov.uk/wp-content/uploads/sites/2/2025/09/BCS_2022_12_AB_ABS_HGH_MOR_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bcomm-scotland.independent.gov.uk/wp-content/uploads/sites/2/2025/09/BCS_2022_12_AB_ABS_HGH_MOR_Revised.pdf</a>  
+   Link:<a href="https://www.bcomm-scotland.independent.gov.uk/wp-content/uploads/sites/2/2025/09/BCS_2022_12_AB_ABS_HGH_MOR_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bcomm-scotland.independent.gov.uk/wp-content/uploads/sites/2/2025/09/BCS_2022_12_AB_ABS_HGH_MOR_Revised.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ckan.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Historic County  
-   Link: <a href="https://ckan.publishing.service.gov.uk/dataset/historic-county1" target="_blank" rel="noopener noreferrer nofollow">https://ckan.publishing.service.gov.uk/dataset/historic-county1</a>  
+   Link:<a href="https://ckan.publishing.service.gov.uk/dataset/historic-county1" target="_blank" rel="noopener noreferrer nofollow">https://ckan.publishing.service.gov.uk/dataset/historic-county1</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aberdeenshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aberdeenshire</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: mirror.co.uk  
    Title: uk village known ufo hotspot 31026114  
-   Link: <a href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114</a>  
+   Link:<a href="https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/uk-village-known-ufo-hotspot-31026114</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-aberdeen-is-a-shire-in-the-highlands-of-scotlandit-borders-five-ot/614063817543856/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/aberdeenshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/aberdeenshire/</a>  
+   Link:<a href="https://realcounties.com/county/aberdeenshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/aberdeenshire/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: docs.os.uk  
    Title: historic county  
-   Link: <a href="https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units/boundaries/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units/boundaries/historic-county</a>  
+   Link:<a href="https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units/boundaries/historic-county" target="_blank" rel="noopener noreferrer nofollow">https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units/boundaries/historic-county</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kincardineshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kincardineshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kincardineshire</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of British CountiesAbout the CountiesThere are 92 historic counties in the UK: 39 in England, 6 in Northern Ireland, 34 in Sc...</p></details>
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of British CountiesAbout the CountiesThere are 92 historic counties in the UK: 39 in England, 6 in Northern Ireland, 34 in Sc...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: The Town with the Most UFO Sightings in the World  
-   Link: <a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data &amp; Trends [Python Data Visualization Project]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data &amp; Trends [Python Data Visualization Project]...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: UFO Sightings Data & Trends [Python Data Visualization Project]  
-   Link: <a href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Lb-STlkIkI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Did English Counties Get Their Names?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Lb-STlkIkI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Did English Counties Get Their Names?...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/aberdeenshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/aberdeenshire.html</a>  
+   Link:<a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/aberdeenshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/aberdeenshire.html</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/factsheets</a>  
+   Link:<a href="https://gazetteer.org.uk/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/factsheets</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/</a>  
+   Link:<a href="https://realcounties.com/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: historic-uk.com  
-   Link: <a href="https://www.historic-uk.com/HistoryMagazine/DestinationsUK/HistoricSitesinNorthEastScotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.historic-uk.com/HistoryMagazine/DestinationsUK/HistoricSitesinNorthEastScotland/</a>  
+   Link:<a href="https://www.historic-uk.com/HistoryMagazine/DestinationsUK/HistoricSitesinNorthEastScotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.historic-uk.com/HistoryMagazine/DestinationsUK/HistoricSitesinNorthEastScotland/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/kincardineshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kincardineshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/kincardineshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kincardineshire/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/aberdeen1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/aberdeen1.htm</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/aberdeen1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/aberdeen1.htm</a>  

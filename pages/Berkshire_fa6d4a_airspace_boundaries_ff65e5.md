@@ -261,46 +261,46 @@ For Berkshire’s UFO history, this matters more than folklore. The county has p
 
 ## Which Berkshire is the report really using?
 
-The first source of confusion is the county boundary itself. In historic-county terms, Berkshire traditionally included places such as Abingdon, Wantage, Didcot, Wallingford and the Vale of White Horse, much of which is now administered as Oxfordshire. Modern ceremonial Berkshire, by contrast, includes Slough and parts of the east that were historically Buckinghamshire. The Berkshire Family History Society summarises the practical effect clearly: the 1974 reorganisation removed the “leg” of the Berkshire boot, including Wantage, Didcot, Faringdon, Wallingford, Abingdon and the Vale of White Horse, while Slough moved into Berkshire from Buckinghamshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://berksfhs.org/info/research-guides/about-historic-berkshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berksfhs.org">[Berkshire Family History Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berksfhs.org</span><span class="citation-popover-snippet">Open source on berksfhs.org.</span></span></span>
+The first source of confusion is the county boundary itself. In historic-county terms, Berkshire traditionally included places such as Abingdon, Wantage, Didcot, Wallingford and the Vale of White Horse, much of which is now administered as Oxfordshire. Modern ceremonial Berkshire, by contrast, includes Slough and parts of the east that were historically Buckinghamshire. The Berkshire Family History Society summarises the practical effect clearly: the 1974 reorganisation removed the “leg” of the Berkshire boot, including Wantage, Didcot, Faringdon, Wallingford, Abingdon and the Vale of White Horse, while Slough moved into Berkshire from Buckinghamshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://berksfhs.org/info/research-guides/about-historic-berkshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berksfhs.org">[Berkshire Family History Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berksfhs.org</span><span class="citation-popover-snippet">Open source on berksfhs.org.</span></span></span>
 
-For a UFO page, that is not a dry local-government detail. Older reports, newspaper cuttings, family recollections and aviation histories may use “Berkshire” in a historic sense, while police, councils, aviation bodies and modern media may use the current administrative or ceremonial county. The Wikishire map used by this project follows the historic-county frame, so a reader should expect occasional differences from today’s council map. Wikishire itself describes Berkshire as a Royal County in southern England along the south bank of the Thames, while its map service states that its county maps conform to the Historic Counties Standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For a UFO page, that is not a dry local-government detail. Older reports, newspaper cuttings, family recollections and aviation histories may use “Berkshire” in a historic sense, while police, councils, aviation bodies and modern media may use the current administrative or ceremonial county. The Wikishire map used by this project follows the historic-county frame, so a reader should expect occasional differences from today’s council map. Wikishire itself describes Berkshire as a Royal County in southern England along the south bank of the Thames, while its map service states that its county maps conform to the Historic Counties Standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Berkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-This is especially important around Reading and the Thames. Caversham is now part of Reading for local-government purposes, but historic-county gazetteers place it in Oxfordshire on the north bank of the Thames. A witness saying “Reading” may therefore sound straightforward, while a historic-county index may split the same urban area across Berkshire and Oxfordshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Caversham%2C_Oxfordshire_8424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Caversham, Oxfordshire 8424</span><span class="citation-popover-snippet">Caversham, Oxfordshire 8424</span></span></span>
+This is especially important around Reading and the Thames. Caversham is now part of Reading for local-government purposes, but historic-county gazetteers place it in Oxfordshire on the north bank of the Thames. A witness saying “Reading” may therefore sound straightforward, while a historic-county index may split the same urban area across Berkshire and Oxfordshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Caversham%2C_Oxfordshire_8424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Caversham, Oxfordshire 8424</span><span class="citation-popover-snippet">Caversham, Oxfordshire 8424</span></span></span>
 
-The reverse problem appears in the east. Slough is now firmly associated with Berkshire in many modern contexts, but its borough was formed in 1974 from areas formerly linked with Buckinghamshire, and Colnbrook with Poyle was later transferred to Slough in 1995. A modern “Berkshire” sighting near Slough, Windsor or the Heathrow fringe can therefore sit in a place-name zone where older maps, local memory and present administration do not always line up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Borough_of_Slough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Borough of Slough</span><span class="citation-popover-snippet">Borough of Slough</span></span></span>
+The reverse problem appears in the east. Slough is now firmly associated with Berkshire in many modern contexts, but its borough was formed in 1974 from areas formerly linked with Buckinghamshire, and Colnbrook with Poyle was later transferred to Slough in 1995. A modern “Berkshire” sighting near Slough, Windsor or the Heathrow fringe can therefore sit in a place-name zone where older maps, local memory and present administration do not always line up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Borough_of_Slough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Borough of Slough</span><span class="citation-popover-snippet">Borough of Slough</span></span></span>
 
 
 <img src="{{ "/assets/images/Berkshire_fa6d4a_airspace_boundaries_ff65e5-Illustration-1-dark.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Berkshire_fa6d4a_airspace_boundaries_ff65e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berkshire_fa6d4a_airspace_boundaries_ff65e5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Heathrow makes “over Berkshire” a moving target
 
-The second source of confusion is airspace. Berkshire is not just near Heathrow; much of eastern and central Berkshire lies beneath, beside or close to traffic flows feeding the London airport system. Heathrow says it is one of the busiest two-runway airports in the world, with about 1,300 combined take-offs and landings a day and around 650 arrivals on an average day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heathrow.com">[Heathrow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heathrow.com</span><span class="citation-popover-snippet">Arrival flight paths &#124; Heathrow...</span></span></span>
+The second source of confusion is airspace. Berkshire is not just near Heathrow; much of eastern and central Berkshire lies beneath, beside or close to traffic flows feeding the London airport system. Heathrow says it is one of the busiest two-runway airports in the world, with about 1,300 combined take-offs and landings a day and around 650 arrivals on an average day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heathrow.com">[Heathrow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heathrow.com</span><span class="citation-popover-snippet">Arrival flight paths &#124; Heathrow...</span></span></span>
 
-That density matters because many UFO reports begin as brief visual impressions: lights, shapes, apparent speed, silence, colour or a sudden change in direction. In Berkshire, those impressions are made against a background of aircraft being held, sequenced, descending, climbing or crossing between controlled sectors. Heathrow explains that inbound aircraft may enter one of four holding stacks — Bovingdon, Lambourne, Ockham and Biggin — where they circle at separated levels before being directed towards final approach. The airport also notes that there are no fixed routes from the stacks to final approach, because air traffic controllers sequence aircraft according to traffic, weather and other conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heathrow.com">[Heathrow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heathrow.com</span><span class="citation-popover-snippet">Arrival flight paths &#124; Heathrow...</span></span></span>
+That density matters because many UFO reports begin as brief visual impressions: lights, shapes, apparent speed, silence, colour or a sudden change in direction. In Berkshire, those impressions are made against a background of aircraft being held, sequenced, descending, climbing or crossing between controlled sectors. Heathrow explains that inbound aircraft may enter one of four holding stacks — Bovingdon, Lambourne, Ockham and Biggin — where they circle at separated levels before being directed towards final approach. The airport also notes that there are no fixed routes from the stacks to final approach, because air traffic controllers sequence aircraft according to traffic, weather and other conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heathrow.com">[Heathrow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heathrow.com</span><span class="citation-popover-snippet">Arrival flight paths &#124; Heathrow...</span></span></span>
 
 For a witness on the ground, that means the same patch of sky can look different from one evening to the next. An aircraft leaving a hold may appear to curve, slow, brighten, dim or change direction. Landing lights can seem stationary when an aircraft is heading broadly towards the observer. A bright object can be reported as hovering, then suddenly moving, when the real change is the observer’s angle to an aircraft’s turn.
 
-This does not explain every report, but it does change the starting point. A Berkshire sighting near Maidenhead, Bracknell, Windsor, Slough or Reading should normally be checked against Heathrow flows, London terminal airspace, nearby general aviation and astronomical objects before it is treated as a genuinely unexplained local event. The National Archives’ guide to the Ministry of Defence UFO files makes the same broad point about UK reports: many describe shapes, lights and flashes that can often be explained, and common explanations in older files include Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+This does not explain every report, but it does change the starting point. A Berkshire sighting near Maidenhead, Bracknell, Windsor, Slough or Reading should normally be checked against Heathrow flows, London terminal airspace, nearby general aviation and astronomical objects before it is treated as a genuinely unexplained local event. The National Archives’ guide to the Ministry of Defence UFO files makes the same broad point about UK reports: many describe shapes, lights and flashes that can often be explained, and common explanations in older files include Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The effect is still live, not only historical. In 2026, NATS said the new UK Airspace Design Service would focus on the London Terminal Control Area, describing it as one of the world’s busiest and most complex areas of controlled airspace. That modernisation work is about safety, efficiency and capacity, not UFOs, but it underlines why Berkshire reports need to be read as part of a much larger London airspace system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nats.aero/news/nats-welcomes-licence-change-to-enable-uk-airspace-design-service/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">welcomes licence change to enable UK Airspace</span><span class="citation-popover-snippet">welcomes licence change to enable UK Airspace</span></span></span>
+The effect is still live, not only historical. In 2026, NATS said the new UK Airspace Design Service would focus on the London Terminal Control Area, describing it as one of the world’s busiest and most complex areas of controlled airspace. That modernisation work is about safety, efficiency and capacity, not UFOs, but it underlines why Berkshire reports need to be read as part of a much larger London airspace system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nats.aero/news/nats-welcomes-licence-change-to-enable-uk-airspace-design-service/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">welcomes licence change to enable UK Airspace</span><span class="citation-popover-snippet">welcomes licence change to enable UK Airspace</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iXTyLVqgC7I" title="Berkshire - Straight Up Airliner (1957)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iXTyLVqgC7I" target="_blank" rel="noopener noreferrer">Berkshire - Straight Up Airliner (1957)</a></p><p class="youtube-embed-meta">Channel: British Pathé</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iXTyLVqgC7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iXTyLVqgC7I">Open on YouTube</a></p></div></div></div>
 
 ## White Waltham adds a local layer below the airliners
 
-Heathrow dominates the mental map, but it is not the only aviation influence in Berkshire. White Waltham Airfield, near Maidenhead, is a major local factor because it brings small aircraft, training flights and general aviation into the same county story. The West London Aero Club describes White Waltham as one of the oldest and best-known airfields in the country, set in 200 acres of Berkshire countryside and reputedly the largest grass airfield in Britain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlac.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlac.co.uk">[West London Aero Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlac.co.uk</span><span class="citation-popover-snippet">Open source on wlac.co.uk.</span></span></span>
+Heathrow dominates the mental map, but it is not the only aviation influence in Berkshire. White Waltham Airfield, near Maidenhead, is a major local factor because it brings small aircraft, training flights and general aviation into the same county story. The West London Aero Club describes White Waltham as one of the oldest and best-known airfields in the country, set in 200 acres of Berkshire countryside and reputedly the largest grass airfield in Britain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlac.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlac.co.uk">[West London Aero Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlac.co.uk</span><span class="citation-popover-snippet">Open source on wlac.co.uk.</span></span></span>
 
-White Waltham’s history also gives it a stronger UFO-research relevance than a simple private landing strip. The International Bomber Command Centre archive notes that the site was used by the de Havilland family from 1928, became an RAF flying training site, then became the headquarters of the Air Transport Auxiliary during the Second World War before later use by Fairey Aviation and Westland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/48444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibccdigitalarchive.lincoln.ac.uk">[IBCC Digital Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibccdigitalarchive.lincoln.ac.uk</span><span class="citation-popover-snippet">Open source on lincoln.ac.uk.</span></span></span>
+White Waltham’s history also gives it a stronger UFO-research relevance than a simple private landing strip. The International Bomber Command Centre archive notes that the site was used by the de Havilland family from 1928, became an RAF flying training site, then became the headquarters of the Air Transport Auxiliary during the Second World War before later use by Fairey Aviation and Westland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/48444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibccdigitalarchive.lincoln.ac.uk">[IBCC Digital Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibccdigitalarchive.lincoln.ac.uk</span><span class="citation-popover-snippet">Open source on lincoln.ac.uk.</span></span></span>
 
-This creates two practical consequences for interpreting reports. First, local skies may include small aircraft that look and sound very different from Heathrow jets: lower, slower, sometimes turning repeatedly, and sometimes less obvious to casual observers. Secondly, White Waltham sits in a constrained position near the London airspace system. A 2007 pilot profile described it as embedded at the westernmost point of Heathrow’s Terminal Manoeuvring Area, with an airspace ceiling over the field and lower restrictions to the east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlac.co.uk/files/Pilot_Article_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlac.co.uk">[West London Aero Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlac.co.uk</span><span class="citation-popover-title">Pilot Article 2007</span><span class="citation-popover-snippet">Pilot Article 2007</span></span></span>
+This creates two practical consequences for interpreting reports. First, local skies may include small aircraft that look and sound very different from Heathrow jets: lower, slower, sometimes turning repeatedly, and sometimes less obvious to casual observers. Secondly, White Waltham sits in a constrained position near the London airspace system. A 2007 pilot profile described it as embedded at the westernmost point of Heathrow’s Terminal Manoeuvring Area, with an airspace ceiling over the field and lower restrictions to the east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlac.co.uk/files/Pilot_Article_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlac.co.uk">[West London Aero Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlac.co.uk</span><span class="citation-popover-title">Pilot Article 2007</span><span class="citation-popover-snippet">Pilot Article 2007</span></span></span>
 
 That helps explain why a “strange object over Berkshire” may not require exotic possibilities to be interesting. A witness may be seeing a training aircraft, a light aircraft turning near controlled airspace, a helicopter, a glider, an aircraft catching sunlight, or an airliner in the distance. The problem is not that witnesses are foolish. It is that Berkshire gives them many legitimate aerial objects to misread.
 
 ## The 2013 A320 case shows why airspace records matter
 
-The clearest Berkshire airspace example is the 2013 Airbus A320 near-miss report. An airline captain reported a bright silver, metallic-looking object, described as cigar- or rugby-ball-shaped, while the aircraft was cruising at 34,000 feet around 20 miles west of Heathrow over the Berkshire countryside. Dr David Clarke’s account, drawing on the Airprox report and contemporary press coverage, records that the captain believed the object was on a collision course, ducked instinctively and expected an impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Jet in ‘airmiss’ with UFO near Heathrow &#124;...</span></span></span>
+The clearest Berkshire airspace example is the 2013 Airbus A320 near-miss report. An airline captain reported a bright silver, metallic-looking object, described as cigar- or rugby-ball-shaped, while the aircraft was cruising at 34,000 feet around 20 miles west of Heathrow over the Berkshire countryside. Dr David Clarke’s account, drawing on the Airprox report and contemporary press coverage, records that the captain believed the object was on a collision course, ducked instinctively and expected an impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Jet in ‘airmiss’ with UFO near Heathrow &#124;...</span></span></span>
 
-This case matters because it is not just a ground witness saying “I saw a light”. It involved a professional pilot, an aircraft in controlled airspace, a report to air traffic control and scrutiny through the UK Airprox system, which examines near-collision reports. According to the published summary discussed by Clarke, radar did not show a corresponding object; other aircraft in the area were checked and eliminated; meteorological balloons were ruled out; toy balloons were considered unlikely at that height but not absolutely impossible; and the final conclusion was that it was not possible to trace the object or determine the likely cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Jet in ‘airmiss’ with UFO near Heathrow &#124;...</span></span></span>
+This case matters because it is not just a ground witness saying “I saw a light”. It involved a professional pilot, an aircraft in controlled airspace, a report to air traffic control and scrutiny through the UK Airprox system, which examines near-collision reports. According to the published summary discussed by Clarke, radar did not show a corresponding object; other aircraft in the area were checked and eliminated; meteorological balloons were ruled out; toy balloons were considered unlikely at that height but not absolutely impossible; and the final conclusion was that it was not possible to trace the object or determine the likely cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Jet in ‘airmiss’ with UFO near Heathrow &#124;...</span></span></span>
 
 That is a stronger evidence trail than many local UFO stories, but it is still not proof of an extraordinary craft. The important wording is “untraced” or “not possible to determine”, not “confirmed unknown vehicle”. The case sits in the unresolved category because investigators could not match the pilot’s observation to a known aircraft, balloon or radar return. It remains a serious aviation-safety report rather than a confirmed alien or secret-technology event.
 
@@ -312,11 +312,11 @@ It also shows how Berkshire becomes a label for a moving airborne incident. The 
 
 Berkshire’s military geography also complicates UFO interpretation. The county does not have a single Rendlesham-style case, but it does have places whose Cold War associations make local aerial reports feel more charged than they otherwise might. Greenham Common and RAF Welford are the two most important examples in the Berkshire branch.
 
-Greenham Common, south of Newbury and Thatcham, was an RAF and US Air Force base. Local heritage accounts describe its use through the Second World War, the Cold War and later as the home of the 501st Tactical Missile Wing with 96 ground-launched cruise missiles, before closure in 1992. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.greenhamcommon.org.uk/greenham-history-1941-1992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenhamcommon.org.uk">[greenhamcommon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenhamcommon.org.uk</span><span class="citation-popover-title">greenham history 1941 1992</span><span class="citation-popover-snippet">greenham history 1941 1992</span></span></span> Greenham Tower’s heritage account adds that the base was made available to the United States Air Force as a Strategic Air Command base in 1951, in the context of Cold War fears after the Berlin Blockade and the Korean War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.greenhamtower.org.uk/our-heritage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenhamtower.org.uk">[Greenham Common Control Tower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenhamtower.org.uk</span><span class="citation-popover-title">our heritage</span><span class="citation-popover-snippet">our heritage</span></span></span>
+Greenham Common, south of Newbury and Thatcham, was an RAF and US Air Force base. Local heritage accounts describe its use through the Second World War, the Cold War and later as the home of the 501st Tactical Missile Wing with 96 ground-launched cruise missiles, before closure in 1992.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.greenhamcommon.org.uk/greenham-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenhamcommon.org.uk">[greenhamcommon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenhamcommon.org.uk</span><span class="citation-popover-title">greenham history</span><span class="citation-popover-snippet">greenham history</span></span></span> Greenham Tower’s heritage account adds that the base was made available to the United States Air Force as a Strategic Air Command base in 1951, in the context of Cold War fears after the Berlin Blockade and the Korean War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.greenhamtower.org.uk/our-heritage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenhamtower.org.uk">[Greenham Common Control Tower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenhamtower.org.uk</span><span class="citation-popover-title">our heritage</span><span class="citation-popover-snippet">our heritage</span></span></span>
 
 That history does not make every odd light near Newbury a military secret. It does explain why witnesses, journalists and later researchers may frame ambiguous sightings through a defence lens. Around a former nuclear-linked airbase, an unusual light can quickly be interpreted as surveillance, a secret aircraft, a drone, a military exercise or something more exotic. The place gives the sighting a narrative before the evidence has caught up.
 
-RAF Welford adds a second military layer. Heritage Gateway records that RAF Welford reopened in 1955 as a US logistics and supply base, with a large weapons storage area that partly obscured the old airfield layout. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1030&amp;uid=MWB15916" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagegateway.org.uk">[Heritage Gateway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagegateway.org.uk</span><span class="citation-popover-title">Results Single.aspx</span><span class="citation-popover-snippet">Results Single.aspx</span></span></span> The present US Air Force page for RAF Fairford and Welford describes RAF Welford as home to the 420th Munitions Squadron and as the second largest conventional munitions storage area in Europe, primarily supporting RAF Fairford. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Fairford-Welford/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">RA F Fairford-Welford</span><span class="citation-popover-snippet">RA F Fairford-Welford</span></span></span>
+RAF Welford adds a second military layer. Heritage Gateway records that RAF Welford reopened in 1955 as a US logistics and supply base, with a large weapons storage area that partly obscured the old airfield layout.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1030&amp;uid=MWB15916" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagegateway.org.uk">[Heritage Gateway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagegateway.org.uk</span><span class="citation-popover-title">Results Single.aspx</span><span class="citation-popover-snippet">Results Single.aspx</span></span></span> The present US Air Force page for RAF Fairford and Welford describes RAF Welford as home to the 420th Munitions Squadron and as the second largest conventional munitions storage area in Europe, primarily supporting RAF Fairford.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Fairford-Welford/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501csw.usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">RA F Fairford-Welford</span><span class="citation-popover-snippet">RA F Fairford-Welford</span></span></span>
 
 For UFO interpretation, Welford matters in a narrow way. It is a defence site in Berkshire, but not a busy public flying hub like Heathrow or a general aviation centre like White Waltham. Its relevance is more about context and caution: reports near Welford may attract speculation because of the base’s role, yet the presence of a military site is not itself evidence that a sighting involved classified activity. It can just as easily bias how a witness, newspaper or later database describes an otherwise ordinary observation.
 
@@ -325,11 +325,11 @@ For UFO interpretation, Welford matters in a narrow way. It is a defence site in
 
 ## How official records can blur place, cause and importance
 
-The Ministry of Defence records are useful but often frustrating for county-level UFO work. GOV.UK hosts the MoD’s UFO report lists for 1997 to 2009, describing them as reports showing dates, times, locations and brief sighting descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That format helps researchers find local entries, but it rarely gives the full chain of investigation that readers may expect.
+The Ministry of Defence records are useful but often frustrating for county-level UFO work. GOV.UK hosts the MoD’s UFO report lists for 1997 to 2009, describing them as reports showing dates, times, locations and brief sighting descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> That format helps researchers find local entries, but it rarely gives the full chain of investigation that readers may expect.
 
-The National Archives gives the broader archival warning. UFO observation reports may include location, movement, distance and weather conditions, but they generally give no explanation for the sighting; occasionally they contain annotations about local events such as a music concert or airship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> For Berkshire, that means a report from Reading, Newbury, Windsor, Bracknell or Slough may be real as a record of what someone reported, while still being weak as evidence of what was actually in the sky.
+The National Archives gives the broader archival warning. UFO observation reports may include location, movement, distance and weather conditions, but they generally give no explanation for the sighting; occasionally they contain annotations about local events such as a music concert or airship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> For Berkshire, that means a report from Reading, Newbury, Windsor, Bracknell or Slough may be real as a record of what someone reported, while still being weak as evidence of what was actually in the sky.
 
-The MoD’s institutional position also matters. The National Archives says the MoD retained UFO records after public interest increased, but its files include many cases with ordinary explanations and many one-off sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> When the UFO desk was closed, released papers stated that it served no defence purpose and that, in more than 50 years, no UFO report had shown evidence of a potential threat to the United Kingdom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The MoD’s institutional position also matters. The National Archives says the MoD retained UFO records after public interest increased, but its files include many cases with ordinary explanations and many one-off sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> When the UFO desk was closed, released papers stated that it served no defence purpose and that, in more than 50 years, no UFO report had shown evidence of a potential threat to the United Kingdom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 That does not mean every Berkshire sighting was solved. It means the official system was not designed as a permanent scientific investigation of every unusual light. It was primarily concerned with defence significance. A case could remain unexplained to the witness, unresolved in a database, and still be judged of no defence interest.
 
@@ -377,194 +377,194 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Berkshire UFO Reports Cross So Many Borders. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Berkshire UFO Reports Cross So Many Borders. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Focuses on British UFO case records and how sightings were documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on British UFO case records and how sightings were documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how official and aviation witnesses report unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how official and aviation witnesses report unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Connects UFO reports with aviation, defence reporting and British airspace context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports with aviation, defence reporting and British airspace context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for understanding recurring sighting patterns and classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding recurring sighting patterns and classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVIATION CHART MEXICO CITY H/L AREA 2017 Edition North America Airspace JEPPESEN"><img src="{{ '/assets/images/marketplace-covers/7dc21ad95af63c13fb4e.jpg' | relative_url }}" alt="Listing image for AVIATION CHART MEXICO CITY H/L AREA 2017 Edition North America Airspace JEPPESEN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">AVIATION CHART MEXICO CITY H/L AREA 2017 Edition North America Airspace JEPPESEN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVIATION CHART MEXICO CITY H/L AREA 2017 Edition North America Airspace JEPPESEN"><img src="{{ '/assets/images/marketplace-covers/7dc21ad95af63c13fb4e.jpg' | relative_url }}" alt="Listing image for AVIATION CHART MEXICO CITY H/L AREA 2017 Edition North America Airspace JEPPESEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">AVIATION CHART MEXICO CITY H/L AREA 2017 Edition North America Airspace JEPPESEN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chart of united kingdom airspace restrictions inc. Danger Areas 1st January 1978"><img src="{{ '/assets/images/marketplace-covers/27da6e5b97b3c503dbef.jpg' | relative_url }}" alt="Listing image for Chart of united kingdom airspace restrictions inc. Danger Areas 1st January 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">Chart of united kingdom airspace restrictions inc. Danger Areas 1st January 1978</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chart of united kingdom airspace restrictions inc. Danger Areas 1st January 1978"><img src="{{ '/assets/images/marketplace-covers/27da6e5b97b3c503dbef.jpg' | relative_url }}" alt="Listing image for Chart of united kingdom airspace restrictions inc. Danger Areas 1st January 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">Chart of united kingdom airspace restrictions inc. Danger Areas 1st January 1978</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Private pilot airspace study kit FAA The Air Space Kit"><img src="{{ '/assets/images/marketplace-covers/3fbcb6fba554e77e7c74.jpg' | relative_url }}" alt="Listing image for Private pilot airspace study kit FAA The Air Space Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">Private pilot airspace study kit FAA The Air Space Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Private pilot airspace study kit FAA The Air Space Kit"><img src="{{ '/assets/images/marketplace-covers/3fbcb6fba554e77e7c74.jpg' | relative_url }}" alt="Listing image for Private pilot airspace study kit FAA The Air Space Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">Private pilot airspace study kit FAA The Air Space Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVIATION CHART ROME ITALY Airspace Area 2017 Edition Europe JEPPESEN NOS"><img src="{{ '/assets/images/marketplace-covers/0639d7d5bf167dcbcbef.jpg' | relative_url }}" alt="Listing image for AVIATION CHART ROME ITALY Airspace Area 2017 Edition Europe JEPPESEN NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">AVIATION CHART ROME ITALY Airspace Area 2017 Edition Europe JEPPESEN NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVIATION CHART ROME ITALY Airspace Area 2017 Edition Europe JEPPESEN NOS"><img src="{{ '/assets/images/marketplace-covers/0639d7d5bf167dcbcbef.jpg' | relative_url }}" alt="Listing image for AVIATION CHART ROME ITALY Airspace Area 2017 Edition Europe JEPPESEN NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">AVIATION CHART ROME ITALY Airspace Area 2017 Edition Europe JEPPESEN NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airspace chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: airspace chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airspace+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airspace chart" data-ebay-reference="airspace-why-berkshire-ufo-reports-cross-so-many-borders-berkshire-airspace-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,269 +770,269 @@ That is why Berkshire’s UFO history is best understood as a border-and-airspac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Borough of Slough  
-   Link: <a href="https://en.wikipedia.org/wiki/Borough_of_Slough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Borough_of_Slough</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Borough_of_Slough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Borough_of_Slough</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: heathrow.com  
-   Link: <a href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival flight paths | Heathrow...</p></details>
+   Link:<a href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival flight paths | Heathrow...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nats.aero  
    Title: welcomes licence change to enable UK Airspace  
-   Link: <a href="https://www.nats.aero/news/nats-welcomes-licence-change-to-enable-uk-airspace-design-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/nats-welcomes-licence-change-to-enable-uk-airspace-design-service/</a>  
+   Link:<a href="https://www.nats.aero/news/nats-welcomes-licence-change-to-enable-uk-airspace-design-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/nats-welcomes-licence-change-to-enable-uk-airspace-design-service/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke  
-   Link: <a href="https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jet in ‘airmiss’ with UFO near Heathrow |...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2014/01/05/jet-in-airmiss-with-ufo-near-heathrow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jet in ‘airmiss’ with UFO near Heathrow |...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: 501csw.usafe.af.mil  
    Title: RA F Fairford-Welford  
-   Link: <a href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Fairford-Welford/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Fairford-Welford/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Fairford-Welford/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Fairford-Welford/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5c0e6fe3e5274a0bad85ad8c/nats-caa-feasibility-airspace-modernisation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c0e6fe3e5274a0bad85ad8c/nats-caa-feasibility-airspace-modernisation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5c0e6fe3e5274a0bad85ad8c/nats-caa-feasibility-airspace-modernisation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c0e6fe3e5274a0bad85ad8c/nats-caa-feasibility-airspace-modernisation.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Berkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berkshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Berkshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berkshire</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: RAF Welford  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Welford" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Welford</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Welford" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Welford</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: RAF Greenham Common  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Greenham_Common" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Greenham_Common</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Greenham_Common" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Greenham_Common</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: White Waltham Airfield  
-   Link: <a href="https://en.wikipedia.org/wiki/White_Waltham_Airfield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Waltham_Airfield</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/White_Waltham_Airfield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Waltham_Airfield</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: List of Berkshire boundary changes  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Berkshire_boundary_changes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Berkshire_boundary_changes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Berkshire_boundary_changes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Berkshire_boundary_changes</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: heathrow.com  
    Title: airspace modernisation  
-   Link: <a href="https://www.heathrow.com/company/local-community/noise/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/airspace-modernisation</a>  
+   Link:<a href="https://www.heathrow.com/company/local-community/noise/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/airspace-modernisation</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: heathrow.com  
-   Link: <a href="https://www.heathrow.com/company/local-community/noise/airspace-modernisation/why-modernise-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/airspace-modernisation/why-modernise-airspace</a>  
+   Link:<a href="https://www.heathrow.com/company/local-community/noise/airspace-modernisation/why-modernise-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/airspace-modernisation/why-modernise-airspace</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: GOV.UK  
    Title: airspace modernisation  
-   Link: <a href="https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation</a>  
+   Link:<a href="https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/airspace-modernisation/airspace-modernisation</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nats.aero  
    Title: About airspace  
-   Link: <a href="https://www.nats.aero/airspace/about-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/about-airspace/</a>  
+   Link:<a href="https://www.nats.aero/airspace/about-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/about-airspace/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nats.aero  
    Title: Airspace consultations  
-   Link: <a href="https://www.nats.aero/airspace/consultations/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/consultations/</a>  
+   Link:<a href="https://www.nats.aero/airspace/consultations/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/consultations/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/264/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/264/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/264/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/264/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: richmond.gov.uk  
-   Link: <a href="https://www.richmond.gov.uk/heathrow" target="_blank" rel="noopener noreferrer nofollow">https://www.richmond.gov.uk/heathrow</a>  
+   Link:<a href="https://www.richmond.gov.uk/heathrow" target="_blank" rel="noopener noreferrer nofollow">https://www.richmond.gov.uk/heathrow</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: london.gov.uk  
    Title: calls heathrow stage 2 plan over air and noise pollution concerns  
-   Link: <a href="https://www.london.gov.uk/who-we-are/what-london-assembly-does/london-assembly-press-releases/calls-heathrow-stage-2-plan-over-air-and-noise-pollution-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/who-we-are/what-london-assembly-does/london-assembly-press-releases/calls-heathrow-stage-2-plan-over-air-and-noise-pollution-concerns</a>  
+   Link:<a href="https://www.london.gov.uk/who-we-are/what-london-assembly-does/london-assembly-press-releases/calls-heathrow-stage-2-plan-over-air-and-noise-pollution-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/who-we-are/what-london-assembly-does/london-assembly-press-releases/calls-heathrow-stage-2-plan-over-air-and-noise-pollution-concerns</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: greenham.gov.uk  
-   Link: <a href="https://greenham.gov.uk/greenham-common" target="_blank" rel="noopener noreferrer nofollow">https://greenham.gov.uk/greenham-common</a>  
+   Link:<a href="https://greenham.gov.uk/greenham-common" target="_blank" rel="noopener noreferrer nofollow">https://greenham.gov.uk/greenham-common</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Greenham Common | Britain's Cold War Country Park  
-   Link: <a href="http://www.youtube.com/watch?v=6gr6VNxodTA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6gr6VNxodTA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding controlled airspace? London TMA...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6gr6VNxodTA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6gr6VNxodTA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding controlled airspace? London TMA...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: RAF Greenham Common Documentary  
-   Link: <a href="http://www.youtube.com/watch?v=pclZa2PELpo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pclZa2PELpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkshire - Straight Up Airliner (1957)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pclZa2PELpo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pclZa2PELpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berkshire - Straight Up Airliner (1957)...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=iXTyLVqgC7I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=iXTyLVqgC7I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Welford, Berkshire...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=iXTyLVqgC7I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=iXTyLVqgC7I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Welford, Berkshire...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: berksfhs.org  
-   Link: <a href="https://berksfhs.org/info/research-guides/about-historic-berkshire/" target="_blank" rel="noopener noreferrer nofollow">https://berksfhs.org/info/research-guides/about-historic-berkshire/</a>  
+   Link:<a href="https://berksfhs.org/info/research-guides/about-historic-berkshire/" target="_blank" rel="noopener noreferrer nofollow">https://berksfhs.org/info/research-guides/about-historic-berkshire/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Berkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berkshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Berkshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Berkshire</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: gazetteer.org.uk  
    Title: Caversham, Oxfordshire 8424  
-   Link: <a href="https://gazetteer.org.uk/place/Caversham%2C_Oxfordshire_8424" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Caversham%2C_Oxfordshire_8424</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Caversham%2C_Oxfordshire_8424" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Caversham%2C_Oxfordshire_8424</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wlac.co.uk  
-   Link: <a href="https://www.wlac.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlac.co.uk/</a>  
+   Link:<a href="https://www.wlac.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlac.co.uk/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ibccdigitalarchive.lincoln.ac.uk  
-   Link: <a href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/48444" target="_blank" rel="noopener noreferrer nofollow">https://ibccdigitalarchive.lincoln.ac.uk/collections/document/48444</a>  
+   Link:<a href="https://ibccdigitalarchive.lincoln.ac.uk/collections/document/48444" target="_blank" rel="noopener noreferrer nofollow">https://ibccdigitalarchive.lincoln.ac.uk/collections/document/48444</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: wlac.co.uk  
    Title: Pilot Article 2007  
-   Link: <a href="https://www.wlac.co.uk/files/Pilot_Article_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wlac.co.uk/files/Pilot_Article_2007.pdf</a>  
+   Link:<a href="https://www.wlac.co.uk/files/Pilot_Article_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wlac.co.uk/files/Pilot_Article_2007.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: greenhamcommon.org.uk  
    Title: greenham history 1941 1992  
-   Link: <a href="https://www.greenhamcommon.org.uk/greenham-history-1941-1992" target="_blank" rel="noopener noreferrer nofollow">https://www.greenhamcommon.org.uk/greenham-history-1941-1992</a>  
+   Link:<a href="https://www.greenhamcommon.org.uk/greenham-history" target="_blank" rel="noopener noreferrer nofollow">https://www.greenhamcommon.org.uk/greenham-history</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: greenhamtower.org.uk  
    Title: our heritage  
-   Link: <a href="https://www.greenhamtower.org.uk/our-heritage" target="_blank" rel="noopener noreferrer nofollow">https://www.greenhamtower.org.uk/our-heritage</a>  
+   Link:<a href="https://www.greenhamtower.org.uk/our-heritage" target="_blank" rel="noopener noreferrer nofollow">https://www.greenhamtower.org.uk/our-heritage</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: heritagegateway.org.uk  
    Title: Results Single.aspx  
-   Link: <a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1030&amp;uid=MWB15916" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1030&amp;uid=MWB15916</a>  
+   Link:<a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1030&amp;uid=MWB15916" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1030&amp;uid=MWB15916</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: greenhamcommon.org.uk  
    Title: RA F Welford  
-   Link: <a href="https://www.greenhamcommon.org.uk/raf-welford" target="_blank" rel="noopener noreferrer nofollow">https://www.greenhamcommon.org.uk/raf-welford</a>  
+   Link:<a href="https://www.greenhamcommon.org.uk/raf-welford" target="_blank" rel="noopener noreferrer nofollow">https://www.greenhamcommon.org.uk/raf-welford</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/a-royal-county-in-southern-england-berkshire-lies-along-the-south-bank-of-the-ri/860290012921234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/a-royal-county-in-southern-england-berkshire-lies-along-the-south-bank-of-the-ri/860290012921234/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/a-royal-county-in-southern-england-berkshire-lies-along-the-south-bank-of-the-ri/860290012921234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/a-royal-county-in-southern-england-berkshire-lies-along-the-south-bank-of-the-ri/860290012921234/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Caversham" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caversham</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Caversham" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Caversham</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aopa.co.uk  
-   Link: <a href="https://aopa.co.uk/corporate-members-directory/43-aopa-uk-flying-schools-clubs/120-west-london-aero-club" target="_blank" rel="noopener noreferrer nofollow">https://aopa.co.uk/corporate-members-directory/43-aopa-uk-flying-schools-clubs/120-west-london-aero-club</a>  
+   Link:<a href="https://aopa.co.uk/corporate-members-directory/43-aopa-uk-flying-schools-clubs/120-west-london-aero-club" target="_blank" rel="noopener noreferrer nofollow">https://aopa.co.uk/corporate-members-directory/43-aopa-uk-flying-schools-clubs/120-west-london-aero-club</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: RAF Welford, Berkshire  
-   Link: <a href="http://www.youtube.com/watch?v=8_DuUD6KBSc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8_DuUD6KBSc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Waltham airfield aviation history Berkshire Berkshire - Straight Up Airliner (1957) British Pathé...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8_DuUD6KBSc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8_DuUD6KBSc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Waltham airfield aviation history Berkshire Berkshire - Straight Up Airliner (1957) British Pathé...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/greenham-common-us" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/greenham-common-us</a>  
+   Link:<a href="https://www.gettyimages.com/photos/greenham-common-us" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/greenham-common-us</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/uk/airbus-pilot-reveals-ufo-near-miss-over-berkshire/a/117179245.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/uk/airbus-pilot-reveals-ufo-near-miss-over-berkshire/a/117179245.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/uk/airbus-pilot-reveals-ufo-near-miss-over-berkshire/a/117179245.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/uk/airbus-pilot-reveals-ufo-near-miss-over-berkshire/a/117179245.html</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: bigginhillairport.com  
-   Link: <a href="https://bigginhillairport.com/community/noise/airspace-change/" target="_blank" rel="noopener noreferrer nofollow">https://bigginhillairport.com/community/noise/airspace-change/</a>  
+   Link:<a href="https://bigginhillairport.com/community/noise/airspace-change/" target="_blank" rel="noopener noreferrer nofollow">https://bigginhillairport.com/community/noise/airspace-change/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: londoncityairport.com  
-   Link: <a href="https://www.londoncityairport.com/corporate/airspace-change-process" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/airspace-change-process</a>  
+   Link:<a href="https://www.londoncityairport.com/corporate/airspace-change-process" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/airspace-change-process</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: londoncityairport.com  
-   Link: <a href="https://www.londoncityairport.com/corporate/environment/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/environment/airspace-modernisation</a>  
+   Link:<a href="https://www.londoncityairport.com/corporate/environment/airspace-modernisation" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncityairport.com/corporate/environment/airspace-modernisation</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/717146552458789/posts/2050630239110407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/717146552458789/posts/2050630239110407/</a>  
+   Link:<a href="https://www.facebook.com/groups/717146552458789/posts/2050630239110407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/717146552458789/posts/2050630239110407/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: 1066.co.nz  
-   Link: <a href="https://www.1066.co.nz/Mosaic%20DVD/stamford%20bridge/Berkshire.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.1066.co.nz/Mosaic%20DVD/stamford%20bridge/Berkshire.htm</a>  
+   Link:<a href="https://www.1066.co.nz/Mosaic%20DVD/stamford%20bridge/Berkshire.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.1066.co.nz/Mosaic%20DVD/stamford%20bridge/Berkshire.htm</a>  

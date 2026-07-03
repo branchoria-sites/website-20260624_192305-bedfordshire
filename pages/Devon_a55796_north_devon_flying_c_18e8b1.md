@@ -254,15 +254,15 @@ image: /assets/images/Devon_a55796_north_devon_flying_c_18e8b1-overview-social.j
 
 ## Introduction
 
-North [Devon]({{ 'what-really-happened-in-devons-ufo-skies/' | relative_url }})’s “flying cross” remains Devon’s headline UFO case because it brought together three unusually strong ingredients for a British sighting report: named police witnesses, rapid national media coverage, and a direct question in Parliament. The core event was reported on 24 October 1967 near Okehampton and the Holsworthy–Hatherleigh area, when two Devon police officers said they had followed a bright, cross-shaped object that appeared to move ahead of their patrol car. The case matters less as proof of an extraordinary craft than as a test of evidence: what did trained witnesses say, what did the Ministry of Defence do with the reports, and how well does the official Venus explanation fit the story? The fairest reading is that the case is famous and still unresolved in some details, but weakened by its overlap with a wider October 1967 flap in which many British sightings were attributed to bright planets, aircraft, and other ordinary lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[Getty Images+2Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
+North [Devon]({{ 'what-really-happened-in-devons-ufo-skies/' | relative_url }})’s “flying cross” remains Devon’s headline UFO case because it brought together three unusually strong ingredients for a British sighting report: named police witnesses, rapid national media coverage, and a direct question in Parliament. The core event was reported on 24 October 1967 near Okehampton and the Holsworthy–Hatherleigh area, when two Devon police officers said they had followed a bright, cross-shaped object that appeared to move ahead of their patrol car. The case matters less as proof of an extraordinary craft than as a test of evidence: what did trained witnesses say, what did the Ministry of Defence do with the reports, and how well does the official Venus explanation fit the story? The fairest reading is that the case is famous and still unresolved in some details, but weakened by its overlap with a wider October 1967 flap in which many British sightings were attributed to bright planets, aircraft, and other ordinary lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[gettyimages.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
 
 
 <img src="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-overview.webp" | relative_url }}" alt="Overview image for Flying Cross" loading="eager" decoding="sync" fetchpriority="high">
 ## What the police officers reported
 
-The strongest part of the North Devon case is that the original witnesses were on-duty police officers, not anonymous later storytellers. Contemporary ITN footage, now catalogued by Getty Images, places the filmed report in Devon near Okehampton on 24 October 1967 and identifies the officers as P.C. Roger Willey and P.C. Waycock, with the catalogue noting that they described the object, drew it on a pad, said it was travelling fast, made no sound, accelerated sharply, and seemed to be watching them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[Getty Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
+The strongest part of the North Devon case is that the original witnesses were on-duty police officers, not anonymous later storytellers. Contemporary ITN footage, now catalogued by Getty Images, places the filmed report in Devon near Okehampton on 24 October 1967 and identifies the officers as P.C. Roger Willey and P.C. Waycock, with the catalogue noting that they described the object, drew it on a pad, said it was travelling fast, made no sound, accelerated sharply, and seemed to be watching them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[Getty Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
 
-That makes the evidence more substantial than a bare anecdote. The officers were interviewed at the time, in uniform, with a drawing and a clear claim: they had seen a distinct shape, not merely a vague glow. Later summaries of the case commonly describe the object as a bright cross or star-spangled cross seen from a patrol car in the early hours, followed over a stretch of North Devon road. Ian Ridpath’s case page identifies the event as the famous Devon “flying cross” of 24 October 1967, involving police constables Roger Willey and Clifford Waycott pursuing an apparent UFO in their police car. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathDevon Flying Cross UFO of 1967The famous Devon &#x27;flying cross&#x27; case of 1967 October 24 in which police constables Roger Willey...</span></span></span>
+That makes the evidence more substantial than a bare anecdote. The officers were interviewed at the time, in uniform, with a drawing and a clear claim: they had seen a distinct shape, not merely a vague glow. Later summaries of the case commonly describe the object as a bright cross or star-spangled cross seen from a patrol car in the early hours, followed over a stretch of North Devon road. Ian Ridpath’s case page identifies the event as the famous Devon “flying cross” of 24 October 1967, involving police constables Roger Willey and Clifford Waycott pursuing an apparent UFO in their police car.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathDevon Flying Cross UFO of 1967The famous Devon &#x27;flying cross&#x27; case of 1967 October 24 in which police constables Roger Willey...</span></span></span>
 
 The wording used by the witnesses is important. A “cross” is not a standard astronomical description, and that is why the case has survived in UFO literature. Yet the phrase does not necessarily mean a solid cross-shaped aircraft. Witnesses often describe bright lights through haze, wet glass, windscreens, cloud gaps, branches, or optical glare in shape-based language. In this case, the evidence supports that something striking was seen by the officers; it does not by itself establish that a structured object was close to the road or under intelligent control.
 
@@ -272,28 +272,28 @@ The location also matters. North Devon has dark rural roads, wooded stretches, c
 <img src="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-1-dark.svg" | relative_url }}" alt="Flying Cross illustration 1" data-theme-src-dark="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Parliament and the MoD responded
 
-The sighting reached Parliament quickly. On 8 November 1967, North Devon MP Peter Mills asked the Secretary of State for Defence about “an unidentified flying object” seen in the Okehampton area and specifically asked whether the object described as a “star-shaped cross larger than a conventional aircraft” was British aircraft or a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
+The sighting reached Parliament quickly. On 8 November 1967, North Devon MP Peter Mills asked the Secretary of State for Defence about “an unidentified flying object” seen in the Okehampton area and specifically asked whether the object described as a “star-shaped cross larger than a conventional aircraft” was British aircraft or a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
 
-The answer from Merlyn Rees, then Under-Secretary of State for Defence for the Royal Air Force, is the key official source for the case. He said the Ministry had received “a number of reports” of objects over North Devon in October. After investigation, some were found to be aircraft and some were lights; of the lights, the majority were identified as Venus, while “a few lights” had not been positively identified. He added that none of the unidentified lights was an alien object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
+The answer from Merlyn Rees, then Under-Secretary of State for Defence for the Royal Air Force, is the key official source for the case. He said the Ministry had received “a number of reports” of objects over North Devon in October. After investigation, some were found to be aircraft and some were lights; of the lights, the majority were identified as Venus, while “a few lights” had not been positively identified. He added that none of the unidentified lights was an alien object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
 
 That answer is careful rather than dismissive. The MoD did not say nobody saw anything. It accepted a cluster of reports, separated aircraft from lights, identified most of the lights as Venus, and left a small residue without positive identification. This is a recurring pattern in British official UFO handling: “unidentified” meant not conclusively matched to a known cause, not evidence of extraterrestrial origin.
 
-Mills pressed the point by referring not only to the two police officers but also to engineers at Hessary Tor, asking how the official statement fitted reports of low-flying objects moving for more than an hour in the area. Rees replied that investigations over recent years gave no reason to believe in unidentified objects in the stronger implied sense, and said the authorities had access to scientific advice and to radar coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
+Mills pressed the point by referring not only to the two police officers but also to engineers at Hessary Tor, asking how the official statement fitted reports of low-flying objects moving for more than an hour in the area. Rees replied that investigations over recent years gave no reason to believe in unidentified objects in the stronger implied sense, and said the authorities had access to scientific advice and to radar coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
 
-The wider Parliamentary context helps explain why ministers wanted a controlled answer. The previous day, the MoD had told Parliament that between 1 January 1959 and 30 September 1967 it had examined 625 UFO reports, with 555 found to have mundane explanations and the remaining 70 lacking enough data for evaluation, but with nothing suggesting they were materially different from the explained cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Unidentified Flying Objects - Hansard - UK Parliament...</span></span></span>
+The wider Parliamentary context helps explain why ministers wanted a controlled answer. The previous day, the MoD had told Parliament that between 1 January 1959 and 30 September 1967 it had examined 625 UFO reports, with 555 found to have mundane explanations and the remaining 70 lacking enough data for evaluation, but with nothing suggesting they were materially different from the explained cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Unidentified Flying Objects - Hansard - UK Parliament...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_p9yTJaee6g" title="Police Officers Describe UFO Encounter (1967)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer">Police Officers Describe UFO Encounter (1967)</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 399.7K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_p9yTJaee6g">Open on YouTube</a></p></div></div></div>
 
 ## What the surviving records add
 
-The National Archives research guide confirms that this was not only a press story. It identifies AIR 20/11889 and AIR 20/11890 as containing papers and reports on a “flying cross” seen by police officers and other witnesses in Devon, Sussex and elsewhere during October 1967. That places the North Devon report inside an official file trail and also inside a wider multi-county sighting pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The National Archives research guide confirms that this was not only a press story. It identifies AIR 20/11889 and AIR 20/11890 as containing papers and reports on a “flying cross” seen by police officers and other witnesses in Devon, Sussex and elsewhere during October 1967. That places the North Devon report inside an official file trail and also inside a wider multi-county sighting pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The same National Archives guide explains the type of machinery behind such investigations. UFO report files could include letters from the public and reports from official sources such as police, coastguard and the Civil Aviation Authority. Reports often used a standard proforma covering date, time, duration, description, observer position, direction, movement, weather, nearby objects, other witnesses and whether the incident had been reported to police or military bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The same National Archives guide explains the type of machinery behind such investigations. UFO report files could include letters from the public and reports from official sources such as police, coastguard and the Civil Aviation Authority. Reports often used a standard proforma covering date, time, duration, description, observer position, direction, movement, weather, nearby objects, other witnesses and whether the incident had been reported to police or military bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 This matters because it shows the Flying Cross was not merely folklore repeated in later UFO books. It entered the post-war British UFO bureaucracy: local witnesses, press interest, MPs, RAF channels, MoD assessment and archival preservation. The case is therefore stronger as a documented social and official event than as a proven anomalous aircraft encounter.
 
-The archival context also cuts both ways. The National Archives guide notes that UFO records from 1967 can be found in Air Ministry and MoD files and that from 1966–67 UFO reports and correspondence were preserved in separate sequences. It also notes that papers from 1967–68 include field investigations of selected UFO reports by S4 (Air) and DI55, the Defence Intelligence branch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The archival context also cuts both ways. The National Archives guide notes that UFO records from 1967 can be found in Air Ministry and MoD files and that from 1966–67 UFO reports and correspondence were preserved in separate sequences. It also notes that papers from 1967–68 include field investigations of selected UFO reports by S4 (Air) and DI55, the Defence Intelligence branch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 For a reader weighing the North Devon case, that means the right question is not “did the MoD ignore it?” The better question is whether the surviving investigation found anything beyond witness testimony and visual interpretation. The public record available through Parliament shows no radar confirmation, no physical trace, no recovered object, and no official finding of defence significance.
 
@@ -301,9 +301,9 @@ For a reader weighing the North Devon case, that means the right question is not
 <img src="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-2-dark.svg" | relative_url }}" alt="Flying Cross illustration 2" data-theme-src-dark="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Venus became the main explanation
 
-Venus is the central sceptical explanation because the North Devon sighting occurred during a wider British UFO flap in October 1967, when many reports involved bright lights. Ridpath’s overview of the October 1967 flap describes a rash of sightings over Britain and argues that the cases were readily resolved, with most caused by Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+Venus is the central sceptical explanation because the North Devon sighting occurred during a wider British UFO flap in October 1967, when many reports involved bright lights. Ridpath’s overview of the October 1967 flap describes a rash of sightings over Britain and argues that the cases were readily resolved, with most caused by Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-To many readers, “it was Venus” can sound like a stock dismissal. In this case, it is more serious than that because Rees’s Parliamentary answer independently states that, of the North Devon lights investigated by the MoD, the majority were identified as Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
+To many readers, “it was Venus” can sound like a stock dismissal. In this case, it is more serious than that because Rees’s Parliamentary answer independently states that, of the North Devon lights investigated by the MoD, the majority were identified as Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
 
 The Venus explanation works best for the broad pattern: bright early-morning light, multiple reports over more than one area, no sound, no physical trace, no confirmed radar track, and witnesses interpreting motion while travelling in vehicles. It is less tidy for the most dramatic details: the reported cross shape, apparent acceleration, tree-top height and sense of being followed or watched. Those details are the reason the case remains discussed.
 
@@ -314,11 +314,11 @@ The key distinction is between the object as described and the likely stimulus. 
 
 ## Why the case remains famous but disputed
 
-The North Devon Flying Cross is famous because it is unusually memorable: a cross-shaped light, police witnesses, a pursuit, a same-day media record and Parliamentary attention. Many UFO reports fade because they are anonymous, late, or poorly located. This one has names, place, date, footage metadata, and official discussion within weeks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[Getty Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
+The North Devon Flying Cross is famous because it is unusually memorable: a cross-shaped light, police witnesses, a pursuit, a same-day media record and Parliamentary attention. Many UFO reports fade because they are anonymous, late, or poorly located. This one has names, place, date, footage metadata, and official discussion within weeks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[Getty Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
 
-It is disputed because the strongest evidence is still testimonial. The case does not appear to rest on photographs, radar plots, physical effects, landing marks or instrument data. Parliament confirms multiple reports and an MoD investigation, but the ministerial answer points mainly towards aircraft and Venus, with only a small number of lights left unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
+It is disputed because the strongest evidence is still testimonial. The case does not appear to rest on photographs, radar plots, physical effects, landing marks or instrument data. Parliament confirms multiple reports and an MoD investigation, but the ministerial answer points mainly towards aircraft and Venus, with only a small number of lights left unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
 
-The case also became part of a wider “flying cross” pattern across Britain. The National Archives explicitly groups Devon with Sussex and elsewhere in October 1967, and that wider spread weakens a narrow interpretation of a single local craft operating only over North Devon. It makes a shared sky stimulus, media feedback, or repeated misidentification more plausible than a one-off exotic machine over the county. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The case also became part of a wider “flying cross” pattern across Britain. The National Archives explicitly groups Devon with Sussex and elsewhere in October 1967, and that wider spread weakens a narrow interpretation of a single local craft operating only over North Devon. It makes a shared sky stimulus, media feedback, or repeated misidentification more plausible than a one-off exotic machine over the county.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 Still, the dispute is not trivial. The officers’ confidence, their description of speed and silence, and the reference to other local observers at Hessary Tor are all reasons the case cannot be reduced to a throwaway “mistake” without explanation. A balanced assessment should hold both points together: the witnesses were credible enough to be taken seriously, but credibility is not the same as accuracy under difficult viewing conditions.
 
@@ -326,9 +326,9 @@ Still, the dispute is not trivial. The officers’ confidence, their description
 <img src="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-3-dark.svg" | relative_url }}" alt="Flying Cross illustration 3" data-theme-src-dark="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Devon_a55796_north_devon_flying_c_18e8b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence supports today
 
-The evidence supports a clear historical conclusion: on 24 October 1967, two North Devon police officers reported an unusual cross-shaped light near Okehampton; the report gained national attention; the MoD investigated a cluster of North Devon sightings; Parliament discussed the case; and official records later preserved the Flying Cross within the wider October 1967 UFO file series. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[Getty Images+2Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
+The evidence supports a clear historical conclusion: on 24 October 1967, two North Devon police officers reported an unusual cross-shaped light near Okehampton; the report gained national attention; the MoD investigated a cluster of North Devon sightings; Parliament discussed the case; and official records later preserved the Flying Cross within the wider October 1967 UFO file series.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gettyimages.com">[gettyimages.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gettyimages.com</span><span class="citation-popover-title">Getty Images Police officers see UFO while on patrol; Stock Footage Video</span><span class="citation-popover-snippet">Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</span></span></span>
 
-The evidence does not support a stronger claim that an extraordinary craft was established. The official answer identified many reports as aircraft or Venus, gave no indication of hostile or unknown technology, and explicitly rejected an alien interpretation. The surviving public trail leaves some lights not positively identified, but that is a limited conclusion: unresolved details, not confirmation of a structured unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
+The evidence does not support a stronger claim that an extraordinary craft was established. The official answer identified many reports as aircraft or Venus, gave no indication of hostile or unknown technology, and explicitly rejected an alien interpretation. The surviving public trail leaves some lights not positively identified, but that is a limited conclusion: unresolved details, not confirmation of a structured unknown object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">unidentified flying object north devon</span><span class="citation-popover-snippet">Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</span><span class="citation-popover-meta">Published: November 1967</span></span></span>
 
 For Devon’s UFO history, that is exactly why the Flying Cross still matters. It shows how a local rural sighting could become a national case when credible witnesses, press imagery and political scrutiny lined up. It also shows the limits of witness-led UFO evidence: the story is vivid, documented and culturally durable, but the best official and sceptical readings still point towards ordinary lights, especially Venus, as the most likely explanation for much of the October 1967 North Devon flap.
 
@@ -337,194 +337,194 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Devon&#x27;s Flying Cross Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Devon&#x27;s Flying Cross Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witness testimony, official investigations, and government responses, matching the Devon police-witness and MoD angle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witness testimony, official investigations, and government responses, matching the Devon police-witness and MoD angle.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how unusual sightings should be evaluated as evidence rather than accepted at face value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual sightings should be evaluated as evidence rather than accepted at face value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Explores the strengths and weaknesses of UFO evidence, mirroring debates around the Flying Cross case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the strengths and weaknesses of UFO evidence, mirroring debates around the Flying Cross case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places famous sightings within a broader historical and investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places famous sightings within a broader historical and investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109"><img src="{{ '/assets/images/marketplace-covers/f0f053d5ff228b7946c0.jpg' | relative_url }}" alt="Listing image for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109"><img src="{{ '/assets/images/marketplace-covers/f0f053d5ff228b7946c0.jpg' | relative_url }}" alt="Listing image for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print"><img src="{{ '/assets/images/marketplace-covers/44ae80316e286230af50.jpg' | relative_url }}" alt="Listing image for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print"><img src="{{ '/assets/images/marketplace-covers/44ae80316e286230af50.jpg' | relative_url }}" alt="Listing image for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPITFIRE ART BY BARRIE AF CLARKE"><img src="{{ '/assets/images/marketplace-covers/e03294ec570ae95eee3a.jpg' | relative_url }}" alt="Listing image for SPITFIRE ART BY BARRIE AF CLARKE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">SPITFIRE ART BY BARRIE AF CLARKE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPITFIRE ART BY BARRIE AF CLARKE"><img src="{{ '/assets/images/marketplace-covers/e03294ec570ae95eee3a.jpg' | relative_url }}" alt="Listing image for SPITFIRE ART BY BARRIE AF CLARKE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">SPITFIRE ART BY BARRIE AF CLARKE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="flying-cross-why-devon-s-flying-cross-still-matters-devon-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,157 +730,157 @@ For Devon’s UFO history, that is exactly why the Flying Cross still matters. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: api.parliament.uk  
    Title: unidentified flying object north devon  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1967/nov/08/unidentified-flying-object-north-devon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament APIUnidentified Flying Object (North Devon) (Hansard, 8 November 1967)...</p></details>
    Published: November 1967  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - Hansard - UK Parliament...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-07/debates/9f4b9f7e-8c3f-434e-95e8-19670ba5a191/UnidentifiedFlyingObjects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - Hansard - UK Parliament...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Object (North Devon)  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-08/debates/98dc02f8-db01-49f3-add4-1b6132d61fe0/UnidentifiedFlyingObject%28NorthDevon%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: uk Oral Answers To Questions  
-   Link: <a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions</a>  
+   Link:<a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-08/debates/a30cb0b7-d1b5-4ea2-95d3-cc3f211a9091/OralAnswersToQuestions</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: api.parliament.uk  
-   Link: <a href="https://api.parliament.uk/historic-hansard/sittings/1967/nov/08" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/sittings/1967/nov/08</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/sittings/1967/nov/08" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/sittings/1967/nov/08</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: uk Commons Chamber  
-   Link: <a href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber</a>  
+   Link:<a href="https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/%E2%80%8CCommons/1967-11-08/CommonsChamber</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: api.parliament.uk  
    Title: sir john langford holt  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/sir-john-langford-holt/1967</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: uk House of ‌Commons  
-   Link: <a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-07" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967-11-07</a>  
+   Link:<a href="https://hansard.parliament.uk/%E2%80%8CCommons/1967" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/%E2%80%8CCommons/1967</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: api.parliament.uk  
    Title: oral answers to questions  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1967/nov/08/oral-answers-to-questions</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers</a>  
+   Link:<a href="https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/2007-06-04/WrittenAnswers</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-29/debates/376f4e4d-9470-4204-a6d6-ebddc82af579/UnidentifiedFlyingObjects</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: uk House of Commons  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-11-22" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-11-22</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: api.parliament.uk  
    Title: mr emanuel shinwell  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-emanuel-shinwell/1967</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/Commons/1967-10-25/debates/ae34448a-42f5-4bd3-9419-6d624d418e56/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-10-25/debates/ae34448a-42f5-4bd3-9419-6d624d418e56/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1967-10-25/debates/ae34448a-42f5-4bd3-9419-6d624d418e56/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1967-10-25/debates/ae34448a-42f5-4bd3-9419-6d624d418e56/UnidentifiedFlyingObjects</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gettyimages.com  
    Title: Getty Images Police officers see UFO while on patrol; Stock Footage Video  
-   Link: <a href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</p></details>
+   Link:<a href="https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/police-officers-see-ufo-while-on-patrol-england-devon-nr-news-footage/823352618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getty ImagesPolice officers see UFO while on patrol; Stock Footage Video - Getty Images...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flyingcross.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathDevon Flying Cross UFO of 1967The famous Devon &#x27;flying cross&#x27; case of 1967 October 24 in which police constables Roger Willey...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/flyingcross.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/flyingcross.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathDevon Flying Cross UFO of 1967The famous Devon &#x27;flying cross&#x27; case of 1967 October 24 in which police constables Roger Willey...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/octoberflap.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/octoberflap.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/octoberflap.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-documents-2011.xls</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/4995087850/posts/10160954110972851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10160954110972851/</a>  
+   Link:<a href="https://www.facebook.com/groups/4995087850/posts/10160954110972851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10160954110972851/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=IwAkB0Fv5qA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IwAkB0Fv5qA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On October 24th, 1967 DEVON FLYING CROSS UFO CHASED BY PLOICE OFFICERS...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IwAkB0Fv5qA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IwAkB0Fv5qA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On October 24th, 1967 DEVON FLYING CROSS UFO CHASED BY PLOICE OFFICERS...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=tw5IxquAlw8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tw5IxquAlw8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 ufo devon police Police Officers Describe UFO Encounter (1967) Frontline by ITN...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=tw5IxquAlw8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tw5IxquAlw8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 ufo devon police Police Officers Describe UFO Encounter (1967) Frontline by ITN...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_p9yTJaee6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Devon Cross UFO Encounter (1967) - two police officer witnesses...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_p9yTJaee6g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_p9yTJaee6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Devon Cross UFO Encounter (1967) - two police officer witnesses...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
+   Link:<a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/f0r5dl/one_of_britains_strangest_ufo_cases_began_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/f0r5dl/one_of_britains_strangest_ufo_cases_began_when/</a>  
+   Link:<a href="https://www.reddit.com/r/mystery/comments/f0r5dl/one_of_britains_strangest_ufo_cases_began_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/f0r5dl/one_of_britains_strangest_ufo_cases_began_when/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/one-of-the-most-famous-and-unexplained-ufo-sightings-took-place-in-the-uk-45-yea/1322515663256848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/one-of-the-most-famous-and-unexplained-ufo-sightings-took-place-in-the-uk-45-yea/1322515663256848/</a>  
+   Link:<a href="https://www.facebook.com/dailymirror/posts/one-of-the-most-famous-and-unexplained-ufo-sightings-took-place-in-the-uk-45-yea/1322515663256848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/one-of-the-most-famous-and-unexplained-ufo-sightings-took-place-in-the-uk-45-yea/1322515663256848/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40/police-chase-an-alien-craft-for-14-miles-in-devon-england-4a70a2060257" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/police-chase-an-alien-craft-for-14-miles-in-devon-england-4a70a2060257</a>  
+   Link:<a href="https://medium.com/%40/police-chase-an-alien-craft-for-14-miles-in-devon-england-4a70a2060257" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/police-chase-an-alien-craft-for-14-miles-in-devon-england-4a70a2060257</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
+   Link:<a href="https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: on october 24 1967 2 police officers in devon england reported witnessing an unu  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/on-october-24-1967-2-police-officers-in-devon-england-reported-witnessing-an-unu/959484243737664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/on-october-24-1967-2-police-officers-in-devon-england-reported-witnessing-an-unu/959484243737664/</a>  
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/on-october-24-1967-2-police-officers-in-devon-england-reported-witnessing-an-unu/959484243737664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/on-october-24-1967-2-police-officers-in-devon-england-reported-witnessing-an-unu/959484243737664/</a>  

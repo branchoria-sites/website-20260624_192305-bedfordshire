@@ -118,9 +118,9 @@ heading_title: What Really Happened Over Kent?
 page_heading_title: What Really Happened Over Kent?
 source_count: 147
 infographic_count: 3
-page_website_name: Kent UFOs
+page_website_name: Kent
 page_banner_line: Balanced evidence-led pages on Kent's strongest UFO cases and records.
-site_website_name: Kent UFOs
+site_website_name: Kent
 site_banner_line: Balanced evidence-led pages on Kent's strongest UFO cases and records.
 site_image_description: A passenger jet over the Kent coast at dusk with airport lights, radar screens, and the English Channel visible below.
 output_language: English
@@ -689,7 +689,7 @@ image: /assets/images/Kent_4e168a-overview-social.jpg
 
 ## Introduction
 
-For this page, “Kent” is treated primarily as the historic county used by the project’s map index. That matters because historic Kent extends into areas now usually discussed as Greater London, including places such as Bexley, while modern administrative Kent is divided between Kent County Council territory and the Medway unitary area. The Wikishire map used by the project states that its county map conforms to the Historic Counties Standard, and Wikishire describes Kent as the south-eastern shire facing the Thames, North Sea, Strait of Dover and English Channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+For this page, “Kent” is treated primarily as the historic county used by the project’s map index. That matters because historic Kent extends into areas now usually discussed as Greater London, including places such as Bexley, while modern administrative Kent is divided between Kent County Council territory and the Medway unitary area. The Wikishire map used by the project states that its county map conforms to the Historic Counties Standard, and Wikishire describes Kent as the south-eastern shire facing the Thames, North Sea, Strait of Dover and English Channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Kent?" loading="eager" decoding="sync" fetchpriority="high">
@@ -697,44 +697,44 @@ For this page, “Kent” is treated primarily as the historic county used by th
 
 Kent is a natural place for aerial mysteries to accumulate. It sits under busy routes between London, continental Europe, the Channel, the Thames Estuary and the wider south-east. It also has a dense aviation history: RAF Manston, Biggin Hill, West Malling, Lydd and the wider air-defence network all give Kent sightings a different texture from reports in quieter inland counties. A “UFO” in this setting may be an unknown aircraft track, a near-miss report, a radar return, a military scramble, a meteor, an advertising airship, a satellite train, or a lantern seen in conditions where distance and speed are hard to judge.
 
-That is why Kent is best read as an aviation-and-records county rather than as a county of alien folklore. Its most useful cases ask practical questions: what did trained witnesses see, what did radar or air traffic control show, what did investigators rule out, and what explanations remain plausible? The National Archives notes that the Ministry of Defence kept UFO records from the 1960s onwards, with earlier material often destroyed under earlier retention practice, and that surviving files contain both public letters and military-source reports with suggested explanations such as Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+That is why Kent is best read as an aviation-and-records county rather than as a county of alien folklore. Its most useful cases ask practical questions: what did trained witnesses see, what did radar or air traffic control show, what did investigators rule out, and what explanations remain plausible? The National Archives notes that the Ministry of Defence kept UFO records from the 1960s onwards, with earlier material often destroyed under earlier retention practice, and that surviving files contain both public letters and military-source reports with suggested explanations such as Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The modern official picture is also shaped by closure. The MoD’s UFO desk shut in November 2009 after officials concluded that the work served no defence purpose; The National Archives’ release on the final tranche says the desk received more than 600 reports in 2009, treble the previous year, and that ministers were told no reported sighting had revealed evidence of an extraterrestrial presence or military threat to the UK. That conclusion does not make every Kent report “solved”, but it shows how the state framed the issue: possible air-defence relevance first, extraordinary claims only if the evidence demanded them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The modern official picture is also shaped by closure. The MoD’s UFO desk shut in November 2009 after officials concluded that the work served no defence purpose; The National Archives’ release on the final tranche says the desk received more than 600 reports in 2009, treble the previous year, and that ministers were told no reported sighting had revealed evidence of an extraterrestrial presence or military threat to the UK. That conclusion does not make every Kent report “solved”, but it shows how the state framed the issue: possible air-defence relevance first, extraordinary claims only if the evidence demanded them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 ## The 1991 Alitalia near-miss near Lydd
 
-The most important Kent case for a mainstream reader is the Alitalia incident of 21 April 1991. Captain Achille Zaghetti was flying an Alitalia McDonnell Douglas MD-80 from Milan to Heathrow when, near Lydd in Kent, he and his co-pilot saw a brown or khaki missile-shaped object pass close to the aircraft at about 22,000 feet. Contemporary reporting based on newly released MoD files says the aircraft was carrying 57 people, that Zaghetti shouted a warning to his co-pilot, and that air traffic control later reported an unknown target behind the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
+The most important Kent case for a mainstream reader is the Alitalia incident of 21 April 1991. Captain Achille Zaghetti was flying an Alitalia McDonnell Douglas MD-80 from Milan to Heathrow when, near Lydd in Kent, he and his co-pilot saw a brown or khaki missile-shaped object pass close to the aircraft at about 22,000 feet. Contemporary reporting based on newly released MoD files says the aircraft was carrying 57 people, that Zaghetti shouted a warning to his co-pilot, and that air traffic control later reported an unknown target behind the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
 
-This case matters because it was not just a public sighting from the ground. It involved professional pilots, a commercial airliner, a possible radar contact and a safety concern. The Independent reported that the Civil Aviation Authority and military investigated the incident and that the MoD closed the case after ruling out a missile, weather balloon and space rocket, leaving it unresolved. The same account says radar imagery was initially labelled with the possibility of a “cruise missile?” before that line of inquiry was discounted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
+This case matters because it was not just a public sighting from the ground. It involved professional pilots, a commercial airliner, a possible radar contact and a safety concern. The Independent reported that the Civil Aviation Authority and military investigated the incident and that the MoD closed the case after ruling out a missile, weather balloon and space rocket, leaving it unresolved. The same account says radar imagery was initially labelled with the possibility of a “cruise missile?” before that line of inquiry was discounted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
 
-The doubts are just as important. A near-miss report can be sincere and still be difficult to interpret. Pilots are trained observers, but a very brief encounter at altitude gives little time to assess size, range and speed. A radar return, if present, strengthens the case compared with a purely visual sighting, but it does not by itself identify the object. The most balanced conclusion is that the Lydd incident remains one of Kent’s stronger unresolved UFO cases, not because it implies alien technology, but because the usual explanations were reportedly checked and did not settle the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-snippet">Open source on irishexaminer.com.</span></span></span>
+The doubts are just as important. A near-miss report can be sincere and still be difficult to interpret. Pilots are trained observers, but a very brief encounter at altitude gives little time to assess size, range and speed. A radar return, if present, strengthens the case compared with a purely visual sighting, but it does not by itself identify the object. The most balanced conclusion is that the Lydd incident remains one of Kent’s stronger unresolved UFO cases, not because it implies alien technology, but because the usual explanations were reportedly checked and did not settle the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-snippet">Open source on irishexaminer.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Kent? illustration 1" data-theme-src-dark="{{ "/assets/images/Kent_4e168a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## RAF Manston and the Milton Torres scramble
 
-Kent’s other headline case is linked to RAF Manston. In May 1957, US Air Force pilot Milton Torres, then based at RAF Manston, was reportedly scrambled in an F-86D Sabre after ground radar tracked an unidentified target with unusual flight behaviour over East Anglia. Reuters reported in 2008 that Torres said he was ordered to fire on the object before it disappeared from radar, and that UFO researcher David Clarke suggested one possible explanation was a secret electronic-warfare experiment designed to create phantom aircraft on radar screens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us pilot was ordered to shoot down ufo id USTRE49J1P6</span><span class="citation-popover-snippet">us pilot was ordered to shoot down ufo id USTRE49J1P6</span></span></span>
+Kent’s other headline case is linked to RAF Manston. In May 1957, US Air Force pilot Milton Torres, then based at RAF Manston, was reportedly scrambled in an F-86D Sabre after ground radar tracked an unidentified target with unusual flight behaviour over East Anglia. Reuters reported in 2008 that Torres said he was ordered to fire on the object before it disappeared from radar, and that UFO researcher David Clarke suggested one possible explanation was a secret electronic-warfare experiment designed to create phantom aircraft on radar screens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us pilot was ordered to shoot down ufo id USTRE49J1P6</span><span class="citation-popover-snippet">us pilot was ordered to shoot down ufo id USTRE49J1P6</span></span></span>
 
-The Guardian’s account, also from the release of official files, described Torres being sent full throttle from Manston towards East Anglia and approaching a radar target that appeared, on his screen, as large as a B-52 before vanishing. ABC News similarly reported that Torres later gave a written account describing the scramble from RAF Manston in calm weather, and that his story appeared among defence ministry files released at The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Odd, intriguing and alarming UFO files released &#124; UK news</span><span class="citation-popover-snippet">The Guardian Odd, intriguing and alarming UFO files released &#124; UK news</span></span></span>
+The Guardian’s account, also from the release of official files, described Torres being sent full throttle from Manston towards East Anglia and approaching a radar target that appeared, on his screen, as large as a B-52 before vanishing. ABC News similarly reported that Torres later gave a written account describing the scramble from RAF Manston in calm weather, and that his story appeared among defence ministry files released at The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Odd, intriguing and alarming UFO files released &#124; UK news</span><span class="citation-popover-snippet">The Guardian Odd, intriguing and alarming UFO files released &#124; UK news</span></span></span>
 
 This is a Kent case by base and military infrastructure rather than by the object’s exact location. Its relevance lies in Manston’s Cold War air-defence role and in the combination of a fighter pilot, ground radar and airborne radar. Its weakness is that the object was reportedly not visually seen through the cloud, and later explanations include the possibility of radar deception, exercise activity or misinterpreted returns. The case is therefore best classed as historically significant and unresolved in popular UFO literature, but not as physical evidence of a craft over Kent.
 
 ## The quieter MoD sightings: orange lights, V-shapes and town reports
 
-The MoD’s public sighting lists for 1997 to 2009 are valuable because they show what ordinary UFO reporting looked like in Kent when the official reporting route still existed. GOV.UK hosts annual UFO report PDFs listing dates, times, places and short descriptions, rather than full investigations. They are useful for pattern-spotting, but they should not be mistaken for verified incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD’s public sighting lists for 1997 to 2009 are valuable because they show what ordinary UFO reporting looked like in Kent when the official reporting route still existed. GOV.UK hosts annual UFO report PDFs listing dates, times, places and short descriptions, rather than full investigations. They are useful for pattern-spotting, but they should not be mistaken for verified incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-KentLive’s 2019 roundup, based on the government records, said there were around 100 Kent reports in the MoD material. The examples are typical of late-1990s and 2000s British UFO reports: Folkestone, Gravesend, Medway, Maidstone, Sevenoaks, Sittingbourne, Sheerness, Whitstable and other towns appear with brief descriptions of lights, shapes and moving objects. The 1999 MoD list includes a Folkestone report of a “squashed oval shaped object” without normal aircraft lights, while the 2005 list includes a Sheerness report of dim lights forming a V and then a line, a Gillingham report of five flashing lights, and Whitstable reports of bright orange lights and other strange lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+KentLive’s 2019 roundup, based on the government records, said there were around 100 Kent reports in the MoD material. The examples are typical of late-1990s and 2000s British UFO reports: Folkestone, Gravesend, Medway, Maidstone, Sevenoaks, Sittingbourne, Sheerness, Whitstable and other towns appear with brief descriptions of lights, shapes and moving objects. The 1999 MoD list includes a Folkestone report of a “squashed oval shaped object” without normal aircraft lights, while the 2005 list includes a Sheerness report of dim lights forming a V and then a line, a Gillingham report of five flashing lights, and Whitstable reports of bright orange lights and other strange lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2009 list shows the same pattern during the final surge of reports. It includes a Gravesend sighting described as a ball of light with other lights inside, hovering for about 30 minutes and considered by the witness too static to be a helicopter. It also includes a New Ash Green report of a ball of light in the clouds, moving slowly and falling apart with other white lights coming from it. These entries are intriguing as witness snapshots, but they are too brief to carry much evidential weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 list shows the same pattern during the final surge of reports. It includes a Gravesend sighting described as a ball of light with other lights inside, hovering for about 30 minutes and considered by the witness too static to be a helicopter. It also includes a New Ash Green report of a ball of light in the clouds, moving slowly and falling apart with other white lights coming from it. These entries are intriguing as witness snapshots, but they are too brief to carry much evidential weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-A common trap is to treat every entry in these lists as an official “case”. In reality, many are uncorroborated reports, often only a sentence long. Their value lies in showing frequency, geography and recurring descriptions. Formations of orange lights, slow-moving lights and lights changing shape often have mundane candidates: lanterns, aircraft on approach, satellites, drones, searchlights, meteors, balloons or reflections. The National Archives’ final UFO-desk release specifically notes that officials linked part of the 2009 surge to Chinese lanterns, especially formations of orange lights that witnesses did not recognise at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+A common trap is to treat every entry in these lists as an official “case”. In reality, many are uncorroborated reports, often only a sentence long. Their value lies in showing frequency, geography and recurring descriptions. Formations of orange lights, slow-moving lights and lights changing shape often have mundane candidates: lanterns, aircraft on approach, satellites, drones, searchlights, meteors, balloons or reflections. The National Archives’ final UFO-desk release specifically notes that officials linked part of the 2009 surge to Chinese lanterns, especially formations of orange lights that witnesses did not recognise at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZmXheHU9M9o" title="Manston Airport’s Big Comeback: Kent’s £500M Aviation Revival!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZmXheHU9M9o" target="_blank" rel="noopener noreferrer">Manston Airport’s Big Comeback: Kent’s £500M Aviation Revival!</a></p><p class="youtube-embed-meta">Channel: Ellaweeze Travel Odyssey</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZmXheHU9M9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZmXheHU9M9o">Open on YouTube</a></p></div></div></div>
 
 ## Folkestone, Hythe and the media life of a sighting
 
-Kent’s local UFO stories often became memorable because of how they were reported, not because the evidence was unusually strong. A good example is the Folkestone and Hythe material highlighted when MoD files were released in 2010. The Guardian reported a file in which witnesses described a UFO hovering above a field before shooting away in a flash of light, with one Hythe witness saying she saw a large triangular craft and heard a humming noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mo D files show &#x27;UFOs&#x27; visited Michael Howard&#x27;s home town</span><span class="citation-popover-snippet">The Guardian Mo D files show &#x27;UFOs&#x27; visited Michael Howard&#x27;s home town</span></span></span>
+Kent’s local UFO stories often became memorable because of how they were reported, not because the evidence was unusually strong. A good example is the Folkestone and Hythe material highlighted when MoD files were released in 2010. The Guardian reported a file in which witnesses described a UFO hovering above a field before shooting away in a flash of light, with one Hythe witness saying she saw a large triangular craft and heard a humming noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mo D files show &#x27;UFOs&#x27; visited Michael Howard&#x27;s home town</span><span class="citation-popover-snippet">The Guardian Mo D files show &#x27;UFOs&#x27; visited Michael Howard&#x27;s home town</span></span></span>
 
 This kind of report has the ingredients that make a strong local newspaper story: a named area, multiple witnesses, a vivid shape, movement, sound and a dramatic departure. But it also shows why careful wording matters. A triangular craft could be a genuine unknown, but it could also be an aircraft at an odd angle, a formation of lights, a lantern cluster, an illuminated model, or a perceptual reconstruction after a brief and surprising event. Without independent photographs, radar, time-synchronised accounts or identified flight data, the case remains interesting but weak.
 
@@ -742,19 +742,19 @@ The Folkestone and Hythe reports are still useful because they show how UFO cult
 
 ## How official investigators tended to think
 
-The MoD’s public position was never that every report had an instant explanation. It was closer to a risk filter: does a report suggest a threat to UK airspace, a classified aircraft, a safety issue, or something needing military attention? The National Archives describes many records as reports of shapes, lights and flashes, with some more unusual; its research guide also notes that the files contain replies with suggested explanations such as Venus, aircraft, balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The MoD’s public position was never that every report had an instant explanation. It was closer to a risk filter: does a report suggest a threat to UK airspace, a classified aircraft, a safety issue, or something needing military attention? The National Archives describes many records as reports of shapes, lights and flashes, with some more unusual; its research guide also notes that the files contain replies with suggested explanations such as Venus, aircraft, balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-Behind the scenes, the “UFO desk” was more modest than the name suggested. A National Archives release on the desk says its daily work included briefings, investigations, Freedom of Information requests, press enquiries and dealings with UFO researchers, and quotes a desk officer saying the public image of secret specialist teams was “total fiction”; many investigations involved ordinary checking, including internet searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Behind the scenes, the “UFO desk” was more modest than the name suggested. A National Archives release on the desk says its daily work included briefings, investigations, Freedom of Information requests, press enquiries and dealings with UFO researchers, and quotes a desk officer saying the public image of secret specialist teams was “total fiction”; many investigations involved ordinary checking, including internet searches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Project Condign, the secret MoD study completed in 2000 and later released after Freedom of Information work, adds another layer. Reporting on the study says it looked across UK air-defence reports and leaned towards misidentification, natural phenomena and poorly understood atmospheric effects rather than alien craft. The Guardian summarised one of its more controversial ideas: that some UAP events might involve poorly understood plasma phenomena. That hypothesis itself has been debated, but it shows that even official “unexplained” categories did not equal “extraterrestrial”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs? &#124; Science</span><span class="citation-popover-snippet">The Guardian Could we have hitched a ride on UFOs? &#124; Science</span></span></span>
+Project Condign, the secret MoD study completed in 2000 and later released after Freedom of Information work, adds another layer. Reporting on the study says it looked across UK air-defence reports and leaned towards misidentification, natural phenomena and poorly understood atmospheric effects rather than alien craft. The Guardian summarised one of its more controversial ideas: that some UAP events might involve poorly understood plasma phenomena. That hypothesis itself has been debated, but it shows that even official “unexplained” categories did not equal “extraterrestrial”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs? &#124; Science</span><span class="citation-popover-snippet">The Guardian Could we have hitched a ride on UFOs? &#124; Science</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened Over Kent? illustration 2" data-theme-src-dark="{{ "/assets/images/Kent_4e168a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes a Kent UFO case stronger or weaker
 
-The strongest Kent cases share a few features. They involve trained observers, aviation safety, radar or official follow-up, and a clear time and place. By that standard, the Alitalia near-miss near Lydd is stronger than most garden or street sightings, and the Manston/Torres scramble is historically important even though it is complicated by Cold War radar uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
+The strongest Kent cases share a few features. They involve trained observers, aviation safety, radar or official follow-up, and a clear time and place. By that standard, the Alitalia near-miss near Lydd is stronger than most garden or street sightings, and the Manston/Torres scramble is historically important even though it is complicated by Cold War radar uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
 
-Weaker cases are not necessarily false. They are simply harder to use. A one-line report of an orange ball over Gravesend, a V of lights over Sheerness, or odd lights over Whitstable may be sincere, but without duration, direction, weather, aircraft data, astronomy checks and independent witnesses, it cannot be pushed very far. The MoD lists are therefore best used as a map of reported experiences, not as a catalogue of confirmed anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Weaker cases are not necessarily false. They are simply harder to use. A one-line report of an orange ball over Gravesend, a V of lights over Sheerness, or odd lights over Whitstable may be sincere, but without duration, direction, weather, aircraft data, astronomy checks and independent witnesses, it cannot be pushed very far. The MoD lists are therefore best used as a map of reported experiences, not as a catalogue of confirmed anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 A practical credibility ladder for Kent reports looks like this:
 
@@ -775,20 +775,20 @@ This is not a sceptical dismissal; it is how a reader avoids treating all “UFO
 
 ## Kent’s aviation geography changes the interpretation
 
-Kent’s geography is unusually important. Lydd sits near Romney Marsh and the Channel, with Lydd Airport describing itself as the closest UK airport to France and a 24-hour aviation site on the south-east coast. That makes the skies around south Kent busy with legitimate aviation, cross-Channel routes, military history and maritime weather effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lyddairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyddairport.co.uk">[Lydd Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyddairport.co.uk</span><span class="citation-popover-snippet">Open source on lyddairport.co.uk.</span></span></span>
+Kent’s geography is unusually important. Lydd sits near Romney Marsh and the Channel, with Lydd Airport describing itself as the closest UK airport to France and a 24-hour aviation site on the south-east coast. That makes the skies around south Kent busy with legitimate aviation, cross-Channel routes, military history and maritime weather effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lyddairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyddairport.co.uk">[Lydd Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyddairport.co.uk</span><span class="citation-popover-snippet">Open source on lyddairport.co.uk.</span></span></span>
 
-Manston gives north-east Kent a different UFO association. Although the modern airport site has been closed to regular airport operations for years, its history as RAF Manston and its proposed redevelopment as a future freight hub keep the area in aviation discussions. RiverOak Strategic Partners says work is under way on detailed planning for reopening Manston as a dedicated airfreight hub in 2029. For UFO history, the key point is not the future airport plan but the long-standing airfield context: Thanet has repeatedly been a place where unusual aerial reports are interpreted through military and aviation lenses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rsp.co.uk/reopening-manston/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsp.co.uk">[rsp.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsp.co.uk</span><span class="citation-popover-snippet">Open source on rsp.co.uk.</span></span></span>
+Manston gives north-east Kent a different UFO association. Although the modern airport site has been closed to regular airport operations for years, its history as RAF Manston and its proposed redevelopment as a future freight hub keep the area in aviation discussions. RiverOak Strategic Partners says work is under way on detailed planning for reopening Manston as a dedicated airfreight hub in 2029. For UFO history, the key point is not the future airport plan but the long-standing airfield context: Thanet has repeatedly been a place where unusual aerial reports are interpreted through military and aviation lenses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rsp.co.uk/reopening-manston/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsp.co.uk">[rsp.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsp.co.uk</span><span class="citation-popover-snippet">Open source on rsp.co.uk.</span></span></span>
 
-Historic-county geography also widens the frame. Biggin Hill, now in the London Borough of Bromley, sits within historic Kent’s cultural and aviation inheritance, while modern administrative discussions often treat it as London. For this project, that means some aviation-linked cases and sighting clusters may sit at the edge of Kent depending on whether the evidence is being sorted by historic county, modern council area, police force, media market or airspace. The distinction should be stated rather than hidden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+Historic-county geography also widens the frame. Biggin Hill, now in the London Borough of Bromley, sits within historic Kent’s cultural and aviation inheritance, while modern administrative discussions often treat it as London. For this project, that means some aviation-linked cases and sighting clusters may sit at the edge of Kent depending on whether the evidence is being sorted by historic county, modern council area, police force, media market or airspace. The distinction should be stated rather than hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WiaCAdbzl5w" title="1953: West Malling UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WiaCAdbzl5w" target="_blank" rel="noopener noreferrer">1953: West Malling UFO Incident</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WiaCAdbzl5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WiaCAdbzl5w">Open on YouTube</a></p></div></div></div>
 
 ## The best balanced reading of Kent’s UFO record
 
-Kent has a richer UFO record than a simple list of strange lights suggests, but it is not a county where the evidence points cleanly to one extraordinary conclusion. The Alitalia near-miss near Lydd remains the standout unresolved aviation case because it involved professional aircrew, apparent radar interest and an official inquiry that reportedly ruled out several obvious explanations. The Milton Torres/RAF Manston scramble remains a major Cold War radar-and-interceptor story, but its strongest sceptical reading is that radar deception, exercise activity or electronic warfare could explain why something dramatic appeared without a clear visual object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-snippet">Open source on irishexaminer.com.</span></span></span>
+Kent has a richer UFO record than a simple list of strange lights suggests, but it is not a county where the evidence points cleanly to one extraordinary conclusion. The Alitalia near-miss near Lydd remains the standout unresolved aviation case because it involved professional aircrew, apparent radar interest and an official inquiry that reportedly ruled out several obvious explanations. The Milton Torres/RAF Manston scramble remains a major Cold War radar-and-interceptor story, but its strongest sceptical reading is that radar deception, exercise activity or electronic warfare could explain why something dramatic appeared without a clear visual object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-snippet">Open source on irishexaminer.com.</span></span></span>
 
-The wider MoD-era sightings across Folkestone, Gravesend, Medway, Maidstone, Sheerness, Whitstable and other Kent places show public experience rather than proof. They are valuable because they reveal recurring patterns: orange lights, formations, hovering balls, V-shapes, fast streaks, and objects reported near coasts or flight paths. They are also limited because many entries are too brief for serious reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The wider MoD-era sightings across Folkestone, Gravesend, Medway, Maidstone, Sheerness, Whitstable and other Kent places show public experience rather than proof. They are valuable because they reveal recurring patterns: orange lights, formations, hovering balls, V-shapes, fast streaks, and objects reported near coasts or flight paths. They are also limited because many entries are too brief for serious reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The fairest conclusion is that Kent’s UFO history is strongest when treated as a county-level airspace mystery archive: part witness testimony, part aviation safety record, part Cold War history and part local media culture. A few cases deserve continued attention; many others are best regarded as weak or probably explainable. That distinction is what keeps the subject interesting without turning uncertainty into certainty.
 
@@ -796,194 +796,194 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
 <img src="{{ "/assets/images/Kent_4e168a-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened Over Kent? illustration 3" data-theme-src-dark="{{ "/assets/images/Kent_4e168a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Kent?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Kent?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on pilot, radar, and official-witness cases similar to the Kent incidents discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on pilot, radar, and official-witness cases similar to the Kent incidents discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for evaluating UFO reports, matching the page&#x27;s cautious treatment of sightings and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for evaluating UFO reports, matching the page&#x27;s cautious treatment of sightings and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines official investigations and the challenge of separating unexplained cases from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations and the challenge of separating unexplained cases from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Fits the page&#x27;s emphasis on Ministry of Defence records, Cold War reporting, and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page&#x27;s emphasis on Ministry of Defence records, Cold War reporting, and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kent-kent-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="what-really-happened-over-kent-kent-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -999,7 +999,7 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1019,7 +1019,7 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1051,7 +1051,7 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1103,7 +1103,7 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1148,7 +1148,7 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1189,301 +1189,301 @@ The fairest conclusion is that Kent’s UFO history is strongest when treated as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: us pilot was ordered to shoot down ufo id USTRE49J1P6  
-   Link: <a href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/</a>  
+   Link:<a href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kentlive.news  
    Title: ufo sightings kent recorded government 3563877  
-   Link: <a href="https://www.kentlive.news/news/kent-news/ufo-sightings-kent-recorded-government-3563877" target="_blank" rel="noopener noreferrer nofollow">https://www.kentlive.news/news/kent-news/ufo-sightings-kent-recorded-government-3563877</a>  
+   Link:<a href="https://www.kentlive.news/news/kent-news/ufo-sightings-kent-recorded-government-3563877" target="_blank" rel="noopener noreferrer nofollow">https://www.kentlive.news/news/kent-news/ufo-sightings-kent-recorded-government-3563877</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rsp.co.uk  
-   Link: <a href="https://rsp.co.uk/reopening-manston/" target="_blank" rel="noopener noreferrer nofollow">https://rsp.co.uk/reopening-manston/</a>  
+   Link:<a href="https://rsp.co.uk/reopening-manston/" target="_blank" rel="noopener noreferrer nofollow">https://rsp.co.uk/reopening-manston/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kentlive.news  
    Title: strange ufo sightings kent over 8491868  
-   Link: <a href="https://www.kentlive.news/news/kent-news/strange-ufo-sightings-kent-over-8491868" target="_blank" rel="noopener noreferrer nofollow">https://www.kentlive.news/news/kent-news/strange-ufo-sightings-kent-over-8491868</a>  
+   Link:<a href="https://www.kentlive.news/news/kent-news/strange-ufo-sightings-kent-over-8491868" target="_blank" rel="noopener noreferrer nofollow">https://www.kentlive.news/news/kent-news/strange-ufo-sightings-kent-over-8491868</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79786ee5274a3864fd747e/2233630.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ba688e5274a7202e18898/geth0910bswd-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ba688e5274a7202e18898/geth0910bswd-e-e.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ba688e5274a7202e18898/geth0910bswd-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ba688e5274a7202e18898/geth0910bswd-e-e.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Press Gazette Submission  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75596ce5274a3cb2869b87/Press_Gazette_Submission.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: podcast transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: Catalogue description Unidentified flying objects: reports AIR 2  
-   Link: <a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=3388942&amp;CATLN=6&amp;CATREF=AIR%2F18116&amp;SearchInit=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=3388942&amp;CATLN=6&amp;CATREF=AIR%2F18116&amp;SearchInit=4</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=3388942&amp;CATLN=6&amp;CATREF=AIR%2F18116&amp;SearchInit=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=3388942&amp;CATLN=6&amp;CATREF=AIR%2F18116&amp;SearchInit=4</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1993/400/note/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1993/400/note/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1993/400/note/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1993/400/note/made</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: democracy.kent.gov.uk  
-   Link: <a href="https://democracy.kent.gov.uk/documents/s52509/Appendix%20C%20-%20Kent%20Boundaries%20Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.kent.gov.uk/documents/s52509/Appendix%20C%20-%20Kent%20Boundaries%20Map.pdf</a>  
+   Link:<a href="https://democracy.kent.gov.uk/documents/s52509/Appendix%20C%20-%20Kent%20Boundaries%20Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.kent.gov.uk/documents/s52509/Appendix%20C%20-%20Kent%20Boundaries%20Map.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: eppingforestdc.gov.uk  
    Title: spirit of north weald booklet 7  
-   Link: <a href="https://www.eppingforestdc.gov.uk/app/uploads/2024/01/spirit-of-north-weald-booklet-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eppingforestdc.gov.uk/app/uploads/2024/01/spirit-of-north-weald-booklet-7.pdf</a>  
+   Link:<a href="https://www.eppingforestdc.gov.uk/app/uploads/2024/01/spirit-of-north-weald-booklet-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eppingforestdc.gov.uk/app/uploads/2024/01/spirit-of-north-weald-booklet-7.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: museum.maidstone.gov.uk  
-   Link: <a href="https://museum.maidstone.gov.uk/whats-on/events/paranormal-history-in-kent-maidstone-museum/" target="_blank" rel="noopener noreferrer nofollow">https://museum.maidstone.gov.uk/whats-on/events/paranormal-history-in-kent-maidstone-museum/</a>  
+   Link:<a href="https://museum.maidstone.gov.uk/whats-on/events/paranormal-history-in-kent-maidstone-museum/" target="_blank" rel="noopener noreferrer nofollow">https://museum.maidstone.gov.uk/whats-on/events/paranormal-history-in-kent-maidstone-museum/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zIwrbHZOjOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zIwrbHZOjOg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=zIwrbHZOjOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zIwrbHZOjOg</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: independent.co.uk  
    Title: passenger jet s nearmiss with ufo above kent 966925  
-   Link: <a href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kent</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kent</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: irishexaminer.com  
-   Link: <a href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/world/arid-30382660.html</a>  
+   Link:<a href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/world/arid-30382660.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: The Guardian Odd, intriguing and alarming UFO files released | UK news  
-   Link: <a href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell</a>  
+   Link:<a href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theguardian.com  
    Title: The Guardian Mo D files show 'UFOs' visited Michael Howard's home town  
-   Link: <a href="https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/michael-howard-ufos-folkestone</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
    Title: The Guardian Could we have hitched a ride on UFOs? | Science  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: lyddairport.co.uk  
-   Link: <a href="https://lyddairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://lyddairport.co.uk/</a>  
+   Link:<a href="https://lyddairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://lyddairport.co.uk/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kent</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: Wikipedia  
    Title: Lydd Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Lydd_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lydd_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lydd_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lydd_Airport</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: spookykent.com  
-   Link: <a href="https://www.spookykent.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookykent.com/category/ufos/</a>  
+   Link:<a href="https://www.spookykent.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookykent.com/category/ufos/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wikishire%3AMap" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wikishire%3AMap</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: wikishire.co.uk  
    Title: Lydd Airport  
-   Link: <a href="https://wikishire.co.uk/wiki/Lydd_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lydd_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Lydd_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lydd_Airport</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: lyddairport.co.uk  
-   Link: <a href="https://lyddairport.co.uk/airport-terms-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://lyddairport.co.uk/airport-terms-conditions/</a>  
+   Link:<a href="https://lyddairport.co.uk/airport-terms-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://lyddairport.co.uk/airport-terms-conditions/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: lunajets.com  
-   Link: <a href="https://www.lunajets.com/en/airports/lydd-london-ashford-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.lunajets.com/en/airports/lydd-london-ashford-airport</a>  
+   Link:<a href="https://www.lunajets.com/en/airports/lydd-london-ashford-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.lunajets.com/en/airports/lydd-london-ashford-airport</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: airportwatch.org.uk  
-   Link: <a href="https://www.airportwatch.org.uk/uk-airports/lydd-airport-london-ashford/lydd-airport-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.airportwatch.org.uk/uk-airports/lydd-airport-london-ashford/lydd-airport-news/</a>  
+   Link:<a href="https://www.airportwatch.org.uk/uk-airports/lydd-airport-london-ashford/lydd-airport-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.airportwatch.org.uk/uk-airports/lydd-airport-london-ashford/lydd-airport-news/</a>  
 
 ### Additional References
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/folkestoneexpress/posts/a-mysterious-spiral-has-illuminated-skies-across-the-county-this-evening-leaving/1226094366188011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/folkestoneexpress/posts/a-mysterious-spiral-has-illuminated-skies-across-the-county-this-evening-leaving/1226094366188011/</a>  
+   Link:<a href="https://www.facebook.com/folkestoneexpress/posts/a-mysterious-spiral-has-illuminated-skies-across-the-county-this-evening-leaving/1226094366188011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/folkestoneexpress/posts/a-mysterious-spiral-has-illuminated-skies-across-the-county-this-evening-leaving/1226094366188011/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: jamesthesweep.co.uk  
-   Link: <a href="https://jamesthesweep.co.uk/aliens-have-landed-in-tunbridge-wells-or-have-they/" target="_blank" rel="noopener noreferrer nofollow">https://jamesthesweep.co.uk/aliens-have-landed-in-tunbridge-wells-or-have-they/</a>  
+   Link:<a href="https://jamesthesweep.co.uk/aliens-have-landed-in-tunbridge-wells-or-have-they/" target="_blank" rel="noopener noreferrer nofollow">https://jamesthesweep.co.uk/aliens-have-landed-in-tunbridge-wells-or-have-they/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXPAJp4DffH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPAJp4DffH/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXPAJp4DffH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPAJp4DffH/?hl=en</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
+   Link:<a href="https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEssex/posts/the-moment-an-unidentified-flying-object-flew-past-essex-pilot-chris-crowther-re/1878056676867056/?locale=be_BY</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CasualUK/comments/1sdgoef/bright_red_star_thing_moving_quick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CasualUK/comments/1sdgoef/bright_red_star_thing_moving_quick/</a>  
+   Link:<a href="https://www.reddit.com/r/CasualUK/comments/1sdgoef/bright_red_star_thing_moving_quick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CasualUK/comments/1sdgoef/bright_red_star_thing_moving_quick/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCSussex/videos/did-you-see-a-strange-object-in-the-skies-above-sussex-last-nightwe-had-this-vid/542955393891698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCSussex/videos/did-you-see-a-strange-object-in-the-skies-above-sussex-last-nightwe-had-this-vid/542955393891698/</a>  
+   Link:<a href="https://www.facebook.com/BBCSussex/videos/did-you-see-a-strange-object-in-the-skies-above-sussex-last-nightwe-had-this-vid/542955393891698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCSussex/videos/did-you-see-a-strange-object-in-the-skies-above-sussex-last-nightwe-had-this-vid/542955393891698/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/greenwichtime/posts/did-you-see-the-reported-ufo-sighting-in-greenwich/10156221851583181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greenwichtime/posts/did-you-see-the-reported-ufo-sighting-in-greenwich/10156221851583181/</a>  
+   Link:<a href="https://www.facebook.com/greenwichtime/posts/did-you-see-the-reported-ufo-sighting-in-greenwich/10156221851583181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greenwichtime/posts/did-you-see-the-reported-ufo-sighting-in-greenwich/10156221851583181/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YourSouthend/posts/did-you-spot-this-incredible-light-show-in-the-sky-last-night-%EF%B8%8Fwhat-looked-like-/1473193511502726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YourSouthend/posts/did-you-spot-this-incredible-light-show-in-the-sky-last-night-%EF%B8%8Fwhat-looked-like-/1473193511502726/</a>  
+   Link:<a href="https://www.facebook.com/YourSouthend/posts/did-you-spot-this-incredible-light-show-in-the-sky-last-night-%EF%B8%8Fwhat-looked-like-/1473193511502726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YourSouthend/posts/did-you-spot-this-incredible-light-show-in-the-sky-last-night-%EF%B8%8Fwhat-looked-like-/1473193511502726/</a>  

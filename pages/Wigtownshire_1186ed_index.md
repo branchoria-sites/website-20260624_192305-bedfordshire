@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wigtownshire-1186ed-index/
 description: Focused pages that expand on Why Wigtownshire Still Matters to UFO....
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Wigtownshire_1186ed
 parent_title: Why Wigtownshire Still Matters to UFO...
@@ -16,7 +16,7 @@ parent_permalink: /why-wigtownshire-still-matters-to-ufo/
 
 # Explore Topics in Why Wigtownshire Still Matters to UFO...
 
-The following pages expand on the main **[Why Wigtownshire Still Matters to UFO...]({{ '/why-wigtownshire-still-matters-to-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Why Wigtownshire Still Matters to UFO...]({{ '/why-wigtownshire-still-matters-to-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Hotspot Test]({{ '/hotspot-test/' | relative_url }})
 - [Luce Bay]({{ '/luce-bay/' | relative_url }})

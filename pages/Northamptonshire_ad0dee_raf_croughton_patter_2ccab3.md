@@ -248,7 +248,7 @@ image: /assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-overvi
 
 ## Introduction
 
-RAF Croughton helps explain why military sites loom large in [Northamptonshire]({{ 'what-really-happened-over-86c9dc/' | relative_url }}) UFO discussion, but it does not by itself prove that unusual aerial objects have been operating over the county. The better reading is more cautious: Croughton is a major United States Air Force communications station in rural south-west Northamptonshire, close to Oxfordshire and Buckinghamshire, and that combination of defence secrecy, visible infrastructure, cross-border flight activity and local rumour makes ordinary lights easier to frame as mysterious. Officially, the site is home to the 422d Air Base Group and associated communications, security, medical, civil engineering and support units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501st Combat Support Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">501st Combat Support Wing RAF Croughton</span><span class="citation-popover-snippet">501st Combat Support Wing RAF Croughton</span></span></span>
+RAF Croughton helps explain why military sites loom large in [Northamptonshire]({{ 'what-really-happened-over-86c9dc/' | relative_url }}) UFO discussion, but it does not by itself prove that unusual aerial objects have been operating over the county. The better reading is more cautious: Croughton is a major United States Air Force communications station in rural south-west Northamptonshire, close to Oxfordshire and Buckinghamshire, and that combination of defence secrecy, visible infrastructure, cross-border flight activity and local rumour makes ordinary lights easier to frame as mysterious. Officially, the site is home to the 422d Air Base Group and associated communications, security, medical, civil engineering and support units.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501st Combat Support Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">501st Combat Support Wing RAF Croughton</span><span class="citation-popover-snippet">501st Combat Support Wing RAF Croughton</span></span></span>
 
 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-overview.webp" | relative_url }}" alt="Overview image for RAF Croughton" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ The strongest evidence for Northamptonshire’s UFO history still comes from rec
 
 ## Why Military Locations Attract Reports
 
-Military sites attract UFO stories because they change how people interpret the sky. A light over open countryside might be dismissed as an aircraft, drone, star, satellite, helicopter or lantern. The same light seen near a communications base can feel different because the setting already suggests secrecy, restricted access and unusual technology. RAF Croughton is especially prone to that effect because it is not just an old wartime airfield; it remains an active communications hub used by the United States Air Force in the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">RAF Croughton</span><span class="citation-popover-snippet">RAF Croughton</span></span></span>
+Military sites attract UFO stories because they change how people interpret the sky. A light over open countryside might be dismissed as an aircraft, drone, star, satellite, helicopter or lantern. The same light seen near a communications base can feel different because the setting already suggests secrecy, restricted access and unusual technology. RAF Croughton is especially prone to that effect because it is not just an old wartime airfield; it remains an active communications hub used by the United States Air Force in the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">RAF Croughton</span><span class="citation-popover-snippet">RAF Croughton</span></span></span>
 
 This does not mean witnesses are foolish or dishonest. It means that context matters. A rural military installation creates several conditions that can increase reporting:
 
@@ -270,7 +270,7 @@ This does not mean witnesses are foolish or dishonest. It means that context mat
 
 </div>
 
-The Ministry of Defence’s historical approach reinforces the need for caution. The MoD’s UFO files were concerned mainly with whether sightings had possible defence significance, not with proving or disproving extraterrestrial visitation. The National Archives explains that many older files were destroyed under earlier retention policy, while later surviving files were released in tranches; a 2024 parliamentary answer also states that the MoD ceased investigating UFO or UAP reports in 2009 and has released files up to that point to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+The Ministry of Defence’s historical approach reinforces the need for caution. The MoD’s UFO files were concerned mainly with whether sightings had possible defence significance, not with proving or disproving extraterrestrial visitation. The National Archives explains that many older files were destroyed under earlier retention policy, while later surviving files were released in tranches; a 2024 parliamentary answer also states that the MoD ceased investigating UFO or UAP reports in 2009 and has released files up to that point to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 That official framework is important for Croughton. If a sighting near the base appears in an MoD file, it shows that a report was logged or considered. It does not automatically show that the object was extraordinary, hostile, secret military technology or connected to the base.
 
@@ -278,21 +278,21 @@ That official framework is important for Croughton. If a sighting near the base 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-Illustration-1-dark.svg" | relative_url }}" alt="RAF Croughton illustration 1" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What RAF Croughton Adds To The Northamptonshire Story
 
-RAF Croughton gives Northamptonshire’s UFO history a distinctive military-site layer. The station lies near Croughton village in the south-west of the county, close enough to Oxfordshire and Buckinghamshire that local reports can easily be described differently depending on the witness, newspaper, police force or archive involved. Wikishire places Croughton in Northamptonshire and notes RAF Croughton partly in the parish, while USAF-facing material describes the base as being in Northamptonshire, about 40 minutes north of Oxford. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Croughton%2C_Northamptonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Croughton, Northamptonshire</span><span class="citation-popover-snippet">Croughton, Northamptonshire</span></span></span>
+RAF Croughton gives Northamptonshire’s UFO history a distinctive military-site layer. The station lies near Croughton village in the south-west of the county, close enough to Oxfordshire and Buckinghamshire that local reports can easily be described differently depending on the witness, newspaper, police force or archive involved. Wikishire places Croughton in Northamptonshire and notes RAF Croughton partly in the parish, while USAF-facing material describes the base as being in Northamptonshire, about 40 minutes north of Oxford.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Croughton%2C_Northamptonshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Croughton, Northamptonshire</span><span class="citation-popover-snippet">Croughton, Northamptonshire</span></span></span>
 
-The base’s role matters because it is unusual, even without UFO claims. Official and base-facing descriptions identify RAF Croughton as a communications station and the headquarters of the 422d Air Base Group. The base support material also describes it as operating one of Europe’s largest military switchboards and handling a significant share of US military communications in Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafcroughtonfss.com/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafcroughtonfss.com">[RAF Croughton FSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafcroughtonfss.com</span><span class="citation-popover-snippet">Open source on rafcroughtonfss.com.</span></span></span>
+The base’s role matters because it is unusual, even without UFO claims. Official and base-facing descriptions identify RAF Croughton as a communications station and the headquarters of the 422d Air Base Group. The base support material also describes it as operating one of Europe’s largest military switchboards and handling a significant share of US military communications in Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rafcroughtonfss.com/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafcroughtonfss.com">[RAF Croughton FSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafcroughtonfss.com</span><span class="citation-popover-snippet">Open source on rafcroughtonfss.com.</span></span></span>
 
 That communications role gives Croughton a different UFO profile from an active fast-jet base. It is not chiefly interesting because people should expect frequent dramatic take-offs from the site itself. It is interesting because it is a sensitive, visible, long-running defence communications location in an otherwise rural setting. Its dishes, restricted areas, security presence and American connection can make the surrounding sky feel more charged than it would around an ordinary village.
 
-A further layer comes from public controversy over the base’s future and role. In a 2020 House of Commons debate, the local MP described RAF Croughton as a US Air Force communications station built in 1938 and discussed earlier US plans to consolidate some military and communications operations there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2020-07-09/debates/EBB85D12-1500-43F6-9C8F-716682F79B8C/RAFCroughtonExpansionDiplomaticImplications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard RAF Croughton Expansion: Diplomatic Implications</span><span class="citation-popover-snippet">Hansard RAF Croughton Expansion: Diplomatic Implications</span></span></span> AFCEA, reporting on US defence plans in 2014, described a proposed $317 million facility at RAF Croughton intended to accommodate intelligence organisations then operating at RAF Molesworth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afcea.org/signal-media/united-states-combine-multiple-intelligence-missions-single-uk-complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afcea.org">[AFCEA International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afcea.org</span><span class="citation-popover-title">united states combine multiple intelligence missions single uk complex</span><span class="citation-popover-snippet">united states combine multiple intelligence missions single uk complex</span></span></span> Those debates do not establish a UFO connection, but they do help explain why the base attracts suspicion: it is a real strategic site, not just a name on a map.
+A further layer comes from public controversy over the base’s future and role. In a 2020 House of Commons debate, the local MP described RAF Croughton as a US Air Force communications station built in 1938 and discussed earlier US plans to consolidate some military and communications operations there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2020-07-09/debates/EBB85D12-1500-43F6-9C8F-716682F79B8C/RAFCroughtonExpansionDiplomaticImplications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard RAF Croughton Expansion: Diplomatic Implications</span><span class="citation-popover-snippet">Hansard RAF Croughton Expansion: Diplomatic Implications</span></span></span> AFCEA, reporting on US defence plans in 2014, described a proposed $317 million facility at RAF Croughton intended to accommodate intelligence organisations then operating at RAF Molesworth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afcea.org/signal-media/united-states-combine-multiple-intelligence-missions-single-uk-complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afcea.org">[AFCEA International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afcea.org</span><span class="citation-popover-title">united states combine multiple intelligence missions single uk complex</span><span class="citation-popover-snippet">united states combine multiple intelligence missions single uk complex</span></span></span> Those debates do not establish a UFO connection, but they do help explain why the base attracts suspicion: it is a real strategic site, not just a name on a map.
 
 ## The Local Sighting Pattern Is Broader Than The Fence Line
 
-The most useful way to read RAF Croughton’s place in Northamptonshire UFO history is as part of a wider south-west Northamptonshire and border-area pattern, not as a single famous “Croughton incident”. The county’s better-documented reports include sightings logged in MoD material, such as the 5 June 2000 [Brackley/Towcester]({{ 'brackley-case/' | relative_url }}) report of three large orange objects described as larger than a plane and shaped like a rectangle, square and hook. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Brackley and Towcester are not RAF Croughton, but they sit in the same broad south-western county landscape where military associations, rural darkness and cross-border movement can shape how sightings are described.
+The most useful way to read RAF Croughton’s place in Northamptonshire UFO history is as part of a wider south-west Northamptonshire and border-area pattern, not as a single famous “Croughton incident”. The county’s better-documented reports include sightings logged in MoD material, such as the 5 June 2000 [Brackley/Towcester]({{ 'brackley-case/' | relative_url }}) report of three large orange objects described as larger than a plane and shaped like a rectangle, square and hook.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Brackley and Towcester are not RAF Croughton, but they sit in the same broad south-western county landscape where military associations, rural darkness and cross-border movement can shape how sightings are described.
 
-Earlier MoD-released data also shows Northamptonshire reports away from Croughton. A 1998 file includes a Corby report of three red lights in a triangular formation with a silver star-shaped object below them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Corby is in the north of the county, so it should not be folded into a Croughton narrative. Its value is different: it shows that Northamptonshire UFO reports are not simply a by-product of one base. The county’s sightings include ordinary town and rural reports as well as military-adjacent ones.
+Earlier MoD-released data also shows Northamptonshire reports away from Croughton. A 1998 file includes a Corby report of three red lights in a triangular formation with a silver star-shaped object below them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Corby is in the north of the county, so it should not be folded into a Croughton narrative. Its value is different: it shows that Northamptonshire UFO reports are not simply a by-product of one base. The county’s sightings include ordinary town and rural reports as well as military-adjacent ones.
 
-Local policing records also show how loose the “UFO” category can be. A Northamptonshire Police FOI disclosure for 2025 includes entries such as a green UFO sighting in Northampton and other calls that mix UFO language with clearly confused or distressed claims. The force warns that the disclosed data is an unaudited snapshot from live systems and depends on how the request was interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span> That is a useful caution for Croughton too: official logging does not mean official validation.
+Local policing records also show how loose the “UFO” category can be. A Northamptonshire Police FOI disclosure for 2025 includes entries such as a green UFO sighting in Northampton and other calls that mix UFO language with clearly confused or distressed claims. The force warns that the disclosed data is an unaudited snapshot from live systems and depends on how the request was interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span> That is a useful caution for Croughton too: official logging does not mean official validation.
 
 The result is a pattern rather than a smoking gun. Northamptonshire has recurring reports of lights, shapes and formations; RAF Croughton gives some of those reports a military backdrop; but publicly available evidence does not support the claim that Croughton is the source of a clearly documented, unresolved UFO event comparable to Rendlesham Forest.
 
@@ -301,9 +301,9 @@ The result is a pattern rather than a smoking gun. Northamptonshire has recurrin
 
 ## Where Suspicion Outruns The Evidence
 
-The weakest Croughton-related material tends to appear where a famous national UFO story is retrofitted onto the Northamptonshire base. Search results and audio listings contain claims about triangular craft in December 1980 being seen at RAF Croughton as well as at RAF Bentwaters or RAF Upper Heyford, but the material is secondary, entertainment-led or based on later witness narrative rather than a strong contemporaneous local record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.spotify.com/episode/3TxevHpzpyIXVBYqzYZuBb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.spotify.com</span><span class="citation-popover-title">3Txev Hpzpy IXVBYqz YZu Bb</span><span class="citation-popover-snippet">3Txev Hpzpy IXVBYqz YZu Bb</span></span></span> Such claims should be treated as folklore unless supported by dated documents, named witnesses, radar data, police logs, MoD correspondence or reliable local press coverage.
+The weakest Croughton-related material tends to appear where a famous national UFO story is retrofitted onto the Northamptonshire base. Search results and audio listings contain claims about triangular craft in December 1980 being seen at RAF Croughton as well as at RAF Bentwaters or RAF Upper Heyford, but the material is secondary, entertainment-led or based on later witness narrative rather than a strong contemporaneous local record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.spotify.com/episode/3TxevHpzpyIXVBYqzYZuBb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.spotify.com</span><span class="citation-popover-title">3Txev Hpzpy IXVBYqz YZu Bb</span><span class="citation-popover-snippet">3Txev Hpzpy IXVBYqz YZu Bb</span></span></span> Such claims should be treated as folklore unless supported by dated documents, named witnesses, radar data, police logs, MoD correspondence or reliable local press coverage.
 
-The comparison with Rendlesham is tempting but risky. Rendlesham involved USAF personnel, a military setting and official paperwork, which is why it became central to British UFO culture. But that does not mean every US-used RAF site carries a parallel hidden case. The Guardian’s recent treatment of Rendlesham emphasises why that case became so durable: multiple military witnesses, official documents, physical-location claims and long-running disputes between believers and sceptics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span> Croughton does not have the same public evidence trail.
+The comparison with Rendlesham is tempting but risky. Rendlesham involved USAF personnel, a military setting and official paperwork, which is why it became central to British UFO culture. But that does not mean every US-used RAF site carries a parallel hidden case. The Guardian’s recent treatment of Rendlesham emphasises why that case became so durable: multiple military witnesses, official documents, physical-location claims and long-running disputes between believers and sceptics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span> Croughton does not have the same public evidence trail.
 
 Suspicion also outruns evidence when “communications base” becomes shorthand for any secret aerial technology. RAF Croughton’s official role is communications and support, not a public record of experimental aircraft testing. The base’s strategic sensitivity may explain public interest, but it cannot be used as evidence that unexplained lights were advanced craft. That would reverse the burden of proof: secrecy would become proof of whatever story is being attached to it.
 
@@ -331,9 +331,9 @@ Many military-site UFO reports begin with a real observation. The difficult part
 
 Aircraft remain the obvious first check. Croughton itself is not primarily known as an active flying base today, but it sits within a wider region of military and civilian aviation. Nearby counties contain major RAF and US-used sites, and aircraft seen at distance can appear to hover, merge, change colour or move silently depending on wind, angle, cloud and background darkness.
 
-Drones have become more important in recent years. The Civil Aviation Authority allows drone flying within regulated limits and now states that drones flown at night in the Open Category must use a green flashing light from 1 January 2026. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span> A small drone seen at night can look like a hovering or darting light, especially when the observer has little depth perception. This matters for UFO interpretation because a witness may correctly report an odd light while still misjudging its size, distance and altitude.
+Drones have become more important in recent years. The Civil Aviation Authority allows drone flying within regulated limits and now states that drones flown at night in the Open Category must use a green flashing light from 1 January 2026.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span> A small drone seen at night can look like a hovering or darting light, especially when the observer has little depth perception. This matters for UFO interpretation because a witness may correctly report an odd light while still misjudging its size, distance and altitude.
 
-There is also a newer security context. In November 2024, unidentified drones were reported over RAF Lakenheath, RAF Mildenhall and RAF Feltwell, all US-used RAF sites in eastern England. The Guardian reported that the USAF could not confirm whether the drones were hostile, and UK ministers described a criminal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> Those incidents were not in Northamptonshire, but they show why modern “unknown lights near a base” should not be treated only as old-fashioned UFO lore. Some reports may involve drones, surveillance concerns, nuisance flights or misidentifications rather than anything extraterrestrial.
+There is also a newer security context. In November 2024, unidentified drones were reported over RAF Lakenheath, RAF Mildenhall and RAF Feltwell, all US-used RAF sites in eastern England. The Guardian reported that the USAF could not confirm whether the drones were hostile, and UK ministers described a criminal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> Those incidents were not in Northamptonshire, but they show why modern “unknown lights near a base” should not be treated only as old-fashioned UFO lore. Some reports may involve drones, surveillance concerns, nuisance flights or misidentifications rather than anything extraterrestrial.
 
 Astronomical and atmospheric explanations still matter too. Bright planets, aircraft landing lights, satellites, sky lanterns and low cloud effects have repeatedly accounted for reported lights across Britain. The point is not that every sighting is explained. It is that military-site settings can make common causes feel more significant, especially when a witness already knows a sensitive installation is nearby.
 
@@ -348,7 +348,7 @@ The most balanced interpretation is:
 
 **Croughton strengthens the setting, not the claim.** Its presence makes it understandable that witnesses and researchers would look for military explanations, but the existence of the base is not evidence that a sighting was extraordinary.
 
-**The best local evidence is still report-specific.** The Brackley/Towcester 2000 report is more useful than a vague claim of “lights near the base” because it gives a date, area, number of objects, colour and shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Even then, the public record remains limited.
+**The best local evidence is still report-specific.** The Brackley/Towcester 2000 report is more useful than a vague claim of “lights near the base” because it gives a date, area, number of objects, colour and shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Even then, the public record remains limited.
 
 **Cross-border geography matters.** RAF Croughton sits in Northamptonshire but close to Oxfordshire and Buckinghamshire. A witness, newspaper or online account may describe the same broad sky area using different local anchors. That makes careful place wording essential.
 
@@ -360,7 +360,7 @@ The most balanced interpretation is:
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-Illustration-3-dark.svg" | relative_url }}" alt="RAF Croughton illustration 3" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_raf_croughton_patter_2ccab3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fair Verdict
 
-RAF Croughton does explain part of the local UFO interest in Northamptonshire. It provides a real military and communications backdrop, a visible strategic site in rural country, and a reason why witnesses may link unusual lights to defence activity. It also sits close to areas where Northamptonshire sightings have entered public or official records, including the Brackley/Towcester report of June 2000. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501st Combat Support Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">501st Combat Support Wing RAF Croughton</span><span class="citation-popover-snippet">501st Combat Support Wing RAF Croughton</span></span></span>
+RAF Croughton does explain part of the local UFO interest in Northamptonshire. It provides a real military and communications backdrop, a visible strategic site in rural country, and a reason why witnesses may link unusual lights to defence activity. It also sits close to areas where Northamptonshire sightings have entered public or official records, including the Brackley/Towcester report of June 2000.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 501csw.usafe.af.mil">[501st Combat Support Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">501csw.usafe.af.mil</span><span class="citation-popover-title">501st Combat Support Wing RAF Croughton</span><span class="citation-popover-snippet">501st Combat Support Wing RAF Croughton</span></span></span>
 
 What it does not provide, on the public evidence currently available, is a strong standalone UFO case. The base is better understood as a lens through which sightings are interpreted: sometimes sensibly, sometimes speculatively, and sometimes far beyond what the evidence can support. For Northamptonshire’s UFO history, that makes RAF Croughton important but not conclusive. It is a place where secrecy, sky-watching and local storytelling meet — and where the most honest conclusion is that the setting is compelling, while the evidence for extraordinary activity remains thin.
 
@@ -369,194 +369,194 @@ What it does not provide, on the public evidence currently available, is a stron
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does RAF Croughton Explain Local UFO Interest?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does RAF Croughton Explain Local UFO Interest?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly addresses British UFO reports, official investigations, military connections and the gap between sightings and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses British UFO reports, official investigations, military connections and the gap between sightings and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Helps readers understand how military sites, defence reporting and public UFO claims interact in Britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how military sites, defence reporting and public UFO claims interact in Britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a cautious investigative framework for assessing sightings rather than assuming extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a cautious investigative framework for assessing sightings rather than assuming extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Explores how folklore, rumours and interpretations shape UFO narratives, echoing themes of local suspicion and military-site mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how folklore, rumours and interpretations shape UFO narratives, echoing themes of local suspicion and military-site mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="raf-croughton-does-raf-croughton-explain-local-ufo-interest-northamptonshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="does-raf-croughton-explain-local-ufo-interest-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ What it does not provide, on the public evidence currently available, is a stron
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ What it does not provide, on the public evidence currently available, is a stron
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ What it does not provide, on the public evidence currently available, is a stron
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ What it does not provide, on the public evidence currently available, is a stron
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ What it does not provide, on the public evidence currently available, is a stron
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,221 +762,221 @@ What it does not provide, on the public evidence currently available, is a stron
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rafcroughtonfss.com  
-   Link: <a href="https://rafcroughtonfss.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://rafcroughtonfss.com/about/</a>  
+   Link:<a href="https://rafcroughtonfss.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://rafcroughtonfss.com/about/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: afcea.org  
    Title: united states combine multiple intelligence missions single uk complex  
-   Link: <a href="https://www.afcea.org/signal-media/united-states-combine-multiple-intelligence-missions-single-uk-complex" target="_blank" rel="noopener noreferrer nofollow">https://www.afcea.org/signal-media/united-states-combine-multiple-intelligence-missions-single-uk-complex</a>  
+   Link:<a href="https://www.afcea.org/signal-media/united-states-combine-multiple-intelligence-missions-single-uk-complex" target="_blank" rel="noopener noreferrer nofollow">https://www.afcea.org/signal-media/united-states-combine-multiple-intelligence-missions-single-uk-complex</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: northants.police.uk  
    Title: foi 10701 25 ufo sightings  
-   Link: <a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
+   Link:<a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: open.spotify.com  
    Title: 3Txev Hpzpy IXVBYqz YZu Bb  
-   Link: <a href="https://open.spotify.com/episode/3TxevHpzpyIXVBYqzYZuBb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3TxevHpzpyIXVBYqzYZuBb</a>  
+   Link:<a href="https://open.spotify.com/episode/3TxevHpzpyIXVBYqzYZuBb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3TxevHpzpyIXVBYqzYZuBb</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2014/855/schedule/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2014/855/schedule/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2014/855/schedule/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2014/855/schedule/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mycouncil.oxfordshire.gov.uk  
    Title: Public reports pack Monday 25 Oct 2010 11.30 Planning Regulation Committee  
-   Link: <a href="https://mycouncil.oxfordshire.gov.uk/documents/g762/Public%20reports%20pack%20Monday%2025-Oct-2010%2011.30%20Planning%20Regulation%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://mycouncil.oxfordshire.gov.uk/documents/g762/Public%20reports%20pack%20Monday%2025-Oct-2010%2011.30%20Planning%20Regulation%20Committee.pdf?T=10</a>  
+   Link:<a href="https://mycouncil.oxfordshire.gov.uk/documents/g762/Public%20reports%20pack%20Monday%2025-Oct-2010%2011.30%20Planning%20Regulation%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://mycouncil.oxfordshire.gov.uk/documents/g762/Public%20reports%20pack%20Monday%2025-Oct-2010%2011.30%20Planning%20Regulation%20Committee.pdf?T=10</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: modgov.cherwell.gov.uk  
    Title: Public reports pack Monday 20 Feb 2017 18.30 Council  
-   Link: <a href="https://modgov.cherwell.gov.uk/documents/g2721/Public%20reports%20pack%20Monday%2020-Feb-2017%2018.30%20Council.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://modgov.cherwell.gov.uk/documents/g2721/Public%20reports%20pack%20Monday%2020-Feb-2017%2018.30%20Council.pdf?T=10</a>  
+   Link:<a href="https://modgov.cherwell.gov.uk/documents/g2721/Public%20reports%20pack%20Monday%2020-Feb-2017%2018.30%20Council.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://modgov.cherwell.gov.uk/documents/g2721/Public%20reports%20pack%20Monday%2020-Feb-2017%2018.30%20Council.pdf?T=10</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: 501csw.usafe.af.mil  
    Title: 501st Combat Support Wing RAF Croughton  
-   Link: <a href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Pathfinder-Portal/RAF-Croughton/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: 501csw.usafe.af.mil  
    Title: 501st Combat Support Wing501st Combat Support Wing > Units > 422d ABG  
-   Link: <a href="https://www.501csw.usafe.af.mil/Units/422d-ABG/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Units/422d-ABG/</a>  
+   Link:<a href="https://www.501csw.usafe.af.mil/Units/422d-ABG/" target="_blank" rel="noopener noreferrer nofollow">https://www.501csw.usafe.af.mil/Units/422d-ABG/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wikishire.co.uk  
    Title: RAF Croughton  
-   Link: <a href="https://wikishire.co.uk/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/RAF_Croughton</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/RAF_Croughton</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
    Title: Croughton, Northamptonshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Croughton%2C_Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Croughton%2C_Northamptonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Croughton%2C_Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Croughton%2C_Northamptonshire</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hansard.parliament.uk  
    Title: Hansard RAF Croughton Expansion: Diplomatic Implications  
-   Link: <a href="https://hansard.parliament.uk/commons/2020-07-09/debates/EBB85D12-1500-43F6-9C8F-716682F79B8C/RAFCroughtonExpansionDiplomaticImplications" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2020-07-09/debates/EBB85D12-1500-43F6-9C8F-716682F79B8C/RAFCroughtonExpansionDiplomaticImplications</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2020-07-09/debates/EBB85D12-1500-43F6-9C8F-716682F79B8C/RAFCroughtonExpansionDiplomaticImplications" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2020-07-09/debates/EBB85D12-1500-43F6-9C8F-716682F79B8C/RAFCroughtonExpansionDiplomaticImplications</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: RAF Croughton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Croughton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Croughton</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: 422d Air Base Group  
-   Link: <a href="https://www.facebook.com/422dABG/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/422dABG/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/422dABG/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/422dABG/?locale=en_GB</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
    Title: Category:RAF stations in Northamptonshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Category%3ARAF_stations_in_Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3ARAF_stations_in_Northamptonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Category%3ARAF_stations_in_Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Category%3ARAF_stations_in_Northamptonshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Croughton" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Croughton</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Croughton" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Croughton</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
+   Link:<a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: visitnorthamptonshire.co.uk  
-   Link: <a href="https://visitnorthamptonshire.co.uk/villages/croughton/" target="_blank" rel="noopener noreferrer nofollow">https://visitnorthamptonshire.co.uk/villages/croughton/</a>  
+   Link:<a href="https://visitnorthamptonshire.co.uk/villages/croughton/" target="_blank" rel="noopener noreferrer nofollow">https://visitnorthamptonshire.co.uk/villages/croughton/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: atlantikwall.co.uk  
-   Link: <a href="https://www.atlantikwall.co.uk/e-northampton/croughton.php" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantikwall.co.uk/e-northampton/croughton.php</a>  
+   Link:<a href="https://www.atlantikwall.co.uk/e-northampton/croughton.php" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantikwall.co.uk/e-northampton/croughton.php</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: rafcroughtonfss.com  
-   Link: <a href="https://rafcroughtonfss.com/" target="_blank" rel="noopener noreferrer nofollow">https://rafcroughtonfss.com/</a>  
+   Link:<a href="https://rafcroughtonfss.com/" target="_blank" rel="noopener noreferrer nofollow">https://rafcroughtonfss.com/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: The story behind mysterious lights seen above Northamptonshire skies  
-   Link: <a href="https://www.youtube.com/watch?v=BPJ1JDzkXWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPJ1JDzkXWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;USAF Base, RAF Mildenhall UK. Part 1, the Night Before.[https://www.youtube.com/watch?v=x2KJB13oDCA...&quot;](https://www.youtube.com/watch?v=x2KJB13oDCA...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BPJ1JDzkXWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPJ1JDzkXWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;USAF Base, RAF Mildenhall UK. Part 1, the Night Before.[https://www.youtube.com/watch?v=x2KJB13oDCA...&quot;](https://www.youtube.com/watch?v=x2KJB13oDCA...&quot;)...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_83.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_83.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_83.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_83.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: UK UFO Sightings: Former Mo D Expert Speaks Out  
-   Link: <a href="https://www.youtube.com/watch?v=6KWwgDB_di8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6KWwgDB_di8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6KWwgDB_di8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6KWwgDB_di8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: aynho.org  
-   Link: <a href="https://aynho.org/wp-content/uploads/2014/10/A_Military_History_of_Aynho.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aynho.org/wp-content/uploads/2014/10/A_Military_History_of_Aynho.pdf</a>  
+   Link:<a href="https://aynho.org/wp-content/uploads/2014/10/A_Military_History_of_Aynho.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aynho.org/wp-content/uploads/2014/10/A_Military_History_of_Aynho.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/rafcroughton/posts/10168506063800080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rafcroughton/posts/10168506063800080/</a>  
+   Link:<a href="https://www.facebook.com/groups/rafcroughton/posts/10168506063800080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rafcroughton/posts/10168506063800080/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: stripes.com  
-   Link: <a href="https://www.stripes.com/news/2009-03-29/activist-files-civil-charges-against-croughton-airman-1943233.html1" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/news/2009-03-29/activist-files-civil-charges-against-croughton-airman-1943233.html1</a>  
+   Link:<a href="https://www.stripes.com/news/2009-03-29/activist-files-civil-charges-against-croughton-airman-1943233.html1" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/news/2009-03-29/activist-files-civil-charges-against-croughton-airman-1943233.html1</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/american-air-base-uk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/american-air-base-uk.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/american-air-base-uk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/american-air-base-uk.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.992831&amp;longitude=-1.214961&amp;search_location=%2C%2520Croughton%2C%2520Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.992831&amp;longitude=-1.214961&amp;search_location=%2C%2520Croughton%2C%2520Northamptonshire</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.992831&amp;longitude=-1.214961&amp;search_location=%2C%2520Croughton%2C%2520Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.992831&amp;longitude=-1.214961&amp;search_location=%2C%2520Croughton%2C%2520Northamptonshire</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: northamptonshirerecordsociety.org.uk  
-   Link: <a href="https://www.northamptonshirerecordsociety.org.uk/pdf/volume-49/vol-49-fragile-images.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northamptonshirerecordsociety.org.uk/pdf/volume-49/vol-49-fragile-images.pdf</a>  
+   Link:<a href="https://www.northamptonshirerecordsociety.org.uk/pdf/volume-49/vol-49-fragile-images.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northamptonshirerecordsociety.org.uk/pdf/volume-49/vol-49-fragile-images.pdf</a>  

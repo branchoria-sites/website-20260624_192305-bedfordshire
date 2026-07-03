@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /brecknockshire-d4a3d4-index/
 description: Focused pages that expand on What Really Happened Over Brecknockshire?.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Brecknockshire_d4a3d4
 parent_title: What Really Happened Over Brecknockshire?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-brecknockshire/
 
 # Explore Topics in What Really Happened Over Brecknockshire?
 
-The following pages expand on the main **[What Really Happened Over Brecknockshire?]({{ '/what-really-happened-over-brecknockshire/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened Over Brecknockshire?]({{ '/what-really-happened-over-brecknockshire/' | relative_url }})** page and cover its key branches in.
 
 - [Road Lights]({{ '/road-lights/' | relative_url }})
 - [Brecon Lights]({{ '/brecon-lights/' | relative_url }})

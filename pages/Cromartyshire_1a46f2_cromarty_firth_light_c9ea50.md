@@ -260,7 +260,7 @@ The Cromarty Firth is one of the places in historic [Cromartyshire]({{ 'what-rea
 <img src="{{ "/assets/images/Cromartyshire_1a46f2_cromarty_firth_light_c9ea50-overview.webp" | relative_url }}" alt="Overview image for Firth Lights" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Cromarty Firth is built to confuse night sightings
 
-The Cromarty Firth is not an empty dark horizon. The Port of Cromarty Firth describes itself as a naturally sheltered deep-water port able to accommodate vessels of all sizes, with activity across offshore wind, oil and gas, cruise traffic and green hydrogen; it also says the port welcomes more than 600 vessels, rigs and cruise ships each year. That single fact changes how local UFO reports should be read. A “line of lights” or “stationary object” over the water may not be in the sky at all; it may be a vessel, drilling unit, service base, buoy, crane, work light or reflected light source seen across water in darkness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-snippet">Open source on pocf.co.uk.</span></span></span>
+The Cromarty Firth is not an empty dark horizon. The Port of Cromarty Firth describes itself as a naturally sheltered deep-water port able to accommodate vessels of all sizes, with activity across offshore wind, oil and gas, cruise traffic and green hydrogen; it also says the port welcomes more than 600 vessels, rigs and cruise ships each year. That single fact changes how local UFO reports should be read. A “line of lights” or “stationary object” over the water may not be in the sky at all; it may be a vessel, drilling unit, service base, buoy, crane, work light or reflected light source seen across water in darkness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-snippet">Open source on pocf.co.uk.</span></span></span>
 
 The geography adds to the problem. The firth is a long inlet with high viewing points at the Sutors, shore roads around Cromarty and Invergordon, industrial facilities at Nigg and Invergordon, and sightlines across dark water. Distance judgement at night is poor even in simple landscapes; over water it becomes worse because there are few familiar scale cues. A light on a rig, a ship’s mast or a shoreline installation can appear to hang above the horizon, especially when the hull or structure is hidden by darkness, mist, rain or glare.
 
@@ -268,11 +268,11 @@ This is why the Cromarty Firth belongs in a county-level UFO project even withou
 
 ## Naval and harbour activity around the firth
 
-Cromarty Firth’s military-maritime character is not recent. Invergordon and the firth were closely associated with the Grand Fleet during the First World War, and local heritage accounts describe the town as transformed by wartime naval activity. The same local record notes that wartime photography within five miles of the firth was restricted, a reminder that this was once treated as a sensitive naval landscape rather than a quiet rural waterfront. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rossandcromartyheritage.org/home/easter-ross-communities/invergordon/invergordon-history/the-fleet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossandcromartyheritage.org">[Ross and Cromarty Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossandcromartyheritage.org</span><span class="citation-popover-title">Ross and Cromarty Heritage The Fleet ⋆ Ross and Cromarty Heritage</span><span class="citation-popover-snippet">Ross and Cromarty Heritage The Fleet ⋆ Ross and Cromarty Heritage</span></span></span>
+Cromarty Firth’s military-maritime character is not recent. Invergordon and the firth were closely associated with the Grand Fleet during the First World War, and local heritage accounts describe the town as transformed by wartime naval activity. The same local record notes that wartime photography within five miles of the firth was restricted, a reminder that this was once treated as a sensitive naval landscape rather than a quiet rural waterfront.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rossandcromartyheritage.org/home/easter-ross-communities/invergordon/invergordon-history/the-fleet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossandcromartyheritage.org">[Ross and Cromarty Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossandcromartyheritage.org</span><span class="citation-popover-title">Ross and Cromarty Heritage The Fleet ⋆ Ross and Cromarty Heritage</span><span class="citation-popover-snippet">Ross and Cromarty Heritage The Fleet ⋆ Ross and Cromarty Heritage</span></span></span>
 
-A defence-history layer remains visible in the landscape. The Scottish Archaeological Research Framework notes that the Cromarty Firth was busier still during the Second World War: Invergordon was used for refuelling, oil reservoirs were built at Inchindown, much of Invergordon was taken over by the RAF, and airfields lay further up or near the firth at Evanton, Fearn and Tain. These details matter for UFO interpretation because witnesses and later retellings often attach significance to “military areas”. Around Cromarty Firth, that association is historically real, but it does not make an unexplained light automatically exotic. It often makes a conventional explanation more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scarf.scot/regional/higharf/highland-archaeological-research-framework-case-studies/cromarty-wartime-remains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scarf.scot">[scarf.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scarf.scot</span><span class="citation-popover-snippet">Open source on scarf.scot.</span></span></span>
+A defence-history layer remains visible in the landscape. The Scottish Archaeological Research Framework notes that the Cromarty Firth was busier still during the Second World War: Invergordon was used for refuelling, oil reservoirs were built at Inchindown, much of Invergordon was taken over by the RAF, and airfields lay further up or near the firth at Evanton, Fearn and Tain. These details matter for UFO interpretation because witnesses and later retellings often attach significance to “military areas”. Around Cromarty Firth, that association is historically real, but it does not make an unexplained light automatically exotic. It often makes a conventional explanation more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scarf.scot/regional/higharf/highland-archaeological-research-framework-case-studies/cromarty-wartime-remains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scarf.scot">[scarf.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scarf.scot</span><span class="citation-popover-snippet">Open source on scarf.scot.</span></span></span>
 
-The modern naval link has not vanished entirely. Navy Lookout’s account of HMS Queen Elizabeth leaving Invergordon in 2017 describes the port’s long Royal Navy connection, noting that by 1912 the Admiralty had established a permanent naval base at Invergordon and that warships operating in the North Sea have continued to visit in more recent times. A large warship, support vessel or security-lit harbour scene can easily seed local rumours when seen at night by people who do not know what is in port. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/hms-queen-elizabeth-sails-from-invergordon-an-echo-of-the-royal-navys-illustrious-past/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-snippet">Open source on navylookout.com.</span></span></span>
+The modern naval link has not vanished entirely. Navy Lookout’s account of HMS Queen Elizabeth leaving Invergordon in 2017 describes the port’s long Royal Navy connection, noting that by 1912 the Admiralty had established a permanent naval base at Invergordon and that warships operating in the North Sea have continued to visit in more recent times. A large warship, support vessel or security-lit harbour scene can easily seed local rumours when seen at night by people who do not know what is in port.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/hms-queen-elizabeth-sails-from-invergordon-an-echo-of-the-royal-navys-illustrious-past/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-snippet">Open source on navylookout.com.</span></span></span>
 
 For Cromartyshire UFO history, the key point is not that every sighting is “military”. It is that the firth has enough legitimate military and harbour activity for military-looking lights to be a normal part of the environment. A red light above a dark shape, a moving cluster of white lights, or a glow near the waterline should be tested against port and naval activity before being treated as an anomalous aerial object.
 
@@ -280,13 +280,13 @@ For Cromartyshire UFO history, the key point is not that every sighting is “mi
 <img src="{{ "/assets/images/Cromartyshire_1a46f2_cromarty_firth_light_c9ea50-Illustration-1-dark.svg" | relative_url }}" alt="Firth Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Cromartyshire_1a46f2_cromarty_firth_light_c9ea50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cromartyshire_1a46f2_cromarty_firth_light_c9ea50-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ships, rigs, flares and reflections
 
-The strongest local explanation for many Cromarty Firth lights is the simplest: large marine structures are present, lit and sometimes hard to recognise. The port’s own passage guidance warns mariners that moored mobile offshore drilling units and similar vessels may be encountered anywhere within the firth, including alongside berths. At night, those units display white or red lights flashing Morse “U” every 10 or 15 seconds, as well as red aeronautical lights on upper structures; associated plant and surface buoys may also mark anchor systems or submerged chains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-07-PoCF-Port-Passage-Plan-Guidance_Inner-P.Stn-to-Nigg-Invergordon-Nov-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-title">Port of Cromarty Firth ID 323-07</span><span class="citation-popover-snippet">Port of Cromarty Firth ID 323-07</span></span></span>
+The strongest local explanation for many Cromarty Firth lights is the simplest: large marine structures are present, lit and sometimes hard to recognise. The port’s own passage guidance warns mariners that moored mobile offshore drilling units and similar vessels may be encountered anywhere within the firth, including alongside berths. At night, those units display white or red lights flashing Morse “U” every 10 or 15 seconds, as well as red aeronautical lights on upper structures; associated plant and surface buoys may also mark anchor systems or submerged chains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-07-PoCF-Port-Passage-Plan-Guidance_Inner-P.Stn-to-Nigg-Invergordon-Nov-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-title">Port of Cromarty Firth ID</span><span class="citation-popover-snippet">Port of Cromarty Firth ID</span></span></span>
 
 That description closely matches a common UFO-report pattern: a light that seems fixed, then flashes; red lights high above the water; white lights lower down; and other smaller lights nearby. To a mariner, these are warnings and navigation information. To a casual observer inland, especially without binoculars, they may look like a hovering object with smaller companions.
 
-The visual evidence is not just theoretical. A Geograph photograph of “Cromarty Firth at Night”, taken near Invergordon, identifies lights from the Invergordon Service Base and an oil rig moored in the firth. That is exactly the kind of scene that can turn into a “lights over the water” report when stripped of its industrial context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geograph.org.uk/photo/6374332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geograph.org.uk">[Geograph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geograph.org.uk</span><span class="citation-popover-snippet">Open source on geograph.org.uk.</span></span></span>
+The visual evidence is not just theoretical. A Geograph photograph of “Cromarty Firth at Night”, taken near Invergordon, identifies lights from the Invergordon Service Base and an oil rig moored in the firth. That is exactly the kind of scene that can turn into a “lights over the water” report when stripped of its industrial context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geograph.org.uk/photo/6374332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geograph.org.uk">[Geograph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geograph.org.uk</span><span class="citation-popover-snippet">Open source on geograph.org.uk.</span></span></span>
 
-Cruise ships add another layer. The Port of Cromarty Firth says Invergordon has welcomed cruise ships since 1978 and describes its berths and anchorages as suited to even the largest cruise ships. Its cruise timetable shows ships arriving and leaving at specific times, sometimes with thousands of passengers and large crews. A lit cruise ship can look like a floating town; at distance, its decks may compress into a row of lights that seems to hover, especially if the dark hull blends into the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/cruise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-snippet">Open source on pocf.co.uk.</span></span></span>
+Cruise ships add another layer. The Port of Cromarty Firth says Invergordon has welcomed cruise ships since 1978 and describes its berths and anchorages as suited to even the largest cruise ships. Its cruise timetable shows ships arriving and leaving at specific times, sometimes with thousands of passengers and large crews. A lit cruise ship can look like a floating town; at distance, its decks may compress into a row of lights that seems to hover, especially if the dark hull blends into the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/cruise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-snippet">Open source on pocf.co.uk.</span></span></span>
 
 Reflections can also exaggerate the effect. Calm water can double a light source vertically; choppy water can break it into shimmering fragments; mist can spread a point light into a soft glow. A witness may honestly report “several lights moving together” when they are seeing one structure, its reflection, and small moving vessels around it.
 
@@ -295,7 +295,7 @@ Reflections can also exaggerate the effect. Calm water can double a light source
 
 ## Aircraft and range activity near Cromartyshire
 
-The Cromarty Firth is also close enough to military air activity for aircraft misidentification to be a serious possibility. The Ministry of Defence lists Tain in Ross-shire among the UK air weapons ranges used for essential operational training, and its public guidance covers normal range activity, out-of-hours activity and low-flying notifications. The same guidance warns that exceptional additional activity can occur at short notice and that airspace status changes when ranges are closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
+The Cromarty Firth is also close enough to military air activity for aircraft misidentification to be a serious possibility. The Ministry of Defence lists Tain in Ross-shire among the UK air weapons ranges used for essential operational training, and its public guidance covers normal range activity, out-of-hours activity and low-flying notifications. The same guidance warns that exceptional additional activity can occur at short notice and that airspace status changes when ranges are closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
 
 For a Cromarty or Invergordon observer, aircraft linked to training may be seen only intermittently. A jet, helicopter or training aircraft can be hidden by cloud, terrain or darkness, while its lights remain visible. Manoeuvres can make movement appear abrupt. A turn towards the observer may look stationary; a turn away may seem to vanish; landing lights can brighten dramatically; and anti-collision strobes can create the impression of separate points blinking in formation.
 
@@ -305,9 +305,9 @@ A useful test is whether the light behaved like an object or like a viewing geom
 
 ## Navigation lights are meant to be seen
 
-Some lights around the firth are not accidental clutter; they are safety systems. Marine Scotland explains that the Northern Lighthouse Board is the General Lighthouse Authority for waters around Scotland and the Isle of Man, responsible for the superintendence and management of lights, buoys and beacons, while harbour authorities and other parties provide aids to navigation in harbour areas and on structures such as oil and gas installations under that wider system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.gov.scot">[Marine Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.gov.scot</span><span class="citation-popover-title">Marine Scotland Lighthouses and major lights &#124; marine.gov.scot</span><span class="citation-popover-snippet">Marine Scotland Lighthouses and major lights &#124; marine.gov.scot</span></span></span>
+Some lights around the firth are not accidental clutter; they are safety systems. Marine Scotland explains that the Northern Lighthouse Board is the General Lighthouse Authority for waters around Scotland and the Isle of Man, responsible for the superintendence and management of lights, buoys and beacons, while harbour authorities and other parties provide aids to navigation in harbour areas and on structures such as oil and gas installations under that wider system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.gov.scot">[Marine Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.gov.scot</span><span class="citation-popover-title">Marine Scotland Lighthouses and major lights &#124; marine.gov.scot</span><span class="citation-popover-snippet">Marine Scotland Lighthouses and major lights &#124; marine.gov.scot</span></span></span>
 
-Cromarty itself has lighthouse history at the entrance to the firth. Cromarty Lighthouse was established in 1846 to guide vessels from the Moray Firth into the Cromarty Firth, guarding the north-eastern tip of the Black Isle; the light was later decommissioned in 2006. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lighthouseaccommodation.co.uk/listings/cromarty-lighthouse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lighthouseaccommodation.co.uk">[Lighthouse Accommodation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lighthouseaccommodation.co.uk</span><span class="citation-popover-title">Lighthouse Accommodation Cromarty Lighthouse, Moray Firth, Highland</span><span class="citation-popover-snippet">Lighthouse Accommodation Cromarty Lighthouse, Moray Firth, Highland</span></span></span>
+Cromarty itself has lighthouse history at the entrance to the firth. Cromarty Lighthouse was established in 1846 to guide vessels from the Moray Firth into the Cromarty Firth, guarding the north-eastern tip of the Black Isle; the light was later decommissioned in 2006.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lighthouseaccommodation.co.uk/listings/cromarty-lighthouse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lighthouseaccommodation.co.uk">[Lighthouse Accommodation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lighthouseaccommodation.co.uk</span><span class="citation-popover-title">Lighthouse Accommodation Cromarty Lighthouse, Moray Firth, Highland</span><span class="citation-popover-snippet">Lighthouse Accommodation Cromarty Lighthouse, Moray Firth, Highland</span></span></span>
 
 That history matters because the firth entrance is not just a scenic headland. It is a marked maritime corridor. Buoys, beacons, harbour lights, vessel lights and offshore-structure lights can be visible from land and may not align with a casual observer’s assumptions about where the sea ends and the sky begins. Regular flashes are especially important. A repeated flash often feels “intelligent” to a witness, but in a harbour setting repetition is usually a clue to navigation, not mystery.
 
@@ -341,9 +341,9 @@ A strong Cromarty Firth sighting account should be treated like a small investig
 
 First, fix the basics: exact date, time, viewing point, direction, duration, weather, tide state if relevant, and whether the witness was looking across the inner firth, towards Nigg, towards Invergordon, out through the Sutors, or along the Moray Firth. Without direction, even a sincere account is hard to evaluate.
 
-Second, check the maritime layer. The Port of Cromarty Firth provides marine information links, including tide tables and MarineTraffic access, and its passage guidance identifies “Cromarty Firth Port Radio” as the port information service on VHF 11. For historical reports, the port schedule may not be recoverable, but for recent sightings vessel-tracking archives, cruise timetables, harbour notices, photographs and local news can be decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/visiting-vessels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-snippet">Open source on pocf.co.uk.</span></span></span>
+Second, check the maritime layer. The Port of Cromarty Firth provides marine information links, including tide tables and MarineTraffic access, and its passage guidance identifies “Cromarty Firth Port Radio” as the port information service on VHF 11. For historical reports, the port schedule may not be recoverable, but for recent sightings vessel-tracking archives, cruise timetables, harbour notices, photographs and local news can be decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pocf.co.uk/visiting-vessels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocf.co.uk">[Port of Cromarty Firth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocf.co.uk</span><span class="citation-popover-snippet">Open source on pocf.co.uk.</span></span></span>
 
-Third, check the military and aviation layer. Tain range activity, out-of-hours notices, low-flying timetables, aircraft tracks where publicly available, and reports of exercises or visiting aircraft should all be considered. A report that coincides with known training is weakened as a UFO claim unless it includes details that clearly do not fit aircraft behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
+Third, check the military and aviation layer. Tain range activity, out-of-hours notices, low-flying timetables, aircraft tracks where publicly available, and reports of exercises or visiting aircraft should all be considered. A report that coincides with known training is weakened as a UFO claim unless it includes details that clearly do not fit aircraft behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
 
 Fourth, look for repeatability. If the “UFO” appears in the same place on later nights, at the same bearing, with a regular flash or fixed height above the water, it is far more likely to be infrastructure, a buoy, a moored unit or a recurring vessel position than an unexplained craft. Repeat sightings can feel stronger to witnesses, but in a harbour setting repeatability often helps solve the case.
 
@@ -364,194 +364,194 @@ The fairest classification for this subtopic is therefore “high misidentificat
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Cromarty Firth Confuses Night Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Cromarty Firth Confuses Night Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Encourages evidence-based assessment of sightings rather than immediate extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based assessment of sightings rather than immediate extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and separating unusual observations from misidentifications, matching the article&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and separating unusual observations from misidentifications, matching the article&#x27;s theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand night-sky objects and observational conditions that can contribute to sighting errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand night-sky objects and observational conditions that can contribute to sighting errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides the skeptical and investigative framework needed for assessing reports involving lights, reflections and perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides the skeptical and investigative framework needed for assessing reports involving lights, reflections and perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="firth-lights-why-the-cromarty-firth-confuses-night-sightings-cromartyshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The fairest classification for this subtopic is therefore “high misidentificat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The fairest classification for this subtopic is therefore “high misidentificat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The fairest classification for this subtopic is therefore “high misidentificat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The fairest classification for this subtopic is therefore “high misidentificat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The fairest classification for this subtopic is therefore “high misidentificat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,162 +757,162 @@ The fairest classification for this subtopic is therefore “high misidentificat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scarf.scot  
-   Link: <a href="https://scarf.scot/regional/higharf/highland-archaeological-research-framework-case-studies/cromarty-wartime-remains/" target="_blank" rel="noopener noreferrer nofollow">https://scarf.scot/regional/higharf/highland-archaeological-research-framework-case-studies/cromarty-wartime-remains/</a>  
+   Link:<a href="https://scarf.scot/regional/higharf/highland-archaeological-research-framework-case-studies/cromarty-wartime-remains/" target="_blank" rel="noopener noreferrer nofollow">https://scarf.scot/regional/higharf/highland-archaeological-research-framework-case-studies/cromarty-wartime-remains/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Military low flying: air weapons ranges activity  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: marine.gov.scot  
    Title: Marine Scotland Lighthouses and major lights | marine.gov.scot  
-   Link: <a href="https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights</a>  
+   Link:<a href="https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/?q=information%2Flighthouses-and-major-lights</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: OES A3j Conservation  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b6452e5274a34770eb623/OES_A3j_Conservation.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: marine.gov.scot  
    Title: environmental considerations redacted  
-   Link: <a href="https://marine.gov.scot/sites/default/files/environmental_considerations_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/environmental_considerations_redacted.pdf</a>  
+   Link:<a href="https://marine.gov.scot/sites/default/files/environmental_considerations_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/environmental_considerations_redacted.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: marine.gov.scot  
    Title: Invergordon Service Base Phase 5  
-   Link: <a href="https://marine.gov.scot/sites/default/files/scop-0035_-_port_of_cromarty_firth_per_affric_ltd_-_invergordon_service_base_-_phase_5_-_invergordon_-scoping_report_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/scop-0035_-_port_of_cromarty_firth_per_affric_ltd_-_invergordon_service_base_-_phase_5_-_invergordon_-scoping_report_redacted.pdf</a>  
+   Link:<a href="https://marine.gov.scot/sites/default/files/scop-0035_-_port_of_cromarty_firth_per_affric_ltd_-_invergordon_service_base_-_phase_5_-_invergordon_-scoping_report_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/scop-0035_-_port_of_cromarty_firth_per_affric_ltd_-_invergordon_service_base_-_phase_5_-_invergordon_-scoping_report_redacted.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: marinetraffic.com  
-   Link: <a href="https://www.marinetraffic.com/en/ais/details/lights/1000027594" target="_blank" rel="noopener noreferrer nofollow">https://www.marinetraffic.com/en/ais/details/lights/1000027594</a>  
+   Link:<a href="https://www.marinetraffic.com/en/ais/details/lights/1000027594" target="_blank" rel="noopener noreferrer nofollow">https://www.marinetraffic.com/en/ais/details/lights/1000027594</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1995/21/part/VIII/crossheading/functions-of-general-lighthouse-authorities/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1995/21/part/VIII/crossheading/functions-of-general-lighthouse-authorities/data.xht</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1995/21/part/VIII/crossheading/functions-of-general-lighthouse-authorities/data.xht" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1995/21/part/VIII/crossheading/functions-of-general-lighthouse-authorities/data.xht</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pocf.co.uk  
-   Link: <a href="https://pocf.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/</a>  
+   Link:<a href="https://pocf.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rossandcromartyheritage.org  
    Title: Ross and Cromarty Heritage The Fleet ⋆ Ross and Cromarty Heritage  
-   Link: <a href="https://www.rossandcromartyheritage.org/home/easter-ross-communities/invergordon/invergordon-history/the-fleet/" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/home/easter-ross-communities/invergordon/invergordon-history/the-fleet/</a>  
+   Link:<a href="https://www.rossandcromartyheritage.org/home/easter-ross-communities/invergordon/invergordon-history/the-fleet/" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/home/easter-ross-communities/invergordon/invergordon-history/the-fleet/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: navylookout.com  
-   Link: <a href="https://www.navylookout.com/hms-queen-elizabeth-sails-from-invergordon-an-echo-of-the-royal-navys-illustrious-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/hms-queen-elizabeth-sails-from-invergordon-an-echo-of-the-royal-navys-illustrious-past/</a>  
+   Link:<a href="https://www.navylookout.com/hms-queen-elizabeth-sails-from-invergordon-an-echo-of-the-royal-navys-illustrious-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/hms-queen-elizabeth-sails-from-invergordon-an-echo-of-the-royal-navys-illustrious-past/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pocf.co.uk  
    Title: Port of Cromarty Firth ID 323-07  
-   Link: <a href="https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-07-PoCF-Port-Passage-Plan-Guidance_Inner-P.Stn-to-Nigg-Invergordon-Nov-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-07-PoCF-Port-Passage-Plan-Guidance_Inner-P.Stn-to-Nigg-Invergordon-Nov-2020.pdf</a>  
+   Link:<a href="https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-07-PoCF-Port-Passage-Plan-Guidance_Inner-P.Stn-to-Nigg-Invergordon-Nov-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-07-PoCF-Port-Passage-Plan-Guidance_Inner-P.Stn-to-Nigg-Invergordon-Nov-2020.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: geograph.org.uk  
-   Link: <a href="https://www.geograph.org.uk/photo/6374332" target="_blank" rel="noopener noreferrer nofollow">https://www.geograph.org.uk/photo/6374332</a>  
+   Link:<a href="https://www.geograph.org.uk/photo/6374332" target="_blank" rel="noopener noreferrer nofollow">https://www.geograph.org.uk/photo/6374332</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pocf.co.uk  
-   Link: <a href="https://pocf.co.uk/cruise/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/cruise/</a>  
+   Link:<a href="https://pocf.co.uk/cruise/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/cruise/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lighthouseaccommodation.co.uk  
    Title: Lighthouse Accommodation Cromarty Lighthouse, Moray Firth, Highland  
-   Link: <a href="https://lighthouseaccommodation.co.uk/listings/cromarty-lighthouse/" target="_blank" rel="noopener noreferrer nofollow">https://lighthouseaccommodation.co.uk/listings/cromarty-lighthouse/</a>  
+   Link:<a href="https://lighthouseaccommodation.co.uk/listings/cromarty-lighthouse/" target="_blank" rel="noopener noreferrer nofollow">https://lighthouseaccommodation.co.uk/listings/cromarty-lighthouse/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pocf.co.uk  
-   Link: <a href="https://pocf.co.uk/visiting-vessels/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/visiting-vessels/</a>  
+   Link:<a href="https://pocf.co.uk/visiting-vessels/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/visiting-vessels/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/portofcromartyfirth/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/portofcromartyfirth/</a>  
+   Link:<a href="https://www.facebook.com/portofcromartyfirth/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/portofcromartyfirth/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northernlighthouseboard/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northernlighthouseboard/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/northernlighthouseboard/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northernlighthouseboard/?locale=en_GB</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pocf.co.uk  
-   Link: <a href="https://pocf.co.uk/2026/04/01/sightings-splashes-and-speculation-as-mystery-nessie-like-creature-spotted-in-the-cromarty-firth/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/2026/04/01/sightings-splashes-and-speculation-as-mystery-nessie-like-creature-spotted-in-the-cromarty-firth/</a>  
+   Link:<a href="https://pocf.co.uk/2026/04/01/sightings-splashes-and-speculation-as-mystery-nessie-like-creature-spotted-in-the-cromarty-firth/" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/2026/04/01/sightings-splashes-and-speculation-as-mystery-nessie-like-creature-spotted-in-the-cromarty-firth/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pocf.co.uk  
-   Link: <a href="https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-06-PoCF-Port-Passage-Plan-Guidance_Outer-Pilot-Stn-to-Inner-P.Stn-and-Nigg-Nov-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-06-PoCF-Port-Passage-Plan-Guidance_Outer-Pilot-Stn-to-Inner-P.Stn-and-Nigg-Nov-2020.pdf</a>  
+   Link:<a href="https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-06-PoCF-Port-Passage-Plan-Guidance_Outer-Pilot-Stn-to-Inner-P.Stn-and-Nigg-Nov-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pocf.co.uk/wp-content/uploads/2021/12/ID-323-06-PoCF-Port-Passage-Plan-Guidance_Outer-Pilot-Stn-to-Inner-P.Stn-and-Nigg-Nov-2020.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Cromarty Firth  
-   Link: <a href="https://en.wikipedia.org/wiki/Cromarty_Firth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cromarty_Firth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cromarty_Firth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cromarty_Firth</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Northern Lighthouse Board  
-   Link: <a href="https://en.wikipedia.org/wiki/Northern_Lighthouse_Board" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northern_Lighthouse_Board</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Northern_Lighthouse_Board" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northern_Lighthouse_Board</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: visitinvergordon.com  
-   Link: <a href="https://www.visitinvergordon.com/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visitinvergordon.com/history.html</a>  
+   Link:<a href="https://www.visitinvergordon.com/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visitinvergordon.com/history.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: geograph.org.uk  
-   Link: <a href="https://www.geograph.org.uk/photo/5096171" target="_blank" rel="noopener noreferrer nofollow">https://www.geograph.org.uk/photo/5096171</a>  
+   Link:<a href="https://www.geograph.org.uk/photo/5096171" target="_blank" rel="noopener noreferrer nofollow">https://www.geograph.org.uk/photo/5096171</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Cromarty and the graveyard of oil platforms  
-   Link: <a href="https://www.youtube.com/watch?v=9Py1m0e96qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9Py1m0e96qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s Gas Platform Graveyard - The Cromarty Firth Scotland&#x27;s Gas Platform Graveyard - The Cromarty Firth A Life More Boaty...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9Py1m0e96qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9Py1m0e96qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s Gas Platform Graveyard - The Cromarty Firth Scotland&#x27;s Gas Platform Graveyard - The Cromarty Firth A Life More Boaty...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: CRUISE SHIP DRONE CHASE!: Crown Princess at Invergordon (DJI Mavic Air)  
-   Link: <a href="https://www.youtube.com/watch?v=x4kzl-BxtOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4kzl-BxtOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cromarty and the graveyard of oil platforms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x4kzl-BxtOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4kzl-BxtOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cromarty and the graveyard of oil platforms...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTces2kDuO2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTces2kDuO2/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTces2kDuO2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTces2kDuO2/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/</a>  
+   Link:<a href="https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: shipnext.com  
-   Link: <a href="https://shipnext.com/port/58230a51821bd20e3859885b" target="_blank" rel="noopener noreferrer nofollow">https://shipnext.com/port/58230a51821bd20e3859885b</a>  
+   Link:<a href="https://shipnext.com/port/58230a51821bd20e3859885b" target="_blank" rel="noopener noreferrer nofollow">https://shipnext.com/port/58230a51821bd20e3859885b</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
+   Link:<a href="https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edinburghlivenews/posts/edinburgh-dad-spots-reappearing-strange-ufo-lights-beaming-over-his-home-/1282848153886478/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1443502952760615/posts/2256036458173923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1443502952760615/posts/2256036458173923/</a>  
+   Link:<a href="https://www.facebook.com/groups/1443502952760615/posts/2256036458173923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1443502952760615/posts/2256036458173923/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nlb.org.uk  
-   Link: <a href="https://www.nlb.org.uk/lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/lighthouses/</a>  
+   Link:<a href="https://www.nlb.org.uk/lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/lighthouses/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sumburghhead.com  
-   Link: <a href="https://www.sumburghhead.com/northern-lighthouse-board" target="_blank" rel="noopener noreferrer nofollow">https://www.sumburghhead.com/northern-lighthouse-board</a>  
+   Link:<a href="https://www.sumburghhead.com/northern-lighthouse-board" target="_blank" rel="noopener noreferrer nofollow">https://www.sumburghhead.com/northern-lighthouse-board</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nlb.org.uk  
-   Link: <a href="https://www.nlb.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/</a>  
+   Link:<a href="https://www.nlb.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/</a>  

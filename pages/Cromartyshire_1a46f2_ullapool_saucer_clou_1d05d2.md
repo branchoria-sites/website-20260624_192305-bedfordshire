@@ -248,7 +248,7 @@ image: /assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-overview-
 
 ## Introduction
 
-The Ullapool “UFO clouds” were not a mystery craft over Loch Broom. They were a striking natural cloud formation, photographed in April 2015 by Neil Borthwick from Ullapool and widely described as flying-saucer-shaped because of their smooth, lens-like outline. Contemporary local and national reporting identified them as lenticular clouds, a recognised weather phenomenon that can form when stable, moist air flows over hills or mountains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News+2Press and Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
+The Ullapool “UFO clouds” were not a mystery craft over Loch Broom. They were a striking natural cloud formation, photographed in April 2015 by Neil Borthwick from Ullapool and widely described as flying-saucer-shaped because of their smooth, lens-like outline. Contemporary local and national reporting identified them as lenticular clouds, a recognised weather phenomenon that can form when stable, moist air flows over hills or mountains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[deadlinenews.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-overview.webp" | relative_url }}" alt="Overview image for Ullapool Clouds" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,11 +256,11 @@ That makes the episode useful rather than embarrassing for [Cromartyshire]({{ 'w
 
 ## What Was Photographed Over Loch Broom?
 
-The published account centred on photographs taken above Loch Broom from Ullapool on a Thursday night in April 2015. Neil Borthwick’s images showed smooth, stacked, disc-like clouds, the sort of shape that instantly invites “flying saucer” comparisons. The Press and Journal framed the reader’s question plainly — were these UFOs over Ullapool, or just clouds? — and the answer was already leaning towards the latter: the formation was identified as lenticular cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pressandjournal.co.uk/fp/news/highlands-islands/545909/ufos-skies-ullapool-just-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressandjournal.co.uk">[Press and Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressandjournal.co.uk</span><span class="citation-popover-title">Press and Journal Are these UFOs in the skies over Ullapool?</span><span class="citation-popover-snippet">Or just clouds?10 Apr 2015 — Neil Borthwick captured the pictures of flying-saucer shaped clouds from his home in Ullapool last night aft...</span></span></span>
+The published account centred on photographs taken above Loch Broom from Ullapool on a Thursday night in April 2015. Neil Borthwick’s images showed smooth, stacked, disc-like clouds, the sort of shape that instantly invites “flying saucer” comparisons. The Press and Journal framed the reader’s question plainly — were these UFOs over Ullapool, or just clouds? — and the answer was already leaning towards the latter: the formation was identified as lenticular cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pressandjournal.co.uk/fp/news/highlands-islands/545909/ufos-skies-ullapool-just-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressandjournal.co.uk">[Press and Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressandjournal.co.uk</span><span class="citation-popover-title">Press and Journal Are these UFOs in the skies over Ullapool?</span><span class="citation-popover-snippet">Or just clouds?10 Apr 2015 — Neil Borthwick captured the pictures of flying-saucer shaped clouds from his home in Ullapool last night aft...</span></span></span>
 
-Deadline News similarly described the sight as “flying saucer-shaped clouds” above Loch Broom and identified the mechanism as rare lenticular clouds formed when air is pushed upwards by mountains. The report is important because it did not present the photographs as a hard UFO claim. It treated them as a spectacular sky scene whose appearance overlapped with UFO imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
+Deadline News similarly described the sight as “flying saucer-shaped clouds” above Loch Broom and identified the mechanism as rare lenticular clouds formed when air is pushed upwards by mountains. The report is important because it did not present the photographs as a hard UFO claim. It treated them as a spectacular sky scene whose appearance overlapped with UFO imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
 
-The location matters. Loch Broom is a sea loch on the west coast of the Highlands, with shores in Ross-shire and Cromartyshire; Wikishire places Ullapool on the eastern shore and describes Loch Broom as lying between the mountains of Wester Ross and the Scoraig peninsula. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Loch_Broom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Loch Broom</span><span class="citation-popover-snippet">Loch Broom</span></span></span> The Gazetteer for Scotland-style county account of Cromartyshire also places Coigach and Ullapool in the county’s western portion, describing the area as one of stark beauty with mountains rising from lochs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Cromartyshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The location matters. Loch Broom is a sea loch on the west coast of the Highlands, with shores in Ross-shire and Cromartyshire; Wikishire places Ullapool on the eastern shore and describes Loch Broom as lying between the mountains of Wester Ross and the Scoraig peninsula.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Loch_Broom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Loch Broom</span><span class="citation-popover-snippet">Loch Broom</span></span></span> The Gazetteer for Scotland-style county account of Cromartyshire also places Coigach and Ullapool in the county’s western portion, describing the area as one of stark beauty with mountains rising from lochs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Cromartyshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 For a Cromartyshire UFO page, that geography is not decorative background. It is part of the explanation. A flat, lowland setting would make mountain-wave clouds less expected. Ullapool’s loch-and-mountain setting makes the “saucer cloud” explanation more plausible from the start.
 
@@ -268,9 +268,9 @@ For a Cromartyshire UFO page, that geography is not decorative background. It is
 <img src="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-1-dark.svg" | relative_url }}" alt="Ullapool Clouds illustration 1" data-theme-src-dark="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Lenticular Clouds Look Like Flying Saucers
 
-Lenticular clouds are sometimes called “UFO clouds” because their appearance overlaps almost perfectly with the popular image of a flying saucer: smooth edges, oval or circular profile, a flattened body and sometimes stacked layers. The Met Office explains that lenticular clouds form when air blowing across a mountain range sets up large standing waves downstream; where there is enough moisture, the rising part of the wave causes water vapour to condense into the distinctive cloud shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
+Lenticular clouds are sometimes called “UFO clouds” because their appearance overlaps almost perfectly with the popular image of a flying saucer: smooth edges, oval or circular profile, a flattened body and sometimes stacked layers. The Met Office explains that lenticular clouds form when air blowing across a mountain range sets up large standing waves downstream; where there is enough moisture, the rising part of the wave causes water vapour to condense into the distinctive cloud shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
 
-The Cloud Appreciation Society gives the same reader-level clue: lenticularis clouds are named for their lens shape and often look remarkably like flying saucers. Its explanation of a classic example notes that the cloud can appear almost stationary even in strong winds because it forms at a fixed place in a standing wave, with air continually flowing through it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudappreciationsociety.org/cloud-library/lenticularis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudappreciationsociety.org">[Cloud Appreciation Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudappreciationsociety.org</span><span class="citation-popover-snippet">Open source on cloudappreciationsociety.org.</span></span></span>
+The Cloud Appreciation Society gives the same reader-level clue: lenticularis clouds are named for their lens shape and often look remarkably like flying saucers. Its explanation of a classic example notes that the cloud can appear almost stationary even in strong winds because it forms at a fixed place in a standing wave, with air continually flowing through it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudappreciationsociety.org/cloud-library/lenticularis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudappreciationsociety.org">[Cloud Appreciation Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudappreciationsociety.org</span><span class="citation-popover-snippet">Open source on cloudappreciationsociety.org.</span></span></span>
 
 That “hovering” effect is central to why people report them as UFO-like. A witness may see a smooth disc apparently sitting over a ridge or loch, not behaving like an ordinary drifting cloud. In reality, the cloud is not a solid object parked in the sky. It is a visible patch of condensation forming and evaporating in the same zone of moving air.
 
@@ -294,7 +294,7 @@ None of those signs proves an image is natural on its own. Together, though, the
 
 ## Why Ullapool Was a Good Place for a “Saucer Cloud” Story
 
-Ullapool is often described in modern terms as part of Wester Ross or the Highland council area, but within this project it belongs to historic Cromartyshire. Wikishire describes Ullapool as a fishing village on Loch Broom in Cromartyshire, and the Association of British Counties notes that Cromartyshire includes the mountainous district of Coigach and the port of Ullapool on the west coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ullapool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Ullapool is often described in modern terms as part of Wester Ross or the Highland council area, but within this project it belongs to historic Cromartyshire. Wikishire describes Ullapool as a fishing village on Loch Broom in Cromartyshire, and the Association of British Counties notes that Cromartyshire includes the mountainous district of Coigach and the port of Ullapool on the west coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ullapool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 That boundary point is worth spelling out because many UFO databases and news reports do not use historic county labels. A sighting or sky photograph at Ullapool may be filed as Highland, Ross and Cromarty, Wester Ross or simply Scotland. For a map-based historic county project, however, the Ullapool cloud episode is a legitimate Cromartyshire example, provided it is described carefully and not inflated into an unexplained case.
 
@@ -306,11 +306,11 @@ This is exactly the sort of case that can become a local UFO reference even when
 
 The Ullapool photographs have three features that push them firmly towards “explained”.
 
-First, the reported appearance matches a recognised cloud type. Lenticular clouds are not a vague catch-all explanation; they have a specific formation mechanism linked to stable air, mountain waves and condensation. The Met Office explicitly notes that these clouds are a visible sign of mountain waves and that their shape has made them a common explanation for UFO sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
+First, the reported appearance matches a recognised cloud type. Lenticular clouds are not a vague catch-all explanation; they have a specific formation mechanism linked to stable air, mountain waves and condensation. The Met Office explicitly notes that these clouds are a visible sign of mountain waves and that their shape has made them a common explanation for UFO sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
 
-Second, the location fits the mechanism. Loch Broom and Ullapool sit in mountainous west-coast Highland terrain. The local geography gives the wind something to flow over and around, which is exactly the kind of setting needed for wave clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Loch_Broom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Loch Broom</span><span class="citation-popover-snippet">Loch Broom</span></span></span>
+Second, the location fits the mechanism. Loch Broom and Ullapool sit in mountainous west-coast Highland terrain. The local geography gives the wind something to flow over and around, which is exactly the kind of setting needed for wave clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Loch_Broom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Loch Broom</span><span class="citation-popover-snippet">Loch Broom</span></span></span>
 
-Third, the original reporting did not rest on claims of impossible movement, radar confirmation, close encounter details, physical traces or official alarm. It was a set of photographs of unusual-looking clouds, quickly linked to a known natural explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
+Third, the original reporting did not rest on claims of impossible movement, radar confirmation, close encounter details, physical traces or official alarm. It was a set of photographs of unusual-looking clouds, quickly linked to a known natural explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
 
 That does not make the sighting worthless. It makes it useful in a different way. In UFO history, explained cases are not merely clutter. They help show how reports are generated, how headlines shape public memory, and how ordinary observers can encounter something genuinely rare-looking without encountering anything anomalous.
 
@@ -318,7 +318,7 @@ That does not make the sighting worthless. It makes it useful in a different way
 <img src="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-2-dark.svg" | relative_url }}" alt="Ullapool Clouds illustration 2" data-theme-src-dark="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Natural UFO Lookalikes Around the Highlands
 
-The Ullapool case belongs to a wider category of natural lookalikes that often appear in UFO reporting. Reuters, summarising common explanations for UFO sightings, included saucer-shaped lenticular clouds alongside weather balloons, meteors, aircraft, planets and other familiar causes of mistaken identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/factbox-explanations-for-ufo-sightings-idUSL13131852/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">FACTBOX: Explanations for UFO sightings</span><span class="citation-popover-snippet">FACTBOX: Explanations for UFO sightings</span></span></span>
+The Ullapool case belongs to a wider category of natural lookalikes that often appear in UFO reporting. Reuters, summarising common explanations for UFO sightings, included saucer-shaped lenticular clouds alongside weather balloons, meteors, aircraft, planets and other familiar causes of mistaken identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/factbox-explanations-for-ufo-sightings-idUSL13131852/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">FACTBOX: Explanations for UFO sightings</span><span class="citation-popover-snippet">FACTBOX: Explanations for UFO sightings</span></span></span>
 
 For Cromartyshire and neighbouring Highland areas, the most relevant lookalikes are not random. They reflect the landscape and weather:
 
@@ -339,7 +339,7 @@ The Ullapool photographs stand out because the lookalike was not a dot of light 
 
 It is tempting to exclude an explained cloud photograph from UFO history altogether. That would miss the point. UFO history is not only a record of unresolved objects; it is also a record of how people interpret unusual things in the sky.
 
-The UK’s official UFO record is full of this tension. The National Archives notes that the Ministry of Defence UFO files contain reports and correspondence that vary greatly in content, while its research guide explains that many surviving MoD UFO files were reviewed and released because of public interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> A GOV.UK page for UFO reports from 1997 to 2009 describes them as lists giving dates, times, locations and brief descriptions, not as proof that each report involved an extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The UK’s official UFO record is full of this tension. The National Archives notes that the Ministry of Defence UFO files contain reports and correspondence that vary greatly in content, while its research guide explains that many surviving MoD UFO files were reviewed and released because of public interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> A GOV.UK page for UFO reports from 1997 to 2009 describes them as lists giving dates, times, locations and brief descriptions, not as proof that each report involved an extraordinary object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 The Ullapool cloud photographs show the same principle at a local level. A report can be culturally “UFO-like” without being evidentially unresolved. It can be memorable, widely shared and useful for skywatchers while still belonging in the explained column.
 
@@ -360,7 +360,7 @@ That is why this page matters within the Cromartyshire branch. It offers a local
 <img src="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-3-dark.svg" | relative_url }}" alt="Ullapool Clouds illustration 3" data-theme-src-dark="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Best Reading of the Ullapool UFO Clouds
 
-The fairest classification is simple: the Ullapool “UFO clouds” were an explained lenticular cloud episode photographed over Loch Broom in April 2015. They were visually striking, genuinely unusual to many observers, and entirely relevant to a county-level UFO project because they show how Cromartyshire’s landscape can generate dramatic sky phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News+2Press and Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
+The fairest classification is simple: the Ullapool “UFO clouds” were an explained lenticular cloud episode photographed over Loch Broom in April 2015. They were visually striking, genuinely unusual to many observers, and entirely relevant to a county-level UFO project because they show how Cromartyshire’s landscape can generate dramatic sky phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[deadlinenews.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">54-year-old snapped the clouds above</span><span class="citation-popover-snippet">Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</span><span class="citation-popover-meta">Published: April 10, 2015</span></span></span>
 
 They should not be presented as an unresolved sighting. There is no strong evidence here for an object, craft, military incident or official investigation. The interest lies in the mechanism: a Highland weather effect producing a shape that popular culture has trained people to read as a saucer.
 
@@ -371,194 +371,194 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Ullapool&#x27;s UFO Clouds Really Unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Ullapool&#x27;s UFO Clouds Really Unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses identification challenges and misinterpretations in UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses identification challenges and misinterpretations in UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0MsRAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Alan Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0MsRAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
+</h4>
+<p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Explains atmospheric processes that create dramatic cloud formations often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric processes that create dramatic cloud formations often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MAiKY4xU6y8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MAiKY4xU6y8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Covers unusual cloud formations and helps readers identify phenomena such as lenticular clouds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers unusual cloud formations and helps readers identify phenomena such as lenticular clouds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Provides approachable explanations of cloud types and atmospheric optics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides approachable explanations of cloud types and atmospheric optics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ullapool-clouds-were-ullapool-s-ufo-clouds-really-unexplained-cromartyshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,197 +764,197 @@ That makes Ullapool’s cloud story a useful cautionary anchor. In a county wher
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: FACTBOX: Explanations for UFO sightings  
-   Link: <a href="https://www.reuters.com/article/lifestyle/factbox-explanations-for-ufo-sightings-idUSL13131852/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/factbox-explanations-for-ufo-sightings-idUSL13131852/</a>  
+   Link:<a href="https://www.reuters.com/article/lifestyle/factbox-explanations-for-ufo-sightings-idUSL13131852/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/factbox-explanations-for-ufo-sightings-idUSL13131852/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ullapool.com  
-   Link: <a href="https://www.ullapool.com/activities/" target="_blank" rel="noopener noreferrer nofollow">https://www.ullapool.com/activities/</a>  
+   Link:<a href="https://www.ullapool.com/activities/" target="_blank" rel="noopener noreferrer nofollow">https://www.ullapool.com/activities/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.sky.com  
    Title: what are the ufo clouds seen hanging over uk skies 13291303  
-   Link: <a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
+   Link:<a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
+   Link:<a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: "How Lenticular Clouds Form to Look Like UFOs"  
-   Link: <a href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0s8n03Xlqyw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular Clouds - Why do they look like UFOs?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0s8n03Xlqyw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular Clouds - Why do they look like UFOs?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: deadlinenews.co.uk  
    Title: 54-year-old snapped the clouds above  
-   Link: <a href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</p></details>
+   Link:<a href="https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/2015/04/10/ufos-spotted-in-sky-above-scotland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deadline NewsUFOs spotted in sky above Scotland - Deadline NewsApril 10, 2015 — 10 Apr 2015 — Neil Borthwick took these remarkable pictur...</p></details>
    Published: April 10, 2015  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pressandjournal.co.uk  
    Title: Press and Journal Are these UFOs in the skies over Ullapool?  
-   Link: <a href="https://www.pressandjournal.co.uk/fp/news/highlands-islands/545909/ufos-skies-ullapool-just-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressandjournal.co.uk/fp/news/highlands-islands/545909/ufos-skies-ullapool-just-clouds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Or just clouds?10 Apr 2015 — Neil Borthwick captured the pictures of flying-saucer shaped clouds from his home in Ullapool last night aft...</p></details>
+   Link:<a href="https://www.pressandjournal.co.uk/fp/news/highlands-islands/545909/ufos-skies-ullapool-just-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressandjournal.co.uk/fp/news/highlands-islands/545909/ufos-skies-ullapool-just-clouds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Or just clouds?10 Apr 2015 — Neil Borthwick captured the pictures of flying-saucer shaped clouds from his home in Ullapool last night aft...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wikishire.co.uk  
    Title: Loch Broom  
-   Link: <a href="https://wikishire.co.uk/wiki/Loch_Broom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Loch_Broom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Loch_Broom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Loch_Broom</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cromartyshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cromartyshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cromartyshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cromartyshire</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cloudappreciationsociety.org  
-   Link: <a href="https://cloudappreciationsociety.org/cloud-library/lenticularis/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/cloud-library/lenticularis/</a>  
+   Link:<a href="https://cloudappreciationsociety.org/cloud-library/lenticularis/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/cloud-library/lenticularis/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cloudappreciationsociety.org  
    Title: january 2015  
-   Link: <a href="https://cloudappreciationsociety.org/january-2015/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/january-2015/</a>  
+   Link:<a href="https://cloudappreciationsociety.org/january-2015/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/january-2015/</a>  
    Published: january 2015  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Ullapool" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ullapool</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Ullapool" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ullapool</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cloudappreciationsociety.org  
-   Link: <a href="https://cloudappreciationsociety.org/gallery/photo/photo-n-269177" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/gallery/photo/photo-n-269177</a>  
+   Link:<a href="https://cloudappreciationsociety.org/gallery/photo/photo-n-269177" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/gallery/photo/photo-n-269177</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cloudappreciationsociety.org  
    Title: Cloud of the Month Archives  
-   Link: <a href="https://cloudappreciationsociety.org/category/cloud-of-the-month/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/category/cloud-of-the-month/page/6/</a>  
+   Link:<a href="https://cloudappreciationsociety.org/category/cloud-of-the-month/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/category/cloud-of-the-month/page/6/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cloudappreciationsociety.org  
    Title: february 2017  
-   Link: <a href="https://cloudappreciationsociety.org/february-2017/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/february-2017/</a>  
+   Link:<a href="https://cloudappreciationsociety.org/february-2017/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/february-2017/</a>  
    Published: february 2017  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cloudappreciationsociety.org  
    Title: Cloud of the Month Archives  
-   Link: <a href="https://cloudappreciationsociety.org/category/cloud-of-the-month/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/category/cloud-of-the-month/page/5/</a>  
+   Link:<a href="https://cloudappreciationsociety.org/category/cloud-of-the-month/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/category/cloud-of-the-month/page/5/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: deadlinenews.co.uk  
    Title: sky Archives  
-   Link: <a href="https://www.deadlinenews.co.uk/tag/sky/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/tag/sky/page/2/</a>  
+   Link:<a href="https://www.deadlinenews.co.uk/tag/sky/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/tag/sky/page/2/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ullapool" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ullapool</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ullapool" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ullapool</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dailyrecord.co.uk  
    Title: met office ufo shaped clouds 32355770  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
    Title: Braes of Ullapool  
-   Link: <a href="https://wikishire.co.uk/wiki/Braes_of_Ullapool" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Braes_of_Ullapool</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Braes_of_Ullapool" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Braes_of_Ullapool</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ghostarchive.org  
    Title: Lenticular clouds  
-   Link: <a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
+   Link:<a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: "What Are Lenticular Clouds? (They Look Like UFOs!)"  
-   Link: <a href="https://www.youtube.com/watch?v=f_vyqjHRrcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_vyqjHRrcY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Lenticular Clouds Look Exactly Like UFOs in the Sky?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f_vyqjHRrcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_vyqjHRrcY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Lenticular Clouds Look Exactly Like UFOs in the Sky?...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: "Why Do Lenticular Clouds Look Exactly Like UFOs in the Sky?"  
-   Link: <a href="https://www.youtube.com/watch?v=sXoBYUWAcnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXoBYUWAcnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lenticular Clouds Form to Look Like UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sXoBYUWAcnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXoBYUWAcnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Lenticular Clouds Form to Look Like UFOs...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/cromartyshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/cromartyshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/cromartyshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/cromartyshire/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell</a>  
+   Link:<a href="https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/berwyn-mountain-ufo-the-welsh-roswell</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXPPkXgiHJB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPPkXgiHJB/</a>  
+   Link:<a href="https://www.instagram.com/p/DXPPkXgiHJB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPPkXgiHJB/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ssns.org.uk  
-   Link: <a href="https://www.ssns.org.uk/wp-content/uploads/2019/10/14_Baldwin_NWRoss_1994_pp_290-389.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ssns.org.uk/wp-content/uploads/2019/10/14_Baldwin_NWRoss_1994_pp_290-389.pdf</a>  
+   Link:<a href="https://www.ssns.org.uk/wp-content/uploads/2019/10/14_Baldwin_NWRoss_1994_pp_290-389.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ssns.org.uk/wp-content/uploads/2019/10/14_Baldwin_NWRoss_1994_pp_290-389.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: lochbroomcabins.com  
-   Link: <a href="https://lochbroomcabins.com/explore-loch-broom/" target="_blank" rel="noopener noreferrer nofollow">https://lochbroomcabins.com/explore-loch-broom/</a>  
+   Link:<a href="https://lochbroomcabins.com/explore-loch-broom/" target="_blank" rel="noopener noreferrer nofollow">https://lochbroomcabins.com/explore-loch-broom/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/blackmagicfuckery/comments/v186jm/flying_saucer_shaped_lenticular_clouds_changing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/blackmagicfuckery/comments/v186jm/flying_saucer_shaped_lenticular_clouds_changing/</a>  
+   Link:<a href="https://www.reddit.com/r/blackmagicfuckery/comments/v186jm/flying_saucer_shaped_lenticular_clouds_changing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/blackmagicfuckery/comments/v186jm/flying_saucer_shaped_lenticular_clouds_changing/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstroKirsten/posts/have-you-seen-these-ufo-clouds-ufo-clouds-science-weird-meteorology-weather/944750934318832/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroKirsten/posts/have-you-seen-these-ufo-clouds-ufo-clouds-science-weird-meteorology-weather/944750934318832/</a>  
+   Link:<a href="https://www.facebook.com/AstroKirsten/posts/have-you-seen-these-ufo-clouds-ufo-clouds-science-weird-meteorology-weather/944750934318832/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroKirsten/posts/have-you-seen-these-ufo-clouds-ufo-clouds-science-weird-meteorology-weather/944750934318832/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScottDuncanWX/posts/insane-lenticular-clouds-in-the-northwest-highlands-of-scotland-like-giant-space/1244835443565449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScottDuncanWX/posts/insane-lenticular-clouds-in-the-northwest-highlands-of-scotland-like-giant-space/1244835443565449/</a>  
+   Link:<a href="https://www.facebook.com/ScottDuncanWX/posts/insane-lenticular-clouds-in-the-northwest-highlands-of-scotland-like-giant-space/1244835443565449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScottDuncanWX/posts/insane-lenticular-clouds-in-the-northwest-highlands-of-scotland-like-giant-space/1244835443565449/</a>  

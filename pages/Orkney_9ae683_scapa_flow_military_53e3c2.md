@@ -254,23 +254,23 @@ image: /assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-overview-social.j
 
 ## Introduction
 
-Scapa Flow does help explain some [Orkney]({{ 'what-really-happened-in-orkneys-ufo/' | relative_url }}) UFO stories, but not because it provides evidence for exotic craft. Its value is more prosaic and more useful: it gives Orkney a real defence setting in which unusual lights, aircraft, naval secrecy, searchlights, wrecks, patrols and later rumours can easily become tangled together. Scapa Flow was one of Britain’s great naval anchorages, chosen for its sheltered waters and strategic position, and it became the Royal Navy’s main northern base in both world wars. That history makes the area feel “military” even today, but a military backdrop is not the same as proof that strange sightings were advanced technology or visitors from elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
+Scapa Flow does help explain some [Orkney]({{ 'what-really-happened-in-orkneys-ufo/' | relative_url }}) UFO stories, but not because it provides evidence for exotic craft. Its value is more prosaic and more useful: it gives Orkney a real defence setting in which unusual lights, aircraft, naval secrecy, searchlights, wrecks, patrols and later rumours can easily become tangled together. Scapa Flow was one of Britain’s great naval anchorages, chosen for its sheltered waters and strategic position, and it became the Royal Navy’s main northern base in both world wars. That history makes the area feel “military” even today, but a military backdrop is not the same as proof that strange sightings were advanced technology or visitors from elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
 
 
 <img src="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-overview.webp" | relative_url }}" alt="Overview image for Scapa Flow" loading="eager" decoding="sync" fetchpriority="high">
-The clearest Orkney-linked UFO report in public sources remains the 25 January 1985 “tailed sphere” seen from the Kirkwall area and also reported farther south, not a Scapa Flow incident in the strict sense. Scapa Flow matters because it shapes interpretation: people know Orkney has hosted fleets, defences, airfields, coastguard activity and wartime tragedy, so unexplained lights can acquire a military frame quickly. The evidence, however, supports a cautious reading. Scapa Flow is a powerful context for rumours, not a confirmed source of extraordinary UFO events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
+The clearest Orkney-linked UFO report in public sources remains the 25 January 1985 “tailed sphere” seen from the Kirkwall area and also reported farther south, not a Scapa Flow incident in the strict sense. Scapa Flow matters because it shapes interpretation: people know Orkney has hosted fleets, defences, airfields, coastguard activity and wartime tragedy, so unexplained lights can acquire a military frame quickly. The evidence, however, supports a cautious reading. Scapa Flow is a powerful context for rumours, not a confirmed source of extraordinary UFO events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
 
 ## The real naval and wartime setting
 
-Scapa Flow is not a decorative piece of Orkney folklore. It is a large, sheltered body of water enclosed by Mainland, Hoy, Flotta, Burray, South Ronaldsay and other islands, and its geography made it a natural anchorage with access to the North Sea, Atlantic routes and northern waters. Historic Environment Scotland describes it as a relatively shallow inland sea of about 310 square kilometres, almost encircled by islands, and chosen as the war station for the British Grand Fleet in the First World War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
+Scapa Flow is not a decorative piece of Orkney folklore. It is a large, sheltered body of water enclosed by Mainland, Hoy, Flotta, Burray, South Ronaldsay and other islands, and its geography made it a natural anchorage with access to the North Sea, Atlantic routes and northern waters. Historic Environment Scotland describes it as a relatively shallow inland sea of about 310 square kilometres, almost encircled by islands, and chosen as the war station for the British Grand Fleet in the First World War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
 
-That setting left a dense military landscape. Scapa Flow’s wartime remains include blockships, boom defences, coastal batteries, wrecks, oiling sites, naval bases and later the Churchill Barriers. These are not rumours: they are mapped, protected and interpreted as nationally significant marine heritage. Historic Environment Scotland’s Scapa Flow Historic Marine Protected Area record notes that the remains of blockships, fixed barriers, vessel-protection pontoons and boom defences show the Admiralty’s evolving methods for defending the anchorage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
+That setting left a dense military landscape. Scapa Flow’s wartime remains include blockships, boom defences, coastal batteries, wrecks, oiling sites, naval bases and later the Churchill Barriers. These are not rumours: they are mapped, protected and interpreted as nationally significant marine heritage. Historic Environment Scotland’s Scapa Flow Historic Marine Protected Area record notes that the remains of blockships, fixed barriers, vessel-protection pontoons and boom defences show the Admiralty’s evolving methods for defending the anchorage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
 
-Several events give Scapa Flow its enduring emotional weight. In 1919, after the First World War, 74 vessels of the German High Seas Fleet were interned there; on 21 June 1919, Admiral Ludwig von Reuter ordered the fleet scuttled to prevent the ships falling into Allied hands. Historic Environment Scotland states that 52 of the 74 surrendered vessels sank, and the later salvage effort became one of the largest marine salvage operations of its kind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.historicenvironment.scot/2019/02/naval-harbour-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.historicenvironment.scot">[Historic Environment Scotland Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.historicenvironment.scot</span><span class="citation-popover-title">naval harbour scapa flow</span><span class="citation-popover-snippet">naval harbour scapa flow</span></span></span>
+Several events give Scapa Flow its enduring emotional weight. In 1919, after the First World War, 74 vessels of the German High Seas Fleet were interned there; on 21 June 1919, Admiral Ludwig von Reuter ordered the fleet scuttled to prevent the ships falling into Allied hands. Historic Environment Scotland states that 52 of the 74 surrendered vessels sank, and the later salvage effort became one of the largest marine salvage operations of its kind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.historicenvironment.scot/2019/02/naval-harbour-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.historicenvironment.scot">[Historic Environment Scotland Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.historicenvironment.scot</span><span class="citation-popover-title">naval harbour scapa flow</span><span class="citation-popover-snippet">naval harbour scapa flow</span></span></span>
 
-The Second World War added an even darker association. HMS Royal Oak was torpedoed in Scapa Flow by the German submarine U-47 on 14 October 1939, with the loss of more than 800 lives. The attack exposed weaknesses in the eastern approaches and directly led to stronger defences, including the Churchill Barriers. Historic Environment Scotland [records]({{ 'records-cd18c0/' | relative_url }}) the barriers as anti-submarine defences built between 1940 and 1944, officially opened in May 1945, and unique in Scotland as extensive solid anti-submarine and ship defences forming causeways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB52392" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
+The Second World War added an even darker association. HMS Royal Oak was torpedoed in Scapa Flow by the German submarine U-47 on 14 October 1939, with the loss of more than 800 lives. The attack exposed weaknesses in the eastern approaches and directly led to stronger defences, including the Churchill Barriers. Historic Environment Scotland [records]({{ 'records-cd18c0/' | relative_url }}) the barriers as anti-submarine defences built between 1940 and 1944, officially opened in May 1945, and unique in Scotland as extensive solid anti-submarine and ship defences forming causeways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB52392" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
-Air attack was also part of Scapa Flow’s lived wartime reality. Orkney Museums records that German air raids on Scapa Flow and the fleet base took place on 17 October 1939, shortly after the sinking of HMS Royal Oak, and that HMS Iron Duke was badly damaged. This matters for UFO interpretation because wartime Orkney was not merely a naval anchorage; it was a watched, defended and sometimes attacked military zone, with aircraft, guns, searchlights and alert systems forming part of everyday island life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orkneymuseums.co.uk/world-war-ii-defending-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orkneymuseums.co.uk">[Orkney Council Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orkneymuseums.co.uk</span><span class="citation-popover-title">world war ii defending scapa flow</span><span class="citation-popover-snippet">world war ii defending scapa flow</span></span></span>
+Air attack was also part of Scapa Flow’s lived wartime reality. Orkney Museums records that German air raids on Scapa Flow and the fleet base took place on 17 October 1939, shortly after the sinking of HMS Royal Oak, and that HMS Iron Duke was badly damaged. This matters for UFO interpretation because wartime Orkney was not merely a naval anchorage; it was a watched, defended and sometimes attacked military zone, with aircraft, guns, searchlights and alert systems forming part of everyday island life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orkneymuseums.co.uk/world-war-ii-defending-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orkneymuseums.co.uk">[Orkney Council Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orkneymuseums.co.uk</span><span class="citation-popover-title">world war ii defending scapa flow</span><span class="citation-popover-snippet">world war ii defending scapa flow</span></span></span>
 
 
 <img src="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-Illustration-1-dark.svg" | relative_url }}" alt="Scapa Flow illustration 1" data-theme-src-dark="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -278,11 +278,11 @@ Air attack was also part of Scapa Flow’s lived wartime reality. Orkney Museums
 
 Places with a military past often attract unusual-light stories because they supply a ready-made explanation: if something odd is seen, people can imagine secret aircraft, classified tests, naval exercises or radar cover-ups. Scapa Flow has all the ingredients for that kind of narrative. It had a major fleet anchorage, air defence, maritime patrol needs, coastal batteries, naval airfields and coastguard observation points. Those features make military speculation understandable, even when the specific sighting evidence is weak.
 
-Orkney’s military aviation context reinforces this. Kirkwall Airport began life as RAF Grimsetter, built in 1940 for the defence of the Scapa Flow naval base, before later passing through Royal Navy and civil control. RNAS Hatston, near Kirkwall, was also linked to the strategically important Scapa Flow base and to Fleet Air Arm activity. Such sites make it plausible that residents and visitors might connect unusual aerial activity with defence operations, especially when lights are seen over sea or open horizons rather than over clearly identifiable roads or towns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.military-airshows.co.uk/airports/kirkwall-airport.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-airshows.co.uk">[Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-airshows.co.uk</span><span class="citation-popover-title">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span><span class="citation-popover-snippet">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span></span></span>
+Orkney’s military aviation context reinforces this. Kirkwall Airport began life as RAF Grimsetter, built in 1940 for the defence of the Scapa Flow naval base, before later passing through Royal Navy and civil control. RNAS Hatston, near Kirkwall, was also linked to the strategically important Scapa Flow base and to Fleet Air Arm activity. Such sites make it plausible that residents and visitors might connect unusual aerial activity with defence operations, especially when lights are seen over sea or open horizons rather than over clearly identifiable roads or towns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.military-airshows.co.uk/airports/kirkwall-airport.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-airshows.co.uk">[Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-airshows.co.uk</span><span class="citation-popover-title">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span><span class="citation-popover-snippet">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span></span></span>
 
-The First World War adds another layer. RNAS Caldale, west of Kirkwall, was an airship station from the 1910s, used for anti-submarine and mine-spotting sweeps around Orkney. In a county-level UFO history, this is important not because airships explain modern sightings directly, but because Orkney’s sky has long been part of its defensive geography. The area’s military memory includes not only ships and wrecks, but also aerial surveillance, patrol craft and the hazards of northern weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RNAS_Caldale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RNAS Caldale</span><span class="citation-popover-snippet">RNAS Caldale</span></span></span>
+The First World War adds another layer. RNAS Caldale, west of Kirkwall, was an airship station from the 1910s, used for anti-submarine and mine-spotting sweeps around Orkney. In a county-level UFO history, this is important not because airships explain modern sightings directly, but because Orkney’s sky has long been part of its defensive geography. The area’s military memory includes not only ships and wrecks, but also aerial surveillance, patrol craft and the hazards of northern weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RNAS_Caldale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RNAS Caldale</span><span class="citation-popover-snippet">RNAS Caldale</span></span></span>
 
-Scapa Flow’s preserved remains also make the past unusually visible. The Churchill Barriers still carry the A961 road; blockships can still be seen near them; Scapa Flow Museum at Lyness tells the story of the harbour as “the centre of the British naval universe” during both world wars. A visitor or resident does not need to read specialist naval history to feel the military setting. It is built into roads, shorelines, museum displays and local memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orkneymuseums.co.uk/our-museums/scapa-flow-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orkneymuseums.co.uk">[Orkney Council Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orkneymuseums.co.uk</span><span class="citation-popover-snippet">Open source on orkneymuseums.co.uk.</span></span></span>
+Scapa Flow’s preserved remains also make the past unusually visible. The Churchill Barriers still carry the A961 road; blockships can still be seen near them; Scapa Flow Museum at Lyness tells the story of the harbour as “the centre of the British naval universe” during both world wars. A visitor or resident does not need to read specialist naval history to feel the military setting. It is built into roads, shorelines, museum displays and local memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orkneymuseums.co.uk/our-museums/scapa-flow-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orkneymuseums.co.uk">[Orkney Council Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orkneymuseums.co.uk</span><span class="citation-popover-snippet">Open source on orkneymuseums.co.uk.</span></span></span>
 
 That visibility can be a double-edged sword for UFO interpretation. It makes Scapa Flow a natural place to ask serious questions about aircraft, radar and naval activity. It also makes it easy for thin claims to borrow authority from genuine history. A vague story about “strange lights near Scapa” sounds more compelling when attached to a famous naval base, even if the report itself lacks a date, named witness, direction, duration, weather details or official record.
 
@@ -291,9 +291,9 @@ That visibility can be a double-edged sword for UFO interpretation. It makes Sca
 
 ## The strongest Orkney UFO link is nearby, not a Scapa Flow case
 
-The main public Orkney UFO report connected with official or semi-official witnesses is the 25 January 1985 sighting listed by the Paranormal Database as a “Tailed Sphere” north-west of Kirkwall. The entry says Kirkwall Coastguard reported a very bright spherical object with a tail moving from north-west to south-east, after which it split in two; Aberdeen Coastguard reportedly saw the same or similar objects later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
+The main public Orkney UFO report connected with official or semi-official witnesses is the 25 January 1985 sighting listed by the Paranormal Database as a “Tailed Sphere” north-west of Kirkwall. The entry says Kirkwall Coastguard reported a very bright spherical object with a tail moving from north-west to south-east, after which it split in two; Aberdeen Coastguard reportedly saw the same or similar objects later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
 
-This case belongs in Orkney’s UFO history because it involves coastguard observation and a wider Scottish sighting pattern, rather than a single anonymous witness. It also fits Orkney’s geography: a striking light over northern horizons, seen by observers whose job involved watching sea and sky, could travel mentally into the same interpretive world as Scapa Flow, Kirkwall Airport and maritime defence. But the location given in the public summary is north-west of Kirkwall, not Scapa Flow itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
+This case belongs in Orkney’s UFO history because it involves coastguard observation and a wider Scottish sighting pattern, rather than a single anonymous witness. It also fits Orkney’s geography: a striking light over northern horizons, seen by observers whose job involved watching sea and sky, could travel mentally into the same interpretive world as Scapa Flow, Kirkwall Airport and maritime defence. But the location given in the public summary is north-west of Kirkwall, not Scapa Flow itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
 
 The description is also more compatible with a high-altitude luminous event than with a craft manoeuvring over a naval site. A bright object with a tail, brief visibility, movement across a large area and apparent splitting are all features that can fit a meteor, bolide or re-entering space debris. That does not mean the witness report should be dismissed; it means the most economical explanation does not need Scapa Flow, secret military activity or exotic technology.
 
@@ -303,13 +303,13 @@ This distinction is important for a county-level UFO page. Scapa Flow can help e
 
 A useful way to assess Scapa Flow UFO rumours is to separate three different claims that often get blurred together.
 
-First, there is the well-supported claim that Scapa Flow was a major military site. That is beyond dispute. Official and heritage sources document the Royal Navy anchorage, German fleet scuttling, HMS Royal Oak, Churchill Barriers, coastal batteries, blockships, boom defences, airfields and wartime attacks. Historic Environment Scotland+2Historic Environment Scotland Blog <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[portal.historicenvironment.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
+First, there is the well-supported claim that Scapa Flow was a major military site. That is beyond dispute. Official and heritage sources document the Royal Navy anchorage, German fleet scuttling, HMS Royal Oak, Churchill Barriers, coastal batteries, blockships, boom defences, airfields and wartime attacks. Historic Environment Scotland+2Historic Environment Scotland Blog<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[portal.historicenvironment.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Scapa Flow (HMPA10</span><span class="citation-popover-snippet">Historic Environment Scotland Scapa Flow (HMPA10</span></span></span>
 
-Second, there is the reasonable claim that military settings can influence how unusual lights are interpreted. In Orkney, a bright object over sea may be assessed against aircraft, helicopters, ships, flares, search-and-rescue operations, military history, oil traffic, ferry routes and clear northern skies. The presence of Coastguard and airport observers can improve the quality of a report, but it can also make later retellings sound more official than the surviving evidence allows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hmcoastguard.uk/locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmcoastguard.uk">[HM Coastguard UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmcoastguard.uk</span><span class="citation-popover-snippet">Open source on hmcoastguard.uk.</span></span></span>
+Second, there is the reasonable claim that military settings can influence how unusual lights are interpreted. In Orkney, a bright object over sea may be assessed against aircraft, helicopters, ships, flares, search-and-rescue operations, military history, oil traffic, ferry routes and clear northern skies. The presence of Coastguard and airport observers can improve the quality of a report, but it can also make later retellings sound more official than the surviving evidence allows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hmcoastguard.uk/locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmcoastguard.uk">[HM Coastguard UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmcoastguard.uk</span><span class="citation-popover-snippet">Open source on hmcoastguard.uk.</span></span></span>
 
-Third, there is the much stronger claim that Scapa Flow itself generated UFO incidents involving secret craft or non-human technology. Publicly available evidence for that claim is weak. Searches of the most accessible public material turn up strong documentation for Scapa Flow’s military history, but not a comparable set of well-dated, well-investigated Scapa Flow UFO cases. The most relevant Orkney UFO entry is the Kirkwall Coastguard “tailed sphere”, and even that is not a Scapa Flow base case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
+Third, there is the much stronger claim that Scapa Flow itself generated UFO incidents involving secret craft or non-human technology. Publicly available evidence for that claim is weak. Searches of the most accessible public material turn up strong documentation for Scapa Flow’s military history, but not a comparable set of well-dated, well-investigated Scapa Flow UFO cases. The most relevant Orkney UFO entry is the Kirkwall Coastguard “tailed sphere”, and even that is not a Scapa Flow base case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
 
-The Ministry of Defence context also argues for caution. The UK’s official UFO material includes reports from 1997 to 2009, and The National Archives describes holdings that include UFO reports, correspondence and policy records. But the MOD’s UFO desk was closed in 2009 after officials concluded the work served no defence purpose; later reporting on the released files stressed that many sightings had conventional explanations or lacked defence significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Ministry of Defence context also argues for caution. The UK’s official UFO material includes reports from 1997 to 2009, and The National Archives describes holdings that include UFO reports, correspondence and policy records. But the MOD’s UFO desk was closed in 2009 after officials concluded the work served no defence purpose; later reporting on the released files stressed that many sightings had conventional explanations or lacked defence significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 That does not prove every Orkney sighting was explained. It means Scapa Flow should not be used as a shortcut to mystery. A military place can produce more witnesses, better reporting channels and more rumours at the same time. The question is not “was Scapa Flow military?” but “does this specific UFO claim have enough evidence to move beyond the military mood of the place?”
 
@@ -319,11 +319,11 @@ That does not prove every Orkney sighting was explained. It means Scapa Flow sho
 
 Scapa Flow is a good place for misinterpretation because it combines dark skies, sea horizons, aircraft routes, maritime lights and weather effects. A light seen over water can appear detached from familiar scale cues. Distance is hard to judge. A ship light, helicopter, aircraft on approach, flare, planet, meteor or satellite can look stranger when there are few buildings or trees to anchor the view.
 
-Modern Orkney also remains connected to aviation and maritime operations. Kirkwall Airport serves mainland Scottish routes and inter-island services, while HM Coastguard maintains a national network of rescue teams, maritime rescue coordination centres and helicopter bases around the UK. These are ordinary operational facts, but they matter because real aircraft and search activity can create lights that witnesses reasonably find unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.military-airshows.co.uk/airports/kirkwall-airport.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-airshows.co.uk">[Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-airshows.co.uk</span><span class="citation-popover-title">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span><span class="citation-popover-snippet">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span></span></span>
+Modern Orkney also remains connected to aviation and maritime operations. Kirkwall Airport serves mainland Scottish routes and inter-island services, while HM Coastguard maintains a national network of rescue teams, maritime rescue coordination centres and helicopter bases around the UK. These are ordinary operational facts, but they matter because real aircraft and search activity can create lights that witnesses reasonably find unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.military-airshows.co.uk/airports/kirkwall-airport.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-airshows.co.uk">[Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-airshows.co.uk</span><span class="citation-popover-title">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span><span class="citation-popover-snippet">Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach</span></span></span>
 
-The Scapa Flow area adds shipping and industrial activity as well as heritage. The Flow has been used not only as a naval anchorage but also as a sheltered maritime space, and modern accounts note continuing harbour, oil and vessel activity. Such environments produce moving lights at low angles, reflections on water, unusual silhouettes and occasional emergency or maintenance operations. None of these explanations should be forced onto a report without details, but they are more grounded than assuming secret craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scapa_Flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scapa Flow</span><span class="citation-popover-snippet">Scapa Flow</span></span></span>
+The Scapa Flow area adds shipping and industrial activity as well as heritage. The Flow has been used not only as a naval anchorage but also as a sheltered maritime space, and modern accounts note continuing harbour, oil and vessel activity. Such environments produce moving lights at low angles, reflections on water, unusual silhouettes and occasional emergency or maintenance operations. None of these explanations should be forced onto a report without details, but they are more grounded than assuming secret craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scapa_Flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scapa Flow</span><span class="citation-popover-snippet">Scapa Flow</span></span></span>
 
-Wartime structures can also create retrospective confusion. Blockships, barriers, batteries and wrecks are tangible and dramatic; they invite stories. The Paranormal Database’s Orkney page, for example, places a Scapa Flow sea-monster tale alongside UFO and other paranormal entries, showing how the area’s wrecks and wartime remains can attract broader strange-story traditions. That kind of source is useful as folklore evidence, but it is not the same as a primary investigation record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
+Wartime structures can also create retrospective confusion. Blockships, barriers, batteries and wrecks are tangible and dramatic; they invite stories. The Paranormal Database’s Orkney page, for example, places a Scapa Flow sea-monster tale alongside UFO and other paranormal entries, showing how the area’s wrecks and wartime remains can attract broader strange-story traditions. That kind of source is useful as folklore evidence, but it is not the same as a primary investigation record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
 
 
 <img src="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-Illustration-3-dark.svg" | relative_url }}" alt="Scapa Flow illustration 3" data-theme-src-dark="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orkney_9ae683_scapa_flow_military_53e3c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,7 +331,7 @@ Wartime structures can also create retrospective confusion. Blockships, barriers
 
 The fairest reading is neither dismissive nor credulous. Scapa Flow should raise the standard of inquiry, not lower it. Because the area genuinely had naval and air-defence importance, a report involving pilots, coastguards, radar, naval personnel or aircraft should be taken seriously as a report. But because that same history gives rumours extra drama, the claim needs details before it can carry weight.
 
-A stronger Scapa Flow UFO case would normally need several features: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Scapa_Flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scapa Flow</span><span class="citation-popover-snippet">Scapa Flow</span></span></span>
+A stronger Scapa Flow UFO case would normally need several features:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Scapa_Flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scapa Flow</span><span class="citation-popover-snippet">Scapa Flow</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -348,7 +348,7 @@ A stronger Scapa Flow UFO case would normally need several features: <span class
 
 By those standards, Scapa Flow’s military history is very strong evidence for context, but weak evidence for exotic UFO interpretation. It explains why unusual lights in Orkney may be remembered through a defence lens. It does not, by itself, prove that any reported light was connected to secret operations.
 
-This is also why Scapa Flow differs from famous UK military UFO cases such as Rendlesham Forest or Calvine. Those cases became prominent because they involved specific dates, named locations, claimed photographs or military witnesses, and later documentary disputes. Scapa Flow has an even stronger military history than many UFO locations, but the public UFO record attached to it is thinner and less case-specific. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
+This is also why Scapa Flow differs from famous UK military UFO cases such as Rendlesham Forest or Calvine. Those cases became prominent because they involved specific dates, named locations, claimed photographs or military witnesses, and later documentary disputes. Scapa Flow has an even stronger military history than many UFO locations, but the public UFO record attached to it is thinner and less case-specific.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DHqJc059VBM" title="Orkney, Scotland: Scapa Flow and WWII - Rick Steves’ Europe Travel Guide - Travel Bite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DHqJc059VBM" target="_blank" rel="noopener noreferrer">Orkney, Scotland: Scapa Flow and WWII - Rick Steves’ Europe Travel Guide - Travel Bite</a></p><p class="youtube-embed-meta">Channel: Rick Steves&#x27; Europe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DHqJc059VBM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DHqJc059VBM">Open on YouTube</a></p></div></div></div>
@@ -357,7 +357,7 @@ This is also why Scapa Flow differs from famous UK military UFO cases such as Re
 
 Scapa Flow’s main contribution is interpretive. It explains why Orkney’s unusual-light stories are often pulled towards military and maritime explanations rather than purely domestic ones. A bright object over Orkney is not being seen in a blank landscape. It is being seen in a county with a famous naval anchorage, wartime losses, airfields, coastguard observation, inter-island aviation, open sea routes and preserved military remains.
 
-That makes Scapa Flow a useful cautionary case for the wider Orkney branch. The island setting can produce good witnesses: coastguards, pilots, sailors and residents used to watching the horizon. But good witnesses do not automatically make an object extraordinary. The 1985 Kirkwall Coastguard report shows the point well: the observation is interesting because it appears to involve trained or duty-based observers, yet the description still points towards a natural or space-related luminous event rather than a craft over a naval base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
+That makes Scapa Flow a useful cautionary case for the wider Orkney branch. The island setting can produce good witnesses: coastguards, pilots, sailors and residents used to watching the horizon. But good witnesses do not automatically make an object extraordinary. The 1985 Kirkwall Coastguard report shows the point well: the observation is interesting because it appears to involve trained or duty-based observers, yet the description still points towards a natural or space-related luminous event rather than a craft over a naval base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[Paranormal Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span><span class="citation-popover-snippet">Paranormal Database Orkney Tailed Sphere. Location: Kirkwall</span></span></span>
 
 Scapa Flow also helps explain why rumours persist even when evidence is thin. Military places invite “what were they really doing?” questions. Wrecks, sealed histories and official secrecy can make gaps feel meaningful. But in evidence-led UFO history, a gap is not proof. It is a place where better records, clearer witness statements or plausible conventional explanations must be sought.
 
@@ -368,194 +368,194 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Scapa Flow Explain Orkney UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Scapa Flow Explain Orkney UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful for comparing military context with UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing military context with UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Connects defence institutions and sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects defence institutions and sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands+by+Nigel+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret War for the Falklands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=67NzQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret War for the Falklands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands+by+Nigel+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret War for the Falklands">The Secret War for the Falklands</a>
-        </h4>
-        <p class="fr-book-author">By Nigel West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands+by+Nigel+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret War for the Falklands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=67NzQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret War for the Falklands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands+by+Nigel+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret War for the Falklands">The Secret War for the Falklands</a>
+</h4>
+<p class="fr-book-author">By Nigel West</p>
         
-        <p class="fr-book-desc">Illustrates how defence activity often fuels speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands+by+Nigel+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how defence activity often fuels speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands+by+Nigel+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scapa+Flow%3A+The+Defences+of+Britain%27s+Great+Fleet+Anchorage+1914+45+Charles+Stephenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scapa Flow: The Defences of Britain&#x27;s Great Fleet Anchorage 1914-45 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scapa+Flow%3A+The+Defences+of+Britain%27s+Great+Fleet+Anchorage+1914+45+Charles+Stephenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scapa Flow: The Defences of Britain&#x27;s Great Fleet Anchorage 1914-45">Scapa Flow: The Defences of Britain&#x27;s Great Fleet Anchorage 1...</a>
-        </h4>
-        <p class="fr-book-author">By Charles Stephenson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scapa+Flow%3A+The+Defences+of+Britain%27s+Great+Fleet+Anchorage+1914+45+Charles+Stephenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scapa Flow: The Defences of Britain&#x27;s Great Fleet Anchorage 1914-45 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scapa+Flow%3A+The+Defences+of+Britain%27s+Great+Fleet+Anchorage+1914+45+Charles+Stephenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scapa Flow: The Defences of Britain&#x27;s Great Fleet Anchorage">Scapa Flow: The Defences of Britain&#x27;s Great Fleet Anchorage 1...</a>
+</h4>
+<p class="fr-book-author">By Charles Stephenson</p>
         
-        <p class="fr-book-desc">Explains the defence setting behind many local interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scapa+Flow%3A+The+Defences+of+Britain%27s+Great+Fleet+Anchorage+1914+45+Charles+Stephenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the defence setting behind many local interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scapa+Flow%3A+The+Defences+of+Britain%27s+Great+Fleet+Anchorage+1914+45+Charles+Stephenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret War for the Falklands</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+War+for+the+Falklands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret War for the Falklands</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="scapa-flow-does-scapa-flow-explain-orkney-ufo-stories-orkney-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,287 +761,287 @@ The most balanced conclusion is that Scapa Flow gives Orkney UFO stories a real 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: RNAS Hatston  
-   Link: <a href="https://en.wikipedia.org/wiki/RNAS_Hatston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RNAS_Hatston</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RNAS_Hatston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RNAS_Hatston</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: RNAS Caldale  
-   Link: <a href="https://en.wikipedia.org/wiki/RNAS_Caldale" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RNAS_Caldale</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RNAS_Caldale" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RNAS_Caldale</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hmcoastguard.uk  
-   Link: <a href="https://hmcoastguard.uk/locations" target="_blank" rel="noopener noreferrer nofollow">https://hmcoastguard.uk/locations</a>  
+   Link:<a href="https://hmcoastguard.uk/locations" target="_blank" rel="noopener noreferrer nofollow">https://hmcoastguard.uk/locations</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Scapa Flow  
-   Link: <a href="https://en.wikipedia.org/wiki/Scapa_Flow" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scapa_Flow</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Scapa_Flow" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scapa_Flow</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/tagdetails/67628dd5-8db6-4bfb-86bd-a191104e5f42" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/tagdetails/67628dd5-8db6-4bfb-86bd-a191104e5f42</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/tagdetails/67628dd5-8db6-4bfb-86bd-a191104e5f42" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/tagdetails/67628dd5-8db6-4bfb-86bd-a191104e5f42</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: royalnavy.mod.uk  
    Title: 190704 scapa flow remembered  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2019/july/04/190704-scapa-flow-remembered" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2019/july/04/190704-scapa-flow-remembered</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/news/2019/july/04/190704-scapa-flow-remembered" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2019/july/04/190704-scapa-flow-remembered</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: royalnavy.mod.uk  
    Title: 20220627 scapa flow naval museum set to reopen after 4m revamp  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2022/june/27/20220627-scapa-flow-naval-museum-set-to-reopen-after-4m-revamp" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2022/june/27/20220627-scapa-flow-naval-museum-set-to-reopen-after-4m-revamp</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/news/2022/june/27/20220627-scapa-flow-naval-museum-set-to-reopen-after-4m-revamp" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2022/june/27/20220627-scapa-flow-naval-museum-set-to-reopen-after-4m-revamp</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Scapa Flow Museum  
-   Link: <a href="https://en.wikipedia.org/wiki/Scapa_Flow_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scapa_Flow_Museum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Scapa_Flow_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scapa_Flow_Museum</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Churchill Barriers  
-   Link: <a href="https://en.wikipedia.org/wiki/Churchill_Barriers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Churchill_Barriers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Churchill_Barriers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Churchill_Barriers</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Italian Chapel  
-   Link: <a href="https://en.wikipedia.org/wiki/Italian_Chapel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Italian_Chapel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Italian_Chapel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Italian_Chapel</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: westyorkshire.police.uk  
-   Link: <a href="https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings</a>  
+   Link:<a href="https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/december-2021-foi-986844-21-ufo-sightings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: northyorkshire.police.uk  
    Title: 98No information is available for this page  
-   Link: <a href="https://www.northyorkshire.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=98&amp;q=&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.northyorkshire.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=98&amp;q=&amp;tdte=</a>  
+   Link:<a href="https://www.northyorkshire.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=98&amp;q=&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.northyorkshire.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=98&amp;q=&amp;tdte=</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: data.jncc.gov.uk  
    Title: pubs csuk region 02  
-   Link: <a href="https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf</a>  
+   Link:<a href="https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: libraries.westsussex.gov.uk  
-   Link: <a href="https://libraries.westsussex.gov.uk/GroupedWork/bf67dfcc-a18a-ff7a-575a-2122fe581947-eng/Home?page=10&amp;recordIndex=189&amp;searchId=5304930&amp;searchSource=local" target="_blank" rel="noopener noreferrer nofollow">https://libraries.westsussex.gov.uk/GroupedWork/bf67dfcc-a18a-ff7a-575a-2122fe581947-eng/Home?page=10&amp;recordIndex=189&amp;searchId=5304930&amp;searchSource=local</a>  
+   Link:<a href="https://libraries.westsussex.gov.uk/GroupedWork/bf67dfcc-a18a-ff7a-575a-2122fe581947-eng/Home?page=10&amp;recordIndex=189&amp;searchId=5304930&amp;searchSource=local" target="_blank" rel="noopener noreferrer nofollow">https://libraries.westsussex.gov.uk/GroupedWork/bf67dfcc-a18a-ff7a-575a-2122fe581947-eng/Home?page=10&amp;recordIndex=189&amp;searchId=5304930&amp;searchSource=local</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: orkney.com  
-   Link: <a href="https://www.orkney.com/listings/the-italian-chapel" target="_blank" rel="noopener noreferrer nofollow">https://www.orkney.com/listings/the-italian-chapel</a>  
+   Link:<a href="https://www.orkney.com/listings/the-italian-chapel" target="_blank" rel="noopener noreferrer nofollow">https://www.orkney.com/listings/the-italian-chapel</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: orkney.gov.uk  
    Title: proposed spa digital aerial bird surveys take flight over orkney  
-   Link: <a href="https://www.orkney.gov.uk/latest-news/proposed-spa-digital-aerial-bird-surveys-take-flight-over-orkney/" target="_blank" rel="noopener noreferrer nofollow">https://www.orkney.gov.uk/latest-news/proposed-spa-digital-aerial-bird-surveys-take-flight-over-orkney/</a>  
+   Link:<a href="https://www.orkney.gov.uk/latest-news/proposed-spa-digital-aerial-bird-surveys-take-flight-over-orkney/" target="_blank" rel="noopener noreferrer nofollow">https://www.orkney.gov.uk/latest-news/proposed-spa-digital-aerial-bird-surveys-take-flight-over-orkney/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: portal.historicenvironment.scot  
    Title: Historic Environment Scotland Scapa Flow (HMPA10)  
-   Link: <a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10</a>  
+   Link:<a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CHMPA10</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: blog.historicenvironment.scot  
    Title: naval harbour scapa flow  
-   Link: <a href="https://blog.historicenvironment.scot/2019/02/naval-harbour-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow">https://blog.historicenvironment.scot/2019/02/naval-harbour-scapa-flow/</a>  
+   Link:<a href="https://blog.historicenvironment.scot/2019/02/naval-harbour-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow">https://blog.historicenvironment.scot/2019/02/naval-harbour-scapa-flow/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: paranormaldatabase.com  
    Title: Paranormal Database Orkney Tailed Sphere. Location: Kirkwall  
-   Link: <a href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/islands/orcndata.php</a>  
+   Link:<a href="https://www.paranormaldatabase.com/islands/orcndata.php" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/islands/orcndata.php</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: military-airshows.co.uk  
    Title: Military Airshows Kirkwall Airport It operates services to Aberdeen, Approach  
-   Link: <a href="https://www.military-airshows.co.uk/airports/kirkwall-airport.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/airports/kirkwall-airport.htm</a>  
+   Link:<a href="https://www.military-airshows.co.uk/airports/kirkwall-airport.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/airports/kirkwall-airport.htm</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: portal.historicenvironment.scot  
-   Link: <a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB52392" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB52392</a>  
+   Link:<a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB52392" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB52392</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: orkneymuseums.co.uk  
    Title: world war ii defending scapa flow  
-   Link: <a href="https://orkneymuseums.co.uk/world-war-ii-defending-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow">https://orkneymuseums.co.uk/world-war-ii-defending-scapa-flow/</a>  
+   Link:<a href="https://orkneymuseums.co.uk/world-war-ii-defending-scapa-flow/" target="_blank" rel="noopener noreferrer nofollow">https://orkneymuseums.co.uk/world-war-ii-defending-scapa-flow/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: orkneymuseums.co.uk  
-   Link: <a href="https://orkneymuseums.co.uk/our-museums/scapa-flow-museum/" target="_blank" rel="noopener noreferrer nofollow">https://orkneymuseums.co.uk/our-museums/scapa-flow-museum/</a>  
+   Link:<a href="https://orkneymuseums.co.uk/our-museums/scapa-flow-museum/" target="_blank" rel="noopener noreferrer nofollow">https://orkneymuseums.co.uk/our-museums/scapa-flow-museum/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: historicenvironment.scot  
    Title: churchill barriers to be listed by historic environment scotland  
-   Link: <a href="https://www.historicenvironment.scot/about-us/news/churchill-barriers-to-be-listed-by-historic-environment-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicenvironment.scot/about-us/news/churchill-barriers-to-be-listed-by-historic-environment-scotland/</a>  
+   Link:<a href="https://www.historicenvironment.scot/about-us/news/churchill-barriers-to-be-listed-by-historic-environment-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicenvironment.scot/about-us/news/churchill-barriers-to-be-listed-by-historic-environment-scotland/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: theguardian.com  
    Title: orkney museum showing tiny islands role protecting uk up for top heritage prize  
-   Link: <a href="https://www.theguardian.com/culture/2023/may/22/orkney-museum-showing-tiny-islands-role-protecting-uk-up-for-top-heritage-prize" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2023/may/22/orkney-museum-showing-tiny-islands-role-protecting-uk-up-for-top-heritage-prize</a>  
+   Link:<a href="https://www.theguardian.com/culture/2023/may/22/orkney-museum-showing-tiny-islands-role-protecting-uk-up-for-top-heritage-prize" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2023/may/22/orkney-museum-showing-tiny-islands-role-protecting-uk-up-for-top-heritage-prize</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: planet4589.org  
-   Link: <a href="https://planet4589.org/space/debris/debriscat/debris.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/debris/debriscat/debris.html</a>  
+   Link:<a href="https://planet4589.org/space/debris/debriscat/debris.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/debris/debriscat/debris.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: northlinkferries.co.uk  
    Title: scapa flow  
-   Link: <a href="https://www.northlinkferries.co.uk/orkney-blog/scapa-flow/" target="_blank" rel="noopener noreferrer nofollow">https://www.northlinkferries.co.uk/orkney-blog/scapa-flow/</a>  
+   Link:<a href="https://www.northlinkferries.co.uk/orkney-blog/scapa-flow/" target="_blank" rel="noopener noreferrer nofollow">https://www.northlinkferries.co.uk/orkney-blog/scapa-flow/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: orkneymuseums.co.uk  
    Title: world war ii building the barriers  
-   Link: <a href="https://orkneymuseums.co.uk/world-war-ii-building-the-barriers/" target="_blank" rel="noopener noreferrer nofollow">https://orkneymuseums.co.uk/world-war-ii-building-the-barriers/</a>  
+   Link:<a href="https://orkneymuseums.co.uk/world-war-ii-building-the-barriers/" target="_blank" rel="noopener noreferrer nofollow">https://orkneymuseums.co.uk/world-war-ii-building-the-barriers/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: scapaflowwrecks.com  
-   Link: <a href="https://www.scapaflowwrecks.com/wrecks/blockships/" target="_blank" rel="noopener noreferrer nofollow">https://www.scapaflowwrecks.com/wrecks/blockships/</a>  
+   Link:<a href="https://www.scapaflowwrecks.com/wrecks/blockships/" target="_blank" rel="noopener noreferrer nofollow">https://www.scapaflowwrecks.com/wrecks/blockships/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: britannica.com  
    Title: Scapa Flow  
-   Link: <a href="https://www.britannica.com/place/Scapa-Flow" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Scapa-Flow</a>  
+   Link:<a href="https://www.britannica.com/place/Scapa-Flow" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Scapa-Flow</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: The Submarine That Sank a Battleship in the Royal Navy's Own Harbor  
-   Link: <a href="https://www.youtube.com/watch?v=Q12p1Q1bAF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q12p1Q1bAF0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Orkney, Scotland: Scapa Flow and WWII - Rick Steves&#x27; Europe Travel Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q12p1Q1bAF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q12p1Q1bAF0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Orkney, Scotland: Scapa Flow and WWII - Rick Steves&#x27; Europe Travel Guide...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Orkney, Scotland: Scapa Flow and WWII  
-   Link: <a href="https://www.youtube.com/watch?v=DHqJc059VBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DHqJc059VBM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Incredible Story of U-47 and “The Bull of Scapa Flow”...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DHqJc059VBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DHqJc059VBM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Incredible Story of U-47 and “The Bull of Scapa Flow”...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: The Incredible Story of U-47 and “The Bull of Scapa Flow”  
-   Link: <a href="https://www.youtube.com/watch?v=g6TFXtWNSbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g6TFXtWNSbg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Tour WW 2 Coastal Defense Batteries of Scapa Flow, Orkney...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g6TFXtWNSbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g6TFXtWNSbg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Tour WW 2 Coastal Defense Batteries of Scapa Flow, Orkney...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/scapa" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/scapa</a>  
+   Link:<a href="https://www.gettyimages.com/photos/scapa" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/scapa</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: northlinkferries.co.uk  
-   Link: <a href="https://www.northlinkferries.co.uk/orkney-blog/building-italian-chapel/" target="_blank" rel="noopener noreferrer nofollow">https://www.northlinkferries.co.uk/orkney-blog/building-italian-chapel/</a>  
+   Link:<a href="https://www.northlinkferries.co.uk/orkney-blog/building-italian-chapel/" target="_blank" rel="noopener noreferrer nofollow">https://www.northlinkferries.co.uk/orkney-blog/building-italian-chapel/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/memorials/item/memorial/84701" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/memorials/item/memorial/84701</a>  
+   Link:<a href="https://www.iwm.org.uk/memorials/item/memorial/84701" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/memorials/item/memorial/84701</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: hiddenscotland.com  
-   Link: <a href="https://hiddenscotland.com/listings/churchill-barriers" target="_blank" rel="noopener noreferrer nofollow">https://hiddenscotland.com/listings/churchill-barriers</a>  
+   Link:<a href="https://hiddenscotland.com/listings/churchill-barriers" target="_blank" rel="noopener noreferrer nofollow">https://hiddenscotland.com/listings/churchill-barriers</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: northlinkferries.co.uk  
-   Link: <a href="https://www.northlinkferries.co.uk/orkney-blog/orkneys-wartime-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.northlinkferries.co.uk/orkney-blog/orkneys-wartime-history/</a>  
+   Link:<a href="https://www.northlinkferries.co.uk/orkney-blog/orkneys-wartime-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.northlinkferries.co.uk/orkney-blog/orkneys-wartime-history/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: warfarehistorynetwork.com  
-   Link: <a href="https://warfarehistorynetwork.com/article/scapa-flow-shock-german-u-boat-devastates-the-royal-navy/" target="_blank" rel="noopener noreferrer nofollow">https://warfarehistorynetwork.com/article/scapa-flow-shock-german-u-boat-devastates-the-royal-navy/</a>  
+   Link:<a href="https://warfarehistorynetwork.com/article/scapa-flow-shock-german-u-boat-devastates-the-royal-navy/" target="_blank" rel="noopener noreferrer nofollow">https://warfarehistorynetwork.com/article/scapa-flow-shock-german-u-boat-devastates-the-royal-navy/</a>  

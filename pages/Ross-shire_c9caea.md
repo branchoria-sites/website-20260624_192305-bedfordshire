@@ -118,9 +118,9 @@ heading_title: What Really Happened in Ross shire's UFO Reports?
 page_heading_title: What Really Happened in Ross shire's UFO Reports?
 source_count: 160
 infographic_count: 3
-page_website_name: Ross shire UFOs
+page_website_name: Ross shire
 page_banner_line: Balanced evidence on Highland sightings, records, skies and military context.
-site_website_name: Ross shire UFOs
+site_website_name: Ross shire
 site_banner_line: Balanced evidence on Highland sightings, records, skies and military context.
 site_image_description: A lone figure watches a bright orange light over the dark fields and firth of Easter Ross, with low hills and scattered village...
 output_language: English
@@ -689,35 +689,35 @@ image: /assets/images/Ross-shire_c9caea-overview-social.jpg
 
 ## What counts as Ross-shire here?
 
-This page uses Ross-shire in its historic-county sense, matching the project’s historic-county map approach rather than present-day council [boundaries]({{ 'boundaries-8d7dcd/' | relative_url }}). In that sense, Ross-shire stretches from the Atlantic coast to the North Sea, with Easter Ross, Wester Ross and the Isle of Lewis forming its broad geographic frame; Dingwall is identified by Wikishire as the county town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Ross-shire</span><span class="citation-popover-snippet">Wikishire Ross-shire</span></span></span>
+This page uses Ross-shire in its historic-county sense, matching the project’s historic-county map approach rather than present-day council [boundaries]({{ 'boundaries-8d7dcd/' | relative_url }}). In that sense, Ross-shire stretches from the Atlantic coast to the North Sea, with Easter Ross, Wester Ross and the Isle of Lewis forming its broad geographic frame; Dingwall is identified by Wikishire as the county town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Ross-shire</span><span class="citation-popover-snippet">Wikishire Ross-shire</span></span></span>
 
 
 <img src="{{ "/assets/images/Ross-shire_c9caea-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Ross shire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-That matters because modern administrative geography can easily blur UFO research. Ross-shire and Cromartyshire were merged into Ross and Cromarty for local government in 1889; Ross and Cromarty was abolished in 1975, and later arrangements placed most mainland communities under Highland Council while Lewis became part of the Western Isles council area. Ross and Cromarty Heritage+2Ross and Cromarty Heritage <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rossandcromartyheritage.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossandcromartyheritage.org">[rossandcromartyheritage.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossandcromartyheritage.org</span><span class="citation-popover-snippet">Open source on rossandcromartyheritage.org.</span></span></span>
+That matters because modern administrative geography can easily blur UFO research. Ross-shire and Cromartyshire were merged into Ross and Cromarty for local government in 1889; Ross and Cromarty was abolished in 1975, and later arrangements placed most mainland communities under Highland Council while Lewis became part of the Western Isles council area. Ross and Cromarty Heritage+2Ross and Cromarty Heritage<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rossandcromartyheritage.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossandcromartyheritage.org">[rossandcromartyheritage.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossandcromartyheritage.org</span><span class="citation-popover-snippet">Open source on rossandcromartyheritage.org.</span></span></span>
 
-For sighting history, the practical centre of gravity is mainland Ross-shire: Tore, Ardross, Evanton, the Black Isle, Tain and the surrounding Easter Ross and Cromarty Firth area. The older county’s reach to the west coast and Lewis should be remembered, but the publicly visible MoD entries found for this page cluster on the eastern mainland and Black Isle side of the historic county. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+For sighting history, the practical centre of gravity is mainland Ross-shire: Tore, Ardross, Evanton, the Black Isle, Tain and the surrounding Easter Ross and Cromarty Firth area. The older county’s reach to the west coast and Lewis should be remembered, but the publicly visible MoD entries found for this page cluster on the eastern mainland and Black Isle side of the historic county.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 ## The strongest Ross-shire paper trail is thin but official
 
-The most useful starting point is not a sensational book or a local rumour, but the UK Government’s published MoD UFO report lists. GOV.UK describes these documents as UFO reports from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. That format is important: it preserves what was reported, but it does not prove the object was extraordinary, extraterrestrial, or even genuinely unidentifiable after proper investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The most useful starting point is not a sensational book or a local rumour, but the UK Government’s published MoD UFO report lists. GOV.UK describes these documents as UFO reports from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. That format is important: it preserves what was reported, but it does not prove the object was extraordinary, extraterrestrial, or even genuinely unidentifiable after proper investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Ross shire(#endnote-23 "Endnote 23") hire entries that stand out are brief: <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Ross-shire</span><span class="citation-popover-snippet">Wikishire Ross-shire</span></span></span>
+Ross shire(#endnote-23 "Endnote 23") hire entries that stand out are brief:<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Ross-shire</span><span class="citation-popover-snippet">Wikishire Ross-shire</span></span></span>
 
 Date and timePlaceReported descriptionInitial assessment value9 June 1997, 22:25ToreOne object, “saucer” shaped and then like a comet with a tail, very bright orange and shiningA compact, dated official entry; description also fits possible meteor or re-entry-type perception29–30 March 1999, 21:30–21:35ArdrossOne object, four times larger than Venus, halogen-coloured, brighter than Venus, stationary for some timeStrong candidate for astronomical or atmospheric misidentification, especially because it was stationary and explicitly compared with Venus3 January 2000, 20:45EvantonA gold disc flying through cloud, reappearing and disappearingInteresting because of the disc description, but too short for confidence16 October 2007, 05:45Black IsleOne orb, larger than a star, purple and green, with “bubbles, flames and solar flares”Vivid report, but colour and low-light effects invite caution
 
-The official lists give these reports weight as documented claims, not as solved mysteries. The 1997 Tore entry appears among many other reports from across the UK in the same month, and the Ross-shire entry itself gives no witness name, duration, direction, altitude, weather, independent corroboration, radar check or follow-up conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The official lists give these reports weight as documented claims, not as solved mysteries. The 1997 Tore entry appears among many other reports from across the UK in the same month, and the Ross-shire entry itself gives no witness name, duration, direction, altitude, weather, independent corroboration, radar check or follow-up conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-The Ardross entries are especially useful because they show how easily a UFO report can preserve the witness’s impression while also hinting at an ordinary explanation. The object was described as brighter than Venus and stationary “for quite a while”, which is exactly the kind of situation in which a bright planet, seen through turbulent air or near the horizon, can be perceived as larger, colourful or unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Ardross entries are especially useful because they show how easily a UFO report can preserve the witness’s impression while also hinting at an ordinary explanation. The object was described as brighter than Venus and stationary “for quite a while”, which is exactly the kind of situation in which a bright planet, seen through turbulent air or near the horizon, can be perceived as larger, colourful or unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The Evanton sighting is more ambiguous. “Gold disc” sounds more classically UFO-like than “bright light”, and the reported movement through cloud gives it a little more narrative texture. But the MoD table entry is still only one line, with no supporting photographs, named witnesses or cross-checkable aircraft or weather details in the public summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Evanton sighting is more ambiguous. “Gold disc” sounds more classically UFO-like than “bright light”, and the reported movement through cloud gives it a little more narrative texture. But the MoD table entry is still only one line, with no supporting photographs, named witnesses or cross-checkable aircraft or weather details in the public summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The Black Isle 2007 entry is the most visually dramatic of the small Ross-shire set. Purple and green colour, “bubbles”, “flames” and “solar flares” make it memorable, but they also make it difficult to assess literally. The Met Office notes that aurora can produce green, red, blue and purple hues and is most visible in Scotland and other northern UK areas; that does not prove this sighting was auroral, but it shows why northern-sky atmospheric explanations must be tested before calling such an entry unexplained in any strong sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+The Black Isle 2007 entry is the most visually dramatic of the small Ross-shire set. Purple and green colour, “bubbles”, “flames” and “solar flares” make it memorable, but they also make it difficult to assess literally. The Met Office notes that aurora can produce green, red, blue and purple hues and is most visible in Scotland and other northern UK areas; that does not prove this sighting was auroral, but it shows why northern-sky atmospheric explanations must be tested before calling such an entry unexplained in any strong sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/Ross-shire_c9caea-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Ross shire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Ross-shire_c9caea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ross-shire_c9caea-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ross-shire produces credible-looking but fragile sightings
 
-Ross-shire has several features that make sky anomalies more likely to be noticed and more difficult to interpret. Much of the historic county is mountainous, coastal and sparsely populated, with Easter Ross and the Black Isle forming the lower-lying eastern zone and Wester Ross opening out into darker, more remote terrain. Ross and Cromarty Heritage describes the wider old county as spanning from the Atlantic to the North Sea, with a rugged coastline, mountainous interior and only around 20 per cent of the landmass in the lowlands of Easter Ross and the Black Isle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rossandcromartyheritage.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossandcromartyheritage.org">[Ross and Cromarty Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossandcromartyheritage.org</span><span class="citation-popover-snippet">Open source on rossandcromartyheritage.org.</span></span></span>
+Ross-shire has several features that make sky anomalies more likely to be noticed and more difficult to interpret. Much of the historic county is mountainous, coastal and sparsely populated, with Easter Ross and the Black Isle forming the lower-lying eastern zone and Wester Ross opening out into darker, more remote terrain. Ross and Cromarty Heritage describes the wider old county as spanning from the Atlantic to the North Sea, with a rugged coastline, mountainous interior and only around 20 per cent of the landmass in the lowlands of Easter Ross and the Black Isle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rossandcromartyheritage.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossandcromartyheritage.org">[Ross and Cromarty Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossandcromartyheritage.org</span><span class="citation-popover-snippet">Open source on rossandcromartyheritage.org.</span></span></span>
 
 That geography matters in three ways. First, dark skies make ordinary objects more striking: Venus, bright meteors, aircraft lights and satellites can look intense when there is little light pollution. Secondly, broken cloud over hills and firths can make objects appear, vanish, change shape or seem to pass “through” cloud. Thirdly, long sightlines over water, farmland and open hills can make distance and size very hard to judge.
 
@@ -725,9 +725,9 @@ The strongest sceptical point is not that witnesses are careless. It is that the
 
 ## Tain and the aviation factor
 
-Ross-shire’s UFO history should also be read beside its aviation and military geography. Tain Air Weapons Range sits on the Dornoch Firth in Ross-shire and is one of the MOD’s UK air weapons ranges; GOV.UK lists Tain in Ross-shire among the MOD’s current air weapons ranges used for essential operational training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
+Ross-shire’s UFO history should also be read beside its aviation and military geography. Tain Air Weapons Range sits on the Dornoch Firth in Ross-shire and is one of the MOD’s UK air weapons ranges; GOV.UK lists Tain in Ross-shire among the MOD’s current air weapons ranges used for essential operational training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
 
-The RAF’s own station information for RAF Lossiemouth states that Tain Air Weapons Range is one of five currently used by the RAF, extends from near Inver to east of Tain, and has an air danger area extending vertically to 15,000 feet above mean sea level, or 22,000 feet on request. The same RAF source says the range is used by British military, the US Air Force and other NATO air forces for bombing and strafing practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Lossiemouth &#124; Royal Air Force</span></span></span>
+The RAF’s own station information for RAF Lossiemouth states that Tain Air Weapons Range is one of five currently used by the RAF, extends from near Inver to east of Tain, and has an air danger area extending vertically to 15,000 feet above mean sea level, or 22,000 feet on request. The same RAF source says the range is used by British military, the US Air Force and other NATO air forces for bombing and strafing practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force RAF Lossiemouth &#124; Royal Air Force</span></span></span>
 
 This does not mean the named Ross-shire UFO entries were military aircraft. The key reports above do not contain enough detail to make that claim. It does mean that aircraft, range activity, navigation lights, flares, unusual flight paths and public unfamiliarity with military training are part of the local interpretive background. Any serious Ross-shire UFO assessment should ask: was Tain active, was RAF Lossiemouth involved, were military exercises or low-flying notices relevant, and could a witness have seen activity over the firths, coastline or training airspace?
 
@@ -740,15 +740,15 @@ The aviation factor cuts both ways. It can make some sightings less mysterious, 
 
 Ross-shire’s best-recorded sightings are better treated as “reported and weakly unresolved” than as strong unknowns. The public evidence is too sparse for confident debunking in every case, but the descriptions point towards familiar explanation pathways.
 
-**Tore, 1997:** the object was described as saucer-shaped and then like a comet with a tail, bright orange and shining. A bright meteor or fireball is a plausible first check because fireballs are very bright meteors and can leave trails; the American Meteor Society notes that fireballs can show colours and trails, and that brightness, colour, duration and path are key details for assessing such reports. The problem is that the MoD entry does not give duration or trajectory, so a meteor explanation is plausible rather than proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+**Tore, 1997:** the object was described as saucer-shaped and then like a comet with a tail, bright orange and shining. A bright meteor or fireball is a plausible first check because fireballs are very bright meteors and can leave trails; the American Meteor Society notes that fireballs can show colours and trails, and that brightness, colour, duration and path are key details for assessing such reports. The problem is that the MoD entry does not give duration or trajectory, so a meteor explanation is plausible rather than proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-**Ardross, 1999:** the object was reported on two consecutive nights as brighter than Venus, halogen-coloured and stationary. This is the Ross-shire case most vulnerable to a Venus-type explanation, because Royal Museums Greenwich explicitly notes that Venus is extremely bright and that near the horizon its twinkling can create flashing colour effects often reported as peculiar objects or UFOs. Two similar evening sightings in the same place also make a recurring astronomical object more likely than a one-off craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Ardross, 1999:** the object was reported on two consecutive nights as brighter than Venus, halogen-coloured and stationary. This is the Ross-shire case most vulnerable to a Venus-type explanation, because Royal Museums Greenwich explicitly notes that Venus is extremely bright and that near the horizon its twinkling can create flashing colour effects often reported as peculiar objects or UFOs. Two similar evening sightings in the same place also make a recurring astronomical object more likely than a one-off craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Evanton, 2000:** the “gold disc” flying through cloud is harder to pin down. It could have been an aircraft seen through broken cloud, a bright planet or star intermittently obscured, a balloon or lantern-like object, or a genuine unknown from the witness’s point of view. The public record is simply too compressed to separate these options. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Evanton, 2000:** the “gold disc” flying through cloud is harder to pin down. It could have been an aircraft seen through broken cloud, a bright planet or star intermittently obscured, a balloon or lantern-like object, or a genuine unknown from the witness’s point of view. The public record is simply too compressed to separate these options.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Black Isle, 2007:** the purple-green orb report should be checked against astronomy, aurora, aircraft and optical effects. Scotland is one of the best UK regions for aurora visibility, and the Met Office explains that aurora colours can include green, red, blue and purple depending on atmospheric gases and solar activity. The entry’s “flames” and “solar flares” wording may be figurative witness language rather than a literal physical description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+**Black Isle, 2007:** the purple-green orb report should be checked against astronomy, aurora, aircraft and optical effects. Scotland is one of the best UK regions for aurora visibility, and the Met Office explains that aurora colours can include green, red, blue and purple depending on atmospheric gases and solar activity. The entry’s “flames” and “solar flares” wording may be figurative witness language rather than a literal physical description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
-A separate explanation that matters nationally, though less directly for these named Ross-shire entries, is Chinese lanterns. The National Archives’ final UFO file release notes that the MoD considered the late-2000s rise in reports partly linked to Chinese lanterns, especially formations of orange lights moving slowly across the sky. That pattern is more relevant to mass orange-light reports than to the Ardross or Black Isle entries, but it belongs in the Ross-shire toolkit for assessing later local reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+A separate explanation that matters nationally, though less directly for these named Ross-shire entries, is Chinese lanterns. The National Archives’ final UFO file release notes that the MoD considered the late-2000s rise in reports partly linked to Chinese lanterns, especially formations of orange lights moving slowly across the sky. That pattern is more relevant to mass orange-light reports than to the Ardross or Black Isle entries, but it belongs in the Ross-shire toolkit for assessing later local reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <img src="{{ "/assets/images/Ross-shire_c9caea-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Ross shire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Ross-shire_c9caea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ross-shire_c9caea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -756,7 +756,7 @@ A separate explanation that matters nationally, though less directly for these n
 
 The MoD’s UFO records are often misunderstood. Their value is not that they certify an event as extraordinary. Their value is that they show what entered official channels, how it was summarised, and whether the report was considered relevant enough to be retained in a public list or file.
 
-The National Archives says the MoD kept UFO records for decades, and GOV.UK’s published tables make many late-period reports accessible in a simplified form. But the final UFO desk release also records the institutional end point: the desk closed in November 2009 after officials concluded that it served no defence purpose, and that more than 50 years of reports had produced nothing suggesting an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives says the MoD kept UFO records for decades, and GOV.UK’s published tables make many late-period reports accessible in a simplified form. But the final UFO desk release also records the institutional end point: the desk closed in November 2009 after officials concluded that it served no defence purpose, and that more than 50 years of reports had produced nothing suggesting an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Ross-shire, that means the official record supports a modest conclusion. There were real reports from places in historic Ross-shire. They were logged by the MoD. They fit the wider national pattern of brief public summaries, many of which lack the detail needed for confident resolution. They do not, on the public evidence available, establish a major Ross-shire UFO incident.
 
@@ -767,7 +767,7 @@ This distinction is important for public-facing UFO history. A reported “gold 
 
 ## Ross-shire in the wider Scottish UFO picture
 
-Ross-shire sits at the quieter end of Scottish UFO history. Other Scottish areas have attracted more media attention, especially where cases involved clusters, photographs, named investigators or repeated local folklore. Modern Scottish reporting also shows that UFO interest has continued beyond the MoD era: a 2022 Daily Record article, drawing on UFO Identified data, reported 47 Scottish UFO sightings in 2021, up from 34 in 2020, with Lanarkshire named as the leading hotspot in that dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span>
+Ross-shire sits at the quieter end of Scottish UFO history. Other Scottish areas have attracted more media attention, especially where cases involved clusters, photographs, named investigators or repeated local folklore. Modern Scottish reporting also shows that UFO interest has continued beyond the MoD era: a 2022 Daily Record article, drawing on UFO Identified data, reported 47 Scottish UFO sightings in 2021, up from 34 in 2020, with Lanarkshire named as the leading hotspot in that dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-title">nearly 50 scottish ufo reports 26105801</span><span class="citation-popover-snippet">nearly 50 scottish ufo reports 26105801</span></span></span>
 
 That wider context helps keep Ross-shire in proportion. The county is not invisible, but it is not a dominant hotspot in the accessible national record. Its entries are better understood as part of a distributed Highland and Scottish pattern: occasional lights, discs and orbs; limited official summaries; a mixture of sincere witness impressions and likely ordinary triggers; and very few cases that survive as strong unknowns once evidence standards are raised.
 
@@ -786,7 +786,7 @@ Ross-shire’s existing public record mostly sits in the middle: documented, int
 
 ## The balanced takeaway
 
-Ross-shire’s UFO history is best described as a small official paper trail rather than a major mystery tradition. The most concrete entries are the Tore report of a bright orange saucer-comet object in 1997, the repeated Ardross Venus-like light in 1999, the Evanton gold disc in 2000 and the Black Isle coloured orb in 2007. Each is worth preserving in a county-level UFO history, but each is also limited by the same problem: the public MoD summaries are too brief to decide much beyond “reported”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+Ross-shire’s UFO history is best described as a small official paper trail rather than a major mystery tradition. The most concrete entries are the Tore report of a bright orange saucer-comet object in 1997, the repeated Ardross Venus-like light in 1999, the Evanton gold disc in 2000 and the Black Isle coloured orb in 2007. Each is worth preserving in a county-level UFO history, but each is also limited by the same problem: the public MoD summaries are too brief to decide much beyond “reported”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mountains, aurora potential and military aviation background make unusual sky reports unsurprising. Some may remain unresolved in the narrow sense that the public record cannot identify them. But unresolved does not mean extraordinary, and nothing in the accessible Ross-shire material currently elevates these reports into a high-evidence UFO case.
 
@@ -794,194 +794,194 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
 <img src="{{ "/assets/images/Ross-shire_c9caea-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Ross shire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Ross-shire_c9caea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ross-shire_c9caea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Ross shire&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Ross shire&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official sightings and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official sightings and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ideal framework for evaluating scattered county UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal framework for evaluating scattered county UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores the broader significance of reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the broader significance of reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Supports deeper research into sighting histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports deeper research into sighting histories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-ross-shires-ufo-what-really-happened-in-ross-shire-s-ufo-reports-ross-sh-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -997,7 +997,7 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1017,7 +1017,7 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1049,7 +1049,7 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1101,7 +1101,7 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1146,7 +1146,7 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1187,265 +1187,265 @@ The strongest interpretation is cautious. Ross-shire’s dark skies, coasts, mou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Northern lights  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: Military low flying: air weapons ranges activity  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force RAF Lossiemouth | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metoffice.gov.uk  
    Title: how to see the northern lights uk september 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025</a>  
    Published: september 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/205116535" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/205116535</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/205116535" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/205116535</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Ross-shire  
-   Link: <a href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ross-shire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ross-shire</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rossandcromartyheritage.org  
-   Link: <a href="https://www.rossandcromartyheritage.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/</a>  
+   Link:<a href="https://www.rossandcromartyheritage.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rossandcromartyheritage.org  
    Title: Ross and Cromarty Heritage Local Government ⋆ Ross and Cromarty Heritage  
-   Link: <a href="https://www.rossandcromartyheritage.org/home/about-us/our-history/local-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/home/about-us/our-history/local-government/</a>  
+   Link:<a href="https://www.rossandcromartyheritage.org/home/about-us/our-history/local-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/home/about-us/our-history/local-government/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dailyrecord.co.uk  
    Title: nearly 50 scottish ufo reports 26105801  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/nearly-50-scottish-ufo-reports-26105801</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Ross shire  
-   Link: <a href="https://en.wikipedia.org/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross-shire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross-shire</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Tain Air Weapons Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Tain_Air_Weapons_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tain_Air_Weapons_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tain_Air_Weapons_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tain_Air_Weapons_Range</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Ross and Cromarty  
-   Link: <a href="https://en.wikipedia.org/wiki/Ross_and_Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross_and_Cromarty</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ross_and_Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross_and_Cromarty</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=30905" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30905</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=30905" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30905</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=27511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=27511</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=27511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=27511</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197693" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197693</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197693" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197693</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197779" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197779</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197779" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197779</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Ross-shire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Ross-shire&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Ross-shire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Ross-shire&amp;type=em</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: rossandcromartyheritage.org  
    Title: Rosemarkie A Village History  
-   Link: <a href="https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Rosemarkie-A-Village-History.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Rosemarkie-A-Village-History.pdf</a>  
+   Link:<a href="https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Rosemarkie-A-Village-History.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Rosemarkie-A-Village-History.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: rossandcromartyheritage.org  
-   Link: <a href="https://www.rossandcromartyheritage.org/wp-content/uploads/2023/11/Killearnan-The-story-of-a-Parish.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/wp-content/uploads/2023/11/Killearnan-The-story-of-a-Parish.pdf</a>  
+   Link:<a href="https://www.rossandcromartyheritage.org/wp-content/uploads/2023/11/Killearnan-The-story-of-a-Parish.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/wp-content/uploads/2023/11/Killearnan-The-story-of-a-Parish.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: tradeshouselibrary.org  
    Title: Ross-shire roll of honour  
-   Link: <a href="https://www.tradeshouselibrary.org/uploads/4/7/7/2/47723681/ross-shire_roll_of_honour_~__with_souters_ross-shire_directory__~_1915.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tradeshouselibrary.org/uploads/4/7/7/2/47723681/ross-shire_roll_of_honour_~__with_souters_ross-shire_directory__~_1915.pdf</a>  
+   Link:<a href="https://www.tradeshouselibrary.org/uploads/4/7/7/2/47723681/ross-shire_roll_of_honour_~__with_souters_ross-shire_directory__~_1915.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tradeshouselibrary.org/uploads/4/7/7/2/47723681/ross-shire_roll_of_honour_~__with_souters_ross-shire_directory__~_1915.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: archive.org  
    Title: rossshirerollofh1915sout djvu.txt  
-   Link: <a href="https://archive.org/stream/rossshirerollofh1915sout/rossshirerollofh1915sout_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/rossshirerollofh1915sout/rossshirerollofh1915sout_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/rossshirerollofh1915sout/rossshirerollofh1915sout_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/rossshirerollofh1915sout/rossshirerollofh1915sout_djvu.txt</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/rossshirerollofh1915sout/rossshirerollofh1915sout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/rossshirerollofh1915sout/rossshirerollofh1915sout.pdf</a>  
+   Link:<a href="https://archive.org/download/rossshirerollofh1915sout/rossshirerollofh1915sout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/rossshirerollofh1915sout/rossshirerollofh1915sout.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: dailyrecord.co.uk  
    Title: scottish ufo encounter became worlds 37253452  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/scottish-ufo-encounter-became-worlds-37253452" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/scottish-ufo-encounter-became-worlds-37253452</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/scottish-ufo-encounter-became-worlds-37253452" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/scottish-ufo-encounter-became-worlds-37253452</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: dailyrecord.co.uk  
    Title: full list ufo sightings scotland 29280825  
-   Link: <a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/scotland-now/full-list-ufo-sightings-scotland-29280825</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: dailyrecord.co.uk  
    Title: perth kinross residents left baffled 25101426  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/perth-kinross-residents-left-baffled-25101426" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/perth-kinross-residents-left-baffled-25101426</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/perth-kinross-residents-left-baffled-25101426" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/perth-kinross-residents-left-baffled-25101426</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: discoverhighlandsandislands.scot  
-   Link: <a href="https://discoverhighlandsandislands.scot/en/visitor/region/ross-and-cromarty" target="_blank" rel="noopener noreferrer nofollow">https://discoverhighlandsandislands.scot/en/visitor/region/ross-and-cromarty</a>  
+   Link:<a href="https://discoverhighlandsandislands.scot/en/visitor/region/ross-and-cromarty" target="_blank" rel="noopener noreferrer nofollow">https://discoverhighlandsandislands.scot/en/visitor/region/ross-and-cromarty</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: vexillology.fandom.com  
    Title: Ross shire  
-   Link: <a href="https://vexillology.fandom.com/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://vexillology.fandom.com/wiki/Ross-shire</a>  
+   Link:<a href="https://vexillology.fandom.com/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://vexillology.fandom.com/wiki/Ross-shire</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: flightsim.to  
    Title: Tain Air Weapons Range  
-   Link: <a href="https://flightsim.to/addon/61072/tain-air-weapons-range-tawr-uk" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/addon/61072/tain-air-weapons-range-tawr-uk</a>  
+   Link:<a href="https://flightsim.to/addon/61072/tain-air-weapons-range-tawr-uk" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/addon/61072/tain-air-weapons-range-tawr-uk</a>  
 
 ### Additional References
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Spectacular UFO Photo Ever Captured...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Spectacular UFO Photo Ever Captured...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Paranormal Patter • The Dechmont Woods UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Patter • The Dechmont Woods UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Patter • The Dechmont Woods UFO Incident...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
    Title: Investigating the UFO Capital of the World  
-   Link: <a href="https://www.youtube.com/watch?v=VlWYDukLGVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VlWYDukLGVc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VlWYDukLGVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VlWYDukLGVc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed It...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/</a>  
+   Link:<a href="https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLossiemouth/videos/lossiemouth-typhoons-practice-strafing-at-tain-air-weapons-range/1454707145252572/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: electricscotland.com  
-   Link: <a href="https://electricscotland.com/history/celtic/celtic_magazine_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electricscotland.com/history/celtic/celtic_magazine_3.pdf</a>  
+   Link:<a href="https://electricscotland.com/history/celtic/celtic_magazine_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electricscotland.com/history/celtic/celtic_magazine_3.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Ross-and-Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ross-and-Cromarty</a>  
+   Link:<a href="https://www.britannica.com/place/Ross-and-Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ross-and-Cromarty</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/in.ernet.dli.2015.530816/2015.530816.proceedings-of_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.530816/2015.530816.proceedings-of_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/in.ernet.dli.2015.530816/2015.530816.proceedings-of_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.530816/2015.530816.proceedings-of_djvu.txt</a>  

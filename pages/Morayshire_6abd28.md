@@ -118,9 +118,9 @@ heading_title: What Really Happened in Morayshire's UFO Stories?
 page_heading_title: What Really Happened in Morayshire's UFO Stories?
 source_count: 229
 infographic_count: 3
-page_website_name: Morayshire UFOs
+page_website_name: Morayshire
 page_banner_line: Balanced local UFO history from Lossiemouth legends to RAF skies.
-site_website_name: Morayshire UFOs
+site_website_name: Morayshire
 site_banner_line: Balanced local UFO history from Lossiemouth legends to RAF skies.
 site_image_description: A quiet Moray Firth coastline at dusk with distant aircraft lights above fields near Lossiemouth.
 output_language: English
@@ -689,19 +689,19 @@ image: /assets/images/Morayshire_6abd28-overview-social.jpg
 
 ## Which Morayshire is being used here?
 
-This page uses Morayshire in the historic-county sense: the county of Moray, formerly also known as Elginshire, on the south coast of the Moray Firth, with Elgin as its county town. Wikishire describes it as lying between Nairnshire to the west and Banffshire to the east, with Inverness-shire inland to the south; the Historic Counties Trust similarly places Morayshire on the south coast of the Moray Firth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page uses Morayshire in the historic-county sense: the county of Moray, formerly also known as Elginshire, on the south coast of the Moray Firth, with Elgin as its county town. Wikishire describes it as lying between Nairnshire to the west and Banffshire to the east, with Inverness-shire inland to the south; the Historic Counties Trust similarly places Morayshire on the south coast of the Moray Firth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Morayshire_6abd28-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Morayshire&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-That historic geography does not exactly match the modern Moray council area. Britannica notes that most of historic Moray lies within the present council area, but that the southern part of the historic county, including Grantown-on-Spey, is now in Highland, while the modern Moray council area also contains much of historic Banffshire. That matters for UFO research because sightings are often reported under shifting labels such as Moray, Morayshire, Elgin, Lossiemouth, Spey Bay, Kinloss or the wider Highlands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Moray-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Moray &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Moray &#124; Scotland, Map, History, &amp; Facts</span></span></span>
+That historic geography does not exactly match the modern Moray council area. Britannica notes that most of historic Moray lies within the present council area, but that the southern part of the historic county, including Grantown-on-Spey, is now in Highland, while the modern Moray council area also contains much of historic Banffshire. That matters for UFO research because sightings are often reported under shifting labels such as Moray, Morayshire, Elgin, Lossiemouth, Spey Bay, Kinloss or the wider Highlands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Moray-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Moray &#124; Scotland, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Moray &#124; Scotland, Map, History, &amp; Facts</span></span></span>
 
 ## The two local stories readers usually find first
 
 ### The 1954 Lossiemouth “Martian” claim
 
-The most famous Morayshire-adjacent UFO tale is Cedric Allingham’s 1954 claim that, while on a caravan holiday near Lossiemouth, he saw a flying saucer and communicated with a Martian occupant. The story appeared in *Flying Saucer from Mars* and fitted the early-1950s “contactee” fashion, in which human-looking visitors from nearby planets were claimed to be landing and speaking to selected witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+The most famous Morayshire-adjacent UFO tale is Cedric Allingham’s 1954 claim that, while on a caravan holiday near Lossiemouth, he saw a flying saucer and communicated with a Martian occupant. The story appeared in *Flying Saucer from Mars* and fitted the early-1950s “contactee” fashion, in which human-looking visitors from nearby planets were claimed to be landing and speaking to selected witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
-The problem is that the case has not aged well. Magonia’s later investigation argued that “Cedric Allingham” was not a traceable ordinary witness but part of an elaborate literary hoax, with Peter Davies and possibly Patrick Moore implicated in its creation. The claim is therefore best treated not as a Morayshire landing case, but as a historically important British UFO hoax using Lossiemouth as its dramatic setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+The problem is that the case has not aged well. Magonia’s later investigation argued that “Cedric Allingham” was not a traceable ordinary witness but part of an elaborate literary hoax, with Peter Davies and possibly Patrick Moore implicated in its creation. The claim is therefore best treated not as a Morayshire landing case, but as a historically important British UFO hoax using Lossiemouth as its dramatic setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
 Its value for a Morayshire page is still real. It shows how the area’s coast, open skies and relative remoteness could be used to make a saucer story feel plausible to readers far beyond Scotland. It also shows why location alone is not evidence: a vivid setting can help a weak story travel.
 
@@ -709,53 +709,53 @@ Its value for a Morayshire page is still real. It shows how the area’s coast, 
 <img src="{{ "/assets/images/Morayshire_6abd28-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Morayshire&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Morayshire_6abd28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morayshire_6abd28-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The 1977 New Elgin “entity” report
 
-The strongest local case in UFO literature is the New Elgin report of 18 May 1977. A widely circulated catalogue entry says two ten-year-old girls, Karen McLennan and Fiona Morrison, were playing near an old disused railway track when they heard a humming sound, went towards a wooded area, and saw a metallic cylindrical object with a small dome, a red light and a red band. Beside it, they reportedly saw a tall, thin, silver-clad figure; when it moved towards them, they ran away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://intcat.blogspot.com/2012/11/1977-jan-june.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[Intcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">1977 jan june</span><span class="citation-popover-snippet">1977 jan june</span></span></span>
+The strongest local case in UFO literature is the New Elgin report of 18 May 1977. A widely circulated catalogue entry says two ten-year-old girls, Karen McLennan and Fiona Morrison, were playing near an old disused railway track when they heard a humming sound, went towards a wooded area, and saw a metallic cylindrical object with a small dome, a red light and a red band. Beside it, they reportedly saw a tall, thin, silver-clad figure; when it moved towards them, they ran away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://intcat.blogspot.com/2012/11/1977-jan-june.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[Intcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">1977 jan june</span><span class="citation-popover-snippet">1977 jan june</span></span></span>
 
-Jenny Randles’ *Flying Saucer Review* article, visible in the surviving scan, gives the flavour of the original investigation. It says the girls were around 400 yards from the object, that the object seemed to hover just above the ground, and that their mothers and at least one neighbour heard an unusual humming noise. It also records that the police were contacted, that no clear cause was found, and that the next day a circular area of minor tree damage was examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">Ignacio Darnaude Rojas-Marcos</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos</span></span></span>
+Jenny Randles’ *Flying Saucer Review* article, visible in the surviving scan, gives the flavour of the original investigation. It says the girls were around 400 yards from the object, that the object seemed to hover just above the ground, and that their mothers and at least one neighbour heard an unusual humming noise. It also records that the police were contacted, that no clear cause was found, and that the next day a circular area of minor tree damage was examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">Ignacio Darnaude Rojas-Marcos</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos</span></span></span>
 
-The case has features that make it memorable: child witnesses, an alleged sound heard by adults, a reported ground-area inspection, police involvement, and a “humanoid” element. It also has features that weaken it: the main observation was brief, the witnesses were young, distance estimates were uncertain, physical samples were reportedly lost, and later retellings depend heavily on UFO literature rather than on easily accessible police or local archive files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">Ignacio Darnaude Rojas-Marcos</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos</span></span></span>
+The case has features that make it memorable: child witnesses, an alleged sound heard by adults, a reported ground-area inspection, police involvement, and a “humanoid” element. It also has features that weaken it: the main observation was brief, the witnesses were young, distance estimates were uncertain, physical samples were reportedly lost, and later retellings depend heavily on UFO literature rather than on easily accessible police or local archive files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">Ignacio Darnaude Rojas-Marcos</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fuCnwkGv_cg" title="The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer">The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)</a></p><p class="youtube-embed-meta">Channel: Liath Wolf &middot; Views: 9.9K &middot; Uploaded: January 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fuCnwkGv_cg">Open on YouTube</a></p></div></div></div>
 
 ## What the official records add — and what they do not
 
-The Ministry of Defence’s public UFO report page covers sightings logged from 1997 to 2009, with dates, times, locations and short descriptions. The entries are not case files proving extraordinary events; they are administrative sighting records, often just a line or two long. For Morayshire, that distinction is essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Ministry of Defence’s public UFO report page covers sightings logged from 1997 to 2009, with dates, times, locations and short descriptions. The entries are not case files proving extraordinary events; they are administrative sighting records, often just a line or two long. For Morayshire, that distinction is essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The 1997 MoD report includes two Morayshire entries: on 24 January 1997 at Spey Bay Beach/Moray, a witness reported a large semi-circular, blood-red-orange object that was stationary and then moved off; on 18 March 1997 at Elgin, the entry describes three lights followed by a blue flash about 500 feet up. These are useful because they show the county appearing in official logs, but they are too brief to carry much evidential weight on their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The 1997 MoD report includes two Morayshire entries: on 24 January 1997 at Spey Bay Beach/Moray, a witness reported a large semi-circular, blood-red-orange object that was stationary and then moved off; on 18 March 1997 at Elgin, the entry describes three lights followed by a blue flash about 500 feet up. These are useful because they show the county appearing in official logs, but they are too brief to carry much evidential weight on their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-Later entries show the same pattern of short, unresolved-looking but under-described observations. In 1999, the MoD list records an Elgin/Moray sighting of a balloon-shaped object with a bright white glow, moving slowly and then remaining stationary. A 1998 summary also places Elgin in Morayshire among that year’s reported sightings, but the available snippet gives little detail beyond the location and date context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Later entries show the same pattern of short, unresolved-looking but under-described observations. In 1999, the MoD list records an Elgin/Moray sighting of a balloon-shaped object with a bright white glow, moving slowly and then remaining stationary. A 1998 summary also places Elgin in Morayshire among that year’s reported sightings, but the available snippet gives little detail beyond the location and date context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The absence of long official narratives should not be overread. The National Archives explains that surviving UK UFO records include policy papers, Parliamentary business, public correspondence and sighting reports, and the MoD’s published lists were designed as simple report summaries. A thin official entry may mean a sighting was weakly recorded, not that it was secretly solved or secretly significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The absence of long official narratives should not be overread. The National Archives explains that surviving UK UFO records include policy papers, Parliamentary business, public correspondence and sighting reports, and the MoD’s published lists were designed as simple report summaries. A thin official entry may mean a sighting was weakly recorded, not that it was secretly solved or secretly significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Morayshire_6abd28-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Morayshire&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Morayshire_6abd28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morayshire_6abd28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Morayshire’s skies invite misidentification
 
-Morayshire has one of the strongest aviation contexts of any Scottish historic county. RAF Lossiemouth is in Moray and is one of the RAF’s two Quick Reaction Alert stations protecting UK airspace. The RAF says the station includes four Typhoon squadrons, three Poseidon MRA1 squadrons, an RAF Regiment squadron and a Royal Auxiliary Air Force Regiment reserve squadron. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+Morayshire has one of the strongest aviation contexts of any Scottish historic county. RAF Lossiemouth is in Moray and is one of the RAF’s two Quick Reaction Alert stations protecting UK airspace. The RAF says the station includes four Typhoon squadrons, three Poseidon MRA1 squadrons, an RAF Regiment squadron and a Royal Auxiliary Air Force Regiment reserve squadron.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-That does not explain every odd light or reported object, but it changes the baseline. In a county with fast jets, maritime patrol aircraft, exercises, coastal flight paths and public awareness of military activity, witnesses may see real aircraft under unusual lighting, distance or sound conditions. Conversely, genuine military activity can make a mundane sighting feel more mysterious because people already associate the area with defence secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+That does not explain every odd light or reported object, but it changes the baseline. In a county with fast jets, maritime patrol aircraft, exercises, coastal flight paths and public awareness of military activity, witnesses may see real aircraft under unusual lighting, distance or sound conditions. Conversely, genuine military activity can make a mundane sighting feel more mysterious because people already associate the area with defence secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-The former RAF Kinloss also matters historically. In the Howden Moor incident outside Morayshire, police and mountain rescue were in contact with RAF Kinloss because it functioned as an Air Sea Rescue Co-ordination Centre. That example shows how Morayshire-based RAF infrastructure could appear in UFO-related investigations elsewhere, even when the sighting itself was not in the county. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/howden-moor-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Howden Moor incident</span><span class="citation-popover-snippet">Howden Moor incident</span></span></span>
+The former RAF Kinloss also matters historically. In the Howden Moor incident outside Morayshire, police and mountain rescue were in contact with RAF Kinloss because it functioned as an Air Sea Rescue Co-ordination Centre. That example shows how Morayshire-based RAF infrastructure could appear in UFO-related investigations elsewhere, even when the sighting itself was not in the county.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/howden-moor-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Howden Moor incident</span><span class="citation-popover-snippet">Howden Moor incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-fLS_7SVDZI" title="The Morayshire Marauder | Children Observe UFOnaut | Retro Alien Encounter | Scottish UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-fLS_7SVDZI" target="_blank" rel="noopener noreferrer">The Morayshire Marauder | Children Observe UFOnaut | Retro Alien Encounter | Scottish UFO Sighting</a></p><p class="youtube-embed-meta">Channel: JustAnotherTinFoilHat</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-fLS_7SVDZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-fLS_7SVDZI">Open on YouTube</a></p></div></div></div>
 
 ## How sceptical explanations fit the Morayshire material
 
-For the Morayshire cases, the most likely explanations differ by case. The Allingham story is best filed as a hoax or literary prank rather than a misidentification. The late-1990s MoD entries are too short for confident explanation, but their descriptions — lights, bright glows, slow movement, stationary objects, flashes — sit comfortably among common UFO-reporting triggers such as aircraft lights, astronomical objects, meteors, balloons, lanterns, flares or atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+For the Morayshire cases, the most likely explanations differ by case. The Allingham story is best filed as a hoax or literary prank rather than a misidentification. The late-1990s MoD entries are too short for confident explanation, but their descriptions — lights, bright glows, slow movement, stationary objects, flashes — sit comfortably among common UFO-reporting triggers such as aircraft lights, astronomical objects, meteors, balloons, lanterns, flares or atmospheric effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
-The New Elgin case is harder to tidy away because it includes a reported figure and a sound allegedly heard by others. Even so, the evidential chain is fragile. The details come mainly through UFO investigators and later catalogues, not through a public police file or a well-preserved official investigation bundle. The alleged tree damage and lost samples are intriguing but not independently decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">Ignacio Darnaude Rojas-Marcos</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos</span></span></span>
+The New Elgin case is harder to tidy away because it includes a reported figure and a sound allegedly heard by others. Even so, the evidential chain is fragile. The details come mainly through UFO investigators and later catalogues, not through a public police file or a well-preserved official investigation bundle. The alleged tree damage and lost samples are intriguing but not independently decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">Ignacio Darnaude Rojas-Marcos</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos</span></span></span>
 
-The wider UK official position also argues against treating unresolved reports as evidence of alien craft. In 2024, the government stated that the MoD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had no plans for a dedicated investigation team. Earlier, the MoD’s Project Condign study treated many UAP reports as misidentifications or natural phenomena rather than evidence of hostile or controlled craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The wider UK official position also argues against treating unresolved reports as evidence of alien craft. In 2024, the government stated that the MoD ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, and had no plans for a dedicated investigation team. Earlier, the MoD’s Project Condign study treated many UAP reports as misidentifications or natural phenomena rather than evidence of hostile or controlled craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Morayshire_6abd28-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Morayshire&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Morayshire_6abd28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morayshire_6abd28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes Morayshire worth including in a UK UFO county map?
 
-Morayshire earns its place because it contains several different kinds of UFO history in a compact area. It has a classic early-contactee hoax at Lossiemouth, a 1970s close-encounter story at New Elgin, official late-1990s MoD sighting entries at Spey Bay and Elgin, and a serious military-aviation setting around Lossiemouth and Kinloss. That mixture is more useful than a simple “hotspot” label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Royal Air Force+3Magonia Magazine+3Intcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+Morayshire earns its place because it contains several different kinds of UFO history in a compact area. It has a classic early-contactee hoax at Lossiemouth, a 1970s close-encounter story at New Elgin, official late-1990s MoD sighting entries at Spey Bay and Elgin, and a serious military-aviation setting around Lossiemouth and Kinloss. That mixture is more useful than a simple “hotspot” label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
-The most balanced reading is that Morayshire has produced some memorable UFO narratives, but not a robust body of public evidence pointing to an extraordinary cause. The strongest documented material supports a cautious local history: sightings were reported, some were logged, one close-encounter claim became part of UFO literature, and at least one dramatic Lossiemouth story was later undermined by hoax research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The most balanced reading is that Morayshire has produced some memorable UFO narratives, but not a robust body of public evidence pointing to an extraordinary cause. The strongest documented material supports a cautious local history: sightings were reported, some were logged, one close-encounter claim became part of UFO literature, and at least one dramatic Lossiemouth story was later undermined by hoax research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 For readers comparing UK counties, Morayshire should be linked naturally with neighbouring and aviation-connected areas: Banffshire and Nairnshire for boundary-sensitive local reports, the Highlands for wider northern-Scotland sightings, Perthshire for the much better-known Calvine photograph, and Scottish RAF-linked cases where radar, aircraft or rescue coordination changed how a report was handled. Morayshire’s lesson is not that the county hides an answer, but that local UFO history often sits at the boundary between witness experience, official paperwork, media storytelling and later sceptical reconstruction.
 
@@ -764,194 +764,194 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Morayshire&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Morayshire&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a county-level survey of sightings, official logs, and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a county-level survey of sightings, official logs, and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating varied reports from different eras and evidence levels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating varied reports from different eras and evidence levels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides modern context for official sightings and aviation-linked reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern context for official sightings and aviation-linked reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Relevant to hoaxes, folklore, and witness interpretation issues discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to hoaxes, folklore, and witness interpretation issues discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="what-really-happened-in-morayshires-ufo-what-really-happened-in-morayshire-s-ufo-stories-moraysh-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-morayshire-s-ufo-stories-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -967,7 +967,7 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -987,7 +987,7 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1019,7 +1019,7 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1071,7 +1071,7 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1116,7 +1116,7 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1157,369 +1157,369 @@ For readers comparing UK counties, Morayshire should be linked naturally with ne
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Moray | Scotland, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/Moray-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Moray-council-area-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Moray-council-area-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Moray-council-area-Scotland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/moray-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/moray-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/moray-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/moray-county</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ignaciodarnaude.es  
    Title: Ignacio Darnaude Rojas-Marcos  
-   Link: <a href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf</a>  
+   Link:<a href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2025/08/RandlesHumanoid-1977ScotlandFSR77V23N4.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
+   Link:<a href="https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/overview/quick-reaction-alert/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drdavidclarke.co.uk  
    Title: Howden Moor incident  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/howden-moor-incident/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/howden-moor-incident/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/howden-moor-incident/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/howden-moor-incident/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7adfa4e5274a34770e7b60/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7adfa4e5274a34770e7b60/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7adfa4e5274a34770e7b60/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7adfa4e5274a34770e7b60/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
    Title: mod ps guide to information nov09  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a756850ed915d7314959b98/mod_ps_guide_to_information_nov09.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/685284/Jacky_Environmental_Impact_Assessment.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78b27ced915d07d35b1b7a/reqjul11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78b27ced915d07d35b1b7a/reqjul11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78b27ced915d07d35b1b7a/reqjul11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78b27ced915d07d35b1b7a/reqjul11.csv</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e08f4ed915d74e6223ae8/ReqAug2012.csv</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a795f38ed915d0422067e25/reqfeb11.csv</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 0850 i  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cada5e5274a2f304ef6bf/0850_i.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 15 07 275 Sanctuary Magazine FINAL lowres  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20161003 Delivery Plan 2016 17 Apr 16 to Sep 16 For Spring RTR  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19770515/1977_05_15_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19770515/1977_05_15_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/dailycolonist19770515/1977_05_15_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19770515/1977_05_15_djvu.txt</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/CreepyStories/MysteriousCreatures-AGuideToCryptozoology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CreepyStories/MysteriousCreatures-AGuideToCryptozoology_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CreepyStories/MysteriousCreatures-AGuideToCryptozoology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CreepyStories/MysteriousCreatures-AGuideToCryptozoology_djvu.txt</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archive.org  
    Title: Apr 23 1990, The Times, #63687, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/NewsUK1990UKEnglish/Apr%2023%201990%2C%20The%20Times%2C%20%2363687%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1990UKEnglish/Apr%2023%201990%2C%20The%20Times%2C%20%2363687%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewsUK1990UKEnglish/Apr%2023%201990%2C%20The%20Times%2C%20%2363687%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1990UKEnglish/Apr%2023%201990%2C%20The%20Times%2C%20%2363687%2C%20UK%20%28en%29_djvu.txt</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archive.org  
    Title: 396200 defe 24 1985 1 djvu.txt  
-   Link: <a href="https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
+   Link:<a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: edm.parliament.uk  
-   Link: <a href="https://edm.parliament.uk/early-day-motion/15776/aeronautical-rescue-coordination-centre-raf-kinloss" target="_blank" rel="noopener noreferrer nofollow">https://edm.parliament.uk/early-day-motion/15776/aeronautical-rescue-coordination-centre-raf-kinloss</a>  
+   Link:<a href="https://edm.parliament.uk/early-day-motion/15776/aeronautical-rescue-coordination-centre-raf-kinloss" target="_blank" rel="noopener noreferrer nofollow">https://edm.parliament.uk/early-day-motion/15776/aeronautical-rescue-coordination-centre-raf-kinloss</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: drdavidclarke.co.uk  
    Title: ndign report  
-   Link: <a href="https://drdavidclarke.co.uk/tag/condign-report/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/condign-report/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/tag/condign-report/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/condign-report/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lossiemouth</a>  
+   Link:<a href="https://www.britannica.com/place/Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lossiemouth</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: raf.mod.uk  
    Title: 26 000 lives and counting the rafs search and rescue legacy  
-   Link: <a href="https://www.raf.mod.uk/news/articles/26-000-lives-and-counting-the-rafs-search-and-rescue-legacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/26-000-lives-and-counting-the-rafs-search-and-rescue-legacy/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/26-000-lives-and-counting-the-rafs-search-and-rescue-legacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/26-000-lives-and-counting-the-rafs-search-and-rescue-legacy/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: lossiemouth.org  
    Title: spotters day out  
-   Link: <a href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/" target="_blank" rel="noopener noreferrer nofollow">https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/</a>  
+   Link:<a href="https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/" target="_blank" rel="noopener noreferrer nofollow">https://www.lossiemouth.org/inspire/itineraries/a-fine-day-out/spotters-day-out/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: register-of-charities.charitycommission.gov.uk  
    Title: charitycommission.gov.uk TH E HISTORIC COUNTIES TRUST  
-   Link: <a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/what-who-how-where" target="_blank" rel="noopener noreferrer nofollow">https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/what-who-how-where</a>  
+   Link:<a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/what-who-how-where" target="_blank" rel="noopener noreferrer nofollow">https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4019174/what-who-how-where</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-moray/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-moray/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-moray/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-moray/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: her.aberdeenshire.gov.uk  
-   Link: <a href="https://her.aberdeenshire.gov.uk/Monument/MAB6580" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB6580</a>  
+   Link:<a href="https://her.aberdeenshire.gov.uk/Monument/MAB6580" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB6580</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: GOV.UK  
    Title: first secretary salutes raf lossiemouth contribution to uk defence  
-   Link: <a href="https://www.gov.uk/government/news/first-secretary-salutes-raf-lossiemouth-contribution-to-uk-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/first-secretary-salutes-raf-lossiemouth-contribution-to-uk-defence</a>  
+   Link:<a href="https://www.gov.uk/government/news/first-secretary-salutes-raf-lossiemouth-contribution-to-uk-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/first-secretary-salutes-raf-lossiemouth-contribution-to-uk-defence</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk TH E HISTORIC COUNTIES TRUST people  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/05439118/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/05439118/officers</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/05439118/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/05439118/officers</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/10/allingham.html</a>  
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/10/allingham.html</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: intcat.blogspot.com  
    Title: 1977 jan june  
-   Link: <a href="https://intcat.blogspot.com/2012/11/1977-jan-june.html" target="_blank" rel="noopener noreferrer nofollow">https://intcat.blogspot.com/2012/11/1977-jan-june.html</a>  
+   Link:<a href="https://intcat.blogspot.com/2012/11/1977-jan-june.html" target="_blank" rel="noopener noreferrer nofollow">https://intcat.blogspot.com/2012/11/1977-jan-june.html</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Morayshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Morayshire</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: Wikipedia  
    Title: County of Moray  
-   Link: <a href="https://en.wikipedia.org/wiki/County_of_Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_of_Moray</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_of_Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_of_Moray</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moray</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Moray" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moray</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: Wikipedia  
    Title: RAF Kinloss  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Kinloss" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Kinloss</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Kinloss" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Kinloss</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: Wikipedia  
    Title: RAF Lossiemouth  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lossiemouth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Lossiemouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Lossiemouth</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: Wikipedia  
    Title: Quick Reaction Alert  
-   Link: <a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: <a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalairforce/posts/royal-air-force-quick-reaction-alert-qra-typhoons-at-raf-lossiemouth-and-raf-con/10158232268859885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforce/posts/royal-air-force-quick-reaction-alert-qra-typhoons-at-raf-lossiemouth-and-raf-con/10158232268859885/</a>  
+   Link:<a href="https://www.facebook.com/royalairforce/posts/royal-air-force-quick-reaction-alert-qra-typhoons-at-raf-lossiemouth-and-raf-con/10158232268859885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforce/posts/royal-air-force-quick-reaction-alert-qra-typhoons-at-raf-lossiemouth-and-raf-con/10158232268859885/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: thefourprop.com  
    Title: raf kinloss  
-   Link: <a href="https://thefourprop.com/blogs/the-briefing/raf-kinloss" target="_blank" rel="noopener noreferrer nofollow">https://thefourprop.com/blogs/the-briefing/raf-kinloss</a>  
+   Link:<a href="https://thefourprop.com/blogs/the-briefing/raf-kinloss" target="_blank" rel="noopener noreferrer nofollow">https://thefourprop.com/blogs/the-briefing/raf-kinloss</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/morayshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/morayshire/</a>  
+   Link:<a href="https://realcounties.com/county/morayshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/morayshire/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: vexillology.fandom.com  
-   Link: <a href="https://vexillology.fandom.com/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://vexillology.fandom.com/wiki/Morayshire</a>  
+   Link:<a href="https://vexillology.fandom.com/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://vexillology.fandom.com/wiki/Morayshire</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Talk%3AMorayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Talk%3AMorayshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Talk%3AMorayshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Talk%3AMorayshire</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/Morayshire</a>  
+   Link:<a href="https://en.wiktionary.org/wiki/Morayshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/Morayshire</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Elginshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Elginshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Elginshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Elginshire</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=27511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=27511</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=27511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=27511</a>  
 
 ### Additional References
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fuCnwkGv_cg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fuCnwkGv_cg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)...</p></details>
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: youtube.com  
    Title: End of an era for RAF Kinloss 26.07.12  
-   Link: <a href="https://www.youtube.com/watch?v=nLrOSU-qdPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nLrOSU-qdPg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Lossiemouth 1993 – Ultra‑Rare Hi8 Footage Remastered Lost Tapes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nLrOSU-qdPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nLrOSU-qdPg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Lossiemouth 1993 – Ultra‑Rare Hi8 Footage Remastered Lost Tapes...</p></details>
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYK-iNOPsjL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYK-iNOPsjL/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYK-iNOPsjL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYK-iNOPsjL/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/aliens-could-attack-at-any-time-warns-former-mod-chief-7255304.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/aliens-could-attack-at-any-time-warns-former-mod-chief-7255304.html</a>  
+   Link:<a href="https://www.standard.co.uk/hp/front/aliens-could-attack-at-any-time-warns-former-mod-chief-7255304.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/aliens-could-attack-at-any-time-warns-former-mod-chief-7255304.html</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/BuIrB8ZBytK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/BuIrB8ZBytK/</a>  
+   Link:<a href="https://www.instagram.com/p/BuIrB8ZBytK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/BuIrB8ZBytK/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/stvnews/videos/bomb-squads-were-called-to-an-raf-base-in-moray-after-a-suspicious-package-was-f/2424560131321497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stvnews/videos/bomb-squads-were-called-to-an-raf-base-in-moray-after-a-suspicious-package-was-f/2424560131321497/</a>  
+   Link:<a href="https://www.facebook.com/stvnews/videos/bomb-squads-were-called-to-an-raf-base-in-moray-after-a-suspicious-package-was-f/2424560131321497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stvnews/videos/bomb-squads-were-called-to-an-raf-base-in-moray-after-a-suspicious-package-was-f/2424560131321497/</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61577139088608/posts/cedric-allingham-with-his-telescopeor-is-itin-1954-a-mysterious-british-author-n/122177763776904636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61577139088608/posts/cedric-allingham-with-his-telescopeor-is-itin-1954-a-mysterious-british-author-n/122177763776904636/</a>  
+   Link:<a href="https://www.facebook.com/61577139088608/posts/cedric-allingham-with-his-telescopeor-is-itin-1954-a-mysterious-british-author-n/122177763776904636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61577139088608/posts/cedric-allingham-with-his-telescopeor-is-itin-1954-a-mysterious-british-author-n/122177763776904636/</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-8.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-8.pdf</a>  

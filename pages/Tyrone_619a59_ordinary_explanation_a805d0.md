@@ -252,16 +252,16 @@ Many reports of moving lights over [Tyrone]({{ 'what-did-people-see-over-tyrone/
 
 
 <img src="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-overview.webp" | relative_url }}" alt="Overview image for Explanations" loading="eager" decoding="sync" fetchpriority="high">
-This matters because one of the clearest modern Tyrone-area reports is exactly the kind that invites ordinary checks: a caller in the [Stewartstown]({{ 'stewartstown/' | relative_url }}) area of Dungannon reportedly told police in October 2022 that a UFO was seen flying from the Belfast direction to Dungannon every evening. The public PSNI-linked reporting records the report and says no further police action was required, but it does not provide photographs, bearings, flight-track checks, astronomical checks, or independent witness statements. That makes it a useful case study in how Tyrone moving-light reports should be tested before being folded into UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
+This matters because one of the clearest modern Tyrone-area reports is exactly the kind that invites ordinary checks: a caller in the [Stewartstown]({{ 'stewartstown/' | relative_url }}) area of Dungannon reportedly told police in October 2022 that a UFO was seen flying from the Belfast direction to Dungannon every evening. The public PSNI-linked reporting records the report and says no further police action was required, but it does not provide photographs, bearings, flight-track checks, astronomical checks, or independent witness statements. That makes it a useful case study in how Tyrone moving-light reports should be tested before being folded into UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">significant fall in ufo sightings in northern ireland in last two years</span><span class="citation-popover-snippet">significant fall in ufo sightings in northern ireland in last two years</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
 ## Why Tyrone’s Moving Lights Need a Grounded First Pass
 
-Tyrone is being treated here in the historic-county sense used by the wider project’s county map. That is important because the sky over Tyrone is not boxed in by modern council lines. A light seen from Dungannon, Stewartstown, Omagh, Clogher or the Sperrins may be moving along an air route, crossing from another county, approaching or leaving Belfast-area airspace, or passing high overhead as a satellite. The project’s canonical mapping frame follows historic counties, while modern aviation, policing and weather evidence often works across wider Northern Ireland systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+Tyrone is being treated here in the historic-county sense used by the wider project’s county map. That is important because the sky over Tyrone is not boxed in by modern council lines. A light seen from Dungannon, Stewartstown, Omagh, Clogher or the Sperrins may be moving along an air route, crossing from another county, approaching or leaving Belfast-area airspace, or passing high overhead as a satellite. The project’s canonical mapping frame follows historic counties, while modern aviation, policing and weather evidence often works across wider Northern Ireland systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
-The public record for Tyrone UFO reports is also thin. Recent PSNI Freedom of Information material confirms that Northern Ireland police record some UFO or unexplained-sighting calls, but most entries are brief caller logs rather than investigations. A 2025 PSNI response also said a broad ten-year UFO/UAP request would exceed the FOI cost limit because retrieval would require manual work across relevant incidents. That is a records problem, not proof of mystery: it means many entries are too summary-level to decide much from them unless a report contains time, direction, duration, photographs, corroboration and environmental checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span>
+The public record for Tyrone UFO reports is also thin. Recent PSNI Freedom of Information material confirms that Northern Ireland police record some UFO or unexplained-sighting calls, but most entries are brief caller logs rather than investigations. A 2025 PSNI response also said a broad ten-year UFO/UAP request would exceed the FOI cost limit because retrieval would require manual work across relevant incidents. That is a records problem, not proof of mystery: it means many entries are too summary-level to decide much from them unless a report contains time, direction, duration, photographs, corroboration and environmental checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span>
 
 The Stewartstown/Dungannon report is especially vulnerable to mundane explanations because it was described as recurring “every evening” and travelling from the Belfast direction. Repetition is sometimes treated by witnesses as making a sighting stranger, but for investigators it can point the other way. Scheduled flights, routine drone operations, bright planets returning to the same part of the twilight sky, and satellites passing in predictable windows can all repeat. A genuinely anomalous object might also repeat, but the ordinary repeaters have to be ruled out first.
 
@@ -269,11 +269,11 @@ The Stewartstown/Dungannon report is especially vulnerable to mundane explanatio
 <img src="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Belfast-Direction Aircraft Checks
 
-For a Tyrone witness, “from the Belfast direction” is a practical clue. Belfast International Airport and Belfast City Airport generate regular aircraft movements, and Belfast-area controlled airspace is formally complex. A Civil Aviation Authority document on the Belfast Terminal Manoeuvring Area described the airspace around Belfast as a patchwork of control zones, control areas and air traffic service routes, while Belfast International’s own flight information pages emphasise live arrivals and departures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/xzshdu1v/belfast-airspace-change-proposal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">belfast airspace change proposal</span><span class="citation-popover-snippet">belfast airspace change proposal</span></span></span>
+For a Tyrone witness, “from the Belfast direction” is a practical clue. Belfast International Airport and Belfast City Airport generate regular aircraft movements, and Belfast-area controlled airspace is formally complex. A Civil Aviation Authority document on the Belfast Terminal Manoeuvring Area described the airspace around Belfast as a patchwork of control zones, control areas and air traffic service routes, while Belfast International’s own flight information pages emphasise live arrivals and departures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/xzshdu1v/belfast-airspace-change-proposal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">belfast airspace change proposal</span><span class="citation-popover-snippet">belfast airspace change proposal</span></span></span>
 
 That does not mean every light seen from Tyrone is an aircraft. It means an aircraft check is one of the first things to do. From the ground, a distant plane can look like a steady white or coloured light, can appear to hover when it is flying nearly towards the observer, and can seem to “turn into” red, green or flashing lights as its angle changes. A plane on approach, climb-out, or a crossing route can also look silent at distance, especially if wind direction, terrain and background noise make engine sound faint or delayed.
 
-The public PSNI examples from 2024 show why this matters. A Belfast caller reported an object with a vapour trail, green and red flashing lights, and a path over the house towards the docks; another Bangor caller described something that began like a bright star, disappeared, reappeared red and green, and then flew across the sky like a plane. Those records are not Tyrone cases, but they illustrate the same interpretive trap relevant to Tyrone: aircraft-like details often appear inside reports initially labelled as UFO or unexplained sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+The public PSNI examples from 2024 show why this matters. A Belfast caller reported an object with a vapour trail, green and red flashing lights, and a path over the house towards the docks; another Bangor caller described something that began like a bright star, disappeared, reappeared red and green, and then flew across the sky like a plane. Those records are not Tyrone cases, but they illustrate the same interpretive trap relevant to Tyrone: aircraft-like details often appear inside reports initially labelled as UFO or unexplained sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
 For the Stewartstown/Dungannon report, the aircraft question would be simple in principle but hard to answer from the public summary alone. A useful check would ask: what exact evenings were involved, what time was the light seen, what direction and elevation did it first appear at, did it flash, did it show red or green navigation lights, did it move steadily, and did any Belfast International, Belfast City, military, police or medical flight match the line of sight? Without those details, “unexplained” mainly means “not yet checked in public”, not “beyond ordinary explanation”.
 
@@ -284,27 +284,27 @@ For the Stewartstown/Dungannon report, the aircraft question would be simple in 
 
 Satellites are now one of the most important ordinary explanations for moving lights over rural or semi-rural parts of the UK. Tyrone has enough darker-sky areas, especially away from town centres, for satellites to be more noticeable than they would be in bright urban streets. A satellite can look like a steady white star that moves silently across the sky and then fades as it enters Earth’s shadow. To an observer who does not regularly watch satellites, that can feel much stranger than it is.
 
-Starlink has made this problem sharper. Newly launched Starlink satellites can appear as a line or “train” of bright moving points, particularly shortly after launch and around twilight, before they spread out into their operational orbits. Space.com’s current explainer notes that Starlink trains are often mistaken for UFOs and are best seen shortly after sunset or before sunrise because the satellites can still reflect sunlight while the ground below is dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
+Starlink has made this problem sharper. Newly launched Starlink satellites can appear as a line or “train” of bright moving points, particularly shortly after launch and around twilight, before they spread out into their operational orbits. Space.com’s current explainer notes that Starlink trains are often mistaken for UFOs and are best seen shortly after sunset or before sunrise because the satellites can still reflect sunlight while the ground below is dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
 
 This is directly relevant to Tyrone because a Starlink train does not need a local launch, local base or local event to be seen. It can cross the whole sky above Northern Ireland in minutes. A person in Omagh, Dungannon or the Sperrins might describe the same pass differently depending on trees, cloud gaps, hills, street lighting and where they happened to look up. One witness may see “a chain of lights”; another may see only the last few points and report “several objects in formation”.
 
 The phrase “moving stars” is often a clue. Real stars drift very slowly with Earth’s rotation and do not cross the sky in a few minutes. A steady, silent, star-like point moving in a straight line is more likely to be a satellite. A group of evenly spaced lights in a line is especially compatible with a recent Starlink deployment. By contrast, a light that changes direction sharply, hovers close to buildings, buzzes audibly, or stays within a small local area may push the check towards drones or aircraft instead.
 
-Satellites also explain why a witness may honestly report no sound, no obvious wings and no familiar aircraft shape. At night, the observer may be seeing only reflected sunlight from a small object hundreds of kilometres above the Earth. That is not a weak or dismissive explanation; it is a physically plausible one that has become more common as the number of low-Earth-orbit satellites has grown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Despite its benefits, Starlink raises concerns among astronomers and experts. Its bright satellites affect ground-based and radio astrono...</span></span></span>
+Satellites also explain why a witness may honestly report no sound, no obvious wings and no familiar aircraft shape. At night, the observer may be seeing only reflected sunlight from a small object hundreds of kilometres above the Earth. That is not a weak or dismissive explanation; it is a physically plausible one that has become more common as the number of low-Earth-orbit satellites has grown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Despite its benefits, Starlink raises concerns among astronomers and experts. Its bright satellites affect ground-based and radio astrono...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tyrone_619a59_ordinary_explanation_a805d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Drones, Planets and Weather Effects
 
-Drones are now a routine part of the low-altitude night-sky problem. The UK Civil Aviation Authority requires drone and model-aircraft users to keep their aircraft in direct sight and maintain awareness of surrounding airspace. From 1 January 2026, drones flown at night in the Open Category must have a green flashing light activated, and the CAA says this is intended to improve visibility and help distinguish drones from crewed aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/flying-safely-and-responsibly-points-1-and-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAFlying safely and responsibly (points 1 and 2) &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAFlying safely and responsibly (points 1 and 2) &#124; UK Civil Aviation Authority</span></span></span>
+Drones are now a routine part of the low-altitude night-sky problem. The UK Civil Aviation Authority requires drone and model-aircraft users to keep their aircraft in direct sight and maintain awareness of surrounding airspace. From 1 January 2026, drones flown at night in the Open Category must have a green flashing light activated, and the CAA says this is intended to improve visibility and help distinguish drones from crewed aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/drone-code/flying-safely-and-responsibly-points-1-and-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAFlying safely and responsibly (points 1 and 2) &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAFlying safely and responsibly (points 1 and 2) &#124; UK Civil Aviation Authority</span></span></span>
 
 For Tyrone reports, drones are most plausible when the light appears low, local, repetitive and manoeuvrable: hovering near fields, properties, roads, wind farms, construction sites, sports grounds or events; moving slowly; changing direction; or showing coloured flashes. They are less plausible for a light crossing a large part of the sky at a steady speed for several minutes, which is more satellite-like, or for a high, distant light aligned with known air traffic.
 
-Bright planets are another common trap. Venus and Jupiter can look startlingly bright, especially low in twilight or through broken cloud. Venus in particular has long been mistaken for UFOs because it can sit low in the evening or morning sky, outshine stars, and appear to shimmer, pulse or change colour when seen through turbulent air. Royal Museums Greenwich advises ordinary sky-watchers to consider planets, meteors, satellites and aircraft when trying to identify a bright object seen at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">Royal Museums Greenwich What was the bright object I saw in the sky last night?This is a meteorite and will have come from an asteroid. U</span><span class="citation-popover-snippet">Royal Museums Greenwich What was the bright object I saw in the sky last night?This is a meteorite and will have come from an asteroid. U</span></span></span>
+Bright planets are another common trap. Venus and Jupiter can look startlingly bright, especially low in twilight or through broken cloud. Venus in particular has long been mistaken for UFOs because it can sit low in the evening or morning sky, outshine stars, and appear to shimmer, pulse or change colour when seen through turbulent air. Royal Museums Greenwich advises ordinary sky-watchers to consider planets, meteors, satellites and aircraft when trying to identify a bright object seen at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">Royal Museums Greenwich What was the bright object I saw in the sky last night?This is a meteorite and will have come from an asteroid. U</span><span class="citation-popover-snippet">Royal Museums Greenwich What was the bright object I saw in the sky last night?This is a meteorite and will have come from an asteroid. U</span></span></span>
 
 Planets usually do not “fly” across the sky in the short term, but witnesses may perceive movement when thin cloud passes in front of them, when the observer is in a moving vehicle, or when there is no fixed foreground reference. A bright planet seen above a ridge, tree line or roof can also seem closer and lower than it really is. In a Tyrone setting, where hills, lanes, farm buildings and patchy cloud can frame the view, this kind of false nearness matters.
 
-Weather adds another layer. The Met Office explains that optical effects in the sky can be produced by reflection, refraction, scattering and diffraction, creating haloes, coronas and related displays. Temperature layers can also bend light and shift the apparent position or shape of distant objects; mirage-like effects are not limited to deserts, although dramatic examples are uncommon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">Met Office Optical effects: nature&#x27;s light show Light creates stunning displays in our sky through reflection, refraction, scattering, an</span><span class="citation-popover-snippet">Met Office Optical effects: nature&#x27;s light show Light creates stunning displays in our sky through reflection, refraction, scattering, an</span></span></span>
+Weather adds another layer. The Met Office explains that optical effects in the sky can be produced by reflection, refraction, scattering and diffraction, creating haloes, coronas and related displays. Temperature layers can also bend light and shift the apparent position or shape of distant objects; mirage-like effects are not limited to deserts, although dramatic examples are uncommon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">Met Office Optical effects: nature&#x27;s light show Light creates stunning displays in our sky through reflection, refraction, scattering, an</span><span class="citation-popover-snippet">Met Office Optical effects: nature&#x27;s light show Light creates stunning displays in our sky through reflection, refraction, scattering, an</span></span></span>
 
 This means a single “light” may be a compound effect: an aircraft seen through haze, a planet distorted by thin cloud, a drone light reflected from mist, or a satellite fading in and out behind broken cloud. A witness may accurately describe what it looked like while still misidentifying what produced it.
 
@@ -342,194 +342,194 @@ For the Stewartstown/Dungannon report, the most balanced reading is cautious. It
 That is the broader lesson for Tyrone. Moving lights over the county can be sincere, memorable and worth recording while still being ordinary. A good local UFO history does not begin by debunking witnesses; it begins by protecting the sighting from avoidable confusion. Only after the sky, traffic and weather checks fail does “unexplained” become a meaningful description.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Tyrone&#x27;s UFOs Be Ordinary Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Tyrone&#x27;s UFOs Be Ordinary Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and separating ordinary explanations from unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and separating ordinary explanations from unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Encourages critical thinking about aerial phenomena interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical thinking about aerial phenomena interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence, witness credibility and investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence, witness credibility and investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for assessing extraordinary claims and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing extraordinary claims and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="explanations-237ea1-could-tyrone-s-ufos-be-ordinary-lights-tyrone-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ That is the broader lesson for Tyrone. Moving lights over the county can be sinc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ That is the broader lesson for Tyrone. Moving lights over the county can be sinc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ That is the broader lesson for Tyrone. Moving lights over the county can be sinc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ That is the broader lesson for Tyrone. Moving lights over the county can be sinc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ That is the broader lesson for Tyrone. Moving lights over the county can be sinc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,250 +735,250 @@ That is the broader lesson for Tyrone. Moving lights over the county can be sinc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Tyrone  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ATyrone_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ATyrone_-_British_Isles.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ATyrone_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ATyrone_-_British_Isles.svg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psni.police.uk  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/unidentified-flying-objects-ufos-or-unidentified-aerial-phenomena-uaps</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psni.police.uk  
    Title: PSNIUFO Sightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psni.police.uk  
    Title: PSNISightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its benefits, Starlink raises concerns among astronomers and experts. Its bright satellites affect ground-based and radio astrono...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its benefits, Starlink raises concerns among astronomers and experts. Its bright satellites affect ground-based and radio astrono...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
    Title: CAAFlying safely and responsibly (points 1 and 2) | UK Civil Aviation Authority  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/flying-safely-and-responsibly-points-1-and-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/flying-safely-and-responsibly-points-1-and-2/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/flying-safely-and-responsibly-points-1-and-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/flying-safely-and-responsibly-points-1-and-2/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+   Link:<a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psni.police.uk  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/paranormal-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/paranormal-reports</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/paranormal-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/paranormal-reports</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: File:Tyrone Brit Isles Sect 3.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ATyrone_Brit_Isles_Sect_3.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ATyrone_Brit_Isles_Sect_3.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ATyrone_Brit_Isles_Sect_3.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ATyrone_Brit_Isles_Sect_3.svg</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of the British Isles  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:British Isles all.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_all.svg</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:England Historic Counties Sussex map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Sussex_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Sussex_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Sussex_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Sussex_map.svg</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commons.wikimedia.org  
    Title: File:British Isles UK & Ireland.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_-_UK_%26_Ireland.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_-_UK_%26_Ireland.png</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_-_UK_%26_Ireland.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_-_UK_%26_Ireland.png</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map Monmouthshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Monmouthshire.svg</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: irishtimes.com  
    Title: significant fall in ufo sightings in northern ireland in last two years  
-   Link: <a href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/</a>  
+   Link:<a href="https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2024/01/07/significant-fall-in-ufo-sightings-in-northern-ireland-in-last-two-years/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/1briqcjn/belfast-consultation-doc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/1briqcjn/belfast-consultation-doc.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/1briqcjn/belfast-consultation-doc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/1briqcjn/belfast-consultation-doc.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: belfastcityairport.com  
-   Link: <a href="https://www.belfastcityairport.com/home" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastcityairport.com/home</a>  
+   Link:<a href="https://www.belfastcityairport.com/home" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastcityairport.com/home</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: metoffice.gov.uk  
    Title: what causes the northern lights  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: digital.nmla.metoffice.gov.uk  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_31ea0d19-1cd8-4476-abcd-0c53e045f2a6" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_31ea0d19-1cd8-4476-abcd-0c53e045f2a6</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_31ea0d19-1cd8-4476-abcd-0c53e045f2a6" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_31ea0d19-1cd8-4476-abcd-0c53e045f2a6</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=midPbqaDnyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=midPbqaDnyw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=midPbqaDnyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=midPbqaDnyw</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/</a>  
+   Link:<a href="https://www.nats.aero/airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: routesonline.com  
    Title: Belfast International Airport  
-   Link: <a href="https://www.routesonline.com/airports/5152/belfast-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.routesonline.com/airports/5152/belfast-international-airport/</a>  
+   Link:<a href="https://www.routesonline.com/airports/5152/belfast-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.routesonline.com/airports/5152/belfast-international-airport/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: weather.gov.sg  
    Title: Optical Effects  
-   Link: <a href="https://www.weather.gov.sg/learn-optical-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.sg/learn-optical-effects/</a>  
+   Link:<a href="https://www.weather.gov.sg/learn-optical-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.sg/learn-optical-effects/</a>  
 
 ### Additional References
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Starlink satellite captures Starlink 'train' in amazing view from space  
-   Link: <a href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e8qE-oyapnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e8qE-oyapnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5JXWh5bF5eg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5JXWh5bF5eg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: 6 Most Incredible Starlink Satellites Train seen from earth  
-   Link: <a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GvxF3sUbPrI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GvxF3sUbPrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Strange Noises above Northern Ireland (includes actual footage)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Strange Noises above Northern Ireland (includes actual footage)...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
+   Link:<a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: belfastcityairport.com  
-   Link: <a href="https://www.belfastcityairport.com/Sustainability/Environment/AerodromeSafeguarding" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastcityairport.com/Sustainability/Environment/AerodromeSafeguarding</a>  
+   Link:<a href="https://www.belfastcityairport.com/Sustainability/Environment/AerodromeSafeguarding" target="_blank" rel="noopener noreferrer nofollow">https://www.belfastcityairport.com/Sustainability/Environment/AerodromeSafeguarding</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: byjus.com  
-   Link: <a href="https://byjus.com/physics/atmospheric-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://byjus.com/physics/atmospheric-optical-phenomena/</a>  
+   Link:<a href="https://byjus.com/physics/atmospheric-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://byjus.com/physics/atmospheric-optical-phenomena/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/212699529845967/posts/1692157421900163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/212699529845967/posts/1692157421900163/</a>  
+   Link:<a href="https://www.facebook.com/groups/212699529845967/posts/1692157421900163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/212699529845967/posts/1692157421900163/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/flights/arrivals-departures/bfs/belfast-international-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/bfs/belfast-international-arrivals-departures</a>  
+   Link:<a href="https://www.skyscanner.net/flights/arrivals-departures/bfs/belfast-international-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/bfs/belfast-international-arrivals-departures</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/bfs" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/bfs</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/bfs" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/bfs</a>  

@@ -248,17 +248,17 @@ image: /assets/images/Roxburghshire_8333b2_historic_county_ufo_483db7-overview-s
 
 ## Introduction
 
-[Roxburghshire]({{ 'what-really-happened-in-roxburghshires/' | relative_url }})’s place in UFO mapping is less about a famous local mystery and more about getting the geography right. Older reports, newspaper references and official lists may say “Roxburghshire”, while a modern reader may look for “Scottish Borders” and miss the historic county altogether. For this project, Roxburghshire means the historic inland Border county centred on Jedburgh, Hawick, Kelso, Teviotdale, Liddesdale and the Tweed-side settlements, not the whole modern Scottish Borders council area. That distinction matters because the clearest county-specific Ministry of Defence entry found so far is the Kelso report of 17 August 1997, and its location is recorded in historic county terms: “Kelso Roxburghshire”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+[Roxburghshire]({{ 'what-really-happened-in-roxburghshires/' | relative_url }})’s place in UFO mapping is less about a famous local mystery and more about getting the geography right. Older reports, newspaper references and official lists may say “Roxburghshire”, while a modern reader may look for “Scottish Borders” and miss the historic county altogether. For this project, Roxburghshire means the historic inland Border county centred on Jedburgh, Hawick, Kelso, Teviotdale, Liddesdale and the Tweed-side settlements, not the whole modern Scottish Borders council area. That distinction matters because the clearest county-specific Ministry of Defence entry found so far is the Kelso report of 17 August 1997, and its location is recorded in historic county terms: “Kelso Roxburghshire”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Roxburghshire_8333b2_historic_county_ufo_483db7-overview.webp" | relative_url }}" alt="Overview image for County Map" loading="eager" decoding="sync" fetchpriority="high">
 ## Historic county versus modern Borders
 
-Roxburghshire is one of the UK’s historic counties, the long-used geographical units that sit behind many older records, gazetteers and local identities. The Historic Counties Trust describes the Historic Counties Standard as a way of defining historic county names, areas and borders consistently for history, geography, heritage, record cataloguing and public presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span> The Association of British Counties gives the wider UK frame: 92 historic counties, made up of 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-snippet">Open source on abcounties.com.</span></span></span>
+Roxburghshire is one of the UK’s historic counties, the long-used geographical units that sit behind many older records, gazetteers and local identities. The Historic Counties Trust describes the Historic Counties Standard as a way of defining historic county names, areas and borders consistently for history, geography, heritage, record cataloguing and public presentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiccountiestrust.co.uk">[Historic Counties Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiccountiestrust.co.uk</span><span class="citation-popover-snippet">Open source on historiccountiestrust.co.uk.</span></span></span> The Association of British Counties gives the wider UK frame: 92 historic counties, made up of 39 in England, 34 in Scotland, 13 in Wales and 6 in Northern Ireland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcounties.com">[Association of British Counties]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcounties.com</span><span class="citation-popover-snippet">Open source on abcounties.com.</span></span></span>
 
-That is why the county layer used for this UFO project is not just decorative. The Wikimedia Commons/Wikishire historic-counties SVG is explicitly a map of the British Isles with counties as used before the late nineteenth-century local government reforms, and it is based on Wikishire source mapping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> In this UK collection, the Republic of Ireland appears only as surrounding geographic context on that broader map; it is not treated as part of the UK county set.
+That is why the county layer used for this UFO project is not just decorative. The Wikimedia Commons/Wikishire historic-counties SVG is explicitly a map of the British Isles with counties as used before the late nineteenth-century local government reforms, and it is based on Wikishire source mapping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> In this UK collection, the Republic of Ireland appears only as surrounding geographic context on that broader map; it is not treated as part of the UK county set.
 
-Modern administration is different. Today, Roxburghshire lies within the Scottish Borders council area, a larger authority that also includes territory historically associated with Berwickshire, Peeblesshire, Selkirkshire and a small part of Midlothian. The British Museum’s place scope note summarises that modern Scottish Borders includes areas once belonging to those older counties, including Roxburghshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishmuseum.org/collection/term/x38622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishmuseum.org">[British Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishmuseum.org</span><span class="citation-popover-snippet">Open source on britishmuseum.org.</span></span></span> For UFO records, that creates a practical problem: a report labelled “Scottish Borders” may not be Roxburghshire, while a report labelled “Roxburghshire” may not be easy to find if someone searches only modern council names.
+Modern administration is different. Today, Roxburghshire lies within the Scottish Borders council area, a larger authority that also includes territory historically associated with Berwickshire, Peeblesshire, Selkirkshire and a small part of Midlothian. The British Museum’s place scope note summarises that modern Scottish Borders includes areas once belonging to those older counties, including Roxburghshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishmuseum.org/collection/term/x38622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishmuseum.org">[British Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishmuseum.org</span><span class="citation-popover-snippet">Open source on britishmuseum.org.</span></span></span> For UFO records, that creates a practical problem: a report labelled “Scottish Borders” may not be Roxburghshire, while a report labelled “Roxburghshire” may not be easy to find if someone searches only modern council names.
 
 The safe approach is to record both layers when possible: the historic county for project mapping, and the modern council area for present-day orientation. For example, “Kelso, Roxburghshire, now in Scottish Borders” tells the reader what the old report meant and where the place sits today. It also avoids accidentally folding Berwickshire, Selkirkshire or Peeblesshire material into the Roxburghshire branch.
 
@@ -266,9 +266,9 @@ The safe approach is to record both layers when possible: the historic county fo
 <img src="{{ "/assets/images/Roxburghshire_8333b2_historic_county_ufo_483db7-Illustration-1-dark.svg" | relative_url }}" alt="County Map illustration 1" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2_historic_county_ufo_483db7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2_historic_county_ufo_483db7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The mapped county is a Border landscape, not a single town
 
-Roxburghshire is an inland county shaped by valleys, hills and the Anglo-Scottish border. The Gazetteer of British Place Names describes it as stretching across the northern side of the Cheviot Hills, with much of the county occupied by Teviotdale and with the Teviot meeting the Tweed at Kelso. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> That physical pattern matters for UFO interpretation because many sightings are described from roads, valley towns, farms, hill edges and river corridors rather than from a single urban centre.
+Roxburghshire is an inland county shaped by valleys, hills and the Anglo-Scottish border. The Gazetteer of British Place Names describes it as stretching across the northern side of the Cheviot Hills, with much of the county occupied by Teviotdale and with the Teviot meeting the Tweed at Kelso.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> That physical pattern matters for UFO interpretation because many sightings are described from roads, valley towns, farms, hill edges and river corridors rather than from a single urban centre.
 
-The key places for mapping are not interchangeable. Kelso sits by the meeting of the Teviot and Tweed; Hawick anchors Teviotdale; Jedburgh is the historic county town; Melrose and the Eildon area sit to the north; and Liddesdale forms the south-western part of the county. The same Gazetteer entry places Roxburgh’s destroyed town and castle near the narrow tongue of land between the Teviot and Tweed, while identifying Liddesdale in the south-west and the Cheviot border country to the east and south-east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The key places for mapping are not interchangeable. Kelso sits by the meeting of the Teviot and Tweed; Hawick anchors Teviotdale; Jedburgh is the historic county town; Melrose and the Eildon area sit to the north; and Liddesdale forms the south-western part of the county. The same Gazetteer entry places Roxburgh’s destroyed town and castle near the narrow tongue of land between the Teviot and Tweed, while identifying Liddesdale in the south-west and the Cheviot border country to the east and south-east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 For UFO mapping, those details change how a report is read:
 
@@ -290,7 +290,7 @@ This does not make any sighting stronger or weaker on its own. It simply means t
 
 ## Why the Kelso entry is the fixed point
 
-The most useful county-specific anchor is still the Ministry of Defence’s 1997 listing. GOV.UK describes the released UFO reports as covering dates, times, locations and brief sighting descriptions from 1997 to 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> In that list, the 17 August 1997 entry gives “Kelso Roxburghshire” at 02:30 and describes “an oval object” with a green light in the centre, an orange glow, a rushing wind sound and speed “faster than a jet”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The most useful county-specific anchor is still the Ministry of Defence’s 1997 listing. GOV.UK describes the released UFO reports as covering dates, times, locations and brief sighting descriptions from 1997 to 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> In that list, the 17 August 1997 entry gives “Kelso Roxburghshire” at 02:30 and describes “an oval object” with a green light in the centre, an orange glow, a rushing wind sound and speed “faster than a jet”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 For this particular subtopic, the value of the Kelso entry is geographic as much as evidential. It shows how a national UK UFO dataset can preserve an older county label. A modern administrative search for Scottish Borders might find it, but the original wording ties the case to Roxburghshire. That makes Kelso the county’s cleanest example of why historic county mapping is not a nostalgic extra; it changes what is counted and where it is filed.
 
@@ -304,7 +304,7 @@ Roxburghshire’s border position means that UFO material can easily spill acros
 
 This is especially important for sky sightings because the object’s apparent position and the witness’s location may not be the same. A witness in Kelso might report a light towards Northumberland. A witness near the Cheviots might describe something “over the border”. A report from Hawick could involve a sound or aircraft-like light following a valley route rather than an object directly over the town. County mapping should normally use the witness location as the primary anchor, while noting the reported direction of the object when the source gives it.
 
-The aviation layer also matters. GOV.UK’s RAF operational [low-flying]({{ 'low-flying/' | relative_url }}) timetable identifies LFA 20(T) as covering “the borders of southern Scotland and northern England”, one of three tactical training areas used for operational low-flying training timetables. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: RAF operational low flying training timetable</span><span class="citation-popover-snippet">Military low flying: RAF operational low flying training timetable</span></span></span> That does not explain the Kelso report by itself, and it should not be used as a blanket debunking tool. But it does mean that low-flying military aircraft, aircraft noise, sudden lights and fast apparent motion are part of the normal interpretive background for Border sky reports.
+The aviation layer also matters. GOV.UK’s RAF operational [low-flying]({{ 'low-flying/' | relative_url }}) timetable identifies LFA 20(T) as covering “the borders of southern Scotland and northern England”, one of three tactical training areas used for operational low-flying training timetables.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: RAF operational low flying training timetable</span><span class="citation-popover-snippet">Military low flying: RAF operational low flying training timetable</span></span></span> That does not explain the Kelso report by itself, and it should not be used as a blanket debunking tool. But it does mean that low-flying military aircraft, aircraft noise, sudden lights and fast apparent motion are part of the normal interpretive background for Border sky reports.
 
 The point is not that every Border UFO was an aircraft. It is that the region’s geography makes aircraft explanations more plausible in some cases and harder to rule out without detail. A strong report would need information such as exact viewing direction, duration, sound, height estimate, weather, whether other witnesses saw the same thing, and whether aircraft activity was known at the time.
 
@@ -313,9 +313,9 @@ The point is not that every Border UFO was an aircraft. It is that the region’
 
 ## Archives, newspapers and place names need double-checking
 
-Roxburghshire research should not rely only on modern search terms. Scotland’s People lists Roxburgh county material through Ordnance Survey Name Books covering parishes and towns such as Ancrum, Castleton, Hawick, Jedburgh, Kelso, Melrose, Roxburgh, St Boswells, Teviothead, Wilton and Yetholm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/place-page/Roxburgh%20county/GAZ00029/-/REX01692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Records for Roxburgh county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Records for Roxburgh county &#124; Scotland&#x27;s People</span></span></span> Those names are useful because older records may identify a parish, burgh, valley or rural locality rather than a modern council area.
+Roxburghshire research should not rely only on modern search terms. Scotland’s People lists Roxburgh county material through Ordnance Survey Name Books covering parishes and towns such as Ancrum, Castleton, Hawick, Jedburgh, Kelso, Melrose, Roxburgh, St Boswells, Teviothead, Wilton and Yetholm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/place-page/Roxburgh%20county/GAZ00029/-/REX01692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">Scotland&#x27;s People Records for Roxburgh county &#124; Scotland&#x27;s People</span><span class="citation-popover-snippet">Scotland&#x27;s People Records for Roxburgh county &#124; Scotland&#x27;s People</span></span></span> Those names are useful because older records may identify a parish, burgh, valley or rural locality rather than a modern council area.
 
-Local newspapers add another layer. The British Newspaper Archive’s Borders, Scotland index includes substantial runs for titles such as the Southern Reporter, Jedburgh Gazette, Teviotdale Record and Jedburgh Advertiser, Kelso Chronicle and Hawick Express. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishnewspaperarchive.co.uk/search/results?region=borders%2C+scotland&amp;retrievecountrycounts=false&amp;sortorder=dayearly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> For UFO history, those papers are exactly the sort of places where short local reports, letters, police mentions or “mystery light” items might appear. But newspaper geography can be loose: a “Border” story might be local to Roxburghshire, or it might belong to Berwickshire, Selkirkshire, Peeblesshire, Northumberland or Dumfriesshire.
+Local newspapers add another layer. The British Newspaper Archive’s Borders, Scotland index includes substantial runs for titles such as the Southern Reporter, Jedburgh Gazette, Teviotdale Record and Jedburgh Advertiser, Kelso Chronicle and Hawick Express.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishnewspaperarchive.co.uk/search/results?region=borders%2C+scotland&amp;retrievecountrycounts=false&amp;sortorder=dayearly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span> For UFO history, those papers are exactly the sort of places where short local reports, letters, police mentions or “mystery light” items might appear. But newspaper geography can be loose: a “Border” story might be local to Roxburghshire, or it might belong to Berwickshire, Selkirkshire, Peeblesshire, Northumberland or Dumfriesshire.
 
 A sensible Roxburghshire filing test is therefore:
 
@@ -345,194 +345,194 @@ That makes this page a guide to reading the county’s evidence rather than a ca
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Does Roxburghshire Fit in UFO Mapping?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Does Roxburghshire Fit in UFO Mapping?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for cataloguing and comparing sightings across regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for cataloguing and comparing sightings across regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how sighting databases and classifications are built.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how sighting databases and classifications are built.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mOqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mOqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Directly relevant to how places and regions become associated with unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to how places and regions become associated with unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
         
-        <p class="fr-book-desc">Adds geographic and cultural context to how unusual reports become local legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds geographic and cultural context to how unusual reports become local legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="county-map-cbdf4a-where-does-roxburghshire-fit-in-ufo-mapping-roxburghshire-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-does-roxburghshire-fit-in-ufo-mapping-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ That makes this page a guide to reading the county’s evidence rather than a ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ That makes this page a guide to reading the county’s evidence rather than a ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ That makes this page a guide to reading the county’s evidence rather than a ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ That makes this page a guide to reading the county’s evidence rather than a ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ That makes this page a guide to reading the county’s evidence rather than a ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,311 +738,311 @@ That makes this page a guide to reading the county’s evidence rather than a ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Military low flying: RAF operational low flying training timetable  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scotlandspeople.gov.uk  
    Title: Scotland's People Records for Roxburgh county | Scotland's People  
-   Link: <a href="https://www.scotlandspeople.gov.uk/place-page/Roxburgh%20county/GAZ00029/-/REX01692" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/place-page/Roxburgh%20county/GAZ00029/-/REX01692</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/place-page/Roxburgh%20county/GAZ00029/-/REX01692" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/place-page/Roxburgh%20county/GAZ00029/-/REX01692</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530549" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530549</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530549" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530549</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo research guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C13442640" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C13442640</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C13442640" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C13442640</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/15/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/15/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/15/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/15/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/25/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/25/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/25/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/25/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: may 2008 disclosure log  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/may-2008-disclosure-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/may-2008-disclosure-log.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/may-2008-disclosure-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/may-2008-disclosure-log.pdf</a>  
    Published: may 2008  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/10/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/10/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/21/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/21/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/21/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/21/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
    Title: File:Ross shire British Isles.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoss-shire_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoss-shire_-_British_Isles.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoss-shire_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoss-shire_-_British_Isles.svg</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of the British Isles  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_British_Isles</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of historic counties of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_historic_counties_of_the_United_Kingdom</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: commons.wikimedia.org  
    Title: Category:SVG maps of the United Kingdom  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ASVG_maps_of_the_United_Kingdom</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: commons.wikimedia.org  
    Title: File:Anglesey British Isles.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAnglesey_-_British_Isles.svg</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: data.gov.uk  
    Title: Historic County Borders  
-   Link: <a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/a0cb00e3-00d4-4b87-9a7b-95bcb8d0d87c/historic-county-borders</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: boundaries.scot  
    Title: Local government Scotland before 1975 1758892795  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Local_government_Scotland_before_1975_1758892795.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/glasgownatu2319962001ande/glasgownatu2319962001ande_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/glasgownatu2319962001ande/glasgownatu2319962001ande_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/glasgownatu2319962001ande/glasgownatu2319962001ande_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/glasgownatu2319962001ande/glasgownatu2319962001ande_djvu.txt</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Roxburghshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Roxburghshire</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/standard" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/standard</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
+   Link:<a href="https://abcounties.com/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/introduction/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: britishmuseum.org  
-   Link: <a href="https://www.britishmuseum.org/collection/term/x38622" target="_blank" rel="noopener noreferrer nofollow">https://www.britishmuseum.org/collection/term/x38622</a>  
+   Link:<a href="https://www.britishmuseum.org/collection/term/x38622" target="_blank" rel="noopener noreferrer nofollow">https://www.britishmuseum.org/collection/term/x38622</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://www.britishnewspaperarchive.co.uk/search/results?region=borders%2C+scotland&amp;retrievecountrycounts=false&amp;sortorder=dayearly" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results?region=borders%2C+scotland&amp;retrievecountrycounts=false&amp;sortorder=dayearly</a>  
+   Link:<a href="https://www.britishnewspaperarchive.co.uk/search/results?region=borders%2C+scotland&amp;retrievecountrycounts=false&amp;sortorder=dayearly" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results?region=borders%2C+scotland&amp;retrievecountrycounts=false&amp;sortorder=dayearly</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roxburghshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roxburghshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: Wikipedia  
    Title: Scottish Borders  
-   Link: <a href="https://en.wikipedia.org/wiki/Scottish_Borders" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scottish_Borders</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Scottish_Borders" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scottish_Borders</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Ross-shire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Ross-shire</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lochgoilhead%2C_Argyllshire_27798</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Arrochar%2C_Dunbartonshire_1249</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: gazetteer.org.uk  
    Title: ABC Fact Sheet Historic Counties  
-   Link: <a href="https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf</a>  
+   Link:<a href="https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/ABC_Fact_Sheet_Historic_Counties_Introduction.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/roxburghshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/roxburghshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/roxburghshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/roxburghshire/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: abcounties.com  
    Title: historic counties wall map now available  
-   Link: <a href="https://abcounties.com/news/historic-counties-wall-map-now-available/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/news/historic-counties-wall-map-now-available/</a>  
+   Link:<a href="https://abcounties.com/news/historic-counties-wall-map-now-available/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/news/historic-counties-wall-map-now-available/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfriesshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Dumfriesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Dumfriesshire</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburghshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburghshire</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HistoricCounties/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricCounties/</a>  
+   Link:<a href="https://www.facebook.com/HistoricCounties/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricCounties/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: realcounties.com  
    Title: historic counties standard  
-   Link: <a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
+   Link:<a href="https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/wp-content/uploads/2023/10/historic_counties_standard.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: kids.kiddle.co  
    Title: Scottish Borders  
-   Link: <a href="https://kids.kiddle.co/Scottish_Borders" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Scottish_Borders</a>  
+   Link:<a href="https://kids.kiddle.co/Scottish_Borders" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Scottish_Borders</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: rainycity.blog  
    Title: Scottish Borders  
-   Link: <a href="https://rainycity.blog/out-about/scottish-borders-things-to-do-part-3-selkirk-hawick-and-jedburgh/" target="_blank" rel="noopener noreferrer nofollow">https://rainycity.blog/out-about/scottish-borders-things-to-do-part-3-selkirk-hawick-and-jedburgh/</a>  
+   Link:<a href="https://rainycity.blog/out-about/scottish-borders-things-to-do-part-3-selkirk-hawick-and-jedburgh/" target="_blank" rel="noopener noreferrer nofollow">https://rainycity.blog/out-about/scottish-borders-things-to-do-part-3-selkirk-hawick-and-jedburgh/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: visitscotland.com  
    Title: The Scottish Borders  
-   Link: <a href="https://www.visitscotland.com/places-to-go/scottish-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/places-to-go/scottish-borders</a>  
+   Link:<a href="https://www.visitscotland.com/places-to-go/scottish-borders" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/places-to-go/scottish-borders</a>  
 
 ### Additional References
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: Ed Miller  
-   Link: <a href="http://www.youtube.com/watch?v=e5dBI_-1zCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=e5dBI_-1zCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete History of the British Isles, Summarized...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=e5dBI_-1zCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=e5dBI_-1zCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete History of the British Isles, Summarized...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: What’s With That Big Line Across Scotland?  
-   Link: <a href="http://www.youtube.com/watch?v=DFUbtPq1CIk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DFUbtPq1CIk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UK county boundaries and geography explained English counties explained Map Men...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DFUbtPq1CIk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DFUbtPq1CIk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UK county boundaries and geography explained English counties explained Map Men...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
    Title: The Entire History of Scotland  
-   Link: <a href="http://www.youtube.com/watch?v=_PhX3dvmgko" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_PhX3dvmgko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ed Miller - &quot;The Scottish Borders - History, Songs, and Lots of Bonnie Pictures&quot;...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_PhX3dvmgko" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_PhX3dvmgko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ed Miller - &quot;The Scottish Borders - History, Songs, and Lots of Bonnie Pictures&quot;...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: banthebomb.org  
-   Link: <a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
+   Link:<a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: bemersydeestate.com  
-   Link: <a href="https://bemersydeestate.com/bemersyde-history/border-reivers/" target="_blank" rel="noopener noreferrer nofollow">https://bemersydeestate.com/bemersyde-history/border-reivers/</a>  
+   Link:<a href="https://bemersydeestate.com/bemersyde-history/border-reivers/" target="_blank" rel="noopener noreferrer nofollow">https://bemersydeestate.com/bemersyde-history/border-reivers/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: planbee.com  
-   Link: <a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoq4EVDBHxAsX1LleHf4oy75J_ZqQpQ8TMPMJO3mrkrI6cw3clmu" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoq4EVDBHxAsX1LleHf4oy75J_ZqQpQ8TMPMJO3mrkrI6cw3clmu</a>  
+   Link:<a href="https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoq4EVDBHxAsX1LleHf4oy75J_ZqQpQ8TMPMJO3mrkrI6cw3clmu" target="_blank" rel="noopener noreferrer nofollow">https://planbee.com/pages/counties-of-the-uk?srsltid=AfmBOoq4EVDBHxAsX1LleHf4oy75J_ZqQpQ8TMPMJO3mrkrI6cw3clmu</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?is_sub=&amp;latitude=57.752806&amp;longitude=-4.387118&amp;map_location=IV17+0YQ+IV170YQ+in+Alness&amp;os_series=7&amp;postcode=IV17+0YQ&amp;pwd=&amp;search_location=IV17+0YQ%2C+IV170YQ+in+Alness%2C+Highland%2C+Ross-shire%2C+Wales</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: gbmaps.com  
-   Link: <a href="https://www.gbmaps.com/free-county-maps/Dunbartonshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Dunbartonshire.php</a>  
+   Link:<a href="https://www.gbmaps.com/free-county-maps/Dunbartonshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Dunbartonshire.php</a>  

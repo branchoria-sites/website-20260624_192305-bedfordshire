@@ -254,19 +254,19 @@ image: /assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-overview-socia
 
 ## Introduction
 
-The Banff reports of 11 February 2000 are among the most useful small cases in [Banffshire]({{ 'what-really-happened-in-banffshires-ufo/' | relative_url }})’s UFO record because they show both the appeal and the limits of official sighting entries. Within fifteen minutes, the Ministry of Defence recorded two reports from Banff, Banffshire: one at 18:05 describing a mist-shrouded light with purple and deep blue colouring, and another at 18:20 describing two star-like objects, one apparently giving off a cone-shaped pinkish beam. The timing makes a shared cause possible, but the surviving public record is too brief to prove it. These are not strong “craft” cases; they are sparse, intriguing reports of unusual lights in a winter evening sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Banff reports of 11 February 2000 are among the most useful small cases in [Banffshire]({{ 'what-really-happened-in-banffshires-ufo/' | relative_url }})’s UFO record because they show both the appeal and the limits of official sighting entries. Within fifteen minutes, the Ministry of Defence recorded two reports from Banff, Banffshire: one at 18:05 describing a mist-shrouded light with purple and deep blue colouring, and another at 18:20 describing two star-like objects, one apparently giving off a cone-shaped pinkish beam. The timing makes a shared cause possible, but the surviving public record is too brief to prove it. These are not strong “craft” cases; they are sparse, intriguing reports of unusual lights in a winter evening sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-overview.webp" | relative_url }}" alt="Overview image for Banff 2000" loading="eager" decoding="sync" fetchpriority="high">
-For this page, Banff is treated in its historic Banffshire setting. That matters because Banffshire is now split across modern administrative geography, with Banff itself falling within the modern Aberdeenshire council area, while the historic county identity still matters for older records and county-based mapping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this page, Banff is treated in its historic Banffshire setting. That matters because Banffshire is now split across modern administrative geography, with Banff itself falling within the modern Aberdeenshire council area, while the historic county identity still matters for older records and county-based mapping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 ## The two Ministry of Defence entries
 
-The core evidence is a pair of short lines in the MoD’s public “UFO Report 2000” table. The first Banff entry is timed at 18:05 on 11 February 2000. It says there was one object, but that the witness could “only see light” because it was “shrouded in a sort of mist”. The description adds a purple light for about five seconds and a very deep blue colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The core evidence is a pair of short lines in the MoD’s public “UFO Report 2000” table. The first Banff entry is timed at 18:05 on 11 February 2000. It says there was one object, but that the witness could “only see light” because it was “shrouded in a sort of mist”. The description adds a purple light for about five seconds and a very deep blue colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The second Banff entry is timed at 18:20 on the same date. It describes two star-like objects, with the larger one emitting a cone-shaped light beam, pinkish in colour. The two entries appear close together in the MoD table, but not in chronological order: the 18:20 report is listed just before the 18:05 report. That small ordering oddity is a reminder that the table is a summary record, not a polished investigative narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The second Banff entry is timed at 18:20 on the same date. It describes two star-like objects, with the larger one emitting a cone-shaped light beam, pinkish in colour. The two entries appear close together in the MoD table, but not in chronological order: the 18:20 report is listed just before the 18:05 report. That small ordering oddity is a reminder that the table is a summary record, not a polished investigative narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-What is missing is as important as what survives. The public table does not give witness names, precise viewing directions, elevation above the horizon, duration for the second sighting, weather conditions, whether the witnesses were together, whether police or air traffic control were contacted, or whether any radar check was made. The National Archives’ guide to the MoD UFO files notes that the records vary greatly in content and that many reports describe lights, shapes and flashes which can often be explained, while others remain more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+What is missing is as important as what survives. The public table does not give witness names, precise viewing directions, elevation above the horizon, duration for the second sighting, weather conditions, whether the witnesses were together, whether police or air traffic control were contacted, or whether any radar check was made. The National Archives’ guide to the MoD UFO files notes that the records vary greatly in content and that many reports describe lights, shapes and flashes which can often be explained, while others remain more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This makes the Banff pair a good example of a “case family” rather than a single dramatic incident. The historical value is not that the entries prove an extraordinary object over Banff. It is that two separate official entries, close in time and place, preserve a small cluster of witness impressions which later readers naturally want to compare.
 
@@ -274,15 +274,15 @@ This makes the Banff pair a good example of a “case family” rather than a si
 <img src="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-1-dark.svg" | relative_url }}" alt="Banff 2000 illustration 1" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could both reports have had the same cause?
 
-The strongest reason to connect the two reports is timing. A fifteen-minute gap in the same town is close enough for both witnesses to have seen the same broad sky condition or the same moving stimulus from different positions. The descriptions also overlap in one key way: both are primarily about light, colour and apparent beams rather than a clearly seen solid object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The strongest reason to connect the two reports is timing. A fifteen-minute gap in the same town is close enough for both witnesses to have seen the same broad sky condition or the same moving stimulus from different positions. The descriptions also overlap in one key way: both are primarily about light, colour and apparent beams rather than a clearly seen solid object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 A shared cause could have been one of several ordinary possibilities:
 
-**A bright astronomical object in thin cloud.** Venus, Jupiter or a bright star low in the sky can look strange when seen through haze, broken cloud or mist. NASA’s Night Sky Network specifically notes that Venus shining bright and low has often been reported as a UFO, and accessible astronomy explainers make the same point because bright planets can appear to hover in twilight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Identifying UFOs and UAPs</span></span></span>
+**A bright astronomical object in thin cloud.** Venus, Jupiter or a bright star low in the sky can look strange when seen through haze, broken cloud or mist. NASA’s Night Sky Network specifically notes that Venus shining bright and low has often been reported as a UFO, and accessible astronomy explainers make the same point because bright planets can appear to hover in twilight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Identifying UFOs and UAPs</span></span></span>
 
-**Aircraft lights seen through coastal haze.** Banff sits on the Moray Firth coast, where distant aircraft lights over sea or land can be hard to judge without visible reference points. Civil aviation rules require aircraft at night to display anti-collision and navigation lights, which are meant to attract attention and indicate movement, but to a ground observer those lights can appear as isolated bright points, especially if the airframe itself is not visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+**Aircraft lights seen through coastal haze.** Banff sits on the Moray Firth coast, where distant aircraft lights over sea or land can be hard to judge without visible reference points. Civil aviation rules require aircraft at night to display anti-collision and navigation lights, which are meant to attract attention and indicate movement, but to a ground observer those lights can appear as isolated bright points, especially if the airframe itself is not visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-**Atmospheric optics around a real light source.** The description of a cone-shaped pinkish beam is not enough to identify a light pillar, searchlight effect or halo phenomenon, but it does point towards the kind of visual distortion that can happen when light interacts with moisture, mist or ice crystals. The Met Office explains that haloes occur when sunlight or moonlight interacts with tiny ice crystals in high cloud, and other meteorological explanations of light pillars describe vertical or beam-like effects produced by reflections from suspended ice crystals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+**Atmospheric optics around a real light source.** The description of a cone-shaped pinkish beam is not enough to identify a light pillar, searchlight effect or halo phenomenon, but it does point towards the kind of visual distortion that can happen when light interacts with moisture, mist or ice crystals. The Met Office explains that haloes occur when sunlight or moonlight interacts with tiny ice crystals in high cloud, and other meteorological explanations of light pillars describe vertical or beam-like effects produced by reflections from suspended ice crystals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 The shared-stimulus idea is plausible, but not proven. The two descriptions are not identical: the first is a single mist-shrouded light with purple and deep blue colouring, while the second involves two star-like objects and a pinkish cone-shaped beam. That could be because two witnesses saw the same phenomenon differently. It could also mean they saw two unrelated things in a busy evening sky.
 
@@ -293,7 +293,7 @@ The shared-stimulus idea is plausible, but not proven. The two descriptions are 
 
 The colours are the most memorable part of the Banff entries: purple, deep blue and pinkish. Such colours make a report feel distinctive, but they do not automatically make it stronger. Colour in night-sky sightings is notoriously difficult to interpret because it can come from the source itself, the atmosphere, the observer’s eyes, or contrast with surrounding darkness.
 
-Aircraft lights can include white, red and green navigation or anti-collision lights, and when these are viewed through haze, cloud or distance they may blur, flare, pulse or appear to change colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span> Bright planets and stars can also appear to twinkle or shift colour near the horizon because their light passes through more atmosphere before reaching the observer. The Banff descriptions do not say whether the lights moved, remained fixed, rose, descended or vanished behind cloud, which would have helped separate aircraft, astronomical and atmospheric explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Aircraft lights can include white, red and green navigation or anti-collision lights, and when these are viewed through haze, cloud or distance they may blur, flare, pulse or appear to change colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span> Bright planets and stars can also appear to twinkle or shift colour near the horizon because their light passes through more atmosphere before reaching the observer. The Banff descriptions do not say whether the lights moved, remained fixed, rose, descended or vanished behind cloud, which would have helped separate aircraft, astronomical and atmospheric explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 The “mist” wording in the 18:05 entry is especially important. If the witness could only see light because the object was shrouded, the report may be describing an illuminated patch of haze rather than the body of an object. That does not mean the witness was wrong to report it. It means the observation was already filtered through poor visibility, and poor visibility is exactly where ordinary lights can become puzzling.
 
@@ -301,9 +301,9 @@ The “mist” wording in the 18:05 entry is especially important. If the witnes
 <img src="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-2-dark.svg" | relative_url }}" alt="Banff 2000 illustration 2" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What an MoD entry does and does not mean
 
-A common misunderstanding is that an MoD UFO listing means the Ministry of Defence investigated and confirmed something extraordinary. In most cases, it means a report was received and recorded. The GOV.UK page for the released UK UFO reports describes them as sighting lists from 1997 to 2009, giving dates, times, locations and brief descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+A common misunderstanding is that an MoD UFO listing means the Ministry of Defence investigated and confirmed something extraordinary. In most cases, it means a report was received and recorded. The GOV.UK page for the released UK UFO reports describes them as sighting lists from 1997 to 2009, giving dates, times, locations and brief descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The National Archives explains that the MoD kept UFO records for decades and that the surviving files include many kinds of correspondence, sketches and reports. It also notes that before the 1960s the MoD destroyed UFO material after five years, and that later public interest led to reports being retained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives explains that the MoD kept UFO records for decades and that the surviving files include many kinds of correspondence, sketches and reports. It also notes that before the 1960s the MoD destroyed UFO material after five years, and that later public interest led to reports being retained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That institutional background helps keep the Banff entries in proportion. They are official records, but not official conclusions. They show that the reports entered the MoD system. They do not show that the lights were tracked by radar, intercepted by aircraft, linked to military activity or assessed as a threat.
 
@@ -316,19 +316,19 @@ This distinction matters in Banffshire because the area has aviation history and
 
 The best assessment is not a single confident answer, but a ranked set of possibilities.
 
-**Most plausible: ordinary lights distorted by weather or viewing conditions.** The combination of evening timing, mist language, colour effects and a beam-like impression fits a broad family of mundane explanations. A bright aircraft light, planet, star or ground/sky light seen through haze could produce a puzzling report without requiring an unusual object. The Met Office’s discussion of optical effects and NASA’s guidance on common UFO misidentifications support this general caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+**Most plausible: ordinary lights distorted by weather or viewing conditions.** The combination of evening timing, mist language, colour effects and a beam-like impression fits a broad family of mundane explanations. A bright aircraft light, planet, star or ground/sky light seen through haze could produce a puzzling report without requiring an unusual object. The Met Office’s discussion of optical effects and NASA’s guidance on common UFO misidentifications support this general caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-**Also plausible: two unrelated sightings close together.** The fact that the two entries differ in object count and colour leaves room for coincidence. The 18:05 report may have been a short-lived coloured light in mist, while the 18:20 report may have been a separate view of aircraft lights, celestial objects or a local beam effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Also plausible: two unrelated sightings close together.** The fact that the two entries differ in object count and colour leaves room for coincidence. The 18:05 report may have been a short-lived coloured light in mist, while the 18:20 report may have been a separate view of aircraft lights, celestial objects or a local beam effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Less supported: an unusual aerial object.** The reports remain unidentified in the simple sense that the public table does not identify the source. But “unidentified” here means “not resolved from the surviving summary”, not “evidence of an unknown craft”. There is no recorded manoeuvre, radar return, physical trace, photograph, named investigator, witness interview or multi-agency follow-up in the released summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Less supported: an unusual aerial object.** The reports remain unidentified in the simple sense that the public table does not identify the source. But “unidentified” here means “not resolved from the surviving summary”, not “evidence of an unknown craft”. There is no recorded manoeuvre, radar return, physical trace, photograph, named investigator, witness interview or multi-agency follow-up in the released summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Weakest: a major hidden incident.** Nothing in the available public record suggests a Banff emergency, interception, crash, landing, classified operation or later MoD concern. The entries sit among many other brief 2000 reports from across the UK, including numerous lights, star-like objects, flashes, cones, triangles and coloured shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Weakest: a major hidden incident.** Nothing in the available public record suggests a Banff emergency, interception, crash, landing, classified operation or later MoD concern. The entries sit among many other brief 2000 reports from across the UK, including numerous lights, star-like objects, flashes, cones, triangles and coloured shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-3-dark.svg" | relative_url }}" alt="Banff 2000 illustration 3" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44_banff_2000_reports_347d7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the record cannot prove
 
-The Banff 2000 reports remain interesting precisely because they stop short of resolution. The record can prove that two reports were logged for Banff, Banffshire, on 11 February 2000 at 18:05 and 18:20. It can show what the witnesses were summarised as seeing. It can show that the reports fit a wider MoD pattern of brief, witness-led UFO entries from the late 1990s and 2000s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Banff 2000 reports remain interesting precisely because they stop short of resolution. The record can prove that two reports were logged for Banff, Banffshire, on 11 February 2000 at 18:05 and 18:20. It can show what the witnesses were summarised as seeing. It can show that the reports fit a wider MoD pattern of brief, witness-led UFO entries from the late 1990s and 2000s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 It cannot prove that the same object caused both sightings. It cannot prove direction, distance, altitude, speed or size. It cannot prove whether the “cone-shaped” feature was a real beam, a patch of illuminated cloud, an optical effect, an aircraft landing light seen head-on, or a witness description of glare. It cannot prove that the colour shifts were intrinsic to the object rather than caused by mist, cloud, distance or perception.
 
@@ -339,194 +339,194 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Were the Banff Lights in 2000?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Were the Banff Lights in 2000?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page about evaluating limited official UFO reports and weighing evidence carefully.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about evaluating limited official UFO reports and weighing evidence carefully.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on categorising and assessing sightings, matching the page&#x27;s discussion of unexplained lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on categorising and assessing sightings, matching the page&#x27;s discussion of unexplained lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores interpretations of unusual aerial reports and witness experiences beyond simple explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretations of unusual aerial reports and witness experiences beyond simple explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs for the 21st Century Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uuGjoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs for the 21st Century Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs for the 21st Century Mind">UFOs for the 21st Century Mind</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs for the 21st Century Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uuGjoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs for the 21st Century Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs for the 21st Century Mind">UFOs for the 21st Century Mind</a>
+</h4>
+<p class="fr-book-author">By Richard M. Dolan</p>
         
-        <p class="fr-book-desc">Provides context for historical sightings and recurring patterns in UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for historical sightings and recurring patterns in UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/47979048d41b134464be.jpg' | relative_url }}" alt="Listing image for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/47979048d41b134464be.jpg' | relative_url }}" alt="Listing image for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641"><img src="{{ '/assets/images/marketplace-covers/95edee0d021f6a7d07c4.jpg' | relative_url }}" alt="Listing image for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641"><img src="{{ '/assets/images/marketplace-covers/95edee0d021f6a7d07c4.jpg' | relative_url }}" alt="Listing image for Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Air France Vintage Amenity Kit Complementry Aviation Memorabilia Airplane Y641</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation memorabilia FDC&#x27;s, postcards, Souvenir covers x 15"><img src="{{ '/assets/images/marketplace-covers/36b95b4951f274221030.jpg' | relative_url }}" alt="Listing image for Aviation memorabilia FDC&#x27;s, postcards, Souvenir covers x 15" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation memorabilia FDC&#x27;s, postcards, Souvenir covers x 15</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation memorabilia FDC&#x27;s, postcards, Souvenir covers x 15"><img src="{{ '/assets/images/marketplace-covers/36b95b4951f274221030.jpg' | relative_url }}" alt="Listing image for Aviation memorabilia FDC&#x27;s, postcards, Souvenir covers x 15" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation memorabilia FDC&#x27;s, postcards, Souvenir covers x 15</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)"><img src="{{ '/assets/images/marketplace-covers/85807a8421451150a734.jpg' | relative_url }}" alt="Listing image for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)"><img src="{{ '/assets/images/marketplace-covers/85807a8421451150a734.jpg' | relative_url }}" alt="Listing image for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="banff-2000-what-were-the-banff-lights-in-2000-banffshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,222 +732,222 @@ For Banffshire’s UFO history, that is the point. These entries are not negligi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Identifying UFOs and UAPs  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/</a>  
+   Link:<a href="https://in-the-sky.org/" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20201111 Redacted reply to 11901 re UFO Reports O  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150325 FOI2897  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f7f9d40f0b6230268fdb8/20150325-FOI2897.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/whatsup_times.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/whatsup_times.php</a>  
+   Link:<a href="https://in-the-sky.org/whatsup_times.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/whatsup_times.php</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/data/object.php?id=P2" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/data/object.php?id=P2</a>  
+   Link:<a href="https://in-the-sky.org/data/object.php?id=P2" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/data/object.php?id=P2</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/skymap.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap.php</a>  
+   Link:<a href="https://in-the-sky.org/skymap.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap.php</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/news.php?id=20220320_11_100" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/news.php?id=20220320_11_100</a>  
+   Link:<a href="https://in-the-sky.org/news.php?id=20220320" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/news.php?id=20220320</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/data/planets.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/data/planets.php</a>  
+   Link:<a href="https://in-the-sky.org/data/planets.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/data/planets.php</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/skymap2.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap2.php</a>  
+   Link:<a href="https://in-the-sky.org/skymap2.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap2.php</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/summaries" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/summaries</a>  
+   Link:<a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/summaries" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/summaries</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/past-uk-weather-events</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metoffice.gov.uk  
    Title: met office weather records for february  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/met-office-weather-records-for-february" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/met-office-weather-records-for-february</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/met-office-weather-records-for-february" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/met-office-weather-records-for-february</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metoffice.gov.uk  
    Title: monthly weather reports  
-   Link: <a href="https://www.metoffice.gov.uk/research/library-and-archive/archive-hidden-treasures/monthly-weather-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/library-and-archive/archive-hidden-treasures/monthly-weather-reports</a>  
+   Link:<a href="https://www.metoffice.gov.uk/research/library-and-archive/archive-hidden-treasures/monthly-weather-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/library-and-archive/archive-hidden-treasures/monthly-weather-reports</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
+   Link:<a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digital.nmla.metoffice.gov.uk  
    Title: metoffice.gov.uk Monthly Weather Report  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/so_7498a04d-6a40-4207-a27f-772663ffd2fc/?pg=5" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/so_7498a04d-6a40-4207-a27f-772663ffd2fc/?pg=5</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/so_7498a04d-6a40-4207-a27f-772663ffd2fc/?pg=5" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/so_7498a04d-6a40-4207-a27f-772663ffd2fc/?pg=5</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: metoffice.gov.uk  
    Title: the met office year in weather 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/the-met-office-year-in-weather-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/the-met-office-year-in-weather-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/the-met-office-year-in-weather-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/the-met-office-year-in-weather-2025</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: metoffice.gov.uk  
    Title: met office february and winter weather stats 2025 26  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/met-office-february-and-winter-weather-stats-2025-26" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/met-office-february-and-winter-weather-stats-2025-26</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/met-office-february-and-winter-weather-stats" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/met-office-february-and-winter-weather-stats</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531995" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531995</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531995" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531995</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aberdeenshire.gov.uk  
    Title: aberdeenshire and moray records  
-   Link: <a href="https://www.aberdeenshire.gov.uk/local/aberdeenshire-and-moray-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/local/aberdeenshire-and-moray-records/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/local/aberdeenshire-and-moray-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/local/aberdeenshire-and-moray-records/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: moray.gov.uk  
-   Link: <a href="https://www.moray.gov.uk/minutes/data/MC20080514/item21lordlieutenant2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.moray.gov.uk/minutes/data/MC20080514/item21lordlieutenant2.pdf</a>  
+   Link:<a href="https://www.moray.gov.uk/minutes/data/MC20080514/item21lordlieutenant2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.moray.gov.uk/minutes/data/MC20080514/item21lordlieutenant2.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: astronomy.com  
    Title: the sky today thursday february 26 2026  
-   Link: <a href="https://www.astronomy.com/observing/the-sky-today-thursday-february-26-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/the-sky-today-thursday-february-26-2026/</a>  
+   Link:<a href="https://www.astronomy.com/observing/the-sky-today-thursday-february-26-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/the-sky-today-thursday-february-26-2026/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Banffshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Banffshire</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Light pillar  
-   Link: <a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banffshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banffshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: blog.metservice.com  
    Title: atmospheric optics  
-   Link: <a href="https://blog.metservice.com/atmospheric-optics" target="_blank" rel="noopener noreferrer nofollow">https://blog.metservice.com/atmospheric-optics</a>  
+   Link:<a href="https://blog.metservice.com/atmospheric-optics" target="_blank" rel="noopener noreferrer nofollow">https://blog.metservice.com/atmospheric-optics</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/counties/banffshire" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties/banffshire</a>  
+   Link:<a href="https://realcounties.com/counties/banffshire" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties/banffshire</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: 'Fireball' lights up skies above Scotland  
-   Link: <a href="https://www.youtube.com/watch?v=Culjwirl4yo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Culjwirl4yo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Lights in the Sky Are Back - And Scientists Are Warning Us...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Culjwirl4yo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Culjwirl4yo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Lights in the Sky Are Back - And Scientists Are Warning Us...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/a-pilot-reported-seeing-an-object-with-bright-lights-come-up-on-her-left-hand-si/10157124087693689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/a-pilot-reported-seeing-an-object-with-bright-lights-come-up-on-her-left-hand-si/10157124087693689/</a>  
+   Link:<a href="https://www.facebook.com/nbcnightlynews/posts/a-pilot-reported-seeing-an-object-with-bright-lights-come-up-on-her-left-hand-si/10157124087693689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/a-pilot-reported-seeing-an-object-with-bright-lights-come-up-on-her-left-hand-si/10157124087693689/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: lordlieutenant-aberdeenshire.co.uk  
-   Link: <a href="https://www.lordlieutenant-aberdeenshire.co.uk/aberdeenshirelieutenancy" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenant-aberdeenshire.co.uk/aberdeenshirelieutenancy</a>  
+   Link:<a href="https://www.lordlieutenant-aberdeenshire.co.uk/aberdeenshirelieutenancy" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenant-aberdeenshire.co.uk/aberdeenshirelieutenancy</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: sidc.be  
-   Link: <a href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow">https://sidc.be/article/aurora-lookalikes</a>  
+   Link:<a href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow">https://sidc.be/article/aurora-lookalikes</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: wunderground.com  
-   Link: <a href="https://www.wunderground.com/history/daily/gb/banff/IBANFF27/date/2023-1-1" target="_blank" rel="noopener noreferrer nofollow">https://www.wunderground.com/history/daily/gb/banff/IBANFF27/date/2023-1-1</a>  
+   Link:<a href="https://www.wunderground.com/history/daily/gb/banff/IBANFF27/date/2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wunderground.com/history/daily/gb/banff/IBANFF27/date/2023</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: lordlieutenantbanffshire.co.uk  
-   Link: <a href="https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-area" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-area</a>  
+   Link:<a href="https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-area" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-area</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: lordlieutenantbanffshire.co.uk  
-   Link: <a href="https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-team" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-team</a>  
+   Link:<a href="https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-team" target="_blank" rel="noopener noreferrer nofollow">https://www.lordlieutenantbanffshire.co.uk/banffshire-lieutenancy-team</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Banffshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Banffshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Banffshire</a>  

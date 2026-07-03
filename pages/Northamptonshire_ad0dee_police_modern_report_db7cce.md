@@ -258,16 +258,16 @@ After the Ministry of Defence closed its UFO desk in November 2009, [Northampton
 
 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-overview.webp" | relative_url }}" alt="Overview image for Police Reports" loading="eager" decoding="sync" fetchpriority="high">
-The strongest recent evidence is modest but useful. A 2022 Northamptonshire Police FOI response found no matching UFO/UAP incident reports for that year, while a 2025 disclosure listed a handful of keyword-matched calls from late 2024 and early 2025, including reports in Northampton and one logged as Banbury. The point is not that these logs prove extraordinary craft. They show that public reporting continued after the MoD withdrew, but in a system designed for risk, welfare, crime, nuisance, and public safety rather than mystery-solving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The strongest recent evidence is modest but useful. A 2022 Northamptonshire Police FOI response found no matching UFO/UAP incident reports for that year, while a 2025 disclosure listed a handful of keyword-matched calls from late 2024 and early 2025, including reports in Northampton and one logged as Banbury. The point is not that these logs prove extraordinary craft. They show that public reporting continued after the MoD withdrew, but in a system designed for risk, welfare, crime, nuisance, and public safety rather than mystery-solving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
 
 ## What police UFO records can show
 
-The MoD’s old role was already narrower than popular memory sometimes suggests. Its published UFO report series covered 1997 to 2009 and recorded dates, times, locations, and brief descriptions, but the defence question was whether a sighting indicated a threat to UK airspace, not whether it proved alien visitation. GOV.UK still describes the released material in that limited way: “UFO reports 1997 to 2009” with basic sighting details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The MoD’s old role was already narrower than popular memory sometimes suggests. Its published UFO report series covered 1997 to 2009 and recorded dates, times, locations, and brief descriptions, but the defence question was whether a sighting indicated a threat to UK airspace, not whether it proved alien visitation. GOV.UK still describes the released material in that limited way: “UFO reports 1997 to 2009” with basic sighting details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-When the final tranche of files was released, The National Archives explained that the MoD desk had received more than 600 sightings in 2009, treble the previous year, and that ministers were told no report in more than 50 years had revealed anything suggesting an extraterrestrial presence or military threat to the UK. The closure also ended the dedicated UFO hotline and email address, leaving no obvious national public intake point for ordinary sky-sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+When the final tranche of files was released, The National Archives explained that the MoD desk had received more than 600 sightings in 2009, treble the previous year, and that ministers were told no report in more than 50 years had revealed anything suggesting an extraterrestrial presence or military threat to the UK. The closure also ended the dedicated UFO hotline and email address, leaving no obvious national public intake point for ordinary sky-sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That is why Northamptonshire Police records matter for the post-2009 period. They are not a replacement UFO bureau, but they are one of the few public traces left when people still call an official body. They can show:
 
@@ -281,11 +281,11 @@ That is why Northamptonshire Police records matter for the post-2009 period. The
 
 </div>
 
-The clearest recent Northamptonshire Police disclosure is FOI 10701-25, published in June 2025. The request asked for incident logs since 1 January 2024 involving “unidentified flying object” or “unidentified aerial phenomena” and logs containing “UFO”, “Alien”, “UAP” or “spaceship”. The force replied that it searched incident descriptions from January 2024 to May 2025 inclusive for exact words and phrases including “UFO”, “UAP”, “ALIEN”, “SPACESHIP”, “UNIDENTIFIED FLYING OBJECT” and “UNIDENTIFIED AERIAL PHENOMENA”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
+The clearest recent Northamptonshire Police disclosure is FOI 10701-25, published in June 2025. The request asked for incident logs since 1 January 2024 involving “unidentified flying object” or “unidentified aerial phenomena” and logs containing “UFO”, “Alien”, “UAP” or “spaceship”. The force replied that it searched incident descriptions from January 2024 to May 2025 inclusive for exact words and phrases including “UFO”, “UAP”, “ALIEN”, “SPACESHIP”, “UNIDENTIFIED FLYING OBJECT” and “UNIDENTIFIED AERIAL PHENOMENA”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
 
-The matches were few. The disclosed entries included a 31 December 2024 call logged at Banbury about a light outside a window getting brighter and described by the caller as an “alien ship”; a 27 February 2025 Northampton call involving claims of abduction by a UFO and Bigfoot; a 16 April 2025 Northampton report of a “green UFO sighting” described as a small-to-medium ellipse; and an 18 May 2025 Northampton call saying “alien and Russian” had set the caller up. These entries are valuable as evidence of reporting behaviour, but their wording also shows why police logs must be read carefully: some appear closer to welfare or confused-call contexts than to structured aerial-observation reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
+The matches were few. The disclosed entries included a 31 December 2024 call logged at Banbury about a light outside a window getting brighter and described by the caller as an “alien ship”; a 27 February 2025 Northampton call involving claims of abduction by a UFO and Bigfoot; a 16 April 2025 Northampton report of a “green UFO sighting” described as a small-to-medium ellipse; and an 18 May 2025 Northampton call saying “alien and Russian” had set the caller up. These entries are valuable as evidence of reporting behaviour, but their wording also shows why police logs must be read carefully: some appear closer to welfare or confused-call contexts than to structured aerial-observation reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
 
-The 2022 FOI trail gives a useful contrast. In response to a request covering 1 January to 5 December 2022 for reports mentioning UFO, UAP, lights in the sky, aliens, or extra-terrestrial beings, Northamptonshire Police confirmed a nil result. It also warned that keyword searches are problematic because they return only selected terms in incident descriptions and should not be treated as exact figures for all possible sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+The 2022 FOI trail gives a useful contrast. In response to a request covering 1 January to 5 December 2022 for reports mentioning UFO, UAP, lights in the sky, aliens, or extra-terrestrial beings, Northamptonshire Police confirmed a nil result. It also warned that keyword searches are problematic because they return only selected terms in incident descriptions and should not be treated as exact figures for all possible sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-1-dark.svg" | relative_url }}" alt="Police Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -293,11 +293,11 @@ The 2022 FOI trail gives a useful contrast. In response to a request covering 1 
 
 The most important reading rule is simple: a police incident log is not the same thing as an investigation file. It is a record of contact, triage, and operational decision-making. In UFO terms, that means a log may preserve the caller’s words without showing whether the object was checked against aircraft, astronomical events, satellites, lanterns, drones, weather, or other [explanations]({{ 'explanations-0b79e9/' | relative_url }}).
 
-Northamptonshire Police made this limitation explicit in the 2025 disclosure. The force said keyword searches only return exact matches within the incident description and do not account for differences in terminology or spelling. It added that such searches are “problematic” and do not provide accurate results or figures if the chosen words were not used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
+Northamptonshire Police made this limitation explicit in the 2025 disclosure. The force said keyword searches only return exact matches within the incident description and do not account for differences in terminology or spelling. It added that such searches are “problematic” and do not provide accurate results or figures if the chosen words were not used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
 
-That caveat changes how the Northamptonshire record should be used. A nil result for 2022 does not prove nobody in the county saw anything odd in the sky that year. It means that, within the terms searched and the way incidents were described, Northamptonshire Police found no matching records. Likewise, four keyword matches from January 2024 to May 2025 do not mean there were exactly four unusual aerial events. They mean four incident descriptions contained the selected terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+That caveat changes how the Northamptonshire record should be used. A nil result for 2022 does not prove nobody in the county saw anything odd in the sky that year. It means that, within the terms searched and the way incidents were described, Northamptonshire Police found no matching records. Likewise, four keyword matches from January 2024 to May 2025 do not mean there were exactly four unusual aerial events. They mean four incident descriptions contained the selected terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
-A second 2025 disclosure shows another boundary. A broader request asked Northamptonshire Police for UAP/UFO reports from 2020 onwards, internal communications, assessments, investigations with other agencies, and annual statistics. The force refused under section 12(2) of the Freedom of Information Act because the material was not held in a reasonably retrievable form and the request was too generic to route without knowing which departments, people, or dates to search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 1266 25 uap and ufo reports</span><span class="citation-popover-snippet">foi 1266 25 uap and ufo reports</span></span></span>
+A second 2025 disclosure shows another boundary. A broader request asked Northamptonshire Police for UAP/UFO reports from 2020 onwards, internal communications, assessments, investigations with other agencies, and annual statistics. The force refused under section 12(2) of the Freedom of Information Act because the material was not held in a reasonably retrievable form and the request was too generic to route without knowing which departments, people, or dates to search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 1266 25 uap and ufo reports</span><span class="citation-popover-snippet">foi 1266 25 uap and ufo reports</span></span></span>
 
 That refusal is not evidence of secrecy by itself. It is evidence of a governance problem familiar across many public records: information may exist in fragments, but not in a dedicated UFO category that can be retrieved cheaply and reliably. Once the MoD desk closed, there was no single national UFO filing system into which local Northamptonshire reports naturally flowed.
 
@@ -310,15 +310,15 @@ For readers of Northamptonshire UFO history, this makes the post-2009 period har
 
 Drones have changed the meaning of a modern “UFO call” more than any single pop-culture shift. Before consumer drones became common, a witness describing a small hovering light might think first of aircraft, lanterns, stars, satellites, or something unexplained. Now, the same observation may be logged as a drone concern, a privacy complaint, a safety risk, or a possible breach of aviation law rather than as a UFO.
 
-Northamptonshire Police’s own drone advice reflects this shift. It explains that drones range from children’s toys to large military systems, that most drone rules depend on weight, location, and proximity to people or built-up areas, and that operators may need a CAA Operator ID while pilots of drones over 250g need a Flyer ID. The same page lists common restrictions: do not endanger people, keep the drone visible, do not fly over 400ft, do not fly in restricted airspace without permission, and do not fly where emergency services are responding unless authorised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">Northamptonshire Police Drones &#124; Northamptonshire Police</span><span class="citation-popover-snippet">Northamptonshire Police Drones &#124; Northamptonshire Police</span></span></span>
+Northamptonshire Police’s own drone advice reflects this shift. It explains that drones range from children’s toys to large military systems, that most drone rules depend on weight, location, and proximity to people or built-up areas, and that operators may need a CAA Operator ID while pilots of drones over 250g need a Flyer ID. The same page lists common restrictions: do not endanger people, keep the drone visible, do not fly over 400ft, do not fly in restricted airspace without permission, and do not fly where emergency services are responding unless authorised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">Northamptonshire Police Drones &#124; Northamptonshire Police</span><span class="citation-popover-snippet">Northamptonshire Police Drones &#124; Northamptonshire Police</span></span></span>
 
 This matters because a Northamptonshire caller who once might have said “UFO” may now say “drone”. That makes the modern archive split in two. UFO keyword searches catch reports using older mystery language; drone systems catch reports using safety, nuisance, or enforcement language. The two categories can overlap in lived experience, but they are often separated in public records.
 
-The Civil Aviation Authority reinforces the police role in drone complaints. Its public guidance says that a dangerously flown drone should be reported to police on 101, including drones flown higher than 400ft or close to an airport, and that drone complaints are among the matters dealt with by other agencies rather than solely by the CAA. It also says reports are assessed for evidence and safety impact before any full investigation is considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The Civil Aviation Authority reinforces the police role in drone complaints. Its public guidance says that a dangerously flown drone should be reported to police on 101, including drones flown higher than 400ft or close to an airport, and that drone complaints are among the matters dealt with by other agencies rather than solely by the CAA. It also says reports are assessed for evidence and safety impact before any full investigation is considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-The CAA’s specific police-force guidance says police are responsible for enforcement where drone law may not have been met, with possible outcomes ranging from warnings to confiscation and imprisonment. It tells the public to contact local police on 101 for unmanned-aircraft concerns and 999 if there is an immediate threat to safety or security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/drone-regulations-for-police-forces/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The CAA’s specific police-force guidance says police are responsible for enforcement where drone law may not have been met, with possible outcomes ranging from warnings to confiscation and imprisonment. It tells the public to contact local police on 101 for unmanned-aircraft concerns and 999 if there is an immediate threat to safety or security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/drone-regulations-for-police-forces/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-Northamptonshire Police also sets out its powers under the Air Traffic Management and Unmanned Aircraft Act 2021. If officers think a drone could be connected to an offence, the force says it can require a landing, stop and search people or vehicles for drone equipment, confiscate equipment found during a search, require registration or permission evidence, and check a drone to understand which rules apply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">Northamptonshire Police Drones &#124; Northamptonshire Police</span><span class="citation-popover-snippet">Northamptonshire Police Drones &#124; Northamptonshire Police</span></span></span>
+Northamptonshire Police also sets out its powers under the Air Traffic Management and Unmanned Aircraft Act 2021. If officers think a drone could be connected to an offence, the force says it can require a landing, stop and search people or vehicles for drone equipment, confiscate equipment found during a search, require registration or permission evidence, and check a drone to understand which rules apply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">Northamptonshire Police Drones &#124; Northamptonshire Police</span><span class="citation-popover-snippet">Northamptonshire Police Drones &#124; Northamptonshire Police</span></span></span>
 
 This is a major difference from the old UFO desk. A classic UFO report might be logged, filed, and assessed for defence significance. A drone report can trigger live public-safety and enforcement questions: is it near an aerodrome, a prison, an emergency scene, a crowd, a built-up area, or private property? That means modern “unidentified aerial” reporting is less romantic but often more operational.
 
@@ -326,9 +326,9 @@ This is a major difference from the old UFO desk. A classic UFO report might be 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-2-dark.svg" | relative_url }}" alt="Police Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Northamptonshire
 
-Northamptonshire’s post-MoD UFO record is not rich in dramatic, well-investigated cases. Its value lies in showing how official attention changed after 2009. The MoD stepped away because it judged the UFO desk to serve no defence purpose; local police still receive occasional calls, but only within systems built for incident management, public safety, welfare, and law enforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Northamptonshire’s post-MoD UFO record is not rich in dramatic, well-investigated cases. Its value lies in showing how official attention changed after 2009. The MoD stepped away because it judged the UFO desk to serve no defence purpose; local police still receive occasional calls, but only within systems built for incident management, public safety, welfare, and law enforcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-For the county’s UFO history, the most responsible conclusion is cautious. The 2022 nil return weakens any claim that Northamptonshire police logs show a continuous, high-volume UFO pattern in that year. The 2024–2025 matches show that unusual or “alien” language still appears in calls, but the content is mixed and sometimes plainly unsuitable for treating as straightforward sky-witness evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
+For the county’s UFO history, the most responsible conclusion is cautious. The 2022 nil return weakens any claim that Northamptonshire police logs show a continuous, high-volume UFO pattern in that year. The 2024–2025 matches show that unusual or “alien” language still appears in calls, but the content is mixed and sometimes plainly unsuitable for treating as straightforward sky-witness evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">What Do They Know</span></span></span>
 
 The interesting governance story is the gap between public curiosity and institutional purpose. Members of the public may still want an official body to “record UFOs”. Northamptonshire Police can record calls, but it is not a UFO investigation unit. The CAA can assess aviation-safety evidence, but it does not investigate every vague light in the sky. The MoD no longer runs the public UFO desk. Between those institutions, many modern sightings now live as fragments.
 
@@ -341,9 +341,9 @@ That does not make the records useless. It means they answer narrower questions.
 
 Future Northamptonshire UFO or UAP disclosures should be judged by the detail they contain, not by the label attached to them. A strong modern report would ideally include date, time, precise location, direction of travel, duration, sound, colour, shape, weather, witness position, photographs or video, checks against aircraft and satellite trackers, and whether any drone, emergency-service, CAA, or airport issue was involved.
 
-A weak report may still be socially interesting, especially if it shows how people describe strange aerial experiences, but it should not be inflated into a county mystery. The 2025 logs are a good example: they show that UFO and alien language still reaches Northamptonshire Police, yet the entries are too brief and mixed in character to support strong claims about unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
+A weak report may still be socially interesting, especially if it shows how people describe strange aerial experiences, but it should not be inflated into a county mystery. The 2025 logs are a good example: they show that UFO and alien language still reaches Northamptonshire Police, yet the entries are too brief and mixed in character to support strong claims about unexplained craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northants.police.uk">[Northamptonshire Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northants.police.uk</span><span class="citation-popover-title">foi 10701 25 ufo sightings</span><span class="citation-popover-snippet">foi 10701 25 ufo sightings</span></span></span>
 
-The drone dimension will only become more important. The National Police Chiefs’ Council says UK police forces already make around 60,000 drone flights a year and are developing wider drone capability for public safety and crime reduction. As police, private users, emergency services, media operators, and hobbyists all use unmanned aircraft more often, Northamptonshire sky reports will increasingly need to separate “unidentified” from “unfamiliar but lawful”, “unsafe drone use”, “privacy concern”, and “possible aviation offence”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.npcc.police.uk/our-work/work-of-npcc-committees/operations-coordination-committee/police-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: npcc.police.uk">[NPCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">npcc.police.uk</span><span class="citation-popover-title">NPCCUse of drones in policing</span><span class="citation-popover-snippet">NPCCUse of drones in policing</span></span></span>
+The drone dimension will only become more important. The National Police Chiefs’ Council says UK police forces already make around 60,000 drone flights a year and are developing wider drone capability for public safety and crime reduction. As police, private users, emergency services, media operators, and hobbyists all use unmanned aircraft more often, Northamptonshire sky reports will increasingly need to separate “unidentified” from “unfamiliar but lawful”, “unsafe drone use”, “privacy concern”, and “possible aviation offence”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.npcc.police.uk/our-work/work-of-npcc-committees/operations-coordination-committee/police-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: npcc.police.uk">[NPCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">npcc.police.uk</span><span class="citation-popover-title">NPCCUse of drones in policing</span><span class="citation-popover-snippet">NPCCUse of drones in policing</span></span></span>
 
 For Northamptonshire’s UFO map, the post-MoD police record therefore belongs in a careful middle category. It is not a sensational archive of hidden cases, but neither is it irrelevant. It is evidence of how unexplained-sky reporting survives when the national UFO desk is gone: scattered, local, keyword-dependent, shaped by police priorities, and increasingly tangled with the ordinary presence of drones in UK airspace.
 
@@ -351,194 +351,194 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-3-dark.svg" | relative_url }}" alt="Police Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_police_modern_report_db7cce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Records Northamptonshire UFO Calls Now?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Records Northamptonshire UFO Calls Now?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to UK government processing of UFO reports and the transition away from formal investigation structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to UK government processing of UFO reports and the transition away from formal investigation structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on official records, reporting systems, government handling of sightings, and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on official records, reporting systems, government handling of sightings, and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides context for how modern sightings, reports, and government responses are discussed in the post-MoD-desk era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how modern sightings, reports, and government responses are discussed in the post-MoD-desk era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for understanding British UFO records, public reports, and the documentary trail behind sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding British UFO records, public reports, and the documentary trail behind sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/WyIAAOSwhFdn3E~e/s-l225.jpg" alt="Listing image for Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="police-reports-who-records-northamptonshire-ufo-calls-now-northamptonshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-records-northamptonshire-ufo-calls-now-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,219 +744,219 @@ For Northamptonshire’s UFO map, the post-MoD police record therefore belongs i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_26/response/2204769/attach/5/FOI%206872%2022%20Reports%20of%20UFO%20or%20UAP.pdf?cookie_passthrough=1</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: northants.police.uk  
    Title: foi 10701 25 ufo sightings  
-   Link: <a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
+   Link:<a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: northants.police.uk  
    Title: foi 1266 25 uap and ufo reports  
-   Link: <a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/</a>  
+   Link:<a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: northants.police.uk  
    Title: Northamptonshire Police Drones | Northamptonshire Police  
-   Link: <a href="https://www.northants.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.northants.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: npcc.police.uk  
    Title: NPCCUse of drones in policing  
-   Link: <a href="https://www.npcc.police.uk/our-work/work-of-npcc-committees/operations-coordination-committee/police-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.npcc.police.uk/our-work/work-of-npcc-committees/operations-coordination-committee/police-use-of-drones/</a>  
+   Link:<a href="https://www.npcc.police.uk/our-work/work-of-npcc-committees/operations-coordination-committee/police-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.npcc.police.uk/our-work/work-of-npcc-committees/operations-coordination-committee/police-use-of-drones/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: northants.police.uk  
-   Link: <a href="https://www.northants.police.uk/foi-ai/af/accessing-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/af/accessing-information/</a>  
+   Link:<a href="https://www.northants.police.uk/foi-ai/af/accessing-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/af/accessing-information/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_26" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_26</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_26" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_26</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_48" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_48</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_48" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_48</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: whatdotheyknow.com  
    Title: Drone incidents  
-   Link: <a href="https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_28" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_28</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_28" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_28</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_49" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_49</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_49" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_49</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: whatdotheyknow.com  
    Title: UAP/UFO sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/uapufo_sightings_11" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_11</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/uapufo_sightings_11" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_11</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_44" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_44</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_44" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_44</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_43" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_43</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_43" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_43</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_37" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_37</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_37" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_37</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_36" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_36</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_36" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_36</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_45" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_45</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_45" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_45</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_24" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_24</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_24" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_24</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: whatdotheyknow.com  
    Title: UF O/UAP sightings  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufouap_sightings_38" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_38</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/ufouap_sightings_38" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufouap_sightings_38</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: whatdotheyknow.com  
    Title: Drone incidents  
-   Link: <a href="https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_20" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_20</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_20" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/drone_incidents_standardised_rep_20</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: met.police.uk  
-   Link: <a href="https://www.met.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.met.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: npcc.police.uk  
-   Link: <a href="https://www.npcc.police.uk/publications/disclosure-log/operations-coordination-committee/" target="_blank" rel="noopener noreferrer nofollow">https://www.npcc.police.uk/publications/disclosure-log/operations-coordination-committee/</a>  
+   Link:<a href="https://www.npcc.police.uk/publications/disclosure-log/operations-coordination-committee/" target="_blank" rel="noopener noreferrer nofollow">https://www.npcc.police.uk/publications/disclosure-log/operations-coordination-committee/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cambs.police.uk  
    Title: reports of ufos  
-   Link: <a href="https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2025/april/reports-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2025/april/reports-of-ufos/</a>  
+   Link:<a href="https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2025/april/reports-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambs.police.uk/foi-ai/cambridgeshire-police/foi/2025/april/reports-of-ufos/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: polperrocommunitycouncil.gov.uk  
    Title: Drone Legislation & Police Powers CAA  
-   Link: <a href="https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf</a>  
+   Link:<a href="https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polperrocommunitycouncil.gov.uk/wp-content/uploads/2023/09/Drone-Legislation-Police-Powers-Investigation-Advice-Full-Verson-v2.1.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: psni.police.uk  
    Title: Unmanned Aircraft Systems  
-   Link: <a href="https://www.psni.police.uk/safety-and-support/advice-and-information/unmanned-aircraft-systems-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/safety-and-support/advice-and-information/unmanned-aircraft-systems-drones</a>  
+   Link:<a href="https://www.psni.police.uk/safety-and-support/advice-and-information/unmanned-aircraft-systems-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/safety-and-support/advice-and-information/unmanned-aircraft-systems-drones</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scotland.police.uk  
-   Link: <a href="https://www.scotland.police.uk/what-s-happening/news/2022/november/warning-to-drone-operators/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/what-s-happening/news/2022/november/warning-to-drone-operators/</a>  
+   Link:<a href="https://www.scotland.police.uk/what-s-happening/news/2022/november/warning-to-drone-operators/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotland.police.uk/what-s-happening/news/2022/november/warning-to-drone-operators/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: thamesvalley.police.uk  
-   Link: <a href="https://www.thamesvalley.police.uk/police-forces/thames-valley-police/areas/au/about-us/our-people/chief-officers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thamesvalley.police.uk/police-forces/thames-valley-police/areas/au/about-us/our-people/chief-officers/</a>  
+   Link:<a href="https://www.thamesvalley.police.uk/police-forces/thames-valley-police/areas/au/about-us/our-people/chief-officers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thamesvalley.police.uk/police-forces/thames-valley-police/areas/au/about-us/our-people/chief-officers/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/</a>  
+   Link:<a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/drone-regulations-for-police-forces/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/drone-regulations-for-police-forces/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/drone-regulations-for-police-forces/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/drone-regulations-for-police-forces/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFWaddington/posts/-see-a-drone-where-it-shouldnt-be-your-report-mattersunauthorised-drone-use-can-/1400889968744461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFWaddington/posts/-see-a-drone-where-it-shouldnt-be-your-report-mattersunauthorised-drone-use-can-/1400889968744461/</a>  
+   Link:<a href="https://www.facebook.com/RAFWaddington/posts/-see-a-drone-where-it-shouldnt-be-your-report-mattersunauthorised-drone-use-can-/1400889968744461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFWaddington/posts/-see-a-drone-where-it-shouldnt-be-your-report-mattersunauthorised-drone-use-can-/1400889968744461/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: northantspfcc.org.uk  
-   Link: <a href="https://northantspfcc.org.uk/your-information/" target="_blank" rel="noopener noreferrer nofollow">https://northantspfcc.org.uk/your-information/</a>  
+   Link:<a href="https://northantspfcc.org.uk/your-information/" target="_blank" rel="noopener noreferrer nofollow">https://northantspfcc.org.uk/your-information/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northantspolice/posts/now-in-its-seventh-year-operation-snap-continues-to-reap-the-rewards-of-public-s/1435481325292580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northantspolice/posts/now-in-its-seventh-year-operation-snap-continues-to-reap-the-rewards-of-public-s/1435481325292580/</a>  
+   Link:<a href="https://www.facebook.com/northantspolice/posts/now-in-its-seventh-year-operation-snap-continues-to-reap-the-rewards-of-public-s/1435481325292580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northantspolice/posts/now-in-its-seventh-year-operation-snap-continues-to-reap-the-rewards-of-public-s/1435481325292580/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYb-pd0IPAc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYb-pd0IPAc/</a>  
+   Link:<a href="https://www.instagram.com/p/DYb-pd0IPAc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYb-pd0IPAc/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK &#x27;not doing enough&#x27; to investigate UFO reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK &#x27;not doing enough&#x27; to investigate UFO reports...</p></details>
    Published: February 2010  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: moorlandassociation.org  
    Title: drone use on moorland key legal facts for landowners  
-   Link: <a href="https://www.moorlandassociation.org/post/drone-use-on-moorland-key-legal-facts-for-landowners" target="_blank" rel="noopener noreferrer nofollow">https://www.moorlandassociation.org/post/drone-use-on-moorland-key-legal-facts-for-landowners</a>  
+   Link:<a href="https://www.moorlandassociation.org/post/drone-use-on-moorland-key-legal-facts-for-landowners" target="_blank" rel="noopener noreferrer nofollow">https://www.moorlandassociation.org/post/drone-use-on-moorland-key-legal-facts-for-landowners</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: UK 'not doing enough' to investigate UFO reports  
-   Link: <a href="https://www.youtube.com/watch?v=oJJ5unxbvho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJJ5unxbvho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release March 2009...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oJJ5unxbvho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJJ5unxbvho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release March 2009...</p></details>
    Published: March 2009  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: cepol.europa.eu  
    Title: eu European Law Enforcement Research Bulletin  
-   Link: <a href="https://www.cepol.europa.eu/api/assets/media/downloads/2023/cepol_european_law_enforcement_research_bulletin_issue_no22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cepol.europa.eu/api/assets/media/downloads/2023/cepol_european_law_enforcement_research_bulletin_issue_no22.pdf</a>  
+   Link:<a href="https://www.cepol.europa.eu/api/assets/media/downloads/2023/cepol_european_law_enforcement_research_bulletin_issue_no22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cepol.europa.eu/api/assets/media/downloads/2023/cepol_european_law_enforcement_research_bulletin_issue_no22.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: hiredronepilot.uk  
    Title: caught flying drone illegally uk  
-   Link: <a href="https://hiredronepilot.uk/blog/caught-flying-drone-illegally-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/caught-flying-drone-illegally-uk/</a>  
+   Link:<a href="https://hiredronepilot.uk/blog/caught-flying-drone-illegally-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/caught-flying-drone-illegally-uk/</a>  

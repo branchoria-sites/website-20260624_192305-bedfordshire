@@ -254,19 +254,19 @@ image: /assets/images/Kent_4e168a_manston_torres_scram_48adf3-overview-social.jp
 
 ## Introduction
 
-RAF Manston gives Kent one of its best-known Cold War UFO stories: the night in May 1957 when United States Air Force pilot Milton Torres said he was scrambled from the Kent airfield in an F-86D Sabre to intercept a huge radar target over eastern England. The case matters because it was not a simple light-in-the-sky report. It involved fighter control, airborne radar, an armed interceptor, and later Ministry of Defence file releases. But the strongest reading is still cautious. Torres’s account is serious and unusually detailed, yet the surviving record is mostly retrospective, the original 1957 operational paperwork has not surfaced, and a plausible sceptical explanation exists: a radar-spoofing or electronic-warfare test rather than a physical craft. Reuters, New Scientist and The Guardian all reported the case when MoD files were released in 2008, while local Manston history sources stress both its importance and its unresolved gaps. History of Manston Airfield+3Reuters+3New Scientist <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
+RAF Manston gives Kent one of its best-known Cold War UFO stories: the night in May 1957 when United States Air Force pilot Milton Torres said he was scrambled from the Kent airfield in an F-86D Sabre to intercept a huge radar target over eastern England. The case matters because it was not a simple light-in-the-sky report. It involved fighter control, airborne radar, an armed interceptor, and later Ministry of Defence file releases. But the strongest reading is still cautious. Torres’s account is serious and unusually detailed, yet the surviving record is mostly retrospective, the original 1957 operational paperwork has not surfaced, and a plausible sceptical explanation exists: a radar-spoofing or electronic-warfare test rather than a physical craft. Reuters, New Scientist and The Guardian all reported the case when MoD files were released in 2008, while local Manston history sources stress both its importance and its unresolved gaps. History of Manston Airfield+3Reuters+3New Scientist<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-overview.webp" | relative_url }}" alt="Overview image for Manston" loading="eager" decoding="sync" fetchpriority="high">
 ## The Manston scramble story
 
-The core claim is simple but dramatic. Milton Torres, then a young USAF lieutenant based at RAF Manston in Kent, later said he was on alert when he was ordered to scramble in his F-86D Sabre against an unidentified radar target. In the published account, the target was not seen visually because cloud and night conditions prevented a clear sighting, but it appeared on radar and was treated by controllers as a real interception problem. Torres said he obtained a radar lock, was ordered to fire a full salvo of rockets, received valid authentication, selected his rockets, and then lost the target before he could fire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
+The core claim is simple but dramatic. Milton Torres, then a young USAF lieutenant based at RAF Manston in Kent, later said he was on alert when he was ordered to scramble in his F-86D Sabre against an unidentified radar target. In the published account, the target was not seen visually because cloud and night conditions prevented a clear sighting, but it appeared on radar and was treated by controllers as a real interception problem. Torres said he obtained a radar lock, was ordered to fire a full salvo of rockets, received valid authentication, selected his rockets, and then lost the target before he could fire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
 
-That makes the case more interesting than many UFO reports, but also more dependent on the reliability of instruments and memory. There was no widely documented public sighting from the ground, no photograph, no wreckage, and no pilot visual confirmation of a craft. The object in the story is mainly a radar problem: a “blip” interpreted as something large, fast and threatening. Torres’s famous description — that the lock-on had the proportions of a “flying aircraft carrier” — came from his written recollection as reported in the released file coverage, not from a surviving 1957 radar film publicly available to researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
+That makes the case more interesting than many UFO reports, but also more dependent on the reliability of instruments and memory. There was no widely documented public sighting from the ground, no photograph, no wreckage, and no pilot visual confirmation of a craft. The object in the story is mainly a radar problem: a “blip” interpreted as something large, fast and threatening. Torres’s famous description — that the lock-on had the proportions of a “flying aircraft carrier” — came from his written recollection as reported in the released file coverage, not from a surviving 1957 radar film publicly available to researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
 
-The Kent link is RAF Manston itself. The tracked target was associated with East Anglian airspace and the wider North Sea defence environment, but the alert aircraft and pilot were based at Manston. The airfield’s Cold War role is therefore central: this was a Kent launch point for a wider air-defence incident, not a purely local sighting over Ramsgate or Thanet. Manston’s own historical site summarises the episode as a USAF F-86D scramble from the base, involving recollections from pilots of the 406th Fighter Interceptor Wing and a target reportedly seen on both ground and airborne radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manstonhistory.org.uk">[History of Manston Airfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manstonhistory.org.uk</span><span class="citation-popover-title">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span><span class="citation-popover-snippet">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span></span></span>
+The Kent link is RAF Manston itself. The tracked target was associated with East Anglian airspace and the wider North Sea defence environment, but the alert aircraft and pilot were based at Manston. The airfield’s Cold War role is therefore central: this was a Kent launch point for a wider air-defence incident, not a purely local sighting over Ramsgate or Thanet. Manston’s own historical site summarises the episode as a USAF F-86D scramble from the base, involving recollections from pilots of the 406th Fighter Interceptor Wing and a target reportedly seen on both ground and airborne radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manstonhistory.org.uk">[History of Manston Airfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manstonhistory.org.uk</span><span class="citation-popover-title">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span><span class="citation-popover-snippet">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span></span></span>
 
-The later emergence of the story is part of the puzzle. According to The Guardian, details surfaced after Torres discussed the incident with a military historian at a RAF Manston reunion in 1988; the MoD reportedly had no original data on the 1957 event, partly because older UFO files had been subject to destruction policies. The National Archives’ own research guidance also notes that few earlier Defence Intelligence UFO records survived destruction, and that surviving files often reflect later correspondence, policy papers and reports rather than complete operational case files from the 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The later emergence of the story is part of the puzzle. According to The Guardian, details surfaced after Torres discussed the incident with a military historian at a RAF Manston reunion in 1988; the MoD reportedly had no original data on the 1957 event, partly because older UFO files had been subject to destruction policies. The National Archives’ own research guidance also notes that few earlier Defence Intelligence UFO records survived destruction, and that surviving files often reflect later correspondence, policy papers and reports rather than complete operational case files from the 1950s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 This leaves the reader with two separate questions. Did Torres sincerely recall a real Cold War scramble? The evidence suggests yes: his story was detailed, named a real airfield, matched the type of aircraft and air-defence setting, and was treated seriously by journalists and researchers when the files were released. Does the record prove that a solid unknown craft was present? No. The case remains unresolved because the most important original evidence — radar film, controller logs, scramble records and a contemporaneous investigation — is missing or unavailable in the public record.
 
@@ -274,13 +274,13 @@ This leaves the reader with two separate questions. Did Torres sincerely recall 
 <img src="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-1-dark.svg" | relative_url }}" alt="Manston illustration 1" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cold War radar and fighter control
 
-The Torres case is easiest to understand if RAF Manston is seen as an air-defence base rather than simply as a Kent landmark. In the 1950s, Britain and the United States were operating in a tense Cold War environment in which Soviet aircraft, nuclear alert procedures and radar warning systems shaped everyday military readiness. Reuters noted that the documents placed the incident in a period when aircraft were kept on constant standby at British bases because of fears of Soviet attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
+The Torres case is easiest to understand if RAF Manston is seen as an air-defence base rather than simply as a Kent landmark. In the 1950s, Britain and the United States were operating in a tense Cold War environment in which Soviet aircraft, nuclear alert procedures and radar warning systems shaped everyday military readiness. Reuters noted that the documents placed the incident in a period when aircraft were kept on constant standby at British bases because of fears of Soviet attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
 
-The aircraft matters too. The F-86D Sabre was not just a fighter with guns. The National Museum of the United States Air Force describes it as an all-weather interceptor fitted with a sophisticated electronic system, radar and fire-control equipment, and a retractable tray of 24 rockets. Its job was to be guided into position against enemy bombers, with radar and fire-control doing much of the work in poor visibility or darkness. That technical context makes Torres’s account internally plausible as an air-defence event: a radar target, a ground-controlled intercept, and a rocket-armed all-weather fighter were exactly the kind of system designed for such a moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198076/north-american-f-86d-sabre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">North American F-86D Sabre &gt; National Museum of the United States Air Force &gt; Display...</span></span></span>
+The aircraft matters too. The F-86D Sabre was not just a fighter with guns. The National Museum of the United States Air Force describes it as an all-weather interceptor fitted with a sophisticated electronic system, radar and fire-control equipment, and a retractable tray of 24 rockets. Its job was to be guided into position against enemy bombers, with radar and fire-control doing much of the work in poor visibility or darkness. That technical context makes Torres’s account internally plausible as an air-defence event: a radar target, a ground-controlled intercept, and a rocket-armed all-weather fighter were exactly the kind of system designed for such a moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198076/north-american-f-86d-sabre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">North American F-86D Sabre &gt; National Museum of the United States Air Force &gt; Display...</span></span></span>
 
 It also explains why a radar ghost could be so convincing. A pilot in such an aircraft did not need to see a target with the naked eye for it to become operationally real. If ground radar, fighter control and the aircraft’s own radar appeared to agree, the system could treat the target as an intruder. That is why the Manston story sits between UFO history and military technology history: its drama comes not from a close visual encounter, but from the pressure created when instruments and orders appeared to converge.
 
-The MoD’s broader record-keeping history adds another layer. Dr David Clarke’s National Archives research guide explains that the MoD’s public position was not that UFO reports proved alien visitation, but that the department had been tasked since the end of the Second World War with recording and, from time to time, investigating UFO sightings to ensure the integrity and security of UK airspace. The same guide notes that in 2008 the MoD began transferring remaining UFO records to The National Archives, a programme that eventually released 227 digital files and around 52,000 pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAResearch Notes 6</span><span class="citation-popover-snippet">SHURAResearch Notes 6</span></span></span>
+The MoD’s broader record-keeping history adds another layer. Dr David Clarke’s National Archives research guide explains that the MoD’s public position was not that UFO reports proved alien visitation, but that the department had been tasked since the end of the Second World War with recording and, from time to time, investigating UFO sightings to ensure the integrity and security of UK airspace. The same guide notes that in 2008 the MoD began transferring remaining UFO records to The National Archives, a programme that eventually released 227 digital files and around 52,000 pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAResearch Notes 6</span><span class="citation-popover-snippet">SHURAResearch Notes 6</span></span></span>
 
 That official framing is important for Kent. A Manston-based scramble could matter to defence officials even if the cause was mundane, secret, mistaken or artificial. The question was not “are aliens visiting Thanet?” but “was there an unidentified radar track in defended airspace, and did it represent an aircraft, a technical anomaly, a test, or a threat?” That air-defence lens is the reason the Torres case has endured in serious UFO writing more than many anecdotal local sightings.
 
@@ -289,11 +289,11 @@ That official framing is important for Kent. A Manston-based scramble could matt
 
 ## What the strongest evidence actually shows
 
-The strongest evidence for the case is not a single smoking-gun document; it is a cluster of mutually reinforcing but imperfect sources. The case entered wider public view when MoD UFO files were released through The National Archives in 2008. Reuters reported that two US fighter aircraft were said to have been scrambled and ordered to shoot down a UFO during the Cold War, and that Torres’s written account described the Manston take-off, the rocket order, the valid authentication and the radar lock. New Scientist, drawing on Reuters, repeated the essentials and added that the released documents contained no official explanation for the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
+The strongest evidence for the case is not a single smoking-gun document; it is a cluster of mutually reinforcing but imperfect sources. The case entered wider public view when MoD UFO files were released through The National Archives in 2008. Reuters reported that two US fighter aircraft were said to have been scrambled and ordered to shoot down a UFO during the Cold War, and that Torres’s written account described the Manston take-off, the rocket order, the valid authentication and the radar lock. New Scientist, drawing on Reuters, repeated the essentials and added that the released documents contained no official explanation for the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
 
-The Guardian’s account is useful because it highlights the archival weakness as well as the drama. It reported the date as 20 May 1957 and stated that the incident appeared among 19 files released by the Ministry of Defence and revealed by The National Archives, but also said the MoD had no data on the event because of earlier file-destruction policy. That distinction matters: the 2008 release did not suddenly produce a complete 1957 investigation. It made available later paperwork and witness recollection that allowed the story to be reported in a more official context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Guardian’s account is useful because it highlights the archival weakness as well as the drama. It reported the date as 20 May 1957 and stated that the incident appeared among 19 files released by the Ministry of Defence and revealed by The National Archives, but also said the MoD had no data on the event because of earlier file-destruction policy. That distinction matters: the 2008 release did not suddenly produce a complete 1957 investigation. It made available later paperwork and witness recollection that allowed the story to be reported in a more official context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-Local Manston history material adds useful branch-specific detail. The History of Manston Airfield page identifies the incident as involving USAF F-86D Sabres from Manston and notes that the accounts came to light after retired pilots met at a RAF Manston reunion in 1988. It also states openly that it cannot vouch for the authenticity of the recollections or explain differences between the two pilots’ stories. That caveat is valuable: it keeps the local historical account from becoming a certainty machine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manstonhistory.org.uk">[History of Manston Airfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manstonhistory.org.uk</span><span class="citation-popover-title">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span><span class="citation-popover-snippet">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span></span></span>
+Local Manston history material adds useful branch-specific detail. The History of Manston Airfield page identifies the incident as involving USAF F-86D Sabres from Manston and notes that the accounts came to light after retired pilots met at a RAF Manston reunion in 1988. It also states openly that it cannot vouch for the authenticity of the recollections or explain differences between the two pilots’ stories. That caveat is valuable: it keeps the local historical account from becoming a certainty machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manstonhistory.org.uk">[History of Manston Airfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manstonhistory.org.uk</span><span class="citation-popover-title">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span><span class="citation-popover-snippet">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span></span></span>
 
 The case therefore rests on credible but late testimony, press reporting of released files, and a technically plausible air-defence setting. It does not rest on a full official case file from the night itself. The reader should treat it as a serious unresolved radar-scramble report, not as a proven encounter with a structured craft.
 
@@ -301,17 +301,17 @@ The case therefore rests on credible but late testimony, press reporting of rele
 <img src="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-2-dark.svg" | relative_url }}" alt="Manston illustration 2" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Secret tests and sceptical explanations
 
-The most discussed sceptical explanation is that Torres may have been caught up in an electronic-warfare or radar-spoofing test. This theory is not a lazy debunking move; it exists because the incident was radar-led, because the reported target behaved in ways that strain ordinary aircraft explanations, and because Cold War powers were actively exploring ways to deceive radar systems. New Scientist reported David Clarke’s suggestion that the sighting may have been part of a secret US project to create phantom aircraft on radar screens to test Soviet air defences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newscientist.com/article/dn14991-newly-released-files-contain-ufo-mysteries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscientist.com">[New Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscientist.com</span><span class="citation-popover-title">New Scientist Newly released files contain UFO mysteries &#124; New Scientist</span><span class="citation-popover-snippet">New Scientist Newly released files contain UFO mysteries &#124; New Scientist</span></span></span>
+The most discussed sceptical explanation is that Torres may have been caught up in an electronic-warfare or radar-spoofing test. This theory is not a lazy debunking move; it exists because the incident was radar-led, because the reported target behaved in ways that strain ordinary aircraft explanations, and because Cold War powers were actively exploring ways to deceive radar systems. New Scientist reported David Clarke’s suggestion that the sighting may have been part of a secret US project to create phantom aircraft on radar screens to test Soviet air defences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newscientist.com/article/dn14991-newly-released-files-contain-ufo-mysteries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscientist.com">[New Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscientist.com</span><span class="citation-popover-title">New Scientist Newly released files contain UFO mysteries &#124; New Scientist</span><span class="citation-popover-snippet">New Scientist Newly released files contain UFO mysteries &#124; New Scientist</span></span></span>
 
-Project Palladium is the name usually attached to that idea. A first-person technical article by CIA engineer S. Eugene Poteat describes Palladium as a system that could simulate a false target’s range and speed by retransmitting radar signals through a variable delay line. Poteat wrote that the system could create an aircraft of any radar cross-section, from an invisible target to a large blip, at any speed and altitude, and fly it along a prescribed path on Soviet radar screens. He also described operations involving a CIA “ghost aircraft” system, an NSA communications-monitoring team and military operational support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbp.org">[tbp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbp.org</span><span class="citation-popover-snippet">Open source on tbp.org.</span></span></span>
+Project Palladium is the name usually attached to that idea. A first-person technical article by CIA engineer S. Eugene Poteat describes Palladium as a system that could simulate a false target’s range and speed by retransmitting radar signals through a variable delay line. Poteat wrote that the system could create an aircraft of any radar cross-section, from an invisible target to a large blip, at any speed and altitude, and fly it along a prescribed path on Soviet radar screens. He also described operations involving a CIA “ghost aircraft” system, an NSA communications-monitoring team and military operational support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbp.org">[tbp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbp.org</span><span class="citation-popover-snippet">Open source on tbp.org.</span></span></span>
 
 That does not automatically solve the Manston case. The known Palladium descriptions are associated mainly with later operations against Soviet radar systems, and publicly available summaries do not prove that a Palladium test occurred over eastern England on 20 May 1957. The theory is attractive because it fits the reported features — a large radar-only target, extreme apparent speed, no visual confirmation, and secrecy — but it remains an inference rather than a documented match.
 
-Other explanations are possible but less satisfying. A conventional aircraft seems difficult to square with the reported size, speed and order to fire, unless parts of the recollection are mistaken or the radar interpretation was wrong. Weather or propagation anomalies can produce misleading radar returns, and the National Archives extract from David Clarke’s The UFO Files notes that by 1957 Fighter Command was concerned enough about radar “angels” — unexplained radar echoes, sometimes linked to birds or atmospheric effects — to order a secret investigation by radar technicians and ornithologists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+Other explanations are possible but less satisfying. A conventional aircraft seems difficult to square with the reported size, speed and order to fire, unless parts of the recollection are mistaken or the radar interpretation was wrong. Weather or propagation anomalies can produce misleading radar returns, and the National Archives extract from David Clarke’s The UFO Files notes that by 1957 Fighter Command was concerned enough about radar “angels” — unexplained radar echoes, sometimes linked to birds or atmospheric effects — to order a secret investigation by radar technicians and ornithologists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
 The “radar angel” context matters because it shows that unexplained radar returns were a recognised operational problem, not a modern excuse invented after the fact. However, it does not neatly explain why Torres believed he received a valid order to fire, or why the target was reportedly treated with such urgency. A purely atmospheric explanation weakens the “solid craft” claim, but it still leaves the command-and-control story to be explained.
 
-A memory-based explanation must also be considered. Torres spoke about the event decades later, and the Manston local history account notes differences between pilot recollections. Thirty years is long enough for exact dates, procedures, sequences and technical details to blur, especially when a frightening high-pressure incident becomes part of personal history. That does not mean Torres fabricated the episode. It means that historians should separate the likely core — an unusual scramble or alert associated with a radar target — from later precision about speed, size, dialogue and the identity of the man who allegedly warned him to stay silent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manstonhistory.org.uk">[History of Manston Airfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manstonhistory.org.uk</span><span class="citation-popover-title">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span><span class="citation-popover-snippet">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span></span></span>
+A memory-based explanation must also be considered. Torres spoke about the event decades later, and the Manston local history account notes differences between pilot recollections. Thirty years is long enough for exact dates, procedures, sequences and technical details to blur, especially when a frightening high-pressure incident becomes part of personal history. That does not mean Torres fabricated the episode. It means that historians should separate the likely core — an unusual scramble or alert associated with a radar target — from later precision about speed, size, dialogue and the identity of the man who allegedly warned him to stay silent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manstonhistory.org.uk">[History of Manston Airfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manstonhistory.org.uk</span><span class="citation-popover-title">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span><span class="citation-popover-snippet">History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
@@ -323,7 +323,7 @@ A memory-based explanation must also be considered. Torres spoke about the event
 
 The Manston scramble matters because it shows how Kent’s UFO history is shaped by airspace, airfields and military systems. This is not a rural folklore case or a seaside mystery light. It belongs to the same broad Kent pattern as later aviation-centred reports: trained personnel, controlled airspace, radar or air traffic implications, and official records that are intriguing but incomplete.
 
-It also shows why “unidentified” should not be inflated into “extraterrestrial”. Torres himself reportedly believed the object may have been an alien craft, and that belief is part of the witness history. But the public evidence supports a narrower conclusion: something was remembered and later documented as an extraordinary radar-intercept incident involving a Manston-based USAF pilot, yet no released record proves what the target was. Reuters accurately captured that tension by reporting both Torres’s dramatic account and Clarke’s possibility that it involved electronic warfare or a UFO, with the cautious conclusion that something unusual happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
+It also shows why “unidentified” should not be inflated into “extraterrestrial”. Torres himself reportedly believed the object may have been an alien craft, and that belief is part of the witness history. But the public evidence supports a narrower conclusion: something was remembered and later documented as an extraordinary radar-intercept incident involving a Manston-based USAF pilot, yet no released record proves what the target was. Reuters accurately captured that tension by reporting both Torres’s dramatic account and Clarke’s possibility that it involved electronic warfare or a UFO, with the cautious conclusion that something unusual happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span><span class="citation-popover-snippet">U.S. pilot was ordered to shoot down UFO &#124; Reuters</span></span></span>
 
 For readers mapping UFO cases across Kent, RAF Manston is therefore a key node. It links the county to Cold War air defence, USAF operations in Britain, ground-controlled interception, radar ambiguity and MoD archival release. It also warns against a common mistake in local UFO history: treating later publicity as if it were the same thing as contemporaneous evidence. The 2008 file release made the Torres story visible and historically discussable, but it did not give researchers a complete technical reconstruction of the night.
 
@@ -333,194 +333,194 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
 <img src="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-3-dark.svg" | relative_url }}" alt="Manston illustration 3" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_manston_torres_scram_48adf3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Manston&#x27;s UFO Scramble a Radar Ghost?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Manston&#x27;s UFO Scramble a Radar Ghost?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a historically important, comparatively cautious look at military UFO investigations, radar reports and official evaluation of s...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a historically important, comparatively cautious look at military UFO investigations, radar reports and official evaluation of s...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Focuses on government, military, intelligence and national-security responses to UFO reports, closely matching the fighter-control and ra...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government, military, intelligence and national-security responses to UFO reports, closely matching the fighter-control and ra...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Strange Skies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jT5juKHRdwIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Strange Skies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Skies">Strange Skies</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Strange Skies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jT5juKHRdwIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Strange Skies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Skies">Strange Skies</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Centers on pilot encounters and airborne incidents, making it highly relevant to a fighter-interceptor scramble involving radar tracking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on pilot encounters and airborne incidents, making it highly relevant to a fighter-interceptor scramble involving radar tracking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly covers British UFO history, official records, radar cases, military responses, and the wider context surrounding incidents such...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers British UFO history, official records, radar cases, military responses, and the wider context surrounding incidents such...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Strange+Skies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Strange Skies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Strange+Skies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Strange Skies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC MOON PLANETS SPACE UFO POSTER ART PRINT IMAGE SIZE A4"><img src="https://i.ebayimg.com/images/g/JP8AAOSw-aldinci/s-l225.jpg" alt="Listing image for TRIPPY PSYCHEDELIC MOON PLANETS SPACE UFO POSTER ART PRINT IMAGE SIZE A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC MOON PLANETS SPACE UFO POSTER ART PRINT IMAGE SIZE A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS04 UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/OqUAAOSw3Odmz0pG/s-l225.jpg" alt="Listing image for FS04 UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">FS04 UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="manston-was-manston-s-ufo-scramble-a-radar-ghost-kent-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE!"><img src="https://i.ebayimg.com/images/g/mTIAAeSwQthpAKi7/s-l225.jpg" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-manston-s-ufo-scramble-a-radar-ghost-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,165 +726,165 @@ The fairest assessment is that the Manston scramble is unresolved but not equall
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: U.S. pilot was ordered to shoot down UFO | Reuters  
-   Link: <a href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/</a>  
+   Link:<a href="https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/us/us-pilot-was-ordered-to-shoot-down-ufo-idUSTRE49J1P6/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAResearch Notes 6  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalmuseum.af.mil  
    Title: Air Force Museum  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198076/north-american-f-86d-sabre/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198076/north-american-f-86d-sabre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>North American F-86D Sabre &gt; National Museum of the United States Air Force &gt; Display...</p></details>
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198076/north-american-f-86d-sabre/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198076/north-american-f-86d-sabre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North American F-86D Sabre &gt; National Museum of the United States Air Force &gt; Display...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tbp.org  
-   Link: <a href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tbp.org/static/docs/features/F99Poteat.pdf</a>  
+   Link:<a href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tbp.org/static/docs/features/F99Poteat.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000261292.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000261292.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000261292.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000261292.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00965r000807300012-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00965r000807300012-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00965r000807300012-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00965r000807300012-4</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP84B00049R001503710006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP84B00049R001503710006-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP84B00049R001503710006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP84B00049R001503710006-4.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newscientist.com  
    Title: New Scientist Newly released files contain UFO mysteries | New Scientist  
-   Link: <a href="https://www.newscientist.com/article/dn14991-newly-released-files-contain-ufo-mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.newscientist.com/article/dn14991-newly-released-files-contain-ufo-mysteries/</a>  
+   Link:<a href="https://www.newscientist.com/article/dn14991-newly-released-files-contain-ufo-mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.newscientist.com/article/dn14991-newly-released-files-contain-ufo-mysteries/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell</a>  
+   Link:<a href="https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2008/oct/20/aliens-crop-circles-ufo-roswell</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: manstonhistory.org.uk  
    Title: History of Manston Airfield USAF F-86D from Manston ordered to fire on UFO  
-   Link: <a href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/</a>  
+   Link:<a href="https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.manstonhistory.org.uk/usaf-f-86d-manston-ordered-fire-ufo-may-20th-1957/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: americanarchive.iwm.org.uk  
-   Link: <a href="https://americanarchive.iwm.org.uk/archive/place/manston" target="_blank" rel="noopener noreferrer nofollow">https://americanarchive.iwm.org.uk/archive/place/manston</a>  
+   Link:<a href="https://americanarchive.iwm.org.uk/archive/place/manston" target="_blank" rel="noopener noreferrer nofollow">https://americanarchive.iwm.org.uk/archive/place/manston</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Layout 1  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: History of Manston Airfield  
-   Link: <a href="https://www.facebook.com/manstonhistory/posts/onthisday1957-20-mayus-air-force-fighter-pilot-milton-torres-was-one-of-two-f-86/2131781010391004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/manstonhistory/posts/onthisday1957-20-mayus-air-force-fighter-pilot-milton-torres-was-one-of-two-f-86/2131781010391004/</a>  
+   Link:<a href="https://www.facebook.com/manstonhistory/posts/onthisday1957-20-mayus-air-force-fighter-pilot-milton-torres-was-one-of-two-f-86/2131781010391004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/manstonhistory/posts/onthisday1957-20-mayus-air-force-fighter-pilot-milton-torres-was-one-of-two-f-86/2131781010391004/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2011 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: manstonhistory.org.uk  
    Title: F-86D Sabre Archives  
-   Link: <a href="https://www.manstonhistory.org.uk/category/aircraft/f-86d-sabre/" target="_blank" rel="noopener noreferrer nofollow">https://www.manstonhistory.org.uk/category/aircraft/f-86d-sabre/</a>  
+   Link:<a href="https://www.manstonhistory.org.uk/category/aircraft/f-86d-sabre/" target="_blank" rel="noopener noreferrer nofollow">https://www.manstonhistory.org.uk/category/aircraft/f-86d-sabre/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: manstonhistory.org.uk  
    Title: 406th Fighter Interceptor Wing  
-   Link: <a href="https://www.manstonhistory.org.uk/category/units/406th-fighter-interceptor-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.manstonhistory.org.uk/category/units/406th-fighter-interceptor-wing/</a>  
+   Link:<a href="https://www.manstonhistory.org.uk/category/units/406th-fighter-interceptor-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.manstonhistory.org.uk/category/units/406th-fighter-interceptor-wing/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: RAF Manston  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Manston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Manston</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Manston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Manston</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: disclosdex.com  
-   Link: <a href="https://disclosdex.com/programs/1962-project-palladium" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/programs/1962-project-palladium</a>  
+   Link:<a href="https://disclosdex.com/programs/1962-project-palladium" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/programs/1962-project-palladium</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: military-history.fandom.com  
    Title: RAF Manston  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_Manston" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Manston</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_Manston" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Manston</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BwxbKs3bLS8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BwxbKs3bLS8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Milton Torres&quot; UFO scramble An American fighter pilot flying from an English air base at the height of the Cold War was ordered AP Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BwxbKs3bLS8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BwxbKs3bLS8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Milton Torres&quot; UFO scramble An American fighter pilot flying from an English air base at the height of the Cold War was ordered AP Archive...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xk0INH_DI1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xk0INH_DI1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xk0INH_DI1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xk0INH_DI1M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday  
-   Link: <a href="https://www.youtube.com/watch?v=wYicfhXdkuA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYicfhXdkuA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An American fighter pilot flying from an English air base at the height of the Cold War was ordered...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wYicfhXdkuA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYicfhXdkuA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An American fighter pilot flying from an English air base at the height of the Cold War was ordered...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=roE8fbAI02c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=roE8fbAI02c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Cayton - The Milton Torres UFO Case - 1957...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=roE8fbAI02c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=roE8fbAI02c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Cayton - The Milton Torres UFO Case - 1957...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: David Cayton  
-   Link: <a href="https://www.youtube.com/watch?v=7RbCHvQfO24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RbCHvQfO24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1957-05-20: Milton Torres Ordered to Fire on Carrier-Sized Radar UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7RbCHvQfO24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RbCHvQfO24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1957-05-20: Milton Torres Ordered to Fire on Carrier-Sized Radar UFO...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/o0wr65/2_unclassified_documents_i_found_that_are_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/o0wr65/2_unclassified_documents_i_found_that_are_very/</a>  
+   Link:<a href="https://www.reddit.com/r/UAP/comments/o0wr65/2_unclassified_documents_i_found_that_are_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/o0wr65/2_unclassified_documents_i_found_that_are_very/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: usafunithistory.com  
-   Link: <a href="https://www.usafunithistory.com/PDF/0500/513%20FIGHTER%20INTERCEPTOR%20SQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usafunithistory.com/PDF/0500/513%20FIGHTER%20INTERCEPTOR%20SQ.pdf</a>  
+   Link:<a href="https://www.usafunithistory.com/PDF/0500/513%20FIGHTER%20INTERCEPTOR%20SQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usafunithistory.com/PDF/0500/513%20FIGHTER%20INTERCEPTOR%20SQ.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: usafunithistory.com  
-   Link: <a href="https://usafunithistory.com/PDF/0500/514%20FIGHTER%20INTERCEPTOR%20SQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usafunithistory.com/PDF/0500/514%20FIGHTER%20INTERCEPTOR%20SQ.pdf</a>  
+   Link:<a href="https://usafunithistory.com/PDF/0500/514%20FIGHTER%20INTERCEPTOR%20SQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usafunithistory.com/PDF/0500/514%20FIGHTER%20INTERCEPTOR%20SQ.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100057477729358/posts/a-previously-unknown-cold-war-close-encounter-witnessed-by-the-crew-of-a-us-navy/5236380416436858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057477729358/posts/a-previously-unknown-cold-war-close-encounter-witnessed-by-the-crew-of-a-us-navy/5236380416436858/</a>  
+   Link:<a href="https://www.facebook.com/100057477729358/posts/a-previously-unknown-cold-war-close-encounter-witnessed-by-the-crew-of-a-us-navy/5236380416436858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057477729358/posts/a-previously-unknown-cold-war-close-encounter-witnessed-by-the-crew-of-a-us-navy/5236380416436858/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  

@@ -254,77 +254,77 @@ image: /assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-overvie
 
 ## Introduction
 
-The Little Rissington pilot sighting of 21 October 1952 is [Gloucestershire]({{ 'what-really-happened-over/' | relative_url }})’s strongest UFO case because it combines three features rarely found together: trained military aircrew, a jet aircraft in flight, and an official evidence trail that includes radar claims and a surviving RAF operations record. Flight Lieutenant Michael Swiney, an RAF instructor, and Lieutenant David Crofts, a Royal Navy student pilot, reported seeing three unusual disc-like objects while flying a Gloster Meteor from RAF Little Rissington over Gloucestershire. The case matters less because it “proves” an extraordinary craft, and more because the witnesses, setting and surviving records make it unusually hard to dismiss as a simple casual mistake. The evidence is still incomplete: the original witness statements appear to have been destroyed, the radar data itself has not survived in public files, and later accounts depend partly on memory and reconstruction. But within Gloucestershire UFO history, this remains the central RAF-linked incident against which weaker local reports are usually measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+The Little Rissington pilot sighting of 21 October 1952 is [Gloucestershire]({{ 'what-really-happened-over/' | relative_url }})’s strongest UFO case because it combines three features rarely found together: trained military aircrew, a jet aircraft in flight, and an official evidence trail that includes radar claims and a surviving RAF operations record. Flight Lieutenant Michael Swiney, an RAF instructor, and Lieutenant David Crofts, a Royal Navy student pilot, reported seeing three unusual disc-like objects while flying a Gloster Meteor from RAF Little Rissington over Gloucestershire. The case matters less because it “proves” an extraordinary craft, and more because the witnesses, setting and surviving records make it unusually hard to dismiss as a simple casual mistake. The evidence is still incomplete: the original witness statements appear to have been destroyed, the radar data itself has not survived in public files, and later accounts depend partly on memory and reconstruction. But within Gloucestershire UFO history, this remains the central RAF-linked incident against which weaker local reports are usually measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-overview.webp" | relative_url }}" alt="Overview image for Little Rissington" loading="eager" decoding="sync" fetchpriority="high">
 ## What Swiney and Crofts reported
 
-The incident took place during a high-level navigation exercise from RAF Little Rissington, then home to the RAF’s Central Flying School. That setting is important. The RAF Museum records that the Central Flying School was re-established at Little Rissington in 1946 and became the RAF’s school for training flying instructors, so this was not an incidental sighting from an untrained observer on the ground. Swiney was a staff instructor; Crofts, seated behind him in the Meteor trainer, was a Royal Navy student pilot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmuseum.org.uk">[RAF Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmuseum.org.uk</span><span class="citation-popover-snippet">Open source on rafmuseum.org.uk.</span></span></span>
+The incident took place during a high-level navigation exercise from RAF Little Rissington, then home to the RAF’s Central Flying School. That setting is important. The RAF Museum records that the Central Flying School was re-established at Little Rissington in 1946 and became the RAF’s school for training flying instructors, so this was not an incidental sighting from an untrained observer on the ground. Swiney was a staff instructor; Crofts, seated behind him in the Meteor trainer, was a Royal Navy student pilot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmuseum.org.uk">[RAF Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmuseum.org.uk</span><span class="citation-popover-snippet">Open source on rafmuseum.org.uk.</span></span></span>
 
-The basic reported sequence is fairly consistent across the strongest public accounts. The Meteor climbed through cloud at about 12,000 feet. Above the cloud, the crew saw three objects, described as circular, plate-like, saucer-shaped or elliptical. The National Archives extract from David Clarke’s *The UFO Files* says Swiney first thought they might be parachutes, while Crofts later described them as iridescent, like circular pieces of glass reflecting sunlight. The objects were said to be at about 35,000 feet, though the distance and size could not be reliably judged from the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+The basic reported sequence is fairly consistent across the strongest public accounts. The Meteor climbed through cloud at about 12,000 feet. Above the cloud, the crew saw three objects, described as circular, plate-like, saucer-shaped or elliptical. The National Archives extract from David Clarke’s *The UFO Files* says Swiney first thought they might be parachutes, while Crofts later described them as iridescent, like circular pieces of glass reflecting sunlight. The objects were said to be at about 35,000 feet, though the distance and size could not be reliably judged from the cockpit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
-That uncertainty matters. A pilot can be an excellent witness to aircraft handling, relative movement, weather and cockpit procedure, yet still face the same visual problem as anyone else when looking at unknown objects in open sky: without a known size or distance, speed and altitude estimates can be fragile. What strengthens the Little Rissington case is not that the descriptions are mathematically precise. It is that two aircrew saw the objects, discussed them in real time, and treated the sighting as serious enough to abandon the training exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+That uncertainty matters. A pilot can be an excellent witness to aircraft handling, relative movement, weather and cockpit procedure, yet still face the same visual problem as anyone else when looking at unknown objects in open sky: without a known size or distance, speed and altitude estimates can be fragile. What strengthens the Little Rissington case is not that the descriptions are mathematically precise. It is that two aircrew saw the objects, discussed them in real time, and treated the sighting as serious enough to abandon the training exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-Swiney’s later recollection was emphatic but not sensationalist. He said he had seen reflections, refractions and other odd visual effects in years of flying, but did not think this sighting fitted those categories. Crofts’ remembered reaction was more practical: he considered pursuing the objects, but Swiney decided against turning the training sortie into a chase and called the sighting in. Clarke’s account says the objects remained visible for around ten minutes before they disappeared from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+Swiney’s later recollection was emphatic but not sensationalist. He said he had seen reflections, refractions and other odd visual effects in years of flying, but did not think this sighting fitted those categories. Crofts’ remembered reaction was more practical: he considered pursuing the objects, but Swiney decided against turning the training sortie into a chase and called the sighting in. Clarke’s account says the objects remained visible for around ten minutes before they disappeared from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-1-dark.svg" | relative_url }}" alt="Little Rissington illustration 1" data-theme-src-dark="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why radar and RAF context matter
 
-The reason Little Rissington stands out from most county-level UFO reports is the radar trail. In the best public reconstruction, Swiney’s report did not remain a private cockpit anecdote. The sighting was passed through RAF and air traffic channels, and later accounts say unidentified radar targets were being tracked by RAF Sopley, by the RAF Southern Sector system at Rudloe Manor near Bath, and by Air Traffic Control Centre Gloucester. Clarke’s account says the Little Rissington tower contacted Fighter Command, and Meteors on Quick Reaction Alert from RAF Tangmere were scrambled towards the radar target but made no contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+The reason Little Rissington stands out from most county-level UFO reports is the radar trail. In the best public reconstruction, Swiney’s report did not remain a private cockpit anecdote. The sighting was passed through RAF and air traffic channels, and later accounts say unidentified radar targets were being tracked by RAF Sopley, by the RAF Southern Sector system at Rudloe Manor near Bath, and by Air Traffic Control Centre Gloucester. Clarke’s account says the Little Rissington tower contacted Fighter Command, and Meteors on Quick Reaction Alert from RAF Tangmere were scrambled towards the radar target but made no contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-This does not make the case automatically conclusive. Radar in the early 1950s could produce misleading returns. The National Archives extract explicitly places the case in a wider discussion of “angel” and “ghost” echoes that troubled RAF radar operators during the period. Such returns could resemble small aircraft on radar screens, especially under unusual atmospheric conditions. That means the radar element is both the case’s main strength and one of its main interpretive problems: it suggests there was more than a cockpit impression, but it also sits inside a radar environment known to generate puzzling false or ambiguous tracks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+This does not make the case automatically conclusive. Radar in the early 1950s could produce misleading returns. The National Archives extract explicitly places the case in a wider discussion of “angel” and “ghost” echoes that troubled RAF radar operators during the period. Such returns could resemble small aircraft on radar screens, especially under unusual atmospheric conditions. That means the radar element is both the case’s main strength and one of its main interpretive problems: it suggests there was more than a cockpit impression, but it also sits inside a radar environment known to generate puzzling false or ambiguous tracks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
-The surviving RAF operations record is the most important hard document in the public evidence trail. Clarke reports that the Central Flying School Operations Record Book for 21 October 1952 recorded Swiney and Crofts sighting three “saucer-shaped objects” travelling at high speed at about 35,000 feet during a high-level navigation exercise in a Meteor VII. The same entry said ATCC Gloucester later reported radar plots that appeared to confirm the sighting, while the Air Ministry discounted any possibility of extraterrestrial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+The surviving RAF operations record is the most important hard document in the public evidence trail. Clarke reports that the Central Flying School Operations Record Book for 21 October 1952 recorded Swiney and Crofts sighting three “saucer-shaped objects” travelling at high speed at about 35,000 feet during a high-level navigation exercise in a Meteor VII. The same entry said ATCC Gloucester later reported radar plots that appeared to confirm the sighting, while the Air Ministry discounted any possibility of extraterrestrial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-That wording is striking because it shows two things at once. First, the RAF record did not merely say two pilots had made an odd report; it preserved a note that radar plots had apparently supported it. Secondly, the Air Ministry’s rejection of “extra terrestrial objects” was not the same as a full public explanation of what the objects were. In other words, the official posture was not “we have identified these as X”, but rather “we do not accept the most exotic interpretation”. For readers, that distinction is crucial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+That wording is striking because it shows two things at once. First, the RAF record did not merely say two pilots had made an odd report; it preserved a note that radar plots had apparently supported it. Secondly, the Air Ministry’s rejection of “extra terrestrial objects” was not the same as a full public explanation of what the objects were. In other words, the official posture was not “we have identified these as X”, but rather “we do not accept the most exotic interpretation”. For readers, that distinction is crucial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-The broader Cold War setting also matters. Clarke links the incident to a year in which British official interest in UFO reports sharpened after major American radar-visual incidents and after NATO Exercise Mainbrace sightings. He is careful to note in a later comment that the Little Rissington event itself was on 21 October 1952, not during Mainbrace in September; nevertheless, the same autumn wave formed the institutional backdrop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+The broader Cold War setting also matters. Clarke links the incident to a year in which British official interest in UFO reports sharpened after major American radar-visual incidents and after NATO Exercise Mainbrace sightings. He is careful to note in a later comment that the Little Rissington event itself was on 21 October 1952, not during Mainbrace in September; nevertheless, the same autumn wave formed the institutional backdrop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.7K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
 
 ## The evidence trail: strong witnesses, thin surviving files
 
-The Little Rissington case is often described as an “official” UFO case, but that word needs careful handling. The strongest surviving evidence is not a complete investigation file. It is a chain of partial evidence: the pilots’ later interviews, Swiney’s logbook note, the Central Flying School Operations Record Book entry, and accounts of radar and Air Ministry follow-up. The National Archives states more generally that the Ministry of Defence retained UFO records from the 1960s onwards, but that earlier UFO material was destroyed after five years before later public interest changed retention practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The Little Rissington case is often described as an “official” UFO case, but that word needs careful handling. The strongest surviving evidence is not a complete investigation file. It is a chain of partial evidence: the pilots’ later interviews, Swiney’s logbook note, the Central Flying School Operations Record Book entry, and accounts of radar and Air Ministry follow-up. The National Archives states more generally that the Ministry of Defence retained UFO records from the 1960s onwards, but that earlier UFO material was destroyed after five years before later public interest changed retention practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-That explains why the case is both compelling and frustrating. According to Clarke and the National Archives extract, Swiney later tried to locate his original report but was told that many pre-1962 UFO records had been routinely shredded. The extract says the men’s statements appear to have been destroyed, leaving the operations record book entry as the main surviving contemporary official reference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+That explains why the case is both compelling and frustrating. According to Clarke and the National Archives extract, Swiney later tried to locate his original report but was told that many pre-1962 UFO records had been routinely shredded. The extract says the men’s statements appear to have been destroyed, leaving the operations record book entry as the main surviving contemporary official reference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
-Swiney’s own flying logbook adds a personal documentary anchor. Clarke reports that the logbook entry for 21 October 1952 reads: “(SAUCERS!) 3 ‘Flying Saucers’ sighted at height. Confirmed by G.C.I.” GCI means Ground Controlled Interception, the radar-based system used to guide fighter aircraft towards targets. A logbook note is not a scientific measurement, but it is valuable because it appears to have been made close to the event by one of the witnesses and records the radar-confirmation claim as part of his flying record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+Swiney’s own flying logbook adds a personal documentary anchor. Clarke reports that the logbook entry for 21 October 1952 reads: “(SAUCERS!) 3 ‘Flying Saucers’ sighted at height. Confirmed by G.C.I.” GCI means Ground Controlled Interception, the radar-based system used to guide fighter aircraft towards targets. A logbook note is not a scientific measurement, but it is valuable because it appears to have been made close to the event by one of the witnesses and records the radar-confirmation claim as part of his flying record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-The Air Ministry response also forms part of the evidence trail. Crofts later remembered being separated and debriefed after landing, with officers asking him to describe and draw what he had seen. He also recalled being told that checks had been made with countries likely to have aircraft in the area, and that no explanation had been found from that route. This is second-hand recollection from decades later, so it should not be over-weighted, but it supports the impression that the report was treated as operationally sensitive rather than as a routine oddity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+The Air Ministry response also forms part of the evidence trail. Crofts later remembered being separated and debriefed after landing, with officers asking him to describe and draw what he had seen. He also recalled being told that checks had been made with countries likely to have aircraft in the area, and that no explanation had been found from that route. This is second-hand recollection from decades later, so it should not be over-weighted, but it supports the impression that the report was treated as operationally sensitive rather than as a routine oddity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-2-dark.svg" | relative_url }}" alt="Little Rissington illustration 2" data-theme-src-dark="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot prove
 
-The case is strongest on witness quality and institutional reaction. Swiney and Crofts were not anonymous members of the public; they were military aircrew flying from a major RAF training station. Their report was serious enough to interrupt a training sortie, prompt post-flight questioning, and enter the Central Flying School’s operations record. The surviving record explicitly connects the sighting to radar plots reported by Gloucester air traffic control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+The case is strongest on witness quality and institutional reaction. Swiney and Crofts were not anonymous members of the public; they were military aircrew flying from a major RAF training station. Their report was serious enough to interrupt a training sortie, prompt post-flight questioning, and enter the Central Flying School’s operations record. The surviving record explicitly connects the sighting to radar plots reported by Gloucester air traffic control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-It is weaker on physical proof. There is no publicly available photograph, no recovered object, no surviving raw radar trace, and no complete Air Ministry case file. The most detailed public story depends on later interviews conducted around 2001–2004, nearly half a century after the event. Those interviews are valuable, especially because both principal witnesses were identified and their accounts can be compared with the operations record, but memory is not the same as a contemporaneous technical dossier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+It is weaker on physical proof. There is no publicly available photograph, no recovered object, no surviving raw radar trace, and no complete Air Ministry case file. The most detailed public story depends on later interviews conducted around 2001–2004, nearly half a century after the event. Those interviews are valuable, especially because both principal witnesses were identified and their accounts can be compared with the operations record, but memory is not the same as a contemporaneous technical dossier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-The radar evidence also remains ambiguous. If the radar plots were truly independent and simultaneous, they greatly strengthen the case. But without the raw plots, operator logs and technical conditions, later readers cannot test whether the returns matched the objects seen by the pilots or resulted from atmospheric effects, equipment behaviour, miscorrelation with known aircraft, or another ordinary cause. The National Archives extract’s discussion of “angel” and “ghost” echoes is a reminder that unexplained radar is not automatically extraordinary radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+The radar evidence also remains ambiguous. If the radar plots were truly independent and simultaneous, they greatly strengthen the case. But without the raw plots, operator logs and technical conditions, later readers cannot test whether the returns matched the objects seen by the pilots or resulted from atmospheric effects, equipment behaviour, miscorrelation with known aircraft, or another ordinary cause. The National Archives extract’s discussion of “angel” and “ghost” echoes is a reminder that unexplained radar is not automatically extraordinary radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
-The strongest balanced judgement is therefore: unresolved, unusually well-witnessed, and historically important, but not proven to be an exotic craft. Swiney himself did not turn the case into a claim about aliens. Clarke quotes him as saying he was open-minded, did not expect “little green men”, but knew that he and Crofts saw something unusual which he could not explain. That restrained position is one reason the case has retained credibility among researchers who would reject more dramatic but poorly sourced stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+The strongest balanced judgement is therefore: unresolved, unusually well-witnessed, and historically important, but not proven to be an exotic craft. Swiney himself did not turn the case into a claim about aliens. Clarke quotes him as saying he was open-minded, did not expect “little green men”, but knew that he and Crofts saw something unusual which he could not explain. That restrained position is one reason the case has retained credibility among researchers who would reject more dramatic but poorly sourced stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnMSCKZ811Q" title="1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer">1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive &middot; Views: 22.8K &middot; Uploaded: August 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnMSCKZ811Q">Open on YouTube</a></p></div></div></div>
 
 ## Why Little Rissington belongs at the centre of Gloucestershire’s UFO map
 
-For a Gloucestershire UFO history, Little Rissington is more than a colourful anecdote. It links the county to national Cold War air defence, RAF training, radar interpretation, Ministry of Defence record-keeping and the wider 1952 flying saucer wave. It also has a clear local anchor: RAF Little Rissington in the east of Gloucestershire, near the Oxfordshire boundary, with the former station and nearby villages sitting in a landscape where aviation history is part of local memory. Aviation heritage sources note that Little Rissington lay primarily in Gloucestershire while extending across the county edge, a useful reminder that [airfields]({{ 'airfields-c5b03e/' | relative_url }}) and flight paths rarely fit neatly inside modern administrative borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/little-rissington/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
+For a Gloucestershire UFO history, Little Rissington is more than a colourful anecdote. It links the county to national Cold War air defence, RAF training, radar interpretation, Ministry of Defence record-keeping and the wider 1952 flying saucer wave. It also has a clear local anchor: RAF Little Rissington in the east of Gloucestershire, near the Oxfordshire boundary, with the former station and nearby villages sitting in a landscape where aviation history is part of local memory. Aviation heritage sources note that Little Rissington lay primarily in Gloucestershire while extending across the county edge, a useful reminder that [airfields]({{ 'airfields-c5b03e/' | relative_url }}) and flight paths rarely fit neatly inside modern administrative borders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/little-rissington/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
 
-That local aviation setting changes how the case should be read. In many modern county UFO reports, the most likely explanations include aircraft, satellites, drones, lanterns, meteors, reflections and misjudged lights. At Little Rissington, the witnesses were already inside the aviation system. They were not unfamiliar with aircraft, cockpit reflections or training activity. That does not make them infallible, but it raises the evidential bar for any simple dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
+That local aviation setting changes how the case should be read. In many modern county UFO reports, the most likely explanations include aircraft, satellites, drones, lanterns, meteors, reflections and misjudged lights. At Little Rissington, the witnesses were already inside the aviation system. They were not unfamiliar with aircraft, cockpit reflections or training activity. That does not make them infallible, but it raises the evidential bar for any simple dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Operation Mainbrace UFOs &#124;...</span></span></span>
 
-The case also helps separate Gloucestershire’s serious evidence trail from later, looser UFO folklore. A strong county case is not simply the most spectacular-sounding one; it is the one with named witnesses, a date, a place, an institutional record, and competing interpretations that can be weighed. Little Rissington has all of those, even though the crucial original file trail is damaged by record loss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The case also helps separate Gloucestershire’s serious evidence trail from later, looser UFO folklore. A strong county case is not simply the most spectacular-sounding one; it is the one with named witnesses, a date, a place, an institutional record, and competing interpretations that can be weighed. Little Rissington has all of those, even though the crucial original file trail is damaged by record loss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 
 <img src="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-3-dark.svg" | relative_url }}" alt="Little Rissington illustration 3" data-theme-src-dark="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gloucestershire_03cc40_little_rissington_ca_2842df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later reporting strengthened the story, but not enough to close it
 
-Later research strengthened the case by bringing together witnesses, documents and institutional context. The public story developed significantly when Clarke and colleagues interviewed Swiney and Crofts, found the operations record book entry, and connected the sighting to RAF radar and Air Ministry procedures. The National Archives later published an extract from Clarke’s *The UFO Files* that summarised the case and placed it within the post-war official UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+Later research strengthened the case by bringing together witnesses, documents and institutional context. The public story developed significantly when Clarke and colleagues interviewed Swiney and Crofts, found the operations record book entry, and connected the sighting to RAF radar and Air Ministry procedures. The National Archives later published an extract from Clarke’s *The UFO Files* that summarised the case and placed it within the post-war official UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
-However, later reporting also reveals the limits of the evidence. The more one follows the trail, the more obvious the missing pieces become: no full original witness statements, no surviving final Air Ministry report, no released radar data, and no definitive explanation. The case has been strengthened as a historical incident — it is clear that something was reported, taken seriously, and recorded — but it has not been strengthened into proof of an extraordinary vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
+However, later reporting also reveals the limits of the evidence. The more one follows the trail, the more obvious the missing pieces become: no full original witness statements, no surviving final Air Ministry report, no released radar data, and no definitive explanation. The case has been strengthened as a historical incident — it is clear that something was reported, taken seriously, and recorded — but it has not been strengthened into proof of an extraordinary vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Layout 1</span><span class="citation-popover-snippet">National Archives Layout 1</span></span></span>
 
 For Gloucestershire, that is enough to make Little Rissington the county’s landmark UFO case. It remains a rare RAF pilot sighting with a named crew and a surviving official paper trail. Its best evidence points to a real unresolved report, not to a confirmed extraterrestrial event. Its main doubts arise from missing records, uncertain radar interpretation, and the difficulty of judging unknown objects in open sky. Those tensions are exactly why the case still matters: it is neither a simple debunked light in the sky nor a solved mystery, but a disciplined example of how strong UFO claims depend on the evidence trail as much as on the sighting itself.
 
@@ -333,194 +333,194 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The RAF Case That Put Gloucestershire on the UFO Map. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The RAF Case That Put Gloucestershire on the UFO Map. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores methods for assessing UFO reports, witness reliability, and evidential limitations relevant to the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores methods for assessing UFO reports, witness reliability, and evidential limitations relevant to the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides British military UFO context and shows how official records and witness testimony are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides British military UFO context and shows how official records and witness testimony are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes trained witnesses, radar evidence, and official records, matching the themes of the RAF case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes trained witnesses, radar evidence, and official records, matching the themes of the RAF case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the early 1950s military UFO wave and the official investigative context surrounding cases like the Little Rissington incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the early 1950s military UFO wave and the official investigative context surrounding cases like the Little Rissington incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="little-rissington-the-raf-case-that-put-gloucestershire-on-the-ufo-map-gloucestershire-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-raf-case-that-put-gloucestershire-on-the-ufo-map-ufo-art-print-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,123 +726,123 @@ For Gloucestershire, that is enough to make Little Rissington the county’s lan
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Layout 1  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Mainbrace UFOs |...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Mainbrace UFOs |...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rafmuseum.org.uk  
-   Link: <a href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/</a>  
+   Link:<a href="https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmuseum.org.uk/research/online-exhibitions/taking-flight/historical-periods/central-flying-school/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/little-rissington/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/little-rissington/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/little-rissington/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/little-rissington/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Central Flying School  
-   Link: <a href="https://en.wikipedia.org/wiki/Central_Flying_School" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Flying_School</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Central_Flying_School" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Flying_School</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Little Rissington  
-   Link: <a href="https://en.wikipedia.org/wiki/Little_Rissington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Little_Rissington</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Little_Rissington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Little_Rissington</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: genuki.org.uk  
    Title: Little Rissington  
-   Link: <a href="https://www.genuki.org.uk/big/eng/GLS/LittleRissington" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/GLS/LittleRissington</a>  
+   Link:<a href="https://www.genuki.org.uk/big/eng/GLS/LittleRissington" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/GLS/LittleRissington</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/74261/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74261/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/74261/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74261/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wikishire.co.uk  
    Title: RAF Little Rissington  
-   Link: <a href="https://wikishire.co.uk/wiki/RAF_Little_Rissington" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/RAF_Little_Rissington</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/RAF_Little_Rissington" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/RAF_Little_Rissington</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cotswold.gov.uk  
-   Link: <a href="https://www.cotswold.gov.uk/media/epzmmcdb/little-rissington-conservation-area-map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswold.gov.uk/media/epzmmcdb/little-rissington-conservation-area-map.pdf</a>  
+   Link:<a href="https://www.cotswold.gov.uk/media/epzmmcdb/little-rissington-conservation-area-map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswold.gov.uk/media/epzmmcdb/little-rissington-conservation-area-map.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catalogue.gloucestershire.gov.uk  
-   Link: <a href="https://catalogue.gloucestershire.gov.uk/records/P269" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.gloucestershire.gov.uk/records/P269</a>  
+   Link:<a href="https://catalogue.gloucestershire.gov.uk/records/P269" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.gloucestershire.gov.uk/records/P269</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: catalogue.gloucestershire.gov.uk  
-   Link: <a href="https://catalogue.gloucestershire.gov.uk/records/GDR/20/1/148" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.gloucestershire.gov.uk/records/GDR/20/1/148</a>  
+   Link:<a href="https://catalogue.gloucestershire.gov.uk/records/GDR/20/1/148" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.gloucestershire.gov.uk/records/GDR/20/1/148</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: upperrissington-pc.gov.uk  
-   Link: <a href="https://upperrissington-pc.gov.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://upperrissington-pc.gov.uk/history/</a>  
+   Link:<a href="https://upperrissington-pc.gov.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://upperrissington-pc.gov.uk/history/</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Real-life X Files: Britain's classified UFO files released  
-   Link: <a href="https://www.youtube.com/watch?v=XXJ-ALkavKU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XXJ-ALkavKU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XXJ-ALkavKU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XXJ-ALkavKU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
    Published: May 2008  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britainschoice.uk  
-   Link: <a href="https://www.britainschoice.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.britainschoice.uk/</a>  
+   Link:<a href="https://www.britainschoice.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.britainschoice.uk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: itv.com  
-   Link: <a href="https://www.itv.com/britainsgottalent" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/britainsgottalent</a>  
+   Link:<a href="https://www.itv.com/britainsgottalent" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/britainsgottalent</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britainsworld.org.uk  
-   Link: <a href="https://www.britainsworld.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.britainsworld.org.uk/</a>  
+   Link:<a href="https://www.britainsworld.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.britainsworld.org.uk/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/central-flying-school.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/central-flying-school.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/central-flying-school.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/central-flying-school.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.869287&amp;longitude=-1.739976&amp;password=freesearch%40freesearch.com&amp;search_location=%2C+Little+Rissington%2C+Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.869287&amp;longitude=-1.739976&amp;password=freesearch%40freesearch.com&amp;search_location=%2C+Little+Rissington%2C+Gloucestershire</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.869287&amp;longitude=-1.739976&amp;password=freesearch%40freesearch.com&amp;search_location=%2C+Little+Rissington%2C+Gloucestershire" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/build_nls_historic_map.pl?latitude=51.869287&amp;longitude=-1.739976&amp;password=freesearch%40freesearch.com&amp;search_location=%2C+Little+Rissington%2C+Gloucestershire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/45919558418/posts/10159125804483419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/45919558418/posts/10159125804483419/</a>  
+   Link:<a href="https://www.facebook.com/groups/45919558418/posts/10159125804483419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/45919558418/posts/10159125804483419/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: maryevans.com  
-   Link: <a href="https://www.maryevans.com/contributors/ras/gloster-meteor-t7s-central-flying-school-48041832.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/ras/gloster-meteor-t7s-central-flying-school-48041832.html</a>  
+   Link:<a href="https://www.maryevans.com/contributors/ras/gloster-meteor-t7s-central-flying-school-48041832.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/ras/gloster-meteor-t7s-central-flying-school-48041832.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Great_Rissington%2C_Gloucestershire_18707" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Great_Rissington%2C_Gloucestershire_18707</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Great_Rissington%2C_Gloucestershire_18707" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Great_Rissington%2C_Gloucestershire_18707</a>  

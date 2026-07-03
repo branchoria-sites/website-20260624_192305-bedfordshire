@@ -258,13 +258,13 @@ The Ministry of Defence records for [Warwickshire]({{ 'what-really-happened-in-w
 
 
 <img src="{{ "/assets/images/Warwickshire_17be07_mod_sighting_logs_28fe32-overview.webp" | relative_url }}" alt="Overview image for Mo D Records" loading="eager" decoding="sync" fetchpriority="high">
-The value of these records is therefore not that they prove extraordinary craft over Warwickshire. It is that they show how official UFO reporting actually worked. The MoD lists are administrative logs: date, time, place and a witness description, not a finding that the object was alien, military, or even physically unusual. GOV.UK describes the released material as UK UFO reports from 1997 to 2009, showing “dates and times, location and a brief description of the sighting.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The value of these records is therefore not that they prove extraordinary craft over Warwickshire. It is that they show how official UFO reporting actually worked. The MoD lists are administrative logs: date, time, place and a witness description, not a finding that the object was alien, military, or even physically unusual. GOV.UK describes the released material as UK UFO reports from 1997 to 2009, showing “dates and times, location and a brief description of the sighting.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 ## What the MoD logs actually contain
 
-The Warwickshire material sits inside a national release rather than a county-specific investigation. The MoD’s published annual lists collect reports from across the UK, usually in a table format. They can be searched by date and place, but they rarely provide witness names, follow-up interviews, radar checks, photographs, weather data, or a formal explanation. That makes them valuable as a public paper trail, but weak as proof of what was physically in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Warwickshire material sits inside a national release rather than a county-specific investigation. The MoD’s published annual lists collect reports from across the UK, usually in a table format. They can be searched by date and place, but they rarely provide witness names, follow-up interviews, radar checks, photographs, weather data, or a formal explanation. That makes them valuable as a public paper trail, but weak as proof of what was physically in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Geography needs care. This project uses Warwickshire in its historic-county sense, while noting modern administrative labels where they affect the record. Coventry, for example, appears in MoD tables under the West Midlands, but Coventry belongs to the historic county of Warwickshire; Britannica similarly notes that Coventry and Solihull, and part of Birmingham including its historic core, belong to historic Warwickshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/West-Midlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica West Midlands &#124; England, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica West Midlands &#124; England, Map, History, &amp; Facts</span></span></span> That is why a “Coventry Airport, West Midlands” entry can still matter for Warwickshire’s UFO history, provided the distinction is made clearly.
+Geography needs care. This project uses Warwickshire in its historic-county sense, while noting modern administrative labels where they affect the record. Coventry, for example, appears in MoD tables under the West Midlands, but Coventry belongs to the historic county of Warwickshire; Britannica similarly notes that Coventry and Solihull, and part of Birmingham including its historic core, belong to historic Warwickshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/West-Midlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica West Midlands &#124; England, Map, History, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica West Midlands &#124; England, Map, History, &amp; Facts</span></span></span> That is why a “Coventry Airport, West Midlands” entry can still matter for Warwickshire’s UFO history, provided the distinction is made clearly.
 
 The result is a pattern rather than a single landmark incident. Warwickshire’s MoD-linked sightings are mostly short, low-detail reports of lights, shapes and apparent movement. They are interesting because they show how local witnesses used the official reporting channel, not because the MoD tables transform those observations into confirmed anomalous events.
 
@@ -274,7 +274,7 @@ The result is a pattern rather than a single landmark incident. Warwickshire’s
 
 The strongest county-specific cluster in the MoD lists comes in March 1997. Four entries within just over two weeks fall in or very close to the Warwickshire frame: the M40 near Gaydon, Warwick, Coventry Airport and Bedworth. They are not identical reports, but they share the typical features of late-1990s UFO logging: brief witness wording, minimal context and no published resolution.
 
-On 12 March 1997, the M40 near Gaydon was logged with “five, pure white lights” that were said to have crossed from horizon to horizon in two or three seconds. The next night, Warwick was logged with “one huge big circle of bright white light” high in the sky, circling around. On 20 March, Coventry Airport was listed under the West Midlands as a saucer-shaped object “like a dull grey cloud,” moving slowly but faster than a cloud. On 27 March, Bedworth was recorded as two bright white objects side by side, with the additional detail that the car radio produced static during the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+On 12 March 1997, the M40 near Gaydon was logged with “five, pure white lights” that were said to have crossed from horizon to horizon in two or three seconds. The next night, Warwick was logged with “one huge big circle of bright white light” high in the sky, circling around. On 20 March, Coventry Airport was listed under the West Midlands as a saucer-shaped object “like a dull grey cloud,” moving slowly but faster than a cloud. On 27 March, Bedworth was recorded as two bright white objects side by side, with the additional detail that the car radio produced static during the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 Those details make the cluster memorable, but not conclusive. The Gaydon entry sounds dramatic because of the reported speed, yet a witness’s estimate of speed and distance at night can be highly unreliable without known altitude or size. The Warwick “circle of bright white light” could invite several ordinary possibilities, including searchlights, reflections or cloud-lit effects, though the MoD table itself does not test those possibilities. The Coventry Airport entry is notable because airport-adjacent reports raise obvious aviation questions, but the published line does not include air traffic data, radar confirmation or pilot corroboration. The Bedworth radio-static detail is interesting, yet the log gives no technical check linking the static to the lights.
 
@@ -285,11 +285,11 @@ The main takeaway is that March 1997 was a local reporting cluster, not a solved
 
 ## Stratford entries in 2008 and 2009
 
-Stratford-upon-Avon appears in the later MoD records during the period when orange-light reports were becoming common across Britain. On 6 December 2008 at 23:45, the MoD table recorded an “orange ball” over Stratford-upon-Avon, stationary for about five minutes before it “shot up into the sky” and disappeared from view, with no sound reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+Stratford-upon-Avon appears in the later MoD records during the period when orange-light reports were becoming common across Britain. On 6 December 2008 at 23:45, the MoD table recorded an “orange ball” over Stratford-upon-Avon, stationary for about five minutes before it “shot up into the sky” and disappeared from view, with no sound reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-The 2009 records add more Avon-area entries. On 4 July 2009, the MoD table recorded “Bideford on Avon” in Warwickshire with the very brief description “a round orange light.” The place name is likely a confused or mistyped reference to Bidford-on-Avon, a Warwickshire village on the River Avon near Stratford, but the careful reading is to preserve the MoD wording and flag the uncertainty rather than silently correcting the record. Bidford Parish Council describes Bidford-on-Avon as a South Warwickshire village on the River Avon, while the MoD table itself uses the wording “Bideford on Avon.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bidfordonavon-pc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bidfordonavon-pc.gov.uk">[bidfordonavon-pc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bidfordonavon-pc.gov.uk</span><span class="citation-popover-snippet">Open source on bidfordonavon-pc.gov.uk.</span></span></span>
+The 2009 records add more Avon-area entries. On 4 July 2009, the MoD table recorded “Bideford on Avon” in Warwickshire with the very brief description “a round orange light.” The place name is likely a confused or mistyped reference to Bidford-on-Avon, a Warwickshire village on the River Avon near Stratford, but the careful reading is to preserve the MoD wording and flag the uncertainty rather than silently correcting the record. Bidford Parish Council describes Bidford-on-Avon as a South Warwickshire village on the River Avon, while the MoD table itself uses the wording “Bideford on Avon.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bidfordonavon-pc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bidfordonavon-pc.gov.uk">[bidfordonavon-pc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bidfordonavon-pc.gov.uk</span><span class="citation-popover-snippet">Open source on bidfordonavon-pc.gov.uk.</span></span></span>
 
-The following morning, 5 July 2009 at 01:35, Stratford-upon-Avon was logged again. This time the witness described a dormant blue light that changed colour over the hour it was seen, moved steadily, stopped in mid-air, moved left to right, showed a white beam shining down and had red lights. Later that summer, on 29 August 2009 at 21:47, another Stratford-upon-Avon entry described lights moving into view from right to left, stopping to form a pattern, then pulsing and fading out their bright orange lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The following morning, 5 July 2009 at 01:35, Stratford-upon-Avon was logged again. This time the witness described a dormant blue light that changed colour over the hour it was seen, moved steadily, stopped in mid-air, moved left to right, showed a white beam shining down and had red lights. Later that summer, on 29 August 2009 at 21:47, another Stratford-upon-Avon entry described lights moving into view from right to left, stopping to form a pattern, then pulsing and fading out their bright orange lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 These entries matter because they place Stratford within the wider 2008–09 surge in UK reports. They also show why the MoD logs can be seductive but fragile. The descriptions are vivid enough to interest a reader, but too compressed to test properly. “Orange lights” could cover many different things: lanterns, aircraft seen at odd angles, distant helicopters, fireworks, reflections, or genuinely unidentified observations. The log alone cannot choose between them.
 
@@ -297,9 +297,9 @@ These entries matter because they place Stratford within the wider 2008–09 sur
 <img src="{{ "/assets/images/Warwickshire_17be07_mod_sighting_logs_28fe32-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Records illustration 2" data-theme-src-dark="{{ "/assets/images/Warwickshire_17be07_mod_sighting_logs_28fe32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Warwickshire_17be07_mod_sighting_logs_28fe32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Orange lights and the lantern problem
 
-The late-2000s Stratford entries should be read alongside the MoD’s own later assessment of the national reporting surge. The National Archives’ final UFO-file release noted that the MoD received more than 600 UFO sightings in 2009, roughly treble the previous year, and that this increased workload helped drive the closure of the UFO desk. It also recorded that officials believed part of the increase may have been caused by the craze for Chinese lanterns at weddings and public holidays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The late-2000s Stratford entries should be read alongside the MoD’s own later assessment of the national reporting surge. The National Archives’ final UFO-file release noted that the MoD received more than 600 UFO sightings in 2009, roughly treble the previous year, and that this increased workload helped drive the closure of the UFO desk. It also recorded that officials believed part of the increase may have been caused by the craze for Chinese lanterns at weddings and public holidays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-This matters directly for Warwickshire because several local entries fit the broad “orange light” pattern: the December 2008 Stratford orange ball, the July 2009 Avon-valley orange light, and the August 2009 Stratford orange lights that stopped, formed a pattern, pulsed and faded. None of these can be confidently identified from the table alone. But they sit in a national context where many similar reports were later regarded as plausibly linked to lanterns or other ordinary aerial lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+This matters directly for Warwickshire because several local entries fit the broad “orange light” pattern: the December 2008 Stratford orange ball, the July 2009 Avon-valley orange light, and the August 2009 Stratford orange lights that stopped, formed a pattern, pulsed and faded. None of these can be confidently identified from the table alone. But they sit in a national context where many similar reports were later regarded as plausibly linked to lanterns or other ordinary aerial lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That does not mean every orange-light report was a lantern. It means the burden of evidence is higher. A strong case would need details such as wind direction, duration, angular movement, multiple independent witnesses from separated locations, photographs with time stamps, or aviation and meteorological checks. The Warwickshire entries are too brief for that.
 
@@ -310,7 +310,7 @@ That does not mean every orange-light report was a lantern. It means the burden 
 
 A common misunderstanding is to treat a sighting’s appearance in an MoD list as official validation. It is not. The MoD recorded reports because the department had an air-defence interest in whether UK airspace had been compromised, not because it had verified extraordinary objects in each case. The tables capture what was reported, not what was established.
 
-The National Archives’ guide to the final UFO files is explicit about the later policy judgement. A 2009 briefing for Defence Minister Bob Ainsworth said that in more than 50 years no UFO sighting reported to the MoD had revealed anything suggesting an extraterrestrial presence or a military threat to the UK, and that there was “no defence benefit” in recording, collating, analysing or investigating UFO sightings. It also said further investigations, even from more reliable sources, served no useful purpose and diverted air-defence specialists from their primary tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The National Archives’ guide to the final UFO files is explicit about the later policy judgement. A 2009 briefing for Defence Minister Bob Ainsworth said that in more than 50 years no UFO sighting reported to the MoD had revealed anything suggesting an extraterrestrial presence or a military threat to the UK, and that there was “no defence benefit” in recording, collating, analysing or investigating UFO sightings. It also said further investigations, even from more reliable sources, served no useful purpose and diverted air-defence specialists from their primary tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 That official conclusion should not be overread either. It does not explain every individual Warwickshire sighting. It says that, from the MoD’s defence-governance perspective, the reporting system had not produced evidence of a threat or an extraterrestrial presence. For county history, the logs remain useful because they preserve local claims that might otherwise have disappeared. For evidential analysis, they remain limited because they rarely contain the material needed to separate misidentification, hoax, aircraft, astronomical causes, lanterns and genuinely unresolved observations.
 
@@ -340,194 +340,194 @@ On that standard, the Warwickshire record is intriguing but not strong. The Marc
 The MoD logs therefore reveal a county-level UFO history made of fragments. They show what people said they saw over Warwickshire, how those reports entered the official system, and why official recording should not be confused with proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Mo D Logs Reveal About Warwickshire. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Mo D Logs Reveal About Warwickshire. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context for regional UFO histories such as Warwickshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for regional UFO histories such as Warwickshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QkVspwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QkVspwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Relevant to Warwickshire reports, MoD logs and witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Warwickshire reports, MoD logs and witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Introduces readers to how UFO cases are investigated, documented, challenged and debated, matching the article&#x27;s theme of moving from mys...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces readers to how UFO cases are investigated, documented, challenged and debated, matching the article&#x27;s theme of moving from mys...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and evidence, directly supporting lessons about explained versus unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and evidence, directly supporting lessons about explained versus unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="{{ '/assets/images/marketplace-covers/e3079e558933d9a1ab68.jpg' | relative_url }}" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box"><img src="{{ '/assets/images/marketplace-covers/a87233ae234a5fc7da28.jpg' | relative_url }}" alt="Listing image for NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure"><img src="{{ '/assets/images/marketplace-covers/982e425fc95060e67433.jpg' | relative_url }}" alt="Listing image for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！"><img src="{{ '/assets/images/marketplace-covers/d42a50de6551ffda29c9.jpg' | relative_url }}" alt="Listing image for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="mo-d-records-103f76-what-the-mo-d-logs-reveal-about-warwickshire-warwickshire-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-mod-logs-reveal-about-warwickshire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-mod-logs-reveal-about-warwickshire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The MoD logs therefore reveal a county-level UFO history made of fragments. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The MoD logs therefore reveal a county-level UFO history made of fragments. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The MoD logs therefore reveal a county-level UFO history made of fragments. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The MoD logs therefore reveal a county-level UFO history made of fragments. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The MoD logs therefore reveal a county-level UFO history made of fragments. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,210 +733,210 @@ The MoD logs therefore reveal a county-level UFO history made of fragments. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica West Midlands | England, Map, History, & Facts  
-   Link: <a href="https://www.britannica.com/place/West-Midlands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Midlands</a>  
+   Link:<a href="https://www.britannica.com/place/West-Midlands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/West-Midlands</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bidfordonavon-pc.gov.uk  
-   Link: <a href="https://bidfordonavon-pc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bidfordonavon-pc.gov.uk/</a>  
+   Link:<a href="https://bidfordonavon-pc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bidfordonavon-pc.gov.uk/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: solihull.gov.uk  
    Title: Planning LDF Archaeological Resource Assessment of Aggregate Prod  
-   Link: <a href="https://www.solihull.gov.uk/sites/default/files/migrated/Planning_LDF_Archaeological_Resource_Assessment_of_Aggregate_Prod.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.solihull.gov.uk/sites/default/files/migrated/Planning_LDF_Archaeological_Resource_Assessment_of_Aggregate_Prod.pdf</a>  
+   Link:<a href="https://www.solihull.gov.uk/sites/default/files/migrated/Planning_LDF_Archaeological_Resource_Assessment_of_Aggregate_Prod.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.solihull.gov.uk/sites/default/files/migrated/Planning_LDF_Archaeological_Resource_Assessment_of_Aggregate_Prod.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2009/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Solihull" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Solihull</a>  
+   Link:<a href="https://www.britannica.com/place/Solihull" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Solihull</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Coventry England  
-   Link: <a href="https://www.britannica.com/place/Coventry-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Coventry-England</a>  
+   Link:<a href="https://www.britannica.com/place/Coventry-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Coventry-England</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
    Title: Walsall England  
-   Link: <a href="https://www.britannica.com/place/Walsall-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Walsall-England</a>  
+   Link:<a href="https://www.britannica.com/place/Walsall-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Walsall-England</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Warwickshire</a>  
+   Link:<a href="https://www.britannica.com/place/Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Warwickshire</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Sandwell" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Sandwell</a>  
+   Link:<a href="https://www.britannica.com/place/Sandwell" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Sandwell</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: maps.warwickshire.gov.uk  
-   Link: <a href="https://maps.warwickshire.gov.uk/historical/" target="_blank" rel="noopener noreferrer nofollow">https://maps.warwickshire.gov.uk/historical/</a>  
+   Link:<a href="https://maps.warwickshire.gov.uk/historical/" target="_blank" rel="noopener noreferrer nofollow">https://maps.warwickshire.gov.uk/historical/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: warwickshire.gov.uk  
    Title: Bidford on Avon  
-   Link: <a href="https://www.warwickshire.gov.uk/directory-record/8625/bidford-on-avon" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.gov.uk/directory-record/8625/bidford-on-avon</a>  
+   Link:<a href="https://www.warwickshire.gov.uk/directory-record/8625/bidford-on-avon" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.gov.uk/directory-record/8625/bidford-on-avon</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bidfordonavon-pc.gov.uk  
    Title: around bidford  
-   Link: <a href="https://bidfordonavon-pc.gov.uk/around-bidford/" target="_blank" rel="noopener noreferrer nofollow">https://bidfordonavon-pc.gov.uk/around-bidford/</a>  
+   Link:<a href="https://bidfordonavon-pc.gov.uk/around-bidford/" target="_blank" rel="noopener noreferrer nofollow">https://bidfordonavon-pc.gov.uk/around-bidford/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: warwickshire.police.uk  
    Title: foi 1078 2024 dec 2024 ufo  
-   Link: <a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2024/december-2024/foi-1078-2024--dec-2024--ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2024/december-2024/foi-1078-2024--dec-2024--ufo/</a>  
+   Link:<a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2024/december-2024/foi-1078-2024--dec-2024--ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2024/december-2024/foi-1078-2024--dec-2024--ufo/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: democracy.stratford.gov.uk  
-   Link: <a href="https://democracy.stratford.gov.uk/mgParishCouncilDetails.aspx?ID=244&amp;LS=4" target="_blank" rel="noopener noreferrer nofollow">https://democracy.stratford.gov.uk/mgParishCouncilDetails.aspx?ID=244&amp;LS=4</a>  
+   Link:<a href="https://democracy.stratford.gov.uk/mgParishCouncilDetails.aspx?ID=244&amp;LS=4" target="_blank" rel="noopener noreferrer nofollow">https://democracy.stratford.gov.uk/mgParishCouncilDetails.aspx?ID=244&amp;LS=4</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Warwickshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Warwickshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Solihull" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Solihull</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Solihull" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Solihull</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Coventry" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Coventry</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Coventry" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Coventry</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wikishire.co.uk  
    Title: Bidford on Avon  
-   Link: <a href="https://wikishire.co.uk/wiki/Bidford-on-Avon" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Bidford-on-Avon</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Bidford-on-Avon" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Bidford-on-Avon</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Warwickshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Warwickshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Bidford on Avon  
-   Link: <a href="https://en.wikipedia.org/wiki/Bidford-on-Avon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bidford-on-Avon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bidford-on-Avon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bidford-on-Avon</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: shakespeares-england.co.uk  
-   Link: <a href="https://www.shakespeares-england.co.uk/places/bidford-on-avon/" target="_blank" rel="noopener noreferrer nofollow">https://www.shakespeares-england.co.uk/places/bidford-on-avon/</a>  
+   Link:<a href="https://www.shakespeares-england.co.uk/places/bidford-on-avon/" target="_blank" rel="noopener noreferrer nofollow">https://www.shakespeares-england.co.uk/places/bidford-on-avon/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bluecap_Covert%2C_Warwickshire_119227" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bluecap_Covert%2C_Warwickshire_119227</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bluecap_Covert%2C_Warwickshire_119227" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bluecap_Covert%2C_Warwickshire_119227</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ourwarwickshire.org.uk  
-   Link: <a href="https://www.ourwarwickshire.org.uk/content/help/maps/historic-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.ourwarwickshire.org.uk/content/help/maps/historic-maps</a>  
+   Link:<a href="https://www.ourwarwickshire.org.uk/content/help/maps/historic-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.ourwarwickshire.org.uk/content/help/maps/historic-maps</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/the-county-of-warwick-is-a-shire-in-the-midlandsthe-county-town-is-warwick-but-i/836413325308903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-warwick-is-a-shire-in-the-midlandsthe-county-town-is-warwick-but-i/836413325308903/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/the-county-of-warwick-is-a-shire-in-the-midlandsthe-county-town-is-warwick-but-i/836413325308903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/the-county-of-warwick-is-a-shire-in-the-midlandsthe-county-town-is-warwick-but-i/836413325308903/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: history.ac.uk  
-   Link: <a href="https://www.history.ac.uk/research/victoria-county-history/counties-z/warwickshire/vch-warwickshire-publications" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/research/victoria-county-history/counties-z/warwickshire/vch-warwickshire-publications</a>  
+   Link:<a href="https://www.history.ac.uk/research/victoria-county-history/counties-z/warwickshire/vch-warwickshire-publications" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/research/victoria-county-history/counties-z/warwickshire/vch-warwickshire-publications</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
-   Link: <a href="https://it.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KbzbK905kwc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KbzbK905kwc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
    Published: October 2008  

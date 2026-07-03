@@ -254,7 +254,7 @@ image: /assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-overview-social
 
 ## Introduction
 
-[Peeblesshire]({{ 'what-did-peeblesshire-actually-see/' | relative_url }}) is quiet in Britain’s UFO geography because it has not produced the ingredients that normally turn a place into a hotspot: repeated reports, a named flap period, a landmark case, media momentum, official investigation records, or durable physical evidence. The best public anchor found for the historic county is a single Ministry of Defence entry from Peebles on 16 December 2005, describing a small silver object moving very fast in a straight line. That is interesting, but it is not enough to create a local UFO tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+[Peeblesshire]({{ 'what-did-peeblesshire-actually-see/' | relative_url }}) is quiet in Britain’s UFO geography because it has not produced the ingredients that normally turn a place into a hotspot: repeated reports, a named flap period, a landmark case, media momentum, official investigation records, or durable physical evidence. The best public anchor found for the historic county is a single Ministry of Defence entry from Peebles on 16 December 2005, describing a small silver object moving very fast in a straight line. That is interesting, but it is not enough to create a local UFO tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-overview.webp" | relative_url }}" alt="Overview image for Not a Hotspot" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,9 +262,9 @@ That does not mean “nothing ever happens” in the skies over Peeblesshire. It
 
 ## What a UFO hotspot usually needs
 
-A UFO hotspot is not simply a place where one person once saw something odd. It normally needs repetition, recognition and a story that survives beyond the first report. Bonnybridge, for example, became known through a 1990s wave of reports around the Falkirk area and through sustained local, national and international media attention; the “Falkirk Triangle” label itself helped turn scattered sightings into a recognisable public narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle</span></span></span>
+A UFO hotspot is not simply a place where one person once saw something odd. It normally needs repetition, recognition and a story that survives beyond the first report. Bonnybridge, for example, became known through a 1990s wave of reports around the Falkirk area and through sustained local, national and international media attention; the “Falkirk Triangle” label itself helped turn scattered sightings into a recognisable public narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle</span></span></span>
 
-The strongest UK and Scottish UFO cases also tend to have one or more of the following: a clear date and location, named witnesses, official paperwork, police or military involvement, images, alleged physical traces, or later re-investigation. The Dechmont Law incident in West Lothian has endured because it involved Robert Taylor, an injured forestry worker, police interest and a fixed location that local heritage material still presents as a notable case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Top secret</span><span class="citation-popover-snippet">West Lothian Council Top secret</span></span></span> The Calvine case in Perthshire has lasted because of the reported photographs, Ministry of Defence handling and later arguments about what the image shows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">cas 318549 h8g1b0</span><span class="citation-popover-snippet">cas 318549 h8g1b0</span></span></span>
+The strongest UK and Scottish UFO cases also tend to have one or more of the following: a clear date and location, named witnesses, official paperwork, police or military involvement, images, alleged physical traces, or later re-investigation. The Dechmont Law incident in West Lothian has endured because it involved Robert Taylor, an injured forestry worker, police interest and a fixed location that local heritage material still presents as a notable case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-title">West Lothian Council Top secret</span><span class="citation-popover-snippet">West Lothian Council Top secret</span></span></span> The Calvine case in Perthshire has lasted because of the reported photographs, Ministry of Defence handling and later arguments about what the image shows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">cas 318549 h8g1b0</span><span class="citation-popover-snippet">cas 318549 h8g1b0</span></span></span>
 
 Peeblesshire lacks that kind of narrative machinery. There is no widely cited “Peebles incident” equivalent to Dechmont, no famous photograph equivalent to Calvine, and no sustained cluster equivalent to Bonnybridge. The county’s UFO profile is defined less by mystery than by the absence of repeated, well-documented public claims.
 
@@ -272,11 +272,11 @@ Peeblesshire lacks that kind of narrative machinery. There is no widely cited �
 <img src="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-Illustration-1-dark.svg" | relative_url }}" alt="Not a Hotspot illustration 1" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the local record lacks
 
-The clearest Peeblesshire-relevant entry in the released MoD annual listings is short. It records “Peebles, Borders” at 14:10 on 16 December 2005, with the object described as small, silver, fast, and travelling in a very straight line. The public summary does not include the witness’s name, exact viewing position, duration, direction, weather, altitude estimate, photograph, radar check, aircraft correlation or investigation result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The clearest Peeblesshire-relevant entry in the released MoD annual listings is short. It records “Peebles, Borders” at 14:10 on 16 December 2005, with the object described as small, silver, fast, and travelling in a very straight line. The public summary does not include the witness’s name, exact viewing position, duration, direction, weather, altitude estimate, photograph, radar check, aircraft correlation or investigation result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That makes the report unresolved in a narrow sense but weak in an evidential sense. “Unresolved” here only means the published table does not identify the object. It does not mean the report points strongly towards an extraordinary craft. A small silver object seen in daylight could be many things depending on angle, distance and duration: an aircraft catching sunlight, a balloon, a reflective object, a bird at misjudged distance, or something else ordinary but hard to reconstruct from a one-line description.
 
-The table itself shows why Peebles does not stand out. The 2005 list contains many brief reports from across the UK: lights, orange balls, triangles, flashes, shooting-star-like trails and vague “UFO” entries. Some are more detailed than Peebles; some are even thinner. The Peebles entry is therefore part of a national reporting stream rather than evidence of a local concentration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The table itself shows why Peebles does not stand out. The 2005 list contains many brief reports from across the UK: lights, orange balls, triangles, flashes, shooting-star-like trails and vague “UFO” entries. Some are more detailed than Peebles; some are even thinner. The Peebles entry is therefore part of a national reporting stream rather than evidence of a local concentration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 A hotspot would normally show repeated place names over time, similar descriptions from separate witnesses, or an event that generated records beyond a table entry. Peeblesshire’s public profile does not show that. The problem is not that the [2005 sighting]({{ '2005-sighting/' | relative_url }}) is impossible to explain; the problem is that there is too little surrounding material to test it.
 
@@ -285,7 +285,7 @@ A hotspot would normally show repeated place names over time, similar descriptio
 
 ## Geography works against hotspot status
 
-Peeblesshire is also a small and relatively rural historic county. Wikishire describes the County of Peebles, or Tweeddale, as one of the smaller Scottish shires, with few towns and much of its area taken up by hills and dales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> Britannica places it in south-eastern Scotland, entirely within the modern Scottish Borders council area, bordered by historic Midlothian, Selkirkshire, Dumfriesshire and Lanarkshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span><span class="citation-popover-snippet">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span></span></span>
+Peeblesshire is also a small and relatively rural historic county. Wikishire describes the County of Peebles, or Tweeddale, as one of the smaller Scottish shires, with few towns and much of its area taken up by hills and dales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> Britannica places it in south-eastern Scotland, entirely within the modern Scottish Borders council area, bordered by historic Midlothian, Selkirkshire, Dumfriesshire and Lanarkshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span><span class="citation-popover-snippet">Encyclopedia Britannica Peeblesshire &#124; Borderland, Lowland, Scotland</span></span></span>
 
 That matters because UFO reporting is partly a witness-density problem. More people, more roads, more night workers, more airports, more police calls and more local media usually mean more opportunities for reports to be made, repeated and preserved. Peeblesshire has attractive dark skies and open hill country, but a sparse landscape does not automatically create a hotspot if there are not enough repeated reports entering public records.
 
@@ -295,7 +295,7 @@ The county also sits inside wider labels that can blur local evidence. Reports m
 <img src="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-Illustration-2-dark.svg" | relative_url }}" alt="Not a Hotspot illustration 2" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86_not_ufo_hotspot_804553-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation links explain some ambiguity, not a hotspot
 
-The skies over southern Scotland are not empty. The Ministry of Defence states that the UK is divided into low-flying areas and that one of the tactical training areas covers the Borders area of southern Scotland and northern England. It also notes that training activity can vary because of weather and operational requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft</span><span class="citation-popover-snippet">Low flying military aircraft</span></span></span> Civil Aviation Authority material similarly describes Tactical Training Areas in locations including the Borders and south-west Scotland, where some authorised military flying can occur at very low levels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Military Low Flying</span><span class="citation-popover-snippet">Civil Aviation Authority Military Low Flying</span></span></span>
+The skies over southern Scotland are not empty. The Ministry of Defence states that the UK is divided into low-flying areas and that one of the tactical training areas covers the Borders area of southern Scotland and northern England. It also notes that training activity can vary because of weather and operational requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft</span><span class="citation-popover-snippet">Low flying military aircraft</span></span></span> Civil Aviation Authority material similarly describes Tactical Training Areas in locations including the Borders and south-west Scotland, where some authorised military flying can occur at very low levels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Military Low Flying</span><span class="citation-popover-snippet">Civil Aviation Authority Military Low Flying</span></span></span>
 
 This helps explain why individual sightings in and around Peeblesshire can be puzzling without making the county a UFO centre. Low aircraft, fast jets, gliders, helicopters and aircraft catching sunlight can all produce odd impressions, especially when a witness lacks distance or altitude cues. The 2005 Peebles report’s phrase “twice the speed of a military aircraft” is a perception, not a measured speed. Without a known distance, even a slow object can seem fast, and a fast object can seem far closer or stranger than it is.
 
@@ -306,9 +306,9 @@ At the same time, aviation activity alone does not produce hotspot status. A hot
 
 ## Why silence should not be overread
 
-Absence of evidence is not proof that nobody in Peeblesshire ever saw anything unusual. It may reflect under-reporting, lost local newspaper items, private accounts never sent to the MoD, or records filed under broader Borders labels. The National Archives’ UFO research guidance also makes clear that surviving official records are mainly policy, correspondence, Parliamentary material and reports, not a complete catalogue of every strange thing seen in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Absence of evidence is not proof that nobody in Peeblesshire ever saw anything unusual. It may reflect under-reporting, lost local newspaper items, private accounts never sent to the MoD, or records filed under broader Borders labels. The National Archives’ UFO research guidance also makes clear that surviving official records are mainly policy, correspondence, Parliamentary material and reports, not a complete catalogue of every strange thing seen in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MoD’s own later stance is important. When the UFO desk closed, National Archives material stated that the work was judged to serve no defence purpose, and that more than fifty years of reports had not produced evidence of a threat requiring continued investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> This does not solve every sighting. It does show why a one-line Peebles report did not grow into an official case of major public significance.
+The MoD’s own later stance is important. When the UFO desk closed, National Archives material stated that the work was judged to serve no defence purpose, and that more than fifty years of reports had not produced evidence of a threat requiring continued investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> This does not solve every sighting. It does show why a one-line Peebles report did not grow into an official case of major public significance.
 
 The fair reading is therefore modest. Peeblesshire is not a debunked hotspot; it is not a hidden hotspot; and it is not an evidential void in the sense that no record exists at all. It is a low-signal county with one clearly identifiable public MoD entry and no strong pattern around it.
 
@@ -325,194 +325,194 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Is Peeblesshire So Quiet?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Is Peeblesshire So Quiet?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison with stronger, better-documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with stronger, better-documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are assessed and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are assessed and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Useful for understanding why some areas become hotspots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why some areas become hotspots.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how narratives grow around reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how narratives grow around reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="not-a-hotspot-why-is-peeblesshire-so-quiet-peeblesshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,254 +718,254 @@ For readers, the key point is simple: a UFO hotspot is made by accumulation. Pee
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789a0140f0b63247698ae6/UFOReports2005WholeoftheUK.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: westlothian.gov.uk  
    Title: West Lothian Council Top secret  
-   Link: <a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
+   Link:<a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: cas 318549 h8g1b0  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Peeblesshire | Borderland, Lowland, Scotland  
-   Link: <a href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peeblesshire</a>  
+   Link:<a href="https://www.britannica.com/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peeblesshire</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Low flying military aircraft  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 1990to1999.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c0cdbe5274a7202e193c8/20131128-mod-whitehall-library-resources-1990to1999.csv</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: RA2330 Issue 10  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-11-12.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
    Title: Peebles | Historic Town, River Tweed  
-   Link: <a href="https://www.britannica.com/place/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peebles</a>  
+   Link:<a href="https://www.britannica.com/place/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Peebles</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Scottish-Borders" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Scottish-Borders</a>  
+   Link:<a href="https://www.britannica.com/place/Scottish-Borders" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Scottish-Borders</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-syerston/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-syerston/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-syerston/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-syerston/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scotborders.gov.uk  
    Title: Peebles and District  
-   Link: <a href="https://www.scotborders.gov.uk/directory-record/7733/peebles-and-district" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/directory-record/7733/peebles-and-district</a>  
+   Link:<a href="https://www.scotborders.gov.uk/directory-record/7733/peebles-and-district" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/directory-record/7733/peebles-and-district</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scotborders.gov.uk  
-   Link: <a href="https://www.scotborders.gov.uk/directory-record/26008/peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/directory-record/26008/peebles</a>  
+   Link:<a href="https://www.scotborders.gov.uk/directory-record/26008/peebles" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/directory-record/26008/peebles</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: edinburgh.gov.uk  
    Title: bank of street names  
-   Link: <a href="https://www.edinburgh.gov.uk/downloads/file/26785/bank-of-street-names.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburgh.gov.uk/downloads/file/26785/bank-of-street-names.pdf</a>  
+   Link:<a href="https://www.edinburgh.gov.uk/downloads/file/26785/bank-of-street-names.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburgh.gov.uk/downloads/file/26785/bank-of-street-names.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: democracy.edinburgh.gov.uk  
    Title: Public+reports+pack+27th Feb 2025.00+Culture+and+Communities+Committee  
-   Link: <a href="https://democracy.edinburgh.gov.uk/documents/g7284/Public%2Breports%2Bpack%2B27th-Feb-2025%2B10.00%2BCulture%2Band%2BCommunities%2BCommittee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.edinburgh.gov.uk/documents/g7284/Public%2Breports%2Bpack%2B27th-Feb-2025%2B10.00%2BCulture%2Band%2BCommunities%2BCommittee.pdf?T=10</a>  
+   Link:<a href="https://democracy.edinburgh.gov.uk/documents/g7284/Public%2Breports%2Bpack%2B27th-Feb-2025%2B10.00%2BCulture%2Band%2BCommunities%2BCommittee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://democracy.edinburgh.gov.uk/documents/g7284/Public%2Breports%2Bpack%2B27th-Feb-2025%2B10.00%2BCulture%2Band%2BCommunities%2BCommittee.pdf?T=10</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cabinet.leicester.gov.uk  
    Title: Biodiversity Action Plan Part 2  
-   Link: <a href="https://cabinet.leicester.gov.uk/documents/s122918/Biodiversity%20Action%20Plan%20Part%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cabinet.leicester.gov.uk/documents/s122918/Biodiversity%20Action%20Plan%20Part%202.pdf</a>  
+   Link:<a href="https://cabinet.leicester.gov.uk/documents/s122918/Biodiversity%20Action%20Plan%20Part%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cabinet.leicester.gov.uk/documents/s122918/Biodiversity%20Action%20Plan%20Part%202.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wooddallingparishcouncil.gov.uk  
    Title: Correspondence received agenda item 16  
-   Link: <a href="https://wooddallingparishcouncil.gov.uk/wp-content/uploads/2024/04/Correspondence-received-agenda-item-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wooddallingparishcouncil.gov.uk/wp-content/uploads/2024/04/Correspondence-received-agenda-item-16.pdf</a>  
+   Link:<a href="https://wooddallingparishcouncil.gov.uk/wp-content/uploads/2024/04/Correspondence-received-agenda-item-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wooddallingparishcouncil.gov.uk/wp-content/uploads/2024/04/Correspondence-received-agenda-item-16.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: data.jncc.gov.uk  
    Title: SpeciesStatus 1 Coleoptera WEB 2010  
-   Link: <a href="https://data.jncc.gov.uk/data/e80beaf2-456c-4178-8f91-16c2ef01368d/SpeciesStatus-1-Coleoptera-WEB-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/e80beaf2-456c-4178-8f91-16c2ef01368d/SpeciesStatus-1-Coleoptera-WEB-2010.pdf</a>  
+   Link:<a href="https://data.jncc.gov.uk/data/e80beaf2-456c-4178-8f91-16c2ef01368d/SpeciesStatus-1-Coleoptera-WEB-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/e80beaf2-456c-4178-8f91-16c2ef01368d/SpeciesStatus-1-Coleoptera-WEB-2010.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reedhamparishcouncil.gov.uk  
    Title: Broadsheet 230 May 2024  
-   Link: <a href="https://reedhamparishcouncil.gov.uk/wp-content/uploads/2025/08/Broadsheet-230-May-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reedhamparishcouncil.gov.uk/wp-content/uploads/2025/08/Broadsheet-230-May-2024.pdf</a>  
+   Link:<a href="https://reedhamparishcouncil.gov.uk/wp-content/uploads/2025/08/Broadsheet-230-May-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reedhamparishcouncil.gov.uk/wp-content/uploads/2025/08/Broadsheet-230-May-2024.pdf</a>  
    Published: May 2024  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: content.time.com  
-   Link: <a href="https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ufos.ac.uk  
    Title: UFOs The Bonnybridge (or Falkirk) Triangle  
-   Link: <a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
+   Link:<a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peeblesshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peeblesshire</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Military Low Flying  
-   Link: <a href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/13382</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/13382</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peebles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peebles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peebles</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peeblesshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peeblesshire</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: hangar1publishing.com  
    Title: ufo hotspot  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOorV0fqXxQnaSQMpte2DuBJkXFBGdfiA3d7HNv0j5z72FzaxxFHo" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOorV0fqXxQnaSQMpte2DuBJkXFBGdfiA3d7HNv0j5z72FzaxxFHo</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOorV0fqXxQnaSQMpte2DuBJkXFBGdfiA3d7HNv0j5z72FzaxxFHo" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOorV0fqXxQnaSQMpte2DuBJkXFBGdfiA3d7HNv0j5z72FzaxxFHo</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: hangar1publishing.com  
    Title: ufo hotspot  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopckh5PvTC6WWUR_CeT7RqqBKSHPo1m5yUxXzcW263CLkpbTJk7</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: 3,000 UFO Reports & No Official Answers in The Falkirk Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Happening in the UFO Capital of the World? | Bonnybridge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Happening in the UFO Capital of the World? | Bonnybridge...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Paranormal Patter • The Dechmont Woods UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotlands Chilling PARANORMAL CASE Of The A70 Incident - Weird World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZYUzWckOpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZYUzWckOpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotlands Chilling PARANORMAL CASE Of The A70 Incident - Weird World...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Livingston&#x27;s UFO Trail | Scotland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Livingston&#x27;s UFO Trail | Scotland...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: banthebomb.org  
-   Link: <a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
+   Link:<a href="https://www.banthebomb.org/militaryscotland/appendixc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.banthebomb.org/militaryscotland/appendixc.html</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: ourairports.com  
-   Link: <a href="https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html</a>  
+   Link:<a href="https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/SAB/St.aAbs_VOR-DME_GB/closest-airports.html</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOoqKTMcF_54r63gdtZZqFsY5l6ewyFF9Z7Ql4xV9BuNrkAMaftZx</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anorcadianabroad/posts/can-you-see-anything-out-of-the-ordinary-in-dechmont-woods-on-the-outskirts-of-l/1431257108524373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anorcadianabroad/posts/can-you-see-anything-out-of-the-ordinary-in-dechmont-woods-on-the-outskirts-of-l/1431257108524373/</a>  
+   Link:<a href="https://www.facebook.com/anorcadianabroad/posts/can-you-see-anything-out-of-the-ordinary-in-dechmont-woods-on-the-outskirts-of-l/1431257108524373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anorcadianabroad/posts/can-you-see-anything-out-of-the-ordinary-in-dechmont-woods-on-the-outskirts-of-l/1431257108524373/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/</a>  
+   Link:<a href="https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EverythingScottishAncientAndWild/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/922054530333942/</a>  

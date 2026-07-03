@@ -252,7 +252,7 @@ image: /assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-overview-
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-overview.webp" | relative_url }}" alt="Overview image for Airspace" loading="eager" decoding="sync" fetchpriority="high">
-This page uses Hertfordshire as the centre of gravity, while recognising that airspace does not respect county lines. Historic and modern Hertfordshire also differ at the edges: Potters Bar is in modern Hertfordshire but historically Middlesex, while historic Hertfordshire includes parts of Barnet now in Greater London. That matters for UFO mapping because a witness may say “Hertfordshire”, “north London”, “near Luton” or “over Elstree” while describing the same practical aviation environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+This page uses Hertfordshire as the centre of gravity, while recognising that airspace does not respect county lines. Historic and modern Hertfordshire also differ at the edges: Potters Bar is in modern Hertfordshire but historically Middlesex, while historic Hertfordshire includes parts of Barnet now in Greater London. That matters for UFO mapping because a witness may say “Hertfordshire”, “north London”, “near Luton” or “over Elstree” while describing the same practical aviation environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PkEsXehI0uk" title="VFR Heathrow Zone Transit (Low Level) | FULL ATC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PkEsXehI0uk" target="_blank" rel="noopener noreferrer">VFR Heathrow Zone Transit (Low Level) | FULL ATC</a></p><p class="youtube-embed-meta">Channel: The Flying Thespian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PkEsXehI0uk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PkEsXehI0uk">Open on YouTube</a></p></div></div></div>
@@ -261,21 +261,21 @@ This page uses Hertfordshire as the centre of gravity, while recognising that ai
 
 Many UFO reports begin as sincere descriptions of lights doing something that seems wrong: hovering, sliding sideways, disappearing, moving silently, splitting into several points, or looking brighter than any normal aircraft. In Hertfordshire, those descriptions overlap with real aviation effects. A plane seen head-on can look almost stationary. Landing lights can appear as a single intense white point. A banked turn can make lights flare, dim or change direction. Aircraft behind cloud can make the cloud itself appear to glow. A helicopter can hover or move slowly in ways that a witness may not associate with normal fixed-wing aircraft.
 
-The official UFO record supports this cautious approach. The National Archives describes the Ministry of Defence UFO files as containing many reports of “shapes, lights and flashes” that can often be explained, alongside some more unusual accounts. The final tranche of MoD UFO material covered the closing years of the UFO desk, including sighting reports, public correspondence and policy files from late 2007 to November 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The official UFO record supports this cautious approach. The National Archives describes the Ministry of Defence UFO files as containing many reports of “shapes, lights and flashes” that can often be explained, alongside some more unusual accounts. The final tranche of MoD UFO material covered the closing years of the UFO desk, including sighting reports, public correspondence and policy files from late 2007 to November 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-That national context matters because Hertfordshire’s 2009 reports fall into a period of heavy public reporting rather than a clean set of investigated aviation anomalies. In the MoD’s 2009 list, local entries include Harpenden on 22 August, described as “tall and thin, like a pencil, square, blue black”, and Stevenage the same evening, described as “two orbs, flickering lights, sliding across the sky”. Nearby entries on the same pages include many orange lights, silent lights and fireball-like objects from other counties, a pattern that often calls for checks against lanterns, aircraft, balloons and atmospheric or astronomical causes before any stronger claim is made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+That national context matters because Hertfordshire’s 2009 reports fall into a period of heavy public reporting rather than a clean set of investigated aviation anomalies. In the MoD’s 2009 list, local entries include Harpenden on 22 August, described as “tall and thin, like a pencil, square, blue black”, and Stevenage the same evening, described as “two orbs, flickering lights, sliding across the sky”. Nearby entries on the same pages include many orange lights, silent lights and fireball-like objects from other counties, a pattern that often calls for checks against lanterns, aircraft, balloons and atmospheric or astronomical causes before any stronger claim is made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-Illustration-1-dark.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Elstree and local aviation
 
-Elstree Aerodrome is one of the most important local checks for UFO-style reports in southern Hertfordshire. It is not a major airline airport, but that can make it easier for witnesses to underestimate. A small aircraft or helicopter at low level, especially near dusk, may be more surprising to a resident than a high jet on a known commercial route. The Elstree Aerodrome Consultative Committee guide says flights to and from Elstree include fixed-wing aircraft on training circuits or arriving and departing, plus rotary-wing aircraft, meaning helicopters, also on circuits or arriving and departing. It also notes that some aircraft, usually helicopters, may operate in or around Elstree outside the normal patterns for gas pipeline and electricity pylon inspections, military activity, police work and air ambulance operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
+Elstree Aerodrome is one of the most important local checks for UFO-style reports in southern Hertfordshire. It is not a major airline airport, but that can make it easier for witnesses to underestimate. A small aircraft or helicopter at low level, especially near dusk, may be more surprising to a resident than a high jet on a known commercial route. The Elstree Aerodrome Consultative Committee guide says flights to and from Elstree include fixed-wing aircraft on training circuits or arriving and departing, plus rotary-wing aircraft, meaning helicopters, also on circuits or arriving and departing. It also notes that some aircraft, usually helicopters, may operate in or around Elstree outside the normal patterns for gas pipeline and electricity pylon inspections, military activity, police work and air ambulance operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
 
-The same guide gives a useful scale. It records 61,031 total movements in 2016, made up of 48,664 fixed-wing and 12,367 rotary-wing movements. These are not all dramatic night flights, but they show why a light near Elstree should not be treated as anomalous simply because it is local, low or repetitive. The guide also places Elstree in relation to larger controlled airspace: the runway height is listed as 332 feet, the aerodrome space as 2,000 feet above the runway, and the London Terminal Manoeuvring Area above at 2,400 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
+The same guide gives a useful scale. It records 61,031 total movements in 2016, made up of 48,664 fixed-wing and 12,367 rotary-wing movements. These are not all dramatic night flights, but they show why a light near Elstree should not be treated as anomalous simply because it is local, low or repetitive. The guide also places Elstree in relation to larger controlled airspace: the runway height is listed as 332 feet, the aerodrome space as 2,000 feet above the runway, and the London Terminal Manoeuvring Area above at 2,400 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
 
-For UFO reports, the circuit pattern is especially relevant. The guide says fixed-wing circuits are flown at 1,000 feet above runway height, that the south circuit alternates with the north circuits, and that take-off is most commonly towards the west because of prevailing winds. It also states that helicopter circuits must be north of the runway and not higher than 750 feet above runway height. To a ground observer, this can create repeated passes, turns, pauses in apparent motion and changes in brightness that feel more deliberate than a single aircraft simply crossing the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
+For UFO reports, the circuit pattern is especially relevant. The guide says fixed-wing circuits are flown at 1,000 feet above runway height, that the south circuit alternates with the north circuits, and that take-off is most commonly towards the west because of prevailing winds. It also states that helicopter circuits must be north of the runway and not higher than 750 feet above runway height. To a ground observer, this can create repeated passes, turns, pauses in apparent motion and changes in brightness that feel more deliberate than a single aircraft simply crossing the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
 
-Night flying adds another layer. Elstree’s guidance says normal hours are usually from 9 am to sunset, but 24-hour flying is permitted; most night training is done in winter, circuits may not be flown after 21:00 local time, and night flying usually takes place on Tuesday, Wednesday or Thursday evenings. It also says night flying accounts for less than 1% of total movements, while occasional out-of-hours flights may include business or public transport flights and medical flights, mostly helicopters. That is a useful distinction: night flying is uncommon enough to surprise people, but documented enough that a night light near Elstree is not automatically strange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
+Night flying adds another layer. Elstree’s guidance says normal hours are usually from 9 am to sunset, but 24-hour flying is permitted; most night training is done in winter, circuits may not be flown after 21:00 local time, and night flying usually takes place on Tuesday, Wednesday or Thursday evenings. It also says night flying accounts for less than 1% of total movements, while occasional out-of-hours flights may include business or public transport flights and medical flights, mostly helicopters. That is a useful distinction: night flying is uncommon enough to surprise people, but documented enough that a night light near Elstree is not automatically strange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hertsmere.gov.uk/asset-library/imported-assets/04-Environment-Refuse-Recycling/Environmental-Health/Pollution-Control/elstree-aerodrome-consultative-committee-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Local aerodrome activity.">[Hertsmere Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Local aerodrome activity.</span><span class="citation-popover-snippet">Open source on hertsmere.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_jr6Ly7RBZg" title="NATS - London 24 - Layers of London air traffic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_jr6Ly7RBZg" target="_blank" rel="noopener noreferrer">NATS - London 24 - Layers of London air traffic</a></p><p class="youtube-embed-meta">Channel: 422 South</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_jr6Ly7RBZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_jr6Ly7RBZg">Open on YouTube</a></p></div></div></div>
@@ -284,11 +284,11 @@ Night flying adds another layer. Elstree’s guidance says normal hours are usua
 
 London Luton Airport is just outside Hertfordshire’s historic county focus, but it is central to how lights are seen from Hertfordshire. Aircraft using Luton can be visible from St Albans, Harpenden, Hemel Hempstead, Stevenage, Hitchin and surrounding villages depending on runway direction, altitude, weather and the observer’s view of the horizon. A witness may not hear an engine, especially if the aircraft is distant, high, upwind, masked by traffic noise, or seen through cloud.
 
-Luton Airport’s own noise information explains the basic mechanism: the airport has two directions of operation depending on wind direction, because aircraft take off and land into the wind for safety reasons. These are known as easterly and westerly operations, and they change the tracks aircraft take near specific areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/departure-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Noise from departing aircraft At the airport we have two directions of operation, depending on the wind direction, a</span><span class="citation-popover-snippet">London Luton Airport Noise from departing aircraft At the airport we have two directions of operation, depending on the wind direction, a</span></span></span>
+Luton Airport’s own noise information explains the basic mechanism: the airport has two directions of operation depending on wind direction, because aircraft take off and land into the wind for safety reasons. These are known as easterly and westerly operations, and they change the tracks aircraft take near specific areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.london-luton.co.uk/corporate/community/noise/departure-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: london-luton.co.uk">[London Luton Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">london-luton.co.uk</span><span class="citation-popover-title">London Luton Airport Noise from departing aircraft At the airport we have two directions of operation, depending on the wind direction, a</span><span class="citation-popover-snippet">London Luton Airport Noise from departing aircraft At the airport we have two directions of operation, depending on the wind direction, a</span></span></span>
 
-That single fact explains many “it wasn’t on the usual path” reports. A resident may know the pattern from most evenings, then see aircraft in a different part of the sky when the runway direction changes. Local flight-track information from Luton campaign group LADACAN makes the same point from a community-noise perspective: flight patterns depend on whether the wind is from the west or east, and westerly winds occur about 70% of the time on average. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladacan.org">[Ladacan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladacan.org</span><span class="citation-popover-snippet">Open source on ladacan.org.</span></span></span>
+That single fact explains many “it wasn’t on the usual path” reports. A resident may know the pattern from most evenings, then see aircraft in a different part of the sky when the runway direction changes. Local flight-track information from Luton campaign group LADACAN makes the same point from a community-noise perspective: flight patterns depend on whether the wind is from the west or east, and westerly winds occur about 70% of the time on average.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladacan.org">[Ladacan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladacan.org</span><span class="citation-popover-snippet">Open source on ladacan.org.</span></span></span>
 
-The larger airspace picture has also changed. In 2022, London Luton Airport and NATS implemented the AD6 airspace change for arrivals. Luton Airport’s 2024 post-implementation review summary says the change introduced a new holding area near the A1-A14 junction at about 9,000 feet over Grafham Water and changed flight paths for 70% of arrivals, with minimal changes below 5,000 feet but greater dispersion above 5,000 feet. NATS described the same change as separating Luton and Stansted arrivals further out and higher up to reduce delays and maintain safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mediahub.london-luton.co.uk/news/11072024/review-of-airspace-change-is-published" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahub.london-luton.co.uk">[Media Hub+2NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahub.london-luton.co.uk</span><span class="citation-popover-title">review of airspace change is published</span><span class="citation-popover-snippet">review of airspace change is published</span></span></span>
+The larger airspace picture has also changed. In 2022, London Luton Airport and NATS implemented the AD6 airspace change for arrivals. Luton Airport’s 2024 post-implementation review summary says the change introduced a new holding area near the A1-A14 junction at about 9,000 feet over Grafham Water and changed flight paths for 70% of arrivals, with minimal changes below 5,000 feet but greater dispersion above 5,000 feet. NATS described the same change as separating Luton and Stansted arrivals further out and higher up to reduce delays and maintain safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mediahub.london-luton.co.uk/news/11072024/review-of-airspace-change-is-published" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahub.london-luton.co.uk">[london-luton.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahub.london-luton.co.uk</span><span class="citation-popover-title">review of airspace change is published</span><span class="citation-popover-snippet">review of airspace change is published</span></span></span>
 
 For Hertfordshire UFO interpretation, this means older local memory is not always reliable. A witness who says “planes do not normally come from that direction” may be right for some dates, winds or historical periods, but wrong for another operating mode or post-change route. It also means the best test is not a generic map of the airport, but a time-specific check against actual or archived flight tracks.
 
@@ -296,9 +296,9 @@ For Hertfordshire UFO interpretation, this means older local memory is not alway
 <img src="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-Illustration-2-dark.svg" | relative_url }}" alt="Airspace illustration 2" data-theme-src-dark="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hertfordshire_38dc7a_aviation_explanation_7af14d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## London airspace makes “ordinary” look complicated
 
-Hertfordshire’s southern sky is also shaped by London airspace. Controlled airspace is not visible from the ground, but it structures where aircraft can be and what they may be doing. The Civil Aviation Authority’s infringement tutorial explains that UK airspace is organised into classifications, with Class D commonly used around aerodrome control zones and control areas, where ATC clearance is required and traffic information is provided according to flight rules and workload. It also describes Terminal Control Areas as covering places with several busy aerodromes close together, giving London as an example. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://infringements.caa.co.uk/tutorial/controlled-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infringements.caa.co.uk">[CAA Infringement Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infringements.caa.co.uk</span><span class="citation-popover-title">CAA Infringement Tutorial Controlled Airspace &#124; CAA Infringement Tutorial</span><span class="citation-popover-snippet">CAA Infringement Tutorial Controlled Airspace &#124; CAA Infringement Tutorial</span></span></span>
+Hertfordshire’s southern sky is also shaped by London airspace. Controlled airspace is not visible from the ground, but it structures where aircraft can be and what they may be doing. The Civil Aviation Authority’s infringement tutorial explains that UK airspace is organised into classifications, with Class D commonly used around aerodrome control zones and control areas, where ATC clearance is required and traffic information is provided according to flight rules and workload. It also describes Terminal Control Areas as covering places with several busy aerodromes close together, giving London as an example.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://infringements.caa.co.uk/tutorial/controlled-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infringements.caa.co.uk">[CAA Infringement Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infringements.caa.co.uk</span><span class="citation-popover-title">CAA Infringement Tutorial Controlled Airspace &#124; CAA Infringement Tutorial</span><span class="citation-popover-snippet">CAA Infringement Tutorial Controlled Airspace &#124; CAA Infringement Tutorial</span></span></span>
 
-NATS has described the London control zone around Heathrow as the busiest piece of airspace in the UK, and its 2014 reclassification material stressed that pilots needed ATC clearance to enter the zone. Although Heathrow is not the same as Luton or Elstree, this is relevant because Hertfordshire lies close to the wider London traffic system: aircraft may be climbing, descending, being vectored, holding, avoiding weather, or routing around controlled blocks that are invisible to the witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nats.aero/airspace/consultations/id/161245/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">London CTR: Reclassification</span><span class="citation-popover-snippet">London CTR: Reclassification</span></span></span>
+NATS has described the London control zone around Heathrow as the busiest piece of airspace in the UK, and its 2014 reclassification material stressed that pilots needed ATC clearance to enter the zone. Although Heathrow is not the same as Luton or Elstree, this is relevant because Hertfordshire lies close to the wider London traffic system: aircraft may be climbing, descending, being vectored, holding, avoiding weather, or routing around controlled blocks that are invisible to the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nats.aero/airspace/consultations/id/161245/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">London CTR: Reclassification</span><span class="citation-popover-snippet">London CTR: Reclassification</span></span></span>
 
 That complexity can create several UFO-like impressions:
 
@@ -345,194 +345,194 @@ Aviation explanations do not make Hertfordshire’s UFO record worthless. They m
 The best reading of the Hertfordshire pattern is cautious. The MoD-era reports show that residents did see and report puzzling lights; Elstree and Luton show that the county also has many ordinary reasons for lights to appear, reappear, drift, hover or vanish. A case is not debunked merely because an airport exists nearby. But around Elstree, Luton and London airspace, any claim that a light was “not an aircraft” needs to show its working.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Ordinary Aircraft Explain the Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Ordinary Aircraft Explain the Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings systematically, fitting a page about checking ordinary aircraft explanations before calling a light unexp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings systematically, fitting a page about checking ordinary aircraft explanations before calling a light unexp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by the former head of Project Blue Book, covering investigation methods and aviation-related sighting assessments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the former head of Project Blue Book, covering investigation methods and aviation-related sighting assessments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Specifically examines aircraft, atmospheric effects and other conventional causes behind reported UFO sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Specifically examines aircraft, atmospheric effects and other conventional causes behind reported UFO sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes numerous pilot and aviation witness cases, helping readers understand how aircraft observations intersect with UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes numerous pilot and aviation witness cases, helping readers understand how aircraft observations intersect with UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/8e72cf6c4a7ac9771c1d.jpg' | relative_url }}" alt="Listing image for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/8e72cf6c4a7ac9771c1d.jpg' | relative_url }}" alt="Listing image for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model."><img src="{{ '/assets/images/marketplace-covers/88bd6d0c1d890215fa16.jpg' | relative_url }}" alt="Listing image for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model."><img src="{{ '/assets/images/marketplace-covers/88bd6d0c1d890215fa16.jpg' | relative_url }}" alt="Listing image for New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">New 3D Printed - 1:500 Airport Private Jet Terminal - aircraft diorama model.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft"><img src="{{ '/assets/images/marketplace-covers/df7d75b428b1f5abe578.jpg' | relative_url }}" alt="Listing image for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft"><img src="{{ '/assets/images/marketplace-covers/df7d75b428b1f5abe578.jpg' | relative_url }}" alt="Listing image for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/3ce4d3181631da7e567f.jpg' | relative_url }}" alt="Listing image for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/3ce4d3181631da7e567f.jpg' | relative_url }}" alt="Listing image for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="airspace-61fcc0-could-ordinary-aircraft-explain-the-lights-hertfordshire-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ The best reading of the Hertfordshire pattern is cautious. The MoD-era reports s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ The best reading of the Hertfordshire pattern is cautious. The MoD-era reports s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ The best reading of the Hertfordshire pattern is cautious. The MoD-era reports s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ The best reading of the Hertfordshire pattern is cautious. The MoD-era reports s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ The best reading of the Hertfordshire pattern is cautious. The MoD-era reports s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,196 +738,196 @@ The best reading of the Hertfordshire pattern is cautious. The MoD-era reports s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Hertfordshire</a>  
+   Link:<a href="https://www.britannica.com/place/Hertfordshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Hertfordshire</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ladacan.org  
-   Link: <a href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/flight-tracks/</a>  
+   Link:<a href="https://ladacan.org/flight-tracks/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/flight-tracks/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nats.aero  
    Title: Airspace change on schedule for implementation  
-   Link: <a href="https://www.nats.aero/news/airspace-change-on-schedule-for-implementation/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/airspace-change-on-schedule-for-implementation/</a>  
+   Link:<a href="https://www.nats.aero/news/airspace-change-on-schedule-for-implementation/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/news/airspace-change-on-schedule-for-implementation/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nats.aero  
    Title: Proposed changes to London Luton Airport Arrivals  
-   Link: <a href="https://www.nats.aero/airspace/consultations/id/195559/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/consultations/id/195559/</a>  
+   Link:<a href="https://www.nats.aero/airspace/consultations/id/195559/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/consultations/id/195559/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nats.aero  
    Title: London CTR: Reclassification  
-   Link: <a href="https://www.nats.aero/airspace/consultations/id/161245/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/consultations/id/161245/</a>  
+   Link:<a href="https://www.nats.aero/airspace/consultations/id/161245/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/airspace/consultations/id/161245/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: uk accession 2017.txt  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Land north of Butterfly Lane Aldenham Hertfordshire 3295268  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6613c3a1c4c84d4b31346a32/Land_north_of_Butterfly_Lane_Aldenham_Hertfordshire_3295268.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6613c3a1c4c84d4b31346a32/Land_north_of_Butterfly_Lane_Aldenham_Hertfordshire_3295268.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6613c3a1c4c84d4b31346a32/Land_north_of_Butterfly_Lane_Aldenham_Hertfordshire_3295268.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6613c3a1c4c84d4b31346a32/Land_north_of_Butterfly_Lane_Aldenham_Hertfordshire_3295268.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: heathrow.com  
-   Link: <a href="https://www.heathrow.com/company/local-community/noise/operations/wind-direction" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/operations/wind-direction</a>  
+   Link:<a href="https://www.heathrow.com/company/local-community/noise/operations/wind-direction" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/operations/wind-direction</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1992/1696/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1992/1696/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1992/1696/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1992/1696/made</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.xht?view=snippet&amp;wrap=true</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Saint-Albans-district-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Saint-Albans-district-England</a>  
+   Link:<a href="https://www.britannica.com/place/Saint-Albans-district-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Saint-Albans-district-England</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ladacan.org  
    Title: caa airspace change consultation 2025  
-   Link: <a href="https://ladacan.org/caa-airspace-change-consultation-2025/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/caa-airspace-change-consultation-2025/</a>  
+   Link:<a href="https://ladacan.org/caa-airspace-change-consultation-2025/" target="_blank" rel="noopener noreferrer nofollow">https://ladacan.org/caa-airspace-change-consultation-2025/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stalbans.gov.uk  
-   Link: <a href="https://www.stalbans.gov.uk/sites/default/files/documents/publications/planning-building-control/Colney%20Heath%20Inquiry/CD%2012/CD%2012.1%20-%20Hertfordshire%20Landscape%20Character%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stalbans.gov.uk/sites/default/files/documents/publications/planning-building-control/Colney%20Heath%20Inquiry/CD%2012/CD%2012.1%20-%20Hertfordshire%20Landscape%20Character%20Assessment.pdf</a>  
+   Link:<a href="https://www.stalbans.gov.uk/sites/default/files/documents/publications/planning-building-control/Colney%20Heath%20Inquiry/CD%2012/CD%2012.1%20-%20Hertfordshire%20Landscape%20Character%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stalbans.gov.uk/sites/default/files/documents/publications/planning-building-control/Colney%20Heath%20Inquiry/CD%2012/CD%2012.1%20-%20Hertfordshire%20Landscape%20Character%20Assessment.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_jr6Ly7RBZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jr6Ly7RBZg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 VFR Heathrow Zone Transit (Low Level) | FULL ATC...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_jr6Ly7RBZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jr6Ly7RBZg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 VFR Heathrow Zone Transit (Low Level) | FULL ATC...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mediahub.london-luton.co.uk  
    Title: review of airspace change is published  
-   Link: <a href="https://mediahub.london-luton.co.uk/news/11072024/review-of-airspace-change-is-published" target="_blank" rel="noopener noreferrer nofollow">https://mediahub.london-luton.co.uk/news/11072024/review-of-airspace-change-is-published</a>  
+   Link:<a href="https://mediahub.london-luton.co.uk/news/11072024/review-of-airspace-change-is-published" target="_blank" rel="noopener noreferrer nofollow">https://mediahub.london-luton.co.uk/news/11072024/review-of-airspace-change-is-published</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: infringements.caa.co.uk  
    Title: CAA Infringement Tutorial Controlled Airspace | CAA Infringement Tutorial  
-   Link: <a href="https://infringements.caa.co.uk/tutorial/controlled-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://infringements.caa.co.uk/tutorial/controlled-airspace/</a>  
+   Link:<a href="https://infringements.caa.co.uk/tutorial/controlled-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://infringements.caa.co.uk/tutorial/controlled-airspace/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Elstree Aerodrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Elstree_Aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elstree_Aerodrome</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Elstree_Aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elstree_Aerodrome</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Luton Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Luton_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luton_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luton_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luton_Airport</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Potters Bar  
-   Link: <a href="https://en.wikipedia.org/wiki/Potters_Bar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Potters_Bar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Potters_Bar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Potters_Bar</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: london-luton.co.uk  
-   Link: <a href="https://www.london-luton.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/</a>  
+   Link:<a href="https://www.london-luton.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.london-luton.co.uk/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: airspacesafety.com  
    Title: London Luton Airport VFR Operating Pack  
-   Link: <a href="https://airspacesafety.com/infringement/vfr-operating-pack-version-1-sept-2021/" target="_blank" rel="noopener noreferrer nofollow">https://airspacesafety.com/infringement/vfr-operating-pack-version-1-sept-2021/</a>  
+   Link:<a href="https://airspacesafety.com/infringement/vfr-operating-pack-version-1-sept-2021/" target="_blank" rel="noopener noreferrer nofollow">https://airspacesafety.com/infringement/vfr-operating-pack-version-1-sept-2021/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
    Title: London Luton Airport: r/ufo London Luton Airport. r/ufo  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1o69kag/london_luton_airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1o69kag/london_luton_airport/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1o69kag/london_luton_airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1o69kag/london_luton_airport/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DViqed5gMFB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DViqed5gMFB/</a>  
+   Link:<a href="https://www.instagram.com/reel/DViqed5gMFB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DViqed5gMFB/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/ltn" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/ltn</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/ltn" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/ltn</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: VFR Heathrow Zone Transit (Low Level) | FULL ATC  
-   Link: <a href="https://www.youtube.com/watch?v=PkEsXehI0uk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PkEsXehI0uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Luton Airport Zone Transit in a Flexwing Microlight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PkEsXehI0uk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PkEsXehI0uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Luton Airport Zone Transit in a Flexwing Microlight...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hankgreen/posts/a-good-rule-of-thumb-is-if-the-ufo-is-a-point-of-light-in-the-sky-its-a-plane/659327982227799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hankgreen/posts/a-good-rule-of-thumb-is-if-the-ufo-is-a-point-of-light-in-the-sky-its-a-plane/659327982227799/</a>  
+   Link:<a href="https://www.facebook.com/hankgreen/posts/a-good-rule-of-thumb-is-if-the-ufo-is-a-point-of-light-in-the-sky-its-a-plane/659327982227799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hankgreen/posts/a-good-rule-of-thumb-is-if-the-ufo-is-a-point-of-light-in-the-sky-its-a-plane/659327982227799/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: helispot.be  
-   Link: <a href="https://helispot.be/hs/documents/heli/olympics_airspace_guide_june_26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://helispot.be/hs/documents/heli/olympics_airspace_guide_june_26.pdf</a>  
+   Link:<a href="https://helispot.be/hs/documents/heli/olympics_airspace_guide_june_26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://helispot.be/hs/documents/heli/olympics_airspace_guide_june_26.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DJURdWLzxOL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJURdWLzxOL/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DJURdWLzxOL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJURdWLzxOL/?hl=en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LutonDevelopments/posts/flight-paths-and-holding-patterns-for-aircraft-arriving-into-luton-airport-are-t/4566920246748754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LutonDevelopments/posts/flight-paths-and-holding-patterns-for-aircraft-arriving-into-luton-airport-are-t/4566920246748754/</a>  
+   Link:<a href="https://www.facebook.com/LutonDevelopments/posts/flight-paths-and-holding-patterns-for-aircraft-arriving-into-luton-airport-are-t/4566920246748754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LutonDevelopments/posts/flight-paths-and-holding-patterns-for-aircraft-arriving-into-luton-airport-are-t/4566920246748754/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: runwaydirectionforecast.com  
-   Link: <a href="https://www.runwaydirectionforecast.com/en/uk/london-ltn-eggw" target="_blank" rel="noopener noreferrer nofollow">https://www.runwaydirectionforecast.com/en/uk/london-ltn-eggw</a>  
+   Link:<a href="https://www.runwaydirectionforecast.com/en/uk/london-ltn-eggw" target="_blank" rel="noopener noreferrer nofollow">https://www.runwaydirectionforecast.com/en/uk/london-ltn-eggw</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nature.scot  
-   Link: <a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
+   Link:<a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/VFR_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/VFR_Guide.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/VFR_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/VFR_Guide.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/london/comments/1ef9zny/heathrow_inbound_traffic_to_the_east_not_from_west/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/london/comments/1ef9zny/heathrow_inbound_traffic_to_the_east_not_from_west/</a>  
+   Link:<a href="https://www.reddit.com/r/london/comments/1ef9zny/heathrow_inbound_traffic_to_the_east_not_from_west/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/london/comments/1ef9zny/heathrow_inbound_traffic_to_the_east_not_from_west/</a>  

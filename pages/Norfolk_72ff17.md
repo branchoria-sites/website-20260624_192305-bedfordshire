@@ -118,9 +118,9 @@ heading_title: What Really Happened in Norfolk's UFO Files?
 page_heading_title: What Really Happened in Norfolk's UFO Files?
 source_count: 137
 infographic_count: 3
-page_website_name: Norfolk UFOs
+page_website_name: Norfolk
 page_banner_line: Balanced case notes on Norfolk sightings, radar links and skywatching claims.
-site_website_name: Norfolk UFOs
+site_website_name: Norfolk
 site_banner_line: Balanced case notes on Norfolk sightings, radar links and skywatching claims.
 site_image_description: A quiet Norfolk radar station at dusk with a broad East Anglian sky, distant aircraft lights and fields beyond the fence.
 output_language: English
@@ -689,7 +689,7 @@ image: /assets/images/Norfolk_72ff17-overview-social.jpg
 
 ## Which Norfolk is being used here?
 
-This page treats Norfolk as the historic county used by the project’s UK county map framework, not simply as a modern council boundary. Wikishire describes Norfolk as a shire of East Anglia, and its interactive county map says it conforms to the Historic Counties Standard, which defines names, areas and borders for historic counties across the United Kingdom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Norfolk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+This page treats Norfolk as the historic county used by the project’s UK county map framework, not simply as a modern council boundary. Wikishire describes Norfolk as a shire of East Anglia, and its interactive county map says it conforms to the Historic Counties Standard, which defines names, areas and borders for historic counties across the United Kingdom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Norfolk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Norfolk_72ff17-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Norfolk&#x27;s UFO Files?" loading="eager" decoding="sync" fetchpriority="high">
@@ -697,11 +697,11 @@ That matters because UFO reports rarely respect neat administrative lines. A sig
 
 ## Norfolk’s strongest UFO link is radar, not a landed saucer
 
-The most important Norfolk connection in the public record is the 1956 Lakenheath-Bentwaters radar case, usually filed under Suffolk because the main American airbase activity was around RAF Lakenheath. Norfolk enters the story through RAF Neatishead, where retired RAF fighter controller Freddie Wimbledon said he was on duty when USAF radar reported a fast-moving target and RAF radar also tracked it. The National Archives’ 2011 UFO files transcript says a Venom interceptor was vectored towards the target, made radar contact, then lost it, after which the target was reported as being behind the aircraft and following its movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The most important Norfolk connection in the public record is the 1956 Lakenheath-Bentwaters radar case, usually filed under Suffolk because the main American airbase activity was around RAF Lakenheath. Norfolk enters the story through RAF Neatishead, where retired RAF fighter controller Freddie Wimbledon said he was on duty when USAF radar reported a fast-moving target and RAF radar also tracked it. The National Archives’ 2011 UFO files transcript says a Venom interceptor was vectored towards the target, made radar contact, then lost it, after which the target was reported as being behind the aircraft and following its movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-This is the kind of case that keeps researchers interested because it is not just a single person seeing a light in the sky. It involves radar, fighter control, military aircraft and later testimony from someone who said he had been directly involved. But the doubts are substantial. The same National Archives transcript says that, when the MoD was asked about the incident in 2001, an archive search found that all records of the incident had been lost or destroyed. That leaves later recollection and secondary documentation doing more work than a strong historical case should require. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+This is the kind of case that keeps researchers interested because it is not just a single person seeing a light in the sky. It involves radar, fighter control, military aircraft and later testimony from someone who said he had been directly involved. But the doubts are substantial. The same National Archives transcript says that, when the MoD was asked about the incident in 2001, an archive search found that all records of the incident had been lost or destroyed. That leaves later recollection and secondary documentation doing more work than a strong historical case should require.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-RAF Neatishead is a particularly apt Norfolk location for such a story because its former buildings now house the RAF Air Defence Radar Museum, which describes itself as a museum in original RAF buildings covering radar history from the Second World War to the Cold War. The Charity Commission similarly records that the museum operates from premises formerly part of RAF Neatishead and includes the Cold War Operations Room and other radar-development exhibits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.radarmuseum.co.uk/home/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radarmuseum.co.uk">[RAF Air Defence Radar Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radarmuseum.co.uk</span><span class="citation-popover-snippet">Open source on radarmuseum.co.uk.</span></span></span>
+RAF Neatishead is a particularly apt Norfolk location for such a story because its former buildings now house the RAF Air Defence Radar Museum, which describes itself as a museum in original RAF buildings covering radar history from the Second World War to the Cold War. The Charity Commission similarly records that the museum operates from premises formerly part of RAF Neatishead and includes the Cold War Operations Room and other radar-development exhibits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.radarmuseum.co.uk/home/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radarmuseum.co.uk">[RAF Air Defence Radar Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radarmuseum.co.uk</span><span class="citation-popover-snippet">Open source on radarmuseum.co.uk.</span></span></span>
 
 The fair assessment is that the 1956 case is significant in Norfolk UFO history, but it is not a clean Norfolk-only incident and not a settled proof of anything exotic. It shows why East Anglia became a magnet for UFO interpretation: military radar, fighter interception, Cold War secrecy and incomplete records are exactly the ingredients from which durable UFO cases are made.
 
@@ -709,32 +709,32 @@ The fair assessment is that the 1956 case is significant in Norfolk UFO history,
 <img src="{{ "/assets/images/Norfolk_72ff17-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Norfolk&#x27;s UFO Files? illustration 1" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1989 Norfolk “contact” report is unusual, but not strong evidence
 
-One of the stranger Norfolk entries in the released MoD files concerns an anonymous woman who said she was approached while walking her dog in November 1989 by a man claiming to come from another planet. The National Archives highlights guide says the man allegedly told her that crop circles had been caused by beings like him, and that a covering letter from RAF Wattisham to the MoD and Norfolk police described it as one of the more unusual UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
+One of the stranger Norfolk entries in the released MoD files concerns an anonymous woman who said she was approached while walking her dog in November 1989 by a man claiming to come from another planet. The National Archives highlights guide says the man allegedly told her that crop circles had been caused by beings like him, and that a covering letter from RAF Wattisham to the MoD and Norfolk police described it as one of the more unusual UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National Archives Highlights Guide</span></span></span>
 
-The Guardian’s report on the 2009 file release gives the same broad account and adds that the woman was questioned by DI55, the Defence Intelligence branch associated with credible UFO reports. It also describes her as agitated after seeing a glowing spherical object rise and disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian New UFO secrets are revealed in Mo D files &#124; UK news</span><span class="citation-popover-snippet">The Guardian New UFO secrets are revealed in Mo D files &#124; UK news</span></span></span>
+The Guardian’s report on the 2009 file release gives the same broad account and adds that the woman was questioned by DI55, the Defence Intelligence branch associated with credible UFO reports. It also describes her as agitated after seeing a glowing spherical object rise and disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian New UFO secrets are revealed in Mo D files &#124; UK news</span><span class="citation-popover-snippet">The Guardian New UFO secrets are revealed in Mo D files &#124; UK news</span></span></span>
 
 This case matters less because it is persuasive and more because it shows the breadth of material that entered official channels. It is a classic weak-evidence case: anonymous witness, extraordinary claim, no public physical evidence, and no independent corroboration strong enough to lift it above anecdote. Its value for a Norfolk page is archival. It shows that the MoD did not only receive pilot, radar or police reports; it also received deeply personal accounts that sat uneasily between UFO reporting, folklore, anxiety and witness sincerity.
 
 ## Norwich, Dereham and the orange-light wave
 
-Norfolk’s most recognisable modern sighting pattern is not a disc or a triangle but orange lights. In October 2006, the Norwich Evening News reported several accounts of orange, yellow-orange or red lights over Norwich, including witnesses in Heigham Street, Old Catton, Jex Road and Lakenham. The same report quoted John Sayer of the Norfolk UFO Society saying that the group was collating reports and interviewing witnesses, and it listed earlier local claims from Hellesdon, Acle and a bright white light flap in 1996. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/norwicheveningnews6oct2006.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+Norfolk’s most recognisable modern sighting pattern is not a disc or a triangle but orange lights. In October 2006, the Norwich Evening News reported several accounts of orange, yellow-orange or red lights over Norwich, including witnesses in Heigham Street, Old Catton, Jex Road and Lakenham. The same report quoted John Sayer of the Norfolk UFO Society saying that the group was collating reports and interviewing witnesses, and it listed earlier local claims from Hellesdon, Acle and a bright white light flap in 1996.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/norwicheveningnews6oct2006.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-The MoD’s own 2006 UK UFO report log includes a Norfolk entry from East Dereham on 20 May 2006: orange lights were seen in formation and travelling quite slowly. The same MoD annual list contains many similar orange-light reports elsewhere in Britain, which is important because it shows Norfolk was part of a national reporting pattern rather than an isolated local mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The MoD’s own 2006 UK UFO report log includes a Norfolk entry from East Dereham on 20 May 2006: orange lights were seen in formation and travelling quite slowly. The same MoD annual list contains many similar orange-light reports elsewhere in Britain, which is important because it shows Norfolk was part of a national reporting pattern rather than an isolated local mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The same pattern appears again in west Norfolk. The MoD’s 2009 report list includes a King’s Lynn sighting on 14 March 2009, described as an extremely bright, constant red-orange light travelling east or south-east, with no sound and the shape obscured by the light. Local discussion of west Norfolk sightings also repeated the Norwich “hotspot” idea, while noting that orange balls of light were a common description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The same pattern appears again in west Norfolk. The MoD’s 2009 report list includes a King’s Lynn sighting on 14 March 2009, described as an extremely bright, constant red-orange light travelling east or south-east, with no sound and the shape obscured by the light. Local discussion of west Norfolk sightings also repeated the Norwich “hotspot” idea, while noting that orange balls of light were a common description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The most likely explanation for many of these reports is mundane but important: Chinese lanterns. The National Archives’ 2011 transcript says that formations of orange lights drifting slowly across the night sky became common in the summer of 2006 and were almost certainly observations of Chinese lanterns or mini hot-air balloons released at parties and festivals. That does not automatically explain every Norfolk report, but it gives a strong baseline for assessing slow, silent orange lights seen in groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The most likely explanation for many of these reports is mundane but important: Chinese lanterns. The National Archives’ 2011 transcript says that formations of orange lights drifting slowly across the night sky became common in the summer of 2006 and were almost certainly observations of Chinese lanterns or mini hot-air balloons released at parties and festivals. That does not automatically explain every Norfolk report, but it gives a strong baseline for assessing slow, silent orange lights seen in groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## Military Norfolk keeps the subject alive
 
-Norfolk has an unusually strong military aviation texture. RAF Marham’s official station history says it first opened in 1916 to defend Norfolk from German Zeppelin raids, reopened in 1937, and by 1939 housed Wellington bombers. Today it remains one of the RAF’s major sites, and its long history means that unusual aircraft, training activity, lights, flares and noise are part of the county’s sky culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf marham</span><span class="citation-popover-snippet">raf marham</span></span></span>
+Norfolk has an unusually strong military aviation texture. RAF Marham’s official station history says it first opened in 1916 to defend Norfolk from German Zeppelin raids, reopened in 1937, and by 1939 housed Wellington bombers. Today it remains one of the RAF’s major sites, and its long history means that unusual aircraft, training activity, lights, flares and noise are part of the county’s sky culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf marham</span><span class="citation-popover-snippet">raf marham</span></span></span>
 
-The modern equivalent of the old UFO report is often the unidentified drone. In November 2024, U.S. Air Forces in Europe said small unmanned aerial systems had continued to be spotted near or over RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford since 20 November; RAF Feltwell is the Norfolk site in that group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-title">USAFEAir Forces Africa Statement on Installation Security in the UK</span><span class="citation-popover-snippet">USAFEAir Forces Africa Statement on Installation Security in the UK</span></span></span>
+The modern equivalent of the old UFO report is often the unidentified drone. In November 2024, U.S. Air Forces in Europe said small unmanned aerial systems had continued to be spotted near or over RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford since 20 November; RAF Feltwell is the Norfolk site in that group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[USAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-title">USAFEAir Forces Africa Statement on Installation Security in the UK</span><span class="citation-popover-snippet">USAFEAir Forces Africa Statement on Installation Security in the UK</span></span></span>
 
-The USAF and UK media accounts treated those events as a security issue rather than an alien mystery. The Guardian reported that the drones had been observed over USAF-used bases in East Anglia and that the USAF could not confirm whether they were hostile; Reuters reported that the UK and US were taking the incidents seriously, with British military assistance in the response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The USAF and UK media accounts treated those events as a security issue rather than an alien mystery. The Guardian reported that the drones had been observed over USAF-used bases in East Anglia and that the USAF could not confirm whether they were hostile; Reuters reported that the UK and US were taking the incidents seriously, with British military assistance in the response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 This is a useful distinction for Norfolk readers. “Unidentified” does not mean “otherworldly”. Around military sites, the most urgent question is usually airspace security: drones, aircraft, training activity, surveillance, weather balloons, satellites or sensor error. UFO history and modern drone security overlap because both involve things not immediately identified in the sky, but they should not be collapsed into the same claim.
 
@@ -742,13 +742,13 @@ This is a useful distinction for Norfolk readers. “Unidentified” does not me
 <img src="{{ "/assets/images/Norfolk_72ff17-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Norfolk&#x27;s UFO Files? illustration 2" data-theme-src-dark="{{ "/assets/images/Norfolk_72ff17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norfolk_72ff17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official files do and do not prove
 
-The National Archives says MoD UFO records go back decades and that most surviving files since 1970 were reviewed for eventual release because of public interest. It also notes that official reporting, analysis and recording began in the early 1950s, but that until 1967 MoD policy was to destroy UFO files at five-year intervals, so many early records have been lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives says MoD UFO records go back decades and that most surviving files since 1970 were reviewed for eventual release because of public interest. It also notes that official reporting, analysis and recording began in the early 1950s, but that until 1967 MoD policy was to destroy UFO files at five-year intervals, so many early records have been lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 That loss matters for Norfolk because some of the most interesting East Anglian material sits in the early Cold War period. Where original radar logs, intercept records or internal communications are missing, later debate becomes more fragile. Witnesses may be honest and experienced, but historical reconstruction still depends on what can be checked.
 
-The MoD’s final UFO-desk release is also sobering. The National Archives press release on the desk’s closure says the 2009 files covered the last two years of the UFO desk, that sightings had trebled in its final year, and that the desk was judged to serve no defence purpose while encouraging correspondence. Sky News reported the same closure rationale: the operation was taking staff away from more valuable defence-related work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MoD’s final UFO-desk release is also sobering. The National Archives press release on the desk’s closure says the 2009 files covered the last two years of the UFO desk, that sightings had trebled in its final year, and that the desk was judged to serve no defence purpose while encouraging correspondence. Sky News reported the same closure rationale: the operation was taking staff away from more valuable defence-related work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Project Condign, the secret Defence Intelligence study released in 2006, is often cited in UK UFO debates. Reporting at the time said it concluded that sightings were not extraterrestrial craft, while some unexplained reports might involve rare atmospheric or plasma-like phenomena; critics argued that the study’s methods and broad explanations were not conclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings caused by freak weather, says Mo D report</span><span class="citation-popover-snippet">The Guardian UFO sightings caused by freak weather, says Mo D report</span></span></span>
+Project Condign, the secret Defence Intelligence study released in 2006, is often cited in UK UFO debates. Reporting at the time said it concluded that sightings were not extraterrestrial craft, while some unexplained reports might involve rare atmospheric or plasma-like phenomena; critics argued that the study’s methods and broad explanations were not conclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings caused by freak weather, says Mo D report</span><span class="citation-popover-snippet">The Guardian UFO sightings caused by freak weather, says Mo D report</span></span></span>
 
 For Norfolk, the practical lesson is this: official files show that reports were received, filed and sometimes discussed seriously. They do not show that the MoD verified alien craft over the county. A case becomes stronger when there are independent witnesses, precise times and locations, radar or air-traffic data, photographs with a clear chain of custody, and a serious attempt to rule out aircraft, lanterns, planets, satellites and weather.
 
@@ -757,11 +757,11 @@ For Norfolk, the practical lesson is this: official files show that reports were
 
 ## Rendlesham belongs next door, but it still shapes Norfolk’s UFO culture
 
-No Norfolk UFO page can ignore Rendlesham Forest, but it should not claim it as Norfolk. The incident took place in Suffolk, near RAF Woodbridge and RAF Bentwaters, in December 1980. Forestry England now maintains a Rendlesham UFO trail through areas associated with the sightings, and the National Archives describes Rendlesham as possibly the UK UFO community’s best-known cause célèbre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Open source on forestryengland.uk.</span></span></span>
+No Norfolk UFO page can ignore Rendlesham Forest, but it should not claim it as Norfolk. The incident took place in Suffolk, near RAF Woodbridge and RAF Bentwaters, in December 1980. Forestry England now maintains a Rendlesham UFO trail through areas associated with the sightings, and the National Archives describes Rendlesham as possibly the UK UFO community’s best-known cause célèbre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home | Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Open source on forestryengland.uk.</span></span></span>
 
 Rendlesham matters to Norfolk because East Anglia is a connected aviation region. Norfolk residents see the same broad military-airspace culture, local media ecosystem and USAF presence that keeps Rendlesham in public memory. But the county distinction is important: Rendlesham is a neighbouring Suffolk landmark, not Norfolk evidence.
 
-The sceptical material around Rendlesham is also a useful caution for Norfolk cases. The National Archives transcript says the released papers contained no “smoking gun” and cites a Suffolk police inspector who described the police role as minimal, said witness testimony had been substantially embellished over time, and pointed to pronounced beams from Orfordness lighthouse in certain night weather conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The sceptical material around Rendlesham is also a useful caution for Norfolk cases. The National Archives transcript says the released papers contained no “smoking gun” and cites a Suffolk police inspector who described the police role as minimal, said witness testimony had been substantially embellished over time, and pointed to pronounced beams from Orfordness lighthouse in certain night weather conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That does not settle every Rendlesham argument, but it illustrates a pattern seen in many county UFO histories: famous cases can grow in detail as they are retold. Norfolk’s own reports should therefore be judged by the earliest available account, not by later embellishment.
 
@@ -792,194 +792,194 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Norfolk&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Norfolk&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for assessing reports like those found in Norfolk&#x27;s UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for assessing reports like those found in Norfolk&#x27;s UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official reports, radar cases, and military witnesses similar to the East Anglian cases discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official reports, radar cases, and military witnesses similar to the East Anglian cases discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers context for evaluating military and government UFO reports, including radar-related incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers context for evaluating military and government UFO reports, including radar-related incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides background on major British and international UFO cases that help contextualize Norfolk reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on major British and international UFO cases that help contextualize Norfolk reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="what-really-happened-in-norfolks-ufo-what-really-happened-in-norfolk-s-ufo-files-norfolk-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-norfolk-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -995,7 +995,7 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1015,7 +1015,7 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1047,7 +1047,7 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1099,7 +1099,7 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1144,7 +1144,7 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1185,276 +1185,276 @@ Norfolk’s UFO record is therefore best understood as a layered local history. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: register-of-charities.charitycommission.gov.uk  
-   Link: <a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5206885" target="_blank" rel="noopener noreferrer nofollow">https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5206885</a>  
+   Link:<a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5206885" target="_blank" rel="noopener noreferrer nofollow">https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5206885</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Highlights Guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
    Title: raf marham  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-marham/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-marham/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usafe.af.mil  
    Title: USAFEAir Forces Africa Statement on Installation Security in the UK  
-   Link: <a href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/</a>  
+   Link:<a href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/</a>  
+   Link:<a href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: webarchive.nationalarchives.gov.uk  
    Title: Unidentified Aerial Phenomenauap In The Uk Air Defence Region  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20121110115327/http%3A/www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: historic-maps.norfolk.gov.uk  
    Title: norfolk.gov.uk Map Image Viewer  
-   Link: <a href="https://www.historic-maps.norfolk.gov.uk/mapimageviewer/" target="_blank" rel="noopener noreferrer nofollow">https://www.historic-maps.norfolk.gov.uk/mapimageviewer/</a>  
+   Link:<a href="https://www.historic-maps.norfolk.gov.uk/mapimageviewer/" target="_blank" rel="noopener noreferrer nofollow">https://www.historic-maps.norfolk.gov.uk/mapimageviewer/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: heritage.norfolk.gov.uk  
    Title: norfolk.gov.uk Marham  
-   Link: <a href="https://www.heritage.norfolk.gov.uk/record-details?TNF370=" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.norfolk.gov.uk/record-details?TNF370=</a>  
+   Link:<a href="https://www.heritage.norfolk.gov.uk/record-details?TNF370=" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.norfolk.gov.uk/record-details?TNF370=</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
    Title: unidentified drones spotted over three us bases in uk 13259674  
-   Link: <a href="https://news.sky.com/story/unidentified-drones-spotted-over-three-us-bases-in-uk-13259674" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/unidentified-drones-spotted-over-three-us-bases-in-uk-13259674</a>  
+   Link:<a href="https://news.sky.com/story/unidentified-drones-spotted-over-three-us-bases-in-uk-13259674" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/unidentified-drones-spotted-over-three-us-bases-in-uk-13259674</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
    Title: whats going on with drones spotted over us air bases in uk 13261593  
-   Link: <a href="https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593</a>  
+   Link:<a href="https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/whats-going-on-with-drones-spotted-over-us-air-bases-in-uk-13261593</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
+   Link:<a href="https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs1to13_ch1.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: GOV.UK  
    Title: ufo files  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Norfolk" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Norfolk</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Norfolk" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Norfolk</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: radarmuseum.co.uk  
-   Link: <a href="https://www.radarmuseum.co.uk/home/" target="_blank" rel="noopener noreferrer nofollow">https://www.radarmuseum.co.uk/home/</a>  
+   Link:<a href="https://www.radarmuseum.co.uk/home/" target="_blank" rel="noopener noreferrer nofollow">https://www.radarmuseum.co.uk/home/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: The Guardian New UFO secrets are revealed in Mo D files | UK news  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/norwicheveningnews6oct2006.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/norwicheveningnews6oct2006.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/press/norwicheveningnews6oct2006.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/norwicheveningnews6oct2006.htm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings caused by freak weather, says Mo D report  
-   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
+   Link:<a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest</a>  
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: RAF Air Defence Radar Museum  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Air_Defence_Radar_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Air_Defence_Radar_Museum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Air_Defence_Radar_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Air_Defence_Radar_Museum</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: RAF Marham  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Marham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Marham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Marham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Marham</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/radarmuseum/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/radarmuseum/</a>  
+   Link:<a href="https://www.facebook.com/radarmuseum/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/radarmuseum/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/823205939354693/posts/920820516259901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/823205939354693/posts/920820516259901/</a>  
+   Link:<a href="https://www.facebook.com/groups/823205939354693/posts/920820516259901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/823205939354693/posts/920820516259901/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: vulcantothesky.org  
    Title: raf marham  
-   Link: <a href="https://vulcantothesky.org/airfields/raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://vulcantothesky.org/airfields/raf-marham/</a>  
+   Link:<a href="https://vulcantothesky.org/airfields/raf-marham/" target="_blank" rel="noopener noreferrer nofollow">https://vulcantothesky.org/airfields/raf-marham/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: visitnorthnorfolk.com  
    Title: raf air defence radar museum p1521961  
-   Link: <a href="https://www.visitnorthnorfolk.com/see-and-do/raf-air-defence-radar-museum-p1521961" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthnorfolk.com/see-and-do/raf-air-defence-radar-museum-p1521961</a>  
+   Link:<a href="https://www.visitnorthnorfolk.com/see-and-do/raf-air-defence-radar-museum-p1521961" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnorthnorfolk.com/see-and-do/raf-air-defence-radar-museum-p1521961</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: museumsuk.com  
    Title: RA F Air Defence Radar Museum, Neatishead  
-   Link: <a href="https://museumsuk.com/museums/neatishead/raf-air-defence-radar-museum.html" target="_blank" rel="noopener noreferrer nofollow">https://museumsuk.com/museums/neatishead/raf-air-defence-radar-museum.html</a>  
+   Link:<a href="https://museumsuk.com/museums/neatishead/raf-air-defence-radar-museum.html" target="_blank" rel="noopener noreferrer nofollow">https://museumsuk.com/museums/neatishead/raf-air-defence-radar-museum.html</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: themorbidtourist.com  
    Title: rendlesham forest  
-   Link: <a href="https://themorbidtourist.com/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidtourist.com/rendlesham-forest/</a>  
+   Link:<a href="https://themorbidtourist.com/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidtourist.com/rendlesham-forest/</a>  
 
 ### Additional References
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
    Title: Inside Rendlesham Forest: Where Britain's UFO Landed  
-   Link: <a href="https://www.youtube.com/watch?v=CocWRrqz5oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CocWRrqz5oc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham UFO Incident | Paranormal Files E10...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CocWRrqz5oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CocWRrqz5oc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham UFO Incident | Paranormal Files E10...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/</a>  
+   Link:<a href="https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Norfolk.Countryside/posts/25517284704592602/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BerrycroftHub/videos/sally-ann-spence-talks-with-matthew-parrot-at-the-raf-air-defence-radar-museum-i/669241662278944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BerrycroftHub/videos/sally-ann-spence-talks-with-matthew-parrot-at-the-raf-air-defence-radar-museum-i/669241662278944/</a>  
+   Link:<a href="https://www.facebook.com/BerrycroftHub/videos/sally-ann-spence-talks-with-matthew-parrot-at-the-raf-air-defence-radar-museum-i/669241662278944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BerrycroftHub/videos/sally-ann-spence-talks-with-matthew-parrot-at-the-raf-air-defence-radar-museum-i/669241662278944/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g8621675-d671931-Reviews-RAF_Air_Defence_Radar_Museum-Neatishead_Norfolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g8621675-d671931-Reviews-RAF_Air_Defence_Radar_Museum-Neatishead_Norfolk_East_Anglia_England.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g8621675-d671931-Reviews-RAF_Air_Defence_Radar_Museum-Neatishead_Norfolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g8621675-d671931-Reviews-RAF_Air_Defence_Radar_Museum-Neatishead_Norfolk_East_Anglia_England.html</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211937906243123/posts/2158624711574423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211937906243123/posts/2158624711574423/</a>  
+   Link:<a href="https://www.facebook.com/groups/211937906243123/posts/2158624711574423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211937906243123/posts/2158624711574423/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: x.com  
-   Link: <a href="https://x.com/UKDefJournal/status/1934341332396380601" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UKDefJournal/status/1934341332396380601</a>  
+   Link:<a href="https://x.com/UKDefJournal/status/1934341332396380601" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UKDefJournal/status/1934341332396380601</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2006/05/its-official-ufos-are-just-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/05/its-official-ufos-are-just-uaps</a>  
+   Link:<a href="https://www.wired.com/2006/05/its-official-ufos-are-just-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/05/its-official-ufos-are-just-uaps</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: ukairfields.org.uk  
-   Link: <a href="https://www.ukairfields.org.uk/neatishead.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/neatishead.html</a>  
+   Link:<a href="https://www.ukairfields.org.uk/neatishead.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukairfields.org.uk/neatishead.html</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: gbmaps.com  
-   Link: <a href="https://www.gbmaps.com/free-county-maps/Norfolk.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Norfolk.php</a>  
+   Link:<a href="https://www.gbmaps.com/free-county-maps/Norfolk.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Norfolk.php</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: klmagazine.co.uk  
-   Link: <a href="https://www.klmagazine.co.uk/articles/raf-marham-heritage-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.klmagazine.co.uk/articles/raf-marham-heritage-centre</a>  
+   Link:<a href="https://www.klmagazine.co.uk/articles/raf-marham-heritage-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.klmagazine.co.uk/articles/raf-marham-heritage-centre</a>  

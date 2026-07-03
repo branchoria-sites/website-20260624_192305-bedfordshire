@@ -258,46 +258,46 @@ Military activity is one of the most important ordinary explanations to test whe
 
 
 <img src="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-overview.webp" | relative_url }}" alt="Overview image for Military Activity" loading="eager" decoding="sync" fetchpriority="high">
-The strongest evidence for this military link is not a single dramatic disclosure. It is the geography. Historic Argyllshire is a maritime county of peninsulas, sea lochs and islands reaching into the Atlantic approaches, while modern Argyll and Bute includes HM Naval Base Clyde at Faslane, the Royal Navy’s main Scottish base and home of the UK submarine service and nuclear deterrent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+The strongest evidence for this military link is not a single dramatic disclosure. It is the geography. Historic Argyllshire is a maritime county of peninsulas, sea lochs and islands reaching into the Atlantic approaches, while modern Argyll and Bute includes HM Naval Base Clyde at Faslane, the Royal Navy’s main Scottish base and home of the UK submarine service and nuclear deterrent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 ## Why Argyllshire Sits In A Military Sky Corridor
 
 Argyllshire’s UFO reports need to be understood from the shore looking out. A light seen from Kintyre, Mull, Lorne, Loch Fyne or the Firth of Clyde may not be over the witness at all. It may be over water, over a neighbouring county, over a military exercise area, or along a flight path that is invisible to someone judging distance by eye at night.
 
-The county’s historic geography makes that problem worse. Argyllshire is cut by deep sea lochs and spread across islands and peninsulas, with the Inner Hebrides and western approaches forming part of the visual field for many observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> A witness on a dark shore may be looking across tens of miles of sea with few reference points. A distant aircraft can appear to hover; a ship or helicopter light can seem to hang over a headland; a flare or exercise light can look isolated, silent and close when it is not.
+The county’s historic geography makes that problem worse. Argyllshire is cut by deep sea lochs and spread across islands and peninsulas, with the Inner Hebrides and western approaches forming part of the visual field for many observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> A witness on a dark shore may be looking across tens of miles of sea with few reference points. A distant aircraft can appear to hover; a ship or helicopter light can seem to hang over a headland; a flare or exercise light can look isolated, silent and close when it is not.
 
-This matters because many official UFO entries are short descriptions rather than full investigations. The Ministry of Defence’s public UFO report tables for 1997 to 2009 give dates, times, locations and brief sighting summaries, but they rarely contain the kind of local reconstruction needed to rule aircraft, naval activity or astronomy in or out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> In Argyllshire, that limitation is especially important because the same sightline can include ferries, military vessels, helicopters, civilian aircraft, exercises and bright astronomical objects.
+This matters because many official UFO entries are short descriptions rather than full investigations. The Ministry of Defence’s public UFO report tables for 1997 to 2009 give dates, times, locations and brief sighting summaries, but they rarely contain the kind of local reconstruction needed to rule aircraft, naval activity or astronomy in or out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> In Argyllshire, that limitation is especially important because the same sightline can include ferries, military vessels, helicopters, civilian aircraft, exercises and bright astronomical objects.
 
 ## Western Approaches, Naval Traffic And Aviation Routes
 
-The main military factor in Argyllshire is not a hidden airbase producing a stream of close encounters. It is the region’s role in the western approaches to Scotland and the Clyde. HM Naval Base Clyde, commonly known as Faslane, is the Royal Navy’s main presence in Scotland and is home to the core of the Submarine Service, including the UK’s nuclear deterrent and hunter-killer submarines. Coulport, nearby on Loch Long, handles key elements of the Trident missile system and submarine weapons support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">Royal Navy HMNB Clyde &#124; Royal Navy</span><span class="citation-popover-snippet">Royal Navy HMNB Clyde &#124; Royal Navy</span></span></span>
+The main military factor in Argyllshire is not a hidden airbase producing a stream of close encounters. It is the region’s role in the western approaches to Scotland and the Clyde. HM Naval Base Clyde, commonly known as Faslane, is the Royal Navy’s main presence in Scotland and is home to the core of the Submarine Service, including the UK’s nuclear deterrent and hunter-killer submarines. Coulport, nearby on Loch Long, handles key elements of the Trident missile system and submarine weapons support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">Royal Navy HMNB Clyde &#124; Royal Navy</span><span class="citation-popover-snippet">Royal Navy HMNB Clyde &#124; Royal Navy</span></span></span>
 
 For UFO interpretation, this has two consequences. First, the area has a genuine defence presence, so it is reasonable for witnesses and local investigators to ask whether unusual lights might be connected with naval movements, security activity, helicopters, patrol aircraft or exercises. Secondly, that same defence presence can encourage speculation beyond the evidence. A light seen near a sensitive naval area is not automatically a classified aircraft or exotic technology. It may be a routine aircraft, a vessel, a training event, a drone, a searchlight, a flare, or something unrelated to the base.
 
-The scale of activity around Scotland’s seas is documented outside UFO literature. Scotland’s Marine Assessment describes Scotland’s seas, lochs and coasts as integral to Royal Navy operations, training and trials, and identifies HMNB Clyde as a major naval operating base. It also notes that the biannual Joint Warrior exercise is primarily conducted off the west coast and has typically involved around 10,000 personnel, 35 warships, five submarines, and 59 aircraft and helicopters in recent years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marine.gov.scot/sma/assessment/military-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.gov.scot">[Marine Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.gov.scot</span><span class="citation-popover-title">military activity</span><span class="citation-popover-snippet">military activity</span></span></span> That is exactly the kind of environment in which a local night-sky report can be sincere, puzzling and still have a conventional military explanation.
+The scale of activity around Scotland’s seas is documented outside UFO literature. Scotland’s Marine Assessment describes Scotland’s seas, lochs and coasts as integral to Royal Navy operations, training and trials, and identifies HMNB Clyde as a major naval operating base. It also notes that the biannual Joint Warrior exercise is primarily conducted off the west coast and has typically involved around 10,000 personnel, 35 warships, five submarines, and 59 aircraft and helicopters in recent years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marine.gov.scot/sma/assessment/military-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.gov.scot">[Marine Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.gov.scot</span><span class="citation-popover-title">military activity</span><span class="citation-popover-snippet">military activity</span></span></span> That is exactly the kind of environment in which a local night-sky report can be sincere, puzzling and still have a conventional military explanation.
 
 
 <img src="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-1-dark.svg" | relative_url }}" alt="Military Activity illustration 1" data-theme-src-dark="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cold War Patterns: Patrol Aircraft, Submarines And A Wider Defence Landscape
 
-Argyllshire’s military context did not begin with modern NATO exercises. During the Second World War, Oban and the surrounding area had a direct aviation role. RAF Oban, centred around Kerrera and Ganavan, served as a flying boat base associated with RAF Coastal Command, with aircraft used for anti-submarine patrols, convoy escort work and maritime operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Oban" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Oban</span><span class="citation-popover-snippet">RAF Oban</span></span></span>
+Argyllshire’s military context did not begin with modern NATO exercises. During the Second World War, Oban and the surrounding area had a direct aviation role. RAF Oban, centred around Kerrera and Ganavan, served as a flying boat base associated with RAF Coastal Command, with aircraft used for anti-submarine patrols, convoy escort work and maritime operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Oban" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Oban</span><span class="citation-popover-snippet">RAF Oban</span></span></span>
 
 That older history does not explain late twentieth-century UFO reports by itself, but it shows why western Scotland was repeatedly used for maritime air activity. The same geography that made the area useful for wartime patrols — access to Atlantic sea lanes, island channels and deep-water approaches — also made it relevant during the Cold War and after. Maritime patrol aircraft, naval exercises and anti-submarine training belong naturally to this landscape.
 
-The Ministry of Defence’s later UFO files show that official interest in UFO reports was framed mainly around defence significance, not curiosity about aliens. The National Archives’ research guide explains that surviving Ministry of Defence UFO files have been reviewed for release because of public interest, while summaries of the final files say the UFO desk was closed after the department concluded the work no longer served a defence purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> A 2024 parliamentary answer restated that the MOD ceased investigating UFO or UAP reports in 2009 and said all MOD UFO files created up to that point had been released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[Parliament Questions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The Ministry of Defence’s later UFO files show that official interest in UFO reports was framed mainly around defence significance, not curiosity about aliens. The National Archives’ research guide explains that surviving Ministry of Defence UFO files have been reviewed for release because of public interest, while summaries of the final files say the UFO desk was closed after the department concluded the work no longer served a defence purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> A 2024 parliamentary answer restated that the MOD ceased investigating UFO or UAP reports in 2009 and said all MOD UFO files created up to that point had been released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[Parliament Questions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 That distinction is central. Official interest was not a promise that each report involved advanced technology. It was a screening process: could the report suggest an air-defence issue, an unknown aircraft, a radar concern, an intrusion, or a safety hazard?
 
 ## Exercise Joint Warrior: The Most Plausible Modern Military Driver
 
-For modern Argyllshire sightings, Exercise Joint Warrior is one of the most important names to know. It is a major UK-led multinational exercise, traditionally associated with the waters and airspace around Scotland, especially the north and west. Government and Royal Navy material describe Joint Warrior as involving warships, submarines, aircraft, helicopters and multinational forces, with significant naval and aerial activity off Scotland’s coasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Joint Warrior military exercise to take place</span><span class="citation-popover-snippet">Joint Warrior military exercise to take place</span></span></span>
+For modern Argyllshire sightings, Exercise Joint Warrior is one of the most important names to know. It is a major UK-led multinational exercise, traditionally associated with the waters and airspace around Scotland, especially the north and west. Government and Royal Navy material describe Joint Warrior as involving warships, submarines, aircraft, helicopters and multinational forces, with significant naval and aerial activity off Scotland’s coasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Joint Warrior military exercise to take place</span><span class="citation-popover-snippet">Joint Warrior military exercise to take place</span></span></span>
 
 The exercise is particularly relevant because it can combine several UFO-generating ingredients at once:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* fast jets and maritime patrol aircraft; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/RAFLossiemouth/posts/-flying-notice-raf-lossiemouth-will-be-hosting-a-number-of-f-15-and-f-35-aircraf/1185183360448517/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* fast jets and maritime patrol aircraft;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/RAFLossiemouth/posts/-flying-notice-raf-lossiemouth-will-be-hosting-a-number-of-f-15-and-f-35-aircraf/1185183360448517/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * helicopters operating near land and sea;
 * naval vessels with unusual light patterns;
 * night activity;
@@ -307,7 +307,7 @@ The exercise is particularly relevant because it can combine several UFO-generat
 
 </div>
 
-The Royal Navy reported that Joint Warrior activity in 2021 involved surface ships, submarines, maritime patrol aircraft and other air assets, and that the exercise was coordinated from HM Naval Base Clyde in Argyll and Bute, with many aircraft flown from RAF Lossiemouth in Moray. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2021/october/07/20211007-scottish-ports-welcome-nato-warships-after-major-exercise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">20211007 scottish ports welcome nato warships after major exercise</span><span class="citation-popover-snippet">20211007 scottish ports welcome nato warships after major exercise</span></span></span> In 2015, the Ministry of Defence announced a Joint Warrior exercise involving 55 warships and submarines, 70 aircraft and around 13,000 personnel from 14 countries, with significant naval and aerial activity off Scotland’s west and east coasts, including amphibious landings on the west coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Joint Warrior military exercise to take place</span><span class="citation-popover-snippet">Joint Warrior military exercise to take place</span></span></span>
+The Royal Navy reported that Joint Warrior activity in 2021 involved surface ships, submarines, maritime patrol aircraft and other air assets, and that the exercise was coordinated from HM Naval Base Clyde in Argyll and Bute, with many aircraft flown from RAF Lossiemouth in Moray.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2021/october/07/20211007-scottish-ports-welcome-nato-warships-after-major-exercise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">20211007 scottish ports welcome nato warships after major exercise</span><span class="citation-popover-snippet">20211007 scottish ports welcome nato warships after major exercise</span></span></span> In 2015, the Ministry of Defence announced a Joint Warrior exercise involving 55 warships and submarines, 70 aircraft and around 13,000 personnel from 14 countries, with significant naval and aerial activity off Scotland’s west and east coasts, including amphibious landings on the west coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Joint Warrior military exercise to take place</span><span class="citation-popover-snippet">Joint Warrior military exercise to take place</span></span></span>
 
 For a UFO researcher, those details are not a debunking shortcut. They are a checklist. If a sighting happened during a Joint Warrior window, near the west coast, over water, after dark, or in the direction of known exercise areas, military activity becomes a serious candidate explanation. If it happened outside those windows, with no matching aircraft, no naval traffic, no exercise notice and no routine aviation explanation, it remains harder to dismiss.
 
@@ -316,15 +316,15 @@ For a UFO researcher, those details are not a debunking shortcut. They are a che
 
 ## RAF Lossiemouth And The View From Argyllshire
 
-RAF Lossiemouth is not in Argyllshire, but it matters to Argyllshire because aircraft do not respect county boundaries. The RAF states that Typhoon flying from Lossiemouth usually takes place between 7am and 7pm, while Quick Reaction Alert Typhoons are on standby 24 hours a day and can launch without notice. It also states that Poseidon MRA1 maritime patrol aircraft usually fly between 7am and 10pm but can be tasked at short notice and may launch at any time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span></span></span>
+RAF Lossiemouth is not in Argyllshire, but it matters to Argyllshire because aircraft do not respect county boundaries. The RAF states that Typhoon flying from Lossiemouth usually takes place between 7am and 7pm, while Quick Reaction Alert Typhoons are on standby 24 hours a day and can launch without notice. It also states that Poseidon MRA1 maritime patrol aircraft usually fly between 7am and 10pm but can be tasked at short notice and may launch at any time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span></span></span>
 
-This is important for western Scotland because a witness may see only the effect: lights moving fast, changing direction, vanishing behind cloud, or crossing the horizon without an obvious sound. The RAF also notes that it does not comment on specific aircraft movements, although unusual movements such as night flying or visiting aircraft may sometimes be publicised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span></span></span> That creates a gap familiar to UFO investigators: a sighting can be consistent with military aviation without there being a public, case-specific confirmation.
+This is important for western Scotland because a witness may see only the effect: lights moving fast, changing direction, vanishing behind cloud, or crossing the horizon without an obvious sound. The RAF also notes that it does not comment on specific aircraft movements, although unusual movements such as night flying or visiting aircraft may sometimes be publicised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span></span></span> That creates a gap familiar to UFO investigators: a sighting can be consistent with military aviation without there being a public, case-specific confirmation.
 
-Night flying is another relevant mechanism. RAF Lossiemouth explains that night training is needed for aircrew proficiency and can take place from 30 minutes after sunset to 30 minutes before sunrise, usually in blocks during the year, with additional activity possible when required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span></span></span> Seen from Argyllshire’s darker coastal areas, night aircraft can be startling: navigation lights, landing lights, afterburner glow, formation flying and changes in angle can all make ordinary aircraft look briefly extraordinary.
+Night flying is another relevant mechanism. RAF Lossiemouth explains that night training is needed for aircrew proficiency and can take place from 30 minutes after sunset to 30 minutes before sunrise, usually in blocks during the year, with additional activity possible when required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span><span class="citation-popover-snippet">Royal Air Force Flying info &#124; RAF Lossiemouth &#124; Royal Air Force</span></span></span> Seen from Argyllshire’s darker coastal areas, night aircraft can be startling: navigation lights, landing lights, afterburner glow, formation flying and changes in angle can all make ordinary aircraft look briefly extraordinary.
 
 ## What The MOD UFO Tables Show In Argyllshire
 
-The MOD’s published UFO tables do contain Argyllshire-area entries, but they are usually too brief to prove a military cause. One useful example appears in the 1999 UFO report table: on 22 February 1999 at Minard, North Argyll, the report describes “stationary lights” that disappeared and reappeared. The same page records several similar reports elsewhere in Britain that evening, including bright stationary lights and large round white objects, plus a report west of Glasgow Airport of two bright stationary lights low on the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The MOD’s published UFO tables do contain Argyllshire-area entries, but they are usually too brief to prove a military cause. One useful example appears in the 1999 UFO report table: on 22 February 1999 at Minard, North Argyll, the report describes “stationary lights” that disappeared and reappeared. The same page records several similar reports elsewhere in Britain that evening, including bright stationary lights and large round white objects, plus a report west of Glasgow Airport of two bright stationary lights low on the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That cluster matters because it weakens a purely local military explanation. If similar lights were reported across widely separated locations on the same evening, investigators should also test astronomy, atmospheric effects, balloons, aircraft at altitude, or shared misidentification. A local naval or RAF explanation might still be possible for one observer, but the pattern suggests caution before tying the North Argyll report to a nearby base or exercise.
 
@@ -334,17 +334,17 @@ This is a recurring problem with Argyllshire UFO material. The county’s milita
 <img src="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-2-dark.svg" | relative_url }}" alt="Military Activity illustration 2" data-theme-src-dark="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Official Interest Focused On Air Defence
 
-The MOD did not investigate UFOs in the same way a civilian UFO group might. Its practical concern was whether a report had defence significance. That meant questions such as: could the object have been an unknown aircraft, a hostile intrusion, a missile, a radar anomaly, or a flight safety issue? The National Archives’ guide notes that the Ministry of Defence records include reports, correspondence and policy material, while other summaries of the files describe the official reporting system as one concerned with defence relevance rather than proving or disproving extraterrestrial claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The MOD did not investigate UFOs in the same way a civilian UFO group might. Its practical concern was whether a report had defence significance. That meant questions such as: could the object have been an unknown aircraft, a hostile intrusion, a missile, a radar anomaly, or a flight safety issue? The National Archives’ guide notes that the Ministry of Defence records include reports, correspondence and policy material, while other summaries of the files describe the official reporting system as one concerned with defence relevance rather than proving or disproving extraterrestrial claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 This air-defence framing explains why military witnesses, radar reports and sightings near bases received more attention nationally than vague lights seen in open sky. It also explains why Argyllshire is a special case without needing a famous “Argyllshire incident”. The county sits near defence infrastructure and operational routes, so many reports naturally raise defence-adjacent questions even when the final explanation is mundane.
 
-The closure of the MOD UFO desk in 2009 also changed the evidence landscape. GOV.UK still hosts the published UFO report tables for 1997 to 2009, but the department’s later position is that UFO sighting reports are no longer recorded or investigated by the MOD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> For Argyllshire, that means modern claims are less likely to have a central official UFO file and more likely to depend on local testimony, press coverage, flight tracking, marine notices, exercise announcements, police logs or independent investigation.
+The closure of the MOD UFO desk in 2009 also changed the evidence landscape. GOV.UK still hosts the published UFO report tables for 1997 to 2009, but the department’s later position is that UFO sighting reports are no longer recorded or investigated by the MOD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> For Argyllshire, that means modern claims are less likely to have a central official UFO file and more likely to depend on local testimony, press coverage, flight tracking, marine notices, exercise announcements, police logs or independent investigation.
 
 ## Where Military Explanations Are Strongest
 
 A military explanation becomes stronger when the sighting matches known activity in time, place and behaviour. In Argyllshire, the best candidates are reports involving lights over sea, repeated activity during exercise periods, aircraft-like movement, helicopter noise, formation lights, low-level flying, or objects seen in the direction of the Clyde, the Hebrides, RAF operating areas or the wider west-coast exercise zones.
 
-The MOD maintains current guidance pages for low-flying exercises, including planned activity by fast jets, rotary aircraft and transport aircraft within the UK low-flying system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: MOD sponsored air exercises</span><span class="citation-popover-snippet">Military low flying: MOD sponsored air exercises</span></span></span> That does not identify every aircraft a witness might see, but it shows that planned military air activity is a normal part of UK airspace management. The Civil Aviation Authority has also published safety material for civilian pilots on military low flying, which underlines that low-level military training is a recognised aviation feature rather than a fringe explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Military Low Flying</span><span class="citation-popover-snippet">Civil Aviation Authority Military Low Flying</span></span></span>
+The MOD maintains current guidance pages for low-flying exercises, including planned activity by fast jets, rotary aircraft and transport aircraft within the UK low-flying system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: MOD sponsored air exercises</span><span class="citation-popover-snippet">Military low flying: MOD sponsored air exercises</span></span></span> That does not identify every aircraft a witness might see, but it shows that planned military air activity is a normal part of UK airspace management. The Civil Aviation Authority has also published safety material for civilian pilots on military low flying, which underlines that low-level military training is a recognised aviation feature rather than a fringe explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Military Low Flying</span><span class="citation-popover-snippet">Civil Aviation Authority Military Low Flying</span></span></span>
 
 In practical terms, the military explanation is most persuasive when several checks line up:
 
@@ -371,7 +371,7 @@ Argyllshire’s defence geography can encourage two opposite mistakes. The first
 
 There are good reasons to be cautious about secret-aircraft explanations. If an object was seen from a public road, ferry terminal, island shore or village, it may have been far away, misjudged in size, or moving in ordinary airspace. Distant aircraft at night can appear silent; helicopters can seem to hover in impossible positions; bright lights low over the sea can look larger than they are. Military presence raises the probability of aircraft and naval explanations, but it does not automatically raise the probability of exotic technology.
 
-There is also a records problem. MOD UFO files and published report tables often preserve the existence of a report, not a complete reconstruction. The National Archives notes that surviving files were reviewed for release after earlier record-handling policies and public interest, but gaps and uneven survival remain part of the official record story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span> In Argyllshire, where many reports are likely to be brief local observations over complex geography, the absence of a tidy explanation may reflect thin data rather than hidden knowledge.
+There is also a records problem. MOD UFO files and published report tables often preserve the existence of a report, not a complete reconstruction. The National Archives notes that surviving files were reviewed for release after earlier record-handling policies and public interest, but gaps and uneven survival remain part of the official record story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide</span><span class="citation-popover-snippet">briefing guide</span></span></span> In Argyllshire, where many reports are likely to be brief local observations over complex geography, the absence of a tidy explanation may reflect thin data rather than hidden knowledge.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T7jkqsCa4-I" title="The Town with the Most UFO Sightings in the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer">The Town with the Most UFO Sightings in the World</a></p><p class="youtube-embed-meta">Channel: Jordi Busquets</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T7jkqsCa4-I">Open on YouTube</a></p></div></div></div>
@@ -398,194 +398,194 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
 <img src="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-3-dark.svg" | relative_url }}" alt="Military Activity illustration 3" data-theme-src-dark="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argyllshire_81dd43_military_activity_2265dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Military Exercises Behind The Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Military Exercises Behind The Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZCyzXwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZCyzXwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Offers background on how secret defence activity can generate UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers background on how secret defence activity can generate UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes military and aviation witness testimony relevant to the page’s themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes military and aviation witness testimony relevant to the page’s themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides insight into how advanced aircraft and military programmes can influence UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how advanced aircraft and military programmes can influence UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores military research, rumours and advanced technology claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military research, rumours and advanced technology claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print"><img src="{{ '/assets/images/marketplace-covers/44ae80316e286230af50.jpg' | relative_url }}" alt="Listing image for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print"><img src="{{ '/assets/images/marketplace-covers/44ae80316e286230af50.jpg' | relative_url }}" alt="Listing image for RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAAF Roulettes Aerobatic Team Aircraft Photograph - Military Aviation Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109"><img src="{{ '/assets/images/marketplace-covers/f0f053d5ff228b7946c0.jpg' | relative_url }}" alt="Listing image for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109"><img src="{{ '/assets/images/marketplace-covers/f0f053d5ff228b7946c0.jpg' | relative_url }}" alt="Listing image for Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Gunther Rall Signed aviation Art portrait print by John Shaw WWII ME 109</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="military-activity-were-military-exercises-behind-the-sightings-argyllshire-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,303 +791,303 @@ That approach keeps the mystery where it belongs. Argyllshire’s military setti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: royalnavy.mod.uk  
    Title: Royal Navy HMNB Clyde | Royal Navy  
-   Link: <a href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/locations-and-operations/bases-and-stations/hmnb-clyde</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: marine.gov.scot  
    Title: military activity  
-   Link: <a href="https://marine.gov.scot/sma/assessment/military-activity" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sma/assessment/military-activity</a>  
+   Link:<a href="https://marine.gov.scot/sma/assessment/military-activity" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sma/assessment/military-activity</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: RAF Oban  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Oban" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Oban</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Oban" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Oban</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: Joint Warrior military exercise to take place  
-   Link: <a href="https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place</a>  
+   Link:<a href="https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/joint-warrior-military-exercise-to-take-place</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: royalnavy.mod.uk  
    Title: 20211007 scottish ports welcome nato warships after major exercise  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2021/october/07/20211007-scottish-ports-welcome-nato-warships-after-major-exercise" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2021/october/07/20211007-scottish-ports-welcome-nato-warships-after-major-exercise</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/news/2021/october/07/20211007-scottish-ports-welcome-nato-warships-after-major-exercise" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2021/october/07/20211007-scottish-ports-welcome-nato-warships-after-major-exercise</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: raf.mod.uk  
    Title: Royal Air Force Flying info | RAF Lossiemouth | Royal Air Force  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/flying-info/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: Military low flying: MOD sponsored air exercises  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
    Title: exercise joint warrior concludes  
-   Link: <a href="https://www.gov.uk/government/news/exercise-joint-warrior-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/exercise-joint-warrior-concludes</a>  
+   Link:<a href="https://www.gov.uk/government/news/exercise-joint-warrior-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/exercise-joint-warrior-concludes</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: GOV.UK  
    Title: submarines to support economic and community growth  
-   Link: <a href="https://www.gov.uk/government/news/submarines-to-support-economic-and-community-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/submarines-to-support-economic-and-community-growth</a>  
+   Link:<a href="https://www.gov.uk/government/news/submarines-to-support-economic-and-community-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/submarines-to-support-economic-and-community-growth</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a759af1e5274a43682988fb/Scotland_analysis_Defence_paper-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a759af1e5274a43682988fb/Scotland_analysis_Defence_paper-FINAL.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a759af1e5274a43682988fb/Scotland_analysis_Defence_paper-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a759af1e5274a43682988fb/Scotland_analysis_Defence_paper-FINAL.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: desider 49 June2012  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e7de5274a2acd1887ae/desider_49_June2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e7de5274a2acd1887ae/desider_49_June2012.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e7de5274a2acd1887ae/desider_49_June2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e7de5274a2acd1887ae/desider_49_June2012.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c216ae5274a1f5cc75f78/2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c216ae5274a1f5cc75f78/2010.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c216ae5274a1f5cc75f78/2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c216ae5274a1f5cc75f78/2010.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: desider 51 August2012  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74d31ce5274a3cb28677ba/desider_51_August2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74d31ce5274a3cb28677ba/desider_51_August2012.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74d31ce5274a3cb28677ba/desider_51_August2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74d31ce5274a3cb28677ba/desider_51_August2012.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20110228desider34 March2011U  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78d19bed915d042206595f/20110228desider34_March2011U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d19bed915d042206595f/20110228desider34_March2011U.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78d19bed915d042206595f/20110228desider34_March2011U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d19bed915d042206595f/20110228desider34_March2011U.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: July Desider 2015 for web  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a80ce4f40f0b62302695993/July_Desider_2015_for_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ce4f40f0b62302695993/July_Desider_2015_for_web.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a80ce4f40f0b62302695993/July_Desider_2015_for_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ce4f40f0b62302695993/July_Desider_2015_for_web.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: desider 64 Sept2013  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7baf0340f0b638d61be435/desider_64_Sept2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7baf0340f0b638d61be435/desider_64_Sept2013.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7baf0340f0b638d61be435/desider_64_Sept2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7baf0340f0b638d61be435/desider_64_Sept2013.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a798efbed915d04220695f6/desider_24_AprMay10v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a798efbed915d04220695f6/desider_24_AprMay10v2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a798efbed915d04220695f6/desider_24_AprMay10v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a798efbed915d04220695f6/desider_24_AprMay10v2.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a80ae76e5274a2e8ab518ef/OESEA3_A1j_Conservation.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Exercise Joint Warrior  
-   Link: <a href="https://en.wikipedia.org/wiki/Exercise_Joint_Warrior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exercise_Joint_Warrior</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exercise_Joint_Warrior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exercise_Joint_Warrior</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: HMNB Clyde  
-   Link: <a href="https://en.wikipedia.org/wiki/HMNB_Clyde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMNB_Clyde</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/HMNB_Clyde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMNB_Clyde</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argyll</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argyll</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Counties of Scotland  
-   Link: <a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Counties_of_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counties_of_Scotland</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: royalnavy.mod.uk  
    Title: 20220930 joint warrior  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2022/september/30/20220930-joint-warrior" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2022/september/30/20220930-joint-warrior</a>  
+   Link:<a href="https://www.royalnavy.mod.uk/news/2022/september/30/20220930-joint-warrior" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2022/september/30/20220930-joint-warrior</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: data.parliament.uk  
-   Link: <a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
+   Link:<a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s69534/1102447ROHAHK040912.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s69534/1102447ROHAHK040912.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s69534/1102447ROHAHK040912.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s69534/1102447ROHAHK040912.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: argyll-bute.gov.uk  
    Title: 1202315 CTTEE ROH TPW 27 03 13 v1 1 PB 3  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s77454/1202315%20CTTEE%20ROH%20TPW%2027%2003%2013%20v1%201%20PB%203.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s77454/1202315%20CTTEE%20ROH%20TPW%2027%2003%2013%20v1%201%20PB%203.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s77454/1202315%20CTTEE%20ROH%20TPW%2027%2003%2013%20v1%201%20PB%203.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s77454/1202315%20CTTEE%20ROH%20TPW%2027%2003%2013%20v1%201%20PB%203.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s80850/00249%20Report%20of%20Handling%20Committee%20land%20adjacent%20Kidonan%20Gabion%20breakwater%20ATL%20version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s80850/00249%20Report%20of%20Handling%20Committee%20land%20adjacent%20Kidonan%20Gabion%20breakwater%20ATL%20version.pdf</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s80850/00249%20Report%20of%20Handling%20Committee%20land%20adjacent%20Kidonan%20Gabion%20breakwater%20ATL%20version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s80850/00249%20Report%20of%20Handling%20Committee%20land%20adjacent%20Kidonan%20Gabion%20breakwater%20ATL%20version.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g6140/Public%20reports%20pack%20Wednesday%2023-Apr-2014%2010.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: argyll-bute.gov.uk  
    Title: Public reports pack Tuesday 07 Dec 2004 10.30 Bute and Cowal Area Committee  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g1918/Public%20reports%20pack%20Tuesday%2007-Dec-2004%2010.30%20Bute%20and%20Cowal%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g1918/Public%20reports%20pack%20Tuesday%2007-Dec-2004%2010.30%20Bute%20and%20Cowal%20Area%20Committee.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g1918/Public%20reports%20pack%20Tuesday%2007-Dec-2004%2010.30%20Bute%20and%20Cowal%20Area%20Committee.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g1918/Public%20reports%20pack%20Tuesday%2007-Dec-2004%2010.30%20Bute%20and%20Cowal%20Area%20Committee.pdf?T=10</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: blogs.gov.scot  
    Title: joint warrior  
-   Link: <a href="https://blogs.gov.scot/marine-scotland/category/msc/joint-warrior/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.gov.scot/marine-scotland/category/msc/joint-warrior/</a>  
+   Link:<a href="https://blogs.gov.scot/marine-scotland/category/msc/joint-warrior/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.gov.scot/marine-scotland/category/msc/joint-warrior/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: scotlandspeople.gov.uk  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/argyll-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/argyll-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/argyll-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/argyll-county</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cne-siar.gov.uk  
-   Link: <a href="https://www.cne-siar.gov.uk/sites/default/files/2026-04/Contaminated_Land_Inspection_Strategy_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cne-siar.gov.uk/sites/default/files/2026-04/Contaminated_Land_Inspection_Strategy_2001.pdf</a>  
+   Link:<a href="https://www.cne-siar.gov.uk/sites/default/files/2026-04/Contaminated_Land_Inspection_Strategy_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cne-siar.gov.uk/sites/default/files/2026-04/Contaminated_Land_Inspection_Strategy_2001.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: democracy.edinburgh.gov.uk  
-   Link: <a href="https://democracy.edinburgh.gov.uk/Data/Planning%20Local%20Review%20Body/20180820/Agenda/full_meeting_papers_-_the_city_of_edinburgh_planning_local_review_body_part_3_-_20-08-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.edinburgh.gov.uk/Data/Planning%20Local%20Review%20Body/20180820/Agenda/full_meeting_papers_-_the_city_of_edinburgh_planning_local_review_body_part_3_-_20-08-18.pdf</a>  
+   Link:<a href="https://democracy.edinburgh.gov.uk/Data/Planning%20Local%20Review%20Body/20180820/Agenda/full_meeting_papers_-_the_city_of_edinburgh_planning_local_review_body_part_3_-_20-08-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.edinburgh.gov.uk/Data/Planning%20Local%20Review%20Body/20180820/Agenda/full_meeting_papers_-_the_city_of_edinburgh_planning_local_review_body_part_3_-_20-08-18.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Argyll</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Argyll" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Argyll</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Military Low Flying  
-   Link: <a href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/13382</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/13382" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/13382</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/welcome-to-the-county-of-argyll-a-land-of-soaring-mountains-dramatic-peninsulas-/1089843243299242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/welcome-to-the-county-of-argyll-a-land-of-soaring-mountains-dramatic-peninsulas-/1089843243299242/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/welcome-to-the-county-of-argyll-a-land-of-soaring-mountains-dramatic-peninsulas-/1089843243299242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/welcome-to-the-county-of-argyll-a-land-of-soaring-mountains-dramatic-peninsulas-/1089843243299242/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/the-county-of-argyll-is-a-shire-of-mountains-peninsulas-and-islandsargyllshire-e/768539502096286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-argyll-is-a-shire-of-mountains-peninsulas-and-islandsargyllshire-e/768539502096286/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/the-county-of-argyll-is-a-shire-of-mountains-peninsulas-and-islandsargyllshire-e/768539502096286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/the-county-of-argyll-is-a-shire-of-mountains-peninsulas-and-islandsargyllshire-e/768539502096286/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Argyllshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Argyllshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Argyllshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Argyllshire</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: military-history.fandom.com  
    Title: RAF Oban  
-   Link: <a href="https://military-history.fandom.com/wiki/RAF_Oban" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Oban</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/RAF_Oban" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/RAF_Oban</a>  
 
 ### Additional References
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Calvine Incident: What is the Government Hiding in Scotland (Paranormal &amp; Mystery)...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Town with the Most UFO Sightings in the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gZIuO-ZlkTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZIuO-ZlkTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Town with the Most UFO Sightings in the World...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: The Town with the Most UFO Sightings in the World  
-   Link: <a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T7jkqsCa4-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T7jkqsCa4-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Am_Fiasganach%2C_Argyllshire_285868" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Am_Fiasganach%2C_Argyllshire_285868</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Am_Fiasganach%2C_Argyllshire_285868" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Am_Fiasganach%2C_Argyllshire_285868</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheArmyNI/posts/arriving-in-belfast-for-a-well-deserved-rest-period-after-taking-part-in-exercis/1002388739938035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheArmyNI/posts/arriving-in-belfast-for-a-well-deserved-rest-period-after-taking-part-in-exercis/1002388739938035/</a>  
+   Link:<a href="https://www.facebook.com/TheArmyNI/posts/arriving-in-belfast-for-a-well-deserved-rest-period-after-taking-part-in-exercis/1002388739938035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheArmyNI/posts/arriving-in-belfast-for-a-well-deserved-rest-period-after-taking-part-in-exercis/1002388739938035/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalnavy/videos/exercise-joint-warrior-2019/2455056088149249/?locale=zh_CN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalnavy/videos/exercise-joint-warrior-2019/2455056088149249/?locale=zh_CN</a>  
+   Link:<a href="https://www.facebook.com/royalnavy/videos/exercise-joint-warrior-2019/2455056088149249/?locale=zh_CN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalnavy/videos/exercise-joint-warrior-2019/2455056088149249/?locale=zh_CN</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/counties-of-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties-of-scotland/</a>  
+   Link:<a href="https://realcounties.com/counties-of-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/counties-of-scotland/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RAFLossiemouth/posts/-flying-notice-raf-lossiemouth-will-be-hosting-a-number-of-f-15-and-f-35-aircraf/1185183360448517/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLossiemouth/posts/-flying-notice-raf-lossiemouth-will-be-hosting-a-number-of-f-15-and-f-35-aircraf/1185183360448517/</a>  
+   Link:<a href="https://www.facebook.com/RAFLossiemouth/posts/-flying-notice-raf-lossiemouth-will-be-hosting-a-number-of-f-15-and-f-35-aircraf/1185183360448517/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RAFLossiemouth/posts/-flying-notice-raf-lossiemouth-will-be-hosting-a-number-of-f-15-and-f-35-aircraf/1185183360448517/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/thisisoban/posts/1321516831832813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thisisoban/posts/1321516831832813/</a>  
+   Link:<a href="https://www.facebook.com/groups/thisisoban/posts/1321516831832813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thisisoban/posts/1321516831832813/</a>  

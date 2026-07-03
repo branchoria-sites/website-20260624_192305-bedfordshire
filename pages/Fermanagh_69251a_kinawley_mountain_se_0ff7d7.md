@@ -254,7 +254,7 @@ image: /assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-overview-soci
 
 ## Introduction
 
-The Kinawley mountain search is [Fermanagh]({{ 'what-really-happened-in-fermanaghs-ufo/' | relative_url }})’s clearest official UFO-related case, but the surviving evidence points to an investigated emergency report rather than a proven crash. On 13 February 2001, reports of smoke, flames or a possible aircraft down on Benaughlin Mountain near Kinawley led to a search by police and troops, assisted by a helicopter. The key official answer later given in the House of Lords was simple: nothing was found, a second search the next morning also found no evidence of a downed aircraft or a fire, and the incident was closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+The Kinawley mountain search is [Fermanagh]({{ 'what-really-happened-in-fermanaghs-ufo/' | relative_url }})’s clearest official UFO-related case, but the surviving evidence points to an investigated emergency report rather than a proven crash. On 13 February 2001, reports of smoke, flames or a possible aircraft down on Benaughlin Mountain near Kinawley led to a search by police and troops, assisted by a helicopter. The key official answer later given in the House of Lords was simple: nothing was found, a second search the next morning also found no evidence of a downed aircraft or a fire, and the incident was closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
 
 <img src="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-overview.webp" | relative_url }}" alt="Overview image for Kinawley Search" loading="eager" decoding="sync" fetchpriority="high">
@@ -265,27 +265,27 @@ That makes the case important for Fermanagh’s UFO history in a fairly modest, 
 
 ## The February 2001 search near Kinawley
 
-Benaughlin Mountain sits in south Fermanagh, close to Kinawley and the border country around Cuilcagh. In historic-county terms, this page is centred on County Fermanagh rather than on the later Fermanagh and Omagh council district. Kinawley itself is identified in the Gazetteer of British Place Names as a small village in County Fermanagh, while Benaughlin is described by Wikishire as a mountain in the Cuilcagh range in Fermanagh, with a summit of about 1,224 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Kinawley%2C_Fermanagh_321984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Benaughlin Mountain sits in south Fermanagh, close to Kinawley and the border country around Cuilcagh. In historic-county terms, this page is centred on County Fermanagh rather than on the later Fermanagh and Omagh council district. Kinawley itself is identified in the Gazetteer of British Place Names as a small village in County Fermanagh, while Benaughlin is described by Wikishire as a mountain in the Cuilcagh range in Fermanagh, with a summit of about 1,224 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Kinawley%2C_Fermanagh_321984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
-The alarm began on the afternoon of 13 February 2001. RTÉ’s contemporary report said the alert followed a member of the public reporting heavy smoke and flames on the side of Benaughlin Mountain near Kinawley. That wording is important: the trigger was not an official radar intercept or a recovered object, but a public report of something that looked like smoke and fire on a mountain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rte.ie/news/2001/0213/12465-airplane/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-snippet">Open source on rte.ie.</span></span></span>
+The alarm began on the afternoon of 13 February 2001. RTÉ’s contemporary report said the alert followed a member of the public reporting heavy smoke and flames on the side of Benaughlin Mountain near Kinawley. That wording is important: the trigger was not an official radar intercept or a recovered object, but a public report of something that looked like smoke and fire on a mountain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rte.ie/news/2001/0213/12465-airplane/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-snippet">Open source on rte.ie.</span></span></span>
 
-The authorities responded as they would to a possible aircraft accident or upland emergency. In the later House of Lords written answer, Lord Bach said that “police and troops” searched the area, with helicopter assistance, after reports of smoke on Benaughlin Mountain. A further search took place the following morning. Both searches drew a blank: no downed aircraft, no fire, and no wreckage were reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+The authorities responded as they would to a possible aircraft accident or upland emergency. In the later House of Lords written answer, Lord Bach said that “police and troops” searched the area, with helicopter assistance, after reports of smoke on Benaughlin Mountain. A further search took place the following morning. Both searches drew a blank: no downed aircraft, no fire, and no wreckage were reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
-The incident then became a UFO case because of the way the question was framed afterwards. Lord Hill-Norton asked the government what search operation had taken place following reports of “the crash of an unidentified object” in Northern Ireland on 13 February 2001. The government did not confirm an unidentified craft; it referred back to reports of smoke, the search, and the absence of findings. A separate answer the previous day referred Lord Hill-Norton to a letter from Army Headquarters Northern Ireland to UFO and Paranormal Research Ireland, placed in the Library of the House of Lords. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash</span></span></span>
+The incident then became a UFO case because of the way the question was framed afterwards. Lord Hill-Norton asked the government what search operation had taken place following reports of “the crash of an unidentified object” in Northern Ireland on 13 February 2001. The government did not confirm an unidentified craft; it referred back to reports of smoke, the search, and the absence of findings. A separate answer the previous day referred Lord Hill-Norton to a letter from Army Headquarters Northern Ireland to UFO and Paranormal Research Ireland, placed in the Library of the House of Lords.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash</span></span></span>
 
-Local and later media accounts added to the case’s afterlife. The Belfast Telegraph reported within days that Kinawley had seen a second mystery UFO sighting, while a later Irish Examiner feature described the Benaughlin incident as an air-and-ground search after witnesses on both sides of the border reportedly saw what looked like a plane crash. The same Irish Examiner account stressed the central negative finding: nothing was found and no planes were reported missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span>
+Local and later media accounts added to the case’s afterlife. The Belfast Telegraph reported within days that Kinawley had seen a second mystery UFO sighting, while a later Irish Examiner feature described the Benaughlin incident as an air-and-ground search after witnesses on both sides of the border reportedly saw what looked like a plane crash. The same Irish Examiner account stressed the central negative finding: nothing was found and no planes were reported missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Open source on belfasttelegraph.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-1-dark.svg" | relative_url }}" alt="Kinawley Search illustration 1" data-theme-src-dark="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official answer did and did not prove
 
-The strongest evidence in the Kinawley case is not physical debris, photographs, radar data or a recovered object. It is the official acknowledgement that a search took place. That is still valuable. Many rural UFO stories rest only on memory, retelling or short press notices. This one reached Hansard, the official record of Parliament, with a date, location, agencies involved and outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+The strongest evidence in the Kinawley case is not physical debris, photographs, radar data or a recovered object. It is the official acknowledgement that a search took place. That is still valuable. Many rural UFO stories rest only on memory, retelling or short press notices. This one reached Hansard, the official record of Parliament, with a date, location, agencies involved and outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
-What the answer proves is narrow. It proves that reports of smoke on Benaughlin Mountain were treated seriously enough for police, troops and a helicopter to search the area. It also proves that the authorities found no evidence, after an initial search and a follow-up search, of either a crash site or a fire. In UFO terms, that puts Kinawley in a middle category: officially documented as an investigated report, but not supported as a crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theyworkforyou.com">[TheyWorkForYou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theyworkforyou.com</span><span class="citation-popover-snippet">Open source on theyworkforyou.com.</span></span></span>
+What the answer proves is narrow. It proves that reports of smoke on Benaughlin Mountain were treated seriously enough for police, troops and a helicopter to search the area. It also proves that the authorities found no evidence, after an initial search and a follow-up search, of either a crash site or a fire. In UFO terms, that puts Kinawley in a middle category: officially documented as an investigated report, but not supported as a crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theyworkforyou.com">[TheyWorkForYou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theyworkforyou.com</span><span class="citation-popover-snippet">Open source on theyworkforyou.com.</span></span></span>
 
-What it does not prove is equally important. The parliamentary answer does not say that an object was tracked by radar, that aircraft were scrambled, that wreckage was removed, that witnesses saw a craft in detail, or that any Ministry of Defence technical investigation found unexplained material. It also does not record a confirmed aircraft loss. A later Irish Examiner summary made the same broad point from the reporting side: nothing was found and no planes were reported missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/lifestyle/arid-31008660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span><span class="citation-popover-snippet">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span></span></span>
+What it does not prove is equally important. The parliamentary answer does not say that an object was tracked by radar, that aircraft were scrambled, that wreckage was removed, that witnesses saw a craft in detail, or that any Ministry of Defence technical investigation found unexplained material. It also does not record a confirmed aircraft loss. A later Irish Examiner summary made the same broad point from the reporting side: nothing was found and no planes were reported missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/lifestyle/arid-31008660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span><span class="citation-popover-snippet">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span></span></span>
 
-The case also does not sit neatly inside the Ministry of Defence’s public annual UFO sighting list for 2001. GOV.UK hosts MOD UFO reports from 1997 to 2009, described as lists giving dates, times, locations and brief descriptions of sightings. The 2001 report includes entries either side of 13 February and later Northern Ireland entries, including Cherry Valley near Belfast and Enniskillen, but searches of the PDF text do not find “Kinawley” or “Fermanagh”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The case also does not sit neatly inside the Ministry of Defence’s public annual UFO sighting list for 2001. GOV.UK hosts MOD UFO reports from 1997 to 2009, described as lists giving dates, times, locations and brief descriptions of sightings. The 2001 report includes entries either side of 13 February and later Northern Ireland entries, including Cherry Valley near Belfast and Enniskillen, but searches of the PDF text do not find “Kinawley” or “Fermanagh”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 That absence should not be overread. It may mean the Benaughlin alert was handled as a possible crash or public-safety incident rather than as an ordinary UFO sighting report. But it does weaken any claim that the MOD’s routine UFO log independently preserved a detailed Kinawley sighting. The record that matters remains the House of Lords answer and the referenced Army Headquarters Northern Ireland correspondence.
 
@@ -294,11 +294,11 @@ That absence should not be overread. It may mean the Benaughlin alert was handle
 
 ## Why Benaughlin was a believable place for a false alarm
 
-A mountain report can be persuasive even when nothing has crashed. Benaughlin is not a city skyline where a light can be checked quickly against street lamps, buildings and traffic. It is upland rural terrain, close to wooded and rough ground, with Cuilcagh and the Fermanagh-Cavan border landscape nearby. Official tourism material for Cuilcagh Lakelands describes the wider area as one of cliffs, rugged outcrops, caves, habitats and open landscapes, while walking descriptions of Benaughlin refer to rough, mostly unsurfaced routes and difficult terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fermanaghlakelands.com/things-to-see-and-do/cuilcagh-lakelands-unesco-global-geopark-p719471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghlakelands.com">[Fermanagh Lakelands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghlakelands.com</span><span class="citation-popover-snippet">Open source on fermanaghlakelands.com.</span></span></span>
+A mountain report can be persuasive even when nothing has crashed. Benaughlin is not a city skyline where a light can be checked quickly against street lamps, buildings and traffic. It is upland rural terrain, close to wooded and rough ground, with Cuilcagh and the Fermanagh-Cavan border landscape nearby. Official tourism material for Cuilcagh Lakelands describes the wider area as one of cliffs, rugged outcrops, caves, habitats and open landscapes, while walking descriptions of Benaughlin refer to rough, mostly unsurfaced routes and difficult terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fermanaghlakelands.com/things-to-see-and-do/cuilcagh-lakelands-unesco-global-geopark-p719471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghlakelands.com">[Fermanagh Lakelands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghlakelands.com</span><span class="citation-popover-snippet">Open source on fermanaghlakelands.com.</span></span></span>
 
-That setting matters because smoke, flame-coloured light, low cloud, mist, bogland, forestry, farm activity or a distant aircraft can all be hard to interpret from a distance. A witness may honestly report what appears to be a crash site, while searchers later find no wreckage because the original sightline, distance or nature of the phenomenon was misread. The official response does not require the original reporter to have been careless; it only shows that the emergency interpretation did not survive the search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+That setting matters because smoke, flame-coloured light, low cloud, mist, bogland, forestry, farm activity or a distant aircraft can all be hard to interpret from a distance. A witness may honestly report what appears to be a crash site, while searchers later find no wreckage because the original sightline, distance or nature of the phenomenon was misread. The official response does not require the original reporter to have been careless; it only shows that the emergency interpretation did not survive the search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
-The cross-border setting also helps explain why the story spread beyond a local Fermanagh note. Kinawley parish and nearby routes have long been described in relation to both Fermanagh and Cavan, and Cuilcagh itself is a border mountain between County Fermanagh in Northern Ireland and County Cavan in the Republic of Ireland. A dramatic report near this landscape could naturally be picked up in Northern Irish, Irish and UFO-interest circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.genuki.org.uk/big/irl/FER/Kinawley/KinawleyGaz1868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: genuki.org.uk">[Genuki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">genuki.org.uk</span><span class="citation-popover-snippet">Open source on genuki.org.uk.</span></span></span>
+The cross-border setting also helps explain why the story spread beyond a local Fermanagh note. Kinawley parish and nearby routes have long been described in relation to both Fermanagh and Cavan, and Cuilcagh itself is a border mountain between County Fermanagh in Northern Ireland and County Cavan in the Republic of Ireland. A dramatic report near this landscape could naturally be picked up in Northern Irish, Irish and UFO-interest circles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.genuki.org.uk/big/irl/FER/Kinawley/KinawleyGaz1868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: genuki.org.uk">[Genuki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">genuki.org.uk</span><span class="citation-popover-snippet">Open source on genuki.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-2-dark.svg" | relative_url }}" alt="Kinawley Search illustration 2" data-theme-src-dark="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,13 +306,13 @@ The cross-border setting also helps explain why the story spread beyond a local 
 
 The most cautious reading is that the Kinawley case began as a possible crash report and ended as a negative search. That still leaves the obvious question: what did people see? The surviving public record is too thin to identify a single cause, but it does point to several ordinary possibilities.
 
-A first possibility is a mistaken aircraft-crash report. Rural emergency services sometimes have to respond to reports of a plane appearing to go down, only to find that the object was further away, still airborne, or not an aircraft at all. In Kinawley, the official answer says the searchers found no downed aircraft and no fire, while later reporting said no planes were missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theyworkforyou.com">[TheyWorkForYou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theyworkforyou.com</span><span class="citation-popover-snippet">Open source on theyworkforyou.com.</span></span></span>
+A first possibility is a mistaken aircraft-crash report. Rural emergency services sometimes have to respond to reports of a plane appearing to go down, only to find that the object was further away, still airborne, or not an aircraft at all. In Kinawley, the official answer says the searchers found no downed aircraft and no fire, while later reporting said no planes were missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theyworkforyou.com">[TheyWorkForYou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theyworkforyou.com</span><span class="citation-popover-snippet">Open source on theyworkforyou.com.</span></span></span>
 
-A second possibility is a meteor or fireball-type event, though the date is awkward. The Society for Popular Astronomy recorded a cluster of bright UK fireballs on 8 and 9 February 2001, including events with fragmentation and orange, red or green-blue colours. Those reports show that the period was rich in bright meteor observations across Britain and nearby skies, but they do not establish a matching 13 February Fermanagh fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and 9 2001</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and 9 2001</span></span></span>
+A second possibility is a meteor or fireball-type event, though the date is awkward. The Society for Popular Astronomy recorded a cluster of bright UK fireballs on 8 and 9 February 2001, including events with fragmentation and orange, red or green-blue colours. Those reports show that the period was rich in bright meteor observations across Britain and nearby skies, but they do not establish a matching 13 February Fermanagh fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">bright fireballs from the uk february 8 and</span><span class="citation-popover-snippet">bright fireballs from the uk february 8 and</span></span></span>
 
-A third possibility is smoke or flame from an ordinary ground source that had disappeared or been mislocated by the time searchers arrived. The official answer is firm that nothing was found to indicate a fire, but it does not tell us how precise the original location was, how visibility was at the time, how long the smoke was seen, or whether the witness was looking from nearby or from a distance. Those missing details stop the case from being either neatly explained or strongly unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+A third possibility is smoke or flame from an ordinary ground source that had disappeared or been mislocated by the time searchers arrived. The official answer is firm that nothing was found to indicate a fire, but it does not tell us how precise the original location was, how visibility was at the time, how long the smoke was seen, or whether the witness was looking from nearby or from a distance. Those missing details stop the case from being either neatly explained or strongly unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
-A fourth possibility is press amplification. The term “UFO crash” is much stronger than the government’s own wording. Lord Hill-Norton’s question used the language of a crash of an unidentified object, while the answer reduced the evidential core to reports of smoke, a search, and no findings. That contrast is a useful warning for readers: UFO cases often grow in the gap between what witnesses fear may have happened, what journalists can summarise dramatically, and what [official records]({{ 'official-records-02436c/' | relative_url }}) actually say. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash</span></span></span>
+A fourth possibility is press amplification. The term “UFO crash” is much stronger than the government’s own wording. Lord Hill-Norton’s question used the language of a crash of an unidentified object, while the answer reduced the evidential core to reports of smoke, a search, and no findings. That contrast is a useful warning for readers: UFO cases often grow in the gap between what witnesses fear may have happened, what journalists can summarise dramatically, and what [official records]({{ 'official-records-02436c/' | relative_url }}) actually say.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash</span></span></span>
 
 The remaining gaps are real but limited. The public record does not provide the original witness statements, full search logs, helicopter observations, weather conditions, exact search grid, or the Army Headquarters Northern Ireland letter itself in the Hansard text. Those gaps make it impossible to reconstruct the event minute by minute. They do not, however, supply positive evidence for a hidden crash.
 
@@ -321,11 +321,11 @@ The remaining gaps are real but limited. The public record does not provide the 
 
 ## Why this is Fermanagh’s key UFO case, not its Roswell
 
-For Fermanagh, Kinawley matters because it is unusually well anchored. It has a specific mountain, a specific date, named public authorities, parliamentary attention and a clear official outcome. That makes it more substantial than a passing anecdote about strange lights, and it deserves a place in any county-level account of UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
+For Fermanagh, Kinawley matters because it is unusually well anchored. It has a specific mountain, a specific date, named public authorities, parliamentary attention and a clear official outcome. That makes it more substantial than a passing anecdote about strange lights, and it deserves a place in any county-level account of UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Northern Ireland: Ufo Crash Report</span><span class="citation-popover-snippet">Hansard Northern Ireland: Ufo Crash Report</span></span></span>
 
-But its evidential weight runs in the opposite direction from the crash legend. The more official the record becomes, the less it supports a recovered craft. Hansard confirms the search; it also confirms the absence of the expected crash evidence. The MOD’s public 2001 UFO list shows how many ordinary sightings were logged around the UK that year, including lights, fireballs, triangular objects and later Northern Ireland reports, but it does not add a Kinawley crash entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+But its evidential weight runs in the opposite direction from the crash legend. The more official the record becomes, the less it supports a recovered craft. Hansard confirms the search; it also confirms the absence of the expected crash evidence. The MOD’s public 2001 UFO list shows how many ordinary sightings were logged around the UK that year, including lights, fireballs, triangular objects and later Northern Ireland reports, but it does not add a Kinawley crash entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Later reporting has kept the story alive, especially by linking it with other Irish “crash” narratives such as the Manorhamilton affair. Yet that comparison also underlines the pattern: a dramatic report, a search, no wreckage, and an ordinary explanation or unresolved residue. The Irish Examiner explicitly paired the Benaughlin incident with an earlier air-and-ground search in which meteorites were blamed, then noted that the Fermanagh search likewise found nothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/lifestyle/arid-31008660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span><span class="citation-popover-snippet">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span></span></span>
+Later reporting has kept the story alive, especially by linking it with other Irish “crash” narratives such as the Manorhamilton affair. Yet that comparison also underlines the pattern: a dramatic report, a search, no wreckage, and an ordinary explanation or unresolved residue. The Irish Examiner explicitly paired the Benaughlin incident with an earlier air-and-ground search in which meteorites were blamed, then noted that the Fermanagh search likewise found nothing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/lifestyle/arid-31008660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span><span class="citation-popover-snippet">Irish Examiner World UFO Day: &#x27;Take me to your Taoiseach</span></span></span>
 
 The fairest verdict is therefore restrained. Something was reported near Kinawley on 13 February 2001, and the response was serious enough to involve police, troops and a helicopter. The best available evidence does not show that anything crashed on Benaughlin Mountain. It shows that an apparent crash report was investigated, no supporting physical evidence was found, and the case survives as Fermanagh’s clearest official UFO incident because of the paper trail — not because of a confirmed object.
 
@@ -333,194 +333,194 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
 <img src="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-3-dark.svg" | relative_url }}" alt="Kinawley Search illustration 3" data-theme-src-dark="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fermanagh_69251a_kinawley_mountain_se_0ff7d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Anything Crash on Benaughlin Mountain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Anything Crash on Benaughlin Mountain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented cases and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented cases and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Fits a page centred on an official search and unresolved incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page centred on an official search and unresolved incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses evidence trails and unresolved events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence trails and unresolved events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating reports and explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating reports and explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kinawley-search-did-anything-crash-on-benaughlin-mountain-fermanagh-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,189 +726,189 @@ The fairest verdict is therefore restrained. Something was reported near Kinawle
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Northern Ireland: Ufo Crash Report  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/cd2e4b64-d0f8-4f4c-a877-62787f4ba2ce/NorthernIrelandUfoCrashReport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rte.ie  
-   Link: <a href="https://www.rte.ie/news/2001/0213/12465-airplane/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/2001/0213/12465-airplane/</a>  
+   Link:<a href="https://www.rte.ie/news/2001/0213/12465-airplane/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/2001/0213/12465-airplane/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theyworkforyou.com  
-   Link: <a href="https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans" target="_blank" rel="noopener noreferrer nofollow">https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans</a>  
+   Link:<a href="https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans" target="_blank" rel="noopener noreferrer nofollow">https://www.theyworkforyou.com/wrans/?id=2001-10-16a.83.6&amp;s=speaker%3A13225+section%3Awrans</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Northern Ireland: Ufo Crash  
-   Link: <a href="https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash</a>  
+   Link:<a href="https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2001-10-15/debates/35cb6c33-c3b7-4346-9f1c-e1670037147f/NorthernIrelandUfoCrash</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: api.parliament.uk  
    Title: APINorthern Ireland: UFO Crash Report  
-   Link: <a href="https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/written_answers/2001/oct/16/northern-ireland-ufo-crash-report</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: astronomy.ie  
-   Link: <a href="https://astronomy.ie/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.ie/fireball-report/</a>  
+   Link:<a href="https://astronomy.ie/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.ie/fireball-report/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk KINAWLE Y ENTERPRISE LIMITED people  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/NI042584/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/NI042584/officers</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/NI042584/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/NI042584/officers</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Kinawley%2C_Fermanagh_321984" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinawley%2C_Fermanagh_321984</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Kinawley%2C_Fermanagh_321984" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Kinawley%2C_Fermanagh_321984</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wikishire.co.uk  
    Title: Benaughlin Mountain  
-   Link: <a href="https://wikishire.co.uk/wiki/Benaughlin_Mountain" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Benaughlin_Mountain</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Benaughlin_Mountain" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Benaughlin_Mountain</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/second-ufo-sighting-sets-village-buzzing/a/120122150.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: irishexaminer.com  
    Title: Irish Examiner World UFO Day: 'Take me to your Taoiseach'  
-   Link: <a href="https://www.irishexaminer.com/lifestyle/arid-31008660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/lifestyle/arid-31008660.html</a>  
+   Link:<a href="https://www.irishexaminer.com/lifestyle/arid-31008660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/lifestyle/arid-31008660.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fermanaghlakelands.com  
-   Link: <a href="https://www.fermanaghlakelands.com/things-to-see-and-do/cuilcagh-lakelands-unesco-global-geopark-p719471" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghlakelands.com/things-to-see-and-do/cuilcagh-lakelands-unesco-global-geopark-p719471</a>  
+   Link:<a href="https://www.fermanaghlakelands.com/things-to-see-and-do/cuilcagh-lakelands-unesco-global-geopark-p719471" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghlakelands.com/things-to-see-and-do/cuilcagh-lakelands-unesco-global-geopark-p719471</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/irl/FER/Kinawley/KinawleyGaz1868" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/irl/FER/Kinawley/KinawleyGaz1868</a>  
+   Link:<a href="https://www.genuki.org.uk/big/irl/FER/Kinawley/KinawleyGaz1868" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/irl/FER/Kinawley/KinawleyGaz1868</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: popastro.com  
    Title: bright fireballs from the uk february 8 and 9 2001  
-   Link: <a href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/02/10/bright-fireballs-from-the-uk-february-8-and-9-2001/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: popastro.com  
    Title: fireball sightings from 2001  
-   Link: <a href="https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2001/12/31/fireball-sightings-from-2001/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cuilcagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cuilcagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cuilcagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cuilcagh</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fermanagh</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Fermanagh</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Benaughlin Mountain  
-   Link: <a href="https://en.wikipedia.org/wiki/Benaughlin_Mountain" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Benaughlin_Mountain</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Benaughlin_Mountain" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Benaughlin_Mountain</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kinawley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kinawley</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kinawley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kinawley</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mapcarta.com  
-   Link: <a href="https://mapcarta.com/17636736" target="_blank" rel="noopener noreferrer nofollow">https://mapcarta.com/17636736</a>  
+   Link:<a href="https://mapcarta.com/17636736" target="_blank" rel="noopener noreferrer nofollow">https://mapcarta.com/17636736</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ufo-secret-british-dossier-reveals-sightings-over-ulster/a/119593561.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.wikivoyage.org  
    Title: County Fermanagh  
-   Link: <a href="https://en.wikivoyage.org/wiki/County_Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Fermanagh</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/County_Fermanagh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/County_Fermanagh</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: historicstats.com  
-   Link: <a href="https://www.historicstats.com/ireland/1926/northernireland/fermanagh/enniskillenrural/kinawley/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicstats.com/ireland/1926/northernireland/fermanagh/enniskillenrural/kinawley/</a>  
+   Link:<a href="https://www.historicstats.com/ireland/1926/northernireland/fermanagh/enniskillenrural/kinawley/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicstats.com/ireland/1926/northernireland/fermanagh/enniskillenrural/kinawley/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: kinawleykillesherparish.co.uk  
-   Link: <a href="https://kinawleykillesherparish.co.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://kinawleykillesherparish.co.uk/history/</a>  
+   Link:<a href="https://kinawleykillesherparish.co.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://kinawleykillesherparish.co.uk/history/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DxgqN13k4D4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxgqN13k4D4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO&quot; Northern Ireland MoD files Not Alone Up There — UFO Caught on Parachute Cam #UFOs #ufo #UAP #UAPs #ovni UFONOMENON...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DxgqN13k4D4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxgqN13k4D4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO&quot; Northern Ireland MoD files Not Alone Up There — UFO Caught on Parachute Cam #UFOs #ufo #UAP #UAPs #ovni UFONOMENON...</p></details>
    Published: May 2008  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
+   Link:<a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: UFO's in the United Kingdom  
-   Link: <a href="https://www.youtube.com/watch?v=13DtqQ3RHt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=13DtqQ3RHt0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the UK: An Interview with Nick Pope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=13DtqQ3RHt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=13DtqQ3RHt0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the UK: An Interview with Nick Pope...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Rise in unexplained sightings in skies across Northern Ireland  
-   Link: <a href="https://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4F6AoeMyps0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4F6AoeMyps0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MikeCollierWx/videos/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/4516968915255272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/videos/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/4516968915255272/</a>  
+   Link:<a href="https://www.facebook.com/MikeCollierWx/videos/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/4516968915255272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/videos/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/4516968915255272/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/angelofadventureni/videos/benaughlin-mountain/702010387824408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angelofadventureni/videos/benaughlin-mountain/702010387824408/</a>  
+   Link:<a href="https://www.facebook.com/angelofadventureni/videos/benaughlin-mountain/702010387824408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angelofadventureni/videos/benaughlin-mountain/702010387824408/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/676500406259034/posts/1017127492196322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/676500406259034/posts/1017127492196322/</a>  
+   Link:<a href="https://www.facebook.com/groups/676500406259034/posts/1017127492196322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/676500406259034/posts/1017127492196322/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1406644059539064/posts/2246380548898740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1406644059539064/posts/2246380548898740/</a>  
+   Link:<a href="https://www.facebook.com/groups/1406644059539064/posts/2246380548898740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1406644059539064/posts/2246380548898740/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/LoveIrelandGroup/posts/1473445539859272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/LoveIrelandGroup/posts/1473445539859272/</a>  
+   Link:<a href="https://www.facebook.com/groups/LoveIrelandGroup/posts/1473445539859272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/LoveIrelandGroup/posts/1473445539859272/</a>  

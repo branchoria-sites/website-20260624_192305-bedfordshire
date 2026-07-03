@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /shropshire-83e582-index/
 description: Focused pages that expand on What Really Happened in Shropshire's UFO....
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: Shropshire_83e582
 parent_title: What Really Happened in Shropshire's UFO...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-shropshires-ufo/
 
 # Explore Topics in What Really Happened in Shropshire's UFO...
 
-The following pages expand on the main **[What Really Happened in Shropshire's UFO...]({{ '/what-really-happened-in-shropshires-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Shropshire's UFO...]({{ '/what-really-happened-in-shropshires-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [1993 Timeline]({{ '/1993-timeline/' | relative_url }})
 - [Local Sightings]({{ '/local-sightings/' | relative_url }})

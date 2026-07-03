@@ -254,17 +254,17 @@ image: /assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-overview-soc
 
 ## Introduction
 
-[Ross-shire]({{ 'what-really-happened-in-ross-shires-ufo/' | relative_url }})’s UFO record is best read through its skies as much as through its sightings. The county’s most useful official entries are short reports of bright lights, discs, orbs and colour effects at places such as Tore, Ardross, Evanton and the Black Isle. None proves an exotic object, and none is detailed enough to close with certainty. What they do show is how Highland conditions can fool honest witnesses: a dazzling planet low over a ridge, a meteor with a tail, aurora colours at dawn, or a light broken up by cloud can all look more structured and mysterious than they really are. The point is not that Ross-shire witnesses were careless. It is that dark skies, hills, water, broken cloud and long sight-lines make distance, size and movement unusually hard to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
+[Ross-shire]({{ 'what-really-happened-in-ross-shires-ufo/' | relative_url }})’s UFO record is best read through its skies as much as through its sightings. The county’s most useful official entries are short reports of bright lights, discs, orbs and colour effects at places such as Tore, Ardross, Evanton and the Black Isle. None proves an exotic object, and none is detailed enough to close with certainty. What they do show is how Highland conditions can fool honest witnesses: a dazzling planet low over a ridge, a meteor with a tail, aurora colours at dawn, or a light broken up by cloud can all look more structured and mysterious than they really are. The point is not that Ross-shire witnesses were careless. It is that dark skies, hills, water, broken cloud and long sight-lines make distance, size and movement unusually hard to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
 
 
 <img src="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
-This page uses Ross-shire in the historic-county sense used by the wider project, while recognising that modern records often blur older county names with Ross and Cromarty or Highland Council geography. That matters because the mainland sightings most visible in the Ministry of Defence lists cluster around Easter Ross and the Black Isle: places where hills, firths, rural darkness and northern skies all affect what a witness thinks they have seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Ross shire</span><span class="citation-popover-snippet">Ross shire</span></span></span>
+This page uses Ross-shire in the historic-county sense used by the wider project, while recognising that modern records often blur older county names with Ross and Cromarty or Highland Council geography. That matters because the mainland sightings most visible in the Ministry of Defence lists cluster around Easter Ross and the Black Isle: places where hills, firths, rural darkness and northern skies all affect what a witness thinks they have seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Ross shire</span><span class="citation-popover-snippet">Ross shire</span></span></span>
 
 ## Why Highland Skies Can Fool Witnesses
 
-Ross-shire is not a classic “UFO hotspot” built around one famous, heavily investigated incident. Its value lies in a quieter pattern: short official reports in which ordinary sky mechanisms remain plausible but cannot always be proved from the surviving information. GOV.UK describes the released Ministry of Defence report lists as UK UFO reports from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. That format preserves what was reported, but it usually does not provide the direction of travel, altitude, full weather, witness interview, astronomical check, radar result or final explanation that would be needed for a confident conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+Ross-shire is not a classic “UFO hotspot” built around one famous, heavily investigated incident. Its value lies in a quieter pattern: short official reports in which ordinary sky mechanisms remain plausible but cannot always be proved from the surviving information. GOV.UK describes the released Ministry of Defence report lists as UK UFO reports from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. That format preserves what was reported, but it usually does not provide the direction of travel, altitude, full weather, witness interview, astronomical check, radar result or final explanation that would be needed for a confident conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-Ross-shire’s landscape makes that limitation more important. Much of the historic county is rural, mountainous or coastal, and the old county geography stretches from the east coast towards Wester Ross and Lewis, although the short MoD entries discussed here sit mainly on the eastern mainland and Black Isle side. Ross and Cromarty Heritage describes the area in community terms including Wester Ross, Mid Ross, Easter Ross and the Black Isle, while Wikishire identifies Ross-shire as a Highland historic county with Dingwall as its county town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Ross shire</span><span class="citation-popover-snippet">Ross shire</span></span></span>
+Ross-shire’s landscape makes that limitation more important. Much of the historic county is rural, mountainous or coastal, and the old county geography stretches from the east coast towards Wester Ross and Lewis, although the short MoD entries discussed here sit mainly on the eastern mainland and Black Isle side. Ross and Cromarty Heritage describes the area in community terms including Wester Ross, Mid Ross, Easter Ross and the Black Isle, while Wikishire identifies Ross-shire as a Highland historic county with Dingwall as its county town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Ross shire</span><span class="citation-popover-snippet">Ross shire</span></span></span>
 
 For a witness, the practical issue is not administrative geography but visual geometry. A light seen over the Cromarty Firth, above the Black Isle, beyond a ridge, or through fast-changing cloud may lack obvious scale. A nearby object can seem large; a distant object can seem close; an aircraft approaching head-on can appear almost fixed; a planet near the horizon can seem to hover; a meteor can be remembered as a “craft” if it is bright, coloured and brief. The same sparse report can therefore support several ordinary explanations without proving any one of them.
 
@@ -272,15 +272,15 @@ For a witness, the practical issue is not administrative geography but visual ge
 <img src="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-1-dark.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Venus, Meteors and Bright Lights
 
-The clearest Ross-shire example of possible astronomical misidentification is Ardross in March 1999. The MoD list records an object at Ardross, Ross Shire, on 29 March at 21:30, described as “four times larger than Venus”, halogen-coloured and brighter than Venus. A second Ardross report on 30 March at 21:35 repeats the Venus comparison and adds that the object was stationary for quite a while. The repetition on consecutive evenings is significant because stationary bright lights are exactly the kind of sighting that should first be checked against planets, bright stars, distant aircraft and atmospheric distortion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 19994 Jan 1999 — Ardross Ross Shire One object, four times larger than Venus. Was stationary for quite a while. 40-50 ft wide. Cir...</span></span></span>
+The clearest Ross-shire example of possible astronomical misidentification is Ardross in March 1999. The MoD list records an object at Ardross, Ross Shire, on 29 March at 21:30, described as “four times larger than Venus”, halogen-coloured and brighter than Venus. A second Ardross report on 30 March at 21:35 repeats the Venus comparison and adds that the object was stationary for quite a while. The repetition on consecutive evenings is significant because stationary bright lights are exactly the kind of sighting that should first be checked against planets, bright stars, distant aircraft and atmospheric distortion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 19994 Jan 1999 — Ardross Ross Shire One object, four times larger than Venus. Was stationary for quite a while. 40-50 ft wide. Cir...</span></span></span>
 
-Venus is a common culprit in sincere UFO reports because it is unusually bright and can sit low in twilight or darkness. Royal Museums Greenwich advises that a very bright white point in the night sky is often Jupiter or Venus, with Mars sometimes appearing orange when bright; it also notes that planets appear to move across the sky as Earth turns while keeping their position relative to surrounding stars. That is enough to create confusion if the witness is using hills, trees or cloud rather than star positions as their reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+Venus is a common culprit in sincere UFO reports because it is unusually bright and can sit low in twilight or darkness. Royal Museums Greenwich advises that a very bright white point in the night sky is often Jupiter or Venus, with Mars sometimes appearing orange when bright; it also notes that planets appear to move across the sky as Earth turns while keeping their position relative to surrounding stars. That is enough to create confusion if the witness is using hills, trees or cloud rather than star positions as their reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
 The Ardross wording is especially revealing because the witness or recorder already used Venus as a comparison. That does not automatically solve the case as Venus: the report says the object was larger and brighter, and it gives no direction, elevation or sky chart check. But it does show the correct sceptical starting point. If a light is fixed for several minutes and appears on successive evenings at roughly the same time, the burden of interpretation shifts towards astronomy and line-of-sight effects unless stronger evidence shows motion, manoeuvre, structure or independent tracking.
 
-Tore in June 1997 is a different kind of bright-light problem. The MoD entry for 9 June 1997 at 22:25 describes one object at Tore as “saucer” shaped and then like a comet with a tail, very bright orange and shining. That wording is more compatible with a fast transient event than with a fixed planet, although the entry is too short to prove a meteor, fireball or space-debris re-entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
+Tore in June 1997 is a different kind of bright-light problem. The MoD entry for 9 June 1997 at 22:25 describes one object at Tore as “saucer” shaped and then like a comet with a tail, very bright orange and shining. That wording is more compatible with a fast transient event than with a fixed planet, although the entry is too short to prove a meteor, fireball or space-debris re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
 
-Modern fireball reporting helps explain why such cases can feel dramatic at first. The UK Fireball Alliance describes itself as a collaboration of camera networks that records meteors and fireballs and seeks to recover freshly fallen meteorites in the UK. Fireballs can be bright, coloured and startling, and current camera networks exist precisely because witness reports alone can leave uncertainty about path, speed, height and origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span>
+Modern fireball reporting helps explain why such cases can feel dramatic at first. The UK Fireball Alliance describes itself as a collaboration of camera networks that records meteors and fireballs and seeks to recover freshly fallen meteorites in the UK. Fireballs can be bright, coloured and startling, and current camera networks exist precisely because witness reports alone can leave uncertainty about path, speed, height and origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span>
 
 The useful lesson for Ross-shire is that “bright orange”, “tail”, “comet-like” and “saucer” are not mutually exclusive in witness language. A person startled by a brief light may first impose a shape, then remember the trail, then describe the colour. Without duration, direction and comparison sightings from elsewhere, the Tore entry remains an official report rather than a solved meteor case. But meteor-like perception is one of the strongest ordinary explanations available from the surviving wording.
 
@@ -289,11 +289,11 @@ The useful lesson for Ross-shire is that “bright orange”, “tail”, “com
 
 ## Aurora Colours and Dawn Sightings
 
-The Black Isle report of 16 October 2007 is the most colourful Ross-shire entry in the released MoD lists. At 05:45, one object was described as orb-shaped and larger than a star, purple and green in colour, with “bubbles, flames and solar flares” coming out of it. It is vivid enough to be memorable, but also exactly the kind of early-morning, colour-rich account that calls for caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">Reports 20076 Jul 2007 — One object, orb shaped and larger than a star. Was purple and green in colour, and had bubbles, flames and solar...</span></span></span>
+The Black Isle report of 16 October 2007 is the most colourful Ross-shire entry in the released MoD lists. At 05:45, one object was described as orb-shaped and larger than a star, purple and green in colour, with “bubbles, flames and solar flares” coming out of it. It is vivid enough to be memorable, but also exactly the kind of early-morning, colour-rich account that calls for caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">Reports 20076 Jul 2007 — One object, orb shaped and larger than a star. Was purple and green in colour, and had bubbles, flames and solar...</span></span></span>
 
-Aurora is not a fringe explanation in the Highlands. The Met Office explains that oxygen produces green aurora and, at higher altitudes, rarer red aurora, while nitrogen creates blue and purple hues. It also says that the best chance of seeing the northern lights in the UK is in Scotland, northern England, North Wales and Northern Ireland, with visibility extending farther south during intense solar storms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Aurora is not a fringe explanation in the Highlands. The Met Office explains that oxygen produces green aurora and, at higher altitudes, rarer red aurora, while nitrogen creates blue and purple hues. It also says that the best chance of seeing the northern lights in the UK is in Scotland, northern England, North Wales and Northern Ireland, with visibility extending farther south during intense solar storms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-Royal Museums Greenwich gives the same basic colour mechanism in accessible terms: green is characteristic of oxygen, while hints of purple, blue or pink are caused by nitrogen. That does not mean the Black Isle object was definitely aurora. Aurora more often appears as arcs, curtains, rays, glows or shifting patches than as one neat orb. But auroral colour can complicate another object in the same part of the sky. A bright star, planet or aircraft light seen through thin cloud while auroral activity or dawn glow is present may be remembered as a coloured object with activity around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+Royal Museums Greenwich gives the same basic colour mechanism in accessible terms: green is characteristic of oxygen, while hints of purple, blue or pink are caused by nitrogen. That does not mean the Black Isle object was definitely aurora. Aurora more often appears as arcs, curtains, rays, glows or shifting patches than as one neat orb. But auroral colour can complicate another object in the same part of the sky. A bright star, planet or aircraft light seen through thin cloud while auroral activity or dawn glow is present may be remembered as a coloured object with activity around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
 The time matters too. At 05:45 in mid-October, the witness was observing in the awkward borderland between night and morning. Dawn changes contrast quickly. Cloud edges sharpen and then fade. A star or planet that seemed large in darkness can weaken as the sky brightens. Thin cloud can make a point of light appear to flare, bubble or throw off colour. The Ross-shire interest is therefore not that the Black Isle report can be neatly dismissed, but that several ordinary sky mechanisms overlap at the exact time and in the exact region where the report was made.
 
@@ -303,15 +303,15 @@ This is also where county-level UFO history benefits from local sky knowledge. A
 <img src="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-2-dark.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cloud, Hills and Distance Errors
 
-The Evanton report from 3 January 2000 shows why cloud detail can be decisive. The MoD entry says that at 20:45 a gold disc was seen at Evanton, flying through cloud, reappearing and then disappearing. On paper, that sounds like an object moving behind cloud. It could be. But it could also describe a light whose visibility was controlled by gaps, thickness, reflection, or the witness’s changing line of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 20001 Jan 2000 — 03-Jan-00. 20:45 Evanton. Ross-Shire. A gold disc was seen. It flew... Sort of looked bright considering the col...</span></span></span>
+The Evanton report from 3 January 2000 shows why cloud detail can be decisive. The MoD entry says that at 20:45 a gold disc was seen at Evanton, flying through cloud, reappearing and then disappearing. On paper, that sounds like an object moving behind cloud. It could be. But it could also describe a light whose visibility was controlled by gaps, thickness, reflection, or the witness’s changing line of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Report 20001 Jan 2000 — 03-Jan-00. 20:45 Evanton. Ross-Shire. A gold disc was seen. It flew... Sort of looked bright considering the col...</span></span></span>
 
 Broken cloud can create the illusion of behaviour. A planet can vanish behind a thin moving band and reappear seconds later. A distant aircraft can seem to stop if its lights are briefly hidden, then seem to jump when it emerges from another gap. A cloud edge can make a round or disc-like outline around a point of light. Over hilly or coastal ground, the witness may not know whether the object is above a nearby ridge, over the firth, beyond the Black Isle, or high in the sky. The report’s phrase “through cloud” is therefore not a minor detail; it is the central clue.
 
-Ross-shire terrain adds a second layer of uncertainty. Hills, ridges and water give strong horizons but weak distance cues at night. A light over land may have trees, buildings or roads beneath it. A light over water or moorland may have almost nothing beneath it to anchor scale. Aviation guidance makes a similar point from the pilot’s side: NATS material on visual flight over calm water or at night over unpopulated areas warns that adequate visual cues may not be available. That is written for flight safety, not UFO research, but the visual principle is relevant to ground witnesses too. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/aip-supplements/EG_Circ_2026_P_041_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats-uk.ead-it.com">[NATS UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats-uk.ead-it.com</span><span class="citation-popover-snippet">Open source on ead-it.com.</span></span></span>
+Ross-shire terrain adds a second layer of uncertainty. Hills, ridges and water give strong horizons but weak distance cues at night. A light over land may have trees, buildings or roads beneath it. A light over water or moorland may have almost nothing beneath it to anchor scale. Aviation guidance makes a similar point from the pilot’s side: NATS material on visual flight over calm water or at night over unpopulated areas warns that adequate visual cues may not be available. That is written for flight safety, not UFO research, but the visual principle is relevant to ground witnesses too.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/aip-supplements/EG_Circ_2026_P_041_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats-uk.ead-it.com">[NATS UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats-uk.ead-it.com</span><span class="citation-popover-snippet">Open source on ead-it.com.</span></span></span>
 
-Cloud itself can also be mistaken for structure. The Met Office explains that lenticular clouds are a visible sign of mountain waves in the air, and such waves can exist even where no cloud is visible. Lenticular clouds are not the obvious answer to every Ross-shire light report, but they matter in Highland interpretation because smooth, lens-like clouds forming near hills and mountains can resemble saucers, especially at dawn or dusk when they catch colour and appear detached from the surrounding sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Cloud itself can also be mistaken for structure. The Met Office explains that lenticular clouds are a visible sign of mountain waves in the air, and such waves can exist even where no cloud is visible. Lenticular clouds are not the obvious answer to every Ross-shire light report, but they matter in Highland interpretation because smooth, lens-like clouds forming near hills and mountains can resemble saucers, especially at dawn or dusk when they catch colour and appear detached from the surrounding sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-Recent Scottish and UK coverage of lenticular clouds has repeatedly used the “UFO-shaped cloud” comparison because the visual resemblance is real, not because the phenomenon is mysterious. In Ross-shire terms, the important point is not to force lenticular clouds onto the Evanton entry, but to recognise that Highland weather can create object-like shapes and disappearance effects that short UFO report summaries cannot easily untangle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colinhendersonphoto.com/blog/lenticular-clouds-mountains-scotland-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colinhendersonphoto.com">[Colin Henderson Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colinhendersonphoto.com</span><span class="citation-popover-title">Colin Henderson Photography Lenticular clouds in Scotland</span><span class="citation-popover-snippet">Colin Henderson Photography Lenticular clouds in Scotland</span></span></span>
+Recent Scottish and UK coverage of lenticular clouds has repeatedly used the “UFO-shaped cloud” comparison because the visual resemblance is real, not because the phenomenon is mysterious. In Ross-shire terms, the important point is not to force lenticular clouds onto the Evanton entry, but to recognise that Highland weather can create object-like shapes and disappearance effects that short UFO report summaries cannot easily untangle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colinhendersonphoto.com/blog/lenticular-clouds-mountains-scotland-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colinhendersonphoto.com">[Colin Henderson Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colinhendersonphoto.com</span><span class="citation-popover-title">Colin Henderson Photography Lenticular clouds in Scotland</span><span class="citation-popover-snippet">Colin Henderson Photography Lenticular clouds in Scotland</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 427.6K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ Recent Scottish and UK coverage of lenticular clouds has repeatedly used the “
 
 The strongest sceptical reading of Ross-shire’s sky reports is not a blanket dismissal. It is a sequence of ordinary checks applied before more exotic ideas are considered. The MoD lists give enough to raise those checks, but often not enough to finish them.
 
-A practical reading starts with the report’s own clues. If the object was fixed, repeated and compared with Venus, as at Ardross, a planet or bright star should be tested first. If it was orange, brief and tail-like, as at Tore, a meteor, fireball or re-entry-type event becomes more plausible. If the description is purple and green near dawn in the Black Isle, aurora, cloud and low-light colour effects matter. If the object appears and disappears through cloud, as at Evanton, weather and line of sight become central. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
+A practical reading starts with the report’s own clues. If the object was fixed, repeated and compared with Venus, as at Ardross, a planet or bright star should be tested first. If it was orange, brief and tail-like, as at Tore, a meteor, fireball or re-entry-type event becomes more plausible. If the description is purple and green near dawn in the Black Isle, aurora, cloud and low-light colour effects matter. If the object appears and disappears through cloud, as at Evanton, weather and line of sight become central.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
 
 The missing questions are the ones that would change the assessment most:
 
@@ -343,9 +343,9 @@ These questions do not make a report less interesting. They make it more useful.
 <img src="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-3-dark.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ross-shire_c9caea_highland_sky_misiden_695439-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ordinary Explanations Matter Here
 
-Ross-shire’s UFO history is thin but instructive. The strongest local material is not a dramatic case file with photographs and radar tracks; it is a set of brief official entries in which the sky itself supplies many of the best clues. That makes the county a useful case study in the difference between “unidentified in the report” and “unexplainable in principle”. GOV.UK’s UFO report lists record sightings, but the brief-list format does not turn each entry into an investigated mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+Ross-shire’s UFO history is thin but instructive. The strongest local material is not a dramatic case file with photographs and radar tracks; it is a set of brief official entries in which the sky itself supplies many of the best clues. That makes the county a useful case study in the difference between “unidentified in the report” and “unexplainable in principle”. GOV.UK’s UFO report lists record sightings, but the brief-list format does not turn each entry into an investigated mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The closure of the UK UFO desk also matters for interpretation. The National Archives’ release material says the MoD UFO desk closed in November 2009, and contemporary reporting on the released files noted the official view that the work served no defence purpose. That does not settle individual sightings, but it does explain why many reports remained as short administrative records rather than full scientific investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The closure of the UK UFO desk also matters for interpretation. The National Archives’ release material says the MoD UFO desk closed in November 2009, and contemporary reporting on the released files noted the official view that the work served no defence purpose. That does not settle individual sightings, but it does explain why many reports remained as short administrative records rather than full scientific investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 For Ross-shire, the balanced conclusion is modest but valuable. The Ardross lights are strong candidates for astronomical or atmospheric misidentification because they were fixed, bright and repeated. The Tore report has meteor-like features because of its orange colour and tail description. The Black Isle report belongs in any discussion of aurora, dawn and colour effects. The Evanton disc shows how cloud can make a light appear structured, intermittent and elusive. None of those explanations should be presented as proven unless the missing details are found. But together they show why Highland skies can turn ordinary objects into convincing UFO reports.
 
@@ -356,194 +356,194 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Highland Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Highland Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps identify planets, meteors and sky phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify planets, meteors and sky phenomena often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Balances unexplained reports against ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances unexplained reports against ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Explains many bright sky objects that can confuse witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains many bright sky objects that can confuse witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-clues-e9db73-why-highland-skies-can-fool-witnesses-ross-shire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,222 +749,222 @@ The ordinary explanations are not a side note to Ross-shire’s UFO record. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 1997January 7, 2008 — It was red in the centre and had up to fifteen lights. There was constant movement. Page 2. UFO Reports 199...</p></details>
    Published: January 7, 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 19994 Jan 1999 — Ardross Ross Shire One object, four times larger than Venus. Was stationary for quite a while. 40-50 ft wide. Cir...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 19994 Jan 1999 — Ardross Ross Shire One object, four times larger than Venus. Was stationary for quite a while. 40-50 ft wide. Cir...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 20001 Jan 2000 — 03-Jan-00. 20:45 Evanton. Ross-Shire. A gold disc was seen. It flew... Sort of looked bright considering the col...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 20001 Jan 2000 — 03-Jan-00. 20:45 Evanton. Ross-Shire. A gold disc was seen. It flew... Sort of looked bright considering the col...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 20076 Jul 2007 — One object, orb shaped and larger than a star. Was purple and green in colour, and had bubbles, flames and solar...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 20076 Jul 2007 — One object, orb shaped and larger than a star. Was purple and green in colour, and had bubbles, flames and solar...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: what are the ufo clouds seen hanging over uk skies 13291303  
-   Link: <a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
+   Link:<a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metoffice.gov.uk  
    Title: what causes the northern lights  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-causes-the-northern-lights</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
    Title: ufo files  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+   Link:<a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: yellow green fireball united kingdom 2021  
-   Link: <a href="https://www.space.com/yellow-green-fireball-united-kingdom-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/yellow-green-fireball-united-kingdom-2021</a>  
+   Link:<a href="https://www.space.com/yellow-green-fireball-united-kingdom-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/yellow-green-fireball-united-kingdom-2021</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scotlandspeople.gov.uk  
    Title: ross and cromarty county  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/ross-and-cromarty-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/ross-and-cromarty-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/ross-and-cromarty-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/ross-and-cromarty-county</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
    Title: Ross shire  
-   Link: <a href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ross-shire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ross-shire</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nats-uk.ead-it.com  
-   Link: <a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/aip-supplements/EG_Circ_2026_P_041_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/aip-supplements/EG_Circ_2026_P_041_en.pdf</a>  
+   Link:<a href="https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/aip-supplements/EG_Circ_2026_P_041_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/aip-supplements/EG_Circ_2026_P_041_en.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: colinhendersonphoto.com  
    Title: Colin Henderson Photography Lenticular clouds in Scotland  
-   Link: <a href="https://www.colinhendersonphoto.com/blog/lenticular-clouds-mountains-scotland-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.colinhendersonphoto.com/blog/lenticular-clouds-mountains-scotland-uk</a>  
+   Link:<a href="https://www.colinhendersonphoto.com/blog/lenticular-clouds-mountains-scotland-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.colinhendersonphoto.com/blog/lenticular-clouds-mountains-scotland-uk</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Ross shire  
-   Link: <a href="https://en.wikipedia.org/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross-shire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ross-shire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross-shire</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Ross and Cromarty  
-   Link: <a href="https://en.wikipedia.org/wiki/Ross_and_Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross_and_Cromarty</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ross_and_Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ross_and_Cromarty</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dailyrecord.co.uk  
    Title: met office ufo shaped clouds 32355770  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cromartyshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cromartyshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cromartyshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cromartyshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Ross-and-Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ross-and-Cromarty</a>  
+   Link:<a href="https://www.britannica.com/place/Ross-and-Cromarty" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ross-and-Cromarty</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: genuki.org.uk  
    Title: Ross And Cromarty  
-   Link: <a href="https://www.genuki.org.uk/big/sct/ShennanBoundaries/RossAndCromarty" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/ShennanBoundaries/RossAndCromarty</a>  
+   Link:<a href="https://www.genuki.org.uk/big/sct/ShennanBoundaries/RossAndCromarty" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/sct/ShennanBoundaries/RossAndCromarty</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/solar-system-through-your-own-telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/solar-system-through-your-own-telescope</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/solar-system-through-your-own-telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/solar-system-through-your-own-telescope</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: mirror.co.uk  
    Title: met office reveals incredible image 6618474.amp  
-   Link: <a href="https://www.mirror.co.uk/news/technology-science/science/met-office-reveals-incredible-image-6618474.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/technology-science/science/met-office-reveals-incredible-image-6618474.amp</a>  
+   Link:<a href="https://www.mirror.co.uk/news/technology-science/science/met-office-reveals-incredible-image-6618474.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/technology-science/science/met-office-reveals-incredible-image-6618474.amp</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tICC8ltH8G0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tICC8ltH8G0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=tICC8ltH8G0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tICC8ltH8G0</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: rmets.org  
    Title: northern lights  
-   Link: <a href="https://www.rmets.org/metmatters/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/northern-lights</a>  
+   Link:<a href="https://www.rmets.org/metmatters/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/northern-lights</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: How Do Optical Illusions Explain UFO Sightings?  
-   Link: <a href="http://www.youtube.com/watch?v=BvopxC8VdWc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=BvopxC8VdWc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings explained as astronomical or atmospheric phenomena Exploring UFO Sightings and Astronomical Anomalies Unveiling UFOs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=BvopxC8VdWc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=BvopxC8VdWc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings explained as astronomical or atmospheric phenomena Exploring UFO Sightings and Astronomical Anomalies Unveiling UFOs...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ovb2uMYstwY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ovb2uMYstwY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Why This UFO Sighting Was Different | Monstrum  
-   Link: <a href="http://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/content/aurora-tutorial</a>  
+   Link:<a href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/content/aurora-tutorial</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: UFO sightings explained | Robin Hanson and Lex Fridman  
-   Link: <a href="http://www.youtube.com/watch?v=aUvGsSCGWdw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aUvGsSCGWdw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion Parallax of a Balloon or a REAL UFO sighting?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=aUvGsSCGWdw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aUvGsSCGWdw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motion Parallax of a Balloon or a REAL UFO sighting?...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Motion Parallax of a Balloon or a REAL UFO sighting?  
-   Link: <a href="http://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aHRhxvpG-Z0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aHRhxvpG-Z0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383034675_Unidentified_Anomalous_Phenomena_Extraterrestrial_Life_Plasmoids_Shape_Shifters_Replicons_Thunderstorms_Lightning_Hallucinations_Aircraft_Disasters_Ocean_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383034675_Unidentified_Anomalous_Phenomena_Extraterrestrial_Life_Plasmoids_Shape_Shifters_Replicons_Thunderstorms_Lightning_Hallucinations_Aircraft_Disasters_Ocean_Sightings</a>  
+   Link:<a href="https://www.researchgate.net/publication/383034675_Unidentified_Anomalous_Phenomena_Extraterrestrial_Life_Plasmoids_Shape_Shifters_Replicons_Thunderstorms_Lightning_Hallucinations_Aircraft_Disasters_Ocean_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383034675_Unidentified_Anomalous_Phenomena_Extraterrestrial_Life_Plasmoids_Shape_Shifters_Replicons_Thunderstorms_Lightning_Hallucinations_Aircraft_Disasters_Ocean_Sightings</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: rossandcromartyheritage.org  
-   Link: <a href="https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Nigg-A-Changing-Parish.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Nigg-A-Changing-Parish.pdf</a>  
+   Link:<a href="https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Nigg-A-Changing-Parish.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossandcromartyheritage.org/wp-content/uploads/2021/01/Nigg-A-Changing-Parish.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
+   Link:<a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  

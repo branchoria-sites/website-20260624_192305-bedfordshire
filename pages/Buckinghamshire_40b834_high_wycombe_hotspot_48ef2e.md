@@ -253,7 +253,7 @@ image: /assets/images/Buckinghamshire_40b834_high_wycombe_hotspot_48ef2e-overvie
 
 ## Introduction
 
-High Wycombe became a small but persistent [Buckinghamshire]({{ 'what-really-happened-in-buckinghamshire/' | relative_url }}) UFO hotspot for three connected reasons: repeated light reports in Ministry of Defence logs, the nearby presence of RAF High Wycombe at Walters Ash, and a famous Victorian-style “encounter” story that is now best treated as a literary hoax rather than evidence. The result is a place where ordinary sky reports can quickly acquire a military or conspiratorial edge. The stronger evidence shows not a hidden landing case, but a pattern of brief, thinly recorded sightings: black dots, reflective domes, fast bright objects, orange or red lights and Christmas-time formations. The doubts are just as important as the claims. RAF High Wycombe is an administrative and command station, not a flying base, while the wider Chilterns and Thames Valley sky is busy with aircraft, holding patterns, drones, lantern-like lights and ordinary astronomical misidentifications. Royal Air Force+3GOV.UK Assets+3GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+High Wycombe became a small but persistent [Buckinghamshire]({{ 'what-really-happened-in-buckinghamshire/' | relative_url }}) UFO hotspot for three connected reasons: repeated light reports in Ministry of Defence logs, the nearby presence of RAF High Wycombe at Walters Ash, and a famous Victorian-style “encounter” story that is now best treated as a literary hoax rather than evidence. The result is a place where ordinary sky reports can quickly acquire a military or conspiratorial edge. The stronger evidence shows not a hidden landing case, but a pattern of brief, thinly recorded sightings: black dots, reflective domes, fast bright objects, orange or red lights and Christmas-time formations. The doubts are just as important as the claims. RAF High Wycombe is an administrative and command station, not a flying base, while the wider Chilterns and Thames Valley sky is busy with aircraft, holding patterns, drones, lantern-like lights and ordinary astronomical misidentifications. Royal Air Force+3GOV.UK Assets+3GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Buckinghamshire_40b834_high_wycombe_hotspot_48ef2e-overview.webp" | relative_url }}" alt="Overview image for High Wycombe" loading="eager" decoding="sync" fetchpriority="high">
@@ -261,11 +261,11 @@ High Wycombe became a small but persistent [Buckinghamshire]({{ 'what-really-hap
 
 High Wycombe’s UFO history is not based on one spectacular, well-investigated incident. It is more of a cluster: scattered reports in official lists, local retellings, and the extra intrigue created by RAF geography. That makes it different from a landmark case where one can follow a detailed witness file, radar track or police record. Here, the useful question is whether repeated place-name appearances amount to a meaningful pattern, or whether they are what one would expect from a large town under busy southern English skies.
 
-The MoD’s published UFO report lists give High Wycombe several entries. In August 2000, a report described “one black dot” in the sky which looked bright despite its colour. In October 2000, another High Wycombe report described a “chrome silver dome shaped object” estimated at 30 to 40 feet across, reflective, with small windows and no wings. These are more distinctive than the many generic “lights in the sky” entries, but the public list gives no witness interview, photographs, radar data, duration, direction, weather check or final explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The MoD’s published UFO report lists give High Wycombe several entries. In August 2000, a report described “one black dot” in the sky which looked bright despite its colour. In October 2000, another High Wycombe report described a “chrome silver dome shaped object” estimated at 30 to 40 feet across, reflective, with small windows and no wings. These are more distinctive than the many generic “lights in the sky” entries, but the public list gives no witness interview, photographs, radar data, duration, direction, weather check or final explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The later cluster is more light-based. On 14 September 2008, High Wycombe appears in the MoD list with the minimal description “A UFO”. On 24 December 2008, a more detailed entry records fifteen red, flickering lights about half a mile away, moving horizontally, with three forming a triangle. In January 2009, two High Wycombe entries appear near the beginning of the year: one about something seen outside a person’s house over several nights, and another about a bright object moving very fast overhead, described by the witness as “not a plane”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The later cluster is more light-based. On 14 September 2008, High Wycombe appears in the MoD list with the minimal description “A UFO”. On 24 December 2008, a more detailed entry records fifteen red, flickering lights about half a mile away, moving horizontally, with three forming a triangle. In January 2009, two High Wycombe entries appear near the beginning of the year: one about something seen outside a person’s house over several nights, and another about a bright object moving very fast overhead, described by the witness as “not a plane”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-That mixture is typical of county-level UFO evidence. The entries matter because they are official records of reports received; they do not, by themselves, prove that anything extraordinary was present. GOV.UK describes the published 1997–2009 material as lists showing dates, times, locations and brief descriptions, while The National Archives notes that many MoD UFO records concern shapes, lights and flashes which can often be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+That mixture is typical of county-level UFO evidence. The entries matter because they are official records of reports received; they do not, by themselves, prove that anything extraordinary was present. GOV.UK describes the published 1997–2009 material as lists showing dates, times, locations and brief descriptions, while The National Archives notes that many MoD UFO records concern shapes, lights and flashes which can often be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 
 <img src="{{ "/assets/images/Buckinghamshire_40b834_high_wycombe_hotspot_48ef2e-Illustration-1-dark.svg" | relative_url }}" alt="High Wycombe illustration 1" data-theme-src-dark="{{ "/assets/images/Buckinghamshire_40b834_high_wycombe_hotspot_48ef2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Buckinghamshire_40b834_high_wycombe_hotspot_48ef2e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -273,26 +273,26 @@ That mixture is typical of county-level UFO evidence. The entries matter because
 
 The High Wycombe entries are worth reading in sequence because they show how a “hotspot” can be built from reports of very different quality. Some are too short to analyse. Others contain enough detail to suggest ordinary explanations, but not enough to prove them.
 
-The 2000 reports are the most visually varied. A black dot in daylight or early evening could be many things: a bird at height, a balloon, a distant aircraft, debris, or a reflective object seen at an awkward angle. The October “chrome silver dome” is harder to dismiss from the description alone, but its evidential weakness is the same: the public log gives only a summary. Without the original witness form, viewing direction, duration, sky conditions, nearby aircraft activity or any second independent report, it remains a claim of an unusual object rather than a strong case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2000 reports are the most visually varied. A black dot in daylight or early evening could be many things: a bird at height, a balloon, a distant aircraft, debris, or a reflective object seen at an awkward angle. The October “chrome silver dome” is harder to dismiss from the description alone, but its evidential weakness is the same: the public log gives only a summary. Without the original witness form, viewing direction, duration, sky conditions, nearby aircraft activity or any second independent report, it remains a claim of an unusual object rather than a strong case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The 2008–09 entries fit a wider national surge in reports of orange and red lights. The Christmas Eve 2008 High Wycombe case is especially important locally because it sounds dramatic: fifteen red flickering lights, one triangular sub-formation, and horizontal movement. But it sits in the same MoD page as other late-December reports of multiple orange or bright lights in different parts of the UK. That does not debunk the High Wycombe sighting, but it places it in a period when group light reports were common and often compatible with lanterns, festive releases, aircraft seen in sequence, or misread perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 2008–09 entries fit a wider national surge in reports of orange and red lights. The Christmas Eve 2008 High Wycombe case is especially important locally because it sounds dramatic: fifteen red flickering lights, one triangular sub-formation, and horizontal movement. But it sits in the same MoD page as other late-December reports of multiple orange or bright lights in different parts of the UK. That does not debunk the High Wycombe sighting, but it places it in a period when group light reports were common and often compatible with lanterns, festive releases, aircraft seen in sequence, or misread perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-The January 2009 High Wycombe entries are also ambiguous. “A bright object travelling very fast overhead” could describe a meteor, satellite flare, aircraft light, drone, or genuinely unidentified object from the witness’s point of view. The entry about a phenomenon seen outside a house “for some nights” points in a different direction: repeated sightings from the same location are often where investigators first check planets, stars, local lighting, reflections, helicopters, aircraft approaches, or fixed lights seen through changing weather. The MoD list does not show such checks being completed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The January 2009 High Wycombe entries are also ambiguous. “A bright object travelling very fast overhead” could describe a meteor, satellite flare, aircraft light, drone, or genuinely unidentified object from the witness’s point of view. The entry about a phenomenon seen outside a house “for some nights” points in a different direction: repeated sightings from the same location are often where investigators first check planets, stars, local lighting, reflections, helicopters, aircraft approaches, or fixed lights seen through changing weather. The MoD list does not show such checks being completed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sh-d3Bghbf4" title="Mysteries Unearthed as the MoD Releases UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer">Mysteries Unearthed as the MoD Releases UFO Files</a></p><p class="youtube-embed-meta">Channel: Sky News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sh-d3Bghbf4">Open on YouTube</a></p></div></div></div>
 
 ## RAF geography and aircraft confusion
 
-RAF High Wycombe is central to the local mythology, but it needs careful handling. The station is at Walters Ash, near High Wycombe, and the RAF describes it as a major administrative support station hosting Headquarters Air Command, several RAF groups, the European Air Group, Joint Ground Based Air Defence, the Joint Force Air Component Commander and UK Space Command. That makes it important in defence terms, but it is not the same as a front-line airfield launching routine fast-jet traffic over the town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+RAF High Wycombe is central to the local mythology, but it needs careful handling. The station is at Walters Ash, near High Wycombe, and the RAF describes it as a major administrative support station hosting Headquarters Air Command, several RAF groups, the European Air Group, Joint Ground Based Air Defence, the Joint Force Air Component Commander and UK Space Command. That makes it important in defence terms, but it is not the same as a front-line airfield launching routine fast-jet traffic over the town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
 This distinction matters because “near an RAF base” can mislead readers. A sighting near RAF High Wycombe is not automatically a sighting near runways, hangars and aircraft taking off. The RAF connection may make witnesses more alert to unusual lights, and it may make later retellings sound more suspicious, but the local station’s role does not by itself supply an exotic explanation.
 
-There is a second twist. In December 2008, the MoD UFO desk moved to RAF High Wycombe, and the remaining files in the final tranche of MoD UFO records originated from RAF Air Command. The National Archives’ highlights guide says the final 25 files covered the late 2007 to November 2009 period and included policy, correspondence, Freedom of Information responses and sighting reports. So High Wycombe is not only a place where sightings were reported; for the final phase of official UK UFO handling, it was also associated with the office processing the paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+There is a second twist. In December 2008, the MoD UFO desk moved to RAF High Wycombe, and the remaining files in the final tranche of MoD UFO records originated from RAF Air Command. The National Archives’ highlights guide says the final 25 files covered the late 2007 to November 2009 period and included policy, correspondence, Freedom of Information responses and sighting reports. So High Wycombe is not only a place where sightings were reported; for the final phase of official UK UFO handling, it was also associated with the office processing the paperwork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That can easily feed “RAF-area doubts”. A local reader may ask whether reports near High Wycombe were treated differently because the UFO desk itself moved there. The public evidence does not show that High Wycombe reports were privileged, suppressed or specially solved. It shows a bureaucratic relocation at the end of a programme that was already being wound down. The National Archives press release on the final files says the desk closed after sightings trebled in its last year, and that ministers were told more than 50 years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+That can easily feed “RAF-area doubts”. A local reader may ask whether reports near High Wycombe were treated differently because the UFO desk itself moved there. The public evidence does not show that High Wycombe reports were privileged, suppressed or specially solved. It shows a bureaucratic relocation at the end of a programme that was already being wound down. The National Archives press release on the final files says the desk closed after sightings trebled in its last year, and that ministers were told more than 50 years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-Aircraft confusion remains one of the most plausible background factors for many High Wycombe-area light reports. The town lies within a busy southern aviation environment, with Heathrow not far to the south-east and a wider London airspace system that can make aircraft appear to queue, hover, brighten, dim or move in unexpected ways. Heathrow explains that arriving aircraft are often held in stacks, circling at different levels until there is space to land, before air traffic control directs them towards final approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heathrow.com">[Heathrow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heathrow.com</span><span class="citation-popover-snippet">Open source on heathrow.com.</span></span></span>
+Aircraft confusion remains one of the most plausible background factors for many High Wycombe-area light reports. The town lies within a busy southern aviation environment, with Heathrow not far to the south-east and a wider London airspace system that can make aircraft appear to queue, hover, brighten, dim or move in unexpected ways. Heathrow explains that arriving aircraft are often held in stacks, circling at different levels until there is space to land, before air traffic control directs them towards final approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heathrow.com">[Heathrow Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heathrow.com</span><span class="citation-popover-snippet">Open source on heathrow.com.</span></span></span>
 
 None of that explains every High Wycombe entry. A daylight silver dome, a fast overhead object and a red flickering formation would each require separate checks. But it does show why the default explanation should not jump from “near RAF High Wycombe” to “military secret” or “alien craft”. In this area, ordinary aircraft can be visible in unusual alignments, and military geography can make an ordinary light feel more meaningful than it is.
 
@@ -302,9 +302,9 @@ None of that explains every High Wycombe entry. A daylight silver dome, a fast o
 
 High Wycombe’s strangest UFO story is not one of the MoD light reports. It is the alleged 1871 encounter of William Robert Loosley, a local undertaker, builder and carpenter. The story was presented in the 1979 book *An Account of a Meeting with Denizens of Another World, 1871*, edited and commented on by science fiction writer David Langford. It used real local and biographical detail to create the feel of a recovered Victorian manuscript.
 
-That is exactly why it matters. Langford later complained that the tale had escaped its intended frame and was being repeated as though it were a real historical account. In his own discussion of the problem, he noted that a 1995 *Bucks Free Press* column had retold the “strange tale of an undertaker”, with the central figure described as William Robert Loosley of High Wycombe. The Science Fiction Encyclopedia treats the work as a spoof Victorian narrative, not as a genuine nineteenth-century UFO document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ansible.uk/writing/ft86.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansible.uk">[ansible.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansible.uk</span><span class="citation-popover-snippet">Open source on ansible.uk.</span></span></span>
+That is exactly why it matters. Langford later complained that the tale had escaped its intended frame and was being repeated as though it were a real historical account. In his own discussion of the problem, he noted that a 1995 *Bucks Free Press* column had retold the “strange tale of an undertaker”, with the central figure described as William Robert Loosley of High Wycombe. The Science Fiction Encyclopedia treats the work as a spoof Victorian narrative, not as a genuine nineteenth-century UFO document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ansible.uk/writing/ft86.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansible.uk">[ansible.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansible.uk</span><span class="citation-popover-snippet">Open source on ansible.uk.</span></span></span>
 
-This is more than a footnote. The Loosley story shows how local UFO folklore can be reshaped by apparently careful detail. Real names, plausible geography, gravestone references, period style and documentary presentation can make a fabricated account feel archival. Paranormal databases and later retellings now generally flag the High Wycombe Loosley “abduction” as fictitious or a hoax, but the fact that it needed debunking at all is a warning for Buckinghamshire UFO research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=4&amp;totalRows_paradata=156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[paranormaldatabase.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">UFOs William Loosley&#x27;s Abduction. Location: High Wycombe (Buckinghamshire</span><span class="citation-popover-snippet">UFOs William Loosley&#x27;s Abduction. Location: High Wycombe (Buckinghamshire</span></span></span>
+This is more than a footnote. The Loosley story shows how local UFO folklore can be reshaped by apparently careful detail. Real names, plausible geography, gravestone references, period style and documentary presentation can make a fabricated account feel archival. Paranormal databases and later retellings now generally flag the High Wycombe Loosley “abduction” as fictitious or a hoax, but the fact that it needed debunking at all is a warning for Buckinghamshire UFO research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=4&amp;totalRows_paradata=156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormaldatabase.com">[paranormaldatabase.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormaldatabase.com</span><span class="citation-popover-title">UFOs William Loosley&#x27;s Abduction. Location: High Wycombe (Buckinghamshire</span><span class="citation-popover-snippet">UFOs William Loosley&#x27;s Abduction. Location: High Wycombe (Buckinghamshire</span></span></span>
 
 The hoax problem also changes how modern sightings should be read. It does not mean every High Wycombe light report is false. It means the local tradition has at least one well-known example of a story becoming stronger in retelling than it was in evidence. For a reader, the practical lesson is to separate three things: official records of reports, local folklore about alleged encounters, and later internet summaries that may blend the two.
 
@@ -317,10 +317,10 @@ The main doubts around High Wycombe are strong, but they are not the same as a b
 
 The strongest sceptical points are straightforward:
 
-* **The RAF label can mislead.** RAF High Wycombe is a major command and administrative station, not evidence that a reported light was launched, tracked or hidden by a nearby flying base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
-* **The MoD logs record reports, not verified mysteries.** Their value is that they preserve date, place and description; their limitation is that most entries do not publish a detailed investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
-* **Multiple red or [orange lights]({{ 'orange-lights-4ce939/' | relative_url }}) are a known weak category.** The 24 December 2008 High Wycombe report sounds striking, but its description overlaps with a national pattern of seasonal group-light reports in the same period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
-* **One famous High Wycombe “historic” case is not historic evidence.** The Loosley encounter belongs in the history of UFO folklore and literary hoaxing, not in a list of reliable Buckinghamshire sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ansible.uk/writing/ft86.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansible.uk">[ansible.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansible.uk</span><span class="citation-popover-snippet">Open source on ansible.uk.</span></span></span>
+* **The RAF label can mislead.** RAF High Wycombe is a major command and administrative station, not evidence that a reported light was launched, tracked or hidden by a nearby flying base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+* **The MoD logs record reports, not verified mysteries.** Their value is that they preserve date, place and description; their limitation is that most entries do not publish a detailed investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+* **Multiple red or [orange lights]({{ 'orange-lights-4ce939/' | relative_url }}) are a known weak category.** The 24 December 2008 High Wycombe report sounds striking, but its description overlaps with a national pattern of seasonal group-light reports in the same period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+* **One famous High Wycombe “historic” case is not historic evidence.** The Loosley encounter belongs in the history of UFO folklore and literary hoaxing, not in a list of reliable Buckinghamshire sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ansible.uk/writing/ft86.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansible.uk">[ansible.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansible.uk</span><span class="citation-popover-snippet">Open source on ansible.uk.</span></span></span>
 
 What remains unresolved is narrower: some witnesses saw things they could not identify, and the public record does not always contain enough information to identify them afterwards. That is a real uncertainty, but it is a limited one. “Unidentified in the available summary” is not the same as “unexplainable”, and it is certainly not the same as proof of extraterrestrial activity.
 
@@ -339,194 +339,194 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why High Wycombe Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why High Wycombe Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the page&#x27;s focus on official reports, military connections, and evaluating sighting evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page&#x27;s focus on official reports, military connections, and evaluating sighting evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how recurring local sighting clusters and misidentifications are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how recurring local sighting clusters and misidentifications are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Provides context for how witness testimony and extraordinary claims are interpreted within UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how witness testimony and extraordinary claims are interpreted within UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects directly to the article&#x27;s discussion of literary hoaxes, folklore, and how unusual stories become UFO legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to the article&#x27;s discussion of literary hoaxes, folklore, and how unusual stories become UFO legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="high-wycombe-why-high-wycombe-became-a-ufo-hotspot-buckinghamshire-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-high-wycombe-became-a-ufo-hotspot-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,195 +732,195 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
    Title: contact us  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/contact-us/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/contact-us/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: heathrow.com  
-   Link: <a href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths</a>  
+   Link:<a href="https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/company/local-community/noise/operations/arrival-flight-paths</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ansible.uk  
-   Link: <a href="https://ansible.uk/writing/ft86.html" target="_blank" rel="noopener noreferrer nofollow">https://ansible.uk/writing/ft86.html</a>  
+   Link:<a href="https://ansible.uk/writing/ft86.html" target="_blank" rel="noopener noreferrer nofollow">https://ansible.uk/writing/ft86.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: paranormaldatabase.com  
    Title: UFOs William Loosley's Abduction. Location: High Wycombe (Buckinghamshire)  
-   Link: <a href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=4&amp;totalRows_paradata=156" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=4&amp;totalRows_paradata=156</a>  
+   Link:<a href="https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=4&amp;totalRows_paradata=156" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/reports/ufodata.php?pageNum_paradata=4&amp;totalRows_paradata=156</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 17 07 20 DL IR Fmr Molins Sports Club 3149747  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a824517ed915d74e3402a1d/17-07-20_DL_IR_Fmr_Molins_Sports_Club_3149747.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a824517ed915d74e3402a1d/17-07-20_DL_IR_Fmr_Molins_Sports_Club_3149747.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a824517ed915d74e3402a1d/17-07-20_DL_IR_Fmr_Molins_Sports_Club_3149747.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a824517ed915d74e3402a1d/17-07-20_DL_IR_Fmr_Molins_Sports_Club_3149747.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7dedf3ed915d74e6222fce/14-operational-efficiency--airspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7dedf3ed915d74e6222fce/14-operational-efficiency--airspace.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7dedf3ed915d74e6222fce/14-operational-efficiency--airspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7dedf3ed915d74e6222fce/14-operational-efficiency--airspace.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: paranormaldatabase.com  
-   Link: <a href="https://www.paranormaldatabase.com/buckinghamshire/buckdata.php?pageNum_paradata=3" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/buckinghamshire/buckdata.php?pageNum_paradata=3</a>  
+   Link:<a href="https://www.paranormaldatabase.com/buckinghamshire/buckdata.php?pageNum_paradata=3" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/buckinghamshire/buckdata.php?pageNum_paradata=3</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: buckinghamshire.gov.uk  
-   Link: <a href="https://www.buckinghamshire.gov.uk/parking-roads-and-transport/road-projects/airport-expansion-schemes/heathrow-expansion/issues/" target="_blank" rel="noopener noreferrer nofollow">https://www.buckinghamshire.gov.uk/parking-roads-and-transport/road-projects/airport-expansion-schemes/heathrow-expansion/issues/</a>  
+   Link:<a href="https://www.buckinghamshire.gov.uk/parking-roads-and-transport/road-projects/airport-expansion-schemes/heathrow-expansion/issues/" target="_blank" rel="noopener noreferrer nofollow">https://www.buckinghamshire.gov.uk/parking-roads-and-transport/road-projects/airport-expansion-schemes/heathrow-expansion/issues/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/facilities/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/facilities/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: devon-cornwall.police.uk  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2026-disclosures/ufo-sightings/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: heathrow.com  
-   Link: <a href="https://www.heathrow.com/content/dam/heathrow/web/common/documents/company/about/consultation/airport%20expansion%20consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/content/dam/heathrow/web/common/documents/company/about/consultation/airport%20expansion%20consultation.pdf</a>  
+   Link:<a href="https://www.heathrow.com/content/dam/heathrow/web/common/documents/company/about/consultation/airport%20expansion%20consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.heathrow.com/content/dam/heathrow/web/common/documents/company/about/consultation/airport%20expansion%20consultation.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/cy/uksi?page=19&amp;results-count=500&amp;sort=type" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/cy/uksi?page=19&amp;results-count=500&amp;sort=type</a>  
+   Link:<a href="https://www.legislation.gov.uk/cy/uksi?page=19&amp;results-count=500&amp;sort=type" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/cy/uksi?page=19&amp;results-count=500&amp;sort=type</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: space.com  
    Title: uk ufo reports soon released  
-   Link: <a href="https://www.space.com/uk-ufo-reports-soon-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/uk-ufo-reports-soon-released.html</a>  
+   Link:<a href="https://www.space.com/uk-ufo-reports-soon-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/uk-ufo-reports-soon-released.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: RAF High Wycombe  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_High_Wycombe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_High_Wycombe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_High_Wycombe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_High_Wycombe</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Shocking moment 'UFO' spotted hovering near High Wycombe RAF base  
-   Link: <a href="https://www.youtube.com/watch?v=Frk1HzYRHJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Frk1HzYRHJA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former UFO investigator Nick Pope discusses new declassified MoD files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Frk1HzYRHJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Frk1HzYRHJA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former UFO investigator Nick Pope discusses new declassified MoD files...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Former UFO investigator Nick Pope discusses new declassified [Mo D files](&#123;&#123; 'mo-d-files/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=b1UrGQ8QOJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b1UrGQ8QOJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b1UrGQ8QOJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b1UrGQ8QOJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Mysteries Unearthed as the Mo D Releases UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sh-d3Bghbf4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope&#x27;s Global UFO Investigation | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sh-d3Bghbf4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope&#x27;s Global UFO Investigation | Ancient Aliens...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: globalmilitary.net  
-   Link: <a href="https://www.globalmilitary.net/airbases/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalmilitary.net/airbases/raf-high-wycombe/</a>  
+   Link:<a href="https://www.globalmilitary.net/airbases/raf-high-wycombe/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalmilitary.net/airbases/raf-high-wycombe/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theosofie.nl  
-   Link: <a href="https://www.theosofie.nl/bibliotheek/collectie/randgebieden/ran-8-3-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.theosofie.nl/bibliotheek/collectie/randgebieden/ran-8-3-ufo/</a>  
+   Link:<a href="https://www.theosofie.nl/bibliotheek/collectie/randgebieden/ran-8-3-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.theosofie.nl/bibliotheek/collectie/randgebieden/ran-8-3-ufo/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWg7cDBDPzC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/</a>  
+   Link:<a href="https://www.instagram.com/reel/DWg7cDBDPzC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7cDBDPzC/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/radiomisterioso/posts/6066235500134221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/radiomisterioso/posts/6066235500134221/</a>  
+   Link:<a href="https://www.facebook.com/groups/radiomisterioso/posts/6066235500134221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/radiomisterioso/posts/6066235500134221/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: hacan.org.uk  
-   Link: <a href="https://hacan.org.uk/?page_id=78732" target="_blank" rel="noopener noreferrer nofollow">https://hacan.org.uk/?page_id=78732</a>  
+   Link:<a href="https://hacan.org.uk/?page_id=78732" target="_blank" rel="noopener noreferrer nofollow">https://hacan.org.uk/?page_id=78732</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  

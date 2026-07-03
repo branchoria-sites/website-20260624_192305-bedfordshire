@@ -254,19 +254,19 @@ image: /assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-overview-soci
 
 ## Introduction
 
-A Lochinver fireball report is useful because it shows how a sincere “UFO” account can begin with a real, startling object and still be distorted by distance, scale and expectation. The key [Sutherland]({{ 'what-really-happened-in-sutherlands/' | relative_url }}) example is the 1981 Glencanisp account reported in the Aberdeen Press and Journal: hill-walker Beryl Petty, speaking from her holiday home in Lochinver, described a large bright object with a trail apparently passing over the couple and seeming to come down beyond an 800-foot hill. The strongest reading is not that a craft crashed in west Sutherland, but that the witness saw something bright and fast, then understandably judged it as nearby when it may have been much farther away. That makes the case valuable within Sutherland’s UFO history: it is less a dramatic mystery than a clean lesson in how remote coastal skies can turn a fireball, meteor, debris event or distant aerial light into a report of a falling object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+A Lochinver fireball report is useful because it shows how a sincere “UFO” account can begin with a real, startling object and still be distorted by distance, scale and expectation. The key [Sutherland]({{ 'what-really-happened-in-sutherlands/' | relative_url }}) example is the 1981 Glencanisp account reported in the Aberdeen Press and Journal: hill-walker Beryl Petty, speaking from her holiday home in Lochinver, described a large bright object with a trail apparently passing over the couple and seeming to come down beyond an 800-foot hill. The strongest reading is not that a craft crashed in west Sutherland, but that the witness saw something bright and fast, then understandably judged it as nearby when it may have been much farther away. That makes the case valuable within Sutherland’s UFO history: it is less a dramatic mystery than a clean lesson in how remote coastal skies can turn a fireball, meteor, debris event or distant aerial light into a report of a falling object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-overview.webp" | relative_url }}" alt="Overview image for Lochinver Lights" loading="eager" decoding="sync" fetchpriority="high">
 ## The Lochinver holidaymaker account
 
-The account usually associated with Lochinver centres on Glencanisp, west Sutherland, close to the Assynt landscape inland from Lochinver. According to the British Newspaper Archive’s summary of the original Aberdeen Press and Journal report from 30 June 1981, Beryl Petty, a hill-walker from Bingley in Yorkshire, was walking with her husband Len when she saw what was described as a large silver disc leaving a golden trail. The report says the object appeared to speed above them and “land” beyond an 800-foot hill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The account usually associated with Lochinver centres on Glencanisp, west Sutherland, close to the Assynt landscape inland from Lochinver. According to the British Newspaper Archive’s summary of the original Aberdeen Press and Journal report from 30 June 1981, Beryl Petty, a hill-walker from Bingley in Yorkshire, was walking with her husband Len when she saw what was described as a large silver disc leaving a golden trail. The report says the object appeared to speed above them and “land” beyond an 800-foot hill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-The details matter because they show both why the story was memorable and why it is hard to assess. Beryl expected an explosion or signs of burning, but heard nothing and found no smell or visible aftermath. Her husband, who did not see the object itself, reportedly suggested that without a reliable comparison it could have been much farther away than she thought. That remark is one of the most important pieces of the account: it moves the case away from a simple “object landed nearby” claim and towards a more cautious interpretation based on visual misjudgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The details matter because they show both why the story was memorable and why it is hard to assess. Beryl expected an explosion or signs of burning, but heard nothing and found no smell or visible aftermath. Her husband, who did not see the object itself, reportedly suggested that without a reliable comparison it could have been much farther away than she thought. That remark is one of the most important pieces of the account: it moves the case away from a simple “object landed nearby” claim and towards a more cautious interpretation based on visual misjudgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-The witness was not presented as frivolous. The newspaper summary notes that Beryl had served in the Women’s Auxiliary Air Force during the Second World War and had worked at the Air Ministry’s meteorological offices, which makes her more interesting than a casual tourist inventing a story. But witness credibility and object identification are different questions. A competent observer can still be deceived by an unfamiliar, brief, high-contrast event, especially when the object crosses a bare Highland skyline with no obvious scale markers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The witness was not presented as frivolous. The newspaper summary notes that Beryl had served in the Women’s Auxiliary Air Force during the Second World War and had worked at the Air Ministry’s meteorological offices, which makes her more interesting than a casual tourist inventing a story. But witness credibility and object identification are different questions. A competent observer can still be deceived by an unfamiliar, brief, high-contrast event, especially when the object crosses a bare Highland skyline with no obvious scale markers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-The local checks reported at the time were limited but relevant. A spokesman at Benbecula, associated with the Army guided missile range, reportedly said there had been no firings after the previous Friday, while Stornoway coastguards had no incident or unusual sighting reported over the weekend. Those checks weakened obvious explanations involving a local military firing or a reported crash response, but they did not prove that the object was extraordinary. They simply left the account unexplained in the narrow terms available to the newspaper. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The local checks reported at the time were limited but relevant. A spokesman at Benbecula, associated with the Army guided missile range, reportedly said there had been no firings after the previous Friday, while Stornoway coastguards had no incident or unusual sighting reported over the weekend. Those checks weakened obvious explanations involving a local military firing or a reported crash response, but they did not prove that the object was extraordinary. They simply left the account unexplained in the narrow terms available to the newspaper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-Illustration-1-dark.svg" | relative_url }}" alt="Lochinver Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -274,24 +274,24 @@ The local checks reported at the time were limited but relevant. A spokesman at 
 
 The Glencanisp account is a classic example of a “near fall” impression: a bright object seems to pass low, descend behind a hill and land close by. In practice, a meteor or re-entering object can be tens or hundreds of kilometres away while appearing to drop into the next valley. The human eye is poor at judging the distance of an isolated light in the sky because there is often no known object beside it. Over the Assynt hills, a witness may have silhouettes, ridgelines and sea horizons, but not the normal urban cues that help estimate height and speed.
 
-This is why the absence of a crash is so important. If the object had genuinely struck the ground nearby, one might expect a noise, smoke, fire, impact signs, emergency calls or later finds. Beryl’s own account included the striking fact that she expected an explosion but heard none. Modern fireball guidance is helpful here: the American Meteor Society explains that any sonic boom from a large fireball is delayed because sound travels far more slowly than light, often arriving 1.5 to 4 minutes after the visual event. No immediate explosion, therefore, does not rule out a meteor; but no delayed sound, no local debris and no follow-up incident make a nearby crash much less likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+This is why the absence of a crash is so important. If the object had genuinely struck the ground nearby, one might expect a noise, smoke, fire, impact signs, emergency calls or later finds. Beryl’s own account included the striking fact that she expected an explosion but heard none. Modern fireball guidance is helpful here: the American Meteor Society explains that any sonic boom from a large fireball is delayed because sound travels far more slowly than light, often arriving 1.5 to 4 minutes after the visual event. No immediate explosion, therefore, does not rule out a meteor; but no delayed sound, no local debris and no follow-up incident make a nearby crash much less likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
-A bright fireball can also look artificially large. The Natural History Museum notes that fireballs can produce a burst of light strong enough to overwhelm a camera image, while the European Space Agency describes fireballs and bright meteors as small near-Earth objects, often centimetres to metres across, that produce long bright trails as they disintegrate in the atmosphere. In other words, a small body at high altitude can generate a visual event that feels enormous to a ground observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">when stargazing and science collide</span><span class="citation-popover-snippet">when stargazing and science collide</span></span></span>
+A bright fireball can also look artificially large. The Natural History Museum notes that fireballs can produce a burst of light strong enough to overwhelm a camera image, while the European Space Agency describes fireballs and bright meteors as small near-Earth objects, often centimetres to metres across, that produce long bright trails as they disintegrate in the atmosphere. In other words, a small body at high altitude can generate a visual event that feels enormous to a ground observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">when stargazing and science collide</span><span class="citation-popover-snippet">when stargazing and science collide</span></span></span>
 
-For Lochinver, the landscape intensifies the effect. Lochinver sits on Sutherland’s west coast in Assynt, a region of sea lochs, isolated hills and dramatic rocky scenery. NatureScot’s description of the Assynt-Coigach National Scenic Area emphasises lone mountains, rocky topography, settlements within a wider mountain and moorland landscape, a dramatic coastline and many lochs and lochans. Those qualities make the area spectacular for watching the sky, but they also create strong visual traps: an object vanishing behind Suilven, Canisp or a nearby ridge can look as though it has come down just beyond the hill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.scot/sites/default/files/national-scenic-area/9119/nsa-special-qualities.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.scot">[NatureScot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.scot</span><span class="citation-popover-snippet">Open source on nature.scot.</span></span></span>
+For Lochinver, the landscape intensifies the effect. Lochinver sits on Sutherland’s west coast in Assynt, a region of sea lochs, isolated hills and dramatic rocky scenery. NatureScot’s description of the Assynt-Coigach National Scenic Area emphasises lone mountains, rocky topography, settlements within a wider mountain and moorland landscape, a dramatic coastline and many lochs and lochans. Those qualities make the area spectacular for watching the sky, but they also create strong visual traps: an object vanishing behind Suilven, Canisp or a nearby ridge can look as though it has come down just beyond the hill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.scot/sites/default/files/national-scenic-area/9119/nsa-special-qualities.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.scot">[NatureScot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.scot</span><span class="citation-popover-snippet">Open source on nature.scot.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h7RBaD8PjGs" title="Not Aliens: The Truth Behind The Mysterious Fireball In Our Skies | 10 News+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h7RBaD8PjGs" target="_blank" rel="noopener noreferrer">Not Aliens: The Truth Behind The Mysterious Fireball In Our Skies | 10 News+</a></p><p class="youtube-embed-meta">Channel: 10 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h7RBaD8PjGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h7RBaD8PjGs">Open on YouTube</a></p></div></div></div>
 
 ## Meteors, debris and coastal night skies
 
-The most plausible family of explanations for a Lochinver-style falling-object report is not one single named object, but a set of mechanisms: a bright meteor, a fragmenting fireball, space debris re-entry, or, less likely in this case, a distant aircraft or flare. A fireball is simply a meteor brighter than the usual “shooting star”; the American Meteor Society notes that even relatively small objects can be dazzling because they enter the atmosphere at extreme speeds. The International Meteor Organization also asks witnesses to record colour, trains and delayed sounds because those details can help distinguish types of fireball event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span><span class="citation-popover-snippet">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span></span></span>
+The most plausible family of explanations for a Lochinver-style falling-object report is not one single named object, but a set of mechanisms: a bright meteor, a fragmenting fireball, space debris re-entry, or, less likely in this case, a distant aircraft or flare. A fireball is simply a meteor brighter than the usual “shooting star”; the American Meteor Society notes that even relatively small objects can be dazzling because they enter the atmosphere at extreme speeds. The International Meteor Organization also asks witnesses to record colour, trains and delayed sounds because those details can help distinguish types of fireball event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span><span class="citation-popover-snippet">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span></span></span>
 
-The “golden trail” in the 1981 description is especially compatible with a meteor-like impression. Fireballs can leave persistent trains, and colours may be reported differently by different witnesses depending on brightness, atmospheric conditions and memory. A silver or white head with a yellow, orange or golden trail is not unusual in public descriptions of bright meteors. What makes the Lochinver account interesting is the interpretation added afterwards: the object did not merely flash through the sky; it seemed to “land” over a hill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+The “golden trail” in the 1981 description is especially compatible with a meteor-like impression. Fireballs can leave persistent trains, and colours may be reported differently by different witnesses depending on brightness, atmospheric conditions and memory. A silver or white head with a yellow, orange or golden trail is not unusual in public descriptions of bright meteors. What makes the Lochinver account interesting is the interpretation added afterwards: the object did not merely flash through the sky; it seemed to “land” over a hill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
-Modern UK fireball reporting shows why isolated eyewitness accounts have to be handled carefully. The UK Fireball Alliance says fireball reports help scientists calculate trajectories of dust and rocks entering the atmosphere, and it works with camera networks to record meteors and recover freshly fallen meteorites where possible. That is a different evidence environment from a 1981 newspaper report: today, a strong case can be cross-checked against camera networks, multiple timed witness reports, calculated trajectories and possible meteorite searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span>
+Modern UK fireball reporting shows why isolated eyewitness accounts have to be handled carefully. The UK Fireball Alliance says fireball reports help scientists calculate trajectories of dust and rocks entering the atmosphere, and it works with camera networks to record meteors and recover freshly fallen meteorites where possible. That is a different evidence environment from a 1981 newspaper report: today, a strong case can be cross-checked against camera networks, multiple timed witness reports, calculated trajectories and possible meteorite searches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">Open source on ukfall.org.uk.</span></span></span>
 
-The 14 September 2022 fireball between Northern Ireland and Scotland gives a useful comparison without turning it into a Lochinver case. The American Meteor Society reported nearly 1,200 reports and multiple videos, with an initial trajectory between Northern Ireland and Scotland; the Popular Astronomy meteor section later summarised analysis suggesting a relatively slow-moving asteroid fragment burned up over the sea south of Islay. That event shows how a single bright object can be seen across a huge region, create many local “it came down near us” impressions, and still have a distant atmospheric path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span><span class="citation-popover-snippet">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span></span></span>
+The 14 September 2022 fireball between Northern Ireland and Scotland gives a useful comparison without turning it into a Lochinver case. The American Meteor Society reported nearly 1,200 reports and multiple videos, with an initial trajectory between Northern Ireland and Scotland; the Popular Astronomy meteor section later summarised analysis suggesting a relatively slow-moving asteroid fragment burned up over the sea south of Islay. That event shows how a single bright object can be seen across a huge region, create many local “it came down near us” impressions, and still have a distant atmospheric path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span><span class="citation-popover-snippet">big fireball between northern ireland and scotland sept 14 2022 at 2057 ut</span></span></span>
 
 That comparison matters for Sutherland because the west coast faces open sea and wide horizons. A meteor over the Minch, the Hebrides, the Atlantic approaches or far beyond the visible hills could still look as if it were falling into Assynt. The same is true of some space debris re-entries, although the 1981 account as summarised does not provide enough timing, duration or direction to prefer debris over a natural meteor.
 
@@ -299,13 +299,13 @@ That comparison matters for Sutherland because the west coast faces open sea and
 <img src="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-Illustration-2-dark.svg" | relative_url }}" alt="Lochinver Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sutherland_6dbe51_lochinver_fireballs_132391-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Lochinver reports feel more dramatic than the evidence supports
 
-Lochinver and Assynt have unusually good sky-watching conditions by UK standards. Local tourism and astronomy sources describe the Stoer Peninsula near Lochinver as having some of Scotland’s darkest skies, and nearby stargazing locations are promoted for dark-sky viewing. Dark skies increase the chance of seeing faint and bright sky events, but they also make rare bright events feel more intense because there is less background light and less everyday aerial traffic to compare them with. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eatsleepwild.com/assynt-astronomy-club/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eatsleepwild.com">[Eat Sleep Wild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eatsleepwild.com</span><span class="citation-popover-title">Eat Sleep Wild Assynt Astronomy Club</span><span class="citation-popover-snippet">Eat Sleep Wild Assynt Astronomy Club</span></span></span>
+Lochinver and Assynt have unusually good sky-watching conditions by UK standards. Local tourism and astronomy sources describe the Stoer Peninsula near Lochinver as having some of Scotland’s darkest skies, and nearby stargazing locations are promoted for dark-sky viewing. Dark skies increase the chance of seeing faint and bright sky events, but they also make rare bright events feel more intense because there is less background light and less everyday aerial traffic to compare them with.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eatsleepwild.com/assynt-astronomy-club/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eatsleepwild.com">[Eat Sleep Wild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eatsleepwild.com</span><span class="citation-popover-title">Eat Sleep Wild Assynt Astronomy Club</span><span class="citation-popover-snippet">Eat Sleep Wild Assynt Astronomy Club</span></span></span>
 
 The remoteness of west Sutherland also affects how sightings are reported. In a city, a bright object may be seen by thousands, filmed from multiple angles and quickly compared with flight paths, airport traffic, CCTV, doorbell cameras and social media posts. Around Lochinver in 1981, the public record was more fragile: a newspaper article, a named witness, a reported check with Benbecula and Stornoway, and no clear physical trace. That does not make the witness unreliable. It means the evidential ceiling is low.
 
 There is also a psychological trap in the word “falling”. Many meteors appear to fall because they cross the sky towards the horizon. If the end of the visible path is hidden by a hill, cloud or sea horizon, the brain supplies a local endpoint. In a rugged place such as Glencanisp, that endpoint may be imagined as the far side of a particular ridge. This is a normal perception error, not a sign that the witness is dishonest or foolish.
 
-For UFO history, that distinction is vital. A weakly documented report can still be valuable if it teaches readers how an unidentified sighting forms. The Lochinver case is not strong evidence for an unknown craft landing in Sutherland. It is stronger as a mechanism case: a bright aerial object, a dramatic landscape, a brief observation, a credible but startled witness, and a later report that preserves both the mystery and the seeds of a likely explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
+For UFO history, that distinction is vital. A weakly documented report can still be valuable if it teaches readers how an unidentified sighting forms. The Lochinver case is not strong evidence for an unknown craft landing in Sutherland. It is stronger as a mechanism case: a bright aerial object, a dramatic landscape, a brief observation, a credible but startled witness, and a later report that preserves both the mystery and the seeds of a likely explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.britishnewspaperarchive.co.uk">[British Newspaper Archive Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">Open source on britishnewspaperarchive.co.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dSwrzQ_IC-c" title="&#x27;Fireball&#x27; meteor blazes across UK skies | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dSwrzQ_IC-c" target="_blank" rel="noopener noreferrer">&#x27;Fireball&#x27; meteor blazes across UK skies | DW News</a></p><p class="youtube-embed-meta">Channel: DW News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dSwrzQ_IC-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dSwrzQ_IC-c">Open on YouTube</a></p></div></div></div>
@@ -344,194 +344,194 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Fireball Looks Like a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Fireball Looks Like a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison with stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with stronger documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Discusses how aerial events become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how aerial events become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness perception and misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness perception and misidentification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly addresses fireballs and meteor phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses fireballs and meteor phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lochinver-lights-when-a-fireball-looks-like-a-crash-sutherland-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,143 +737,143 @@ That is why “When a Fireball Looks Like a Crash” is the right frame for this
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: astronomy.scot  
-   Link: <a href="https://astronomy.scot/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.scot/</a>  
+   Link:<a href="https://astronomy.scot/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.scot/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ia801305.us.archive.org  
    Title: Fortean Times March 2016  
-   Link: <a href="https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf</a>  
+   Link:<a href="https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf</a>  
    Published: March 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blog.britishnewspaperarchive.co.uk  
-   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
+   Link:<a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nhm.ac.uk  
    Title: when stargazing and science collide  
-   Link: <a href="https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html</a>  
+   Link:<a href="https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.scot  
-   Link: <a href="https://www.nature.scot/sites/default/files/national-scenic-area/9119/nsa-special-qualities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/sites/default/files/national-scenic-area/9119/nsa-special-qualities.pdf</a>  
+   Link:<a href="https://www.nature.scot/sites/default/files/national-scenic-area/9119/nsa-special-qualities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/sites/default/files/national-scenic-area/9119/nsa-special-qualities.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sitelink.nature.scot  
-   Link: <a href="https://sitelink.nature.scot/site/9119" target="_blank" rel="noopener noreferrer nofollow">https://sitelink.nature.scot/site/9119</a>  
+   Link:<a href="https://sitelink.nature.scot/site/9119" target="_blank" rel="noopener noreferrer nofollow">https://sitelink.nature.scot/site/9119</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amsmeteors.org  
    Title: big fireball between northern ireland and scotland sept 14 2022 at 2057 ut  
-   Link: <a href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/</a>  
+   Link:<a href="https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2022/09/big-fireball-between-northern-ireland-and-scotland-sept-14-2022-at-2057-ut/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/the-science/</a>  
+   Link:<a href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/the-science/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eatsleepwild.com  
    Title: Eat Sleep Wild Assynt Astronomy Club  
-   Link: <a href="https://eatsleepwild.com/assynt-astronomy-club/" target="_blank" rel="noopener noreferrer nofollow">https://eatsleepwild.com/assynt-astronomy-club/</a>  
+   Link:<a href="https://eatsleepwild.com/assynt-astronomy-club/" target="_blank" rel="noopener noreferrer nofollow">https://eatsleepwild.com/assynt-astronomy-club/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lochinverlandscapes/photos/very-chilly-sunday-afternoon-at-glen-canisp-assynt-sutherland-scotland/830952479038847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lochinverlandscapes/photos/very-chilly-sunday-afternoon-at-glen-canisp-assynt-sutherland-scotland/830952479038847/</a>  
+   Link:<a href="https://www.facebook.com/lochinverlandscapes/photos/very-chilly-sunday-afternoon-at-glen-canisp-assynt-sutherland-scotland/830952479038847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lochinverlandscapes/photos/very-chilly-sunday-afternoon-at-glen-canisp-assynt-sutherland-scotland/830952479038847/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.scot  
    Title: enjoy national scenic areas  
-   Link: <a href="https://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/national-designations/national-scenic-areas/enjoy-national-scenic-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/national-designations/national-scenic-areas/enjoy-national-scenic-areas</a>  
+   Link:<a href="https://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/national-designations/national-scenic-areas/enjoy-national-scenic-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/national-designations/national-scenic-areas/enjoy-national-scenic-areas</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.scot  
-   Link: <a href="https://www.nature.scot/sites/default/files/2017-07/Publication%202010%20-%20SNH%20Commissioned%20Report%20255%20-%20Identifying%20the%20Special%20Qualities%20of%20Scotland%27s%20National%20Scenic%20Areas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/sites/default/files/2017-07/Publication%202010%20-%20SNH%20Commissioned%20Report%20255%20-%20Identifying%20the%20Special%20Qualities%20of%20Scotland%27s%20National%20Scenic%20Areas.pdf</a>  
+   Link:<a href="https://www.nature.scot/sites/default/files/2017-07/Publication%202010%20-%20SNH%20Commissioned%20Report%20255%20-%20Identifying%20the%20Special%20Qualities%20of%20Scotland%27s%20National%20Scenic%20Areas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/sites/default/files/2017-07/Publication%202010%20-%20SNH%20Commissioned%20Report%20255%20-%20Identifying%20the%20Special%20Qualities%20of%20Scotland%27s%20National%20Scenic%20Areas.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/videos?video_id=21619" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=21619</a>  
+   Link:<a href="https://amsmeteors.org/videos?video_id=21619" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=21619</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fireball.amsmeteors.org  
-   Link: <a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Assynt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Assynt</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Assynt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Assynt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lochinver" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lochinver</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lochinver" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lochinver</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: INTERSTELLAR Investigation  
-   Link: <a href="https://www.youtube.com/watch?v=zHfTE5U4TfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHfTE5U4TfA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fireballs That Shouldn&#x27;t Exist — These EARTH GRAZERS Return to Space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zHfTE5U4TfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHfTE5U4TfA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fireballs That Shouldn&#x27;t Exist — These EARTH GRAZERS Return to Space...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Not Aliens: The Truth Behind The Mysterious Fireball In Our Skies | 10 News+  
-   Link: <a href="https://www.youtube.com/watch?v=h7RBaD8PjGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h7RBaD8PjGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Fireball&#x27; meteor blazes across UK skies | DW News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h7RBaD8PjGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h7RBaD8PjGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Fireball&#x27; meteor blazes across UK skies | DW News...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: 'Fireball' meteor blazes across UK skies | DW News  
-   Link: <a href="https://www.youtube.com/watch?v=dSwrzQ_IC-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dSwrzQ_IC-c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERSTELLAR Investigation - 3i ATLAS | We May Be Wrong About These Fireballs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dSwrzQ_IC-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dSwrzQ_IC-c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTERSTELLAR Investigation - 3i ATLAS | We May Be Wrong About These Fireballs...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Fireballs Are Falling All Over Earth Right Now  
-   Link: <a href="https://www.youtube.com/watch?v=Oq1b16pPVIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oq1b16pPVIA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Aliens: The Truth Behind The Mysterious Fireball In Our Skies | 10 News+...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oq1b16pPVIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oq1b16pPVIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not Aliens: The Truth Behind The Mysterious Fireball In Our Skies | 10 News+...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsSyd/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/10159821120855259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsSyd/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/10159821120855259/</a>  
+   Link:<a href="https://www.facebook.com/10NewsSyd/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/10159821120855259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsSyd/posts/a-large-fireball-has-been-spotted-streaking-across-the-skies-above-scotland-and-/10159821120855259/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BuckinghamshireLive/posts/a-man-was-left-fighting-for-his-life-in-a-coma-after-an-explosion-while-making-g/1673178444198171/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BuckinghamshireLive/posts/a-man-was-left-fighting-for-his-life-in-a-coma-after-an-explosion-while-making-g/1673178444198171/</a>  
+   Link:<a href="https://www.facebook.com/BuckinghamshireLive/posts/a-man-was-left-fighting-for-his-life-in-a-coma-after-an-explosion-while-making-g/1673178444198171/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BuckinghamshireLive/posts/a-man-was-left-fighting-for-his-life-in-a-coma-after-an-explosion-while-making-g/1673178444198171/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: achmelvich-holidays.co.uk  
-   Link: <a href="https://achmelvich-holidays.co.uk/dark-sky-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://achmelvich-holidays.co.uk/dark-sky-discovery/</a>  
+   Link:<a href="https://achmelvich-holidays.co.uk/dark-sky-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://achmelvich-holidays.co.uk/dark-sky-discovery/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/potteryhouselochness/posts/another-photo-we-took-of-monday-nights-northern-lights-looking-across-loch-ness-/3292720920763141/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/potteryhouselochness/posts/another-photo-we-took-of-monday-nights-northern-lights-looking-across-loch-ness-/3292720920763141/</a>  
+   Link:<a href="https://www.facebook.com/potteryhouselochness/posts/another-photo-we-took-of-monday-nights-northern-lights-looking-across-loch-ness-/3292720920763141/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/potteryhouselochness/posts/another-photo-we-took-of-monday-nights-northern-lights-looking-across-loch-ness-/3292720920763141/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/273184533133394/posts/2179263109192184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/273184533133394/posts/2179263109192184/</a>  
+   Link:<a href="https://www.facebook.com/groups/273184533133394/posts/2179263109192184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/273184533133394/posts/2179263109192184/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lochinverlandscapes/photos/autumnal-dawn-at-glen-canisp-assynt-sutherland-scotland/3165818430313157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lochinverlandscapes/photos/autumnal-dawn-at-glen-canisp-assynt-sutherland-scotland/3165818430313157/</a>  
+   Link:<a href="https://www.facebook.com/lochinverlandscapes/photos/autumnal-dawn-at-glen-canisp-assynt-sutherland-scotland/3165818430313157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lochinverlandscapes/photos/autumnal-dawn-at-glen-canisp-assynt-sutherland-scotland/3165818430313157/</a>  

@@ -254,7 +254,7 @@ image: /assets/images/Flintshire_823310_mod_records_evidence_36683d-overview-soc
 
 ## Introduction
 
-The Ministry of Defence files prove something limited but important about [Flintshire]({{ 'what-really-happened-in-flintshires/' | relative_url }}): people did report unusual lights and objects from places such as Gwernaffield, Flint, Shotton, Rhydtalog, Holywell, [Deeside]({{ 'deeside/' | relative_url }}) and Connah’s Quay, and those reports entered the official record. They do not prove that any Flintshire sighting was an exotic craft, a military secret, or a confirmed physical event. The released GOV.UK annual logs are mainly tables of dates, times, places and short descriptions, which makes them useful for mapping a county-level paper trail but weak as evidence for what was actually in the sky. GOV.UK describes the series as UK UFO reports from 1997 to 2009 showing “dates and times, location and a brief description of the sighting”, not full investigative case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">4 Dec 2007 — UFO Reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
+The Ministry of Defence files prove something limited but important about [Flintshire]({{ 'what-really-happened-in-flintshires/' | relative_url }}): people did report unusual lights and objects from places such as Gwernaffield, Flint, Shotton, Rhydtalog, Holywell, [Deeside]({{ 'deeside/' | relative_url }}) and Connah’s Quay, and those reports entered the official record. They do not prove that any Flintshire sighting was an exotic craft, a military secret, or a confirmed physical event. The released GOV.UK annual logs are mainly tables of dates, times, places and short descriptions, which makes them useful for mapping a county-level paper trail but weak as evidence for what was actually in the sky. GOV.UK describes the series as UK UFO reports from 1997 to 2009 showing “dates and times, location and a brief description of the sighting”, not full investigative case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">4 Dec 2007 — UFO Reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Flintshire_823310_mod_records_evidence_36683d-overview.webp" | relative_url }}" alt="Overview image for MOD Records" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,11 +264,11 @@ That distinction matters because Flintshire’s public UFO history is built less
 
 The clearest Flintshire material in the released MOD series appears as short entries in annual report tables. These are not narrative investigations. They are closer to a register: date, time, town or village, county, sometimes the occupation of the reporter, and a brief description of the sighting. For Flintshire, that creates a real but sparse official trail across the late 1990s and 2000s.
 
-One early entry is from 6 June 1997 at Gwernaffield, near Mold. The MOD’s 1997 report records a “round, black object” moving quickly across the sky, with something that appeared to be hanging or draping beneath it. The entry is intriguing because it is not just a generic “light in the sky”, but it is still too brief to carry much evidential weight: there is no known duration, no distance estimate, no direction of travel in the extract, no weather detail, and no clear follow-up conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">UFO Reports 1997January 7, 2008 — Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all dif...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
+One early entry is from 6 June 1997 at Gwernaffield, near Mold. The MOD’s 1997 report records a “round, black object” moving quickly across the sky, with something that appeared to be hanging or draping beneath it. The entry is intriguing because it is not just a generic “light in the sky”, but it is still too brief to carry much evidential weight: there is no known duration, no distance estimate, no direction of travel in the extract, no weather detail, and no clear follow-up conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">UFO Reports 1997January 7, 2008 — Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all dif...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
 
-The 1999 report gives Flintshire several compact entries. On 12 June 1999 at 01:05 in Flint, then listed under Clwyd, the witness described a disc or star-shaped object with blue and green lights spinning around it, plus a sphere of light high in the atmosphere. On 12 July 1999 at 11:45, also in Flint, a star-shaped object with green, blue and red lights was again described as spinning. On 18 October 1999 at 19:21, Shotton appears in the records with one hovering light followed by a second object showing a large bright white light and red and green flecks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 1999June 18, 2007 — 4 Jan 1999 — 12-Jun-99. 01:05 Flint. Clwyd. Disc/star shape object with coloured lights, blue and gr...</span><span class="citation-popover-meta">Published: June 18, 2007</span></span></span>
+The 1999 report gives Flintshire several compact entries. On 12 June 1999 at 01:05 in Flint, then listed under Clwyd, the witness described a disc or star-shaped object with blue and green lights spinning around it, plus a sphere of light high in the atmosphere. On 12 July 1999 at 11:45, also in Flint, a star-shaped object with green, blue and red lights was again described as spinning. On 18 October 1999 at 19:21, Shotton appears in the records with one hovering light followed by a second object showing a large bright white light and red and green flecks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 1999June 18, 2007 — 4 Jan 1999 — 12-Jun-99. 01:05 Flint. Clwyd. Disc/star shape object with coloured lights, blue and gr...</span><span class="citation-popover-meta">Published: June 18, 2007</span></span></span>
 
-The later records continue the same pattern. In the 2000 MOD report, Rhydtalog on the A5104 is listed for 27 April 2000 at 21:00: “one large white ball” that hovered and then disappeared. In the 2004 report, Holywell is listed for 7 September 2004 at 11:30, when two silvery objects were said to pull apart, move together, and leave vapour trails. In 2009, Deeside and Connah’s Quay appear in the familiar late-2000s pattern of orange-light reports: seven silent bright orange lights travelling towards the Wirral on 16 May, and a bright orange light joined by a second light on 29 September. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 2000June 18, 2007 — 1 Jan 2000 — 27-Apr-00. 21:00 A5104, Rhydtalog. Flintshire. One large white ball. It hovered and the...</span><span class="citation-popover-meta">Published: June 18, 2007</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The later records continue the same pattern. In the 2000 MOD report, Rhydtalog on the A5104 is listed for 27 April 2000 at 21:00: “one large white ball” that hovered and then disappeared. In the 2004 report, Holywell is listed for 7 September 2004 at 11:30, when two silvery objects were said to pull apart, move together, and leave vapour trails. In 2009, Deeside and Connah’s Quay appear in the familiar late-2000s pattern of orange-light reports: seven silent bright orange lights travelling towards the Wirral on 16 May, and a bright orange light joined by a second light on 29 September.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 2000June 18, 2007 — 1 Jan 2000 — 27-Apr-00. 21:00 A5104, Rhydtalog. Flintshire. One large white ball. It hovered and the...</span><span class="citation-popover-meta">Published: June 18, 2007</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 These entries are valuable because they fix reports to named Flintshire locations. They also show variety: dark objects, coloured spinning lights, white balls, silvery objects and orange lights. But they do not show the kind of evidential development that would let a reader confidently rank one case as “strong” and another as “explained”. Most entries stop at the witness description.
 
@@ -298,25 +298,25 @@ This is why the logs should be read as evidence of reporting, not evidence of ex
 
 ## Why Flintshire Is Easy To Misread
 
-Flintshire is a difficult county for UFO interpretation because its sky is busy and its boundaries are not simple. The project’s county frame uses historic Flintshire, and the Wikimedia Commons historic-county map shows Flintshire including its detached eastern exclave. That matters because official reports, local journalism and modern databases may use different county labels, including Flintshire, Clwyd, Wrexham, Denbighshire, Cheshire or North Wales, depending on the period and the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Wales Historic Counties map Flintshire.svg</span><span class="citation-popover-snippet">File:Wales Historic Counties map Flintshire.svg</span></span></span>
+Flintshire is a difficult county for UFO interpretation because its sky is busy and its boundaries are not simple. The project’s county frame uses historic Flintshire, and the Wikimedia Commons historic-county map shows Flintshire including its detached eastern exclave. That matters because official reports, local journalism and modern databases may use different county labels, including Flintshire, Clwyd, Wrexham, Denbighshire, Cheshire or North Wales, depending on the period and the source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Wales Historic Counties map Flintshire.svg</span><span class="citation-popover-snippet">File:Wales Historic Counties map Flintshire.svg</span></span></span>
 
-The aviation setting also complicates interpretation. Hawarden Aerodrome describes itself as a gateway to Chester and North Wales, while Airbus identifies Broughton in Wales as one of its UK sites involved in designing, testing and manufacturing aircraft wings and components. That does not explain any single UFO report by itself, but it does mean that aircraft activity is part of the local background against which sightings should be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-snippet">Open source on hawardenaerodrome.co.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airbus.com">[Airbus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airbus.com</span><span class="citation-popover-title">in the United Kingdom</span><span class="citation-popover-snippet">in the United Kingdom</span></span></span>
+The aviation setting also complicates interpretation. Hawarden Aerodrome describes itself as a gateway to Chester and North Wales, while Airbus identifies Broughton in Wales as one of its UK sites involved in designing, testing and manufacturing aircraft wings and components. That does not explain any single UFO report by itself, but it does mean that aircraft activity is part of the local background against which sightings should be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawardenaerodrome.co.uk">[hawardenaerodrome.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawardenaerodrome.co.uk</span><span class="citation-popover-snippet">Open source on hawardenaerodrome.co.uk.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airbus.com">[Airbus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airbus.com</span><span class="citation-popover-title">in the United Kingdom</span><span class="citation-popover-snippet">in the United Kingdom</span></span></span>
 
-The Dee estuary, Wirral, Merseyside, Cheshire and North Wales corridor also makes direction-of-travel details important. The 2009 Deeside report, for example, says seven bright orange silent lights were travelling towards the Wirral. Without wind direction, aircraft movement, lantern release reports, duration, altitude estimate, or independent observations, the entry remains suggestive but weak. It may be unexplained in the narrow sense that the table gives no answer, but that is not the same as being strong evidence for an extraordinary event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Dee estuary, Wirral, Merseyside, Cheshire and North Wales corridor also makes direction-of-travel details important. The 2009 Deeside report, for example, says seven bright orange silent lights were travelling towards the Wirral. Without wind direction, aircraft movement, lantern release reports, duration, altitude estimate, or independent observations, the entry remains suggestive but weak. It may be unexplained in the narrow sense that the table gives no answer, but that is not the same as being strong evidence for an extraordinary event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-Modern readers also have to be careful not to project today’s drone environment backwards onto older reports. Drones are relevant to recent “lights in the sky” interpretation, and the Civil Aviation Authority now gives night-flying guidance for drones, including a green flashing light requirement from 1 January 2026 in the Open Category. That can help with future reports, but it should not be used casually to explain a Flintshire entry from 1997, 1999 or 2004. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span>
+Modern readers also have to be careful not to project today’s drone environment backwards onto older reports. Drones are relevant to recent “lights in the sky” interpretation, and the Civil Aviation Authority now gives night-flying guidance for drones, including a green flashing light requirement from 1 January 2026 in the Open Category. That can help with future reports, but it should not be used casually to explain a Flintshire entry from 1997, 1999 or 2004.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span>
 
 ## How MOD Policy Shapes The Evidence
 
 The MOD’s UFO record was never designed primarily as a county folklore archive. Its central concern was defence significance: whether a report suggested a threat to UK airspace or national security. That makes the records useful but uneven for local historical analysis.
 
-The National Archives notes that official reporting, analysis and recording of UFO sightings began in the early 1950s, but that until 1967 the MOD’s policy was to destroy UFO files at five-year intervals, so many earlier records were lost. Although Flintshire’s clearest public entries fall much later, this is still important context: the national record was shaped by administrative policy, not by a consistent long-term research design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives notes that official reporting, analysis and recording of UFO sightings began in the early 1950s, but that until 1967 the MOD’s policy was to destroy UFO files at five-year intervals, so many earlier records were lost. Although Flintshire’s clearest public entries fall much later, this is still important context: the national record was shaped by administrative policy, not by a consistent long-term research design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The later release programme also has limits. The National Archives material explains that the UFO desk was staffed by civil servants, with scientific and technical advice from DI55, a Defence Intelligence Staff branch that assessed reports for intelligence interest. In 2000, the Air Staff Secretariat role was replaced by the Directorate Air Space, and from 2000 UFO reports were no longer copied to DI55. The UFO desk itself closed in November 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO Desk: Closed</span><span class="citation-popover-snippet">National Archives UFO Desk: Closed</span></span></span>
+The later release programme also has limits. The National Archives material explains that the UFO desk was staffed by civil servants, with scientific and technical advice from DI55, a Defence Intelligence Staff branch that assessed reports for intelligence interest. In 2000, the Air Staff Secretariat role was replaced by the Directorate Air Space, and from 2000 UFO reports were no longer copied to DI55. The UFO desk itself closed in November 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO Desk: Closed</span><span class="citation-popover-snippet">National Archives UFO Desk: Closed</span></span></span>
 
-That timeline affects Flintshire directly. Several of the county’s most accessible entries fall after 2000, when the relationship between sighting reports and defence-intelligence review had changed. The 2009 orange-light reports from Deeside and Connah’s Quay therefore sit close to the end of the MOD reporting system, in a period when national sighting numbers had risen and the department was preparing to stop collecting such reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+That timeline affects Flintshire directly. Several of the county’s most accessible entries fall after 2000, when the relationship between sighting reports and defence-intelligence review had changed. The 2009 orange-light reports from Deeside and Connah’s Quay therefore sit close to the end of the MOD reporting system, in a period when national sighting numbers had risen and the department was preparing to stop collecting such reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
-The closure decision is also relevant to interpretation. Contemporary and later reporting of the MOD position stated that, over more than 50 years, no UFO report had revealed evidence of a potential threat to the United Kingdom, and that the MOD had no specific capability for identifying the nature of such sightings. That does not mean every Flintshire report was explained. It means the department did not judge the accumulated UFO-reporting system to justify continued defence resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">The Standard Why Mo D decided to close UFO desk</span><span class="citation-popover-snippet">The Standard Why Mo D decided to close UFO desk</span></span></span>
+The closure decision is also relevant to interpretation. Contemporary and later reporting of the MOD position stated that, over more than 50 years, no UFO report had revealed evidence of a potential threat to the United Kingdom, and that the MOD had no specific capability for identifying the nature of such sightings. That does not mean every Flintshire report was explained. It means the department did not judge the accumulated UFO-reporting system to justify continued defence resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">The Standard Why Mo D decided to close UFO desk</span><span class="citation-popover-snippet">The Standard Why Mo D decided to close UFO desk</span></span></span>
 
 
 <img src="{{ "/assets/images/Flintshire_823310_mod_records_evidence_36683d-Illustration-2-dark.svg" | relative_url }}" alt="MOD Records illustration 2" data-theme-src-dark="{{ "/assets/images/Flintshire_823310_mod_records_evidence_36683d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flintshire_823310_mod_records_evidence_36683d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -324,13 +324,13 @@ The closure decision is also relevant to interpretation. Contemporary and later 
 
 The strongest way to read the MOD logs is case by case, asking what each entry can support and what it cannot.
 
-The Gwernaffield report from 1997 is more distinctive than many light reports because it mentions a dark round object with something beneath it. But the entry does not preserve enough information to separate a balloon-like object, windborne material, an aircraft-related misperception, a distant object under unusual lighting, or something genuinely unexplained. Its value is that it records a specific claim near Mold; its weakness is that it gives almost none of the testing data a modern reader would need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">UFO Reports 1997January 7, 2008 — Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all dif...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
+The Gwernaffield report from 1997 is more distinctive than many light reports because it mentions a dark round object with something beneath it. But the entry does not preserve enough information to separate a balloon-like object, windborne material, an aircraft-related misperception, a distant object under unusual lighting, or something genuinely unexplained. Its value is that it records a specific claim near Mold; its weakness is that it gives almost none of the testing data a modern reader would need.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">UFO Reports 1997January 7, 2008 — Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all dif...</span><span class="citation-popover-meta">Published: January 7, 2008</span></span></span>
 
-The Flint reports in June and July 1999 are interesting because both use similar language around coloured lights and spinning. Similar wording can suggest a pattern, but it can also suggest a common perceptual category: coloured lights on aircraft, stars or planets seen through disturbed atmosphere, or objects whose apparent motion was exaggerated by darkness and distance. The MOD table does not tell us whether the same witness was involved, whether the sightings occurred from the same viewing point, or whether there were any independent confirmations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 1999June 18, 2007 — 4 Jan 1999 — 12-Jun-99. 01:05 Flint. Clwyd. Disc/star shape object with coloured lights, blue and gr...</span><span class="citation-popover-meta">Published: June 18, 2007</span></span></span>
+The Flint reports in June and July 1999 are interesting because both use similar language around coloured lights and spinning. Similar wording can suggest a pattern, but it can also suggest a common perceptual category: coloured lights on aircraft, stars or planets seen through disturbed atmosphere, or objects whose apparent motion was exaggerated by darkness and distance. The MOD table does not tell us whether the same witness was involved, whether the sightings occurred from the same viewing point, or whether there were any independent confirmations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">UFO Report 1999June 18, 2007 — 4 Jan 1999 — 12-Jun-99. 01:05 Flint. Clwyd. Disc/star shape object with coloured lights, blue and gr...</span><span class="citation-popover-meta">Published: June 18, 2007</span></span></span>
 
-The Holywell report from 2004 is different because it took place in daylight and described two silvery objects with vapour trails. That makes it potentially more testable than a vague night light, but the released entry still does not include aircraft checks, sky conditions, altitude, direction, or photographs. In a county near civil and industrial aviation activity, those missing details are not minor. They are the difference between a puzzling anecdote and a case that can be seriously evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The Holywell report from 2004 is different because it took place in daylight and described two silvery objects with vapour trails. That makes it potentially more testable than a vague night light, but the released entry still does not include aircraft checks, sky conditions, altitude, direction, or photographs. In a county near civil and industrial aviation activity, those missing details are not minor. They are the difference between a puzzling anecdote and a case that can be seriously evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The Deeside and Connah’s Quay reports from 2009 show another problem: national clustering. The MOD’s 2009 report contains many orange-light sightings from across the UK, often described as silent, round, fiery or moving in groups. Flintshire’s May and September entries fit that wider pattern. That makes them locally relevant, but it also weakens any attempt to treat them as uniquely Flintshire events without further evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Deeside and Connah’s Quay reports from 2009 show another problem: national clustering. The MOD’s 2009 report contains many orange-light sightings from across the UK, often described as silent, round, fiery or moving in groups. Flintshire’s May and September entries fit that wider pattern. That makes them locally relevant, but it also weakens any attempt to treat them as uniquely Flintshire events without further evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
@@ -369,194 +369,194 @@ But the current public record supports a cautious conclusion. Flintshire has doc
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do The MOD Files Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do The MOD Files Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evaluating official records, testimony and evidence rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating official records, testimony and evidence rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how to assess sightings and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to assess sightings and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines what physical evidence can and cannot demonstrate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines what physical evidence can and cannot demonstrate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Shows how official records and narratives can mislead researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official records and narratives can mislead researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mod-records-what-do-the-mod-files-really-prove-flintshire-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ But the current public record supports a cautious conclusion. Flintshire has doc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ But the current public record supports a cautious conclusion. Flintshire has doc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ But the current public record supports a cautious conclusion. Flintshire has doc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ But the current public record supports a cautious conclusion. Flintshire has doc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ But the current public record supports a cautious conclusion. Flintshire has doc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,186 +762,186 @@ But the current public record supports a cautious conclusion. Flintshire has doc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2007 — UFO Reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2007 — UFO Reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports 1997January 7, 2008 — Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all dif...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports 1997January 7, 2008 — Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all dif...</p></details>
    Published: January 7, 2008  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 1999June 18, 2007 — 4 Jan 1999 — 12-Jun-99. 01:05 Flint. Clwyd. Disc/star shape object with coloured lights, blue and gr...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 1999June 18, 2007 — 4 Jan 1999 — 12-Jun-99. 01:05 Flint. Clwyd. Disc/star shape object with coloured lights, blue and gr...</p></details>
    Published: June 18, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 2000June 18, 2007 — 1 Jan 2000 — 27-Apr-00. 21:00 A5104, Rhydtalog. Flintshire. One large white ball. It hovered and the...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 2000June 18, 2007 — 1 Jan 2000 — 27-Apr-00. 21:00 A5104, Rhydtalog. Flintshire. One large white ball. It hovered and the...</p></details>
    Published: June 18, 2007  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map Flintshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Flintshire.svg</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hawardenaerodrome.co.uk  
-   Link: <a href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/</a>  
+   Link:<a href="https://hawardenaerodrome.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airbus.com  
    Title: in the United Kingdom  
-   Link: <a href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom</a>  
+   Link:<a href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO Desk: Closed  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Flintshire Trad.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWalesFlintshireTrad.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWalesFlintshireTrad.png</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWalesFlintshireTrad.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWalesFlintshireTrad.png</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: Category:Maps of counties of Wales  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AMaps_of_counties_of_Wales</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales location map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hawardenaerodrome.co.uk  
-   Link: <a href="https://hawardenaerodrome.co.uk/contact/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/contact/</a>  
+   Link:<a href="https://hawardenaerodrome.co.uk/contact/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/contact/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hawardenaerodrome.co.uk  
-   Link: <a href="https://hawardenaerodrome.co.uk/our-heritage/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/our-heritage/</a>  
+   Link:<a href="https://hawardenaerodrome.co.uk/our-heritage/" target="_blank" rel="noopener noreferrer nofollow">https://hawardenaerodrome.co.uk/our-heritage/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: digital.flintshire.gov.uk  
    Title: Display PDF  
-   Link: <a href="https://digital.flintshire.gov.uk/FCC_HB/Home/DisplayPDF?friday=07%2F04%2F2025%3A00%3A00&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://digital.flintshire.gov.uk/FCC_HB/Home/DisplayPDF?friday=07%2F04%2F2025%3A00%3A00&amp;lang=en</a>  
+   Link:<a href="https://digital.flintshire.gov.uk/FCC_HB/Home/DisplayPDF?friday=07%2F04%2F2025%3A00%3A00&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://digital.flintshire.gov.uk/FCC_HB/Home/DisplayPDF?friday=07%2F04%2F2025%3A00%3A00&amp;lang=en</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: standard.co.uk  
    Title: The Standard Why Mo D decided to close UFO desk  
-   Link: <a href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html</a>  
+   Link:<a href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: airbus.guidantglobal.com  
-   Link: <a href="https://airbus.guidantglobal.com/locations/broughton/" target="_blank" rel="noopener noreferrer nofollow">https://airbus.guidantglobal.com/locations/broughton/</a>  
+   Link:<a href="https://airbus.guidantglobal.com/locations/broughton/" target="_blank" rel="noopener noreferrer nofollow">https://airbus.guidantglobal.com/locations/broughton/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Aliens in the UK? Britain&#x27;s Most Shocking UFO Encounters - Investigator Nigel Watson[https://www.youtube.com/watch?v=KLY-Yp52JvM...&quot;](https://www.youtube.com/watch?v=KLY-Yp52JvM...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Aliens in the UK? Britain&#x27;s Most Shocking UFO Encounters - Investigator Nigel Watson[https://www.youtube.com/watch?v=KLY-Yp52JvM...&quot;](https://www.youtube.com/watch?v=KLY-Yp52JvM...&quot;)...</p></details>
    Published: March 2009  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bangor-on-Dee%2C_Flintshire_2238" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bangor-on-Dee%2C_Flintshire_2238</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bangor-on-Dee%2C_Flintshire_2238" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bangor-on-Dee%2C_Flintshire_2238</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dronemap.uk  
-   Link: <a href="https://dronemap.uk/drone-restricted-zones" target="_blank" rel="noopener noreferrer nofollow">https://dronemap.uk/drone-restricted-zones</a>  
+   Link:<a href="https://dronemap.uk/drone-restricted-zones" target="_blank" rel="noopener noreferrer nofollow">https://dronemap.uk/drone-restricted-zones</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
+   Link:<a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/</a>  
+   Link:<a href="https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/posts/ufo-experts-confirm-how-many-unexplained-objects-were-spotted-over-north-wales/10158922120132532/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dronesaferegister.org.uk  
-   Link: <a href="https://dronesaferegister.org.uk/blog/im-a-hobby-drone-pilot-where-can-i-fly-my-drone" target="_blank" rel="noopener noreferrer nofollow">https://dronesaferegister.org.uk/blog/im-a-hobby-drone-pilot-where-can-i-fly-my-drone</a>  
+   Link:<a href="https://dronesaferegister.org.uk/blog/im-a-hobby-drone-pilot-where-can-i-fly-my-drone" target="_blank" rel="noopener noreferrer nofollow">https://dronesaferegister.org.uk/blog/im-a-hobby-drone-pilot-where-can-i-fly-my-drone</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: discovered.ed.ac.uk  
-   Link: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
+   Link:<a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  

@@ -248,7 +248,7 @@ image: /assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-overview-
 
 ## Introduction
 
-Brecon Beacons road-light reports matter because they sit at the point where good witnesses can still be fooled: dark upland roads, distant ridges, fast-changing weather and real low-flying aircraft activity all meet in the same landscape. The best-known local example is the 26 November 1996 Penderyn/A4059 report, in which three people driving near the Beacons saw a very bright set of lights and judged the object to be far too large to be a helicopter. That does not prove the object was exotic. It does show why [Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }})’s UFO history cannot be separated from ordinary road viewing conditions and military aviation. Wales is part of the UK low-flying system, the Brecon Beacons are connected with helicopter transit and training activity, and night-time light perception is notoriously unreliable when size, distance and horizon cues are missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk+2UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+Brecon Beacons road-light reports matter because they sit at the point where good witnesses can still be fooled: dark upland roads, distant ridges, fast-changing weather and real low-flying aircraft activity all meet in the same landscape. The best-known local example is the 26 November 1996 Penderyn/A4059 report, in which three people driving near the Beacons saw a very bright set of lights and judged the object to be far too large to be a helicopter. That does not prove the object was exotic. It does show why [Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }})’s UFO history cannot be separated from ordinary road viewing conditions and military aviation. Wales is part of the UK low-flying system, the Brecon Beacons are connected with helicopter transit and training activity, and night-time light perception is notoriously unreliable when size, distance and horizon cues are missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
 
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-overview.webp" | relative_url }}" alt="Overview image for Road Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,11 +256,11 @@ For this page, “Brecon Beacons” is used in its common landscape sense, with 
 
 ## Why the A4059 report still matters
 
-The A4059/Penderyn case is useful because it is not just a vague “lights in the sky” anecdote. WalesOnline’s account of declassified Ministry of Defence material says the incident took place on 26 November 1996 near Penderyn, when three witnesses were driving south on the A4059 from Hirwaun towards the Brecon Beacons and saw a very bright set of lights. One witness had completed much of a private pilot’s licence, which makes the report more interesting than a casual glance by someone with no aviation familiarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+The A4059/Penderyn case is useful because it is not just a vague “lights in the sky” anecdote. WalesOnline’s account of declassified Ministry of Defence material says the incident took place on 26 November 1996 near Penderyn, when three witnesses were driving south on the A4059 from Hirwaun towards the Brecon Beacons and saw a very bright set of lights. One witness had completed much of a private pilot’s licence, which makes the report more interesting than a casual glance by someone with no aviation familiarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
-The key detail is also the key problem. The witnesses reportedly dismissed a helicopter explanation because they estimated the lights or object to be about 100 feet across. That is a serious judgement if the object’s distance is known. But from a moving car at dusk or night, on a descending road, with hills and valleys around the observer, distance is often the least secure part of the observation. A compact aircraft closer than assumed, several lights on more than one aircraft, or ground lights seen through broken cloud can all be mis-scaled into a much larger “object” if the mind groups the lights into one shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+The key detail is also the key problem. The witnesses reportedly dismissed a helicopter explanation because they estimated the lights or object to be about 100 feet across. That is a serious judgement if the object’s distance is known. But from a moving car at dusk or night, on a descending road, with hills and valleys around the observer, distance is often the least secure part of the observation. A compact aircraft closer than assumed, several lights on more than one aircraft, or ground lights seen through broken cloud can all be mis-scaled into a much larger “object” if the mind groups the lights into one shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
-The road itself helps explain the report’s persistence. The A4059 is a north-south route linking the A470 near the Beacons Reservoir with the A470 at Abercynon, passing Hirwaun and Penderyn and crossing exposed upland country before dropping into more settled valleys. That means a driver can move quickly between dark moorland, bright valley lighting, changing elevation and sudden open views. A light that seems “over the road” may in fact be beyond the next valley; a light that looks fixed to an object may be one of several separated sources seen along the same line of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/A4059_road" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">A4059 road</span><span class="citation-popover-snippet">A4059 road</span></span></span>
+The road itself helps explain the report’s persistence. The A4059 is a north-south route linking the A470 near the Beacons Reservoir with the A470 at Abercynon, passing Hirwaun and Penderyn and crossing exposed upland country before dropping into more settled valleys. That means a driver can move quickly between dark moorland, bright valley lighting, changing elevation and sudden open views. A light that seems “over the road” may in fact be beyond the next valley; a light that looks fixed to an object may be one of several separated sources seen along the same line of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/A4059_road" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">A4059 road</span><span class="citation-popover-snippet">A4059 road</span></span></span>
 
 The strongest reading is therefore cautious. The A4059 report is a credible report of an unusual perception by multiple witnesses, including one with some flying experience. It is not, on the public evidence available, a solved case; nor is it strong enough to carry a claim of non-human craft. Its value lies in showing exactly how Brecon Beacons road sightings become hard to classify: the terrain supplies drama, aviation supplies plausible candidates, and night perception supplies the uncertainty.
 
@@ -268,15 +268,15 @@ The strongest reading is therefore cautious. The A4059 report is a credible repo
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-Illustration-1-dark.svg" | relative_url }}" alt="Road Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft are not a dismissive explanation here
 
-In some UFO cases, “probably aircraft” can sound like a lazy answer. Around the Brecon Beacons it is a serious explanation that has to be considered first. A Ministry of Defence paper on military low flying states that the UK low-flying system extends from ground level to 2,000 feet above ground level across the country, except in designated places where low flying does not normally occur, and that military aircraft must normally be booked into the system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.parliament.uk">[UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Data</span></span></span>
+In some UFO cases, “probably aircraft” can sound like a lazy answer. Around the Brecon Beacons it is a serious explanation that has to be considered first. A Ministry of Defence paper on military low flying states that the UK low-flying system extends from ground level to 2,000 feet above ground level across the country, except in designated places where low flying does not normally occur, and that military aircraft must normally be booked into the system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.parliament.uk">[UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Data</span></span></span>
 
-The same MoD material places most of Wales in Low Flying Area 7, which includes RAF Valley, MOD St Athan, Pembrey Sands, Sennybridge and other military training locations. It says the Welsh landscape and lack of controlled airspace make LFA 7 important for military low-flying training, and specifically links helicopter activity with Castlemartin, Sennybridge, RAF Valley, support helicopter training and wider pre-deployment work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.parliament.uk">[UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Data</span></span></span>
+The same MoD material places most of Wales in Low Flying Area 7, which includes RAF Valley, MOD St Athan, Pembrey Sands, Sennybridge and other military training locations. It says the Welsh landscape and lack of controlled airspace make LFA 7 important for military low-flying training, and specifically links helicopter activity with Castlemartin, Sennybridge, RAF Valley, support helicopter training and wider pre-deployment work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.parliament.uk">[UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Data</span></span></span>
 
-The Brecon Beacons also appear in the neighbouring low-flying geography. The MoD description of Low Flying Area 4 says that helicopters use that area in transit to Sennybridge training area and the Brecon Beacons, while fixed-wing aircraft use it to transit to and from Wales and the South West. This matters for Brecknockshire because a witness on a road does not experience low flying as a tidy map boundary; they experience it as a sudden roar, a moving light, or an aircraft shape glimpsed against a dark ridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.parliament.uk">[UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Data</span></span></span>
+The Brecon Beacons also appear in the neighbouring low-flying geography. The MoD description of Low Flying Area 4 says that helicopters use that area in transit to Sennybridge training area and the Brecon Beacons, while fixed-wing aircraft use it to transit to and from Wales and the South West. This matters for Brecknockshire because a witness on a road does not experience low flying as a tidy map boundary; they experience it as a sudden roar, a moving light, or an aircraft shape glimpsed against a dark ridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.parliament.uk">[UK Parliament Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Data</span></span></span>
 
 Helicopters deserve particular attention. They can move slowly, hover, change direction sharply, show multiple steady and flashing lights, and become hard to hear when wind, terrain or vehicle noise masks the sound. Fast jets are different: they may be heard after they are seen, may cross a valley in seconds, and may appear lower or closer than they really are when a road runs above or alongside a valley. Transport aircraft can look unexpectedly large and slow when viewed head-on or obliquely at night.
 
-The MoD’s broader low-flying policy also undercuts the idea that every unexplained public report would have received a full identification exercise. The department’s historic UFO position was primarily to assess whether there was any defence significance, not to provide a complete public explanation for each light in the sky; later parliamentary information states that the MoD ceased investigating UFO or UAP reports in 2009 and that files up to that point were released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The MoD’s broader low-flying policy also undercuts the idea that every unexplained public report would have received a full identification exercise. The department’s historic UFO position was primarily to assess whether there was any defence significance, not to provide a complete public explanation for each light in the sky; later parliamentary information states that the MoD ceased investigating UFO or UAP reports in 2009 and that files up to that point were released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcopYeSNUq8" title="Low flying Tornado GR4 - Bwlch Spur, Mach Loop, Wales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcopYeSNUq8" target="_blank" rel="noopener noreferrer">Low flying Tornado GR4 - Bwlch Spur, Mach Loop, Wales</a></p><p class="youtube-embed-meta">Channel: UK Aviation Movies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcopYeSNUq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcopYeSNUq8">Open on YouTube</a></p></div></div></div>
@@ -285,7 +285,7 @@ The MoD’s broader low-flying policy also undercuts the idea that every unexpla
 
 A road sighting is not the same as standing in a field with binoculars, a compass and time to observe. Drivers and passengers get fragments: a light appears above a hedge, vanishes behind a slope, reappears over a reservoir, then seems to pace the car. In the Brecon Beacons that effect is amplified by hills, cloud bases, forest edges, reservoirs, isolated farms and valley towns.
 
-Night vision research in aviation is useful here, even though the witnesses are on the ground rather than in a cockpit. The FAA describes autokinesis as an illusion in which staring at a fixed point of light against a dark, featureless background can make it appear to move. Skybrary, an aviation safety resource, notes that on clear nights lights can be seen from long distances and that distance is difficult to judge without landmarks or electronic aids. Those are exactly the weaknesses that shape many road-light reports: witnesses may be sincere, observant and frightened, yet still lack the reference points needed to estimate range and size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span></span></span>
+Night vision research in aviation is useful here, even though the witnesses are on the ground rather than in a cockpit. The FAA describes autokinesis as an illusion in which staring at a fixed point of light against a dark, featureless background can make it appear to move. Skybrary, an aviation safety resource, notes that on clear nights lights can be seen from long distances and that distance is difficult to judge without landmarks or electronic aids. Those are exactly the weaknesses that shape many road-light reports: witnesses may be sincere, observant and frightened, yet still lack the reference points needed to estimate range and size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span></span></span>
 
 Three common errors are especially relevant on upland roads:
 
@@ -304,9 +304,9 @@ None of this means “witnesses are unreliable” in a crude sense. It means the
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-Illustration-2-dark.svg" | relative_url }}" alt="Road Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_beacons_road_lights_701548-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The dark-sky effect cuts both ways
 
-Bannau Brycheiniog became an International Dark Sky Reserve in 2013, recognised for the quality of its starry nights and the work done to protect the night-time environment. Official National Park material describes the area as one of the best places in Europe for dark skies, while DarkSky International notes the reserve’s rural setting and access for large nearby populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beacons-npa.gov.uk">[Brecon Beacons National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beacons-npa.gov.uk</span><span class="citation-popover-snippet">Open source on beacons-npa.gov.uk.</span></span></span>
+Bannau Brycheiniog became an International Dark Sky Reserve in 2013, recognised for the quality of its starry nights and the work done to protect the night-time environment. Official National Park material describes the area as one of the best places in Europe for dark skies, while DarkSky International notes the reserve’s rural setting and access for large nearby populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beacons-npa.gov.uk">[Brecon Beacons National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beacons-npa.gov.uk</span><span class="citation-popover-snippet">Open source on beacons-npa.gov.uk.</span></span></span>
 
-For stargazers, that is a strength. For UFO interpretation, it is double-edged. Dark skies reveal meteors, satellites, planets, aircraft and faint lights that many town dwellers rarely notice. A visitor driving from a lit town into the Beacons may suddenly see a bright planet low over a ridge, a meteor crossing a wide sky, or aircraft lights far beyond a valley and experience them as unusually vivid. Visit Wales promotes the area as a place where constellations, the Milky Way and meteor showers can be seen, which is exactly the sort of sky that can also make ordinary lights feel extraordinary to an unprepared observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitwales.com/inspire-me/days-out/stargazing-wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitwales.com">[Visit Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitwales.com</span><span class="citation-popover-snippet">Open source on visitwales.com.</span></span></span>
+For stargazers, that is a strength. For UFO interpretation, it is double-edged. Dark skies reveal meteors, satellites, planets, aircraft and faint lights that many town dwellers rarely notice. A visitor driving from a lit town into the Beacons may suddenly see a bright planet low over a ridge, a meteor crossing a wide sky, or aircraft lights far beyond a valley and experience them as unusually vivid. Visit Wales promotes the area as a place where constellations, the Milky Way and meteor showers can be seen, which is exactly the sort of sky that can also make ordinary lights feel extraordinary to an unprepared observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitwales.com/inspire-me/days-out/stargazing-wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitwales.com">[Visit Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitwales.com</span><span class="citation-popover-snippet">Open source on visitwales.com.</span></span></span>
 
 The darkness also changes sound. In some reports, witnesses say there was no noise, and silence is often treated as evidence against aircraft. But road noise, wind, distance, terrain shielding and engine direction can all affect what reaches the observer. A helicopter behind a ridge may be audible one moment and masked the next. A fast jet may be seen before its sound arrives. A distant aircraft on approach may show a steady bright light without an obvious engine note.
 
@@ -319,7 +319,7 @@ This is why the best Brecon Beacons road-light analysis should not ask only, “
 
 A road-light report around the Beacons becomes stronger when it contains details that can be checked independently. The most useful are the exact time, road position, direction of travel, bearing of the object, duration, weather, cloud level, sound, angular movement across the sky, and whether the light passed in front of or behind a known landmark. A single statement that something was “100 feet across” is less useful unless the distance is known.
 
-The 2012 Brecon and Radnor Express report of a family seeing flashing lights while travelling from Brecon towards Tallylyn shows the same pattern in a later local setting. The public article gives a date, approximate time, route and witness situation: Richard Davis was driving his family on the A40 near Brecon at about 5.30 pm on 4 December when his youngest son noticed flashing lights moving at speed. The available online report is brief, so it cannot settle what was seen, but it is a useful reminder that road sightings continued to enter local media as family travel experiences rather than only as specialist UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brecon-radnor.co.uk/news/ufo-sighting-leaves-family-mystified-76685" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brecon-radnor.co.uk">[Brecon &amp; Radnor Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brecon-radnor.co.uk</span><span class="citation-popover-snippet">Open source on brecon-radnor.co.uk.</span></span></span>
+The 2012 Brecon and Radnor Express report of a family seeing flashing lights while travelling from Brecon towards Tallylyn shows the same pattern in a later local setting. The public article gives a date, approximate time, route and witness situation: Richard Davis was driving his family on the A40 near Brecon at about 5.30 pm on 4 December when his youngest son noticed flashing lights moving at speed. The available online report is brief, so it cannot settle what was seen, but it is a useful reminder that road sightings continued to enter local media as family travel experiences rather than only as specialist UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brecon-radnor.co.uk/news/ufo-sighting-leaves-family-mystified-76685" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brecon-radnor.co.uk">[Brecon &amp; Radnor Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brecon-radnor.co.uk</span><span class="citation-popover-snippet">Open source on brecon-radnor.co.uk.</span></span></span>
 
 A stronger case would have several independent witnesses from separated locations, photographs or video with identifiable landmarks, matching police or air-traffic records, and a flight-track or military statement that fails to explain the sighting. A weaker case has no exact location, no duration, no direction, no comparison with aircraft or astronomical data, and no way to separate one light from several. Most road sightings sit between those poles.
 
@@ -331,7 +331,7 @@ For Brecknockshire, the practical lesson is that “unidentified” should be ke
 
 Brecon Beacons road sightings are not the county’s most spectacular UFO material, but they may be among its most revealing. They show how rural Welsh UFO history often grows from ordinary journeys through extraordinary viewing conditions: a family car, a dark road, a bright light over a ridge, and a witness trying to judge scale in a landscape that gives few reliable cues.
 
-The Beacons also sit within a wider Welsh pattern in released MoD and press material. WalesOnline’s summary of declassified files places the Penderyn report alongside other Welsh cases involving triangular objects, low-flying craft, strings of lights and official suggestions of aircraft or natural explanations. The same article records the MoD’s view that a separate RAF Valley observation could likely be accounted for by routine military low-flying training, while another Mid and West Wales report of low-flying triangular craft was also met with a military-aircraft possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
+The Beacons also sit within a wider Welsh pattern in released MoD and press material. WalesOnline’s summary of declassified files places the Penderyn report alongside other Welsh cases involving triangular objects, low-flying craft, strings of lights and official suggestions of aircraft or natural explanations. The same article records the MoD’s view that a separate RAF Valley observation could likely be accounted for by routine military low-flying training, while another Mid and West Wales report of low-flying triangular craft was also met with a military-aircraft possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[walesonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">Released files cast light on famous Welsh ‘UFO’ sighting</span><span class="citation-popover-snippet">Released files cast light on famous Welsh ‘UFO’ sighting</span></span></span>
 
 That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are a place where strange lights may be worth reporting, but where the first explanatory ladder should usually run through aircraft, helicopters, low-flying activity, road geometry, weather, and night-sky perception before reaching more exotic claims. The unresolved residue, if any, is strongest only after those simpler possibilities have been carefully worked through.
 
@@ -340,194 +340,194 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Beacons Road Lights Fool Good Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Beacons Road Lights Fool Good Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong coverage of observational and perception issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of observational and perception issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Excellent for road-light sightings and misidentification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for road-light sightings and misidentification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider UFO reporting context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider UFO reporting context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Includes analysis of difficult sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes analysis of difficult sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="{{ '/assets/images/marketplace-covers/052e97c6a09b40adcc39.jpg' | relative_url }}" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="{{ '/assets/images/marketplace-covers/052e97c6a09b40adcc39.jpg' | relative_url }}" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/107817cab6cbf7458710.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/107817cab6cbf7458710.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="road-lights-why-beacons-road-lights-fool-good-witnesses-brecknockshire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,255 +733,255 @@ That does not solve the Penderyn sighting. It frames it. The Brecon Beacons are 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: walesonline.co.uk  
    Title: Released files cast light on famous Welsh ‘UFO’ sighting  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: data.parliament.uk  
    Title: UK Parliament Data  
-   Link: <a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
+   Link:<a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
+   Link:<a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: A4059 road  
-   Link: <a href="https://en.wikipedia.org/wiki/A4059_road" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/A4059_road</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/A4059_road" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/A4059_road</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial Disorientation: Visual Illusions  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: darksky.org  
    Title: brecon beacons national park dark sky reserve  
-   Link: <a href="https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/</a>  
+   Link:<a href="https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: walesonline.co.uk  
    Title: rhiwbina womans hunt for ufos 1901994  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/rhiwbina-womans-hunt-for-ufos-1901994" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/rhiwbina-womans-hunt-for-ufos-1901994</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/rhiwbina-womans-hunt-for-ufos-1901994" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/rhiwbina-womans-hunt-for-ufos-1901994</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: walesonline.co.uk  
    Title: ufos wales police reveal locations 1837150  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3720.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/3720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3720.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Low flying military training  
-   Link: <a href="https://en.wikipedia.org/wiki/Low_flying_military_training" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Low_flying_military_training</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Low_flying_military_training" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Low_flying_military_training</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Watch All talkpages  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Watch_All_talkpages" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Watch_All_talkpages</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Watch_All_talkpages" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Watch_All_talkpages</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Article List  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Article_List" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Article_List</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Article_List" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AWikiProject_Wales/Article_List</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Varginha UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Varginha_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varginha_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Varginha_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varginha_UFO_incident</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: future.bannau.wales  
-   Link: <a href="https://future.bannau.wales/wp-content/uploads/2023/04/Y-Bannau-The-Future-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/wp-content/uploads/2023/04/Y-Bannau-The-Future-1-1.pdf</a>  
+   Link:<a href="https://future.bannau.wales/wp-content/uploads/2023/04/Y-Bannau-The-Future-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/wp-content/uploads/2023/04/Y-Bannau-The-Future-1-1.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: future.bannau.wales  
    Title: wales Introducing The Management Plan  
-   Link: <a href="https://future.bannau.wales/introducing-the-management-plan/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/introducing-the-management-plan/</a>  
+   Link:<a href="https://future.bannau.wales/introducing-the-management-plan/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/introducing-the-management-plan/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: future.bannau.wales  
    Title: wales Dark Skies Board  
-   Link: <a href="https://future.bannau.wales/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/dark-sky/</a>  
+   Link:<a href="https://future.bannau.wales/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/dark-sky/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2087-1.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ukufo/defe-24-2629-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ukufo/defe-24-2629-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ukufo/defe-24-2629-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ukufo/defe-24-2629-1.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: northwales.police.uk  
    Title: 2024 865 ufo sightings  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-shawbury/flying-info/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: beacons-npa.gov.uk  
-   Link: <a href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/</a>  
+   Link:<a href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: visitwales.com  
-   Link: <a href="https://www.visitwales.com/inspire-me/days-out/stargazing-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.visitwales.com/inspire-me/days-out/stargazing-wales</a>  
+   Link:<a href="https://www.visitwales.com/inspire-me/days-out/stargazing-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.visitwales.com/inspire-me/days-out/stargazing-wales</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: brecon-radnor.co.uk  
-   Link: <a href="https://www.brecon-radnor.co.uk/news/ufo-sighting-leaves-family-mystified-76685" target="_blank" rel="noopener noreferrer nofollow">https://www.brecon-radnor.co.uk/news/ufo-sighting-leaves-family-mystified-76685</a>  
+   Link:<a href="https://www.brecon-radnor.co.uk/news/ufo-sighting-leaves-family-mystified-76685" target="_blank" rel="noopener noreferrer nofollow">https://www.brecon-radnor.co.uk/news/ufo-sighting-leaves-family-mystified-76685</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2011 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Sanctuary 2019 lo res web NEW  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk A review of optimism bias, planning fallacy, sunk cost  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: beacons-npa.gov.uk  
-   Link: <a href="https://www.beacons-npa.gov.uk/wp-content/uploads/BBNP_Management_Plan_2010-15_ENG_CD_updatedlogos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/BBNP_Management_Plan_2010-15_ENG_CD_updatedlogos.pdf</a>  
+   Link:<a href="https://www.beacons-npa.gov.uk/wp-content/uploads/BBNP_Management_Plan_2010-15_ENG_CD_updatedlogos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/BBNP_Management_Plan_2010-15_ENG_CD_updatedlogos.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: beacons-npa.gov.uk  
-   Link: <a href="https://beacons-npa.gov.uk/the-authority/who-we-are/npmp/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/who-we-are/npmp/</a>  
+   Link:<a href="https://beacons-npa.gov.uk/the-authority/who-we-are/npmp/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/who-we-are/npmp/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: beacons-npa.gov.uk  
    Title: Powys Heritage and Cultural Audit Final  
-   Link: <a href="https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf</a>  
+   Link:<a href="https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/oldsite/the-authority/working-in-partnership/tourism-new/sustainability-1/Powys%20Heritage%20and%20Cultural%20Audit%20Final.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: ulc.gov.pl  
-   Link: <a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
+   Link:<a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: gov.wales  
-   Link: <a href="https://www.gov.wales/publications?field_external_organisations%5B47314%5D=47314" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/publications?field_external_organisations%5B47314%5D=47314</a>  
+   Link:<a href="https://www.gov.wales/publications?field_external_organisations%5B47314%5D=47314" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/publications?field_external_organisations%5B47314%5D=47314</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: democracy.merthyr.gov.uk  
    Title: Planning report 23rd September 2009  
-   Link: <a href="https://democracy.merthyr.gov.uk/documents/s5718/Planning%20report%2023rd%20September%202009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.merthyr.gov.uk/documents/s5718/Planning%20report%2023rd%20September%202009.pdf</a>  
+   Link:<a href="https://democracy.merthyr.gov.uk/documents/s5718/Planning%20report%2023rd%20September%202009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.merthyr.gov.uk/documents/s5718/Planning%20report%2023rd%20September%202009.pdf</a>  
    Published: September 2009  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: RAF Sea King helicopter takes off from near Pen Y Fan in the Brecon Beacons  
-   Link: <a href="https://www.youtube.com/watch?v=KHfsnPYiQ3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KHfsnPYiQ3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mach Loop 2022 Highlights!! USAF F-15Eagle V F35Lightning Low Level through the Mountains of Wales...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KHfsnPYiQ3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KHfsnPYiQ3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mach Loop 2022 Highlights!! USAF F-15Eagle V F35Lightning Low Level through the Mountains of Wales...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Low flying Tornado GR4  
-   Link: <a href="https://www.youtube.com/watch?v=GcopYeSNUq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcopYeSNUq8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Sea King helicopter takes off from near Pen Y Fan in the Brecon Beacons...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GcopYeSNUq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcopYeSNUq8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Sea King helicopter takes off from near Pen Y Fan in the Brecon Beacons...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: faasafety.gov  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23233342_Visual_Misperception_in_Aviation_Glide_Path_Performance_in_a_Black_Hole_Environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23233342_Visual_Misperception_in_Aviation_Glide_Path_Performance_in_a_Black_Hole_Environment</a>  
+   Link:<a href="https://www.researchgate.net/publication/23233342_Visual_Misperception_in_Aviation_Glide_Path_Performance_in_a_Black_Hole_Environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23233342_Visual_Misperception_in_Aviation_Glide_Path_Performance_in_a_Black_Hole_Environment</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/</a>  
+   Link:<a href="https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/a-warning-has-been-issued-after-the-military-aircraft-was-spotted-flying-low-acr/1356720439796631/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: cnp.org.uk  
-   Link: <a href="https://www.cnp.org.uk/news/bannau-brycheiniog-launches-new-management-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnp.org.uk/news/bannau-brycheiniog-launches-new-management-plan/</a>  
+   Link:<a href="https://www.cnp.org.uk/news/bannau-brycheiniog-launches-new-management-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnp.org.uk/news/bannau-brycheiniog-launches-new-management-plan/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: biodiversitywales.org.uk  
-   Link: <a href="https://www.biodiversitywales.org.uk/en/local-to-you/brecon-beacons-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.biodiversitywales.org.uk/en/local-to-you/brecon-beacons-national-park/</a>  
+   Link:<a href="https://www.biodiversitywales.org.uk/en/local-to-you/brecon-beacons-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.biodiversitywales.org.uk/en/local-to-you/brecon-beacons-national-park/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: breconbeaconstourism.org  
-   Link: <a href="https://www.breconbeaconstourism.org/bannau-brycheiniog-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.breconbeaconstourism.org/bannau-brycheiniog-national-park/</a>  
+   Link:<a href="https://www.breconbeaconstourism.org/bannau-brycheiniog-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.breconbeaconstourism.org/bannau-brycheiniog-national-park/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZApkbFjHDs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZApkbFjHDs/</a>  
+   Link:<a href="https://www.instagram.com/p/DZApkbFjHDs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZApkbFjHDs/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: callofthewild.co.uk  
-   Link: <a href="https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/</a>  
+   Link:<a href="https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/</a>  

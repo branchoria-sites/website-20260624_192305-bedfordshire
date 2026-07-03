@@ -254,7 +254,7 @@ image: /assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-overview-s
 
 ## Introduction
 
-The Kelso sighting of 17 August 1997 is one of the clearest official UFO entries connected with historic [Roxburghshire]({{ 'what-really-happened-in-roxburghshires/' | relative_url }}), but “clearest” should not be mistaken for “solved” or “strong”. The Ministry of Defence’s published 1997 UFO list records a report at 02:30 in Kelso: an oval object, glowing orange, with a green light in the centre, accompanied by a rushing-wind sound and judged by the witness to be moving faster than a jet. That is enough to make the case distinct within Roxburghshire’s sparse public UFO record, but not enough to identify the cause with confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Kelso sighting of 17 August 1997 is one of the clearest official UFO entries connected with historic [Roxburghshire]({{ 'what-really-happened-in-roxburghshires/' | relative_url }}), but “clearest” should not be mistaken for “solved” or “strong”. The Ministry of Defence’s published 1997 UFO list records a report at 02:30 in Kelso: an oval object, glowing orange, with a green light in the centre, accompanied by a rushing-wind sound and judged by the witness to be moving faster than a jet. That is enough to make the case distinct within Roxburghshire’s sparse public UFO record, but not enough to identify the cause with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-overview.webp" | relative_url }}" alt="Overview image for Kelso 1997" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,21 +262,21 @@ The most honest reading is that the Kelso report remains an unexplained sighting
 
 ## What the MoD List Records
 
-The surviving official entry is brief but specific. In the Ministry of Defence’s “UFO Reports 1997” list, the Kelso report appears under 17 August 1997, at 02:30, with the location given as Kelso, Roxburghshire. The object was described as oval; it had a green light in the centre; it was glowing orange; there was a rushing-wind sound; and it was said to be going faster than a jet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The surviving official entry is brief but specific. In the Ministry of Defence’s “UFO Reports 1997” list, the Kelso report appears under 17 August 1997, at 02:30, with the location given as Kelso, Roxburghshire. The object was described as oval; it had a green light in the centre; it was glowing orange; there was a rushing-wind sound; and it was said to be going faster than a jet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 That short wording gives the sighting more texture than many “light in the sky” reports. The colour combination matters because orange and green are both common in misidentified aerial phenomena, but they can point in different directions. Orange can suggest a meteor, flare, lantern, low aircraft light, or light distorted by atmosphere. Green can be associated with aircraft navigation lights, some meteors, or colour effects in a fast bright object. The reported sound also matters, because many distant celestial sightings are silent, while low aircraft, helicopters, or rare sonic effects from large fireballs can produce sound.
 
 The time is important too. At 02:30, the sky over Kelso would have been dark, ordinary visual reference points would have been fewer, and a fast bright object could easily seem lower, larger, nearer, or more structured than it really was. Late-night sightings are not automatically unreliable, but they are harder to interpret when the file gives no duration, no direction, no elevation, no weather and no independent corroboration.
 
-Kelso’s location also matters. The town lies in the Scottish Borders, within the historic county of Roxburghshire, near the meeting of the Tweed and Teviot. Modern local-government geography places it in the Scottish Borders council area, while the UFO entry uses the older county name Roxburghshire. For this county-level UFO history, that historic-county label is the relevant one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kelso-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kelso &#124; Border Town, River Tweed, Abbeys</span><span class="citation-popover-snippet">Encyclopedia Britannica Kelso &#124; Border Town, River Tweed, Abbeys</span></span></span>
+Kelso’s location also matters. The town lies in the Scottish Borders, within the historic county of Roxburghshire, near the meeting of the Tweed and Teviot. Modern local-government geography places it in the Scottish Borders council area, while the UFO entry uses the older county name Roxburghshire. For this county-level UFO history, that historic-county label is the relevant one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Kelso-Scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Kelso &#124; Border Town, River Tweed, Abbeys</span><span class="citation-popover-snippet">Encyclopedia Britannica Kelso &#124; Border Town, River Tweed, Abbeys</span></span></span>
 
 
 <img src="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-1-dark.svg" | relative_url }}" alt="Kelso 1997 illustration 1" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Short Entry Carries Weight
 
-The Kelso case matters mainly because it is anchored in an official published list rather than only in memory, folklore or a later retelling. GOV.UK’s collection of UFO reports covers reports received by the Ministry of Defence from 1997 to 2009, and The National Archives describes the wider MoD UFO material as surviving files released because of public interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Kelso case matters mainly because it is anchored in an official published list rather than only in memory, folklore or a later retelling. GOV.UK’s collection of UFO reports covers reports received by the Ministry of Defence from 1997 to 2009, and The National Archives describes the wider MoD UFO material as surviving files released because of public interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-That does not mean the MoD verified the object as something extraordinary. It means a report was received, logged and later released. The distinction is crucial. The MoD’s role was not to prove alien visitation; historically, the defence question was whether there was evidence that UK airspace might have been compromised by hostile or unauthorised activity. Reuters summarised the MoD position in relation to its UFO files in those terms when reporting on the release of policy material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/business/britain-releases-ufo-sighting-and-policy-files-idUSLNE722051/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Britain releases UFO sighting and policy files</span><span class="citation-popover-snippet">Britain releases UFO sighting and policy files</span></span></span>
+That does not mean the MoD verified the object as something extraordinary. It means a report was received, logged and later released. The distinction is crucial. The MoD’s role was not to prove alien visitation; historically, the defence question was whether there was evidence that UK airspace might have been compromised by hostile or unauthorised activity. Reuters summarised the MoD position in relation to its UFO files in those terms when reporting on the release of policy material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/business/britain-releases-ufo-sighting-and-policy-files-idUSLNE722051/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Britain releases UFO sighting and policy files</span><span class="citation-popover-snippet">Britain releases UFO sighting and policy files</span></span></span>
 
 For Roxburghshire, the entry is still useful. It gives researchers a firm time, place and description. It also shows that the county’s UFO record is not built around a famous multi-witness landing case, a radar chase, or a long police investigation. Instead, Kelso represents a common kind of British UFO evidence: a compressed official log entry that preserves the witness’s impression but not the full circumstances needed to test it.
 
@@ -284,7 +284,7 @@ The case is therefore strongest as a documented report, not as a demonstrated ev
 
 ## What Details Are Missing
 
-The biggest problem with the Kelso sighting is not that the witness description is impossible. It is that the description is too short to investigate properly from the public record. The MoD list gives no witness name, no number of witnesses, no viewing direction, no estimated altitude, no duration, no start or end point in the sky, no weather conditions, no cloud cover, no moonlight context, no radar note, no police reference and no later conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The biggest problem with the Kelso sighting is not that the witness description is impossible. It is that the description is too short to investigate properly from the public record. The MoD list gives no witness name, no number of witnesses, no viewing direction, no estimated altitude, no duration, no start or end point in the sky, no weather conditions, no cloud cover, no moonlight context, no radar note, no police reference and no later conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 Those omissions make several important questions unanswerable.
 
@@ -292,7 +292,7 @@ Those omissions make several important questions unanswerable.
 
 **Was the green centre a separate light?** The entry says the object had a green light in the centre, but it does not tell us whether this was steady, flashing, embedded in an orange glow, or briefly visible during a colour change. That difference matters because aircraft lights, meteors and optical effects would each produce different patterns.
 
-**Was the rushing-wind sound simultaneous?** A rushing sound heard at the same moment might suggest a nearby aircraft, a low fast object, wind in the local environment, or a psychological association with a fast visual event. A delayed boom or rumble would fit some fireball cases better, but the entry does not say whether the sound was immediate or delayed. The American Meteor Society notes that fireball sounds are possible but rare, and distinguishes sonic booms from reported electrophonic sounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+**Was the rushing-wind sound simultaneous?** A rushing sound heard at the same moment might suggest a nearby aircraft, a low fast object, wind in the local environment, or a psychological association with a fast visual event. A delayed boom or rumble would fit some fireball cases better, but the entry does not say whether the sound was immediate or delayed. The American Meteor Society notes that fireball sounds are possible but rare, and distinguishes sonic booms from reported electrophonic sounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
 **How was “faster than a jet” judged?** Witnesses often estimate speed by comparing what they saw with familiar aircraft, but without distance the apparent speed is highly uncertain. A meteor high in the atmosphere can cross a large part of the sky in seconds and appear extraordinarily fast. A low aircraft can also seem faster than expected if it is close, partly obscured, or heard only briefly.
 
@@ -309,11 +309,11 @@ The leading ordinary possibilities are a bright meteor or fireball, an aircraft 
 
 ### A bright meteor or fireball
 
-The meteor explanation fits several parts of the report. The sighting occurred in mid-August, during the active period of the Perseid meteor shower. Royal Museums Greenwich describes the Perseids as active from mid-July to late August, peaking around 12–13 August, while NASA notes that Perseids are swift, bright meteors that can leave long wakes of light and colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span>
+The meteor explanation fits several parts of the report. The sighting occurred in mid-August, during the active period of the Perseid meteor shower. Royal Museums Greenwich describes the Perseids as active from mid-July to late August, peaking around 12–13 August, while NASA notes that Perseids are swift, bright meteors that can leave long wakes of light and colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">perseid meteor shower guide uk when where to see</span><span class="citation-popover-snippet">perseid meteor shower guide uk when where to see</span></span></span>
 
 The Kelso report came several days after the usual Perseid peak, so it should not be simplified into “it was definitely the Perseids”. But the date still falls within the shower’s active window, and sporadic fireballs can also occur outside shower peaks. A fast orange object with a green element is compatible with a bright meteor, especially if the witness saw only a short, intense passage.
 
-The sound is the awkward part. Most meteors are silent to observers because they burn up high in the atmosphere and any ordinary sound would arrive later, if at all. However, very bright fireballs can rarely produce sonic booms or other reported sounds. The American Meteor Society’s fireball guidance specifically treats sound as possible but uncommon, which means sound does not rule out a fireball, but it also prevents a neat identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+The sound is the awkward part. Most meteors are silent to observers because they burn up high in the atmosphere and any ordinary sound would arrive later, if at all. However, very bright fireballs can rarely produce sonic booms or other reported sounds. The American Meteor Society’s fireball guidance specifically treats sound as possible but uncommon, which means sound does not rule out a fireball, but it also prevents a neat identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
 A fireball explanation would be stronger if the report had mentioned a short duration, a straight downward or horizontal track, a trail, fragmentation, or a delayed boom. The released Kelso entry does not include those details.
 
@@ -321,7 +321,7 @@ A fireball explanation would be stronger if the report had mentioned a short dur
 <img src="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-2-dark.svg" | relative_url }}" alt="Kelso 1997 illustration 2" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### An aircraft seen under unusual conditions
 
-An aircraft explanation also has some strengths. Aircraft can show coloured lights at night, including green and red navigation lights, and bright white landing or anti-collision lights can distort a witness’s sense of shape and distance. General aviation guidance describes green lighting on the right wingtip and red lighting on the left, with white lights on the tail and other anti-collision or landing lights depending on the aircraft and phase of flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">Pilot Institute Airplane Lights: What Each Light Does (Red/Green, Strobe,</span><span class="citation-popover-snippet">Pilot Institute Airplane Lights: What Each Light Does (Red/Green, Strobe,</span></span></span>
+An aircraft explanation also has some strengths. Aircraft can show coloured lights at night, including green and red navigation lights, and bright white landing or anti-collision lights can distort a witness’s sense of shape and distance. General aviation guidance describes green lighting on the right wingtip and red lighting on the left, with white lights on the tail and other anti-collision or landing lights depending on the aircraft and phase of flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">Pilot Institute Airplane Lights: What Each Light Does (Red/Green, Strobe,</span><span class="citation-popover-snippet">Pilot Institute Airplane Lights: What Each Light Does (Red/Green, Strobe,</span></span></span>
 
 The “rushing wind” sound could fit an aircraft better than a meteor if the object was low enough or if the sound was heard at the same time as the sighting. Kelso’s rural setting could make an aircraft seem more dramatic at night because there are fewer surrounding lights and less urban noise. A fast aircraft glimpsed briefly could also be interpreted as an oval orange object if its lights were seen through haze, cloud, partial obstruction, or from an unusual angle.
 
@@ -331,7 +331,7 @@ The aircraft explanation has weaknesses too. The witness reportedly judged the o
 
 A flare or lantern-like object can explain orange glow, but it is a poorer fit for the reported speed and rushing-wind sound. Chinese lantern reports became especially common in later years, but a lantern would normally drift, not travel faster than a jet. A military flare could be bright and orange, but it would usually descend or hang rather than race across the sky. The Kelso entry also gives no context of exercises, fireworks, distress signals or multiple observers.
 
-This category is still worth mentioning because many UFO reports begin as unusual lights rather than structured craft. BBC Sky at Night Magazine’s guide to commonly mistaken UFOs stresses that many sightings have ordinary origins, including human-made lights, aircraft, satellites, meteors and optical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+This category is still worth mentioning because many UFO reports begin as unusual lights rather than structured craft. BBC Sky at Night Magazine’s guide to commonly mistaken UFOs stresses that many sightings have ordinary origins, including human-made lights, aircraft, satellites, meteors and optical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
 For Kelso, though, a simple drifting light is not the best match. The description’s speed and sound point more strongly towards either a fast natural object or a powered aircraft.
 
@@ -344,7 +344,7 @@ On the accessible public evidence, later reporting does not appear to have stren
 
 That absence matters because many stronger UFO cases become stronger through convergence: several independent witnesses, consistent times and directions, physical traces, radar records, photographs with provenance, police logs, aviation records, or detailed interviews close to the event. Kelso has none of those in the publicly visible summary.
 
-The wider MoD context also cautions against overreading the entry. The UK UFO desk and hotline were closed in 2009, with released files later indicating that the function was judged to serve no defence purpose and divert resources from more valuable defence work. That closure does not explain Kelso, but it shows how the MoD eventually treated the accumulated reporting system: useful for logging public reports, not evidence of a sustained defence problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The wider MoD context also cautions against overreading the entry. The UK UFO desk and hotline were closed in 2009, with released files later indicating that the function was judged to serve no defence purpose and divert resources from more valuable defence work. That closure does not explain Kelso, but it shows how the MoD eventually treated the accumulated reporting system: useful for logging public reports, not evidence of a sustained defence problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 In other words, later archive releases preserve the Kelso sighting rather than elevate it. They keep the case available for county-level history, but they do not turn it into a landmark investigation.
 
@@ -363,194 +363,194 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
 <img src="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-3-dark.svg" | relative_url }}" alt="Kelso 1997 illustration 3" data-theme-src-dark="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roxburghshire_8333b2_kelso_1997_sighting_d507b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Kelso&#x27;s 1997 UFO Ever Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Kelso&#x27;s 1997 UFO Ever Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how to evaluate witness descriptions and incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to evaluate witness descriptions and incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on official case records and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official case records and unresolved sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides a British comparison case for assessing official UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a British comparison case for assessing official UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closest match to a page examining a specific official sighting report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest match to a page examining a specific official sighting report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="kelso-1997-was-kelso-s-1997-ufo-ever-explained-roxburghshire-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-kelso-s-1997-ufo-ever-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,173 +756,173 @@ For readers exploring Roxburghshire’s UFO history, Kelso is therefore a useful
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Kelso | Border Town, River Tweed, Abbeys  
-   Link: <a href="https://www.britannica.com/place/Kelso-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kelso-Scotland</a>  
+   Link:<a href="https://www.britannica.com/place/Kelso-Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kelso-Scotland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scotborders.gov.uk  
    Title: Scottish Borders Council Kelso  
-   Link: <a href="https://www.scotborders.gov.uk/directory-record/25999/kelso" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/directory-record/25999/kelso</a>  
+   Link:<a href="https://www.scotborders.gov.uk/directory-record/25999/kelso" target="_blank" rel="noopener noreferrer nofollow">https://www.scotborders.gov.uk/directory-record/25999/kelso</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Britain releases UFO sighting and policy files  
-   Link: <a href="https://www.reuters.com/article/business/britain-releases-ufo-sighting-and-policy-files-idUSLNE722051/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/business/britain-releases-ufo-sighting-and-policy-files-idUSLNE722051/</a>  
+   Link:<a href="https://www.reuters.com/article/business/britain-releases-ufo-sighting-and-policy-files-idUSLNE722051/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/business/britain-releases-ufo-sighting-and-policy-files-idUSLNE722051/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/perseids/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/perseids/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C12738092" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C12738092</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C12738092" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C12738092</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Roxburghshire</a>  
+   Link:<a href="https://www.britannica.com/place/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Roxburghshire</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rmg.co.uk  
    Title: perseid meteor shower guide uk when where to see  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/perseid-meteor-shower-guide-uk-when-where-to-see</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pilotinstitute.com  
    Title: Pilot Institute Airplane Lights: What Each Light Does (Red/Green, Strobe,  
-   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
+   Link:<a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburghshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Roxburghshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Roxburghshire</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
+   Link:<a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
    Title: rare daytime fireball spotted from orbit as residents report powerful sonic boom  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: spacecentre.co.uk  
    Title: perseid meteor shower  
-   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/</a>  
+   Link:<a href="https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/perseid-meteor-shower/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/national-maritime-museum/attractions/see-45-billion-year-old-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/national-maritime-museum/attractions/see-45-billion-year-old-meteorite</a>  
+   Link:<a href="https://www.rmg.co.uk/national-maritime-museum/attractions/see-45-billion-year-old-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/national-maritime-museum/attractions/see-45-billion-year-old-meteorite</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scotlandstartshere.com  
-   Link: <a href="https://scotlandstartshere.com/point-of-interest/kelso/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandstartshere.com/point-of-interest/kelso/</a>  
+   Link:<a href="https://scotlandstartshere.com/point-of-interest/kelso/" target="_blank" rel="noopener noreferrer nofollow">https://scotlandstartshere.com/point-of-interest/kelso/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: space-park.co.uk  
    Title: perseid meteor shower  
-   Link: <a href="https://www.space-park.co.uk/2025/08/perseid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.space-park.co.uk/2025/08/perseid-meteor-shower/</a>  
+   Link:<a href="https://www.space-park.co.uk/2025/08/perseid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.space-park.co.uk/2025/08/perseid-meteor-shower/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO Files: All of the videos from latest Defense Department release  
-   Link: <a href="http://www.youtube.com/watch?v=VOinXr2uruI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VOinXr2uruI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK MoD UFO files 1997 explained UK Cities With the Most UFO Sightings (1997–2023) | FOI Data Bar Chart ChartRush...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=VOinXr2uruI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VOinXr2uruI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK MoD UFO files 1997 explained UK Cities With the Most UFO Sightings (1997–2023) | FOI Data Bar Chart ChartRush...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Britain's UFO Files: What the Mo D Never Explained | UK UAP Cases  
-   Link: <a href="http://www.youtube.com/watch?v=J3srxKX7pr8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=J3srxKX7pr8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO files paint &#x27;very clear&#x27; picture of alien contact | NewsNation Prime...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=J3srxKX7pr8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=J3srxKX7pr8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO files paint &#x27;very clear&#x27; picture of alien contact | NewsNation Prime...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: New UFO files paint 'very clear' picture of alien contact | News Nation Prime  
-   Link: <a href="http://www.youtube.com/watch?v=4Hyx1i9Qppg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4Hyx1i9Qppg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My thoughts on the first round of UFO files...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=4Hyx1i9Qppg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4Hyx1i9Qppg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My thoughts on the first round of UFO files...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The Declassified UK UFO Files Hidden for Deca  
-   Link: <a href="http://www.youtube.com/watch?v=B3REQzpUC_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=B3REQzpUC_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s UFO Files: What the MoD Never Explained | UK UAP Cases...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=B3REQzpUC_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=B3REQzpUC_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s UFO Files: What the MoD Never Explained | UK UAP Cases...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: My thoughts on the first round of UFO files  
-   Link: <a href="http://www.youtube.com/watch?v=rXch3N4CBIE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rXch3N4CBIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files: All of the videos from latest Defense Department release...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rXch3N4CBIE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rXch3N4CBIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files: All of the videos from latest Defense Department release...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/</a>  
+   Link:<a href="https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: rivertweed.org.uk  
-   Link: <a href="https://rivertweed.org.uk/about-the-tweed-catchment/" target="_blank" rel="noopener noreferrer nofollow">https://rivertweed.org.uk/about-the-tweed-catchment/</a>  
+   Link:<a href="https://rivertweed.org.uk/about-the-tweed-catchment/" target="_blank" rel="noopener noreferrer nofollow">https://rivertweed.org.uk/about-the-tweed-catchment/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/aerial-view-of-kelso-and-the-river-tweed-roxburghshire-scottish-borders-scotland-image367411595.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/aerial-view-of-kelso-and-the-river-tweed-roxburghshire-scottish-borders-scotland-image367411595.html</a>  
+   Link:<a href="https://www.alamy.com/aerial-view-of-kelso-and-the-river-tweed-roxburghshire-scottish-borders-scotland-image367411595.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/aerial-view-of-kelso-and-the-river-tweed-roxburghshire-scottish-borders-scotland-image367411595.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: journalrecord.com  
-   Link: <a href="https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/" target="_blank" rel="noopener noreferrer nofollow">https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/</a>  
+   Link:<a href="https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/" target="_blank" rel="noopener noreferrer nofollow">https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/</a>  

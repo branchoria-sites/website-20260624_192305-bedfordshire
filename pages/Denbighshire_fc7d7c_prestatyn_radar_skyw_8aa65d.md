@@ -248,27 +248,27 @@ image: /assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-overview-s
 
 ## Introduction
 
-Prestatyn Mountain matters in [Denbighshire]({{ 'what-really-happened-in-denbighshires/' | relative_url }})’s UFO history because it brings three things together: a named local sighting claim, a high coastal viewpoint, and the visible remains of a Cold War radar station. The strongest specific report is not a dramatic official case but a 1971 newspaper item: a Prestatyn woman and her adult daughter were said to have seen a mysterious round or “globular” object flying over Prestatyn Mountain. Later police logs show that the wider Prestatyn and Meliden hillside area continued to produce reports of odd lights and objects, but usually with very little detail. The radar station makes the setting memorable, yet it does not prove radar confirmation, military pursuit, or a cover-up. The more careful reading is that Prestatyn Mountain is a local skywatching clue: a place where open views, Cold War infrastructure and thinly recorded sightings have become tangled together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive+2North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+Prestatyn Mountain matters in [Denbighshire]({{ 'what-really-happened-in-denbighshires/' | relative_url }})’s UFO history because it brings three things together: a named local sighting claim, a high coastal viewpoint, and the visible remains of a Cold War radar station. The strongest specific report is not a dramatic official case but a 1971 newspaper item: a Prestatyn woman and her adult daughter were said to have seen a mysterious round or “globular” object flying over Prestatyn Mountain. Later police logs show that the wider Prestatyn and Meliden hillside area continued to produce reports of odd lights and objects, but usually with very little detail. The radar station makes the setting memorable, yet it does not prove radar confirmation, military pursuit, or a cover-up. The more careful reading is that Prestatyn Mountain is a local skywatching clue: a place where open views, Cold War infrastructure and thinly recorded sightings have become tangled together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[britishnewspaperarchive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-overview.webp" | relative_url }}" alt="Overview image for Prestatyn Radar" loading="eager" decoding="sync" fetchpriority="high">
 ## The reported Prestatyn Mountain object
 
-The clearest historic UFO-style reference found for this page is a Liverpool Daily Post Welsh Edition item published on 20 February 1971 under the headline “Mystery object spotted near Prestatyn”. The British Newspaper Archive search text says the latest UFO sighting had been reported by a Prestatyn woman, Mrs H. M. Bate of Marion Road, who with her 21-year-old daughter saw a mysterious object flying over Prestatyn Mountain on a Thursday night. The OCR text appears to render the description imperfectly as “global objest”, which is best treated cautiously as a likely “globular object” rather than as a precise technical description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+The clearest historic UFO-style reference found for this page is a Liverpool Daily Post Welsh Edition item published on 20 February 1971 under the headline “Mystery object spotted near Prestatyn”. The British Newspaper Archive search text says the latest UFO sighting had been reported by a Prestatyn woman, Mrs H. M. Bate of Marion Road, who with her 21-year-old daughter saw a mysterious object flying over Prestatyn Mountain on a Thursday night. The OCR text appears to render the description imperfectly as “global objest”, which is best treated cautiously as a likely “globular object” rather than as a precise technical description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
-That is enough to place the story in local UFO history, but not enough to make it a strong evidential case. The accessible record does not provide a confirmed exact time, duration, angular size, direction of travel, weather conditions, astronomical checks, aircraft checks, photographs, radar logs, or a named official investigation. It is therefore better understood as a reported sighting in the local press than as a documented radar-era incident. Its value lies in showing that Prestatyn Mountain was already being named as a UFO setting in the early 1970s, not in proving that an extraordinary object was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+That is enough to place the story in local UFO history, but not enough to make it a strong evidential case. The accessible record does not provide a confirmed exact time, duration, angular size, direction of travel, weather conditions, astronomical checks, aircraft checks, photographs, radar logs, or a named official investigation. It is therefore better understood as a reported sighting in the local press than as a documented radar-era incident. Its value lies in showing that Prestatyn Mountain was already being named as a UFO setting in the early 1970s, not in proving that an extraordinary object was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
-Modern records echo the same hillside pattern without strengthening the 1971 claim. A North Wales Police Freedom of Information response covering April 2014 to April 2024 includes a 2014 report of “a very large black and silver object in the sky in Prestatyn area” and a 2015 Denbighshire coastal-area entry describing something in the “sky over Meliden mountain”, with the caller and his wife saying it was not an aeroplane and “definitely a UFO”. These logs are useful because they show continued reporting around the Prestatyn-Meliden hillside, but they are police incident summaries, not completed investigations with technical conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
+Modern records echo the same hillside pattern without strengthening the 1971 claim. A North Wales Police Freedom of Information response covering April 2014 to April 2024 includes a 2014 report of “a very large black and silver object in the sky in Prestatyn area” and a 2015 Denbighshire coastal-area entry describing something in the “sky over Meliden mountain”, with the caller and his wife saying it was not an aeroplane and “definitely a UFO”. These logs are useful because they show continued reporting around the Prestatyn-Meliden hillside, but they are police incident summaries, not completed investigations with technical conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
 
-The same FOI table also shows why caution is necessary. Some entries elsewhere in North Wales are brief, ambiguous or plainly vulnerable to ordinary explanations: red and green flashing lights, a possible drone, a red and white light before bedtime, and one 2019 call where the logged sound was judged to be “clearly a helicopter”. That mix is typical of local UFO reporting: one or two intriguing phrases sit beside many ordinary sky confusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
+The same FOI table also shows why caution is necessary. Some entries elsewhere in North Wales are brief, ambiguous or plainly vulnerable to ordinary explanations: red and green flashing lights, a possible drone, a red and white light before bedtime, and one 2019 call where the logged sound was judged to be “clearly a helicopter”. That mix is typical of local UFO reporting: one or two intriguing phrases sit beside many ordinary sky confusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-1-dark.svg" | relative_url }}" alt="Prestatyn Radar illustration 1" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this hillside attracts sky reports
 
-Prestatyn’s hillside is a natural viewing platform. Prestatyn Town Council describes the town as lying between the North Wales coast and a hillside, with views from the Gwaenysgor viewpoint over Rhyl and Prestatyn and, in clear conditions, towards the Isle of Man and Cumbria. The Clwydian Range and Dee Valley National Landscape describes Prestatyn Hillside as steep limestone slopes above Prestatyn and Meliden, crossed by the Offa’s Dyke Path and overlooking the North Wales coastline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prestatyntc.gov.wales/visit/outdoor-acitivities/hillsides-at-prestatyn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prestatyntc.gov.wales">[Prestatyn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prestatyntc.gov.wales</span><span class="citation-popover-snippet">Open source on gov.wales.</span></span></span>
+Prestatyn’s hillside is a natural viewing platform. Prestatyn Town Council describes the town as lying between the North Wales coast and a hillside, with views from the Gwaenysgor viewpoint over Rhyl and Prestatyn and, in clear conditions, towards the Isle of Man and Cumbria. The Clwydian Range and Dee Valley National Landscape describes Prestatyn Hillside as steep limestone slopes above Prestatyn and Meliden, crossed by the Offa’s Dyke Path and overlooking the North Wales coastline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prestatyntc.gov.wales/visit/outdoor-acitivities/hillsides-at-prestatyn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prestatyntc.gov.wales">[Prestatyn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prestatyntc.gov.wales</span><span class="citation-popover-snippet">Open source on gov.wales.</span></span></span>
 
-That geography matters more than it may first appear. A high, open coastal viewpoint can make ordinary sky objects look unusual because the observer sees lights over long distances and against few nearby reference points. Aircraft over Liverpool Bay, lights along the coast, drones, satellites, meteors and bright planets can all appear detached from the ground when seen from a slope or from the town looking up towards the ridge. The police logs do not prove those explanations in each case, but their recurring language — “lights in the sky”, “drone or a UFO”, “not aeroplane” — fits the common pattern of uncertain night-sky observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
+That geography matters more than it may first appear. A high, open coastal viewpoint can make ordinary sky objects look unusual because the observer sees lights over long distances and against few nearby reference points. Aircraft over Liverpool Bay, lights along the coast, drones, satellites, meteors and bright planets can all appear detached from the ground when seen from a slope or from the town looking up towards the ridge. The police logs do not prove those explanations in each case, but their recurring language — “lights in the sky”, “drone or a UFO”, “not aeroplane” — fits the common pattern of uncertain night-sky observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northwales.police.uk">[North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northwales.police.uk</span><span class="citation-popover-snippet">North Wales Police</span></span></span>
 
 This is also why Prestatyn Mountain can feel more mysterious than a flat urban street. A witness may be looking towards the hill, over the hill, or from the hill, and the phrase “over Prestatyn Mountain” can mean several different lines of sight. Without a compass bearing, elevation angle and duration, a report that sounds local may actually involve an object many miles away across the coast or the Irish Sea. That does not make the witness dishonest; it shows why sparse UFO reports are hard to reconstruct later.
 
@@ -277,32 +277,32 @@ This is also why Prestatyn Mountain can feel more mysterious than a flat urban s
 
 ## ROTOR radar history and local plausibility
 
-The radar backdrop is real. Prestatyn had a former RAF radar post near Gwaenysgor, and the surviving ROTOR station is described by Subterranea Britannica as one of the sites proposed in the ROTOR programme, with a heavily built R11 operations block. The same source says the wider ROTOR 3 programme was intended to be complete by 1957, but by the target date of April 1956 some stations had already closed, and the 1958 “Comprehensive Radar Station” plan had no place for Prestatyn, which closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-snippet">Subterranea BritannicaPrestatyn Rotor Radar StationThese were to be heavily built operations blocks, designated R11; the above ground ver...</span></span></span>
+The radar backdrop is real. Prestatyn had a former RAF radar post near Gwaenysgor, and the surviving ROTOR station is described by Subterranea Britannica as one of the sites proposed in the ROTOR programme, with a heavily built R11 operations block. The same source says the wider ROTOR 3 programme was intended to be complete by 1957, but by the target date of April 1956 some stations had already closed, and the 1958 “Comprehensive Radar Station” plan had no place for Prestatyn, which closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-snippet">Subterranea BritannicaPrestatyn Rotor Radar StationThese were to be heavily built operations blocks, designated R11; the above ground ver...</span></span></span>
 
-The site’s earlier and wider radar context is also consistent with Britain’s mid-century air-defence history. Historic England’s research records explain that ROTOR was approved by the Air Council in 1950 to modernise the United Kingdom’s radar defences, restoring and reorganising wartime Chain Home, Chain Home Extra Low and Ground Controlled Interception stations under RAF Fighter Command. Subterranea Britannica’s broader ROTOR summary links the programme to the first Soviet nuclear test in 1949 and the Korean War, which changed British assumptions about the urgency of air defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagegateway.org.uk">[heritagegateway.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagegateway.org.uk</span><span class="citation-popover-title">Results Single.aspx</span><span class="citation-popover-snippet">Results Single.aspx</span></span></span>
+The site’s earlier and wider radar context is also consistent with Britain’s mid-century air-defence history. Historic England’s research records explain that ROTOR was approved by the Air Council in 1950 to modernise the United Kingdom’s radar defences, restoring and reorganising wartime Chain Home, Chain Home Extra Low and Ground Controlled Interception stations under RAF Fighter Command. Subterranea Britannica’s broader ROTOR summary links the programme to the first Soviet nuclear test in 1949 and the Korean War, which changed British assumptions about the urgency of air defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagegateway.org.uk">[heritagegateway.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagegateway.org.uk</span><span class="citation-popover-title">Results Single.aspx</span><span class="citation-popover-snippet">Results Single.aspx</span></span></span>
 
-Prestatyn’s particular station is often remembered because it is visible and concrete rather than abstract. Geograph describes the former RAF Prestatyn Chain Home Extra Low ROTOR station as a Cold War radar installation on Gwaenysgor hill, with a large surface-built R11 operations block rather than the underground R2 bunkers used elsewhere. Urban exploration and heritage accounts similarly note that the square block is visible from much of Prestatyn, although such accounts should be used for site description rather than for proving operational details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geograph.org.uk/photo/6203806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geograph.org.uk">[Geograph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geograph.org.uk</span><span class="citation-popover-title">Geograph RAF Prestatyn</span><span class="citation-popover-snippet">Geograph RAF Prestatyn</span></span></span>
+Prestatyn’s particular station is often remembered because it is visible and concrete rather than abstract. Geograph describes the former RAF Prestatyn Chain Home Extra Low ROTOR station as a Cold War radar installation on Gwaenysgor hill, with a large surface-built R11 operations block rather than the underground R2 bunkers used elsewhere. Urban exploration and heritage accounts similarly note that the square block is visible from much of Prestatyn, although such accounts should be used for site description rather than for proving operational details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geograph.org.uk/photo/6203806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geograph.org.uk">[Geograph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geograph.org.uk</span><span class="citation-popover-title">Geograph RAF Prestatyn</span><span class="citation-popover-snippet">Geograph RAF Prestatyn</span></span></span>
 
-The important distinction is this: a former radar station near a UFO sighting location is not the same as radar evidence for that sighting. The 1971 Prestatyn Mountain report appears in a newspaper snippet, not as a declassified radar track. The later police records mention callers and lights, not radar returns. In a careful Denbighshire account, the radar station explains why the place feels connected to air-defence history; it does not turn the reported object into a military-confirmed UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive+2North Wales Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+The important distinction is this: a former radar station near a UFO sighting location is not the same as radar evidence for that sighting. The 1971 Prestatyn Mountain report appears in a newspaper snippet, not as a declassified radar track. The later police records mention callers and lights, not radar returns. In a careful Denbighshire account, the radar station explains why the place feels connected to air-defence history; it does not turn the reported object into a military-confirmed UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[britishnewspaperarchive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
 
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-2-dark.svg" | relative_url }}" alt="Prestatyn Radar illustration 2" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What radar can and cannot add to a UFO story
 
-Radar has a special place in UFO history because it seems to offer machine evidence independent of a witness. UK official files and commentary show why that is attractive but also why it can mislead. The National Archives guide to UFO records notes that the Ministry of Defence’s files include UFO policy, correspondence and reports, while David Clarke’s National Archives material says the released files contain around 11,000 sighting reports and policy papers from the MoD’s UFO branches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Radar has a special place in UFO history because it seems to offer machine evidence independent of a witness. UK official files and commentary show why that is attractive but also why it can mislead. The National Archives guide to UFO records notes that the Ministry of Defence’s files include UFO policy, correspondence and reports, while David Clarke’s National Archives material says the released files contain around 11,000 sighting reports and policy papers from the MoD’s UFO branches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-At the same time, radar-era UFO evidence was never simple. A National Archives extract from The UFO Files notes that visual sightings apparently corroborated by radar particularly concerned the Air Ministry, but it also records that “angel” and “ghost” echoes troubled RAF radar in the early 1950s, sometimes appearing like small-aircraft echoes. This is directly relevant to Prestatyn: the existence of radar infrastructure makes a setting historically interesting, but radar itself has always required interpretation, filtering and correlation with aircraft, weather and visual observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">the ufo files extract</span></span></span>
+At the same time, radar-era UFO evidence was never simple. A National Archives extract from The UFO Files notes that visual sightings apparently corroborated by radar particularly concerned the Air Ministry, but it also records that “angel” and “ghost” echoes troubled RAF radar in the early 1950s, sometimes appearing like small-aircraft echoes. This is directly relevant to Prestatyn: the existence of radar infrastructure makes a setting historically interesting, but radar itself has always required interpretation, filtering and correlation with aircraft, weather and visual observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">the ufo files extract</span></span></span>
 
-The National Archives research guide also gives a useful sceptical baseline: a large proportion of UFO reports are eventually plausibly related to ordinary phenomena, and official reviews found no evidence that UFO sightings represented a defence hazard. That does not erase every unexplained case, but it sets the burden of proof. A convincing Prestatyn Mountain radar-era case would need more than a local memory and a nearby bunker; it would need dated radar data, a matching visual report, aircraft-control records, weather context and a documented chain showing how investigators handled the anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives research guide also gives a useful sceptical baseline: a large proportion of UFO reports are eventually plausibly related to ordinary phenomena, and official reviews found no evidence that UFO sightings represented a defence hazard. That does not erase every unexplained case, but it sets the burden of proof. A convincing Prestatyn Mountain radar-era case would need more than a local memory and a nearby bunker; it would need dated radar data, a matching visual report, aircraft-control records, weather context and a documented chain showing how investigators handled the anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6vI4Ebb0cGI" title="Inside RAF Prestatyn (R11 Nuclear bunker) ROTOR Radar system" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6vI4Ebb0cGI" target="_blank" rel="noopener noreferrer">Inside RAF Prestatyn (R11 Nuclear bunker) ROTOR Radar system</a></p><p class="youtube-embed-meta">Channel: Andy Outdoors</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6vI4Ebb0cGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6vI4Ebb0cGI">Open on YouTube</a></p></div></div></div>
 
 ## Where folklore outruns the evidence
 
-Prestatyn Mountain is exactly the kind of place where folklore can grow faster than the archive. It has a named mountain or hillside, a visible Cold War structure, a coastal horizon and a real newspaper UFO report. Those ingredients are memorable, and they invite a neat story: people saw something over the mountain, and there was a radar station nearby, so perhaps the military knew more. The problem is that the available evidence does not complete that chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+Prestatyn Mountain is exactly the kind of place where folklore can grow faster than the archive. It has a named mountain or hillside, a visible Cold War structure, a coastal horizon and a real newspaper UFO report. Those ingredients are memorable, and they invite a neat story: people saw something over the mountain, and there was a radar station nearby, so perhaps the military knew more. The problem is that the available evidence does not complete that chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
-Three gaps are especially important. First, the 1971 report is presently visible only in limited newspaper-search text, not as a fully checked case file. Second, the known ROTOR station chronology suggests Prestatyn’s radar role belonged mainly to the Second World War and early Cold War period, with the ROTOR station closing before the late-1960s and 1970s UFO wave entered popular culture. Third, the modern North Wales Police entries show reports of UFOs and lights, but they do not show that police, RAF or civil aviation investigators confirmed an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive+2Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+Three gaps are especially important. First, the 1971 report is presently visible only in limited newspaper-search text, not as a fully checked case file. Second, the known ROTOR station chronology suggests Prestatyn’s radar role belonged mainly to the Second World War and early Cold War period, with the ROTOR station closing before the late-1960s and 1970s UFO wave entered popular culture. Third, the modern North Wales Police entries show reports of UFOs and lights, but they do not show that police, RAF or civil aviation investigators confirmed an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[britishnewspaperarchive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
 That makes the best interpretation modest but still useful. Prestatyn Mountain is not a “solved alien case”, nor is it a strong cover-up case. It is a local example of how UFO history attaches itself to landscapes that already train people to look upwards: coastlines, ridges, military remains and open-sky viewpoints. Within Denbighshire, it helps explain why some UFO reports cluster around particular places even when the evidence for any single sighting remains thin.
 
@@ -310,7 +310,7 @@ That makes the best interpretation modest but still useful. Prestatyn Mountain i
 <img src="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-3-dark.svg" | relative_url }}" alt="Prestatyn Radar illustration 3" data-theme-src-dark="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read the Prestatyn claims today
 
-A fair reader can hold two ideas at once. The first is that witnesses in Prestatyn and Meliden did report things they found unusual, including the 1971 Prestatyn Mountain object and later police-log reports of objects or lights in the sky. The second is that the surviving records are too thin to support a stronger claim than “unidentified to the witness at the time”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
+A fair reader can hold two ideas at once. The first is that witnesses in Prestatyn and Meliden did report things they found unusual, including the 1971 Prestatyn Mountain object and later police-log reports of objects or lights in the sky. The second is that the surviving records are too thin to support a stronger claim than “unidentified to the witness at the time”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishnewspaperarchive.co.uk">[British Newspaper Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishnewspaperarchive.co.uk</span><span class="citation-popover-snippet">British Newspaper ArchiveResults for &#x27;ufo&#x27; &#124; Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</span></span></span>
 
 The most useful way to assess any future Prestatyn Mountain sighting is to ask for the missing context that older reports rarely preserve:
 
@@ -332,194 +332,194 @@ This approach keeps the story interesting without making it bigger than the evid
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Prestatyn Mountain Became a Skywatching Clue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Prestatyn Mountain Became a Skywatching Clue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for a skywatching and witness-observation themed page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a skywatching and witness-observation themed page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Links local folklore, landscape and unusual sky reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links local folklore, landscape and unusual sky reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how credible witnesses report unusual aerial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how credible witnesses report unusual aerial objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores modern interpretations of unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern interpretations of unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="prestatyn-radar-why-prestatyn-mountain-became-a-skywatching-clue-denbighshire-ufo-wall-art-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ This approach keeps the story interesting without making it bigger than the evid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ This approach keeps the story interesting without making it bigger than the evid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ This approach keeps the story interesting without making it bigger than the evid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ This approach keeps the story interesting without making it bigger than the evid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ This approach keeps the story interesting without making it bigger than the evid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,182 +725,182 @@ This approach keeps the story interesting without making it bigger than the evid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: northwales.police.uk  
    Title: North Wales Police  
-   Link: <a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
+   Link:<a href="https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.northwales.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2024/2024-865-ufo-sightings.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: heritagegateway.org.uk  
    Title: Results Single.aspx  
-   Link: <a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477268" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477268</a>  
+   Link:<a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477268" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477268</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heritagegateway.org.uk  
    Title: Results Single.aspx  
-   Link: <a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477337" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477337</a>  
+   Link:<a href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477337" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&amp;uid=1477337</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British Newspaper ArchiveResults for &#x27;ufo&#x27; | Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</p></details>
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;place=wrexham%2C+denbighshire%2C+wales&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Newspaper ArchiveResults for &#x27;ufo&#x27; | Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 814 newspaper articles co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: subbrit.org.uk  
-   Link: <a href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Subterranea BritannicaPrestatyn Rotor Radar StationThese were to be heavily built operations blocks, designated R11; the above ground ver...</p></details>
+   Link:<a href="https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/prestatyn-rotor-radar-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subterranea BritannicaPrestatyn Rotor Radar StationThese were to be heavily built operations blocks, designated R11; the above ground ver...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2</a>  
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?BasicSearch=ufo&amp;County=denbighshire%2C+wales&amp;MostSpecificLocation=denbighshire%2C+wales&amp;RetrieveCountryCounts=False&amp;SomeSearch=ufo&amp;SortOrder=score&amp;page=2</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prestatyntc.gov.wales  
-   Link: <a href="https://prestatyntc.gov.wales/visit/outdoor-acitivities/hillsides-at-prestatyn/" target="_blank" rel="noopener noreferrer nofollow">https://prestatyntc.gov.wales/visit/outdoor-acitivities/hillsides-at-prestatyn/</a>  
+   Link:<a href="https://prestatyntc.gov.wales/visit/outdoor-acitivities/hillsides-at-prestatyn/" target="_blank" rel="noopener noreferrer nofollow">https://prestatyntc.gov.wales/visit/outdoor-acitivities/hillsides-at-prestatyn/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: subbrit.org.uk  
-   Link: <a href="https://www.subbrit.org.uk/features/rotor-radar-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/features/rotor-radar-system/</a>  
+   Link:<a href="https://www.subbrit.org.uk/features/rotor-radar-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/features/rotor-radar-system/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: geograph.org.uk  
    Title: Geograph RAF Prestatyn  
-   Link: <a href="https://www.geograph.org.uk/photo/6203806" target="_blank" rel="noopener noreferrer nofollow">https://www.geograph.org.uk/photo/6203806</a>  
+   Link:<a href="https://www.geograph.org.uk/photo/6203806" target="_blank" rel="noopener noreferrer nofollow">https://www.geograph.org.uk/photo/6203806</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/563855813990883/posts/2053187718391011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/563855813990883/posts/2053187718391011/</a>  
+   Link:<a href="https://www.facebook.com/groups/563855813990883/posts/2053187718391011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/563855813990883/posts/2053187718391011/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: RAF Prestatyn  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Prestatyn" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Prestatyn</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Prestatyn" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Prestatyn</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/ROTOR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ROTOR</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/ROTOR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ROTOR</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: historicengland.org.uk  
    Title: RAFTrimingham Norfolk Radarstation  
-   Link: <a href="https://historicengland.org.uk/research/results/reports/8770/RAFTriminghamNorfolk-Radarstation" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/research/results/reports/8770/RAFTriminghamNorfolk-Radarstation</a>  
+   Link:<a href="https://historicengland.org.uk/research/results/reports/8770/RAFTriminghamNorfolk-Radarstation" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/research/results/reports/8770/RAFTriminghamNorfolk-Radarstation</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://www.britishnewspaperarchive.co.uk/search/results/1971-01-01/1971-12-31?basicsearch=%22william+jones%22&amp;page=10&amp;phrasesearch=william+jones&amp;region=north+wales%2C+wales&amp;retrievecountrycounts=false&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results/1971-01-01/1971-12-31?basicsearch=%22william+jones%22&amp;page=10&amp;phrasesearch=william+jones&amp;region=north+wales%2C+wales&amp;retrievecountrycounts=false&amp;sortorder=score</a>  
+   Link:<a href="https://www.britishnewspaperarchive.co.uk/search/results/1971-01-01/1971-12-31?basicsearch=%22william+jones%22&amp;page=10&amp;phrasesearch=william+jones&amp;region=north+wales%2C+wales&amp;retrievecountrycounts=false&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results/1971-01-01/1971-12-31?basicsearch=%22william+jones%22&amp;page=10&amp;phrasesearch=william+jones&amp;region=north+wales%2C+wales&amp;retrievecountrycounts=false&amp;sortorder=score</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?basicsearch=the+girl+from+chicago+in+her+mystery+veil&amp;newspapertitle=liverpool%2Bdaily%2Bpost%2B%28welsh%2Bedition%29&amp;retrievecountrycounts=false&amp;somesearch=the+girl+from+chicago+in+her+mystery+veil&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?basicsearch=the+girl+from+chicago+in+her+mystery+veil&amp;newspapertitle=liverpool%2Bdaily%2Bpost%2B%28welsh%2Bedition%29&amp;retrievecountrycounts=false&amp;somesearch=the+girl+from+chicago+in+her+mystery+veil&amp;sortorder=score</a>  
+   Link:<a href="https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?basicsearch=the+girl+from+chicago+in+her+mystery+veil&amp;newspapertitle=liverpool%2Bdaily%2Bpost%2B%28welsh%2Bedition%29&amp;retrievecountrycounts=false&amp;somesearch=the+girl+from+chicago+in+her+mystery+veil&amp;sortorder=score" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?basicsearch=the+girl+from+chicago+in+her+mystery+veil&amp;newspapertitle=liverpool%2Bdaily%2Bpost%2B%28welsh%2Bedition%29&amp;retrievecountrycounts=false&amp;somesearch=the+girl+from+chicago+in+her+mystery+veil&amp;sortorder=score</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?anysearch=hailsham&amp;basicsearch=hailsham&amp;country=wales&amp;frontpage=false&amp;page=2&amp;retrievecountrycounts=false&amp;somesearch=hailsham&amp;sortorder=dayearly" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?anysearch=hailsham&amp;basicsearch=hailsham&amp;country=wales&amp;frontpage=false&amp;page=2&amp;retrievecountrycounts=false&amp;somesearch=hailsham&amp;sortorder=dayearly</a>  
+   Link:<a href="https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?anysearch=hailsham&amp;basicsearch=hailsham&amp;country=wales&amp;frontpage=false&amp;page=2&amp;retrievecountrycounts=false&amp;somesearch=hailsham&amp;sortorder=dayearly" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/results/1970-01-01/1979-12-31?anysearch=hailsham&amp;basicsearch=hailsham&amp;country=wales&amp;frontpage=false&amp;page=2&amp;retrievecountrycounts=false&amp;somesearch=hailsham&amp;sortorder=dayearly</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: subbrit.org.uk  
    Title: snaefell rotor radar station  
-   Link: <a href="https://www.subbrit.org.uk/sites/snaefell-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/snaefell-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/snaefell-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/snaefell-rotor-radar-station/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: subbrit.org.uk  
    Title: st twynells rotor radar station  
-   Link: <a href="https://www.subbrit.org.uk/sites/st-twynells-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/st-twynells-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/st-twynells-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/st-twynells-rotor-radar-station/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/27168/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/27168/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/27168/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/27168/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Denbigh Lights UFO: Child Filmed THIS FOOTAGE. What's Happened Since?  
-   Link: <a href="https://www.youtube.com/watch?v=xSoUnjAUzro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xSoUnjAUzro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Welsh X Files: Wales&#x27; Most Significant UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xSoUnjAUzro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xSoUnjAUzro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Welsh X Files: Wales&#x27; Most Significant UFO Sightings...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Inside RAF Prestatyn (R11 Nuclear bunker) ROTOR Radar system  
-   Link: <a href="https://www.youtube.com/watch?v=6vI4Ebb0cGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6vI4Ebb0cGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denbigh Lights UFO: Child Filmed THIS FOOTAGE. What&#x27;s Happened Since?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6vI4Ebb0cGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6vI4Ebb0cGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denbigh Lights UFO: Child Filmed THIS FOOTAGE. What&#x27;s Happened Since?...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Welsh X Files: Wales' Most Significant UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=4YQiulodtho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4YQiulodtho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 528: The Berwyn Mountain UFO Incident - Roswelsh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4YQiulodtho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4YQiulodtho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 528: The Berwyn Mountain UFO Incident - Roswelsh...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394213110_Peripheral_vision_Operation_Rotor_radar_infrastructure_and_state_power_in_Scotland_1950-1957" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394213110_Peripheral_vision_Operation_Rotor_radar_infrastructure_and_state_power_in_Scotland_1950-1957</a>  
+   Link:<a href="https://www.researchgate.net/publication/394213110_Peripheral_vision_Operation_Rotor_radar_infrastructure_and_state_power_in_Scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394213110_Peripheral_vision_Operation_Rotor_radar_infrastructure_and_state_power_in_Scotland</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: clwydianrangeanddeevalleyaonb.org.uk  
-   Link: <a href="https://www.clwydianrangeanddeevalleyaonb.org.uk/article/prestatyn-hillside/" target="_blank" rel="noopener noreferrer nofollow">https://www.clwydianrangeanddeevalleyaonb.org.uk/article/prestatyn-hillside/</a>  
+   Link:<a href="https://www.clwydianrangeanddeevalleyaonb.org.uk/article/prestatyn-hillside/" target="_blank" rel="noopener noreferrer nofollow">https://www.clwydianrangeanddeevalleyaonb.org.uk/article/prestatyn-hillside/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177905516269509/posts/2086042202122488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/2086042202122488/</a>  
+   Link:<a href="https://www.facebook.com/groups/177905516269509/posts/2086042202122488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/2086042202122488/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northwaleslive/posts/donut-shaped-flying-objects-among-recent-ufo-sightings-recorded-in-north-walesfu/677621344408733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/posts/donut-shaped-flying-objects-among-recent-ufo-sightings-recorded-in-north-walesfu/677621344408733/</a>  
+   Link:<a href="https://www.facebook.com/northwaleslive/posts/donut-shaped-flying-objects-among-recent-ufo-sightings-recorded-in-north-walesfu/677621344408733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northwaleslive/posts/donut-shaped-flying-objects-among-recent-ufo-sightings-recorded-in-north-walesfu/677621344408733/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nutritionmodels.com  
-   Link: <a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
+   Link:<a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DGLmBt7ILjA/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGLmBt7ILjA/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DGLmBt7ILjA/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGLmBt7ILjA/?hl=en</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: themountainguide.co.uk  
-   Link: <a href="https://www.themountainguide.co.uk/wales/prestatyn-town" target="_blank" rel="noopener noreferrer nofollow">https://www.themountainguide.co.uk/wales/prestatyn-town</a>  
+   Link:<a href="https://www.themountainguide.co.uk/wales/prestatyn-town" target="_blank" rel="noopener noreferrer nofollow">https://www.themountainguide.co.uk/wales/prestatyn-town</a>  

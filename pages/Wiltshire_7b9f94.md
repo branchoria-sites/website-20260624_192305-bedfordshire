@@ -118,9 +118,9 @@ heading_title: Why Wiltshire Became a UFO Hotspot
 page_heading_title: Why Wiltshire Became a UFO Hotspot
 source_count: 157
 infographic_count: 3
-page_website_name: Wiltshire UFOs
+page_website_name: Wiltshire
 page_banner_line: Warminster, Salisbury Plain and the records behind Wiltshire's strangest skies.
-site_website_name: Wiltshire UFOs
+site_website_name: Wiltshire
 site_banner_line: Warminster, Salisbury Plain and the records behind Wiltshire's strangest skies.
 site_image_description: A night view from a Wiltshire hilltop with distant lights above open countryside and the dark outline of Salisbury Plain beyond.
 output_language: English
@@ -684,33 +684,33 @@ image: /assets/images/Wiltshire_7b9f94-overview-social.jpg
 
 ## What counts as Wiltshire in this UFO map?
 
-This page treats Wiltshire primarily as a historic county, following the project’s historic-county map frame. The Wikimedia Commons historic-counties map identifies Wiltshire as one of England’s historic counties and shows it separately from modern administrative boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Wiltshire_map.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:England Historic Counties Wiltshire map.svg</span><span class="citation-popover-snippet">Commons File:England Historic Counties Wiltshire map.svg</span></span></span> That matters because sightings and media stories often use “Wiltshire” loosely, while modern local government divides the area between Wiltshire Council and Swindon Borough Council.
+This page treats Wiltshire primarily as a historic county, following the project’s historic-county map frame. The Wikimedia Commons historic-counties map identifies Wiltshire as one of England’s historic counties and shows it separately from modern administrative boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Wiltshire_map.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:England Historic Counties Wiltshire map.svg</span><span class="citation-popover-snippet">Commons File:England Historic Counties Wiltshire map.svg</span></span></span> That matters because sightings and media stories often use “Wiltshire” loosely, while modern local government divides the area between Wiltshire Council and Swindon Borough Council.
 
 
 <img src="{{ "/assets/images/Wiltshire_7b9f94-overview.webp" | relative_url }}" alt="Overview image for Why Wiltshire Became a UFO Hotspot" loading="eager" decoding="sync" fetchpriority="high">
-The difference is usually not dramatic, but it can matter at the edges. Britannica notes that Wiltshire’s geographic, historic and unitary-authority areas “occupy slightly different areas”: the geographic county includes Swindon, while the historic county is nearly coterminous but includes a small area north of Sherston now in Gloucestershire’s Cotswold district. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Wiltshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Wiltshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Wiltshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span></span></span> For UFO history, the practical centre of gravity is clear: Warminster, Cley Hill, Cradle Hill, [Salisbury Plain]({{ 'salisbury-plain/' | relative_url }}), Stonehenge, Marlborough, Chippenham, Salisbury, Trowbridge, Swindon and the Corsham/[Rudloe Manor]({{ 'rudloe-manor/' | relative_url }}) area all belong naturally in the Wiltshire story.
+The difference is usually not dramatic, but it can matter at the edges. Britannica notes that Wiltshire’s geographic, historic and unitary-authority areas “occupy slightly different areas”: the geographic county includes Swindon, while the historic county is nearly coterminous but includes a small area north of Sherston now in Gloucestershire’s Cotswold district.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Wiltshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Wiltshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Wiltshire &#124; England, Map, History, &amp; Facts &#124; Britannica</span></span></span> For UFO history, the practical centre of gravity is clear: Warminster, Cley Hill, Cradle Hill, [Salisbury Plain]({{ 'salisbury-plain/' | relative_url }}), Stonehenge, Marlborough, Chippenham, Salisbury, Trowbridge, Swindon and the Corsham/[Rudloe Manor]({{ 'rudloe-manor/' | relative_url }}) area all belong naturally in the Wiltshire story.
 
 ## Why Warminster became Britain’s first great local UFO hotspot
 
-The strongest reason Wiltshire stands out is Warminster. In local reporting, the Warminster Thing began as strange sensory reports rather than simply “flying saucers”: vibrations, a menacing sound, and later lights or objects in the sky. The Warminster Journal’s 2025 retrospective says Arthur Shuttlewood, then a features writer at the Warminster Journal, reported a woman’s experience of “sudden vibrations” and a “menacing sound” above the town in 1965, and that by June similar reports were coming from across Warminster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/major-conference-to-explore-mystery-of-the-warminster-thing-this-summer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span>
+The strongest reason Wiltshire stands out is Warminster. In local reporting, the Warminster Thing began as strange sensory reports rather than simply “flying saucers”: vibrations, a menacing sound, and later lights or objects in the sky. The Warminster Journal’s 2025 retrospective says Arthur Shuttlewood, then a features writer at the Warminster Journal, reported a woman’s experience of “sudden vibrations” and a “menacing sound” above the town in 1965, and that by June similar reports were coming from across Warminster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/major-conference-to-explore-mystery-of-the-warminster-thing-this-summer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span>
 
-Shuttlewood became the central figure. He collected accounts, wrote about the mystery and helped make Warminster a destination for skywatchers. Later local coverage says a photograph taken by Gordon Faulkner, showing what looked like a grainy flying saucer, was passed to Shuttlewood and then printed by the Daily Mirror in September 1965, bringing the Warminster Thing to a national audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span> From there, the story changed scale. What might have remained a cluster of odd local reports became a national media event, with visitors coming to the hills around Warminster hoping to see something for themselves.
+Shuttlewood became the central figure. He collected accounts, wrote about the mystery and helped make Warminster a destination for skywatchers. Later local coverage says a photograph taken by Gordon Faulkner, showing what looked like a grainy flying saucer, was passed to Shuttlewood and then printed by the Daily Mirror in September 1965, bringing the Warminster Thing to a national audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span> From there, the story changed scale. What might have remained a cluster of odd local reports became a national media event, with visitors coming to the hills around Warminster hoping to see something for themselves.
 
-The case is important in UK UFO history because it was a “flap” rather than a single incident. Former Ministry of Defence UFO-desk official Nick Pope told the Warminster Journal that Warminster was “really, the first UFO hotspot in the UK”, and that the unusual feature was an entire community in which “dozens if not hundreds” of people reported experiences, drawing newspapers, TV cameras and public meetings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span> That does not prove the reports were extraterrestrial or even all caused by the same thing. It does show why Warminster became a durable reference point for British ufology.
+The case is important in UK UFO history because it was a “flap” rather than a single incident. Former Ministry of Defence UFO-desk official Nick Pope told the Warminster Journal that Warminster was “really, the first UFO hotspot in the UK”, and that the unusual feature was an entire community in which “dozens if not hundreds” of people reported experiences, drawing newspapers, TV cameras and public meetings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span> That does not prove the reports were extraterrestrial or even all caused by the same thing. It does show why Warminster became a durable reference point for British ufology.
 
 
 <img src="{{ "/assets/images/Wiltshire_7b9f94-Illustration-1-dark.svg" | relative_url }}" alt="Why Wiltshire Became a UFO Hotspot illustration 1" data-theme-src-dark="{{ "/assets/images/Wiltshire_7b9f94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wiltshire_7b9f94-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best evidence is human testimony, not a decisive object
 
-Warminster’s evidence is memorable but uneven. The most compelling material is the number of witnesses and the persistence of the reports over years. People described sounds, lights, apparent craft, and repeated sightings from known vantage points such as Cradle Hill and Cley Hill. Local memory still treats the Warminster Thing as part of the town’s history: in 2025, Warminster marked the 60th anniversary with a conference at the Athenaeum, talks on the original sightings, and a new mural featuring UFOs and Arthur Shuttlewood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/60-years-of-mystery-warminster-thing-celebrated-with-anniversary-conference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span>
+Warminster’s evidence is memorable but uneven. The most compelling material is the number of witnesses and the persistence of the reports over years. People described sounds, lights, apparent craft, and repeated sightings from known vantage points such as Cradle Hill and Cley Hill. Local memory still treats the Warminster Thing as part of the town’s history: in 2025, Warminster marked the 60th anniversary with a conference at the Athenaeum, talks on the original sightings, and a new mural featuring UFOs and Arthur Shuttlewood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/60-years-of-mystery-warminster-thing-celebrated-with-anniversary-conference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span>
 
-The weaker side is that the evidence rarely moves beyond testimony and contested images. The famous Faulkner photograph helped launch the story nationally, but it is not a secure physical record by modern standards: it is a single ambiguous image in a media-driven setting, not a chain-of-custody photograph accompanied by radar, aircraft logs, instrument readings and independent expert analysis. Even sympathetic accounts of Warminster tend to acknowledge that the trail has gone cold. Pope’s later judgement was careful: he pointed to possible military exercises, low-flying aircraft, flares and meteorological causes, while also saying no one had definitively shown the witnesses “this is what you saw.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span>
+The weaker side is that the evidence rarely moves beyond testimony and contested images. The famous Faulkner photograph helped launch the story nationally, but it is not a secure physical record by modern standards: it is a single ambiguous image in a media-driven setting, not a chain-of-custody photograph accompanied by radar, aircraft logs, instrument readings and independent expert analysis. Even sympathetic accounts of Warminster tend to acknowledge that the trail has gone cold. Pope’s later judgement was careful: he pointed to possible military exercises, low-flying aircraft, flares and meteorological causes, while also saying no one had definitively shown the witnesses “this is what you saw.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Open source on warminsterjournal.co.uk.</span></span></span>
 
 That is the fairest assessment. Warminster is unresolved as a cultural and witness-history episode, but not proven as an extraordinary craft event. Its value lies in the density of testimony, the local press record, and the way a town became identified with the UFO question. Its weakness lies in the lack of a decisive, independently verifiable core incident.
 
 ## Why Salisbury Plain makes ordinary explanations more plausible
 
-Wiltshire’s military geography is not an afterthought; it is central to interpreting many reports. Salisbury Plain Training Area is the UK’s largest military training area, covering a substantial part of Wiltshire and a small part of Hampshire. The Ministry of Defence’s public leaflet says the area is used for training that cannot be properly practised elsewhere in the UK, that live firing takes place around 340 days a year, and that military aircraft from all three services use the airspace above the Plain by day and night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/public-information-leaflet-salisbury-plain-training-area/public-information-leaflet-salisbury-plain-training-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Public information leaflet</span><span class="citation-popover-snippet">Public information leaflet</span></span></span>
+Wiltshire’s military geography is not an afterthought; it is central to interpreting many reports. Salisbury Plain Training Area is the UK’s largest military training area, covering a substantial part of Wiltshire and a small part of Hampshire. The Ministry of Defence’s public leaflet says the area is used for training that cannot be properly practised elsewhere in the UK, that live firing takes place around 340 days a year, and that military aircraft from all three services use the airspace above the Plain by day and night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/public-information-leaflet-salisbury-plain-training-area/public-information-leaflet-salisbury-plain-training-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Public information leaflet</span><span class="citation-popover-snippet">Public information leaflet</span></span></span>
 
 This does not “debunk” every sighting. It does, however, change the baseline. In parts of Wiltshire, especially around Warminster and Salisbury Plain, unusual bangs, lights, flares, aircraft movements, helicopter activity and distant illumination may be more common than a casual observer expects. A person seeing flares over open country at night might reasonably describe them as hovering orange lights. A low aircraft, viewed without clear distance cues, can appear larger, lower or slower than it is.
 
@@ -721,7 +721,7 @@ This is why Warminster remains interesting but difficult. The county’s landsca
 
 ## Rudloe Manor: Wiltshire’s “Area 51” claim and what the files actually support
 
-The other major Wiltshire UFO landmark is RAF Rudloe Manor, near Corsham. It has often been called Britain’s “Area 51”, but that label needs careful handling. The Guardian, reporting on National Archives UFO file releases in 2010, noted the belief among ufologists that RAF Rudloe Manor held hidden evidence comparable to the American Area 51 mythology. The same report stated that Rudloe Manor collated UFO reports until 1992, but that no research was carried out there; the files also recorded attempted break-ins by enthusiasts trying to prove otherwise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The other major Wiltshire UFO landmark is RAF Rudloe Manor, near Corsham. It has often been called Britain’s “Area 51”, but that label needs careful handling. The Guardian, reporting on National Archives UFO file releases in 2010, noted the belief among ufologists that RAF Rudloe Manor held hidden evidence comparable to the American Area 51 mythology. The same report stated that Rudloe Manor collated UFO reports until 1992, but that no research was carried out there; the files also recorded attempted break-ins by enthusiasts trying to prove otherwise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 That distinction is important. Rudloe Manor’s genuine relevance is administrative and archival: it connects Wiltshire to the official handling of UFO reports. The unsupported leap is the claim that alien wreckage, bodies or secret reverse-engineering work were hidden there. On the available public evidence, Rudloe is part of the bureaucracy of UFO reporting, not proof of a concealed extraterrestrial programme.
 
@@ -729,9 +729,9 @@ For Wiltshire’s UFO history, Rudloe Manor matters because it shows how governm
 
 ## What official records say about Wiltshire sightings
 
-The Ministry of Defence published annual UFO report summaries for 1997 to 2009, listing dates, times, locations and short descriptions of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> These records are useful because they show Wiltshire producing the same kinds of reports seen across the UK: lights, shapes, apparent triangles, fireballs and objects that changed appearance.
+The Ministry of Defence published annual UFO report summaries for 1997 to 2009, listing dates, times, locations and short descriptions of sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> These records are useful because they show Wiltshire producing the same kinds of reports seen across the UK: lights, shapes, apparent triangles, fireballs and objects that changed appearance.
 
-The 1997 MOD report includes several Wiltshire entries. On 26 February 1997, a report near Marlborough described a green object about 200 feet in the air with a long green tail. On 4 October 1997, a Chippenham report described an object “flat like a playing card” with “two legs hanging from it”. The next evening, a Salisbury report described an object that appeared circular and then triangular, with white, red and green lights at about 35,000 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> A screenshot of the 1997 report page also shows a Trowbridge entry on 26 August 1997 describing a vivid circular object with red and green lights moving westwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The 1997 MOD report includes several Wiltshire entries. On 26 February 1997, a report near Marlborough described a green object about 200 feet in the air with a long green tail. On 4 October 1997, a Chippenham report described an object “flat like a playing card” with “two legs hanging from it”. The next evening, a Salisbury report described an object that appeared circular and then triangular, with white, red and green lights at about 35,000 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span> A screenshot of the 1997 report page also shows a Trowbridge entry on 26 August 1997 describing a vivid circular object with red and green lights moving westwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 These entries are valuable but limited. They are not full investigations. They are short reports, often without witness names, radar confirmation, follow-up findings or final explanations. Still, they help correct one common misconception: Wiltshire’s UFO history is not only Warminster. The county continued to generate official sighting reports across multiple towns after the 1960s flap had faded.
 
@@ -739,9 +739,9 @@ These entries are valuable but limited. They are not full investigations. They a
 <img src="{{ "/assets/images/Wiltshire_7b9f94-Illustration-2-dark.svg" | relative_url }}" alt="Why Wiltshire Became a UFO Hotspot illustration 2" data-theme-src-dark="{{ "/assets/images/Wiltshire_7b9f94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wiltshire_7b9f94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the MOD stopped collecting reports
 
-The closure of the MOD’s UFO desk in 2009 affects how modern Wiltshire sightings should be understood. The National Archives’ final UFO-file release said the last 25 files covered the final two years of the desk, from late 2007 to November 2009, and included policy, ministerial correspondence and sighting reports. It also said the desk received more than 600 reports in 2009, treble the previous year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The closure of the MOD’s UFO desk in 2009 affects how modern Wiltshire sightings should be understood. The National Archives’ final UFO-file release said the last 25 files covered the final two years of the desk, from late 2007 to November 2009, and included policy, ministerial correspondence and sighting reports. It also said the desk received more than 600 reports in 2009, treble the previous year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-The official reason for closure was not that every report had been explained. It was that the work was judged to serve no defence purpose. The release says ministers were told that, in more than 50 years, no UFO sighting reported to the MOD had revealed evidence of an extraterrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The same National Archives release noted that many late-2000s sightings, especially formations of slowly moving orange lights, resembled Chinese lanterns, and that public awareness generated by earlier file releases may itself have encouraged more reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The official reason for closure was not that every report had been explained. It was that the work was judged to serve no defence purpose. The release says ministers were told that, in more than 50 years, no UFO sighting reported to the MOD had revealed evidence of an extraterrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The same National Archives release noted that many late-2000s sightings, especially formations of slowly moving orange lights, resembled Chinese lanterns, and that public awareness generated by earlier file releases may itself have encouraged more reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 For Wiltshire, this means post-2009 reports are less likely to have a neat central government paper trail. They may appear in local media, police freedom-of-information replies, civilian UFO databases or social media, but the absence of an MOD file is no longer meaningful in the way it might once have been.
 
@@ -752,7 +752,7 @@ For Wiltshire, this means post-2009 reports are less likely to have a neat centr
 
 Wiltshire’s UFO reputation is often mixed with crop circles, Stonehenge and ancient-landscape speculation. That blend is understandable: the county has internationally famous prehistoric sites, wide chalk downland, and a history of crop-circle attention. But it can also blur separate questions.
 
-A crop circle is not automatically a UFO case. A light near Stonehenge is not automatically connected to the monument. A military flare seen from a hill is not automatically a craft. The National Archives’ own release noted that the late MOD files included a UFO report near Stonehenge, which is useful as an official record of a claim, not proof that the landmark itself was involved in anything anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+A crop circle is not automatically a UFO case. A light near Stonehenge is not automatically connected to the monument. A military flare seen from a hill is not automatically a craft. The National Archives’ own release noted that the late MOD files included a UFO report near Stonehenge, which is useful as an official record of a claim, not proof that the landmark itself was involved in anything anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 The best approach is to keep categories separate. Warminster belongs at the centre of Wiltshire’s UFO history because of its witness cluster and media impact. Rudloe Manor belongs because of official report handling and later conspiracy claims. Salisbury Plain belongs because it provides plausible aviation and military explanations. Stonehenge and crop circles belong only when a specific sighting, report or investigation directly connects them to UFO claims.
 
@@ -780,194 +780,194 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
 <img src="{{ "/assets/images/Wiltshire_7b9f94-Illustration-3-dark.svg" | relative_url }}" alt="Why Wiltshire Became a UFO Hotspot illustration 3" data-theme-src-dark="{{ "/assets/images/Wiltshire_7b9f94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wiltshire_7b9f94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wiltshire Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wiltshire Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Alien+Heat+by+Steve+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Alien Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4Hhm4Bs8KlcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Alien Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Alien+Heat+by+Steve+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Alien Heat">In Alien Heat</a>
-        </h4>
-        <p class="fr-book-author">By Steve Dewey, John Ries</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Alien+Heat+by+Steve+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Alien Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4Hhm4Bs8KlcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Alien Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Alien+Heat+by+Steve+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Alien Heat">In Alien Heat</a>
+</h4>
+<p class="fr-book-author">By Steve Dewey, John Ries</p>
         
-        <p class="fr-book-desc">Focuses specifically on the Warminster phenomenon and re-examines the evidence behind Wiltshire&#x27;s UFO reputation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Alien+Heat+by+Steve+Dewey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses specifically on the Warminster phenomenon and re-examines the evidence behind Wiltshire&#x27;s UFO reputation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Alien+Heat+by+Steve+Dewey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Places local UFO waves such as Warminster within the wider history and sociology of flying-saucer reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local UFO waves such as Warminster within the wider history and sociology of flying-saucer reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides broad coverage of British UFO history, government files and major cases that help explain why places such as Wiltshire became UF...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad coverage of British UFO history, government files and major cases that help explain why places such as Wiltshire became UF...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Warminster+Mystery+by+Arthur+Shuttlewood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Warminster Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UIRTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Warminster Mystery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Warminster+Mystery+by+Arthur+Shuttlewood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Warminster Mystery">The Warminster Mystery</a>
-        </h4>
-        <p class="fr-book-author">By Arthur Shuttlewood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Warminster+Mystery+by+Arthur+Shuttlewood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Warminster Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UIRTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Warminster Mystery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Warminster+Mystery+by+Arthur+Shuttlewood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Warminster Mystery">The Warminster Mystery</a>
+</h4>
+<p class="fr-book-author">By Arthur Shuttlewood</p>
         
-        <p class="fr-book-desc">Directly documents the UFO wave that made Warminster and Wiltshire internationally known among UFO enthusiasts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Warminster+Mystery+by+Arthur+Shuttlewood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly documents the UFO wave that made Warminster and Wiltshire internationally known among UFO enthusiasts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Warminster+Mystery+by+Arthur+Shuttlewood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Alien+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Alien Heat</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Alien+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Alien Heat</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-wiltshire-became-a-ufo-hotspot-wiltshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -983,7 +983,7 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1003,7 +1003,7 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1035,7 +1035,7 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1087,7 +1087,7 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1132,7 +1132,7 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1173,315 +1173,315 @@ The most honest conclusion is that Wiltshire contains some of the UK’s richest
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:England Historic Counties Wiltshire map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Wiltshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Wiltshire_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Wiltshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Wiltshire_map.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Wiltshire | England, Map, History, & Facts | Britannica  
-   Link: <a href="https://www.britannica.com/place/Wiltshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wiltshire</a>  
+   Link:<a href="https://www.britannica.com/place/Wiltshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wiltshire</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Public information leaflet  
-   Link: <a href="https://www.gov.uk/government/publications/public-information-leaflet-salisbury-plain-training-area/public-information-leaflet-salisbury-plain-training-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/public-information-leaflet-salisbury-plain-training-area/public-information-leaflet-salisbury-plain-training-area</a>  
+   Link:<a href="https://www.gov.uk/government/publications/public-information-leaflet-salisbury-plain-training-area/public-information-leaflet-salisbury-plain-training-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/public-information-leaflet-salisbury-plain-training-area/public-information-leaflet-salisbury-plain-training-area</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:Wiltshire UK district map (blank).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_district_map_%28blank%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_district_map_%28blank%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_district_map_%28blank%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_district_map_%28blank%29.svg</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:Wiltshire UK locator map 2010.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_locator_map_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_locator_map_2010.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_locator_map_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_locator_map_2010.svg</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:Wiltshire UK location map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_location_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_location_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_location_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_UK_location_map.svg</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:Wiltshire map.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_map.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_map.png</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWiltshire_map.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWiltshire_map.png</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: warwickshire.police.uk  
    Title: foi 568 2025 may 2025 ufo  
-   Link: <a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/</a>  
+   Link:<a href="https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickshire.police.uk/foi-ai/warwickshire-police/foi-disclosure-2025/may-2025/foi-568-2025--may-2025--ufo/</a>  
    Published: may 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Sanctuary 39 2  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fac0928e90e075c49651727/Sanctuary_39_2_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fac0928e90e075c49651727/Sanctuary_39_2_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fac0928e90e075c49651727/Sanctuary_39_2_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fac0928e90e075c49651727/Sanctuary_39_2_.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79e15bed915d042206bb45/Sanctuary_38.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa555598fa8f5789445b33c/SanctuaryNo412012U.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Army Doctrine Publication land operations withdrawn 25 May 2022  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/677fe2d4d721a08c0066560c/Army_Doctrine_Publication_land_operations__withdrawn_25_May_2022_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/677fe2d4d721a08c0066560c/Army_Doctrine_Publication_land_operations__withdrawn_25_May_2022_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/677fe2d4d721a08c0066560c/Army_Doctrine_Publication_land_operations__withdrawn_25_May_2022_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/677fe2d4d721a08c0066560c/Army_Doctrine_Publication_land_operations__withdrawn_25_May_2022_.pdf</a>  
    Published: May 2022  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f574317e90e07098f73ee65/Sanctuary_2018_web_secured.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75779a40f0b6360e47457c/1107215SanctuaryMagNo402011_web.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/609d23c6e90e07357baa8388/Human_Augmentation_SIP_access2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/609d23c6e90e07357baa8388/Human_Augmentation_SIP_access2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/609d23c6e90e07357baa8388/Human_Augmentation_SIP_access2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/609d23c6e90e07357baa8388/Human_Augmentation_SIP_access2.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/664f5563f34f9b5a56adcd7b/Public_information_leaflet_-_Salisbury_Plain_Training_Area.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/664f5563f34f9b5a56adcd7b/Public_information_leaflet_-_Salisbury_Plain_Training_Area.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/664f5563f34f9b5a56adcd7b/Public_information_leaflet_-_Salisbury_Plain_Training_Area.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/664f5563f34f9b5a56adcd7b/Public_information_leaflet_-_Salisbury_Plain_Training_Area.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: lynehamandbradenstoke-pc.gov.uk  
    Title: brief history of raf lyneham  
-   Link: <a href="https://www.lynehamandbradenstoke-pc.gov.uk/community/lyneham-and-bradenstoke-parish-council-16223/brief-history-of-raf-lyneham/" target="_blank" rel="noopener noreferrer nofollow">https://www.lynehamandbradenstoke-pc.gov.uk/community/lyneham-and-bradenstoke-parish-council-16223/brief-history-of-raf-lyneham/</a>  
+   Link:<a href="https://www.lynehamandbradenstoke-pc.gov.uk/community/lyneham-and-bradenstoke-parish-council-16223/brief-history-of-raf-lyneham/" target="_blank" rel="noopener noreferrer nofollow">https://www.lynehamandbradenstoke-pc.gov.uk/community/lyneham-and-bradenstoke-parish-council-16223/brief-history-of-raf-lyneham/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: insidedio.blog.gov.uk  
    Title: blog.gov.uk Salisbury Plain Training Area  
-   Link: <a href="https://insidedio.blog.gov.uk/category/defence-training-estate-dte/salisbury-plain-training-area/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/category/defence-training-estate-dte/salisbury-plain-training-area/</a>  
+   Link:<a href="https://insidedio.blog.gov.uk/category/defence-training-estate-dte/salisbury-plain-training-area/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/category/defence-training-estate-dte/salisbury-plain-training-area/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: army.mod.uk  
    Title: land warfare centre  
-   Link: <a href="https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/land-warfare-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/land-warfare-centre/</a>  
+   Link:<a href="https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/land-warfare-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/land-warfare-centre/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1990/170/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1990/170/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1990/170/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1990/170/made</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: apps.wiltshire.gov.uk  
    Title: Historical Maps  
-   Link: <a href="https://apps.wiltshire.gov.uk/communityhistory/Community/HistoricalMaps?communityId=31" target="_blank" rel="noopener noreferrer nofollow">https://apps.wiltshire.gov.uk/communityhistory/Community/HistoricalMaps?communityId=31</a>  
+   Link:<a href="https://apps.wiltshire.gov.uk/communityhistory/Community/HistoricalMaps?communityId=31" target="_blank" rel="noopener noreferrer nofollow">https://apps.wiltshire.gov.uk/communityhistory/Community/HistoricalMaps?communityId=31</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: steeplelangford-pc.gov.uk  
    Title: salisbury plain training area spta newsletter july 2025  
-   Link: <a href="https://steeplelangford-pc.gov.uk/notices/salisbury-plain-training-area-spta-newsletter-july-2025/" target="_blank" rel="noopener noreferrer nofollow">https://steeplelangford-pc.gov.uk/notices/salisbury-plain-training-area-spta-newsletter-july-2025/</a>  
+   Link:<a href="https://steeplelangford-pc.gov.uk/notices/salisbury-plain-training-area-spta-newsletter-july-2025/" target="_blank" rel="noopener noreferrer nofollow">https://steeplelangford-pc.gov.uk/notices/salisbury-plain-training-area-spta-newsletter-july-2025/</a>  
    Published: july 2025  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: warminsterjournal.co.uk  
-   Link: <a href="https://warminsterjournal.co.uk/major-conference-to-explore-mystery-of-the-warminster-thing-this-summer/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/major-conference-to-explore-mystery-of-the-warminster-thing-this-summer/</a>  
+   Link:<a href="https://warminsterjournal.co.uk/major-conference-to-explore-mystery-of-the-warminster-thing-this-summer/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/major-conference-to-explore-mystery-of-the-warminster-thing-this-summer/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: warminsterjournal.co.uk  
-   Link: <a href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/</a>  
+   Link:<a href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: warminsterjournal.co.uk  
-   Link: <a href="https://warminsterjournal.co.uk/60-years-of-mystery-warminster-thing-celebrated-with-anniversary-conference/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/60-years-of-mystery-warminster-thing-celebrated-with-anniversary-conference/</a>  
+   Link:<a href="https://warminsterjournal.co.uk/60-years-of-mystery-warminster-thing-celebrated-with-anniversary-conference/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/60-years-of-mystery-warminster-thing-celebrated-with-anniversary-conference/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/aug/05/ufo-files-welsh-roswell-national-archive</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
    Title: Arthur Shuttlewood  
-   Link: <a href="https://en.wikipedia.org/wiki/Arthur_Shuttlewood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arthur_Shuttlewood</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Arthur_Shuttlewood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arthur_Shuttlewood</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Wiltshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wiltshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wiltshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wiltshire</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Warminster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Warminster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Warminster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Warminster</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: Wikipedia  
    Title: RAF Rudloe Manor  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Rudloe_Manor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Rudloe_Manor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Rudloe_Manor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Rudloe_Manor</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: Wikipedia  
    Title: Salisbury Plain Training Area  
-   Link: <a href="https://en.wikipedia.org/wiki/Salisbury_Plain_Training_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Salisbury_Plain_Training_Area</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Salisbury_Plain_Training_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Salisbury_Plain_Training_Area</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: warminsterjournal.co.uk  
-   Link: <a href="https://warminsterjournal.co.uk/warminster-thing-reimagined-new-art-to-showcase-towns-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/warminster-thing-reimagined-new-art-to-showcase-towns-ufo-mystery/</a>  
+   Link:<a href="https://warminsterjournal.co.uk/warminster-thing-reimagined-new-art-to-showcase-towns-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/warminster-thing-reimagined-new-art-to-showcase-towns-ufo-mystery/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/warminstermyster0000shut" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/warminstermyster0000shut</a>  
+   Link:<a href="https://archive.org/details/warminstermyster0000shut" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/warminstermyster0000shut</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Wiltshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wiltshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Wiltshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Wiltshire</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: Cley Hill  
-   Link: <a href="https://www.youtube.com/watch?v=D7Xa_5ByM6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7Xa_5ByM6k</a>  
+   Link:<a href="https://www.youtube.com/watch?v=D7Xa_5ByM6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7Xa_5ByM6k</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: The Warminster Thing  
-   Link: <a href="https://www.youtube.com/watch?v=4ECaJZAzeHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ECaJZAzeHQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4ECaJZAzeHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ECaJZAzeHQ</a>  
 
 ### Additional References
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Looked for Flying Saucers in Britain&#x27;s UFO Town...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Looked for Flying Saucers in Britain&#x27;s UFO Town...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LcUc_bgRFLg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LcUc_bgRFLg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was The Warminster Thing? | Unsolved Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LcUc_bgRFLg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LcUc_bgRFLg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was The Warminster Thing? | Unsolved Mysteries...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4qmDmaDKbVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4qmDmaDKbVA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: The Mystery Beneath Rudloe Manor (Season 12, Episode 3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4qmDmaDKbVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4qmDmaDKbVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: The Mystery Beneath Rudloe Manor (Season 12, Episode 3) | History...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
    Title: I Looked for Flying Saucers in Britain's UFO Town  
-   Link: <a href="https://www.youtube.com/watch?v=uB_Hqpegvsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uB_Hqpegvsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings over England – ITN Special Report (1966)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uB_Hqpegvsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uB_Hqpegvsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings over England – ITN Special Report (1966)...</p></details>
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1708376692746885/posts/3643210055930196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1708376692746885/posts/3643210055930196/</a>  
+   Link:<a href="https://www.facebook.com/groups/1708376692746885/posts/3643210055930196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1708376692746885/posts/3643210055930196/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSjg10KjcnG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSjg10KjcnG/</a>  
+   Link:<a href="https://www.instagram.com/p/DSjg10KjcnG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSjg10KjcnG/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: cotswolds-nl.org.uk  
-   Link: <a href="https://www.cotswolds-nl.org.uk/exploring/self-guided-route/corsham-to-colerne-peacock-trail/" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswolds-nl.org.uk/exploring/self-guided-route/corsham-to-colerne-peacock-trail/</a>  
+   Link:<a href="https://www.cotswolds-nl.org.uk/exploring/self-guided-route/corsham-to-colerne-peacock-trail/" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswolds-nl.org.uk/exploring/self-guided-route/corsham-to-colerne-peacock-trail/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/ancient-aliens/articles/do-you-know-englands-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/do-you-know-englands-area-51</a>  
+   Link:<a href="https://www.history.co.uk/shows/ancient-aliens/articles/do-you-know-englands-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/do-you-know-englands-area-51</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: wshc.org.uk  
-   Link: <a href="https://wshc.org.uk/former-raf-lyneham-gives-up-its-ancient-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://wshc.org.uk/former-raf-lyneham-gives-up-its-ancient-secrets/</a>  
+   Link:<a href="https://wshc.org.uk/former-raf-lyneham-gives-up-its-ancient-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://wshc.org.uk/former-raf-lyneham-gives-up-its-ancient-secrets/</a>  

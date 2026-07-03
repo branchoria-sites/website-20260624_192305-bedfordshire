@@ -256,21 +256,21 @@ The most useful way to read Nottinghamshire’s UFO record is therefore not as a
 
 ## Hucknall’s Flying Bedstead: When the UFO Really Was Experimental Aviation
 
-The best Nottinghamshire example of a strange-sky report turning into aviation history is the Rolls-Royce Thrust Measuring Rig, better known as the “Flying Bedstead”. It was not a rumour of secret technology invented after the fact. The Science Museum records the aircraft as a Rolls-Royce vertical take-off and landing research machine made at Hucknall in 1954, with tethered flight in 1953 and free flight the following year. It had no wings and stayed airborne by the vertical thrust of two turbojet engines, which explains why it looked so unlike an ordinary aeroplane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collection.sciencemuseumgroup.org.uk/objects/co29091/the-rolls-royce-vertical-take-off-thrust-measuring-rig-1954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collection.sciencemuseumgroup.org.uk">[Science Museum Group Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collection.sciencemuseumgroup.org.uk</span><span class="citation-popover-title">the rolls royce vertical take off thrust measuring rig 1954</span><span class="citation-popover-snippet">the rolls royce vertical take off thrust measuring rig 1954</span></span></span>
+The best Nottinghamshire example of a strange-sky report turning into aviation history is the Rolls-Royce Thrust Measuring Rig, better known as the “Flying Bedstead”. It was not a rumour of secret technology invented after the fact. The Science Museum records the aircraft as a Rolls-Royce vertical take-off and landing research machine made at Hucknall in 1954, with tethered flight in 1953 and free flight the following year. It had no wings and stayed airborne by the vertical thrust of two turbojet engines, which explains why it looked so unlike an ordinary aeroplane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collection.sciencemuseumgroup.org.uk/objects/co29091/the-rolls-royce-vertical-take-off-thrust-measuring-rig-1954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collection.sciencemuseumgroup.org.uk">[Science Museum Group Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collection.sciencemuseumgroup.org.uk</span><span class="citation-popover-title">the rolls royce vertical take off thrust measuring rig 1954</span><span class="citation-popover-snippet">the rolls royce vertical take off thrust measuring rig 1954</span></span></span>
 
-That matters for UFO history because the Bedstead shows how a witness could honestly see something startling over Nottinghamshire and yet be seeing a real aircraft. A local history account describes a man near Hucknall seeing a “flying car” at treetop height, rushing inside to tell his family, and later recognising the object in newspaper reports about Rolls-Royce tests at Hucknall Aerodrome. The account is anecdotal, not a formal investigation file, but it captures a real mechanism: new aircraft can briefly outrun public expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nottinghamhiddenhistoryteam.wordpress.com/2014/03/27/flying-cars-and-flying-bedsteads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamhiddenhistoryteam.wordpress.com">[Nottingham Hidden History Team]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamhiddenhistoryteam.wordpress.com</span><span class="citation-popover-title">Nottingham Hidden History Team Flying Cars and Flying Bedsteads</span><span class="citation-popover-snippet">Nottingham Hidden History Team Flying Cars and Flying Bedsteads</span></span></span>
+That matters for UFO history because the Bedstead shows how a witness could honestly see something startling over Nottinghamshire and yet be seeing a real aircraft. A local history account describes a man near Hucknall seeing a “flying car” at treetop height, rushing inside to tell his family, and later recognising the object in newspaper reports about Rolls-Royce tests at Hucknall Aerodrome. The account is anecdotal, not a formal investigation file, but it captures a real mechanism: new aircraft can briefly outrun public expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nottinghamhiddenhistoryteam.wordpress.com/2014/03/27/flying-cars-and-flying-bedsteads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamhiddenhistoryteam.wordpress.com">[Nottingham Hidden History Team]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamhiddenhistoryteam.wordpress.com</span><span class="citation-popover-title">Nottingham Hidden History Team Flying Cars and Flying Bedsteads</span><span class="citation-popover-snippet">Nottingham Hidden History Team Flying Cars and Flying Bedsteads</span></span></span>
 
-Hucknall is especially important because it was not just any local airfield. The Hucknall Flight Test Museum describes the Rolls-Royce Hucknall Flight Test Establishment as a largely secret test site from 1934 to 1971, with specialist ground testing continuing into the early 2000s. That kind of aviation setting creates exactly the conditions in which odd shapes, unusual engine noise, vertical motion and restricted public knowledge can combine into UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huftm.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huftm.com">[Hucknall Flight Test Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huftm.com</span><span class="citation-popover-snippet">Open source on huftm.com.</span></span></span>
+Hucknall is especially important because it was not just any local airfield. The Hucknall Flight Test Museum describes the Rolls-Royce Hucknall Flight Test Establishment as a largely secret test site from 1934 to 1971, with specialist ground testing continuing into the early 2000s. That kind of aviation setting creates exactly the conditions in which odd shapes, unusual engine noise, vertical motion and restricted public knowledge can combine into UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huftm.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huftm.com">[Hucknall Flight Test Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huftm.com</span><span class="citation-popover-snippet">Open source on huftm.com.</span></span></span>
 
 The Flying Bedstead should not be used as a lazy explanation for every Nottinghamshire UFO. It was a specific 1950s aircraft, not a catch-all answer for later orange lights, triangular formations or digital photographs. Its value is narrower and stronger: it proves that at least one “impossible-looking” Nottinghamshire sky object belonged to the history of experimental aviation, not to extraterrestrial visitation.
 
 ## Nottinghamshire Sits in a Busy Aviation Corridor
 
-Modern Nottinghamshire sightings often need to be read against the county’s air traffic setting. Nottingham City Airport at Tollerton is very close to Nottingham and describes itself as a general aviation facility with air traffic services, fuel, hangarage, training activity and based operators including CFS Flight Training, Sherwood Flying Club and Arcus Helicopters. Its own site says it welcomes flying schools making multiple landings for training, which is exactly the kind of repeated circling, approach practice or low-level movement that can look odd from the ground at night or in poor visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghamairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamairport.co.uk">[Nottingham Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamairport.co.uk</span><span class="citation-popover-title">Nottingham Airport Nottingham City Airport</span><span class="citation-popover-snippet">Nottingham Airport Nottingham City Airport</span></span></span>
+Modern Nottinghamshire sightings often need to be read against the county’s air traffic setting. Nottingham City Airport at Tollerton is very close to Nottingham and describes itself as a general aviation facility with air traffic services, fuel, hangarage, training activity and based operators including CFS Flight Training, Sherwood Flying Club and Arcus Helicopters. Its own site says it welcomes flying schools making multiple landings for training, which is exactly the kind of repeated circling, approach practice or low-level movement that can look odd from the ground at night or in poor visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghamairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamairport.co.uk">[Nottingham Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamairport.co.uk</span><span class="citation-popover-title">Nottingham Airport Nottingham City Airport</span><span class="citation-popover-snippet">Nottingham Airport Nottingham City Airport</span></span></span>
 
-East Midlands Airport is outside historic Nottinghamshire, at Castle Donington in Leicestershire, but it is close enough to shape the county’s sky. Manchester Airports Group describes East Midlands as the UK’s busiest “pure” cargo airport, handling more than 394,000 tonnes of cargo each year and acting as a major hub for DHL, UPS, FedEx and Royal Mail. It also advertises 24-hour operations with no slot restrictions. For Nottinghamshire witnesses, that means aircraft lights can appear at unsocial hours, not just during daytime passenger peaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.magairports.com/about-us/cargo-services/east-midlands-airport-cargo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magairports.com">[Manchester Airports Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magairports.com</span><span class="citation-popover-snippet">Open source on magairports.com.</span></span></span>
+East Midlands Airport is outside historic Nottinghamshire, at Castle Donington in Leicestershire, but it is close enough to shape the county’s sky. Manchester Airports Group describes East Midlands as the UK’s busiest “pure” cargo airport, handling more than 394,000 tonnes of cargo each year and acting as a major hub for DHL, UPS, FedEx and Royal Mail. It also advertises 24-hour operations with no slot restrictions. For Nottinghamshire witnesses, that means aircraft lights can appear at unsocial hours, not just during daytime passenger peaks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.magairports.com/about-us/cargo-services/east-midlands-airport-cargo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magairports.com">[Manchester Airports Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magairports.com</span><span class="citation-popover-snippet">Open source on magairports.com.</span></span></span>
 
-This is one reason county boundaries can mislead UFO interpretation. A witness in Nottingham, West Bridgford, Long Eaton, Newark, Mansfield or Retford may describe an object as being “over Nottinghamshire”, while the actual aircraft, route or airport context lies partly in Derbyshire, Leicestershire, Lincolnshire or South Yorkshire. The Civil Aviation Authority publishes UK airport data and notes that it collects statistics from more than 60 UK airports, including air transport flights and other movement categories such as private or aero club activity. That wider aviation picture matters more than a neat county line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority UK airport data &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">Civil Aviation Authority UK airport data &#124; UK Civil Aviation Authority</span></span></span>
+This is one reason county boundaries can mislead UFO interpretation. A witness in Nottingham, West Bridgford, Long Eaton, Newark, Mansfield or Retford may describe an object as being “over Nottinghamshire”, while the actual aircraft, route or airport context lies partly in Derbyshire, Leicestershire, Lincolnshire or South Yorkshire. The Civil Aviation Authority publishes UK airport data and notes that it collects statistics from more than 60 UK airports, including air transport flights and other movement categories such as private or aero club activity. That wider aviation picture matters more than a neat county line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority UK airport data &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">Civil Aviation Authority UK airport data &#124; UK Civil Aviation Authority</span></span></span>
 
 Several common report features can be aviation-related without being immediately obvious:
 
@@ -290,15 +290,15 @@ None of these explanations proves that a specific report was an aircraft. They a
 <img src="{{ "/assets/images/Nottinghamshire_a5a895_aviation_explanation_7af14d-Illustration-1-dark.svg" | relative_url }}" alt="Sky Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Nottinghamshire_a5a895_aviation_explanation_7af14d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nottinghamshire_a5a895_aviation_explanation_7af14d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The MoD Files Show Reports, Not Confirmed Craft
 
-The Ministry of Defence’s published UFO lists are important because they give Nottinghamshire a documented official record. GOV.UK describes the 1997–2009 files as UFO reports showing dates, times, locations and brief descriptions. That wording is crucial. The files record what was reported; they do not certify that the objects were extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The Ministry of Defence’s published UFO lists are important because they give Nottinghamshire a documented official record. GOV.UK describes the 1997–2009 files as UFO reports showing dates, times, locations and brief descriptions. That wording is crucial. The files record what was reported; they do not certify that the objects were extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-Nottinghamshire-linked entries contain exactly the kinds of details that invite aviation checks. The 2009 MoD list includes a 29 April report from Nottingham of “two orange lights” flying in parallel formation in an arc, one slowing behind the other before both faded away; the witness said they were too fast to be aircraft, had no flashing lights and made no sound. It also includes a 10 November 2009 West Bridgford report of seven orangish orbs floating over a house in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Nottinghamshire-linked entries contain exactly the kinds of details that invite aviation checks. The 2009 MoD list includes a 29 April report from Nottingham of “two orange lights” flying in parallel formation in an arc, one slowing behind the other before both faded away; the witness said they were too fast to be aircraft, had no flashing lights and made no sound. It also includes a 10 November 2009 West Bridgford report of seven orangish orbs floating over a house in formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 Those reports are interesting because they sound dramatic but do not contain enough hard information to exclude ordinary causes. Without a bearing, elevation, duration, wind direction, aircraft track, photographs, radar return or multiple independent witness positions, “too fast”, “silent” and “in formation” remain perceptions rather than measurements. Orange lights fading away are particularly compatible with lanterns, flares or lights changing angle, though an individual case should not be declared solved without matching local timing and conditions.
 
-The 2008 MoD list also records a Nottinghamshire entry from Calverton: on 12 February 2008, “five times more red lights” were reported as spread out and then disappearing one by one. Nearby counties in the same files include many similar orange, red or glowing-light reports. That clustering matters because it suggests a recurring reporting pattern, not necessarily a single Nottinghamshire mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+The 2008 MoD list also records a Nottinghamshire entry from Calverton: on 12 February 2008, “five times more red lights” were reported as spread out and then disappearing one by one. Nearby counties in the same files include many similar orange, red or glowing-light reports. That clustering matters because it suggests a recurring reporting pattern, not necessarily a single Nottinghamshire mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-The MoD’s own later position also narrows what the files can support. The final 2009 report notes that from 1 December 2009 the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD. A National Archives press release on the final tranche says the UFO desk received over 600 reports in 2009, but that ministers were told the desk served “no defence purpose” and that no UFO report over more than 50 years had shown evidence of a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The MoD’s own later position also narrows what the files can support. The final 2009 report notes that from 1 December 2009 the department’s policy changed and UFO sighting reports were no longer recorded or investigated by the MoD. A National Archives press release on the final tranche says the UFO desk received over 600 reports in 2009, but that ministers were told the desk served “no defence purpose” and that no UFO report over more than 50 years had shown evidence of a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 For Nottinghamshire, that does not make the reports worthless. It means they are better treated as raw sighting material: useful clues about what people saw, weak evidence for what the objects actually were.
 
@@ -307,9 +307,9 @@ For Nottinghamshire, that does not make the reports worthless. It means they are
 
 ## Retford Town Hall: A Photograph That Became an Optical Warning
 
-The [Retford Town Hall]({{ 'retford-photo/' | relative_url }}) photograph is one of Nottinghamshire’s best-known MoD-era cases, and it is a good example of why “not identified” is not the same as “extraordinary”. The 2004 MoD report list includes an object seen over Retford Town Hall on 27 January 2004. The National Archives account gives the fuller story: the photographer took colour slides of the town hall for a competition on a snowy night and saw nothing unusual at the time, only later noticing an image that looked like a classic flying saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The [Retford Town Hall]({{ 'retford-photo/' | relative_url }}) photograph is one of Nottinghamshire’s best-known MoD-era cases, and it is a good example of why “not identified” is not the same as “extraordinary”. The 2004 MoD report list includes an object seen over Retford Town Hall on 27 January 2004. The National Archives account gives the fuller story: the photographer took colour slides of the town hall for a competition on a snowy night and saw nothing unusual at the time, only later noticing an image that looked like a classic flying saucer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The image was sent to the Defence Geographic and Imagery Intelligence Agency. According to the National Archives transcript, the agency could not reach a definitive conclusion, but it noted that the illuminated plane of the object passed through the centre of the frame, suggesting a possible lens anomaly such as a droplet of moisture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The image was sent to the Defence Geographic and Imagery Intelligence Agency. According to the National Archives transcript, the agency could not reach a definitive conclusion, but it noted that the illuminated plane of the object passed through the centre of the frame, suggesting a possible lens anomaly such as a droplet of moisture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That detail is more important than the “flying saucer” description. If the photographer did not see the object at the time, and if the apparent object lines up with a photographic axis, the case shifts from an aviation encounter to an imaging problem. Snow, moisture, street lighting, reflections and lens artefacts can all produce shapes that seem solid after the event.
 
@@ -321,7 +321,7 @@ Helicopters are a recurring source of confusion in UFO reports because they can 
 
 One Nottingham MoD-era entry from 15 April 2002, often repeated in county summaries, described three silver triangular objects in formation followed closely by a police helicopter. That kind of wording is difficult to assess from the short table entry alone. A helicopter near unusual lights may be responding to them, coincidentally crossing the same part of sky, or simply being folded into the witness’s interpretation. The report is intriguing, but the brief record is not enough to establish pursuit, interception or official confirmation.
 
-This “following object” problem appears often in UFO history. Once a witness has decided that one light is strange, any nearby helicopter, aircraft or siren can become part of the same story. The reverse also happens: people notice the sky because of a helicopter and then spot a balloon, bird, aircraft, drone or bright planet nearby. A recent Nottingham online discussion about an object seen after a helicopter passed shows the same interpretive issue in modern form: the poster treated the helicopter as a possible clue, while others suggested more ordinary possibilities such as a balloon or aircraft. Reddit is not a strong evidential source, but it illustrates the live public reasoning pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/nottingham/comments/1svpr7r/strange_happenings_in_the_skies_of_nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Strange happenings in the skies of Nottingham!</span><span class="citation-popover-snippet">Strange happenings in the skies of Nottingham!</span></span></span>
+This “following object” problem appears often in UFO history. Once a witness has decided that one light is strange, any nearby helicopter, aircraft or siren can become part of the same story. The reverse also happens: people notice the sky because of a helicopter and then spot a balloon, bird, aircraft, drone or bright planet nearby. A recent Nottingham online discussion about an object seen after a helicopter passed shows the same interpretive issue in modern form: the poster treated the helicopter as a possible clue, while others suggested more ordinary possibilities such as a balloon or aircraft. Reddit is not a strong evidential source, but it illustrates the live public reasoning pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/nottingham/comments/1svpr7r/strange_happenings_in_the_skies_of_nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Strange happenings in the skies of Nottingham!</span><span class="citation-popover-snippet">Strange happenings in the skies of Nottingham!</span></span></span>
 
 Aviation explanations should therefore separate three questions: was there a helicopter, was there another object, and is there evidence that the helicopter was interacting with it? Without that third step, a “police helicopter followed it” claim remains suggestive rather than conclusive.
 
@@ -331,13 +331,13 @@ Aviation explanations should therefore separate three questions: was there a hel
 
 The most common modern Nottinghamshire UFO mechanism is not a secret aircraft. It is the orange light. Orange orbs are especially deceptive because they can seem to move with purpose, travel in loose formation, fade out one by one, appear silent, and lack the flashing navigation lights people expect from aircraft.
 
-The MoD’s 2009 Nottingham and West Bridgford entries fit this pattern closely: two orange lights in parallel formation that faded away, and seven orangish orbs floating over a house. The same national MoD lists contain many similar reports: orange balls, fiery objects, glowing formations, silent lights and lights disappearing when aircraft came into view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The MoD’s 2009 Nottingham and West Bridgford entries fit this pattern closely: two orange lights in parallel formation that faded away, and seven orangish orbs floating over a house. The same national MoD lists contain many similar reports: orange balls, fiery objects, glowing formations, silent lights and lights disappearing when aircraft came into view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-Sky lanterns are a particularly strong candidate for some of these reports. Nottinghamshire Fire and Rescue Service describes sky lanterns, also known as Chinese lanterns, as paper-covered frames lifted into the sky by a small open flame. That small flame explains the warm orange colour and flicker; wind explains smooth group drift; fuel burnout explains gradual fading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.notts-fire.gov.uk/news/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notts-fire.gov.uk">[Nottinghamshire Fire and Rescue Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notts-fire.gov.uk</span><span class="citation-popover-title">sky lanterns</span><span class="citation-popover-snippet">sky lanterns</span></span></span>
+Sky lanterns are a particularly strong candidate for some of these reports. Nottinghamshire Fire and Rescue Service describes sky lanterns, also known as Chinese lanterns, as paper-covered frames lifted into the sky by a small open flame. That small flame explains the warm orange colour and flicker; wind explains smooth group drift; fuel burnout explains gradual fading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.notts-fire.gov.uk/news/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notts-fire.gov.uk">[Nottinghamshire Fire and Rescue Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notts-fire.gov.uk</span><span class="citation-popover-title">sky lanterns</span><span class="citation-popover-snippet">sky lanterns</span></span></span>
 
-Nottinghamshire institutions have also treated lanterns as a real local issue, not just a UFO sceptic’s excuse. Nottinghamshire County Council’s sky lantern policy sets out a ban on the use and sale of sky lanterns on land or property owned or controlled by the council. The policy is framed around fire, animal and environmental risks, but it confirms that lanterns were common enough locally to require formal management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamshire.gov.uk">[Nottinghamshire County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamshire.gov.uk</span><span class="citation-popover-title">Nottinghamshire County Council Sky Lanterns Policy</span><span class="citation-popover-snippet">Nottinghamshire County Council Sky Lanterns Policy</span></span></span>
+Nottinghamshire institutions have also treated lanterns as a real local issue, not just a UFO sceptic’s excuse. Nottinghamshire County Council’s sky lantern policy sets out a ban on the use and sale of sky lanterns on land or property owned or controlled by the council. The policy is framed around fire, animal and environmental risks, but it confirms that lanterns were common enough locally to require formal management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamshire.gov.uk">[Nottinghamshire County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamshire.gov.uk</span><span class="citation-popover-title">Nottinghamshire County Council Sky Lanterns Policy</span><span class="citation-popover-snippet">Nottinghamshire County Council Sky Lanterns Policy</span></span></span>
 
-Flares and fireworks add another layer. A Nottingham local-history feature recounts reports of a mysterious orange light that police eventually traced to a barge pilot on the Trent setting off flares. That story is colourful and not as strong as an official case file, but it is a useful local example of how orange airborne lights can be real, alarming and still mundane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-snippet">Open source on leftlion.co.uk.</span></span></span>
+Flares and fireworks add another layer. A Nottingham local-history feature recounts reports of a mysterious orange light that police eventually traced to a barge pilot on the Trent setting off flares. That story is colourful and not as strong as an official case file, but it is a useful local example of how orange airborne lights can be real, alarming and still mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leftlion.co.uk">[LeftLion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leftlion.co.uk</span><span class="citation-popover-snippet">Open source on leftlion.co.uk.</span></span></span>
 
 The key point is not “orange always means lantern”. It does not. But orange, silent, drifting, fading lights in loose formation should be treated as high-risk for lantern, flare or firework explanations before any more exotic reading is considered.
 
@@ -350,7 +350,7 @@ Some Nottinghamshire sky reports are not aircraft in the strict sense but still 
 
 Floodlights and searchlights can project onto low cloud, making rotating or circling patches that seem to be objects above a town. In MoD records, descriptions of lights moving around in circles for long periods often invite this explanation, especially near events, venues, industrial sites or city centres. A light pattern that repeats for an hour is less like a craft travelling through the sky and more like a fixed ground source playing across cloud.
 
-Drones have become a newer source of confusion. The Civil Aviation Authority says that, from 1 January 2026, drones operated at night in the Open Category must use a green flashing light, and it explains that night flying makes judging distance and direction harder. That matters for UFO reports because drones can hover, stop, turn sharply, display coloured LEDs and appear silent from a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span>
+Drones have become a newer source of confusion. The Civil Aviation Authority says that, from 1 January 2026, drones operated at night in the Open Category must use a green flashing light, and it explains that night flying makes judging distance and direction harder. That matters for UFO reports because drones can hover, stop, turn sharply, display coloured LEDs and appear silent from a distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">flying at night in the open category</span></span></span>
 
 Satellites and satellite trains add a different kind of misidentification. They may look like steady lights crossing the sky with no sound or flashing navigation lights. Unlike aircraft, they can seem unnervingly smooth and remote. Unlike lanterns, they do not flicker orange from flame. For Nottinghamshire reports after the late 2010s, satellite checks are essential, especially where witnesses describe multiple evenly spaced lights moving in the same direction.
 
@@ -394,194 +394,194 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Strange Skies Had Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Strange Skies Had Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigating sightings and distinguishing unexplained cases from aviation, atmospheric and observational causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating sightings and distinguishing unexplained cases from aviation, atmospheric and observational causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explores UK UFO reports and official investigations, providing context for aviation-related explanations and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UK UFO reports and official investigations, providing context for aviation-related explanations and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines official case investigations and the challenge of separating unusual aircraft, observational errors and genuinely unexplained re...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official case investigations and the challenge of separating unusual aircraft, observational errors and genuinely unexplained re...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes numerous pilot and aviation-related accounts, helping readers understand how aircraft observations enter the UFO record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes numerous pilot and aviation-related accounts, helping readers understand how aircraft observations enter the UFO record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/2a954551758cef318d93.jpg' | relative_url }}" alt="Listing image for Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Blue Night Sky Path to the Stars Artistic Poster Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d078dcf46ee71c446b07.jpg' | relative_url }}" alt="Listing image for Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d078dcf46ee71c446b07.jpg' | relative_url }}" alt="Listing image for Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-explanations-when-strange-skies-had-ordinary-causes-nottinghamshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,290 +787,290 @@ A fair reading keeps three categories separate. Some sightings are plausibly exp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Strange happenings in the skies of Nottingham!  
-   Link: <a href="https://www.reddit.com/r/nottingham/comments/1svpr7r/strange_happenings_in_the_skies_of_nottingham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nottingham/comments/1svpr7r/strange_happenings_in_the_skies_of_nottingham/</a>  
+   Link:<a href="https://www.reddit.com/r/nottingham/comments/1svpr7r/strange_happenings_in_the_skies_of_nottingham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nottingham/comments/1svpr7r/strange_happenings_in_the_skies_of_nottingham/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: notts-fire.gov.uk  
    Title: sky lanterns  
-   Link: <a href="https://www.notts-fire.gov.uk/news/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.notts-fire.gov.uk/news/sky-lanterns/</a>  
+   Link:<a href="https://www.notts-fire.gov.uk/news/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.notts-fire.gov.uk/news/sky-lanterns/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nottinghamshire.gov.uk  
    Title: Nottinghamshire County Council Sky Lanterns Policy  
-   Link: <a href="https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf</a>  
+   Link:<a href="https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nottinghamshire.gov.uk  
    Title: sustainability appraisal scoping report  
-   Link: <a href="https://www.nottinghamshire.gov.uk/media/1528410/sustainability-appraisal-scoping-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/1528410/sustainability-appraisal-scoping-report.pdf</a>  
+   Link:<a href="https://www.nottinghamshire.gov.uk/media/1528410/sustainability-appraisal-scoping-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/1528410/sustainability-appraisal-scoping-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nottinghamshire.gov.uk  
    Title: waste monitoring report 2015 2016  
-   Link: <a href="https://www.nottinghamshire.gov.uk/media/125181/waste-monitoring-report-2015-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/125181/waste-monitoring-report-2015-2016.pdf</a>  
+   Link:<a href="https://www.nottinghamshire.gov.uk/media/125181/waste-monitoring-report-2015-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/125181/waste-monitoring-report-2015-2016.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nottinghamshire.gov.uk  
-   Link: <a href="https://www.nottinghamshire.gov.uk/media/110638/mineral-local-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/110638/mineral-local-plan.pdf</a>  
+   Link:<a href="https://www.nottinghamshire.gov.uk/media/110638/mineral-local-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/110638/mineral-local-plan.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo files reveal behind the scenes of the ufo desk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6391db2b8fa8f53ba9182390/Humber-FRMP-HRA.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: notts-fire.gov.uk  
    Title: Fireworks, bonfires and sky lanterns  
-   Link: <a href="https://www.notts-fire.gov.uk/community/outdoor-safety/fireworks-and-bonfires/" target="_blank" rel="noopener noreferrer nofollow">https://www.notts-fire.gov.uk/community/outdoor-safety/fireworks-and-bonfires/</a>  
+   Link:<a href="https://www.notts-fire.gov.uk/community/outdoor-safety/fireworks-and-bonfires/" target="_blank" rel="noopener noreferrer nofollow">https://www.notts-fire.gov.uk/community/outdoor-safety/fireworks-and-bonfires/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bassetlaw.gov.uk  
-   Link: <a href="https://www.bassetlaw.gov.uk/media/pqsnjkvk/bassetlaw-landscape-character-assessment-compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bassetlaw.gov.uk/media/pqsnjkvk/bassetlaw-landscape-character-assessment-compressed.pdf</a>  
+   Link:<a href="https://www.bassetlaw.gov.uk/media/pqsnjkvk/bassetlaw-landscape-character-assessment-compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bassetlaw.gov.uk/media/pqsnjkvk/bassetlaw-landscape-character-assessment-compressed.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bassetlaw.gov.uk  
    Title: The Bassetlaw Plan Sustainability Appraisal This Non-Technical  
-   Link: <a href="https://www.bassetlaw.gov.uk/media/3114/bassetlaw-local-plan-sa-scoping-report-final-010316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bassetlaw.gov.uk/media/3114/bassetlaw-local-plan-sa-scoping-report-final-010316.pdf</a>  
+   Link:<a href="https://www.bassetlaw.gov.uk/media/3114/bassetlaw-local-plan-sa-scoping-report-final-010316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bassetlaw.gov.uk/media/3114/bassetlaw-local-plan-sa-scoping-report-final-010316.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bassetlaw.gov.uk  
    Title: bassetlaw strategic flood risk assessment  
-   Link: <a href="https://www.bassetlaw.gov.uk/media/3802/bassetlaw-strategic-flood-risk-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bassetlaw.gov.uk/media/3802/bassetlaw-strategic-flood-risk-assessment.pdf</a>  
+   Link:<a href="https://www.bassetlaw.gov.uk/media/3802/bassetlaw-strategic-flood-risk-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bassetlaw.gov.uk/media/3802/bassetlaw-strategic-flood-risk-assessment.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nottingham/comments/195mume/is_this_a_drone_or_plane_video_from_last_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nottingham/comments/195mume/is_this_a_drone_or_plane_video_from_last_night/</a>  
+   Link:<a href="https://www.reddit.com/r/nottingham/comments/195mume/is_this_a_drone_or_plane_video_from_last_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nottingham/comments/195mume/is_this_a_drone_or_plane_video_from_last_night/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aviation/comments/1hdsifd/if_youre_going_to_take_photos_of_lights_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1hdsifd/if_youre_going_to_take_photos_of_lights_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/aviation/comments/1hdsifd/if_youre_going_to_take_photos_of_lights_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1hdsifd/if_youre_going_to_take_photos_of_lights_in_the/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
    Title: 2 orange lights in england  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/mtkv4d/2_orange_lights_in_england/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/mtkv4d/2_orange_lights_in_england/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/mtkv4d/2_orange_lights_in_england/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/mtkv4d/2_orange_lights_in_england/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/</a>  
+   Link:<a href="https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: planninginspectorate.gov.uk EI A Scoping Chapters  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0610001-000028-H2East%20Volume%201%20Chapters%201-7%20%20Web%20Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0610001-000028-H2East%20Volume%201%20Chapters%201-7%20%20Web%20Version.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0610001-000028-H2East%20Volume%201%20Chapters%201-7%20%20Web%20Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0610001-000028-H2East%20Volume%201%20Chapters%201-7%20%20Web%20Version.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: EN010131 000196 EN010131 APP 4.1 Consultation Report  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010131-000196-EN010131%20APP%204.1%20Consultation%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010131-000196-EN010131%20APP%204.1%20Consultation%20Report.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010131-000196-EN010131%20APP%204.1%20Consultation%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010131-000196-EN010131%20APP%204.1%20Consultation%20Report.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: planninginspectorate.gov.uk Chesterfield to Willington  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0210001-000005-Chesterfield%20to%20Willington%20EIA%20Scoping%20Report%20-%20Volume%201%20Main%20Text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0210001-000005-Chesterfield%20to%20Willington%20EIA%20Scoping%20Report%20-%20Volume%201%20Main%20Text.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0210001-000005-Chesterfield%20to%20Willington%20EIA%20Scoping%20Report%20-%20Volume%201%20Main%20Text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN0210001-000005-Chesterfield%20to%20Willington%20EIA%20Scoping%20Report%20-%20Volume%201%20Main%20Text.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: FLYING BEDSTEAD  
-   Link: <a href="https://www.youtube.com/watch?v=yv3SKollBDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yv3SKollBDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Flying Bedstead&quot; (1955)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yv3SKollBDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yv3SKollBDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Flying Bedstead&quot; (1955)...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: collection.sciencemuseumgroup.org.uk  
    Title: the rolls royce vertical take off thrust measuring rig 1954  
-   Link: <a href="https://collection.sciencemuseumgroup.org.uk/objects/co29091/the-rolls-royce-vertical-take-off-thrust-measuring-rig-1954" target="_blank" rel="noopener noreferrer nofollow">https://collection.sciencemuseumgroup.org.uk/objects/co29091/the-rolls-royce-vertical-take-off-thrust-measuring-rig-1954</a>  
+   Link:<a href="https://collection.sciencemuseumgroup.org.uk/objects/co29091/the-rolls-royce-vertical-take-off-thrust-measuring-rig-1954" target="_blank" rel="noopener noreferrer nofollow">https://collection.sciencemuseumgroup.org.uk/objects/co29091/the-rolls-royce-vertical-take-off-thrust-measuring-rig-1954</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nottinghamhiddenhistoryteam.wordpress.com  
    Title: Nottingham Hidden History Team Flying Cars and Flying Bedsteads  
-   Link: <a href="https://nottinghamhiddenhistoryteam.wordpress.com/2014/03/27/flying-cars-and-flying-bedsteads/" target="_blank" rel="noopener noreferrer nofollow">https://nottinghamhiddenhistoryteam.wordpress.com/2014/03/27/flying-cars-and-flying-bedsteads/</a>  
+   Link:<a href="https://nottinghamhiddenhistoryteam.wordpress.com/2014/03/27/flying-cars-and-flying-bedsteads/" target="_blank" rel="noopener noreferrer nofollow">https://nottinghamhiddenhistoryteam.wordpress.com/2014/03/27/flying-cars-and-flying-bedsteads/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: leftlion.co.uk  
-   Link: <a href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow">https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/</a>  
+   Link:<a href="https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/" target="_blank" rel="noopener noreferrer nofollow">https://leftlion.co.uk/features/2019/03/ufo-sightings-nottingham/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: huftm.com  
-   Link: <a href="https://huftm.com/" target="_blank" rel="noopener noreferrer nofollow">https://huftm.com/</a>  
+   Link:<a href="https://huftm.com/" target="_blank" rel="noopener noreferrer nofollow">https://huftm.com/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nottinghamairport.co.uk  
    Title: Nottingham Airport Nottingham City Airport  
-   Link: <a href="https://www.nottinghamairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamairport.co.uk/</a>  
+   Link:<a href="https://www.nottinghamairport.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamairport.co.uk/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: magairports.com  
-   Link: <a href="https://www.magairports.com/about-us/cargo-services/east-midlands-airport-cargo/" target="_blank" rel="noopener noreferrer nofollow">https://www.magairports.com/about-us/cargo-services/east-midlands-airport-cargo/</a>  
+   Link:<a href="https://www.magairports.com/about-us/cargo-services/east-midlands-airport-cargo/" target="_blank" rel="noopener noreferrer nofollow">https://www.magairports.com/about-us/cargo-services/east-midlands-airport-cargo/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority UK airport data | UK Civil Aviation Authority  
-   Link: <a href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
    Title: East Midlands Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/East_Midlands_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/East_Midlands_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/East_Midlands_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/East_Midlands_Airport</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: flydays.co.uk  
-   Link: <a href="https://www.flydays.co.uk/airfields/nottingham-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.flydays.co.uk/airfields/nottingham-airport/</a>  
+   Link:<a href="https://www.flydays.co.uk/airfields/nottingham-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.flydays.co.uk/airfields/nottingham-airport/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: caa.co.uk  
    Title: november 2023  
-   Link: <a href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2023/november-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2023/november-2023/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2023/november-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2023/november-2023/</a>  
    Published: november 2023  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/Documents/Download/11906/7ae45bcc-d0b5-45b1-8726-70f8a4d48cbc/16741" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/Documents/Download/11906/7ae45bcc-d0b5-45b1-8726-70f8a4d48cbc/16741</a>  
+   Link:<a href="https://www.caa.co.uk/Documents/Download/11906/7ae45bcc-d0b5-45b1-8726-70f8a4d48cbc/16741" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/Documents/Download/11906/7ae45bcc-d0b5-45b1-8726-70f8a4d48cbc/16741</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: caa.co.uk  
    Title: may 2024  
-   Link: <a href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2024/may-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2024/may-2024/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2024/may-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2024/may-2024/</a>  
    Published: may 2024  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: unisco.com  
    Title: east midlands airport  
-   Link: <a href="https://www.unisco.com/international-airports/east-midlands-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.unisco.com/international-airports/east-midlands-airport</a>  
+   Link:<a href="https://www.unisco.com/international-airports/east-midlands-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.unisco.com/international-airports/east-midlands-airport</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
 ### Additional References
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/641105633188771/posts/1628181014481223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/641105633188771/posts/1628181014481223/</a>  
+   Link:<a href="https://www.facebook.com/groups/641105633188771/posts/1628181014481223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/641105633188771/posts/1628181014481223/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/</a>  
+   Link:<a href="https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nottinghamshirelive/videos/ufo-spotted-over-nottingham/1132003301175262/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: arcus-heli.com  
-   Link: <a href="https://www.arcus-heli.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcus-heli.com/</a>  
+   Link:<a href="https://www.arcus-heli.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcus-heli.com/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: fibreopticlighting.com  
-   Link: <a href="https://www.fibreopticlighting.com/fibre-optic-fireworks" target="_blank" rel="noopener noreferrer nofollow">https://www.fibreopticlighting.com/fibre-optic-fireworks</a>  
+   Link:<a href="https://www.fibreopticlighting.com/fibre-optic-fireworks" target="_blank" rel="noopener noreferrer nofollow">https://www.fibreopticlighting.com/fibre-optic-fireworks</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/14686525466/posts/10172458945855467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/14686525466/posts/10172458945855467/</a>  
+   Link:<a href="https://www.facebook.com/groups/14686525466/posts/10172458945855467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/14686525466/posts/10172458945855467/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EastMidsAirport/posts/were-standing-by-for-take-off-of-exciting-plans-for-east-midlands-airports-unriv/1122806123219968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EastMidsAirport/posts/were-standing-by-for-take-off-of-exciting-plans-for-east-midlands-airports-unriv/1122806123219968/</a>  
+   Link:<a href="https://www.facebook.com/EastMidsAirport/posts/were-standing-by-for-take-off-of-exciting-plans-for-east-midlands-airports-unriv/1122806123219968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EastMidsAirport/posts/were-standing-by-for-take-off-of-exciting-plans-for-east-midlands-airports-unriv/1122806123219968/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: trackdays.co.uk  
-   Link: <a href="https://www.trackdays.co.uk/experience-days/flying/helicopter-flying-lessons/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.trackdays.co.uk/experience-days/flying/helicopter-flying-lessons/?page=4</a>  
+   Link:<a href="https://www.trackdays.co.uk/experience-days/flying/helicopter-flying-lessons/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.trackdays.co.uk/experience-days/flying/helicopter-flying-lessons/?page=4</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: fly-ga.co.uk  
-   Link: <a href="https://fly-ga.co.uk/flight-schools-east-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://fly-ga.co.uk/flight-schools-east-midlands/</a>  
+   Link:<a href="https://fly-ga.co.uk/flight-schools-east-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://fly-ga.co.uk/flight-schools-east-midlands/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: blackbushe.com  
-   Link: <a href="https://blackbushe.com/learn-to-fly" target="_blank" rel="noopener noreferrer nofollow">https://blackbushe.com/learn-to-fly</a>  
+   Link:<a href="https://blackbushe.com/learn-to-fly" target="_blank" rel="noopener noreferrer nofollow">https://blackbushe.com/learn-to-fly</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: gamstonflyingschool.co.uk  
-   Link: <a href="https://www.gamstonflyingschool.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamstonflyingschool.co.uk/</a>  
+   Link:<a href="https://www.gamstonflyingschool.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamstonflyingschool.co.uk/</a>  

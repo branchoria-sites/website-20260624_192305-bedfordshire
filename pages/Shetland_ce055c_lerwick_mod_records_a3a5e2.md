@@ -254,7 +254,7 @@ image: /assets/images/Shetland_ce055c_lerwick_mod_records_a3a5e2-overview-social
 
 ## Introduction
 
-The Ministry of Defence’s published UFO tables contain one clear Lerwick entry for 1997: at 23:45 on 8 July, someone reported “a round light” over Lerwick, described as about the size of a five pence piece when seen through binoculars and moving east. That is the whole public entry. It matters for [Shetland]({{ 'what-makes-shetlands-ufo-stories/' | relative_url }})’s UFO history not because it proves an extraordinary event, but because it shows the strength and weakness of official records at the same time: the sighting was preserved by the state, yet the surviving table gives no named witness, no exact viewing position, no duration, no weather, no aircraft check, no astronomical analysis and no conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The Ministry of Defence’s published UFO tables contain one clear Lerwick entry for 1997: at 23:45 on 8 July, someone reported “a round light” over Lerwick, described as about the size of a five pence piece when seen through binoculars and moving east. That is the whole public entry. It matters for [Shetland]({{ 'what-makes-shetlands-ufo-stories/' | relative_url }})’s UFO history not because it proves an extraordinary event, but because it shows the strength and weakness of official records at the same time: the sighting was preserved by the state, yet the surviving table gives no named witness, no exact viewing position, no duration, no weather, no aircraft check, no astronomical analysis and no conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/Shetland_ce055c_lerwick_mod_records_a3a5e2-overview.webp" | relative_url }}" alt="Overview image for Mo D Records" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,15 +262,15 @@ For readers trying to understand “what really happened”, the honest answer i
 
 ## The 1997 Lerwick light report
 
-The Lerwick entry appears in the Ministry of Defence’s “UFO Reports 1997” table, one of the annual sighting lists later made available through GOV.UK. The GOV.UK page describes the collection as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions of sightings. The 1997 PDF itself is a nine-page table with columns for date, time, town or village, county, occupation of reporter where known, and a short description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Lerwick entry appears in the Ministry of Defence’s “UFO Reports 1997” table, one of the annual sighting lists later made available through GOV.UK. The GOV.UK page describes the collection as UFO reports from 1997 to 2009, giving dates, times, locations and brief descriptions of sightings. The 1997 PDF itself is a nine-page table with columns for date, time, town or village, county, occupation of reporter where known, and a short description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The relevant row reads: 8 July 1997, 23:45, Lerwick, Shetland Islands. The description says the witness saw “a round light, the size of a five pence piece through binoculars” moving east. The “occupation of reporter” field is blank, which means the public table does not tell us whether the report came from a member of the public, a professional observer, a police contact, aviation staff, coastguard personnel, military personnel or someone else. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The relevant row reads: 8 July 1997, 23:45, Lerwick, Shetland Islands. The description says the witness saw “a round light, the size of a five pence piece through binoculars” moving east. The “occupation of reporter” field is blank, which means the public table does not tell us whether the report came from a member of the public, a professional observer, a police contact, aviation staff, coastguard personnel, military personnel or someone else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 That small wording matters. “A round light” is a visual description, not a physical identification. The comparison with a five pence piece is also not a true size estimate. It tells us only how large the light appeared through binoculars, and even that depends on the binocular magnification, the witness’s steadiness, the distance to the object and whether the light was sharply focused. Without those details, the entry cannot tell us whether the object was close and small, distant and bright, or an ordinary object made ambiguous by optics and low light.
 
-The timing also deserves care. Lerwick in early July sits within Shetland’s long summer twilight period, often called the “simmer dim”, when light lingers after sunset and full darkness can be limited or absent around midsummer. Local visitor material describes this as an extended in-between light rather than normal night, and Shetland’s northerly position makes that relevant to any late-evening sky report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shetland.org/blog/midsummer-in-shetland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shetland.org">[Shetland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shetland.org</span><span class="citation-popover-snippet">Open source on shetland.org.</span></span></span>
+The timing also deserves care. Lerwick in early July sits within Shetland’s long summer twilight period, often called the “simmer dim”, when light lingers after sunset and full darkness can be limited or absent around midsummer. Local visitor material describes this as an extended in-between light rather than normal night, and Shetland’s northerly position makes that relevant to any late-evening sky report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shetland.org/blog/midsummer-in-shetland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shetland.org">[Shetland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shetland.org</span><span class="citation-popover-snippet">Open source on shetland.org.</span></span></span>
 
-The Moon was a waxing crescent on 8 July 1997, with roughly 12 per cent illumination according to astronomy date references. That does not solve the Lerwick report, but it helps frame the observing conditions: this was not a bright full-Moon night, and the object was described as moving east rather than as a static lunar object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theskylive.com/moon/1997-07-08" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theskylive.com">[The Sky Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theskylive.com</span><span class="citation-popover-snippet">Open source on theskylive.com.</span></span></span>
+The Moon was a waxing crescent on 8 July 1997, with roughly 12 per cent illumination according to astronomy date references. That does not solve the Lerwick report, but it helps frame the observing conditions: this was not a bright full-Moon night, and the object was described as moving east rather than as a static lunar object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theskylive.com/moon/1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theskylive.com">[The Sky Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theskylive.com</span><span class="citation-popover-snippet">Open source on theskylive.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Shetland_ce055c_lerwick_mod_records_a3a5e2-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Records illustration 1" data-theme-src-dark="{{ "/assets/images/Shetland_ce055c_lerwick_mod_records_a3a5e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shetland_ce055c_lerwick_mod_records_a3a5e2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -278,9 +278,9 @@ The Moon was a waxing crescent on 8 July 1997, with roughly 12 per cent illumina
 
 Official tables are valuable because they stop a sighting from vanishing completely. In this case, the Lerwick entry gives a date, time, place and minimal description. That is enough to show that Shetland was not absent from the MoD’s late-1990s UFO paperwork, and it gives local researchers a fixed point to compare with weather logs, newspaper archives, airport movements, astronomical data or other witness accounts.
 
-The same table, however, can mislead if read too confidently. A row in an MoD UFO list does not mean the Ministry confirmed an unknown craft. It means a report was received and entered. The GOV.UK summary is careful: these are reports of UFO sightings, not determinations that the events were unexplained after deep inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The same table, however, can mislead if read too confidently. A row in an MoD UFO list does not mean the Ministry confirmed an unknown craft. It means a report was received and entered. The GOV.UK summary is careful: these are reports of UFO sightings, not determinations that the events were unexplained after deep inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The 1997 list itself shows why caution is needed. Nearby entries in the same table include many brief descriptions that sound dramatic but are still raw reports: orange balls, triangular lights, star-like objects, balloon-shaped objects, comet-like lights and fast-moving shapes. One 9 February entry is already summarised as “a very bright meteorite or space debris”, showing that at least some reports in the tables were compatible with ordinary sky phenomena rather than exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+The 1997 list itself shows why caution is needed. Nearby entries in the same table include many brief descriptions that sound dramatic but are still raw reports: orange balls, triangular lights, star-like objects, balloon-shaped objects, comet-like lights and fast-moving shapes. One 9 February entry is already summarised as “a very bright meteorite or space debris”, showing that at least some reports in the tables were compatible with ordinary sky phenomena rather than exotic craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 For Lerwick, the table gives no such suggested explanation. That absence should not be overread. It may mean the public summary did not include an assessment; it does not mean the object defeated all explanation. A proper assessment would need details the table lacks: direction measured in degrees, elevation above the horizon, speed, duration, sound, colour, weather, cloud, visibility, binocular type, whether the object crossed known flight paths, and whether any other witnesses reported the same thing.
 
@@ -291,13 +291,13 @@ This is the central lesson of the Lerwick MoD record. Official preservation is n
 
 ## Why Lerwick is a useful Shetland example
 
-Lerwick is not just any dot on a map. It is the chief town of Shetland, the islands’ main port, and it sits on Bressay Sound on the east coast of Mainland. Gazetteer records place Lerwick in the historic county of Shetland and in the modern Shetland Islands council area, which is a close fit for this project’s historic-county framing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Lerwick%2C_Shetland_26061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Lerwick, Shetland 26061</span><span class="citation-popover-snippet">Lerwick, Shetland 26061</span></span></span>
+Lerwick is not just any dot on a map. It is the chief town of Shetland, the islands’ main port, and it sits on Bressay Sound on the east coast of Mainland. Gazetteer records place Lerwick in the historic county of Shetland and in the modern Shetland Islands council area, which is a close fit for this project’s historic-county framing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Lerwick%2C_Shetland_26061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-title">Lerwick, Shetland 26061</span><span class="citation-popover-snippet">Lerwick, Shetland 26061</span></span></span>
 
-That local setting matters because Shetland sightings often sit between sea, sky and aviation. Modern Shetland has air links through Sumburgh and inter-island services connected with Tingwall, while the islands’ northern position also makes them a strong place for unusual sky viewing, including aurorae in winter. Current travel and transport sources describe year-round flights to Sumburgh from Scottish cities and inter-island aircraft operating from Tingwall, which is only a few miles from Lerwick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shetland.org/visit/plan/getting-to-shetland/flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shetland.org">[Shetland.org+2Shetland Islands Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shetland.org</span><span class="citation-popover-snippet">Open source on shetland.org.</span></span></span>
+That local setting matters because Shetland sightings often sit between sea, sky and aviation. Modern Shetland has air links through Sumburgh and inter-island services connected with Tingwall, while the islands’ northern position also makes them a strong place for unusual sky viewing, including aurorae in winter. Current travel and transport sources describe year-round flights to Sumburgh from Scottish cities and inter-island aircraft operating from Tingwall, which is only a few miles from Lerwick.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shetland.org/visit/plan/getting-to-shetland/flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shetland.org">[shetland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shetland.org</span><span class="citation-popover-snippet">Open source on shetland.org.</span></span></span>
 
 That does not mean the 1997 object was an aircraft. The table gives no flight correlation, and the report was at 23:45. But it does mean the first explanations to test would be ordinary ones: aircraft lights, maritime activity, a bright astronomical object, a meteor or re-entering debris, an optical effect through binoculars, or a distant light misjudged against Shetland’s summer twilight.
 
-Shetland’s aurora reputation is also relevant in the wider county pattern, though probably less directly for this July case. Local and national tourism sources describe the northern lights, known in Shetland as the “Mirrie Dancers”, as a winter attraction, and VisitScotland notes Shetland’s position as the part of Scotland closest to the Arctic Circle. That helps explain why Shetland can produce striking sky experiences, but a July round light moving east is not, on the face of the MoD wording alone, a strong aurora description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shetland.org/visit/do/wildlife/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shetland.org">[Shetland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shetland.org</span><span class="citation-popover-snippet">Open source on shetland.org.</span></span></span>
+Shetland’s aurora reputation is also relevant in the wider county pattern, though probably less directly for this July case. Local and national tourism sources describe the northern lights, known in Shetland as the “Mirrie Dancers”, as a winter attraction, and VisitScotland notes Shetland’s position as the part of Scotland closest to the Arctic Circle. That helps explain why Shetland can produce striking sky experiences, but a July round light moving east is not, on the face of the MoD wording alone, a strong aurora description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shetland.org/visit/do/wildlife/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shetland.org">[Shetland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shetland.org</span><span class="citation-popover-snippet">Open source on shetland.org.</span></span></span>
 
 The 1997 Lerwick entry therefore belongs in Shetland’s UFO history as a cautionary anchor. It is less dramatic than the better-known 1992 fast-moving object reported off Shetland, but it is cleaner as a dataset example: a single official row that shows exactly how little a public table can preserve.
 
@@ -307,13 +307,13 @@ The 1997 Lerwick entry therefore belongs in Shetland’s UFO history as a cautio
 
 The Ministry of Defence did not operate its UFO records as a public mystery-solving service. The best way to read the Lerwick entry is through the MoD’s defence-interest lens: reports were historically assessed for possible implications for UK air defence or national security, not for the purpose of satisfying local curiosity or producing a full civilian case file.
 
-The National Archives’ material on the final release of UFO files says the UFO desk was staffed by civil servants from the Air Staff Secretariat, with scientific and technical advice from DI55, a Defence Intelligence Staff branch responsible for assessing reports for intelligence interest. It also notes that from 2000 reports were no longer copied to DI55, and that the UFO desk closed in November 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The National Archives’ material on the final release of UFO files says the UFO desk was staffed by civil servants from the Air Staff Secretariat, with scientific and technical advice from DI55, a Defence Intelligence Staff branch responsible for assessing reports for intelligence interest. It also notes that from 2000 reports were no longer copied to DI55, and that the UFO desk closed in November 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
-Later government answers make the same limitation explicit. In 2024, the Ministry of Defence’s parliamentary answer stated that its position remained unchanged: in more than 50 years, no sighting reported to the department had indicated a military threat to the United Kingdom. It also said the MoD ceased investigating UFO or UAP reports in 2009 and had no current plan to create a dedicated team for alleged sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+Later government answers make the same limitation explicit. In 2024, the Ministry of Defence’s parliamentary answer stated that its position remained unchanged: in more than 50 years, no sighting reported to the department had indicated a military threat to the United Kingdom. It also said the MoD ceased investigating UFO or UAP reports in 2009 and had no current plan to create a dedicated team for alleged sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
 That policy context weakens any claim that the Lerwick table row represents a hidden official endorsement of an extraordinary event. It is more accurate to say that the report entered an official intake system. If nothing in the report suggested a defence threat, the public record might never have been expanded into a detailed case study.
 
-The closure of the UFO desk also matters for later readers. In 2021, a House of Lords exchange recorded the government position that all relevant material created and held by the UFO desk had been passed to The National Archives. That makes the surviving public record important, but it also suggests that, unless a more detailed file is identified in the archive, the short 1997 table row may be all that is easily available for this Lerwick sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
+The closure of the UFO desk also matters for later readers. In 2021, a House of Lords exchange recorded the government position that all relevant material created and held by the UFO desk had been passed to The National Archives. That makes the surviving public record important, but it also suggests that, unless a more detailed file is identified in the archive, the short 1997 table row may be all that is easily available for this Lerwick sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Hansard Unidentified Flying Objects</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dsphnSLHCos" title="Britain Releases Secret UFO Sighting Documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dsphnSLHCos" target="_blank" rel="noopener noreferrer">Britain Releases Secret UFO Sighting Documents</a></p><p class="youtube-embed-meta">Channel: Associated Press</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dsphnSLHCos" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dsphnSLHCos">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ A careful reading should separate three questions. First, was there a reported s
 
 This is especially important for Shetland, where the landscape encourages big-sky stories. A moving light seen through binoculars from Lerwick might sound intriguing because of the islands’ remoteness and military-adjacent northern geography. But the evidence itself does not support a leap to secret aircraft, extraterrestrial craft or a major defence incident. The record contains no radar trace, no named official witness, no aircraft scramble, no police log, no photograph and no second independent testimony.
 
-There is also a useful contrast within the same MoD source. Some 1997 entries are more descriptive than Lerwick’s, mentioning shapes, colours, sounds, sudden movements, heights or multiple lights. Others are as thin or thinner. Lerwick’s value is precisely that it sits near the low-information end of the spectrum: enough to mark a reported UFO in Shetland, not enough to build a confident narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+There is also a useful contrast within the same MoD source. Some 1997 entries are more descriptive than Lerwick’s, mentioning shapes, colours, sounds, sudden movements, heights or multiple lights. Others are as thin or thinner. Lerwick’s value is precisely that it sits near the low-information end of the spectrum: enough to mark a reported UFO in Shetland, not enough to build a confident narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
 For a local UFO map, that distinction is healthy. It prevents the Shetland record from being inflated while still preserving what the archive actually says. The Lerwick report should remain in the county-level history, but labelled carefully: an official 1997 sighting record of a moving round light, unresolved in the public table, and evidentially weak because the surviving public details are minimal.
 
@@ -347,194 +347,194 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Official Records Really Say?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Official Records Really Say?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly relevant to interpreting an MoD-listed Lerwick report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to interpreting an MoD-listed Lerwick report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Focuses heavily on British archives and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on British archives and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for official sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Demonstrates how official records can be informative yet limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how official records can be informative yet limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="mo-d-records-0ee263-what-do-official-records-really-say-shetland-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,177 +740,177 @@ This is the practical takeaway for “MoD Records” in Shetland. The official t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shetland.org  
-   Link: <a href="https://www.shetland.org/blog/midsummer-in-shetland" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/blog/midsummer-in-shetland</a>  
+   Link:<a href="https://www.shetland.org/blog/midsummer-in-shetland" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/blog/midsummer-in-shetland</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: shetland.org  
-   Link: <a href="https://www.shetland.org/videos/summer-is-a-magical-time-in-shetland" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/videos/summer-is-a-magical-time-in-shetland</a>  
+   Link:<a href="https://www.shetland.org/videos/summer-is-a-magical-time-in-shetland" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/videos/summer-is-a-magical-time-in-shetland</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: shetland.org  
-   Link: <a href="https://www.shetland.org/visit/plan/getting-to-shetland/flight" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/visit/plan/getting-to-shetland/flight</a>  
+   Link:<a href="https://www.shetland.org/visit/plan/getting-to-shetland/flight" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/visit/plan/getting-to-shetland/flight</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shetland.gov.uk  
-   Link: <a href="https://www.shetland.gov.uk/transport/tingwall-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.gov.uk/transport/tingwall-airport</a>  
+   Link:<a href="https://www.shetland.gov.uk/transport/tingwall-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.gov.uk/transport/tingwall-airport</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: shetland.org  
-   Link: <a href="https://www.shetland.org/visit/do/wildlife/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/visit/do/wildlife/northern-lights</a>  
+   Link:<a href="https://www.shetland.org/visit/do/wildlife/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/visit/do/wildlife/northern-lights</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights</a>  
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/northern-lights</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140804 FOI Bentwaters  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb69a40f0b6230268b102/20140804_FOI_Bentwaters.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-from-the-uk-government/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: shetland.org  
    Title: Place Names  
-   Link: <a href="https://www.shetland.org/blog/place-names-to-past" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/blog/place-names-to-past</a>  
+   Link:<a href="https://www.shetland.org/blog/place-names-to-past" target="_blank" rel="noopener noreferrer nofollow">https://www.shetland.org/blog/place-names-to-past</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: data.gov.uk  
    Title: Place Name Gazetteer  
-   Link: <a href="https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/4b656c40-af07-49f3-8960-42bf1b05cd44/place-name-gazetteer-scotland</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: data.jncc.gov.uk  
    Title: pubs csuk region 02  
-   Link: <a href="https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf</a>  
+   Link:<a href="https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/6473ed35-d1cb-428e-ad69-eb81d6c52045/pubs-csuk-region-02.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/moon/1997-07-08" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/moon/1997-07-08</a>  
+   Link:<a href="https://theskylive.com/moon/1997" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/moon/1997</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gazetteer.org.uk  
    Title: Lerwick, Shetland 26061  
-   Link: <a href="https://gazetteer.org.uk/place/Lerwick%2C_Shetland_26061" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lerwick%2C_Shetland_26061</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Lerwick%2C_Shetland_26061" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Lerwick%2C_Shetland_26061</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/uk/lerwick?month=12" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/uk/lerwick?month=12</a>  
+   Link:<a href="https://www.timeanddate.com/moon/uk/lerwick?month=12" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/uk/lerwick?month=12</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/uk/lerwick?month=8" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/uk/lerwick?month=8</a>  
+   Link:<a href="https://www.timeanddate.com/moon/uk/lerwick?month=8" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/uk/lerwick?month=8</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/sun/uk/lerwick?month=10" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/uk/lerwick?month=10</a>  
+   Link:<a href="https://www.timeanddate.com/sun/uk/lerwick?month=10" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/uk/lerwick?month=10</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gazetteer.org.uk  
    Title: The Flaeshins, Shetland 279523  
-   Link: <a href="https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523</a>  
+   Link:<a href="https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/The_Flaeshins%2C_Shetland_279523</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Shetland&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Shetland&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Shetland&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Shetland&amp;type=em</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gazetteer.org.uk  
    Title: The Vadills, Shetland 267691  
-   Link: <a href="https://gazetteer.org.uk/place/The_Vadills%2C_Shetland_267691" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/The_Vadills%2C_Shetland_267691</a>  
+   Link:<a href="https://gazetteer.org.uk/place/The_Vadills%2C_Shetland_267691" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/The_Vadills%2C_Shetland_267691</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Shetland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shetland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shetland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shetland</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/guide?geoid=8299621" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/guide?geoid=8299621</a>  
+   Link:<a href="https://theskylive.com/guide?geoid=8299621" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/guide?geoid=8299621</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: UK Controversial UAP Report (Project Condign)  
-   Link: <a href="https://www.youtube.com/watch?v=LvGm_JWhKw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LvGm_JWhKw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;S IN THE UNITED KINGDOM Full Exclusive Sci-Fi Documentary Premiere English HD 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LvGm_JWhKw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LvGm_JWhKw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;S IN THE UNITED KINGDOM Full Exclusive Sci-Fi Documentary Premiere English HD 2025...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Britain Releases Secret UFO Sighting Documents  
-   Link: <a href="https://www.youtube.com/watch?v=dsphnSLHCos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dsphnSLHCos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Controversial UAP Report (Project Condign) - Dr. David Clarke...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dsphnSLHCos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dsphnSLHCos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Controversial UAP Report (Project Condign) - Dr. David Clarke...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: bellona.org  
-   Link: <a href="https://bellona.org/news/nuclear-issues/nuclear-uk/2009-04-british-subs-reported-to-have-been-leaking-radioactive-materials-for-at-least-three-years" target="_blank" rel="noopener noreferrer nofollow">https://bellona.org/news/nuclear-issues/nuclear-uk/2009-04-british-subs-reported-to-have-been-leaking-radioactive-materials-for-at-least-three-years</a>  
+   Link:<a href="https://bellona.org/news/nuclear-issues/nuclear-uk/2009-04-british-subs-reported-to-have-been-leaking-radioactive-materials-for-at-least-three-years" target="_blank" rel="noopener noreferrer nofollow">https://bellona.org/news/nuclear-issues/nuclear-uk/2009-04-british-subs-reported-to-have-been-leaking-radioactive-materials-for-at-least-three-years</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: shetlandamenity.org  
-   Link: <a href="https://www.shetlandamenity.org/about-place-names" target="_blank" rel="noopener noreferrer nofollow">https://www.shetlandamenity.org/about-place-names</a>  
+   Link:<a href="https://www.shetlandamenity.org/about-place-names" target="_blank" rel="noopener noreferrer nofollow">https://www.shetlandamenity.org/about-place-names</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anncleeves/posts/back-in-shetland-mainland-got-the-front-seat-next-to-the-pilot/1320582612765026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anncleeves/posts/back-in-shetland-mainland-got-the-front-seat-next-to-the-pilot/1320582612765026/</a>  
+   Link:<a href="https://www.facebook.com/anncleeves/posts/back-in-shetland-mainland-got-the-front-seat-next-to-the-pilot/1320582612765026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anncleeves/posts/back-in-shetland-mainland-got-the-front-seat-next-to-the-pilot/1320582612765026/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/routes/lsi/ema/sumburgh-shetland-to-east-midlands.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/routes/lsi/ema/sumburgh-shetland-to-east-midlands.html</a>  
+   Link:<a href="https://www.skyscanner.net/routes/lsi/ema/sumburgh-shetland-to-east-midlands.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/routes/lsi/ema/sumburgh-shetland-to-east-midlands.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: zeitverschiebung.net  
-   Link: <a href="https://www.zeitverschiebung.net/en/city/2644605" target="_blank" rel="noopener noreferrer nofollow">https://www.zeitverschiebung.net/en/city/2644605</a>  
+   Link:<a href="https://www.zeitverschiebung.net/en/city/2644605" target="_blank" rel="noopener noreferrer nofollow">https://www.zeitverschiebung.net/en/city/2644605</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: flightsfrom.com  
-   Link: <a href="https://www.flightsfrom.com/LSI" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsfrom.com/LSI</a>  
+   Link:<a href="https://www.flightsfrom.com/LSI" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsfrom.com/LSI</a>  

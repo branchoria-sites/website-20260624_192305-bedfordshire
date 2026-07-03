@@ -260,11 +260,11 @@ Saxa Vord matters to [Shetland]({{ 'what-makes-shetlands-ufo-stories/' | relativ
 <img src="{{ "/assets/images/Shetland_ce055c_saxa_vord_radar_29cb23-overview.webp" | relative_url }}" alt="Overview image for Saxa Vord" loading="eager" decoding="sync" fetchpriority="high">
 ## Saxa Vord’s Air-Defence Role
 
-Saxa Vord sits on Unst, the northernmost of the Shetland islands, and its location is the key to its importance. In air-defence terms, Shetland is not just a remote island group; it is a forward-looking position facing the Norwegian Sea and the airspace north of Britain. That is why modern official descriptions of the site emphasise aircraft movements north of the UK, Quick Reaction Alert operations and wider RAF and NATO awareness of the northern approaches. In 2018, the Ministry of Defence said the Saxa Vord radar head would feed the UK’s nationwide Quick Reaction Alert system, supporting the policing of UK and international airspace from RAF Lossiemouth and RAF Coningsby, as well as assisting civil air traffic control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">New Shetland radar to better protect UK Northern airspace</span><span class="citation-popover-snippet">January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</span><span class="citation-popover-meta">Published: January 26, 2018</span></span></span>
+Saxa Vord sits on Unst, the northernmost of the Shetland islands, and its location is the key to its importance. In air-defence terms, Shetland is not just a remote island group; it is a forward-looking position facing the Norwegian Sea and the airspace north of Britain. That is why modern official descriptions of the site emphasise aircraft movements north of the UK, Quick Reaction Alert operations and wider RAF and NATO awareness of the northern approaches. In 2018, the Ministry of Defence said the Saxa Vord radar head would feed the UK’s nationwide Quick Reaction Alert system, supporting the policing of UK and international airspace from RAF Lossiemouth and RAF Coningsby, as well as assisting civil air traffic control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">New Shetland radar to better protect UK Northern airspace</span><span class="citation-popover-snippet">January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</span><span class="citation-popover-meta">Published: January 26, 2018</span></span></span>
 
-The modern remote radar head is part of a much older pattern. Historic Environment Scotland’s record for Skaw, on Unst, notes that radar at Skaw and a complementary Chain Home Low station at Saxa Vord recorded more than 100 aircraft observations in 1941. Some targets were not intercepted, and Shetland did suffer successful wartime bombing attacks. That wartime detail is important for UFO interpretation because it shows that Shetland’s northern skies have long been watched as operational airspace, not merely as scenic night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM13097" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
+The modern remote radar head is part of a much older pattern. Historic Environment Scotland’s record for Skaw, on Unst, notes that radar at Skaw and a complementary Chain Home Low station at Saxa Vord recorded more than 100 aircraft observations in 1941. Some targets were not intercepted, and Shetland did suffer successful wartime bombing attacks. That wartime detail is important for UFO interpretation because it shows that Shetland’s northern skies have long been watched as operational airspace, not merely as scenic night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM13097" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
-After the Second World War, Saxa Vord became part of the Cold War radar landscape. Specialist site histories record it within the ROTOR programme, the post-war effort to strengthen radar cover across vulnerable parts of Britain. Subterranea Britannica describes ROTOR 3 as intended to cover the north and west of the British Isles and low or surface-level approaches over the Atlantic, with Saxa Vord, Aird Uig and Faraid Head planned as Centimetric Early Warning stations equipped with Type 80 Mk 2 and Type 13 radars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-title">saxa vord rotor radar station</span><span class="citation-popover-snippet">saxa vord rotor radar station</span></span></span>
+After the Second World War, Saxa Vord became part of the Cold War radar landscape. Specialist site histories record it within the ROTOR programme, the post-war effort to strengthen radar cover across vulnerable parts of Britain. Subterranea Britannica describes ROTOR 3 as intended to cover the north and west of the British Isles and low or surface-level approaches over the Atlantic, with Saxa Vord, Aird Uig and Faraid Head planned as Centimetric Early Warning stations equipped with Type 80 Mk 2 and Type 13 radars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-title">saxa vord rotor radar station</span><span class="citation-popover-snippet">saxa vord rotor radar station</span></span></span>
 
 That history matters because it gives Shetland a different UFO setting from many inland counties. A strange light over a market town may first raise questions about aircraft, planets, drones or lanterns. A strange light over Shetland, especially north or east of the islands, also sits within a geography of surveillance, interceptions, sea approaches and international military traffic. The radar station does not make every report more mysterious; in many cases it makes a prosaic aviation explanation more plausible.
 
@@ -274,9 +274,9 @@ That history matters because it gives Shetland a different UFO setting from many
 
 Radar is often invoked in UFO discussions as though it automatically strengthens a sighting. In Shetland, the more careful point is the opposite: radar introduces stricter standards. A visual report made near a radar station is not the same thing as a radar-visual case. To make Saxa Vord evidentially central, a report would need a documented radar track that matches the witnesses’ time, direction, altitude or apparent motion. Without that, Saxa Vord is background.
 
-This distinction is especially important because the RAF’s own description of the reactivated Saxa Vord facility is about routine air surveillance. The site’s role is to provide information on aircraft movements north of the UK and feed the wider Quick Reaction Alert picture. That means it is built to help identify, track and respond to aircraft, not to act as a public UFO-confirmation machine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf typhoon overflew newly installed air defence radar at saxa vord</span><span class="citation-popover-snippet">raf typhoon overflew newly installed air defence radar at saxa vord</span></span></span>
+This distinction is especially important because the RAF’s own description of the reactivated Saxa Vord facility is about routine air surveillance. The site’s role is to provide information on aircraft movements north of the UK and feed the wider Quick Reaction Alert picture. That means it is built to help identify, track and respond to aircraft, not to act as a public UFO-confirmation machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf typhoon overflew newly installed air defence radar at saxa vord</span><span class="citation-popover-snippet">raf typhoon overflew newly installed air defence radar at saxa vord</span></span></span>
 
-The 1992 Shetland UFO report shows the problem well. A CIA reading-room copy of a British press report described 17 sightings recorded by Shetland police, the coastguard and Lerwick Observatory of a large white object travelling low and very fast off Shetland. The report linked the incident to speculation about a possible secret high-speed aircraft, but it did not provide a publicly documented Saxa Vord radar plot, intercept record or official technical analysis that would let a reader test that interpretation properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The 1992 Shetland UFO report shows the problem well. A CIA reading-room copy of a British press report described 17 sightings recorded by Shetland police, the coastguard and Lerwick Observatory of a large white object travelling low and very fast off Shetland. The report linked the incident to speculation about a possible secret high-speed aircraft, but it did not provide a publicly documented Saxa Vord radar plot, intercept record or official technical analysis that would let a reader test that interpretation properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 That makes the case interesting but not settled. If Saxa Vord radar had recorded a corresponding object, the case would become much stronger. If radar did not record it, that would not automatically disprove the witnesses, because radar coverage has limits and not every visual phenomenon produces a useful radar return. But the absence of a public, time-matched radar record weakens any claim that the 1992 event was confirmed by air-defence systems.
 
@@ -287,9 +287,9 @@ That makes the case interesting but not settled. If Saxa Vord radar had recorded
 
 The most common mistake in reading Shetland UFO material is to treat “near Saxa Vord” as a substitute for evidence. The station’s presence tells us that Shetland has strategic skies; it does not tell us what a particular witness saw. A light can pass through the same broad region as an air-defence radar and still be a meteor, aircraft, satellite, atmospheric effect, aurora, searchlight, flare, offshore activity or simple misperception.
 
-Shetland’s geography increases that ambiguity. Long sea horizons can make distance and speed hard to judge. Low cloud, darkness, reflection from water, and sparse visual reference points can make an ordinary aircraft appear unusually fast or low. At the same time, the northern setting makes military aviation questions reasonable rather than far-fetched. Saxa Vord’s renewed use was publicly justified in relation to the airspace north of Britain and the Norwegian Sea, with official statements linking the radar to heightened Russian military activity and NATO awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf typhoon overflew newly installed air defence radar at saxa vord</span><span class="citation-popover-snippet">raf typhoon overflew newly installed air defence radar at saxa vord</span></span></span>
+Shetland’s geography increases that ambiguity. Long sea horizons can make distance and speed hard to judge. Low cloud, darkness, reflection from water, and sparse visual reference points can make an ordinary aircraft appear unusually fast or low. At the same time, the northern setting makes military aviation questions reasonable rather than far-fetched. Saxa Vord’s renewed use was publicly justified in relation to the airspace north of Britain and the Norwegian Sea, with official statements linking the radar to heightened Russian military activity and NATO awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-title">raf typhoon overflew newly installed air defence radar at saxa vord</span><span class="citation-popover-snippet">raf typhoon overflew newly installed air defence radar at saxa vord</span></span></span>
 
-That does not mean “Russian aircraft” or “secret aircraft” should become default explanations for Shetland UFOs. Official reporting on the 2018 radar reactivation noted a recent RAF Lossiemouth scramble to intercept Russian military aircraft that did not respond to air-traffic authorities, but also stated that those aircraft remained in international airspace and did not enter UK sovereign airspace. This is exactly the kind of distinction UFO reporting often blurs: an object may be of defence interest without being hostile, unlawful, exotic or unexplained in the extraordinary sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">New Shetland radar to better protect UK Northern airspace</span><span class="citation-popover-snippet">January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</span><span class="citation-popover-meta">Published: January 26, 2018</span></span></span>
+That does not mean “Russian aircraft” or “secret aircraft” should become default explanations for Shetland UFOs. Official reporting on the 2018 radar reactivation noted a recent RAF Lossiemouth scramble to intercept Russian military aircraft that did not respond to air-traffic authorities, but also stated that those aircraft remained in international airspace and did not enter UK sovereign airspace. This is exactly the kind of distinction UFO reporting often blurs: an object may be of defence interest without being hostile, unlawful, exotic or unexplained in the extraordinary sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">New Shetland radar to better protect UK Northern airspace</span><span class="citation-popover-snippet">January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</span><span class="citation-popover-meta">Published: January 26, 2018</span></span></span>
 
 For a public-facing Shetland UFO history, Saxa Vord is therefore best used as a sorting tool. It encourages better questions:
 
@@ -303,19 +303,19 @@ For a public-facing Shetland UFO history, Saxa Vord is therefore best used as a 
 <img src="{{ "/assets/images/Shetland_ce055c_saxa_vord_radar_29cb23-Illustration-2-dark.svg" | relative_url }}" alt="Saxa Vord illustration 2" data-theme-src-dark="{{ "/assets/images/Shetland_ce055c_saxa_vord_radar_29cb23-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shetland_ce055c_saxa_vord_radar_29cb23-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Cold War Legacy Still Shapes Interpretation
 
-Saxa Vord’s Cold War role gives Shetland UFO stories a particular flavour. The station was not an incidental installation; it was part of a national system designed to look outward from Britain’s northern edge. Subterranea Britannica’s account of Saxa Vord places it in the ROTOR network’s attempt to close air-defence gaps across the north and west of the British Isles. A former RAF Saxa Vord history site, written from a service-history perspective, likewise describes the station’s Type 80 radar as providing long-range coverage of airspace north of Scotland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-title">saxa vord rotor radar station</span><span class="citation-popover-snippet">saxa vord rotor radar station</span></span></span>
+Saxa Vord’s Cold War role gives Shetland UFO stories a particular flavour. The station was not an incidental installation; it was part of a national system designed to look outward from Britain’s northern edge. Subterranea Britannica’s account of Saxa Vord places it in the ROTOR network’s attempt to close air-defence gaps across the north and west of the British Isles. A former RAF Saxa Vord history site, written from a service-history perspective, likewise describes the station’s Type 80 radar as providing long-range coverage of airspace north of Scotland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subbrit.org.uk">[Subterranea Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subbrit.org.uk</span><span class="citation-popover-title">saxa vord rotor radar station</span><span class="citation-popover-snippet">saxa vord rotor radar station</span></span></span>
 
-This background helps explain why Shetland sightings can quickly attract speculation about surveillance aircraft, high-speed military technology or unidentified intruders. In the 1992 case, the press framing leaned towards possible spy-plane speculation, not simply “aliens over Shetland”. That is a revealing local pattern. The island setting, radar history and northern approaches made defence technology a culturally available explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+This background helps explain why Shetland sightings can quickly attract speculation about surveillance aircraft, high-speed military technology or unidentified intruders. In the 1992 case, the press framing leaned towards possible spy-plane speculation, not simply “aliens over Shetland”. That is a revealing local pattern. The island setting, radar history and northern approaches made defence technology a culturally available explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 The danger is that Cold War atmosphere can inflate weak evidence. A radar station nearby, a remote island, a white object moving fast and a rumour of secret aircraft make a memorable story. But they do not, by themselves, establish that a classified aircraft was present, still less that anything non-human was involved. For a balanced UFO history, the useful conclusion is narrower: Shetland’s military geography makes aviation explanations more important, but it also demands better documentation before those explanations become claims.
 
 ## Reactivation and the Modern Northern Sky
 
-The modern reactivation of Saxa Vord gives this older pattern a contemporary edge. The MOD announced in January 2018 that a new £10 million Remote Radar Head facility at Saxa Vord would improve surveillance of the airspace north of Britain and further across the Norwegian Sea. Defence Equipment and Support said it managed the redevelopment and delivered the new infrastructure and capability for the RAF, with the site operated remotely and contractors attending for maintenance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">New Shetland radar to better protect UK Northern airspace</span><span class="citation-popover-snippet">January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</span><span class="citation-popover-meta">Published: January 26, 2018</span></span></span>
+The modern reactivation of Saxa Vord gives this older pattern a contemporary edge. The MOD announced in January 2018 that a new £10 million Remote Radar Head facility at Saxa Vord would improve surveillance of the airspace north of Britain and further across the Norwegian Sea. Defence Equipment and Support said it managed the redevelopment and delivered the new infrastructure and capability for the RAF, with the site operated remotely and contractors attending for maintenance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">New Shetland radar to better protect UK Northern airspace</span><span class="citation-popover-snippet">January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</span><span class="citation-popover-meta">Published: January 26, 2018</span></span></span>
 
 This remote operation matters for UFO interpretation. A modern radar head does not necessarily mean a large staffed station with local personnel publicly available to comment on unusual sightings. It is part of a networked air picture. If an unusual object were detected, the relevant information might sit within RAF systems, civil air-traffic data, classified operational records, or all three. That can make public verification difficult, even when official systems have relevant data.
 
-The site has also been discussed in later infrastructure contexts. FCDO Services describes Programme HYDRA as a secure-build upgrade of Remote Radar Heads at four UK sites, part of a wider effort to modernise RAF radar infrastructure. A 2026 government energy policy statement also names Saxa Vord among air-defence radar sites where radar mitigation for energy projects may be considered if project pipelines mature. These references show that Saxa Vord remains part of live air-defence planning, not just Cold War heritage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcdoservices.gov.uk">[FCDO Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcdoservices.gov.uk</span><span class="citation-popover-snippet">Open source on fcdoservices.gov.uk.</span></span></span>
+The site has also been discussed in later infrastructure contexts. FCDO Services describes Programme HYDRA as a secure-build upgrade of Remote Radar Heads at four UK sites, part of a wider effort to modernise RAF radar infrastructure. A 2026 government energy policy statement also names Saxa Vord among air-defence radar sites where radar mitigation for energy projects may be considered if project pipelines mature. These references show that Saxa Vord remains part of live air-defence planning, not just Cold War heritage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcdoservices.gov.uk">[FCDO Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcdoservices.gov.uk</span><span class="citation-popover-snippet">Open source on fcdoservices.gov.uk.</span></span></span>
 
 For UFO readers, the modern lesson is not that Shetland is now more likely to produce extraordinary cases. It is that any serious modern Shetland sighting should be assessed against more data sources than a witness statement alone: radar networks, civil aviation tracks, maritime activity, satellite data, space-launch notices, weather records and auroral forecasts. Saxa Vord raises the bar.
 
@@ -355,194 +355,194 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Radar Changes the Shetland UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Radar Changes the Shetland UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains evidence standards and case classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence standards and case classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Links witness reports with radar, military and aviation evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links witness reports with radar, military and aviation evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Covers British defence, airspace monitoring and official UFO files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers British defence, airspace monitoring and official UFO files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Places UFO claims within broader unexplained phenomena research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places UFO claims within broader unexplained phenomena research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="saxa-vord-why-radar-changes-the-shetland-ufo-story-shetland-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-radar-changes-the-shetland-ufo-story-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,152 +748,152 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: New Shetland radar to better protect UK Northern airspace  
-   Link: <a href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/new-shetland-radar-to-better-protect-uk-northern-airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2018 — 26 Jan 2018 — The Saxa Vord Radar head will provide key information on aircraft movements to the north of the UK and f...</p></details>
    Published: January 26, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: raf.mod.uk  
    Title: new shetland radar to better protect uk northern airspace  
-   Link: <a href="https://www.raf.mod.uk/news/articles/new-shetland-radar-to-better-protect-uk-northern-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/new-shetland-radar-to-better-protect-uk-northern-airspace/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air ForceNew Shetland radar to better protect UK northern airspace26 Jan 2018 — The Saxa Vord Radar head will provide key informati...</p></details>
+   Link:<a href="https://www.raf.mod.uk/news/articles/new-shetland-radar-to-better-protect-uk-northern-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/new-shetland-radar-to-better-protect-uk-northern-airspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air ForceNew Shetland radar to better protect UK northern airspace26 Jan 2018 — The Saxa Vord Radar head will provide key informati...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raf.mod.uk  
    Title: raf typhoon overflew newly installed air defence radar at saxa vord  
-   Link: <a href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/</a>  
+   Link:<a href="https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/news/articles/raf-typhoon-overflew-newly-installed-air-defence-radar-at-saxa-vord/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: des.mod.uk  
-   Link: <a href="https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/</a>  
+   Link:<a href="https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/raf-remote-radar-saxa-vord-unst-shetland/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517757.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fcdoservices.gov.uk  
-   Link: <a href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow">https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/</a>  
+   Link:<a href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow">https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: overarching national policy statement for energy en 1 2025 accessible webpage  
-   Link: <a href="https://www.gov.uk/government/publications/overarching-national-policy-statement-for-energy-en-1-2025/overarching-national-policy-statement-for-energy-en-1-2025-accessible-webpage" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/overarching-national-policy-statement-for-energy-en-1-2025/overarching-national-policy-statement-for-energy-en-1-2025-accessible-webpage</a>  
+   Link:<a href="https://www.gov.uk/government/publications/overarching-national-policy-statement-for-energy-en-1-2025/overarching-national-policy-statement-for-energy-en-1-2025-accessible-webpage" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/overarching-national-policy-statement-for-energy-en-1-2025/overarching-national-policy-statement-for-energy-en-1-2025-accessible-webpage</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20180709 MOD Philip Dunne Review FOR WEB PUB  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5b436c31e5274a3779f80a33/20180709_MOD_Philip_Dunne_Review_FOR_WEB_PUB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5b436c31e5274a3779f80a33/20180709_MOD_Philip_Dunne_Review_FOR_WEB_PUB.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5b436c31e5274a3779f80a33/20180709_MOD_Philip_Dunne_Review_FOR_WEB_PUB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5b436c31e5274a3779f80a33/20180709_MOD_Philip_Dunne_Review_FOR_WEB_PUB.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: SEA4 assessment  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7a223ce5274a319e77817e/SEA4_assessment.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Mar Desider 2018 small  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a96e0efe5274a5b87c3005e/Mar-Desider-2018-small.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a96e0efe5274a5b87c3005e/Mar-Desider-2018-small.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a96e0efe5274a5b87c3005e/Mar-Desider-2018-small.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a96e0efe5274a5b87c3005e/Mar-Desider-2018-small.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: OESEA3 Review Final  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/757886/OESEA3_Review_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/757886/OESEA3_Review_Final.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/757886/OESEA3_Review_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/757886/OESEA3_Review_Final.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010115-001644-Five%20Estuaries%20Offshore%20Wind%20Farm%20Ltd%20-%20Any%20other%20submission%20from%20the%20Applicant%2053.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010115-001644-Five%20Estuaries%20Offshore%20Wind%20Farm%20Ltd%20-%20Any%20other%20submission%20from%20the%20Applicant%2053.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010115-001644-Five%20Estuaries%20Offshore%20Wind%20Farm%20Ltd%20-%20Any%20other%20submission%20from%20the%20Applicant%2053.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010115-001644-Five%20Estuaries%20Offshore%20Wind%20Farm%20Ltd%20-%20Any%20other%20submission%20from%20the%20Applicant%2053.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: portal.historicenvironment.scot  
-   Link: <a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM13097" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM13097</a>  
+   Link:<a href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM13097" target="_blank" rel="noopener noreferrer nofollow">https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM13097</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: subbrit.org.uk  
    Title: saxa vord rotor radar station  
-   Link: <a href="https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/saxa-vord-rotor-radar-station/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: subbrit.org.uk  
    Title: faraid head rotor radar station  
-   Link: <a href="https://www.subbrit.org.uk/sites/faraid-head-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/faraid-head-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/faraid-head-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/faraid-head-rotor-radar-station/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: subbrit.org.uk  
    Title: kilchiaran rotor radar station  
-   Link: <a href="https://www.subbrit.org.uk/sites/kilchiaran-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/kilchiaran-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/kilchiaran-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/kilchiaran-rotor-radar-station/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontlineulster.co.uk  
    Title: saxa vord  
-   Link: <a href="https://frontlineulster.co.uk/saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://frontlineulster.co.uk/saxa-vord/</a>  
+   Link:<a href="https://frontlineulster.co.uk/saxa-vord/" target="_blank" rel="noopener noreferrer nofollow">https://frontlineulster.co.uk/saxa-vord/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fcdoservicescareers.co.uk  
-   Link: <a href="https://fcdoservicescareers.co.uk/find-your-purpose-in-procurement/programme-hydra.html" target="_blank" rel="noopener noreferrer nofollow">https://fcdoservicescareers.co.uk/find-your-purpose-in-procurement/programme-hydra.html</a>  
+   Link:<a href="https://fcdoservicescareers.co.uk/find-your-purpose-in-procurement/programme-hydra.html" target="_blank" rel="noopener noreferrer nofollow">https://fcdoservicescareers.co.uk/find-your-purpose-in-procurement/programme-hydra.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: radarpages.co.uk  
-   Link: <a href="https://www.radarpages.co.uk/mob/rotor/type13.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.radarpages.co.uk/mob/rotor/type13.htm</a>  
+   Link:<a href="https://www.radarpages.co.uk/mob/rotor/type13.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.radarpages.co.uk/mob/rotor/type13.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: flickr.com  
    Title: Saxa Vord  
-   Link: <a href="https://www.flickr.com/photos/intrepidexplorer82/53065708730/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/intrepidexplorer82/53065708730/</a>  
+   Link:<a href="https://www.flickr.com/photos/intrepidexplorer82/53065708730/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/intrepidexplorer82/53065708730/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: flickr.com  
    Title: Saxa Vord  
-   Link: <a href="https://www.flickr.com/photos/intrepidexplorer82/53064734442/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/intrepidexplorer82/53064734442/</a>  
+   Link:<a href="https://www.flickr.com/photos/intrepidexplorer82/53064734442/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/intrepidexplorer82/53064734442/</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YCyekTgQAkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YCyekTgQAkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shetland UFOs: Mysterious Lights in North Scotland (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YCyekTgQAkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YCyekTgQAkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shetland UFOs: Mysterious Lights in North Scotland (Paranormal &amp; Mystery)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Shetland UFOs: Mysterious Lights in North Scotland (Paranormal & Mystery)  
-   Link: <a href="https://www.youtube.com/watch?v=Hw8ZfZ4xnYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hw8ZfZ4xnYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government - RAF Lossiemouth - Quick Reaction Alert...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hw8ZfZ4xnYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hw8ZfZ4xnYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government - RAF Lossiemouth - Quick Reaction Alert...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Early VIDEO: QRA  
-   Link: <a href="https://www.youtube.com/watch?v=Gi8y5Ul9G7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gi8y5Ul9G7M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vital RAF base tests its reaction to worst-case scenarios...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Gi8y5Ul9G7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gi8y5Ul9G7M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vital RAF base tests its reaction to worst-case scenarios...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: UK Government  
-   Link: <a href="https://www.youtube.com/watch?v=Pd8eKY0aaI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pd8eKY0aaI0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early VIDEO: QRA - QUICK REACTION ALERT - RAF Coningsby...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pd8eKY0aaI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pd8eKY0aaI0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early VIDEO: QRA - QUICK REACTION ALERT - RAF Coningsby...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: x.com  
-   Link: <a href="https://x.com/RoyalAirForce/status/999951290460499969?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RoyalAirForce/status/999951290460499969?lang=en</a>  
+   Link:<a href="https://x.com/RoyalAirForce/status/999951290460499969?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RoyalAirForce/status/999951290460499969?lang=en</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: trove.scot  
-   Link: <a href="https://www.trove.scot/place/257707" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/257707</a>  
+   Link:<a href="https://www.trove.scot/place/257707" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/257707</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rnliarchive.blob.core.windows.net  
-   Link: <a href="https://rnliarchive.blob.core.windows.net/media/1536/0539.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rnliarchive.blob.core.windows.net/media/1536/0539.pdf</a>  
+   Link:<a href="https://rnliarchive.blob.core.windows.net/media/1536/0539.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rnliarchive.blob.core.windows.net/media/1536/0539.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalairforceboulmer/videos/just-under-12-months-ago-the-radar-from-remote-radar-head-brizlee-wood-rrh-brizl/428531698178094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforceboulmer/videos/just-under-12-months-ago-the-radar-from-remote-radar-head-brizlee-wood-rrh-brizl/428531698178094/</a>  
+   Link:<a href="https://www.facebook.com/royalairforceboulmer/videos/just-under-12-months-ago-the-radar-from-remote-radar-head-brizlee-wood-rrh-brizl/428531698178094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforceboulmer/videos/just-under-12-months-ago-the-radar-from-remote-radar-head-brizlee-wood-rrh-brizl/428531698178094/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gallanhead.org.uk  
-   Link: <a href="https://www.gallanhead.org.uk/memoirs-of-a-bygone-age/" target="_blank" rel="noopener noreferrer nofollow">https://www.gallanhead.org.uk/memoirs-of-a-bygone-age/</a>  
+   Link:<a href="https://www.gallanhead.org.uk/memoirs-of-a-bygone-age/" target="_blank" rel="noopener noreferrer nofollow">https://www.gallanhead.org.uk/memoirs-of-a-bygone-age/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bawdseyradar.org.uk  
-   Link: <a href="https://www.bawdseyradar.org.uk/new-remote-radar-head-facility-at-saxa-vord-unst-in-shetland/" target="_blank" rel="noopener noreferrer nofollow">https://www.bawdseyradar.org.uk/new-remote-radar-head-facility-at-saxa-vord-unst-in-shetland/</a>  
+   Link:<a href="https://www.bawdseyradar.org.uk/new-remote-radar-head-facility-at-saxa-vord-unst-in-shetland/" target="_blank" rel="noopener noreferrer nofollow">https://www.bawdseyradar.org.uk/new-remote-radar-head-facility-at-saxa-vord-unst-in-shetland/</a>  

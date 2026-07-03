@@ -118,9 +118,9 @@ heading_title: What Did Aberdeenshire Really See?
 page_heading_title: What Did Aberdeenshire Really See?
 source_count: 133
 infographic_count: 3
-page_website_name: Aberdeenshire UFOs
+page_website_name: Aberdeenshire
 page_banner_line: Balanced local UFO history from MoD logs, coastal sightings and north-east skywatching.
-site_website_name: Aberdeenshire UFOs
+site_website_name: Aberdeenshire
 site_banner_line: Balanced local UFO history from MoD logs, coastal sightings and north-east skywatching.
 site_image_description: A dark Aberdeenshire coastline with distant lights over the North Sea and a rural road leading toward low hills.
 output_language: English
@@ -689,70 +689,70 @@ image: /assets/images/Aberdeenshire_e04348-overview-social.jpg
 
 ## Which Aberdeenshire are we talking about?
 
-This page uses Aberdeenshire in the historic-county sense used by the project’s county map, while also noting where modern records use council-area wording differently. The historic County of Aberdeen included Aberdeen as its county town and stretched from the North Sea coast into the uplands of Mar and Deeside. Wikishire describes the shire as bordering Kincardineshire, Angus and Perthshire to the south, Inverness-shire and Banffshire to the west, and the North Sea to the north and east, with about 65 miles of coastline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Aberdeenshire</span><span class="citation-popover-snippet">Wikishire Aberdeenshire</span></span></span>
+This page uses Aberdeenshire in the historic-county sense used by the project’s county map, while also noting where modern records use council-area wording differently. The historic County of Aberdeen included Aberdeen as its county town and stretched from the North Sea coast into the uplands of Mar and Deeside. Wikishire describes the shire as bordering Kincardineshire, Angus and Perthshire to the south, Inverness-shire and Banffshire to the west, and the North Sea to the north and east, with about 65 miles of coastline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Aberdeenshire</span><span class="citation-popover-snippet">Wikishire Aberdeenshire</span></span></span>
 
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348-overview.webp" | relative_url }}" alt="Overview image for What Did Aberdeenshire Really See?" loading="eager" decoding="sync" fetchpriority="high">
-That matters because UFO records are not always tidy. Modern “Aberdeenshire” often means the post-1996 council area, while Aberdeen City is a separate council area even though many older or regional sources naturally treat Aberdeen and the shire together. For UFO history, that distinction can affect whether a Bridge of Don, Dyce, Portlethen or Muchalls report is read as Aberdeen, Aberdeenshire, Kincardineshire, or the north-east media region. The practical approach is to keep the centre of gravity on historic Aberdeenshire, but not pretend that witnesses, newspapers, flight paths or MoD tables always respected the same boundary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aberdeenshire (historic</span><span class="citation-popover-snippet">Aberdeenshire (historic</span></span></span>
+That matters because UFO records are not always tidy. Modern “Aberdeenshire” often means the post-1996 council area, while Aberdeen City is a separate council area even though many older or regional sources naturally treat Aberdeen and the shire together. For UFO history, that distinction can affect whether a Bridge of Don, Dyce, Portlethen or Muchalls report is read as Aberdeen, Aberdeenshire, Kincardineshire, or the north-east media region. The practical approach is to keep the centre of gravity on historic Aberdeenshire, but not pretend that witnesses, newspapers, flight paths or MoD tables always respected the same boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aberdeenshire (historic</span><span class="citation-popover-snippet">Aberdeenshire (historic</span></span></span>
 
 ## What the MoD files actually show
 
-The most useful official source for Aberdeenshire UFO history is the Ministry of Defence’s published UFO report tables for 1997 to 2009. GOV.UK describes these as reports showing the date, time, location and brief description of sightings; the National Archives adds that MoD UFO records have been kept since the 1960s and that most reports describe lights, shapes and flashes, many of which can often be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The most useful official source for Aberdeenshire UFO history is the Ministry of Defence’s published UFO report tables for 1997 to 2009. GOV.UK describes these as reports showing the date, time, location and brief description of sightings; the National Archives adds that MoD UFO records have been kept since the 1960s and that most reports describe lights, shapes and flashes, many of which can often be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The Aberdeenshire entries are typical of the wider UK pattern: short reports, usually made by members of the public, with little visible evidence of detailed follow-up in the published tables. They are valuable because they give dates and wording close to the original reporting process, but they are limited because they normally do not include witness interviews, weather checks, aircraft movements, astronomical positions or radar confirmation. In other words, they are a record of reports, not proof of extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Aberdeenshire entries are typical of the wider UK pattern: short reports, usually made by members of the public, with little visible evidence of detailed follow-up in the published tables. They are valuable because they give dates and wording close to the original reporting process, but they are limited because they normally do not include witness interviews, weather checks, aircraft movements, astronomical positions or radar confirmation. In other words, they are a record of reports, not proof of extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 Several entries stand out:
 
-In August 1997, an Aberdeen report described “four roundish lights” that were white and fairly bright, moving in a small circle at evenly spaced intervals before rotating clockwise. The detail is intriguing because it describes a pattern rather than a single point of light, but the report is still only a brief log entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+In August 1997, an Aberdeen report described “four roundish lights” that were white and fairly bright, moving in a small circle at evenly spaced intervals before rotating clockwise. The detail is intriguing because it describes a pattern rather than a single point of light, but the report is still only a brief log entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-In February 1998, a Ladysbridge entry recorded one orange object with an intense bright light, moving very slowly before disappearing. Ladysbridge lies near Banff and is sometimes treated awkwardly in modern local geography, but the MoD table gives the area as Aberdeenshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+In February 1998, a Ladysbridge entry recorded one orange object with an intense bright light, moving very slowly before disappearing. Ladysbridge lies near Banff and is sometimes treated awkwardly in modern local geography, but the MoD table gives the area as Aberdeenshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-In January 1999, Ballater produced a more colourful report: two objects, each “four times larger than the largest star” and “round like a glitter ball”, with blue, red and green lights. That description fits a common UFO-reporting problem: multi-coloured stationary or slow-moving lights can feel highly unusual to a witness, but without direction, elevation, duration, weather and astronomical checks, it is hard to separate unusual aircraft, bright stars seen through atmospheric distortion, or other mundane sources from something genuinely unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+In January 1999, Ballater produced a more colourful report: two objects, each “four times larger than the largest star” and “round like a glitter ball”, with blue, red and green lights. That description fits a common UFO-reporting problem: multi-coloured stationary or slow-moving lights can feel highly unusual to a witness, but without direction, elevation, duration, weather and astronomical checks, it is hard to separate unusual aircraft, bright stars seen through atmospheric distortion, or other mundane sources from something genuinely unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-In December 2007, Bridge of Don/Aberdeen was logged with lights in the sky that formed two triangle formations, with a smaller light on each end of the two triangles. Triangle formations have a long UFO pedigree, but the MoD table does not provide the extra data needed to test whether these were aircraft, lanterns, reflected lights, drones, or a misperceived arrangement of separate objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+In December 2007, Bridge of Don/Aberdeen was logged with lights in the sky that formed two triangle formations, with a smaller light on each end of the two triangles. Triangle formations have a long UFO pedigree, but the MoD table does not provide the extra data needed to test whether these were aircraft, lanterns, reflected lights, drones, or a misperceived arrangement of separate objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
-In July 2008, an Aberdeen report simply noted “strange lights in the sky”; the message was taken on 23 July. The brevity is important. Such entries show public reporting volume, but they do not give enough detail to support a strong claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+In July 2008, an Aberdeen report simply noted “strange lights in the sky”; the message was taken on 23 July. The brevity is important. Such entries show public reporting volume, but they do not give enough detail to support a strong claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-In February 2009, a Portlethen report described a big yellow glow south of Aberdeen, about 2,500 feet high, which the witness said was not aircraft landing lights. The location is notable because Portlethen sits close to the Aberdeen travel corridor and within a region shaped by airport and offshore helicopter activity, but the available entry still does not show whether those possible explanations were checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+In February 2009, a Portlethen report described a big yellow glow south of Aberdeen, about 2,500 feet high, which the witness said was not aircraft landing lights. The location is notable because Portlethen sits close to the Aberdeen travel corridor and within a region shaped by airport and offshore helicopter activity, but the available entry still does not show whether those possible explanations were checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348-Illustration-1-dark.svg" | relative_url }}" alt="What Did Aberdeenshire Really See? illustration 1" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Muchalls: hotspot, folklore, or over-read local cluster?
 
-Muchalls is the one Aberdeenshire place that has become a recognisable UFO name beyond isolated MoD entries. Later UFO commentary links the coastal village to reports from the 1960s and 1970s, especially accounts associated with Tom Moir and the Scottish UFO writer Malcolm Robinson. One accessible summary says Robinson considered Muchalls a “UFO window area”, with claimed local reports including a 1964 orange ball-of-light encounter and a December 1971 case involving young resident Tom Moir. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/biggest-ufo-hot-spots-in-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible Two Of The Biggest UFO Hot Spots In The World Revealed</span><span class="citation-popover-snippet">Bro Bible Two Of The Biggest UFO Hot Spots In The World Revealed</span></span></span>
+Muchalls is the one Aberdeenshire place that has become a recognisable UFO name beyond isolated MoD entries. Later UFO commentary links the coastal village to reports from the 1960s and 1970s, especially accounts associated with Tom Moir and the Scottish UFO writer Malcolm Robinson. One accessible summary says Robinson considered Muchalls a “UFO window area”, with claimed local reports including a 1964 orange ball-of-light encounter and a December 1971 case involving young resident Tom Moir.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/biggest-ufo-hot-spots-in-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible Two Of The Biggest UFO Hot Spots In The World Revealed</span><span class="citation-popover-snippet">Bro Bible Two Of The Biggest UFO Hot Spots In The World Revealed</span></span></span>
 
-The most careful way to treat Muchalls is as a local folklore-and-witness cluster rather than a proven hotspot. The stories are interesting because they are place-specific, repeated in UFO literature, and tied to named witnesses and later investigation. They are weak because much of the accessible material is retrospective, filtered through enthusiasts, podcasts or tabloid-style summaries, and not supported in the public record by the kind of contemporaneous official file that would let a reader test dates, witnesses, weather, aircraft traffic or physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podfollow.com">[podfollow+2Podcast UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podfollow.com</span><span class="citation-popover-title">UFOs Over Muchalls Scotland</span><span class="citation-popover-snippet">UFOs Over Muchalls Scotland</span></span></span>
+The most careful way to treat Muchalls is as a local folklore-and-witness cluster rather than a proven hotspot. The stories are interesting because they are place-specific, repeated in UFO literature, and tied to named witnesses and later investigation. They are weak because much of the accessible material is retrospective, filtered through enthusiasts, podcasts or tabloid-style summaries, and not supported in the public record by the kind of contemporaneous official file that would let a reader test dates, witnesses, weather, aircraft traffic or physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podfollow.com">[podfollow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podfollow.com</span><span class="citation-popover-title">UFOs Over Muchalls Scotland</span><span class="citation-popover-snippet">UFOs Over Muchalls Scotland</span></span></span>
 
-Muchalls also illustrates a boundary problem. It lies south of Aberdeen in the modern Aberdeenshire council area, but historically this coast is associated with Kincardineshire. A project organised by historic counties should therefore treat Muchalls as relevant to the wider north-east UFO story and the modern Aberdeenshire page, while also recognising that a strict historic-county index may cross-link it with Kincardineshire. That is not pedantry; it prevents a sighting cluster from being counted twice or placed in the wrong county without explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Muchalls also illustrates a boundary problem. It lies south of Aberdeen in the modern Aberdeenshire council area, but historically this coast is associated with Kincardineshire. A project organised by historic counties should therefore treat Muchalls as relevant to the wider north-east UFO story and the modern Aberdeenshire page, while also recognising that a strict historic-county index may cross-link it with Kincardineshire. That is not pedantry; it prevents a sighting cluster from being counted twice or placed in the wrong county without explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Why Aberdeenshire produces many “lights in the sky” reports
 
-Aberdeenshire is a good place for sky reports because it has both dark rural landscapes and busy aviation corridors. To the west and south-west are upland areas where clear nights can make lights seem unusually sharp or isolated. To the east and north-east are the North Sea, offshore routes, coastal towns and the long visual horizon of Buchan. The historic shire’s geography includes mountain country around Mar and Braemar, lowland districts such as Formartine and Garioch, and the Buchan coast facing the North Sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Aberdeenshire</span><span class="citation-popover-snippet">Wikishire Aberdeenshire</span></span></span>
+Aberdeenshire is a good place for sky reports because it has both dark rural landscapes and busy aviation corridors. To the west and south-west are upland areas where clear nights can make lights seem unusually sharp or isolated. To the east and north-east are the North Sea, offshore routes, coastal towns and the long visual horizon of Buchan. The historic shire’s geography includes mountain country around Mar and Braemar, lowland districts such as Formartine and Garioch, and the Buchan coast facing the North Sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Aberdeenshire</span><span class="citation-popover-snippet">Wikishire Aberdeenshire</span></span></span>
 
-Aviation is central to interpretation. Aberdeen Airport opened in 1934 and, after the discovery of North Sea oil in 1967, became a major centre for helicopter activity linking offshore oil rigs to the mainland as well as handling business and leisure flights. A witness who sees a light over the Aberdeen or Portlethen area may be looking at aircraft, helicopter traffic, approach lights, offshore-related movement, or a combination of aircraft and weather effects. That does not explain every report, but it makes aviation checks essential before treating any light as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/about-us/facts-and-figures/airport-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-title">Aberdeen Airport History of Aberdeen Airport &#124; Aberdeen Airport</span><span class="citation-popover-snippet">Aberdeen Airport History of Aberdeen Airport &#124; Aberdeen Airport</span></span></span>
+Aviation is central to interpretation. Aberdeen Airport opened in 1934 and, after the discovery of North Sea oil in 1967, became a major centre for helicopter activity linking offshore oil rigs to the mainland as well as handling business and leisure flights. A witness who sees a light over the Aberdeen or Portlethen area may be looking at aircraft, helicopter traffic, approach lights, offshore-related movement, or a combination of aircraft and weather effects. That does not explain every report, but it makes aviation checks essential before treating any light as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aberdeenairport.com/about-us/facts-and-figures/airport-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aberdeenairport.com">[Aberdeen Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aberdeenairport.com</span><span class="citation-popover-title">Aberdeen Airport History of Aberdeen Airport &#124; Aberdeen Airport</span><span class="citation-popover-snippet">Aberdeen Airport History of Aberdeen Airport &#124; Aberdeen Airport</span></span></span>
 
-Military and radar history adds another layer. Buchan, near Peterhead, has long been associated with UK air defence radar. FCDO Services describes Buchan in Aberdeenshire as one of the RAF remote radar head sites upgraded under Programme HYDRA, alongside Brizlee Wood and Benbecula. The presence of radar infrastructure does not mean UFO reports were secretly confirmed; it means the area sits within a serious air-surveillance landscape, which makes the absence of public radar corroboration in ordinary sighting reports especially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcdoservices.gov.uk">[FCDO Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcdoservices.gov.uk</span><span class="citation-popover-snippet">Open source on fcdoservices.gov.uk.</span></span></span>
+Military and radar history adds another layer. Buchan, near Peterhead, has long been associated with UK air defence radar. FCDO Services describes Buchan in Aberdeenshire as one of the RAF remote radar head sites upgraded under Programme HYDRA, alongside Brizlee Wood and Benbecula. The presence of radar infrastructure does not mean UFO reports were secretly confirmed; it means the area sits within a serious air-surveillance landscape, which makes the absence of public radar corroboration in ordinary sighting reports especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcdoservices.gov.uk">[FCDO Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcdoservices.gov.uk</span><span class="citation-popover-snippet">Open source on fcdoservices.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mQ1kGk2A88" title="The story of the Calvine UFO photograph | In Case You Missed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer">The story of the Calvine UFO photograph | In Case You Missed It</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 117.5K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mQ1kGk2A88">Open on YouTube</a></p></div></div></div>
 
 ## The strongest doubts and ordinary explanations
 
-The biggest weakness in most Aberdeenshire cases is not that witnesses were dishonest. It is that the reports are short, often nocturnal, and usually describe lights rather than structured objects seen in detail at close range. The National Archives notes that MoD files commonly include possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and that many reports are of lights rather than craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The biggest weakness in most Aberdeenshire cases is not that witnesses were dishonest. It is that the reports are short, often nocturnal, and usually describe lights rather than structured objects seen in detail at close range. The National Archives notes that MoD files commonly include possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and that many reports are of lights rather than craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-Some explanations have become more important since the MoD closed its UFO desk. Drones are now a routine part of the night-sky environment; the Civil Aviation Authority says drones flown at night in the Open Category must have a green flashing light, which can make them conspicuous and unfamiliar to people on the ground. Satellite trains, particularly after the rise of large low-Earth-orbit constellations, can also produce repeated reports of lines or clusters of lights, while meteor fireballs can generate short-lived reports across large areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA+2The Royal Astronomical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Some explanations have become more important since the MoD closed its UFO desk. Drones are now a routine part of the night-sky environment; the Civil Aviation Authority says drones flown at night in the Open Category must have a green flashing light, which can make them conspicuous and unfamiliar to people on the ground. Satellite trains, particularly after the rise of large low-Earth-orbit constellations, can also produce repeated reports of lines or clusters of lights, while meteor fireballs can generate short-lived reports across large areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-Older cases require period-appropriate explanations. A 1997 or 1999 Aberdeenshire sighting cannot be explained by modern consumer drones or Starlink, but it may still involve aircraft, helicopters, stars, planets, meteors, reflections, searchlights, balloons, lanterns or atmospheric effects. Later cases, especially from 2007 to 2009, occurred during a period when orange lights and formations were widely reported across Britain, often in ways compatible with lanterns or other drifting illuminated objects. The MoD’s own tables include many UK entries using the same language of orange lights, formations, silent movement and slow drift, which should make readers cautious before isolating Aberdeenshire as uniquely strange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+Older cases require period-appropriate explanations. A 1997 or 1999 Aberdeenshire sighting cannot be explained by modern consumer drones or Starlink, but it may still involve aircraft, helicopters, stars, planets, meteors, reflections, searchlights, balloons, lanterns or atmospheric effects. Later cases, especially from 2007 to 2009, occurred during a period when orange lights and formations were widely reported across Britain, often in ways compatible with lanterns or other drifting illuminated objects. The MoD’s own tables include many UK entries using the same language of orange lights, formations, silent movement and slow drift, which should make readers cautious before isolating Aberdeenshire as uniquely strange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348-Illustration-3-dark.svg" | relative_url }}" alt="What Did Aberdeenshire Really See? illustration 3" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official investigation did, and did not, establish
 
-The MoD’s role is often misunderstood. Its UFO desk was not a standing alien-investigation unit in the dramatic sense; it primarily assessed whether reports suggested a defence threat. In a 2024 parliamentary answer, the Ministry of Defence said it ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, had no current plan to create a dedicated team, and had released all UFO files created up to 2009 to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The MoD’s role is often misunderstood. Its UFO desk was not a standing alien-investigation unit in the dramatic sense; it primarily assessed whether reports suggested a defence threat. In a 2024 parliamentary answer, the Ministry of Defence said it ceased investigating UFO or UAP reports in 2009, had not classified new material on the subject since, had no current plan to create a dedicated team, and had released all UFO files created up to 2009 to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
-This has two consequences for Aberdeenshire. First, post-2009 sightings are unlikely to appear in the old MoD reporting channel, so absence from MoD files after that date does not mean nothing was seen. Second, the pre-2009 entries should not be over-read: a report being preserved by the MoD means it was received and logged, not that it was validated as extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+This has two consequences for Aberdeenshire. First, post-2009 sightings are unlikely to appear in the old MoD reporting channel, so absence from MoD files after that date does not mean nothing was seen. Second, the pre-2009 entries should not be over-read: a report being preserved by the MoD means it was received and logged, not that it was validated as extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-The MoD’s closure decision also shaped Scottish UFO culture. A 2010 Deadline News report said Scottish UFO reports to the MoD rose in the year the hotline closed, with 28 reported in 2009 compared with 10 in 2008 and nine the year before. The same article quoted the MoD’s position that, after more than 50 years, no UFO report had revealed evidence of a potential threat to the UK, and that continuing the work diverted defence resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2010/02/14/ufo-sightings-increase-after-mod-shutdown-alien-hotline-2630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">Deadline News UFO sightings rocket after Mo D shutdown alien hotline</span><span class="citation-popover-snippet">Deadline News UFO sightings rocket after Mo D shutdown alien hotline</span></span></span>
+The MoD’s closure decision also shaped Scottish UFO culture. A 2010 Deadline News report said Scottish UFO reports to the MoD rose in the year the hotline closed, with 28 reported in 2009 compared with 10 in 2008 and nine the year before. The same article quoted the MoD’s position that, after more than 50 years, no UFO report had revealed evidence of a potential threat to the UK, and that continuing the work diverted defence resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deadlinenews.co.uk/2010/02/14/ufo-sightings-increase-after-mod-shutdown-alien-hotline-2630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadlinenews.co.uk">[Deadline News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadlinenews.co.uk</span><span class="citation-popover-title">Deadline News UFO sightings rocket after Mo D shutdown alien hotline</span><span class="citation-popover-snippet">Deadline News UFO sightings rocket after Mo D shutdown alien hotline</span></span></span>
 
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348-Illustration-2-dark.svg" | relative_url }}" alt="What Did Aberdeenshire Really See? illustration 2" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -760,11 +760,11 @@ The MoD’s closure decision also shaped Scottish UFO culture. A 2010 Deadline N
 
 Aberdeenshire’s UFO record is best sorted into three broad categories.
 
-**Better documented but still unresolved:** the MoD table entries from Aberdeen, Ballater, Ladysbridge, Bridge of Don and Portlethen are useful because they have dates, places and official publication. They remain unresolved only in a limited sense: the public tables do not show enough investigation to decide the cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+4GOV.UK+4GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
+**Better documented but still unresolved:** the MoD table entries from Aberdeen, Ballater, Ladysbridge, Bridge of Don and Portlethen are useful because they have dates, places and official publication. They remain unresolved only in a limited sense: the public tables do not show enough investigation to decide the cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 1997</span><span class="citation-popover-snippet">ufo report 1997</span></span></span>
 
-**Locally important but weakly sourced:** Muchalls is memorable because it has repeated storytelling, named investigators and a claimed history stretching back decades. It is important to the county’s UFO folklore, but the accessible evidence is mostly secondary and retrospective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podfollow.com">[podfollow+2Podcast UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podfollow.com</span><span class="citation-popover-title">UFOs Over Muchalls Scotland</span><span class="citation-popover-snippet">UFOs Over Muchalls Scotland</span></span></span>
+**Locally important but weakly sourced:** Muchalls is memorable because it has repeated storytelling, named investigators and a claimed history stretching back decades. It is important to the county’s UFO folklore, but the accessible evidence is mostly secondary and retrospective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podfollow.com">[podfollow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podfollow.com</span><span class="citation-popover-title">UFOs Over Muchalls Scotland</span><span class="citation-popover-snippet">UFOs Over Muchalls Scotland</span></span></span>
 
-**Likely explainable or too thin to use:** brief entries such as “strange lights in the sky” are worth recording but should not be inflated. Without duration, direction, elevation, weather, aircraft checks, independent witnesses or images, they are more useful as evidence of public reporting behaviour than as evidence of an anomalous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+**Likely explainable or too thin to use:** brief entries such as “strange lights in the sky” are worth recording but should not be inflated. Without duration, direction, elevation, weather, aircraft checks, independent witnesses or images, they are more useful as evidence of public reporting behaviour than as evidence of an anomalous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 A strong future Aberdeenshire case would need more than a striking witness description. It would need exact time and location, direction of travel, duration, angular size, weather conditions, comparison with aircraft and satellite data, independent witnesses from separated locations, original imagery if available, and ideally a check against airport, coastguard, police or radar-relevant records. Without that, even a sincere report remains a story about an unidentified light, not evidence of a confirmed extraordinary event.
 
@@ -782,194 +782,194 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Aberdeenshire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Aberdeenshire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the page&#x27;s emphasis on government logs, military activity, and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page&#x27;s emphasis on government logs, military activity, and unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a cautious framework for evaluating reports like those discussed in Aberdeenshire without assuming extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a cautious framework for evaluating reports like those discussed in Aberdeenshire without assuming extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly relevant to British sighting history and official records, closely matching the Scottish context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to British sighting history and official records, closely matching the Scottish context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Helps readers understand how sighting reports are documented, assessed, and left unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how sighting reports are documented, assessed, and left unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="what-did-aberdeenshire-really-see-aberdeenshire-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -985,7 +985,7 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1005,7 +1005,7 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1037,7 +1037,7 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1089,7 +1089,7 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1134,7 +1134,7 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1175,281 +1175,281 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Aberdeenshire (historic)  
-   Link: <a href="https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeenshire</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: brobible.com  
    Title: Bro Bible Two Of The Biggest UFO Hot Spots In The World Revealed  
-   Link: <a href="https://brobible.com/culture/article/biggest-ufo-hot-spots-in-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/biggest-ufo-hot-spots-in-the-world/</a>  
+   Link:<a href="https://brobible.com/culture/article/biggest-ufo-hot-spots-in-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/biggest-ufo-hot-spots-in-the-world/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: podfollow.com  
    Title: UFOs Over Muchalls Scotland  
-   Link: <a href="https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view" target="_blank" rel="noopener noreferrer nofollow">https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view</a>  
+   Link:<a href="https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view" target="_blank" rel="noopener noreferrer nofollow">https://podfollow.com/mysterious-radio/episode/1a48f7f123c8ea17c8bfd877e6f97c17f748fba9/view</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muchalls</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Muchalls" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muchalls</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fcdoservices.gov.uk  
-   Link: <a href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow">https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/</a>  
+   Link:<a href="https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/" target="_blank" rel="noopener noreferrer nofollow">https://www.fcdoservices.gov.uk/programme-hydra-new-secure-radar-infrastructure-for-the-royal-air-force-raf/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c778bed915d6969f4512f/Appendix_B_DECC_SEA_Enviro_Report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aberdeenshire.gov.uk  
    Title: environmental report open space strategy feb 2010  
-   Link: <a href="https://www.aberdeenshire.gov.uk/media/12107/environmental-report-open-space-strategy-feb-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/12107/environmental-report-open-space-strategy-feb-2010.pdf</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/media/12107/environmental-report-open-space-strategy-feb-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/12107/environmental-report-open-space-strategy-feb-2010.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aberdeenshire.gov.uk  
    Title: sea scopingreportforaberdeencity shirestructureplan  
-   Link: <a href="https://www.aberdeenshire.gov.uk/media/6406/sea_scopingreportforaberdeencity_shirestructureplan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/6406/sea_scopingreportforaberdeencity_shirestructureplan.pdf</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/media/6406/sea_scopingreportforaberdeencity_shirestructureplan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/media/6406/sea_scopingreportforaberdeencity_shirestructureplan.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/aberdeen-city-historical-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/aberdeen-city-historical-maps/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/aberdeen-city-historical-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/aberdeen-city-historical-maps/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/leisure-sport-and-culture/archaeology/historical-maps/historical-maps-of-aberdeenshire/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aberdeenshire.gov.uk  
-   Link: <a href="https://www.aberdeenshire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/</a>  
+   Link:<a href="https://www.aberdeenshire.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenshire.gov.uk/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: her.aberdeenshire.gov.uk  
-   Link: <a href="https://her.aberdeenshire.gov.uk/Monument/MAB21599/" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB21599/</a>  
+   Link:<a href="https://her.aberdeenshire.gov.uk/Monument/MAB21599/" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB21599/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: her.aberdeenshire.gov.uk  
-   Link: <a href="https://her.aberdeenshire.gov.uk/Monument/MAB29189" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB29189</a>  
+   Link:<a href="https://her.aberdeenshire.gov.uk/Monument/MAB29189" target="_blank" rel="noopener noreferrer nofollow">https://her.aberdeenshire.gov.uk/Monument/MAB29189</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: RRH Buchan  
-   Link: <a href="https://en.wikipedia.org/wiki/RRH_Buchan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RRH_Buchan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RRH_Buchan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RRH_Buchan</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Aberdeen Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Aberdeen_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeen_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aberdeen_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aberdeen_Airport</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Muchalls Castle  
-   Link: <a href="https://en.wikipedia.org/wiki/Muchalls_Castle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muchalls_Castle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Muchalls_Castle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muchalls_Castle</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Royal Observatory, Greenwich  
-   Link: <a href="https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: podcast.show  
-   Link: <a href="https://podcast.show/podcast-ufo/episode/96053557/" target="_blank" rel="noopener noreferrer nofollow">https://podcast.show/podcast-ufo/episode/96053557/</a>  
+   Link:<a href="https://podcast.show/podcast-ufo/episode/96053557/" target="_blank" rel="noopener noreferrer nofollow">https://podcast.show/podcast-ufo/episode/96053557/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: aberdeenairport.com  
    Title: Aberdeen Airport History of Aberdeen Airport | Aberdeen Airport  
-   Link: <a href="https://www.aberdeenairport.com/about-us/facts-and-figures/airport-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/about-us/facts-and-figures/airport-history/</a>  
+   Link:<a href="https://www.aberdeenairport.com/about-us/facts-and-figures/airport-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/about-us/facts-and-figures/airport-history/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Aberdeenshire  
-   Link: <a href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aberdeenshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aberdeenshire</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: podcastufo.com  
    Title: Podcast UFOUFOs Over Muchalls, Scotland  
-   Link: <a href="https://podcastufo.com/ufos-over-muchalls-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/ufos-over-muchalls-scotland/</a>  
+   Link:<a href="https://podcastufo.com/ufos-over-muchalls-scotland/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/ufos-over-muchalls-scotland/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ras.ac.uk  
    Title: ras statement starlink satellite constellation  
-   Link: <a href="https://ras.ac.uk/news-and-press/news/ras-statement-starlink-satellite-constellation" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/news-and-press/news/ras-statement-starlink-satellite-constellation</a>  
+   Link:<a href="https://ras.ac.uk/news-and-press/news/ras-statement-starlink-satellite-constellation" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/news-and-press/news/ras-statement-starlink-satellite-constellation</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: deadlinenews.co.uk  
    Title: Deadline News UFO sightings rocket after Mo D shutdown alien hotline  
-   Link: <a href="https://www.deadlinenews.co.uk/2010/02/14/ufo-sightings-increase-after-mod-shutdown-alien-hotline-2630/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/2010/02/14/ufo-sightings-increase-after-mod-shutdown-alien-hotline-2630/</a>  
+   Link:<a href="https://www.deadlinenews.co.uk/2010/02/14/ufo-sightings-increase-after-mod-shutdown-alien-hotline-2630/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/2010/02/14/ufo-sightings-increase-after-mod-shutdown-alien-hotline-2630/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/making-every-flight-safe-points-10-to-20/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: aberdeenairport.com  
-   Link: <a href="https://www.aberdeenairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/</a>  
+   Link:<a href="https://www.aberdeenairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeenairport.com/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: pressandjournal.co.uk  
    Title: aberdeen airport 90 years  
-   Link: <a href="https://www.pressandjournal.co.uk/fp/past-times/6536437/aberdeen-airport-90-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressandjournal.co.uk/fp/past-times/6536437/aberdeen-airport-90-years/</a>  
+   Link:<a href="https://www.pressandjournal.co.uk/fp/past-times/6536437/aberdeen-airport-90-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressandjournal.co.uk/fp/past-times/6536437/aberdeen-airport-90-years/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/places-to-go/aberdeen-city-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/places-to-go/aberdeen-city-shire</a>  
+   Link:<a href="https://www.visitscotland.com/places-to-go/aberdeen-city-shire" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/places-to-go/aberdeen-city-shire</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Aberdeenshire</a>  
+   Link:<a href="https://www.britannica.com/place/Aberdeenshire" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Aberdeenshire</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aberdeen-airport-guide.co.uk  
-   Link: <a href="https://www.aberdeen-airport-guide.co.uk/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeen-airport-guide.co.uk/history.html</a>  
+   Link:<a href="https://www.aberdeen-airport-guide.co.uk/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aberdeen-airport-guide.co.uk/history.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: deadlinenews.co.uk  
    Title: Strange Paranormal Investigations Archives  
-   Link: <a href="https://www.deadlinenews.co.uk/tag/strange-paranormal-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/tag/strange-paranormal-investigations/</a>  
+   Link:<a href="https://www.deadlinenews.co.uk/tag/strange-paranormal-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.deadlinenews.co.uk/tag/strange-paranormal-investigations/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: airparks.co.uk  
    Title: Aberdeen Airport History  
-   Link: <a href="https://www.airparks.co.uk/aberdeen-airport/aberdeen-airport-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.airparks.co.uk/aberdeen-airport/aberdeen-airport-history.html</a>  
+   Link:<a href="https://www.airparks.co.uk/aberdeen-airport/aberdeen-airport-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.airparks.co.uk/aberdeen-airport/aberdeen-airport-history.html</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: trove.scot  
-   Link: <a href="https://www.trove.scot/place/317334" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/317334</a>  
+   Link:<a href="https://www.trove.scot/place/317334" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/317334</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Episode 326 – Alien Hunting in Bonnybridge: Scotland's UFO Capital  
-   Link: <a href="https://www.youtube.com/watch?v=Jpg9L-RLVsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jpg9L-RLVsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jpg9L-RLVsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jpg9L-RLVsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Town with the Most UFO Sightings in the World...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: Mysteries Unearthed as the Mo D Releases UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sh-d3Bghbf4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 326 – Alien Hunting in Bonnybridge: Scotland&#x27;s UFO Capital...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sh-d3Bghbf4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 326 – Alien Hunting in Bonnybridge: Scotland&#x27;s UFO Capital...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
+   Link:<a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: [boundaries](&#123;&#123; 'boundaries-2ce3e2/' | relative_url &#125;&#125;). scot  
-   Link: <a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Blackburn-Report_1758892797.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Blackburn-Report_1758892797.pdf</a>  
+   Link:<a href="https://www.boundaries.scot/wp-content/uploads/2025/09/Blackburn-Report_1758892797.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boundaries.scot/wp-content/uploads/2025/09/Blackburn-Report_1758892797.pdf</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: opendata.scot  
-   Link: <a href="https://opendata.scot/organizations/aberdeen_city_council/" target="_blank" rel="noopener noreferrer nofollow">https://opendata.scot/organizations/aberdeen_city_council/</a>  
+   Link:<a href="https://opendata.scot/organizations/aberdeen_city_council/" target="_blank" rel="noopener noreferrer nofollow">https://opendata.scot/organizations/aberdeen_city_council/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/acatalog/Aberdeenshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/acatalog/Aberdeenshire.html</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/acatalog/Aberdeenshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/acatalog/Aberdeenshire.html</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/northsound1/videos/northsound-news-ufo-sighting-in-fraserburgh/456479067723730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northsound1/videos/northsound-news-ufo-sighting-in-fraserburgh/456479067723730/</a>  
+   Link:<a href="https://www.facebook.com/northsound1/videos/northsound-news-ufo-sighting-in-fraserburgh/456479067723730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northsound1/videos/northsound-news-ufo-sighting-in-fraserburgh/456479067723730/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: subbrit.org.uk  
-   Link: <a href="https://www.subbrit.org.uk/sites/buchan-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/buchan-rotor-radar-station/</a>  
+   Link:<a href="https://www.subbrit.org.uk/sites/buchan-rotor-radar-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.subbrit.org.uk/sites/buchan-rotor-radar-station/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  

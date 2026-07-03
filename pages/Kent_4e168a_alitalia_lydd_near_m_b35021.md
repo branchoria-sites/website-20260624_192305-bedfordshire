@@ -248,17 +248,17 @@ image: /assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-overview-social.jp
 
 ## Introduction
 
-The Alitalia near-miss over Lydd is one of Kent’s strongest modern UFO cases because it was not just a vague light in the sky. On 21 April 1991, Captain Achille Zaghetti and his co-pilot, flying an Alitalia McDonnell Douglas MD-80 from Milan to Heathrow, reported a small brown or khaki, missile-shaped object passing close to the aircraft at about 22,000 feet near Lydd in Kent. The case matters because it involved trained aircrew, an immediate air traffic control query, Civil Aviation Authority and military follow-up, and later release through Ministry of Defence UFO files. Investigators reportedly ruled out several ordinary high-risk explanations, including a missile, weather balloon and space rocket, but did not identify the object. That leaves the case unresolved, not proven extraordinary: strong as a safety incident and documentary puzzle, weaker as evidence for any specific exotic origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
+The Alitalia near-miss over Lydd is one of Kent’s strongest modern UFO cases because it was not just a vague light in the sky. On 21 April 1991, Captain Achille Zaghetti and his co-pilot, flying an Alitalia McDonnell Douglas MD-80 from Milan to Heathrow, reported a small brown or khaki, missile-shaped object passing close to the aircraft at about 22,000 feet near Lydd in Kent. The case matters because it involved trained aircrew, an immediate air traffic control query, Civil Aviation Authority and military follow-up, and later release through Ministry of Defence UFO files. Investigators reportedly ruled out several ordinary high-risk explanations, including a missile, weather balloon and space rocket, but did not identify the object. That leaves the case unresolved, not proven extraordinary: strong as a safety incident and documentary puzzle, weaker as evidence for any specific exotic origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[irishexaminer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-overview.webp" | relative_url }}" alt="Overview image for Alitalia" loading="eager" decoding="sync" fetchpriority="high">
-For Kent’s UFO history, the location is not incidental. Lydd sits on Romney Marsh near Dungeness, close to the Channel, military ranges, civil aviation routes and approaches serving the wider London air traffic system. It is exactly the kind of place where unusual aerial reports can be both more credible and harder to interpret, because aircraft, radar returns, military activity, coastal weather and training areas all overlap. Lydd itself is in historic Kent, and nearby Lydd Ranges have long been a military firing area, used for live firing and training on the south Kent coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lydd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For Kent’s UFO history, the location is not incidental. Lydd sits on Romney Marsh near Dungeness, close to the Channel, military ranges, civil aviation routes and approaches serving the wider London air traffic system. It is exactly the kind of place where unusual aerial reports can be both more credible and harder to interpret, because aircraft, radar returns, military activity, coastal weather and training areas all overlap. Lydd itself is in historic Kent, and nearby Lydd Ranges have long been a military firing area, used for live firing and training on the south Kent coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lydd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
 ## What the Alitalia crew reported
 
-The incident took place during the evening of 21 April 1991 as Alitalia flight AZ 284 was inbound to Heathrow from Milan. The aircraft is widely described in contemporary reporting of the released files as an Alitalia MD-80 carrying 57 people. Zaghetti was at about 22,000 feet when he saw a brown, missile-like object pass close enough to cause alarm. The commonly repeated description is of a roughly three-metre or ten-foot object, khaki or brown in colour, moving quickly past the aircraft near Lydd. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner+2Bangalore Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
+The incident took place during the evening of 21 April 1991 as Alitalia flight AZ 284 was inbound to Heathrow from Milan. The aircraft is widely described in contemporary reporting of the released files as an Alitalia MD-80 carrying 57 people. Zaghetti was at about 22,000 feet when he saw a brown, missile-like object pass close enough to cause alarm. The commonly repeated description is of a roughly three-metre or ten-foot object, khaki or brown in colour, moving quickly past the aircraft near Lydd.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[irishexaminer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
 
-The most striking part of the witness evidence is not the shape alone, but the reaction in the cockpit. Press reports based on the released MoD files say Zaghetti shouted “look out” to his co-pilot, who also saw the object. That makes the report stronger than a single-witness glimpse, though still dependent on human perception during a brief, high-speed encounter. The aircraft did not collide with the object, and there is no public evidence of physical damage, recovered debris, a photograph or a continuous track that would settle what it was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
+The most striking part of the witness evidence is not the shape alone, but the reaction in the cockpit. Press reports based on the released MoD files say Zaghetti shouted “look out” to his co-pilot, who also saw the object. That makes the report stronger than a single-witness glimpse, though still dependent on human perception during a brief, high-speed encounter. The aircraft did not collide with the object, and there is no public evidence of physical damage, recovered debris, a photograph or a continuous track that would settle what it was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
 
 The “missile-shaped” wording is important but easy to overread. Pilots often describe unfamiliar close objects by resemblance: missile, cigar, projectile, balloon, lozenge or drone-like object. A shape description is not an identification. In this case, the reported appearance raised obvious safety questions because a missile-like object near a passenger jet would imply either a weapons hazard, a training-range error, or a serious airspace intrusion. It does not by itself show that the object was a weapon, a craft, or something beyond known technology.
 
@@ -266,9 +266,9 @@ The “missile-shaped” wording is important but easy to overread. Pilots often
 <img src="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-Illustration-1-dark.svg" | relative_url }}" alt="Alitalia illustration 1" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Lydd made the sighting harder to dismiss
 
-Lydd gives the report a sharper local context than many UFO cases. The town lies on Romney Marsh in south Kent, near Dungeness and the English Channel. It is a coastal aviation landscape rather than an isolated rural backdrop. Civil traffic moving towards Heathrow, cross-Channel routes, military ranges and coastal radar coverage all make the area a plausible setting for unusual but non-exotic aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lydd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Lydd gives the report a sharper local context than many UFO cases. The town lies on Romney Marsh in south Kent, near Dungeness and the English Channel. It is a coastal aviation landscape rather than an isolated rural backdrop. Civil traffic moving towards Heathrow, cross-Channel routes, military ranges and coastal radar coverage all make the area a plausible setting for unusual but non-exotic aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Lydd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The nearby Lydd Ranges also mattered to investigators because a missile-like object in that part of Kent naturally raises the question of military firing or training. The official Lydd Ranges byelaws identify the ranges as a Kent military area historically used for anti-tank guns, anti-tank rifles and anti-aircraft weapons, while current official firing-time notices still identify Lydd Range at Lydd, Kent, and warn the public not to touch military debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5c828c19ed915d07cdc0170a/Lydd_Ranges_1939.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Lydd Ranges 1939</span><span class="citation-popover-snippet">Lydd Ranges 1939</span></span></span>
+The nearby Lydd Ranges also mattered to investigators because a missile-like object in that part of Kent naturally raises the question of military firing or training. The official Lydd Ranges byelaws identify the ranges as a Kent military area historically used for anti-tank guns, anti-tank rifles and anti-aircraft weapons, while current official firing-time notices still identify Lydd Range at Lydd, Kent, and warn the public not to touch military debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5c828c19ed915d07cdc0170a/Lydd_Ranges_1939.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Lydd Ranges 1939</span><span class="citation-popover-snippet">Lydd Ranges 1939</span></span></span>
 
 That setting cuts both ways. It makes the report more serious because there were obvious aviation-safety implications. But it also expands the list of mundane possibilities that had to be checked before anyone reached for a UFO explanation: military activity, range debris, aircraft, balloons, rockets, radar artefacts, meteorological effects or a small object whose distance and speed were misjudged. The case’s value is that some of those checks were reportedly made and still did not produce a firm answer.
 
@@ -277,25 +277,25 @@ That setting cuts both ways. It makes the report more serious because there were
 
 ## Radar, CAA and MoD follow-up
 
-The strongest reason this case remains prominent is the reported follow-up. The Civil Aviation Authority and military authorities investigated the incident, and press accounts of the released files state that they could not explain it. The Independent reported that the incident near Lydd was investigated by the CAA and the military, and that the Ministry of Defence closed the inquiry after determining the object was not a missile, weather balloon or space rocket. The Irish Examiner gave the same core account, adding that the matter was left unsolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
+The strongest reason this case remains prominent is the reported follow-up. The Civil Aviation Authority and military authorities investigated the incident, and press accounts of the released files state that they could not explain it. The Independent reported that the incident near Lydd was investigated by the CAA and the military, and that the Ministry of Defence closed the inquiry after determining the object was not a missile, weather balloon or space rocket. The Irish Examiner gave the same core account, adding that the matter was left unsolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">passenger jet s nearmiss with ufo above kent 966925</span><span class="citation-popover-snippet">passenger jet s nearmiss with ufo above kent 966925</span></span></span>
 
-The radar element is often cited as the point that lifts the case above ordinary witness testimony. Zaghetti is reported to have asked air traffic control whether anything appeared on screen after the object passed; one account quotes the reply as an unknown target about ten nautical miles behind the aircraft. Another archived summary says London air traffic control monitored the object on radar. The released-file snippets also refer to “CAA papers on the 21 April 1991 UFO ‘nearmiss’ with Alitalia jet” and a “CAA report of air incident near Lydd”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bangaloremirror.indiatimes.com/mad-mad-world/uks-secret-ufo-files-now-online/articleshow/22378693.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangaloremirror.indiatimes.com">[Bangalore Mirror+2Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangaloremirror.indiatimes.com</span><span class="citation-popover-snippet">Open source on indiatimes.com.</span></span></span>
+The radar element is often cited as the point that lifts the case above ordinary witness testimony. Zaghetti is reported to have asked air traffic control whether anything appeared on screen after the object passed; one account quotes the reply as an unknown target about ten nautical miles behind the aircraft. Another archived summary says London air traffic control monitored the object on radar. The released-file snippets also refer to “CAA papers on the 21 April 1991 UFO ‘nearmiss’ with Alitalia jet” and a “CAA report of air incident near Lydd”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bangaloremirror.indiatimes.com/mad-mad-world/uks-secret-ufo-files-now-online/articleshow/22378693.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangaloremirror.indiatimes.com">[indiatimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangaloremirror.indiatimes.com</span><span class="citation-popover-snippet">Open source on indiatimes.com.</span></span></span>
 
 That said, radar evidence needs careful handling. A radar return is not the same thing as a photograph of the object seen by the pilots. The key questions are whether the radar contact was at the same height, direction, speed and time as the visual object, and whether it was continuous or fleeting. Public summaries do not provide enough detail to prove that the radar return and the cockpit sighting were the same object. The radar report strengthens the case as an air-safety puzzle, but it does not remove all ambiguity.
 
-The CAA context also matters because “near-miss” is a popular term, while UK aviation safety normally uses “Airprox” for aircraft proximity events. The UK Airprox Board explains that an Airprox is a situation where, in the opinion of a pilot or air traffic services personnel, the distance, relative positions and speed of aircraft may have compromised safety; it also notes that “near miss” is common speech but not the formal Airprox concept. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+The CAA context also matters because “near-miss” is a popular term, while UK aviation safety normally uses “Airprox” for aircraft proximity events. The UK Airprox Board explains that an Airprox is a situation where, in the opinion of a pilot or air traffic services personnel, the distance, relative positions and speed of aircraft may have compromised safety; it also notes that “near miss” is common speech but not the formal Airprox concept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
-The Alitalia case sits awkwardly at the edge of that framework because the other object was not identified as an aircraft. Modern UK Airprox guidance says an object vaguely described only as “an object” may be classified as an unknown object, while more specific drone-like descriptions may be treated differently. That distinction helps a modern reader understand why the Alitalia report remains unresolved: safety investigators could treat it as a serious proximity report without being able to classify the intruding object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
+The Alitalia case sits awkwardly at the edge of that framework because the other object was not identified as an aircraft. Modern UK Airprox guidance says an object vaguely described only as “an object” may be classified as an unknown object, while more specific drone-like descriptions may be treated differently. That distinction helps a modern reader understand why the Alitalia report remains unresolved: safety investigators could treat it as a serious proximity report without being able to classify the intruding object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airproxboard.org.uk">[Airprox Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airproxboard.org.uk</span><span class="citation-popover-snippet">Open source on airproxboard.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-Illustration-2-dark.svg" | relative_url }}" alt="Alitalia illustration 2" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_alitalia_lydd_near_m_b35021-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators appear to have ruled out
 
-The public reporting of the released MoD files consistently says investigators ruled out three especially important explanations: a missile, a weather balloon and a space rocket. That matters because each would fit part of the witness description. A missile could match the shape and apparent danger; a balloon could produce an unexpected object at altitude; a rocket or re-entry-related object could explain a fast, unusual sighting. The fact that these were considered and not accepted is why the case has survived in serious UFO discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
+The public reporting of the released MoD files consistently says investigators ruled out three especially important explanations: a missile, a weather balloon and a space rocket. That matters because each would fit part of the witness description. A missile could match the shape and apparent danger; a balloon could produce an unexpected object at altitude; a rocket or re-entry-related object could explain a fast, unusual sighting. The fact that these were considered and not accepted is why the case has survived in serious UFO discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
 
 But “ruled out” in a historical file does not mean every possible mundane explanation was eliminated. It means the investigators did not find evidence supporting those particular explanations strongly enough to close the case. Other possibilities remain inherently difficult to test decades later: an untraced aircraft, a small balloon or target device, a radar anomaly unrelated to the sighting, a model or test object, a misjudged object at a different distance, or an unusual but ordinary aerial object seen only for seconds.
 
-The Ministry of Defence’s wider approach to UFO reports was generally defence-led rather than mystery-led. The National Archives explains that MoD UFO files contain many reports of shapes, lights and flashes, often with possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, while some reports were more unusual. That institutional frame matters here: the question was not “Was this extraterrestrial?” but “Was there a defence or aviation-safety issue that needed action?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The Ministry of Defence’s wider approach to UFO reports was generally defence-led rather than mystery-led. The National Archives explains that MoD UFO files contain many reports of shapes, lights and flashes, often with possible explanations such as Venus, high-altitude aircraft, weather balloons and satellites, while some reports were more unusual. That institutional frame matters here: the question was not “Was this extraterrestrial?” but “Was there a defence or aviation-safety issue that needed action?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 The later closure of the MoD’s UFO desk also colours how the case is read. It does not solve the Lydd incident, but it shows the department’s broad position: UFO reporting was assessed for defence significance, not maintained as an open-ended scientific investigation into unknown objects. The Alitalia case therefore remained an unresolved report in the files rather than the start of a public technical investigation.
 
@@ -308,7 +308,7 @@ The Alitalia near-miss remains unresolved because its strongest pieces of eviden
 
 The most balanced reading is that the case is a credible unexplained air-safety incident, not proof of an alien craft. The word “UFO” is accurate in its plain sense: an unidentified flying object was reported. It does not automatically carry the stronger meaning often added in popular culture. Indeed, the value of the Lydd case is that it shows how a careful UFO history should work: start with the witnesses and records, test ordinary explanations, identify what is genuinely unexplained, and stop short of claims the evidence cannot support.
 
-Later reporting strengthened the case’s public profile more than its evidential detail. The 2008 release of MoD files brought the incident back into national and international coverage, with newspapers highlighting the Alitalia report as one of the more intriguing cases in the 1986–1992 files. ABC’s coverage of the release noted that while many items in the files were debunked or unverifiable, Zaghetti’s near-miss remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc13.com/archive/6458851/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">Open source on abc13.com.</span></span></span>
+Later reporting strengthened the case’s public profile more than its evidential detail. The 2008 release of MoD files brought the incident back into national and international coverage, with newspapers highlighting the Alitalia report as one of the more intriguing cases in the 1986–1992 files. ABC’s coverage of the release noted that while many items in the files were debunked or unverifiable, Zaghetti’s near-miss remained unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc13.com/archive/6458851/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[abc13.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">Open source on abc13.com.</span></span></span>
 
 That publicity also introduced a risk of simplification. Headlines about a “near miss with a UFO” can make the case sound more conclusive than it is. The better formulation is narrower but stronger: a passenger-airliner crew reported a close pass by a small missile-shaped object over Kent; official checks did not identify it as a missile, weather balloon or space rocket; a radar-related element was reported; and the case remained unsolved in the released files.
 
@@ -327,201 +327,201 @@ For a Kent UFO map or county case index, the Alitalia near-miss deserves promine
 
 ## What the Lydd case can and cannot prove
 
-The Alitalia near-miss can support three cautious conclusions. First, something unusual enough to alarm an experienced airline captain was reported near Lydd on 21 April 1991. Second, the report was treated seriously enough to involve aviation and defence follow-up. Third, the available public record does not identify the object. Those conclusions are significant for Kent’s UFO history because they rest on more than local rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[Irish Examiner+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
+The Alitalia near-miss can support three cautious conclusions. First, something unusual enough to alarm an experienced airline captain was reported near Lydd on 21 April 1991. Second, the report was treated seriously enough to involve aviation and defence follow-up. Third, the available public record does not identify the object. Those conclusions are significant for Kent’s UFO history because they rest on more than local rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishexaminer.com">[irishexaminer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishexaminer.com</span><span class="citation-popover-title">arid 30382660</span><span class="citation-popover-snippet">arid 30382660</span></span></span>
 
 It cannot prove the object was a spacecraft, secret weapon, drone, missile, balloon or aircraft. Each of those labels would require more evidence than the public record provides. Nor can the case prove that Kent was the site of a wider hidden event. The incident is best understood as a narrow but important air-safety mystery: a short encounter over south Kent that investigators could not close with the ordinary explanations they checked.
 
 That restraint is not a weakness. It is what makes the case useful. Many UFO stories become less interesting when stripped of exaggeration; the Alitalia near-miss remains interesting after the trimming. A named captain, a commercial flight, a precise date, a Kent location, an official paper trail and an unresolved outcome are enough to make it one of the county’s most durable UFO cases without turning it into something the evidence does not show.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Airliner Near Miss That Put Lydd on UFO Maps. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Airliner Near Miss That Put Lydd on UFO Maps. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating unexplained aerial reports using a structured investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating unexplained aerial reports using a structured investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines officially investigated UFO incidents and unresolved cases similar to aviation encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines officially investigated UFO incidents and unresolved cases similar to aviation encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the aviation-witness and documentary-investigation angle of the Alitalia near-miss case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the aviation-witness and documentary-investigation angle of the Alitalia near-miss case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores evidence, witness reports, and competing explanations for unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidence, witness reports, and competing explanations for unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alitalia-the-airliner-near-miss-that-put-lydd-on-ufo-maps-kent-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That restraint is not a weakness. It is what makes the case useful. Many UFO sto
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That restraint is not a weakness. It is what makes the case useful. Many UFO sto
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That restraint is not a weakness. It is what makes the case useful. Many UFO sto
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That restraint is not a weakness. It is what makes the case useful. Many UFO sto
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That restraint is not a weakness. It is what makes the case useful. Many UFO sto
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,195 +727,195 @@ That restraint is not a weakness. It is what makes the case useful. Many UFO sto
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Lydd Ranges 1939  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5c828c19ed915d07cdc0170a/Lydd_Ranges_1939.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c828c19ed915d07cdc0170a/Lydd_Ranges_1939.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5c828c19ed915d07cdc0170a/Lydd_Ranges_1939.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c828c19ed915d07cdc0170a/Lydd_Ranges_1939.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: lydd range firing times may 2026  
-   Link: <a href="https://www.gov.uk/government/publications/south-east-training-estate-firing-times/lydd-range-firing-times-may-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/south-east-training-estate-firing-times/lydd-range-firing-times-may-2026</a>  
+   Link:<a href="https://www.gov.uk/government/publications/south-east-training-estate-firing-times/lydd-range-firing-times-may-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/south-east-training-estate-firing-times/lydd-range-firing-times-may-2026</a>  
    Published: may 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Lydd" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lydd</a>  
+   Link:<a href="https://www.britannica.com/place/Lydd" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lydd</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: caa.co.uk  
    Title: airprox investigation and the occurrence reporting regulations  
-   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/</a>  
+   Link:<a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/airprox-investigation-and-the-occurrence-reporting-regulations/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc13.com  
-   Link: <a href="https://abc13.com/archive/6458851/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/6458851/</a>  
+   Link:<a href="https://abc13.com/archive/6458851/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/6458851/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lyddtowncouncil.gov.uk  
    Title: Lydd and Hythe Ranges Firing Times 38333.aspx  
-   Link: <a href="https://www.lyddtowncouncil.gov.uk/Lydd_and_Hythe_Ranges_Firing_Times_38333.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.lyddtowncouncil.gov.uk/Lydd_and_Hythe_Ranges_Firing_Times_38333.aspx</a>  
+   Link:<a href="https://www.lyddtowncouncil.gov.uk/Lydd_and_Hythe_Ranges_Firing_Times_38333.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.lyddtowncouncil.gov.uk/Lydd_and_Hythe_Ranges_Firing_Times_38333.aspx</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: defence.pk  
-   Link: <a href="https://defence.pk/threads/ufo-mystery-myth-fairy-tale-or-a-reality.15500/post-211371" target="_blank" rel="noopener noreferrer nofollow">https://defence.pk/threads/ufo-mystery-myth-fairy-tale-or-a-reality.15500/post-211371</a>  
+   Link:<a href="https://defence.pk/threads/ufo-mystery-myth-fairy-tale-or-a-reality.15500/post-211371" target="_blank" rel="noopener noreferrer nofollow">https://defence.pk/threads/ufo-mystery-myth-fairy-tale-or-a-reality.15500/post-211371</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6936e3cfa6fc97b81e574384/avi0402.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6936e3cfa6fc97b81e574384/avi0402.ods</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6936e3cfa6fc97b81e574384/avi0402.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6936e3cfa6fc97b81e574384/avi0402.ods</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/682f28c8b33f68eaba9539ae/List_of_premises_regulated_by_CPFSI_May_2025.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/682f28c8b33f68eaba9539ae/List_of_premises_regulated_by_CPFSI_May_2025.ods</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/682f28c8b33f68eaba9539ae/List_of_premises_regulated_by_CPFSI_May_2025.ods" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/682f28c8b33f68eaba9539ae/List_of_premises_regulated_by_CPFSI_May_2025.ods</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: irishexaminer.com  
    Title: arid 30382660  
-   Link: <a href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/world/arid-30382660.html</a>  
+   Link:<a href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/world/arid-30382660.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: independent.co.uk  
    Title: passenger jet s nearmiss with ufo above kent 966925  
-   Link: <a href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Lydd" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lydd</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Lydd" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Lydd</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bangaloremirror.indiatimes.com  
-   Link: <a href="https://bangaloremirror.indiatimes.com/mad-mad-world/uks-secret-ufo-files-now-online/articleshow/22378693.cms" target="_blank" rel="noopener noreferrer nofollow">https://bangaloremirror.indiatimes.com/mad-mad-world/uks-secret-ufo-files-now-online/articleshow/22378693.cms</a>  
+   Link:<a href="https://bangaloremirror.indiatimes.com/mad-mad-world/uks-secret-ufo-files-now-online/articleshow/22378693.cms" target="_blank" rel="noopener noreferrer nofollow">https://bangaloremirror.indiatimes.com/mad-mad-world/uks-secret-ufo-files-now-online/articleshow/22378693.cms</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufologie.patrickgross.org  
    Title: Ufologie UFOs at close sight: air misses, UK ufologist expresses  
-   Link: <a href="https://ufologie.patrickgross.org/htm/airmissopinion01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/airmissopinion01.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/airmissopinion01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/airmissopinion01.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/Learn-more/Frequently-asked-questions/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/the-airprox-process/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/learn-more/the-airprox-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/the-airprox-process/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/media/qszdwiye/ukab-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/qszdwiye/ukab-factsheet.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/qszdwiye/ukab-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/qszdwiye/ukab-factsheet.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/w0rfsdx5/bluebook4.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/</a>  
+   Link:<a href="https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/learn-more/contributory-factors-and-risk-ratings/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airproxboard.org.uk  
-   Link: <a href="https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/0h0lyxep/bluebook34.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: airproxboard.org.uk  
    Title: december 2025  
-   Link: <a href="https://www.airproxboard.org.uk/media/bpoerbg0/december-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/bpoerbg0/december-2025.pdf</a>  
+   Link:<a href="https://www.airproxboard.org.uk/media/bpoerbg0/december-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airproxboard.org.uk/media/bpoerbg0/december-2025.pdf</a>  
    Published: december 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kent</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Lydd Ranges  
-   Link: <a href="https://en.wikipedia.org/wiki/Lydd_Ranges" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lydd_Ranges</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lydd_Ranges" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lydd_Ranges</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kent</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Kent" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Kent</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: revelstoke.org.uk  
-   Link: <a href="https://revelstoke.org.uk/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://revelstoke.org.uk/UFO.html</a>  
+   Link:<a href="https://revelstoke.org.uk/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://revelstoke.org.uk/UFO.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/eng/KEN/Lydd" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/KEN/Lydd</a>  
+   Link:<a href="https://www.genuki.org.uk/big/eng/KEN/Lydd" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/KEN/Lydd</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archive.org  
    Title: Sep 05 1979, Financial Times, #27959, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/FinancialTimes1979UKEnglish/Sep%2005%201979%2C%20Financial%20Times%2C%20%2327959%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FinancialTimes1979UKEnglish/Sep%2005%201979%2C%20Financial%20Times%2C%20%2327959%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/FinancialTimes1979UKEnglish/Sep%2005%201979%2C%20Financial%20Times%2C%20%2327959%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FinancialTimes1979UKEnglish/Sep%2005%201979%2C%20Financial%20Times%2C%20%2327959%2C%20UK%20%28en%29_djvu.txt</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: britainexpress.com  
-   Link: <a href="https://www.britainexpress.com/counties/kent/az/lydd.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.britainexpress.com/counties/kent/az/lydd.htm</a>  
+   Link:<a href="https://www.britainexpress.com/counties/kent/az/lydd.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.britainexpress.com/counties/kent/az/lydd.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thehiker.co.uk  
    Title: Lydd Ranges  
-   Link: <a href="https://thehiker.co.uk/offbeat/lydd-ranges/" target="_blank" rel="noopener noreferrer nofollow">https://thehiker.co.uk/offbeat/lydd-ranges/</a>  
+   Link:<a href="https://thehiker.co.uk/offbeat/lydd-ranges/" target="_blank" rel="noopener noreferrer nofollow">https://thehiker.co.uk/offbeat/lydd-ranges/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Calvine UFO, FOIA & UK UFOs | UAP Files Podcast S3E1 | Dr. David Clarke  
-   Link: <a href="https://www.youtube.com/watch?v=EV9fpCebc2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EV9fpCebc2A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Alitalia&quot; &quot;UFO&quot; 1991 Il Corso Comando Alitalia - UFO nei cieli di Saronno - Alitalia Team - Cpt. Santo Cucè clip 6 di 6 RONIN FILM PRODU...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EV9fpCebc2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EV9fpCebc2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Alitalia&quot; &quot;UFO&quot; 1991 Il Corso Comando Alitalia - UFO nei cieli di Saronno - Alitalia Team - Cpt. Santo Cucè clip 6 di 6 RONIN FILM PRODU...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Near-Miss UFO Encounters Over Britain [Eerie's Vault Episode #95]  
-   Link: <a href="https://www.youtube.com/watch?v=7jqS95-GXT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7jqS95-GXT4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7jqS95-GXT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7jqS95-GXT4</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: New UFO Files From UK Government  
-   Link: <a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGxftZwdWsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO, FOIA &amp; UK UFOs | UAP Files Podcast S3E1 | Dr. David Clarke...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGxftZwdWsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO, FOIA &amp; UK UFOs | UAP Files Podcast S3E1 | Dr. David Clarke...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/livecoventry/posts/a-man-says-this-video-he-took-near-gatwick-airport-shows-ufos-swooping-near-comm/711588027681268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livecoventry/posts/a-man-says-this-video-he-took-near-gatwick-airport-shows-ufos-swooping-near-comm/711588027681268/</a>  
+   Link:<a href="https://www.facebook.com/livecoventry/posts/a-man-says-this-video-he-took-near-gatwick-airport-shows-ufos-swooping-near-comm/711588027681268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livecoventry/posts/a-man-says-this-video-he-took-near-gatwick-airport-shows-ufos-swooping-near-comm/711588027681268/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: railwaymoviedatabase.com  
-   Link: <a href="https://railwaymoviedatabase.com/a-z-list/" target="_blank" rel="noopener noreferrer nofollow">https://railwaymoviedatabase.com/a-z-list/</a>  
+   Link:<a href="https://railwaymoviedatabase.com/a-z-list/" target="_blank" rel="noopener noreferrer nofollow">https://railwaymoviedatabase.com/a-z-list/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/airprox" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/airprox</a>  
+   Link:<a href="https://skybrary.aero/articles/airprox" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/airprox</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/kent/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kent/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/kent/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/kent/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
+   Link:<a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
+   Link:<a href="https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishPowerboatRacingClub/posts/british-pathe-release-early-footage-of-a-ufo-seen-off-cowes-torquay-and-again-at/10157080527446961/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: romneymarshhistory.co.uk  
-   Link: <a href="https://romneymarshhistory.co.uk/lyddmilitary" target="_blank" rel="noopener noreferrer nofollow">https://romneymarshhistory.co.uk/lyddmilitary</a>  
+   Link:<a href="https://romneymarshhistory.co.uk/lyddmilitary" target="_blank" rel="noopener noreferrer nofollow">https://romneymarshhistory.co.uk/lyddmilitary</a>  

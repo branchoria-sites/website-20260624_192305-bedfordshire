@@ -254,7 +254,7 @@ image: /assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-overview-
 
 ## Introduction
 
-Hartlepool’s nuclear power station has given local UFO stories an unusually dramatic setting, but the best-known plant-area claim is weaker than the setting makes it sound. The case most often cited concerns reports from March 1993, publicised again when UK government UFO files were released in 2009: an object was said to have been seen over Hartlepool nuclear power station and elsewhere around Teesside, including chemical plants and military-linked sites. The Ministry of Defence response was notably cautious rather than sensational: local air-control radar reportedly detected nothing unusual, and one suggested explanation was car headlights distorted by an atmospheric inversion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
+Hartlepool’s nuclear power station has given local UFO stories an unusually dramatic setting, but the best-known plant-area claim is weaker than the setting makes it sound. The case most often cited concerns reports from March 1993, publicised again when UK government UFO files were released in 2009: an object was said to have been seen over Hartlepool nuclear power station and elsewhere around Teesside, including chemical plants and military-linked sites. The Ministry of Defence response was notably cautious rather than sensational: local air-control radar reportedly detected nothing unusual, and one suggested explanation was car headlights distorted by an atmospheric inversion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
 
 
 <img src="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-overview.webp" | relative_url }}" alt="Overview image for Hartlepool Plant" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,9 +262,9 @@ That does not prove nothing was seen. It does mean the Hartlepool story is best 
 
 ## The nuclear-site setting and public interest
 
-Hartlepool power station sits on the north-east coast, on the northern bank of the River Tees mouth, about 4 km south of Hartlepool in historic County Durham. The Office for Nuclear Regulation describes it as an operational nuclear facility using two advanced gas-cooled reactors, and notes that it was the first UK nuclear power station built so close to a major urban area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.org.uk/our-work/what-we-regulate/operational-power-stations/operational-sitesfacilites/hartlepool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.org.uk">[Office for Nuclear Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.org.uk</span><span class="citation-popover-title">Office for Nuclear Regulation Hartlepool &#124; Office for Nuclear Regulation</span><span class="citation-popover-snippet">Office for Nuclear Regulation Hartlepool &#124; Office for Nuclear Regulation</span></span></span> EDF’s own public page frames the station as a major part of local energy life, stating that it has generated electricity since 1983 and can supply over two million UK homes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edfenergy.com/energy/power-stations/hartlepool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edfenergy.com">[EDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edfenergy.com</span><span class="citation-popover-title">EDFHartlepool nuclear power station and visitor centre &#124; EDF</span><span class="citation-popover-snippet">EDFHartlepool nuclear power station and visitor centre &#124; EDF</span></span></span>
+Hartlepool power station sits on the north-east coast, on the northern bank of the River Tees mouth, about 4 km south of Hartlepool in historic County Durham. The Office for Nuclear Regulation describes it as an operational nuclear facility using two advanced gas-cooled reactors, and notes that it was the first UK nuclear power station built so close to a major urban area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.org.uk/our-work/what-we-regulate/operational-power-stations/operational-sitesfacilites/hartlepool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.org.uk">[Office for Nuclear Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.org.uk</span><span class="citation-popover-title">Office for Nuclear Regulation Hartlepool &#124; Office for Nuclear Regulation</span><span class="citation-popover-snippet">Office for Nuclear Regulation Hartlepool &#124; Office for Nuclear Regulation</span></span></span> EDF’s own public page frames the station as a major part of local energy life, stating that it has generated electricity since 1983 and can supply over two million UK homes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edfenergy.com/energy/power-stations/hartlepool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edfenergy.com">[EDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edfenergy.com</span><span class="citation-popover-title">EDFHartlepool nuclear power station and visitor centre &#124; EDF</span><span class="citation-popover-snippet">EDFHartlepool nuclear power station and visitor centre &#124; EDF</span></span></span>
 
-That setting matters because “a light near a nuclear plant” feels different from “a light over the coast”. Hartlepool is not an isolated rural skyline. It is a working coastal and industrial landscape: sea approaches, roads, ship lights, chemical industry, aviation routes, the Tees estuary, and a large power station whose presence naturally raises security and safety questions. Hartlepool Borough Council’s nuclear emergency page also shows why the site sits prominently in public consciousness: local emergency planning exists under the Radiation (Emergency Preparedness and Public Information) Regulations 2019, with a Detailed Emergency Planning Zone extending up to 2.7 km from the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hartlepool.gov.uk/emergencies/nuclear-emergencies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartlepool.gov.uk">[Hartlepool Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartlepool.gov.uk</span><span class="citation-popover-title">Hartlepool Borough Council Nuclear emergencies &#124; Hartlepool Borough Council</span><span class="citation-popover-snippet">Hartlepool Borough Council Nuclear emergencies &#124; Hartlepool Borough Council</span></span></span>
+That setting matters because “a light near a nuclear plant” feels different from “a light over the coast”. Hartlepool is not an isolated rural skyline. It is a working coastal and industrial landscape: sea approaches, roads, ship lights, chemical industry, aviation routes, the Tees estuary, and a large power station whose presence naturally raises security and safety questions. Hartlepool Borough Council’s nuclear emergency page also shows why the site sits prominently in public consciousness: local emergency planning exists under the Radiation (Emergency Preparedness and Public Information) Regulations 2019, with a Detailed Emergency Planning Zone extending up to 2.7 km from the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hartlepool.gov.uk/emergencies/nuclear-emergencies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartlepool.gov.uk">[Hartlepool Borough Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartlepool.gov.uk</span><span class="citation-popover-title">Hartlepool Borough Council Nuclear emergencies &#124; Hartlepool Borough Council</span><span class="citation-popover-snippet">Hartlepool Borough Council Nuclear emergencies &#124; Hartlepool Borough Council</span></span></span>
 
 For UFO history, this creates a double effect. The plant makes reports more memorable and more likely to be repeated, but it also makes ordinary explanations more important. A misidentified light near a nuclear facility is not just an amusing skywatching anecdote; it can acquire a security flavour that outstrips the evidence.
 
@@ -272,11 +272,11 @@ For UFO history, this creates a double effect. The plant makes reports more memo
 <img src="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-1-dark.svg" | relative_url }}" alt="Hartlepool Plant illustration 1" data-theme-src-dark="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1993 claim that resurfaced in 2009
 
-The Hartlepool plant story most often repeated in UFO discussions was not a fresh 2009 sighting. It was a 1993 report that received renewed attention in 2009, when older Ministry of Defence UFO records were being released into the public domain. World Nuclear News summarised the released material as describing something strange seen in March 1993 over the Teesside and Cleveland area, including above Hartlepool nuclear power station, chemical plants and military installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
+The Hartlepool plant story most often repeated in UFO discussions was not a fresh 2009 sighting. It was a 1993 report that received renewed attention in 2009, when older Ministry of Defence UFO records were being released into the public domain. World Nuclear News summarised the released material as describing something strange seen in March 1993 over the Teesside and Cleveland area, including above Hartlepool nuclear power station, chemical plants and military installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
 
-The same account is important because it includes the deflating detail that often disappears in retellings: the MoD response said nothing had been picked up on local air-control radar. It also floated a mundane possibility, namely car headlights reflected or refracted by an atmospheric inversion layer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span> That combination — dramatic location, weak instrument support, plausible optical explanation — is the heart of the Hartlepool case.
+The same account is important because it includes the deflating detail that often disappears in retellings: the MoD response said nothing had been picked up on local air-control radar. It also floated a mundane possibility, namely car headlights reflected or refracted by an atmospheric inversion layer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span> That combination — dramatic location, weak instrument support, plausible optical explanation — is the heart of the Hartlepool case.
 
-A later Freedom of Information request asked the MoD for information on UFO sightings in Hartlepool from 1983 to 1985, the early period of the station’s generating life. The public WhatDoTheyKnow record shows the request was refused, with an annotation stating that surviving information was located at The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufo_sightings_in_hartlepool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UFO Sightings in Hartlepool - a Freedom of Information request to Ministry of Defence - WhatDoTheyKnow...</span></span></span> A separate released MoD FOI response from 2007, concerning Hartlepool sightings in the previous five years, said the department had searched its database for Hartlepool, Cleveland and found no relevant reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2075-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files Untitled</span><span class="citation-popover-snippet">Bluebook Files Untitled</span></span></span>
+A later Freedom of Information request asked the MoD for information on UFO sightings in Hartlepool from 1983 to 1985, the early period of the station’s generating life. The public WhatDoTheyKnow record shows the request was refused, with an annotation stating that surviving information was located at The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/ufo_sightings_in_hartlepool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UFO Sightings in Hartlepool - a Freedom of Information request to Ministry of Defence - WhatDoTheyKnow...</span></span></span> A separate released MoD FOI response from 2007, concerning Hartlepool sightings in the previous five years, said the department had searched its database for Hartlepool, Cleveland and found no relevant reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2075-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files Untitled</span><span class="citation-popover-snippet">Bluebook Files Untitled</span></span></span>
 
 Taken together, these records weaken the idea of a well-documented, continuing Hartlepool nuclear UFO flap. They support a narrower reading: there was at least one notable plant-area claim in the public UFO archive, but the accessible record does not show a strong run of confirmed or officially corroborated incidents.
 
@@ -295,9 +295,9 @@ This distinction is central to County Durham’s UFO record more broadly. Many r
 <img src="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-2-dark.svg" | relative_url }}" alt="Hartlepool Plant illustration 2" data-theme-src-dark="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Inversion effects and the headlight theory
 
-A temperature inversion occurs when temperature increases with height, instead of falling with height as it usually does in the lower atmosphere. The Met Office explains that inversions can trap cooler air near the surface and are often associated with mist and fog, especially in settled high-pressure conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+A temperature inversion occurs when temperature increases with height, instead of falling with height as it usually does in the lower atmosphere. The Met Office explains that inversions can trap cooler air near the surface and are often associated with mist and fog, especially in settled high-pressure conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-For UFO interpretation, the key point is that layers of air at different temperatures can bend light. Aviation safety resource SKYbrary describes a superior mirage as an effect that occurs when cooler air lies below warmer air; light rays bend, and an image can appear above the true object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span> In a coastal-industrial setting such as Hartlepool and the Tees mouth, that matters. Road headlights, industrial lights, ship lights or other low-level sources may appear displaced, stretched, hovering, or separated from their true origin when seen through unusual atmospheric layers.
+For UFO interpretation, the key point is that layers of air at different temperatures can bend light. Aviation safety resource SKYbrary describes a superior mirage as an effect that occurs when cooler air lies below warmer air; light rays bend, and an image can appear above the true object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span> In a coastal-industrial setting such as Hartlepool and the Tees mouth, that matters. Road headlights, industrial lights, ship lights or other low-level sources may appear displaced, stretched, hovering, or separated from their true origin when seen through unusual atmospheric layers.
 
 The MoD’s suggested headlight-and-inversion explanation should not be treated as a proven debunk unless the exact weather and sightline data are available. But it is a reasonable candidate explanation because it fits several features of the case: a night-time light, a low-lying coastal/estuary environment, an industrial landscape with many possible light sources, and no reported radar confirmation. It is also a good example of how a mundane source can become strange when the viewer cannot see the road, vehicle, ship or light installation that produced it.
 
@@ -306,17 +306,17 @@ The MoD’s suggested headlight-and-inversion explanation should not be treated 
 
 ## How nuclear folklore inflated the story
 
-The phrase “UFO over a nuclear plant” carries more cultural weight than the underlying Hartlepool evidence can bear. UFO writers have long linked sightings to nuclear weapons, power stations and military installations, and the 2009 reporting of Hartlepool was quickly framed in that tradition. World Nuclear News quoted local ufologist Richard D Hall saying that there was a history of UFOs taking an interest in nuclear energy, while also noting that he did not speculate on a reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
+The phrase “UFO over a nuclear plant” carries more cultural weight than the underlying Hartlepool evidence can bear. UFO writers have long linked sightings to nuclear weapons, power stations and military installations, and the 2009 reporting of Hartlepool was quickly framed in that tradition. World Nuclear News quoted local ufologist Richard D Hall saying that there was a history of UFOs taking an interest in nuclear energy, while also noting that he did not speculate on a reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
 
 That kind of framing is understandable, but risky. Once a sighting is attached to a nuclear site, later retellings may treat the location as evidence in itself. The logic becomes circular: the light must be important because it was near the plant, and the plant must be important because UFOs are said to be interested in nuclear energy. A careful local history should resist that loop.
 
-The broader MoD release context also points towards caution. The National Archives’ UFO highlights guide notes that MoD sighting reports surged in 2008 and 2009, and that many reports from that period were generated by Chinese lanterns: silent amber or orange lights, often seen in formations and often interpreted by startled witnesses as something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> Hartlepool’s best-known plant claim predates that lantern surge, but the lesson is the same: unusual-looking lights can multiply into impressive stories when witnesses lack a familiar reference point.
+The broader MoD release context also points towards caution. The National Archives’ UFO highlights guide notes that MoD sighting reports surged in 2008 and 2009, and that many reports from that period were generated by Chinese lanterns: silent amber or orange lights, often seen in formations and often interpreted by startled witnesses as something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> Hartlepool’s best-known plant claim predates that lantern surge, but the lesson is the same: unusual-looking lights can multiply into impressive stories when witnesses lack a familiar reference point.
 
 
 <img src="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-3-dark.svg" | relative_url }}" alt="Hartlepool Plant illustration 3" data-theme-src-dark="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Durham_9c5285_hartlepool_nuclear_c_f5de72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Hartlepool case really shows
 
-Hartlepool is important in County Durham’s UFO history not because it proves a craft hovered over a nuclear power station, but because it shows how quickly a weakly evidenced sighting can become memorable when the backdrop is sensitive infrastructure. The strongest public facts are modest: a 1993 plant-area claim was later reported in connection with released UK UFO files; the MoD response found no local radar confirmation; and an atmospheric inversion involving car headlights was raised as a possible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
+Hartlepool is important in County Durham’s UFO history not because it proves a craft hovered over a nuclear power station, but because it shows how quickly a weakly evidenced sighting can become memorable when the backdrop is sensitive infrastructure. The strongest public facts are modest: a 1993 plant-area claim was later reported in connection with released UK UFO files; the MoD response found no local radar confirmation; and an atmospheric inversion involving car headlights was raised as a possible explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">World Nuclear News UFO spotted over UK nuclear plant</span><span class="citation-popover-snippet">World Nuclear News UFO spotted over UK nuclear plant</span></span></span>
 
 A fair assessment would classify the case as weakly evidenced and plausibly explained, rather than definitively solved or genuinely unexplained. The nuclear setting gives it local significance, but the absence of stronger corroboration prevents it from carrying the weight sometimes placed on it.
 
@@ -327,194 +327,194 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did UFOs Really Hover Near Hartlepool?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did UFOs Really Hover Near Hartlepool?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Examines British cases involving official investigations and sensitive sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines British cases involving official investigations and sensitive sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Useful comparison for readers interested in UFO claims near strategic infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison for readers interested in UFO claims near strategic infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises witness quality, radar evidence, and official reporting standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises witness quality, radar evidence, and official reporting standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Closely matches the page&#x27;s focus on official responses and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the page&#x27;s focus on official responses and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/da55e80b39a947fb6a5f.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/da55e80b39a947fb6a5f.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="{{ '/assets/images/marketplace-covers/bae82c6b1b04090fc911.jpg' | relative_url }}" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="{{ '/assets/images/marketplace-covers/bae82c6b1b04090fc911.jpg' | relative_url }}" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="hartlepool-plant-did-ufos-really-hover-near-hartlepool-county-durham-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,174 +720,174 @@ For readers following County Durham’s wider UFO map, Hartlepool is best linked
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: world-nuclear-news.org  
    Title: World Nuclear News UFO spotted over UK nuclear plant  
-   Link: <a href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow">https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant</a>  
+   Link:<a href="https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow">https://world-nuclear-news.org/articles/ufo-spotted-over-uk-nuclear-plant</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: edfenergy.com  
    Title: EDFHartlepool nuclear power station and visitor centre | EDF  
-   Link: <a href="https://www.edfenergy.com/energy/power-stations/hartlepool" target="_blank" rel="noopener noreferrer nofollow">https://www.edfenergy.com/energy/power-stations/hartlepool</a>  
+   Link:<a href="https://www.edfenergy.com/energy/power-stations/hartlepool" target="_blank" rel="noopener noreferrer nofollow">https://www.edfenergy.com/energy/power-stations/hartlepool</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_hartlepool" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_hartlepool</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Hartlepool - a Freedom of Information request to Ministry of Defence - WhatDoTheyKnow...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/ufo_sightings_in_hartlepool" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/ufo_sightings_in_hartlepool</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Hartlepool - a Freedom of Information request to Ministry of Defence - WhatDoTheyKnow...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: whatdotheyknow.com  
-   Link: <a href="https://www.whatdotheyknow.com/user/idg" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/user/idg</a>  
+   Link:<a href="https://www.whatdotheyknow.com/user/idg" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/user/idg</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/lzk/inversion101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/lzk/inversion101.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/lzk/inversion101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/lzk/inversion101.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onr.org.uk  
    Title: Office for Nuclear Regulation Hartlepool | Office for Nuclear Regulation  
-   Link: <a href="https://www.onr.org.uk/our-work/what-we-regulate/operational-power-stations/operational-sitesfacilites/hartlepool" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/our-work/what-we-regulate/operational-power-stations/operational-sitesfacilites/hartlepool</a>  
+   Link:<a href="https://www.onr.org.uk/our-work/what-we-regulate/operational-power-stations/operational-sitesfacilites/hartlepool" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/our-work/what-we-regulate/operational-power-stations/operational-sitesfacilites/hartlepool</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hartlepool.gov.uk  
    Title: Hartlepool Borough Council Nuclear emergencies | Hartlepool Borough Council  
-   Link: <a href="https://www.hartlepool.gov.uk/emergencies/nuclear-emergencies" target="_blank" rel="noopener noreferrer nofollow">https://www.hartlepool.gov.uk/emergencies/nuclear-emergencies</a>  
+   Link:<a href="https://www.hartlepool.gov.uk/emergencies/nuclear-emergencies" target="_blank" rel="noopener noreferrer nofollow">https://www.hartlepool.gov.uk/emergencies/nuclear-emergencies</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: files.bluebookfiles.org  
    Title: Bluebook Files Untitled  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2075-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2075-1.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2075-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20BritishUFOFiles%20-%20defe-24-2075-1.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/temperature-inversion</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cc78540f0b6629523bc4b/0349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc78540f0b6629523bc4b/0349.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cc78540f0b6629523bc4b/0349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc78540f0b6629523bc4b/0349.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c71c4ed915d48c240fc5b/gene0910bsry-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c71c4ed915d48c240fc5b/gene0910bsry-e-e.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c71c4ed915d48c240fc5b/gene0910bsry-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c71c4ed915d48c240fc5b/gene0910bsry-e-e.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: edfenergy.com  
    Title: Generating status  
-   Link: <a href="https://www.edfenergy.com/energy/power-station/daily-statuses" target="_blank" rel="noopener noreferrer nofollow">https://www.edfenergy.com/energy/power-station/daily-statuses</a>  
+   Link:<a href="https://www.edfenergy.com/energy/power-station/daily-statuses" target="_blank" rel="noopener noreferrer nofollow">https://www.edfenergy.com/energy/power-station/daily-statuses</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Hartlepool nuclear power station  
-   Link: <a href="https://en.wikipedia.org/wiki/Hartlepool_nuclear_power_station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hartlepool_nuclear_power_station</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hartlepool_nuclear_power_station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hartlepool_nuclear_power_station</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: missing or misplaced documents.xls  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/missing-or-misplaced-documents.xls</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: planninginspectorate.gov.uk Horizon Nuclear Power  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002523-Horizon%20Nuclear%20Power%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20NRW%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002523-Horizon%20Nuclear%20Power%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20NRW%20%282%29.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002523-Horizon%20Nuclear%20Power%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20NRW%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002523-Horizon%20Nuclear%20Power%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20NRW%20%282%29.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002507-Horizon%20Nuclear%20Power%20%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20North%20Wales%20Wildlife%20Trust%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002507-Horizon%20Nuclear%20Power%20%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20North%20Wales%20Wildlife%20Trust%20%282%29.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002507-Horizon%20Nuclear%20Power%20%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20North%20Wales%20Wildlife%20Trust%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-002507-Horizon%20Nuclear%20Power%20%20-%208.25%20Statement%20of%20Common%20Ground%20between%20Horizon%20Nuclear%20Power%20Wylfa%20Limited%20and%20North%20Wales%20Wildlife%20Trust%20%282%29.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: planninginspectorate.gov.uk D13 The marine environment  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001442-6.4.13%20D13-The%20marine%20environment%20%28Rev%201.0%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001442-6.4.13%20D13-The%20marine%20environment%20%28Rev%201.0%29.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001442-6.4.13%20D13-The%20marine%20environment%20%28Rev%201.0%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001442-6.4.13%20D13-The%20marine%20environment%20%28Rev%201.0%29.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/guides/warnings" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/warnings</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/guides/warnings" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/warnings</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: democracy.york.gov.uk  
    Title: york.gov.uk Summarised Comments  
-   Link: <a href="https://democracy.york.gov.uk/documents/s45293/Annex%2013%20Waste%20Management.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.york.gov.uk/documents/s45293/Annex%2013%20Waste%20Management.pdf</a>  
+   Link:<a href="https://democracy.york.gov.uk/documents/s45293/Annex%2013%20Waste%20Management.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.york.gov.uk/documents/s45293/Annex%2013%20Waste%20Management.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hartlepool.gov.uk  
-   Link: <a href="https://www.hartlepool.gov.uk/downloads/file/160/hartlepool-power-station-consequences-report" target="_blank" rel="noopener noreferrer nofollow">https://www.hartlepool.gov.uk/downloads/file/160/hartlepool-power-station-consequences-report</a>  
+   Link:<a href="https://www.hartlepool.gov.uk/downloads/file/160/hartlepool-power-station-consequences-report" target="_blank" rel="noopener noreferrer nofollow">https://www.hartlepool.gov.uk/downloads/file/160/hartlepool-power-station-consequences-report</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hartlepool.gov.uk  
-   Link: <a href="https://www.hartlepool.gov.uk/download/meetings/id/221/Download%2520the%2520Agendas%2520and%2520Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.hartlepool.gov.uk/download/meetings/id/221/Download%2520the%2520Agendas%2520and%2520Reports</a>  
+   Link:<a href="https://www.hartlepool.gov.uk/download/meetings/id/221/Download%2520the%2520Agendas%2520and%2520Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.hartlepool.gov.uk/download/meetings/id/221/Download%2520the%2520Agendas%2520and%2520Reports</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: UFOs at Nuclear Sites? | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbsxZBmGMBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Lee, who has worked at Hartlepool power station for more than 15 years | EDF #WeKnowNuclear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbsxZBmGMBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Lee, who has worked at Hartlepool power station for more than 15 years | EDF #WeKnowNuclear...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thebrainmazeofficial/posts/a-fata-morgana-is-a-type-of-mirage-caused-by-layers-of-air-at-different-temperat/969629949053932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebrainmazeofficial/posts/a-fata-morgana-is-a-type-of-mirage-caused-by-layers-of-air-at-different-temperat/969629949053932/</a>  
+   Link:<a href="https://www.facebook.com/thebrainmazeofficial/posts/a-fata-morgana-is-a-type-of-mirage-caused-by-layers-of-air-at-different-temperat/969629949053932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebrainmazeofficial/posts/a-fata-morgana-is-a-type-of-mirage-caused-by-layers-of-air-at-different-temperat/969629949053932/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RadarOnline/posts/a-former-air-force-officer-claimed-he-was-forced-to-sign-a-gag-order-silencing-h/1436217758544662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RadarOnline/posts/a-former-air-force-officer-claimed-he-was-forced-to-sign-a-gag-order-silencing-h/1436217758544662/</a>  
+   Link:<a href="https://www.facebook.com/RadarOnline/posts/a-former-air-force-officer-claimed-he-was-forced-to-sign-a-gag-order-silencing-h/1436217758544662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RadarOnline/posts/a-former-air-force-officer-claimed-he-was-forced-to-sign-a-gag-order-silencing-h/1436217758544662/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NWSFairbanks/posts/do-the-tops-of-the-mountains-look-strange-its-an-optical-illusion-called-fata-mo/676703027976409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWSFairbanks/posts/do-the-tops-of-the-mountains-look-strange-its-an-optical-illusion-called-fata-mo/676703027976409/</a>  
+   Link:<a href="https://www.facebook.com/NWSFairbanks/posts/do-the-tops-of-the-mountains-look-strange-its-an-optical-illusion-called-fata-mo/676703027976409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWSFairbanks/posts/do-the-tops-of-the-mountains-look-strange-its-an-optical-illusion-called-fata-mo/676703027976409/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
+   Link:<a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Teesside.in.pictures/posts/9729319763860851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Teesside.in.pictures/posts/9729319763860851/</a>  
+   Link:<a href="https://www.facebook.com/groups/Teesside.in.pictures/posts/9729319763860851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Teesside.in.pictures/posts/9729319763860851/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: energydashboard.co.uk  
-   Link: <a href="https://www.energydashboard.co.uk/sites/hartlepool-power-station" target="_blank" rel="noopener noreferrer nofollow">https://www.energydashboard.co.uk/sites/hartlepool-power-station</a>  
+   Link:<a href="https://www.energydashboard.co.uk/sites/hartlepool-power-station" target="_blank" rel="noopener noreferrer nofollow">https://www.energydashboard.co.uk/sites/hartlepool-power-station</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYiFP_BjGgG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYiFP_BjGgG/</a>  
+   Link:<a href="https://www.instagram.com/p/DYiFP_BjGgG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYiFP_BjGgG/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: craveguitars.co.uk  
-   Link: <a href="https://www.craveguitars.co.uk/tag/new-york-dolls/" target="_blank" rel="noopener noreferrer nofollow">https://www.craveguitars.co.uk/tag/new-york-dolls/</a>  
+   Link:<a href="https://www.craveguitars.co.uk/tag/new-york-dolls/" target="_blank" rel="noopener noreferrer nofollow">https://www.craveguitars.co.uk/tag/new-york-dolls/</a>  

@@ -118,9 +118,9 @@ heading_title: What Really Happened in Antrim's UFO Reports?
 page_heading_title: What Really Happened in Antrim's UFO Reports?
 source_count: 134
 infographic_count: 3
-page_website_name: Antrim UFOs
+page_website_name: Antrim
 page_banner_line: Balanced local UFO history from Belfast lights to Slemish and police logs.
-site_website_name: Antrim UFOs
+site_website_name: Antrim
 site_banner_line: Balanced local UFO history from Belfast lights to Slemish and police logs.
 site_image_description: A night view across County Antrim with Belfast lights in the distance, Slemish on the horizon, and a few small unexplained lights in...
 output_language: English
@@ -689,23 +689,23 @@ image: /assets/images/County_Antrim_405799-overview-social.jpg
 
 ## Introduction
 
-For this project, County Antrim means the historic county on the north-eastern coast of Ulster, rather than any one modern council district. Wikishire’s historic-counties map treats Antrim as part of the UK’s historic county framework, and describes it as bounded by the sea to the north and east, Lough Neagh and the River Bann to the west, and the River Lagan to the south. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span> That matters because Belfast, Newtownabbey, Aldergrove, Crumlin, Ballymena and Slemish can appear in different modern administrative contexts, while the UFO records and news reports often use older county language, loose “Belfast” labels, or Northern Ireland-wide police categories.
+For this project, County Antrim means the historic county on the north-eastern coast of Ulster, rather than any one modern council district. Wikishire’s historic-counties map treats Antrim as part of the UK’s historic county framework, and describes it as bounded by the sea to the north and east, Lough Neagh and the River Bann to the west, and the River Lagan to the south.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span> That matters because Belfast, Newtownabbey, Aldergrove, Crumlin, Ballymena and Slemish can appear in different modern administrative contexts, while the UFO records and news reports often use older county language, loose “Belfast” labels, or Northern Ireland-wide police categories.
 
 
 <img src="{{ "/assets/images/County_Antrim_405799-overview.webp" | relative_url }}" alt="Overview image for County Antrim" loading="eager" decoding="sync" fetchpriority="high">
 ## What makes Antrim a UFO-relevant county?
 
-Antrim matters because it combines three features that often produce UFO reports: a large urban sky-watching population around Belfast and Newtownabbey, dark rural and upland horizons around places such as Slemish, and a strong aviation footprint around Aldergrove/Belfast International Airport. The airport sits at Aldergrove in County Antrim, and the airfield has long civil and military associations: the Airfields of Britain Conservation Trust lists Aldergrove as an Antrim airfield opened in 1918 and used by the RAF, Fleet Air Arm, Army Air Corps, civil aviation and others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
+Antrim matters because it combines three features that often produce UFO reports: a large urban sky-watching population around Belfast and Newtownabbey, dark rural and upland horizons around places such as Slemish, and a strong aviation footprint around Aldergrove/Belfast International Airport. The airport sits at Aldergrove in County Antrim, and the airfield has long civil and military associations: the Airfields of Britain Conservation Trust lists Aldergrove as an Antrim airfield opened in 1918 and used by the RAF, Fleet Air Arm, Army Air Corps, civil aviation and others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
 
-That does not make every Antrim UFO report an aircraft. It does mean that aviation checks are especially important. A light “above the airport/docks”, a silent object with red and green lights, or a shape seen from a built-up area can sit close to ordinary explanations: aircraft on approach, helicopters, drones, reflections on cameras, navigation lights, or distant traffic seen through haze. Belfast International’s own aviation setting reinforces that point: the airfield was historically Aldergrove Airport and previously shared with RAF Aldergrove, before the RAF base closed and the site became associated with Joint Helicopter Command Flying Station Aldergrove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+That does not make every Antrim UFO report an aircraft. It does mean that aviation checks are especially important. A light “above the airport/docks”, a silent object with red and green lights, or a shape seen from a built-up area can sit close to ordinary explanations: aircraft on approach, helicopters, drones, reflections on cameras, navigation lights, or distant traffic seen through haze. Belfast International’s own aviation setting reinforces that point: the airfield was historically Aldergrove Airport and previously shared with RAF Aldergrove, before the RAF base closed and the site became associated with Joint Helicopter Command Flying Station Aldergrove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The other side of Antrim’s character is visual and cultural. Slemish, near Ballymena, is a prominent hill in County Antrim and a highly recognisable horizon feature. Local tourism material describes it as the legendary first known Irish home of Saint Patrick and the central core of an extinct volcano. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shapedbyseaandstone.com/things-to-do/slemish-mountain-p673471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapedbyseaandstone.com">[Mid &amp; East Antrim]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapedbyseaandstone.com</span><span class="citation-popover-title">Mid &amp; East Antrim Slemish Mountain</span><span class="citation-popover-snippet">Mid &amp; East Antrim Slemish Mountain</span></span></span> When a report names Slemish, it gives readers a vivid location; but it also gives investigators a hard task, because bright objects near hills can be affected by line-of-sight, distance error, weather, aircraft routing and the observer’s expectation that the object is “over” the landmark.
+The other side of Antrim’s character is visual and cultural. Slemish, near Ballymena, is a prominent hill in County Antrim and a highly recognisable horizon feature. Local tourism material describes it as the legendary first known Irish home of Saint Patrick and the central core of an extinct volcano.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shapedbyseaandstone.com/things-to-do/slemish-mountain-p673471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapedbyseaandstone.com">[Mid &amp; East Antrim]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapedbyseaandstone.com</span><span class="citation-popover-title">Mid &amp; East Antrim Slemish Mountain</span><span class="citation-popover-snippet">Mid &amp; East Antrim Slemish Mountain</span></span></span> When a report names Slemish, it gives readers a vivid location; but it also gives investigators a hard task, because bright objects near hills can be affected by line-of-sight, distance error, weather, aircraft routing and the observer’s expectation that the object is “over” the landmark.
 
 ## The Slemish and Newtownabbey reports of 2021
 
-The strongest recent Antrim-specific public cluster comes from 2021, when Northern Ireland police-recorded UFO-type reports rose from four in 2019 to six in 2020 and eight in 2021. Press Association reporting, carried by The Guardian and other outlets, said that the 2021 reports included an “odd disc” seen in the Slemish area of County Antrim at the end of May, and “strange images” on CCTV at a house in the Newtownabbey area in July. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The strongest recent Antrim-specific public cluster comes from 2021, when Northern Ireland police-recorded UFO-type reports rose from four in 2019 to six in 2020 and eight in 2021. Press Association reporting, carried by The Guardian and other outlets, said that the 2021 reports included an “odd disc” seen in the Slemish area of County Antrim at the end of May, and “strange images” on CCTV at a house in the Newtownabbey area in July.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-These reports are important, but not because they prove anything exotic. Their value is that they show the modern pattern: a short police log, a location, a description, sometimes a camera claim, and little or no follow-up. The same report stated that PSNI records include terms such as UFO, aerial phenomena, unidentified aerial phenomena, lights in the sky, aliens and extraterrestrials, and that no investigations were carried out in relation to the 2021 incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+These reports are important, but not because they prove anything exotic. Their value is that they show the modern pattern: a short police log, a location, a description, sometimes a camera claim, and little or no follow-up. The same report stated that PSNI records include terms such as UFO, aerial phenomena, unidentified aerial phenomena, lights in the sky, aliens and extraterrestrials, and that no investigations were carried out in relation to the 2021 incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 For the Slemish case, the description “odd disc” is too brief to assess securely. It does not tell us duration, direction, weather, angular size, whether the object crossed the sky, whether aircraft or drones were checked, or whether more than one witness saw it independently. For Newtownabbey, CCTV can sound stronger than naked-eye testimony, but camera evidence is often ambiguous without the original footage, lens position, timestamps, exposure behaviour and possible reflections. The cases therefore sit in the “unresolved but weakly evidenced” category: worth noting in Antrim’s UFO record, not strong enough to carry large claims.
 
@@ -713,11 +713,11 @@ For the Slemish case, the description “odd disc” is too brief to assess secu
 <img src="{{ "/assets/images/County_Antrim_405799-Illustration-1-dark.svg" | relative_url }}" alt="County Antrim illustration 1" data-theme-src-dark="{{ "/assets/images/County_Antrim_405799-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Antrim_405799-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the recent PSNI records actually show
 
-The PSNI’s own Freedom of Information disclosures give a clearer view of how these reports are recorded. A January 2025 PSNI disclosure said there were four UFO or unexplained-sighting reports in 2024: Crumlin, Belfast, Newtownabbey and Bangor. Three of those are plainly within or closely tied to historic County Antrim, while Bangor belongs to County Down in the historic county framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+The PSNI’s own Freedom of Information disclosures give a clearer view of how these reports are recorded. A January 2025 PSNI disclosure said there were four UFO or unexplained-sighting reports in 2024: Crumlin, Belfast, Newtownabbey and Bangor. Three of those are plainly within or closely tied to historic County Antrim, while Bangor belongs to County Down in the historic county framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
-The Antrim-related 2024 entries show the typical range of report quality. In Crumlin, the reporting person described a six-inch object with eight to ten lights around its perimeter. In Belfast, a caller reported a flying object rising into the sky around 11 pm, with a vapour trail, no sound, red and green flashing lights, and movement towards the docks area. In Newtownabbey, a caller said his wife had seen a UFO through a camera in May and that it had returned every night, described as a bright light with holes in the bottom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+The Antrim-related 2024 entries show the typical range of report quality. In Crumlin, the reporting person described a six-inch object with eight to ten lights around its perimeter. In Belfast, a caller reported a flying object rising into the sky around 11 pm, with a vapour trail, no sound, red and green flashing lights, and movement towards the docks area. In Newtownabbey, a caller said his wife had seen a UFO through a camera in May and that it had returned every night, described as a bright light with holes in the bottom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
-A later PSNI disclosure, dated June 2025, gives additional entries from early 2025. It includes a Belfast call from January 2025 describing a UFO above the airport/docks, a Coleraine 999 call in which “UFO” was heard before the call cleared, and a Ballymena report describing a red light in the sky seen in the direction of Armagh. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNISightings &#124; PSNI</span><span class="citation-popover-snippet">PSNISightings &#124; PSNI</span></span></span> The same disclosure shows how limited the official handling can be: the logs are brief, practical police records rather than scientific case files.
+A later PSNI disclosure, dated June 2025, gives additional entries from early 2025. It includes a Belfast call from January 2025 describing a UFO above the airport/docks, a Coleraine 999 call in which “UFO” was heard before the call cleared, and a Ballymena report describing a red light in the sky seen in the direction of Armagh.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNISightings &#124; PSNI</span><span class="citation-popover-snippet">PSNISightings &#124; PSNI</span></span></span> The same disclosure shows how limited the official handling can be: the logs are brief, practical police records rather than scientific case files.
 
 The most useful lesson is not that Antrim is a “hotspot” in any dramatic sense. It is that reports cluster around normal human reporting routes: people phone the police when they are worried, puzzled, or want something noted. Some entries sound like lights, aircraft or camera artefacts. Some are too thin to evaluate. A few contain claims that are striking but not independently supported. In public-facing UFO history, that distinction is crucial.
 
@@ -726,13 +726,13 @@ The most useful lesson is not that Antrim is a “hotspot” in any dramatic sen
 
 ## The Ministry of Defence record: small but relevant
 
-The Ministry of Defence record adds older Antrim material, though again it is fragmentary. GOV.UK hosts MOD UFO report lists for 1997 to 2009, described as giving dates, times, locations and brief sighting descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> The National Archives explains that the MOD kept UFO records from the 1960s, that many reports describe shapes, lights and flashes, and that common explanations in the files include Venus, high-altitude aircraft, weather balloons and satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The Ministry of Defence record adds older Antrim material, though again it is fragmentary. GOV.UK hosts MOD UFO report lists for 1997 to 2009, described as giving dates, times, locations and brief sighting descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> The National Archives explains that the MOD kept UFO records from the 1960s, that many reports describe shapes, lights and flashes, and that common explanations in the files include Venus, high-altitude aircraft, weather balloons and satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-Two MOD entries are especially relevant to Antrim. The 2004 UK UFO report list includes a 15 December 2004 entry for “Lisburn/Belfast” in County Antrim, described simply as “three bright lights moving in the sky.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 2008 list includes a Belfast, County Antrim entry, with no firm date, saying that “ships/UFOs” were over the witness’s house at various times that year and that the witness “also saw the greys.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+Two MOD entries are especially relevant to Antrim. The 2004 UK UFO report list includes a 15 December 2004 entry for “Lisburn/Belfast” in County Antrim, described simply as “three bright lights moving in the sky.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 2008 list includes a Belfast, County Antrim entry, with no firm date, saying that “ships/UFOs” were over the witness’s house at various times that year and that the witness “also saw the greys.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 Those entries are useful historical anchors, but their evidential weight is modest. The 2004 report is a classic “bright lights” case: too brief to distinguish aircraft, planets, satellites, balloons or other causes. The 2008 report is more colourful, but also more difficult to verify because it appears to be a repeated personal claim without clear date, time, direction, corroboration or technical record. For a county-level UFO page, the honest conclusion is that the MOD record confirms reported sightings in Antrim, not confirmed unknown craft.
 
-There is also a notable Northern Ireland aviation-related archive pointer. A National Archives highlights guide for the March 2009 UFO file release identifies “investigation papers into a report of a UFO near Belfast Airport in December 1989” in DEFE 24/1938 and related Defence Intelligence material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">mar 2009 highlights guide</span><span class="citation-popover-snippet">mar 2009 highlights guide</span></span></span> That is significant because it places a Northern Ireland airport case within the released MOD archive structure. However, the public summary alone is not enough to treat the case as solved, extraordinary, or even definitely within the historic County Antrim boundary without closer reading of the full file and its location details.
+There is also a notable Northern Ireland aviation-related archive pointer. A National Archives highlights guide for the March 2009 UFO file release identifies “investigation papers into a report of a UFO near Belfast Airport in December 1989” in DEFE 24/1938 and related Defence Intelligence material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">mar 2009 highlights guide</span><span class="citation-popover-snippet">mar 2009 highlights guide</span></span></span> That is significant because it places a Northern Ireland airport case within the released MOD archive structure. However, the public summary alone is not enough to treat the case as solved, extraordinary, or even definitely within the historic County Antrim boundary without closer reading of the full file and its location details.
 
 
 <img src="{{ "/assets/images/County_Antrim_405799-Illustration-2-dark.svg" | relative_url }}" alt="County Antrim illustration 2" data-theme-src-dark="{{ "/assets/images/County_Antrim_405799-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Antrim_405799-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -740,9 +740,9 @@ There is also a notable Northern Ireland aviation-related archive pointer. A Nat
 
 A UFO report can be unresolved for a very ordinary reason: the evidence is too limited. Antrim’s recent and archival reports often lack the details needed to test them properly. A strong case would normally need a precise time, viewing direction, duration, angular movement, weather, aircraft and drone checks, astronomical checks, original image or video files, and preferably independent witnesses at separated locations. Most public Antrim entries do not provide that.
 
-Several recurring explanations deserve attention. Red and green lights commonly suggest aircraft navigation lights, especially when a report also mentions movement towards a docks or airport area. A bright star-like light that changes colour can be an aircraft on approach, a planet low in the sky, atmospheric scintillation, or a camera exposure effect. Orange lights in groups often lead investigators to consider lanterns, flares, drones, aircraft in formation, or satellite trains depending on the date and movement. The National Archives’ own discussion of MOD files stresses that many reported lights and shapes were later associated with ordinary causes such as aircraft, weather balloons, satellites and Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+Several recurring explanations deserve attention. Red and green lights commonly suggest aircraft navigation lights, especially when a report also mentions movement towards a docks or airport area. A bright star-like light that changes colour can be an aircraft on approach, a planet low in the sky, atmospheric scintillation, or a camera exposure effect. Orange lights in groups often lead investigators to consider lanterns, flares, drones, aircraft in formation, or satellite trains depending on the date and movement. The National Archives’ own discussion of MOD files stresses that many reported lights and shapes were later associated with ordinary causes such as aircraft, weather balloons, satellites and Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-The MOD’s wider history also encourages caution. The National Archives says that prior to the 1960s, MOD UFO material was destroyed after five years, but later public interest led to retention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> That means the archive is incomplete by design for earlier decades. Later, the MOD published annual lists and then closed its UFO desk: reporting in 2013 on the released files said the desk was closed because it served “no defence purpose” and diverted staff from more valuable defence-related work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+The MOD’s wider history also encourages caution. The National Archives says that prior to the 1960s, MOD UFO material was destroyed after five years, but later public interest led to retention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> That means the archive is incomplete by design for earlier decades. Later, the MOD published annual lists and then closed its UFO desk: reporting in 2013 on the released files said the desk was closed because it served “no defence purpose” and diverted staff from more valuable defence-related work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
 This does not mean every sighting was explained. It means the official threshold was defence relevance, not solving every mystery for witnesses. A report could remain unexplained because no one had enough data, because no investigation was opened, or because the likely explanation was never formally written down. “Unexplained” is therefore not the same as “extraordinary”.
 
@@ -753,9 +753,9 @@ This does not mean every sighting was explained. It means the official threshold
 
 County Antrim’s UFO record is complicated by Belfast. Historically, much of Belfast lies in County Antrim, but the city’s growth, modern council geography and everyday reporting language blur older boundaries. Some reports say “Belfast” or “greater Belfast” without enough detail to place the observation confidently in historic Antrim or County Down. That matters for this project because the Republic of Ireland’s counties are outside the UK collection, and because County Down is a separate historic-county branch within Northern Ireland.
 
-For Antrim, the safe approach is to keep Belfast reports where the record itself places them in County Antrim, or where the place named is clearly on the Antrim side, such as Newtownabbey or Crumlin. Reports linked to Bangor, Saintfield or Downpatrick should be treated as County Down material unless they are being mentioned only for Northern Ireland-wide comparison. The PSNI’s 2024 disclosure is a good example: it lists Crumlin, Belfast, Newtownabbey and Bangor together, but only the first three naturally belong in an Antrim-centred discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+For Antrim, the safe approach is to keep Belfast reports where the record itself places them in County Antrim, or where the place named is clearly on the Antrim side, such as Newtownabbey or Crumlin. Reports linked to Bangor, Saintfield or Downpatrick should be treated as County Down material unless they are being mentioned only for Northern Ireland-wide comparison. The PSNI’s 2024 disclosure is a good example: it lists Crumlin, Belfast, Newtownabbey and Bangor together, but only the first three naturally belong in an Antrim-centred discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
-Aldergrove also needs careful wording. It is an Antrim aviation site, and it is highly relevant to sighting interpretation, but that does not mean it generated or explained every Antrim UFO report. It is best understood as part of the county’s sky environment: an airport, former RAF-linked site, and continuing aviation landmark against which witness claims should be checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
+Aldergrove also needs careful wording. It is an Antrim aviation site, and it is highly relevant to sighting interpretation, but that does not mean it generated or explained every Antrim UFO report. It is best understood as part of the county’s sky environment: an airport, former RAF-linked site, and continuing aviation landmark against which witness claims should be checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abct.org.uk">[Airfields of Britain Conservation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abct.org.uk</span><span class="citation-popover-snippet">Open source on abct.org.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
@@ -766,11 +766,11 @@ The fairest reading is that County Antrim has a real but modest UFO paper trail.
 
 A balanced Antrim case file would sort sightings into three broad categories:
 
-**Unresolved but thinly evidenced:** the Slemish “odd disc”, the 2004 Lisburn/Belfast “three bright lights”, and the 2024 Crumlin object all fit here unless stronger primary material emerges. They are specific enough to record, but too brief to assess confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+**Unresolved but thinly evidenced:** the Slemish “odd disc”, the 2004 Lisburn/Belfast “three bright lights”, and the 2024 Crumlin object all fit here unless stronger primary material emerges. They are specific enough to record, but too brief to assess confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-**Likely ordinary but not formally solved:** the Belfast 2024 report with red and green flashing lights, a vapour trail and movement towards the docks is exactly the kind of report where aircraft or aviation-related explanations should be checked first. It should not be declared solved without the time, direction and flight data, but its description contains ordinary aviation cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
+**Likely ordinary but not formally solved:** the Belfast 2024 report with red and green flashing lights, a vapour trail and movement towards the docks is exactly the kind of report where aircraft or aviation-related explanations should be checked first. It should not be declared solved without the time, direction and flight data, but its description contains ordinary aviation cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psni.police.uk">[PSNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psni.police.uk</span><span class="citation-popover-title">PSNIUFO Sightings &#124; PSNI</span><span class="citation-popover-snippet">PSNIUFO Sightings &#124; PSNI</span></span></span>
 
-**Weak as evidence, though useful culturally:** repeated camera or personal claims, such as the 2008 Belfast report involving “ships/UFOs” and “greys”, or the 2024 Newtownabbey claim of a nightly returning bright object, tell us something about witness belief and reporting behaviour. They do not, on the public evidence alone, provide a strong independent case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+**Weak as evidence, though useful culturally:** repeated camera or personal claims, such as the 2008 Belfast report involving “ships/UFOs” and “greys”, or the 2024 Newtownabbey claim of a nightly returning bright object, tell us something about witness belief and reporting behaviour. They do not, on the public evidence alone, provide a strong independent case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
 County Antrim’s UFO story is therefore less about one spectacular mystery and more about the friction between experience and evidence. People see things they cannot identify; police and defence systems record some of them; journalists turn a few into memorable local stories; later readers want to know whether anything remains genuinely puzzling. In Antrim, some reports remain unresolved, but the surviving public record mostly points to brief, low-detail sightings rather than robust, multi-witness incidents with strong technical corroboration.
 
@@ -778,194 +778,194 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
 <img src="{{ "/assets/images/County_Antrim_405799-Illustration-3-dark.svg" | relative_url }}" alt="County Antrim illustration 3" data-theme-src-dark="{{ "/assets/images/County_Antrim_405799-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/County_Antrim_405799-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Antrim&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Antrim&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how official reports can be assessed critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official reports can be assessed critically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background on how official UFO reporting systems work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on how official UFO reporting systems work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores modern reporting, government records and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern reporting, government records and witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on evaluating local reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on evaluating local reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="county-antrim-what-really-happened-in-antrim-s-ufo-reports-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-antrim-s-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -981,7 +981,7 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1001,7 +1001,7 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1033,7 +1033,7 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1085,7 +1085,7 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1130,7 +1130,7 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1171,242 +1171,242 @@ County Antrim’s UFO story is therefore less about one spectacular mystery and 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psni.police.uk  
    Title: PSNIUFO Sightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/ufo-sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: psni.police.uk  
    Title: PSNISightings | PSNI  
-   Link: <a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
+   Link:<a href="https://www.psni.police.uk/foi-disclosure-log/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/foi-disclosure-log/sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7971b7ed915d07d35b5898/UFOReports2004WholeoftheUK.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: mar 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Sanctuary 2019 lo res web NEW  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fa5504ae90e0704287015b1/Sanctuary_2019_lo_res_web_NEW.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O Desk: Closed  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2011 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: niassembly.gov.uk  
    Title: wind energy volume 2 redacted  
-   Link: <a href="https://www.niassembly.gov.uk/globalassets/committee-blocks/environment/wind-energy-volume-2-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niassembly.gov.uk/globalassets/committee-blocks/environment/wind-energy-volume-2-redacted.pdf</a>  
+   Link:<a href="https://www.niassembly.gov.uk/globalassets/committee-blocks/environment/wind-energy-volume-2-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niassembly.gov.uk/globalassets/committee-blocks/environment/wind-energy-volume-2-redacted.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ireland.com  
-   Link: <a href="https://www.ireland.com/en-gb/destinations/county/antrim/county-antrim/" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland.com/en-gb/destinations/county/antrim/county-antrim/</a>  
+   Link:<a href="https://www.ireland.com/en-gb/destinations/county/antrim/county-antrim/" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland.com/en-gb/destinations/county/antrim/county-antrim/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ireland.com  
-   Link: <a href="https://www.ireland.com/en-nz/destinations/county/antrim/county-antrim/" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland.com/en-nz/destinations/county/antrim/county-antrim/</a>  
+   Link:<a href="https://www.ireland.com/en-nz/destinations/county/antrim/county-antrim/" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland.com/en-nz/destinations/county/antrim/county-antrim/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
    Title: unty Antrim  
-   Link: <a href="https://wikishire.co.uk/wiki/County_Antrim" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Antrim</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/County_Antrim" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/County_Antrim</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abct.org.uk  
-   Link: <a href="https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/</a>  
+   Link:<a href="https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/" target="_blank" rel="noopener noreferrer nofollow">https://www.abct.org.uk/airfields/aldergrove-belfast-crumlin/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Belfast_International_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Belfast_International_Airport</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: shapedbyseaandstone.com  
    Title: Mid & East Antrim Slemish Mountain  
-   Link: <a href="https://www.shapedbyseaandstone.com/things-to-do/slemish-mountain-p673471" target="_blank" rel="noopener noreferrer nofollow">https://www.shapedbyseaandstone.com/things-to-do/slemish-mountain-p673471</a>  
+   Link:<a href="https://www.shapedbyseaandstone.com/things-to-do/slemish-mountain-p673471" target="_blank" rel="noopener noreferrer nofollow">https://www.shapedbyseaandstone.com/things-to-do/slemish-mountain-p673471</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
+   Link:<a href="https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/dec/26/aliens-in-bedroom-ufo-sightings-on-the-rise-in-northern-ireland</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: County Antrim  
-   Link: <a href="https://en.wikipedia.org/wiki/County_Antrim" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Antrim</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/County_Antrim" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/County_Antrim</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Belfast International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belfast_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belfast_International_Airport</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Northern-Ireland</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Down-former-county-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Down-former-county-Northern-Ireland</a>  
+   Link:<a href="https://www.britannica.com/place/Down-former-county-Northern-Ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Down-former-county-Northern-Ireland</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: airport-world.fandom.com  
    Title: Belfast International Airport  
-   Link: <a href="https://airport-world.fandom.com/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://airport-world.fandom.com/wiki/Belfast_International_Airport</a>  
+   Link:<a href="https://airport-world.fandom.com/wiki/Belfast_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://airport-world.fandom.com/wiki/Belfast_International_Airport</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
    Title: mod records ufos encounter absurd kind  
-   Link: <a href="https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/feb/18/mod-records-ufos-encounter-absurd-kind</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: ufos aliens di55 mod  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
    Title: ufo hotline closes down mod  
-   Link: <a href="https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod</a>  
+   Link:<a href="https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/04/ufo-hotline-closes-down-mod</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/</a>  
+   Link:<a href="https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1504317526541416/posts/3957025857937225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1504317526541416/posts/3957025857937225/</a>  
+   Link:<a href="https://www.facebook.com/groups/1504317526541416/posts/3957025857937225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1504317526541416/posts/3957025857937225/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: airport-suppliers.com  
    Title: belfast international airport  
-   Link: <a href="https://www.airport-suppliers.com/airport/belfast-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.airport-suppliers.com/airport/belfast-international-airport/</a>  
+   Link:<a href="https://www.airport-suppliers.com/airport/belfast-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.airport-suppliers.com/airport/belfast-international-airport/</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Rise in unexplained sightings in skies across Northern Ireland  
-   Link: <a href="https://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4F6AoeMyps0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4F6AoeMyps0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4F6AoeMyps0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Number of UFO sightings in Northern Ireland rose in 2020...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E0ER0YcSoko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E0ER0YcSoko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;They were round objects, gone in the blink of an eye&#x27; - Ireland&#x27;s UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E0ER0YcSoko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E0ER0YcSoko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;They were round objects, gone in the blink of an eye&#x27; - Ireland&#x27;s UFO Sightings...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spacecraft seen over Scotland, Northern Ireland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dZaftuuBL4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dZaftuuBL4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spacecraft seen over Scotland, Northern Ireland...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ulsteraviationsociety.org  
-   Link: <a href="https://www.ulsteraviationsociety.org/aldergrove-room" target="_blank" rel="noopener noreferrer nofollow">https://www.ulsteraviationsociety.org/aldergrove-room</a>  
+   Link:<a href="https://www.ulsteraviationsociety.org/aldergrove-room" target="_blank" rel="noopener noreferrer nofollow">https://www.ulsteraviationsociety.org/aldergrove-room</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/antrim-ireland-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/antrim-ireland-map.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/antrim-ireland-map.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/antrim-ireland-map.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: paranormaldatabase.com  
-   Link: <a href="https://www.paranormaldatabase.com/ireland/antrim.php" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/ireland/antrim.php</a>  
+   Link:<a href="https://www.paranormaldatabase.com/ireland/antrim.php" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/ireland/antrim.php</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
+   Link:<a href="https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecourieruk/posts/dr-david-clarke-has-launched-an-appeal-for-two-chefs-who-saw-the-object-in-the-s/993584899443522/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/</a>  
+   Link:<a href="https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UTV/posts/from-mysterious-discs-over-slemish-mountain-in-co-antrim-to-strange-images-spott/4622591864490182/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/</a>  
+   Link:<a href="https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/northernireland/comments/ry3mtk/increase_in_ufo_sightings_across_northern_ireland/</a>  

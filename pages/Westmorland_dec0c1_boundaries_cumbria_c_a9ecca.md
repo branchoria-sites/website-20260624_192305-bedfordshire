@@ -248,31 +248,31 @@ image: /assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-overview-so
 
 ## Introduction
 
-For [Westmorland]({{ 'what-really-happened-in-westmorland/' | relative_url }}) UFO research, the key question is not simply “was it in Cumbria?” but “was it in historic Westmorland?” Modern Cumbria was created in 1974 by combining Cumberland, Westmorland and parts of Lancashire and the West Riding of Yorkshire, and it was replaced in 2023 by Cumberland Council and Westmorland and Furness Council. That means a “Cumbria UFO” report may be a true Westmorland case, a neighbouring Cumberland case, a Furness/Lancashire case, or a Yorkshire-border case now filed under a Cumbrian label. The distinction matters because county-level UFO history can be distorted by administrative shorthand, especially when official logs give only “Cumbria” or a modern town name. The useful approach is to keep historic Westmorland as the centre of gravity while treating wider Cumbria reports as context, not automatic evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-title">County Councils &#124; Cumbria Archives</span><span class="citation-popover-snippet">County Councils &#124; Cumbria Archives</span></span></span>
+For [Westmorland]({{ 'what-really-happened-in-westmorland/' | relative_url }}) UFO research, the key question is not simply “was it in Cumbria?” but “was it in historic Westmorland?” Modern Cumbria was created in 1974 by combining Cumberland, Westmorland and parts of Lancashire and the West Riding of Yorkshire, and it was replaced in 2023 by Cumberland Council and Westmorland and Furness Council. That means a “Cumbria UFO” report may be a true Westmorland case, a neighbouring Cumberland case, a Furness/Lancashire case, or a Yorkshire-border case now filed under a Cumbrian label. The distinction matters because county-level UFO history can be distorted by administrative shorthand, especially when official logs give only “Cumbria” or a modern town name. The useful approach is to keep historic Westmorland as the centre of gravity while treating wider Cumbria reports as context, not automatic evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-title">County Councils &#124; Cumbria Archives</span><span class="citation-popover-snippet">County Councils &#124; Cumbria Archives</span></span></span>
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-overview.webp" | relative_url }}" alt="Overview image for Boundaries" loading="eager" decoding="sync" fetchpriority="high">
 ## Historic Westmorland versus modern Cumbria
 
-Historic Westmorland was a small, mountainous county in north-west England, bordered by Cumberland to the north and west, Lancashire to the south and south-west, and Yorkshire and County Durham to the east. Its familiar UFO-research place names include Kendal, Appleby-in-Westmorland, Kirkby Stephen, Shap, Ambleside, Windermere and parts of the eastern Lake District. Wikishire’s Westmorland entry describes the county as divided between the baronies of Kendal and Westmorland, with wards including Kendal, Lonsdale, East and West, and it places major landscape markers such as Ullswater, Windermere, Helvellyn, Wrynose Pass and the Eden Valley directly in the boundary story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Westmorland</span><span class="citation-popover-snippet">Wikishire Westmorland</span></span></span>
+Historic Westmorland was a small, mountainous county in north-west England, bordered by Cumberland to the north and west, Lancashire to the south and south-west, and Yorkshire and County Durham to the east. Its familiar UFO-research place names include Kendal, Appleby-in-Westmorland, Kirkby Stephen, Shap, Ambleside, Windermere and parts of the eastern Lake District. Wikishire’s Westmorland entry describes the county as divided between the baronies of Kendal and Westmorland, with wards including Kendal, Lonsdale, East and West, and it places major landscape markers such as Ullswater, Windermere, Helvellyn, Wrynose Pass and the Eden Valley directly in the boundary story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Westmorland</span><span class="citation-popover-snippet">Wikishire Westmorland</span></span></span>
 
-Modern Cumbria is different. Cumbria Archives summarises the 1974 change plainly: the Local Government Act 1972 created Cumbria from the former counties of Cumberland and Westmorland and parts of Lancashire and the West Riding of Yorkshire, with Cumbria County Council succeeding Westmorland and Cumberland on 1 April 1974. The same archive page records the next reorganisation, when Cumbria County Council and the six district councils were replaced on 1 April 2023 by Cumberland Council and Westmorland and Furness Council. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-title">County Councils &#124; Cumbria Archives</span><span class="citation-popover-snippet">County Councils &#124; Cumbria Archives</span></span></span>
+Modern Cumbria is different. Cumbria Archives summarises the 1974 change plainly: the Local Government Act 1972 created Cumbria from the former counties of Cumberland and Westmorland and parts of Lancashire and the West Riding of Yorkshire, with Cumbria County Council succeeding Westmorland and Cumberland on 1 April 1974. The same archive page records the next reorganisation, when Cumbria County Council and the six district councils were replaced on 1 April 2023 by Cumberland Council and Westmorland and Furness Council.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriaarchives.org.uk">[cumbriaarchives.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriaarchives.org.uk</span><span class="citation-popover-title">County Councils &#124; Cumbria Archives</span><span class="citation-popover-snippet">County Councils &#124; Cumbria Archives</span></span></span>
 
-The 2023 name “Westmorland and Furness” can itself create a new layer of confusion. The council says it covers an area from Alston in the far north-east to Walney Island in the far south-west and includes Barrow, Kendal and Penrith. That modern authority therefore includes places outside historic Westmorland, such as Furness in historic Lancashire and Penrith in historic Cumberland, while also covering core Westmorland places such as Kendal. A report labelled “Westmorland and Furness” is not automatically a report from the old county of Westmorland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmorlandandfurness.gov.uk">[Westmorland and Furness Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmorlandandfurness.gov.uk</span><span class="citation-popover-snippet">Open source on westmorlandandfurness.gov.uk.</span></span></span>
+The 2023 name “Westmorland and Furness” can itself create a new layer of confusion. The council says it covers an area from Alston in the far north-east to Walney Island in the far south-west and includes Barrow, Kendal and Penrith. That modern authority therefore includes places outside historic Westmorland, such as Furness in historic Lancashire and Penrith in historic Cumberland, while also covering core Westmorland places such as Kendal. A report labelled “Westmorland and Furness” is not automatically a report from the old county of Westmorland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmorlandandfurness.gov.uk">[Westmorland and Furness Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmorlandandfurness.gov.uk</span><span class="citation-popover-snippet">Open source on westmorlandandfurness.gov.uk.</span></span></span>
 
-For this project, the best working rule is simple: a sighting counts as Westmorland only when its location falls inside the historic county boundary, not merely because a later source calls it Cumbria or because it sits inside today’s Westmorland and Furness Council area. Wikishire’s interactive county map states that it conforms to the Historic Counties Standard, while Ordnance Survey’s historic-county dataset is based on county boundaries from around 1888 and says historic counties are not updated, so their lifecycle dates do not change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
+For this project, the best working rule is simple: a sighting counts as Westmorland only when its location falls inside the historic county boundary, not merely because a later source calls it Cumbria or because it sits inside today’s Westmorland and Furness Council area. Wikishire’s interactive county map states that it conforms to the Historic Counties Standard, while Ordnance Survey’s historic-county dataset is based on county boundaries from around 1888 and says historic counties are not updated, so their lifecycle dates do not change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-title">Wikishire Great Britain and Ireland</span><span class="citation-popover-snippet">Wikishire Great Britain and Ireland</span></span></span>
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-1-dark.svg" | relative_url }}" alt="Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why county boundaries change the evidence
 
-The boundary issue matters because most UFO sources were not designed for historic-county research. Ministry of Defence tables, police FOI responses, newspaper articles and social-media posts usually sort reports by modern location, police force area, administrative county or the nearest recognisable town. That is practical for public services, but it can blur the evidence when the research question is “what is Westmorland’s UFO history?” GOV.UK’s released MoD UFO reports for 1997 to 2009 are described as UK UFO reports showing dates, times, locations and brief descriptions, not as a historic-county gazetteer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The boundary issue matters because most UFO sources were not designed for historic-county research. Ministry of Defence tables, police FOI responses, newspaper articles and social-media posts usually sort reports by modern location, police force area, administrative county or the nearest recognisable town. That is practical for public services, but it can blur the evidence when the research question is “what is Westmorland’s UFO history?” GOV.UK’s released MoD UFO reports for 1997 to 2009 are described as UK UFO reports showing dates, times, locations and brief descriptions, not as a historic-county gazetteer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-A strong example is the 6 February 2009 MoD entry for “between Mealrigg and Langrigg, Cumbria”. The report describes a clearly defined shiny silvery metallic cylinder with rounded ends, estimated at 50 feet long, with a small protrusion on the upper rear body, making no sound and showing no visible emissions. On its face it is one of the more striking Cumbrian entries because it describes shape, surface, scale and silence rather than just a vague light. Yet Mealrigg and Langrigg lie in the Cumberland side of the wider Cumbrian story, so this is best treated as a neighbouring comparison case rather than a Westmorland sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A strong example is the 6 February 2009 MoD entry for “between Mealrigg and Langrigg, Cumbria”. The report describes a clearly defined shiny silvery metallic cylinder with rounded ends, estimated at 50 feet long, with a small protrusion on the upper rear body, making no sound and showing no visible emissions. On its face it is one of the more striking Cumbrian entries because it describes shape, surface, scale and silence rather than just a vague light. Yet Mealrigg and Langrigg lie in the Cumberland side of the wider Cumbrian story, so this is best treated as a neighbouring comparison case rather than a Westmorland sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-A second example is the 10 March 2009 MoD entry for Barrow-in-Furness. The description says the object was glowing “like hot metal”, made no sound, travelled from north-west to south-east at the speed of a fighter or satellite, and seemed to be flying low. Barrow is now within Westmorland and Furness Council, but historically it belongs to the Furness part of Lancashire rather than Westmorland. A modern council search could pull it towards Westmorland; a historic-county search should not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+A second example is the 10 March 2009 MoD entry for Barrow-in-Furness. The description says the object was glowing “like hot metal”, made no sound, travelled from north-west to south-east at the speed of a fighter or satellite, and seemed to be flying low. Barrow is now within Westmorland and Furness Council, but historically it belongs to the Furness part of Lancashire rather than Westmorland. A modern council search could pull it towards Westmorland; a historic-county search should not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The same problem appears in recent police material. A 2025 Cumbria Constabulary FOI release covered reports made to Cumbria Police from 2010 to March 2025 and disclosed incidents including lights near the M6, alleged cylindrical hovering objects, a large spinning disc with lights, and several reports later framed as possibly drones. The force also explained that it searched incident databases for terms such as “UFO”, “UAP”, “aliens”, “saucer”, “flying object”, “aerial phenomenon” and “spaceship”, and warned that its response included possible drone sightings and should not be used for direct comparison with other forces’ responses. That is useful regional context, but most entries are too geographically broad to place confidently inside historic Westmorland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[Cumbria Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-snippet">Cumbria Police</span></span></span>
+The same problem appears in recent police material. A 2025 Cumbria Constabulary FOI release covered reports made to Cumbria Police from 2010 to March 2025 and disclosed incidents including lights near the M6, alleged cylindrical hovering objects, a large spinning disc with lights, and several reports later framed as possibly drones. The force also explained that it searched incident databases for terms such as “UFO”, “UAP”, “aliens”, “saucer”, “flying object”, “aerial phenomenon” and “spaceship”, and warned that its response included possible drone sightings and should not be used for direct comparison with other forces’ responses. That is useful regional context, but most entries are too geographically broad to place confidently inside historic Westmorland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbria.police.uk">[Cumbria Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbria.police.uk</span><span class="citation-popover-snippet">Cumbria Police</span></span></span>
 
 This is why boundary sorting affects the apparent strength of the evidence. If every Cumbria item is counted, Westmorland looks busier than it really is. If only historic Westmorland locations are counted, the record becomes smaller but cleaner: fewer reports, less drama, and a more honest sense of what is actually tied to Kendal, Windermere, Appleby, Shap, Kirkby Stephen and the Westmorland side of the fells.
 
@@ -296,9 +296,9 @@ A practical classification looks like this:
 
 </div>
 
-The 2024 Cumbria Crack report about strange lights illustrates the mixed-location problem neatly. It reported large bright circular objects spotted low in the sky in Kendal, Windermere and Egremont, and then mentioned images and social-media discussion from other parts of Cumbria. Kendal and Windermere are relevant to Westmorland research; Egremont is not a historic Westmorland location. A county-level UFO page should therefore split the story rather than treating the article as one uniform “Westmorland” event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriacrack.com">[cumbriacrack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriacrack.com</span><span class="citation-popover-title">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span><span class="citation-popover-snippet">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span></span></span>
+The 2024 Cumbria Crack report about strange lights illustrates the mixed-location problem neatly. It reported large bright circular objects spotted low in the sky in Kendal, Windermere and Egremont, and then mentioned images and social-media discussion from other parts of Cumbria. Kendal and Windermere are relevant to Westmorland research; Egremont is not a historic Westmorland location. A county-level UFO page should therefore split the story rather than treating the article as one uniform “Westmorland” event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriacrack.com">[cumbriacrack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriacrack.com</span><span class="citation-popover-title">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span><span class="citation-popover-snippet">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span></span></span>
 
-The same caution applies to aviation or drone speculation. The 2024 article itself asked whether the lights were UFOs or drones and noted contemporary reports of unidentified drones around RAF bases in southern England, but it did not establish a direct link between the Cumbrian lights and military activity. For Westmorland, that means the item is useful as a modern “lights in the sky” example around Kendal and Windermere, but not proof of aircraft, drones, military involvement or an anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriacrack.com">[cumbriacrack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriacrack.com</span><span class="citation-popover-title">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span><span class="citation-popover-snippet">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span></span></span>
+The same caution applies to aviation or drone speculation. The 2024 article itself asked whether the lights were UFOs or drones and noted contemporary reports of unidentified drones around RAF bases in southern England, but it did not establish a direct link between the Cumbrian lights and military activity. For Westmorland, that means the item is useful as a modern “lights in the sky” example around Kendal and Windermere, but not proof of aircraft, drones, military involvement or an anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriacrack.com">[cumbriacrack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriacrack.com</span><span class="citation-popover-title">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span><span class="citation-popover-snippet">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-2-dark.svg" | relative_url }}" alt="Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,11 +306,11 @@ The same caution applies to aviation or drone speculation. The 2024 article itse
 
 Neighbouring cases still matter because witnesses do not see county borders in the sky. A light seen from a Westmorland fell may be over Cumberland, Lancashire, the Irish Sea or a flight path beyond the old shire. Newspapers also serve readerships that cross historic boundaries, and police and MoD records often use administrative regions rather than old counties. The key is to use neighbouring cases as comparison evidence, not as a way to inflate Westmorland’s own record.
 
-The Mealrigg–Langrigg cylinder is the most useful example. It is not a core Westmorland case, but it helps explain what a relatively detailed MoD table entry looks like: date, time, rough location, brief description and no public witness dossier. It also shows what is missing from many released UFO records: named witnesses, photographs, radar data, weather reconstruction, direction of travel, duration, altitude and follow-up analysis. Without those details, even a vivid report remains unresolved rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Mealrigg–Langrigg cylinder is the most useful example. It is not a core Westmorland case, but it helps explain what a relatively detailed MoD table entry looks like: date, time, rough location, brief description and no public witness dossier. It also shows what is missing from many released UFO records: named witnesses, photographs, radar data, weather reconstruction, direction of travel, duration, altitude and follow-up analysis. Without those details, even a vivid report remains unresolved rather than demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The Solway Firth “spaceman” story is another important boundary lesson. It is one of the best-known UFO-adjacent Cumbrian narratives, centred on Jim Templeton’s 1964 photograph at Burgh Marsh near Carlisle. It belongs to the wider UFO folklore of the region, but geographically it is a Cumberland/Solway story rather than a Westmorland one. It can help readers understand why “Cumbria UFO” searches often return famous material that should not be placed under Westmorland without qualification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Solway Firth Spaceman</span><span class="citation-popover-snippet">Solway Firth Spaceman</span></span></span>
+The Solway Firth “spaceman” story is another important boundary lesson. It is one of the best-known UFO-adjacent Cumbrian narratives, centred on Jim Templeton’s 1964 photograph at Burgh Marsh near Carlisle. It belongs to the wider UFO folklore of the region, but geographically it is a Cumberland/Solway story rather than a Westmorland one. It can help readers understand why “Cumbria UFO” searches often return famous material that should not be placed under Westmorland without qualification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Solway Firth Spaceman</span><span class="citation-popover-snippet">Solway Firth Spaceman</span></span></span>
 
-Barrow-in-Furness plays a similar role. A Barrow report may appear in a modern Westmorland and Furness context, and the current council includes Barrow, Kendal and Penrith, but the historic-county reading separates Furness from Westmorland. For a mapped UK historic-counties project, Barrow sightings belong with the Lancashire/Furness strand unless the sighting itself was observed from, or clearly over, historic Westmorland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmorlandandfurness.gov.uk">[Westmorland and Furness Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmorlandandfurness.gov.uk</span><span class="citation-popover-snippet">Open source on westmorlandandfurness.gov.uk.</span></span></span>
+Barrow-in-Furness plays a similar role. A Barrow report may appear in a modern Westmorland and Furness context, and the current council includes Barrow, Kendal and Penrith, but the historic-county reading separates Furness from Westmorland. For a mapped UK historic-counties project, Barrow sightings belong with the Lancashire/Furness strand unless the sighting itself was observed from, or clearly over, historic Westmorland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmorlandandfurness.gov.uk">[Westmorland and Furness Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmorlandandfurness.gov.uk</span><span class="citation-popover-snippet">Open source on westmorlandandfurness.gov.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hCc0OsyMbQk" title="English counties explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hCc0OsyMbQk" target="_blank" rel="noopener noreferrer">English counties explained</a></p><p class="youtube-embed-meta">Channel: Map Men</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hCc0OsyMbQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hCc0OsyMbQk">Open on YouTube</a></p></div></div></div>
@@ -321,9 +321,9 @@ Once the boundary filter is applied, Westmorland’s UFO profile looks modest bu
 
 This smaller profile should not be treated as a failure of the subject. In UFO history, a clean map often matters more than a long list. Westmorland sits beside several stronger “Cumbria” stories, and it shares media markets and sky corridors with Cumberland, Furness, Lancashire and Yorkshire. Sorting those correctly helps readers see when a case genuinely belongs to the county and when it is only nearby, administratively convenient or search-engine adjacent.
 
-The National Archives’ UFO guide also helps keep expectations realistic. It explains that MoD and Air Ministry UFO records include correspondence, policy papers, selected investigations and released files, and it points to some well-documented cases elsewhere in Britain, such as the 1957 RAF West Freugh radar incident in southern Scotland. That comparison is useful precisely because Westmorland lacks a similarly robust official case with radar, defence interest and a surviving investigative paper. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives’ UFO guide also helps keep expectations realistic. It explains that MoD and Air Ministry UFO records include correspondence, policy papers, selected investigations and released files, and it points to some well-documented cases elsewhere in Britain, such as the 1957 RAF West Freugh radar incident in southern Scotland. That comparison is useful precisely because Westmorland lacks a similarly robust official case with radar, defence interest and a surviving investigative paper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The result is a three-tier reading of the Westmorland evidence. First are true Westmorland reports, such as Kendal or Windermere lights when the location is specific enough. Second are neighbouring Cumbria cases, such as Mealrigg–Langrigg, Barrow or Solway, which help with comparison but should be labelled outside the old county. Third are broad regional records, such as police FOI logs, which reveal the kinds of calls being made but often lack the place detail needed for historic-county classification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriacrack.com">[cumbriacrack.com+2Cumbria Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriacrack.com</span><span class="citation-popover-title">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span><span class="citation-popover-snippet">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span></span></span>
+The result is a three-tier reading of the Westmorland evidence. First are true Westmorland reports, such as Kendal or Windermere lights when the location is specific enough. Second are neighbouring Cumbria cases, such as Mealrigg–Langrigg, Barrow or Solway, which help with comparison but should be labelled outside the old county. Third are broad regional records, such as police FOI logs, which reveal the kinds of calls being made but often lack the place detail needed for historic-county classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumbriacrack.com">[cumbriacrack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumbriacrack.com</span><span class="citation-popover-title">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span><span class="citation-popover-snippet">UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-3-dark.svg" | relative_url }}" alt="Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Westmorland_dec0c1_boundaries_cumbria_c_a9ecca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,194 +340,194 @@ The strongest future Westmorland cases would be those with precise location, dat
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which UFO Reports Count as Westmorland?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which UFO Reports Count as Westmorland?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating regional UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating regional UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps readers understand how British UFO reports are catalogued and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how British UFO reports are catalogued and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0-HZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of the Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land">The Lore of the Land</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0-HZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of the Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land">The Lore of the Land</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-        <p class="fr-book-desc">Useful for understanding how local traditions and geography shape unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how local traditions and geography shape unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+by+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Files%3A+The+Inside+Story+of+Real+life+Sightings+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files: The Inside Story of Real-life Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files%3A+The+Inside+Story+of+Real+life+Sightings+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files: The Inside Story of Real-life Sightings">The UFO Files: The Inside Story of Real-life Sightings</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Files%3A+The+Inside+Story+of+Real+life+Sightings+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files: The Inside Story of Real-life Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files%3A+The+Inside+Story+of+Real+life+Sightings+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files: The Inside Story of Real-life Sightings">The UFO Files: The Inside Story of Real-life Sightings</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps readers understand how British UFO reports are catalogued and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files%3A+The+Inside+Story+of+Real+life+Sightings+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how British UFO reports are catalogued and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files%3A+The+Inside+Story+of+Real+life+Sightings+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+the+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of the Land</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+the+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of the Land</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="boundaries-4c0752-which-ufo-reports-count-as-westmorland-westmorland-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The strongest future Westmorland cases would be those with precise location, dat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The strongest future Westmorland cases would be those with precise location, dat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The strongest future Westmorland cases would be those with precise location, dat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The strongest future Westmorland cases would be those with precise location, dat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The strongest future Westmorland cases would be those with precise location, dat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,249 +733,249 @@ The strongest future Westmorland cases would be those with precise location, dat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cumbriaarchives.org.uk  
    Title: County Councils | Cumbria Archives  
-   Link: <a href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils</a>  
+   Link:<a href="https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/catalogues-and-guides/county-councils</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: westmorlandandfurness.gov.uk  
-   Link: <a href="https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes" target="_blank" rel="noopener noreferrer nofollow">https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes</a>  
+   Link:<a href="https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes" target="_blank" rel="noopener noreferrer nofollow">https://www.westmorlandandfurness.gov.uk/your-council/about-council-changes</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cumbria.police.uk  
    Title: Cumbria Police  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cumbriacrack.com  
    Title: UF Os or drones? Strange lights spotted in Cumbria’s skies – cumbriacrack.com  
-   Link: <a href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow">https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/</a>  
+   Link:<a href="https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/" target="_blank" rel="noopener noreferrer nofollow">https://cumbriacrack.com/2024/12/20/ufos-or-drones-strange-lights-spotted-in-cumbrias-skies/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Solway Firth Spaceman  
-   Link: <a href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth_Spaceman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Solway_Firth_Spaceman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solway_Firth_Spaceman</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westmorland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westmorland</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Historic counties of England  
-   Link: <a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Historic_counties_of_England" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historic_counties_of_England</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: celebrating the historic counties of england  
-   Link: <a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england</a>  
+   Link:<a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england/celebrating-the-historic-counties-of-england</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: celebrating the historic counties of england  
-   Link: <a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england</a>  
+   Link:<a href="https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/celebrating-the-historic-counties-of-england</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cumbriaarchives.org.uk  
    Title: about cumbria archives  
-   Link: <a href="https://cumbriaarchives.org.uk/about-cumbria-archives" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/about-cumbria-archives</a>  
+   Link:<a href="https://cumbriaarchives.org.uk/about-cumbria-archives" target="_blank" rel="noopener noreferrer nofollow">https://cumbriaarchives.org.uk/about-cumbria-archives</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13529876" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13529876</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13529876" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13529876</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: Website search results: ufo UFOs · Help with your research  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ordnance-survey/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ordnance-survey/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ordnance-survey/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ordnance-survey/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cumbria.police.uk  
    Title: foi 566 25 ufo alien reports  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-566_25-ufo_alien-reports.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cumbria.police.uk  
    Title: foi 1164 25 paranormal and supernatural activity  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/august/foi-1164_25-paranormal-and-supernatural-activity-.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cumbria.police.uk  
    Title: foi 455 25 paranormal supernatural reports  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/june/foi-455_25-paranormal_supernatural-reports.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cumbria.police.uk  
    Title: Get Paginated Results  
-   Link: <a href="https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=</a>  
+   Link:<a href="https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;fdte=&amp;ic=&amp;icsc=&amp;page=40&amp;q=&amp;tdte=</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cumbria.police.uk  
    Title: foi 123 25 ufo uap sightings 2024  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/march/foi-123_25-ufo--uap-sightings-2024.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cumbria.police.uk  
-   Link: <a href="https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;dt=Environmental+information+regulation&amp;dt=IOPC+recommendation&amp;dt=Misconduct+hearing&amp;dt=Publication+scheme&amp;fdte=&amp;ic=&amp;icsc=&amp;page=50&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;dt=Environmental+information+regulation&amp;dt=IOPC+recommendation&amp;dt=Misconduct+hearing&amp;dt=Publication+scheme&amp;fdte=&amp;ic=&amp;icsc=&amp;page=50&amp;tdte=</a>  
+   Link:<a href="https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;dt=Environmental+information+regulation&amp;dt=IOPC+recommendation&amp;dt=Misconduct+hearing&amp;dt=Publication+scheme&amp;fdte=&amp;ic=&amp;icsc=&amp;page=50&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;dt=Disclosure+log&amp;dt=Environmental+information+regulation&amp;dt=IOPC+recommendation&amp;dt=Misconduct+hearing&amp;dt=Publication+scheme&amp;fdte=&amp;ic=&amp;icsc=&amp;page=50&amp;tdte=</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.org  
    Title: natural13813920132014west djvu.txt  
-   Link: <a href="https://www.archive.org/download/natural13813920132014west/natural13813920132014west_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/download/natural13813920132014west/natural13813920132014west_djvu.txt</a>  
+   Link:<a href="https://www.archive.org/download/natural13813920132014west/natural13813920132014west_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/download/natural13813920132014west/natural13813920132014west_djvu.txt</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: elibrary.cumbria.gov.uk  
    Title: cumbria.gov.uk Cumbria Archives newsletter  
-   Link: <a href="https://elibrary.cumbria.gov.uk/content/internet/542/795/45709162627.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elibrary.cumbria.gov.uk/content/internet/542/795/45709162627.pdf</a>  
+   Link:<a href="https://elibrary.cumbria.gov.uk/content/internet/542/795/45709162627.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elibrary.cumbria.gov.uk/content/internet/542/795/45709162627.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: westmorlandandfurness.gov.uk  
-   Link: <a href="https://www.westmorlandandfurness.gov.uk/libraries-and-archives/archives-centres/archives-centres-westmorland-and-furness" target="_blank" rel="noopener noreferrer nofollow">https://www.westmorlandandfurness.gov.uk/libraries-and-archives/archives-centres/archives-centres-westmorland-and-furness</a>  
+   Link:<a href="https://www.westmorlandandfurness.gov.uk/libraries-and-archives/archives-centres/archives-centres-westmorland-and-furness" target="_blank" rel="noopener noreferrer nofollow">https://www.westmorlandandfurness.gov.uk/libraries-and-archives/archives-centres/archives-centres-westmorland-and-furness</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: data.gov.uk  
    Title: Historic County  
-   Link: <a href="https://www.data.gov.uk/dataset/ad438b8b-44e6-441b-936b-e98358b9bc9c/historic-county1" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/ad438b8b-44e6-441b-936b-e98358b9bc9c/historic-county1</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/ad438b8b-44e6-441b-936b-e98358b9bc9c/historic-county1" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/ad438b8b-44e6-441b-936b-e98358b9bc9c/historic-county1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/case-studies/cumbria-libraries-and-archives-managing-strategic-divergence-between-new-authorities" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/case-studies/cumbria-libraries-and-archives-managing-strategic-divergence-between-new-authorities</a>  
+   Link:<a href="https://www.local.gov.uk/case-studies/cumbria-libraries-and-archives-managing-strategic-divergence-between-new-authorities" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/case-studies/cumbria-libraries-and-archives-managing-strategic-divergence-between-new-authorities</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: yorkshire.guide  
-   Link: <a href="https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain" target="_blank" rel="noopener noreferrer nofollow">https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain</a>  
+   Link:<a href="https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain" target="_blank" rel="noopener noreferrer nofollow">https://yorkshire.guide/content.pl?action=historicyorkshirechangedagain</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Westmorland  
-   Link: <a href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Westmorland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Westmorland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Westmorland</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wikishire.co.uk  
    Title: Wikishire Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cumberland</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cumberland" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cumberland</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wikishire.co.uk  
    Title: Association of British Counties  
-   Link: <a href="https://wikishire.co.uk/wiki/Association_of_British_Counties" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Association_of_British_Counties</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Association_of_British_Counties" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Association_of_British_Counties</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wikishire.co.uk  
    Title: unties of the United Kingdom  
-   Link: <a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Counties_of_the_United_Kingdom</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ordnancesurvey.co.uk  
-   Link: <a href="https://www.ordnancesurvey.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ordnancesurvey.co.uk/</a>  
+   Link:<a href="https://www.ordnancesurvey.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ordnancesurvey.co.uk/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: whatdotheyknow.com  
    Title: Cumbria Constabulary  
-   Link: <a href="https://www.whatdotheyknow.com/body/cumbria_police" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/cumbria_police</a>  
+   Link:<a href="https://www.whatdotheyknow.com/body/cumbria_police" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/cumbria_police</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: isbi.com  
-   Link: <a href="https://www.isbi.com/uk-best-private-schools/cumbria.php" target="_blank" rel="noopener noreferrer nofollow">https://www.isbi.com/uk-best-private-schools/cumbria.php</a>  
+   Link:<a href="https://www.isbi.com/uk-best-private-schools/cumbria.php" target="_blank" rel="noopener noreferrer nofollow">https://www.isbi.com/uk-best-private-schools/cumbria.php</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/photos/our-three-simple-objectives-maps-and-roads-to-include-historiccounties-remove-co/1016464820475616/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: historiccountiestrust.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/Historic_Counties_Standard.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia doc frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qKZyMHqwOKU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/Unidentified Flying Object Filmed Over Haweswater Cumbria UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qKZyMHqwOKU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/Unidentified Flying Object Filmed Over Haweswater Cumbria UK...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3S2MTbDDYc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3S2MTbDDYc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Kill Him? The Strange Death of Zigmund Adamski | Shaun Ryder On UFOs | Episode 4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3S2MTbDDYc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3S2MTbDDYc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Kill Him? The Strange Death of Zigmund Adamski | Shaun Ryder On UFOs | Episode 4...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: UFO/Unidentified Flying Object Filmed Over Haweswater Cumbria UK  
-   Link: <a href="https://www.youtube.com/watch?v=BsV-UBoe_ME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BsV-UBoe_ME</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hot Spot Ullswater Cumbria Lake District, England, Oct 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BsV-UBoe_ME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BsV-UBoe_ME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hot Spot Ullswater Cumbria Lake District, England, Oct 2024...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kYdSCuhVjDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYdSCuhVjDQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Firth Spaceman Photograph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYdSCuhVjDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYdSCuhVjDQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Firth Spaceman Photograph...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bolton%2C_Westmorland_4569" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bolton%2C_Westmorland_4569</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bolton%2C_Westmorland_4569" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bolton%2C_Westmorland_4569</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: ordnancesurvey.co.uk  
-   Link: <a href="https://www.ordnancesurvey.co.uk/products/boundary-line" target="_blank" rel="noopener noreferrer nofollow">https://www.ordnancesurvey.co.uk/products/boundary-line</a>  
+   Link:<a href="https://www.ordnancesurvey.co.uk/products/boundary-line" target="_blank" rel="noopener noreferrer nofollow">https://www.ordnancesurvey.co.uk/products/boundary-line</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: 1066.co.nz  
-   Link: <a href="https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm</a>  
+   Link:<a href="https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.1066.co.nz/Mosaic%20DVD/whoswho/text/Cumberland%5B1%5D.htm</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealCounties/posts/major-upgrade-real-counties-interactive-mapcompare-the-historic-counties-with-co/1323847323232165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/major-upgrade-real-counties-interactive-mapcompare-the-historic-counties-with-co/1323847323232165/</a>  
+   Link:<a href="https://www.facebook.com/RealCounties/posts/major-upgrade-real-counties-interactive-mapcompare-the-historic-counties-with-co/1323847323232165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealCounties/posts/major-upgrade-real-counties-interactive-mapcompare-the-historic-counties-with-co/1323847323232165/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
+   Link:<a href="https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeamishLivingMuseum/posts/if-you-spot-any-ufos-around-beamish-make-sure-to-report-any-sightings-to-our-pol/1243953641105434/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcounties/posts/the-ministry-of-housing-communities-and-local-government-has-issued-guidance-for/2417347698322688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcounties/posts/the-ministry-of-housing-communities-and-local-government-has-issued-guidance-for/2417347698322688/</a>  
+   Link:<a href="https://www.facebook.com/abcounties/posts/the-ministry-of-housing-communities-and-local-government-has-issued-guidance-for/2417347698322688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcounties/posts/the-ministry-of-housing-communities-and-local-government-has-issued-guidance-for/2417347698322688/</a>  

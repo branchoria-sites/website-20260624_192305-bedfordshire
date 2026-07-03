@@ -254,7 +254,7 @@ image: /assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-overview-
 
 ## Introduction
 
-The Falkirk Triangle flap was not a single UFO incident but a reporting wave centred on [Bonnybridge]({{ 'bonnybridge-35279a/' | relative_url }}) and nearby Central Belt communities during the 1990s, especially the 1994–95 period when the area was being described in national coverage as Britain’s leading UFO hotspot. Its importance for [Stirlingshire]({{ 'why-did-stirlingshire-become-a-ufo/' | relative_url }}) UFO history lies in the mechanism: repeated witness claims, local investigators, press attention, council-level campaigning and tourism talk all reinforced one another until Bonnybridge became a place where unusual lights were more likely to be noticed, reported and retold. Bonnybridge sits in historic Stirlingshire, although it is now within Falkirk Council, which is why it belongs in a Stirlingshire-centred county account rather than only a modern Falkirk one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The Falkirk Triangle flap was not a single UFO incident but a reporting wave centred on [Bonnybridge]({{ 'bonnybridge-35279a/' | relative_url }}) and nearby Central Belt communities during the 1990s, especially the 1994–95 period when the area was being described in national coverage as Britain’s leading UFO hotspot. Its importance for [Stirlingshire]({{ 'why-did-stirlingshire-become-a-ufo/' | relative_url }}) UFO history lies in the mechanism: repeated witness claims, local investigators, press attention, council-level campaigning and tourism talk all reinforced one another until Bonnybridge became a place where unusual lights were more likely to be noticed, reported and retold. Bonnybridge sits in historic Stirlingshire, although it is now within Falkirk Council, which is why it belongs in a Stirlingshire-centred county account rather than only a modern Falkirk one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-overview.webp" | relative_url }}" alt="Overview image for Flap Years" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,19 +262,19 @@ The best evidence shows that reports were genuinely made and sometimes logged by
 
 ## The early 1990s timeline
 
-The common starting point in later accounts is 1992, when James Walker was reported to have seen a star-shaped or shiny object near Bonnybridge. Time’s profile of global UFO hotspots says that other sightings followed and that, by 1993, local government had held a meeting about the trend without reaching a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
+The common starting point in later accounts is 1992, when James Walker was reported to have seen a star-shaped or shiny object near Bonnybridge. Time’s profile of global UFO hotspots says that other sightings followed and that, by 1993, local government had held a meeting about the trend without reaching a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
 
-That early timeline matters because it places the Falkirk Triangle in the broader 1990s UFO culture rather than in an older local legend. The first wave coincided with a period when UK newspapers and television were especially receptive to UFO stories, and when a repeated local claim could quickly become a regional identity. By 1994–95, the Ministry of Defence’s National Archives release notes were describing Bonnybridge as a small town in southern Scotland that had been featured in the national press as Britain’s UFO hotspot. The same National Archives transcript records the claim that more than 3,000 separate reports had been made, and notes that a local councillor wrote to Prime Minister John Major asking for an inquiry and later tried to twin the town with Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+That early timeline matters because it places the Falkirk Triangle in the broader 1990s UFO culture rather than in an older local legend. The first wave coincided with a period when UK newspapers and television were especially receptive to UFO stories, and when a repeated local claim could quickly become a regional identity. By 1994–95, the Ministry of Defence’s National Archives release notes were describing Bonnybridge as a small town in southern Scotland that had been featured in the national press as Britain’s UFO hotspot. The same National Archives transcript records the claim that more than 3,000 separate reports had been made, and notes that a local councillor wrote to Prime Minister John Major asking for an inquiry and later tried to twin the town with Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 The strongest reading is therefore not “one famous sighting happened in Bonnybridge”. It is “Bonnybridge became the focus of a flap”. In UFO history, a flap is a concentrated period of reports, often fed by local attention and media coverage. The Falkirk Triangle fits that pattern closely: the number of stories, not the evidential strength of any one case, created the reputation.
 
 A rough outline of the flap years looks like this:
 
-* **1992:** later accounts identify James Walker’s report as the first widely repeated modern Bonnybridge sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
-* **1993:** local concern and curiosity had grown enough for a council-level discussion of the trend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
-* **January 1994:** VHS footage of an object near Bonnybridge was sent for RAF Brampton assessment; analysts could not determine whether it was real or a hoax and suggested a kite or video effects as possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
-* **1994–95:** Bonnybridge was being treated in national press coverage as Britain’s UFO hotspot, and local campaigning for an inquiry reached Westminster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
-* **Late 1990s and 2000s:** official reporting did not stop, but the surviving MoD lists show brief, uneven entries rather than a sustained investigative breakthrough. A 1999 MoD report logs a Falkirk sighting of “one dozen objects” with coloured lights, and a Bonnybridge entry describing a large, bright, star-shaped object low in the sky and hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+* **1992:** later accounts identify James Walker’s report as the first widely repeated modern Bonnybridge sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
+* **1993:** local concern and curiosity had grown enough for a council-level discussion of the trend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Bonnybridge, Scotland</span><span class="citation-popover-snippet">Bonnybridge, Scotland</span></span></span>
+* **January 1994:** VHS footage of an object near Bonnybridge was sent for RAF Brampton assessment; analysts could not determine whether it was real or a hoax and suggested a kite or video effects as possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+* **1994–95:** Bonnybridge was being treated in national press coverage as Britain’s UFO hotspot, and local campaigning for an inquiry reached Westminster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+* **Late 1990s and 2000s:** official reporting did not stop, but the surviving MoD lists show brief, uneven entries rather than a sustained investigative breakthrough. A 1999 MoD report logs a Falkirk sighting of “one dozen objects” with coloured lights, and a Bonnybridge entry describing a large, bright, star-shaped object low in the sky and hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-Illustration-1-dark.svg" | relative_url }}" alt="Flap Years illustration 1" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -282,13 +282,13 @@ A rough outline of the flap years looks like this:
 
 The Falkirk Triangle story gained force because the witnesses were not presented only as isolated enthusiasts. Press and campaign accounts repeatedly framed them as ordinary local people who had seen something puzzling on roads, near homes or over familiar landmarks. That helped the story travel. A mystery above a remote moor is one kind of tale; a mystery above a village street, a commuter road or a residential skyline is much easier for local readers to imagine.
 
-The reports themselves were varied. Some described star-like objects, bright hovering lights, coloured lights, triangular or disc-like forms, and unusual movement. The official MoD lists show how thin such evidence often becomes when reduced to log format. The 29 May 1999 Bonnybridge entry, for example, records only a “very large, bright, star shaped object” that was low in the sky and hovering. It confirms a report was made, but it gives no full witness interview, no direction of travel, no weather conditions, no astronomy check, no aircraft track and no independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The reports themselves were varied. Some described star-like objects, bright hovering lights, coloured lights, triangular or disc-like forms, and unusual movement. The official MoD lists show how thin such evidence often becomes when reduced to log format. The 29 May 1999 Bonnybridge entry, for example, records only a “very large, bright, star shaped object” that was low in the sky and hovering. It confirms a report was made, but it gives no full witness interview, no direction of travel, no weather conditions, no astronomy check, no aircraft track and no independent corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 That is the central tension of the flap. Local witnesses and campaigners treated the volume of reports as meaningful. Sceptics and official bodies tended to treat each report as a weak individual observation unless it came with stronger supporting evidence. Both positions explain part of the historical record. The wave was socially real: people reported things, investigators collected accounts, and councillor Billy Buchanan pressed governments for answers. But the reports were usually not evidentially complete enough to settle what was seen.
 
-Buchanan’s role is especially important to the reporting pattern. The National Archives highlights guide notes that a local councillor wrote to John Major asking for an inquiry and tried to twin Bonnybridge with Roswell, while later media coverage continued to associate him with calls for official disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> His campaigning made the flap political as well as paranormal. It gave newspapers a recognisable local figure, gave residents a route for reporting concern, and gave the story a civic hook: should Westminster or the Scottish authorities take the claims seriously?
+Buchanan’s role is especially important to the reporting pattern. The National Archives highlights guide notes that a local councillor wrote to John Major asking for an inquiry and tried to twin Bonnybridge with Roswell, while later media coverage continued to associate him with calls for official disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> His campaigning made the flap political as well as paranormal. It gave newspapers a recognisable local figure, gave residents a route for reporting concern, and gave the story a civic hook: should Westminster or the Scottish authorities take the claims seriously?
 
-Local investigators also shaped the flow of reports. Glasgow University researcher Gavin Miller’s “UFO practice in Scotland” project describes the Bonnybridge Triangle’s heyday as full of human activity: local investigator groups recorded sightings and watched the skies, the press and television interviewed witnesses and experts, hotels offered UFO breaks, public lectures were held, and proposals were made for a UFO tourist centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span></span></span> That pattern helps explain why the flap lasted. It was not only a series of sightings; it became a local reporting infrastructure.
+Local investigators also shaped the flow of reports. Glasgow University researcher Gavin Miller’s “UFO practice in Scotland” project describes the Bonnybridge Triangle’s heyday as full of human activity: local investigator groups recorded sightings and watched the skies, the press and television interviewed witnesses and experts, hotels offered UFO breaks, public lectures were held, and proposals were made for a UFO tourist centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span></span></span> That pattern helps explain why the flap lasted. It was not only a series of sightings; it became a local reporting infrastructure.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_X_lXPQWZn8" title="3,000 UFO Reports &amp; No Official Answers in The Falkirk Triangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer">3,000 UFO Reports &amp; No Official Answers in The Falkirk Triangle</a></p><p class="youtube-embed-meta">Channel: Motech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_X_lXPQWZn8">Open on YouTube</a></p></div></div></div>
@@ -297,21 +297,21 @@ Local investigators also shaped the flow of reports. Glasgow University research
 
 Media coverage did not simply report the Falkirk Triangle flap. It helped define it. Once Bonnybridge had been labelled a hotspot, later sightings were more likely to be understood through that label. A strange light over the area could become “another Bonnybridge UFO” rather than an isolated uncertain observation.
 
-The press also found a ready-made contrast: a modest Central Belt village with an extraordinary global-sounding reputation. This gave the story humour, novelty and identity. The University of Glasgow-linked Bonnybridge Triangle project notes that national and local press and television came to the area, that tabloid newspapers treated the subject light-heartedly, and that broadsheet journalists could dismiss it as “the Nineties equivalent of Nessie”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span></span></span> That contrast is a major part of the Falkirk Triangle’s public life. The same reports could be framed as a mystery, a joke, a tourism opportunity, a civic embarrassment or a demand for government transparency.
+The press also found a ready-made contrast: a modest Central Belt village with an extraordinary global-sounding reputation. This gave the story humour, novelty and identity. The University of Glasgow-linked Bonnybridge Triangle project notes that national and local press and television came to the area, that tabloid newspapers treated the subject light-heartedly, and that broadsheet journalists could dismiss it as “the Nineties equivalent of Nessie”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland</span></span></span> That contrast is a major part of the Falkirk Triangle’s public life. The same reports could be framed as a mystery, a joke, a tourism opportunity, a civic embarrassment or a demand for government transparency.
 
-The tourism angle intensified the feedback loop. Miller’s account of UFO weekend breaks at the Comfort Inn in Falkirk describes paid weekend packages with lectures, guided visits to local UFO-spotting sites and entertainment; he also notes that such activity prompted media inquiries from the UK and abroad. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/wish-ufo-were-here/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Wish UFO were here? – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Wish UFO were here? – UFO practice in Scotland</span></span></span> This does not prove the sightings were fabricated. It shows how quickly a reporting wave can become an economic and cultural event. Once visitors, journalists and investigators arrive expecting a UFO hotspot, the place itself becomes part of the story.
+The tourism angle intensified the feedback loop. Miller’s account of UFO weekend breaks at the Comfort Inn in Falkirk describes paid weekend packages with lectures, guided visits to local UFO-spotting sites and entertainment; he also notes that such activity prompted media inquiries from the UK and abroad.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/wish-ufo-were-here/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Wish UFO were here? – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Wish UFO were here? – UFO practice in Scotland</span></span></span> This does not prove the sightings were fabricated. It shows how quickly a reporting wave can become an economic and cultural event. Once visitors, journalists and investigators arrive expecting a UFO hotspot, the place itself becomes part of the story.
 
-A striking example is the 9 October 1995 “Cosmic Agenda” lecture at Falkirk Town Hall. Miller’s project notes that around 700 people paid £2 each to attend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/author/gmiller/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Gavin Miller – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Gavin Miller – UFO practice in Scotland</span></span></span> That audience size suggests the flap had moved beyond a handful of witnesses. It had become a public event in which residents, believers, sceptics, reporters and the curious could all take part.
+A striking example is the 9 October 1995 “Cosmic Agenda” lecture at Falkirk Town Hall. Miller’s project notes that around 700 people paid £2 each to attend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.ac.uk/author/gmiller/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.ac.uk">[UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.ac.uk</span><span class="citation-popover-title">UFOs Gavin Miller – UFO practice in Scotland</span><span class="citation-popover-snippet">UFOs Gavin Miller – UFO practice in Scotland</span></span></span> That audience size suggests the flap had moved beyond a handful of witnesses. It had become a public event in which residents, believers, sceptics, reporters and the curious could all take part.
 
 
 <img src="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-Illustration-2-dark.svg" | relative_url }}" alt="Flap Years illustration 2" data-theme-src-dark="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stirlingshire_47078a_falkirk_triangle_fla_42fa64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official records add, and what they do not
 
-Official records are useful because they stop the Falkirk Triangle from being dismissed as pure folklore. The Ministry of Defence and National Archives material shows that Bonnybridge-related material entered official channels, including press files, parliamentary and ministerial correspondence, sighting reports, and at least one technical look at video footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Official records are useful because they stop the Falkirk Triangle from being dismissed as pure folklore. The Ministry of Defence and National Archives material shows that Bonnybridge-related material entered official channels, including press files, parliamentary and ministerial correspondence, sighting reports, and at least one technical look at video footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-But those records also weaken overconfident claims. The January 1994 video is a good example. It was interesting enough to be sent to RAF Brampton, but the conclusion was not that it showed an unknown craft. The assessment said it could not be determined whether the object was real or a hoax, and that a kite or video studio effects were possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> In other words, official attention did not equal official confirmation.
+But those records also weaken overconfident claims. The January 1994 video is a good example. It was interesting enough to be sent to RAF Brampton, but the conclusion was not that it showed an unknown craft. The assessment said it could not be determined whether the object was real or a hoax, and that a kite or video studio effects were possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> In other words, official attention did not equal official confirmation.
 
-The MoD’s later public report lists have the same double character. They preserve entries from Falkirk, Bonnybridge and the wider Scottish area, but often in extremely compressed form. The 1999 Falkirk entry describes “one dozen objects” with red, green, blue and white colours, stationary and revolving; the Bonnybridge entry later that year describes a bright, star-shaped object low in the sky and hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 2003 list includes a Bonnybridge entry that merely says a sighting was reported, with no description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The MoD’s later public report lists have the same double character. They preserve entries from Falkirk, Bonnybridge and the wider Scottish area, but often in extremely compressed form. The 1999 Falkirk entry describes “one dozen objects” with red, green, blue and white colours, stationary and revolving; the Bonnybridge entry later that year describes a bright, star-shaped object low in the sky and hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 2003 list includes a Bonnybridge entry that merely says a sighting was reported, with no description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 For readers, this is the key evidential lesson: official logs show that people reported sightings, not that the sightings were unexplained after full investigation. A useful record would ideally contain witness position, viewing direction, duration, elevation, weather, astronomical checks, aviation checks, radar data and follow-up interviews. The Falkirk Triangle record usually does not give that level of detail.
 
@@ -322,7 +322,7 @@ For readers, this is the key evidential lesson: official logs show that people r
 
 Bonnybridge’s position helped the story work. It lies in the Central Belt, close to Falkirk, Cumbernauld, Stirling routes, industrial settlements, roads, rail corridors and familiar night skies crossed by aircraft and other lights. It is not a remote wilderness. It is a lived-in place where many people could see the sky from streets, cars, homes and open ground, and where an unusual report could spread quickly through local networks.
 
-Historic geography also matters. Bonnybridge is a village in Stirlingshire in the historic-county sense, while administratively it sits within Falkirk Council. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> That dual identity helped the story circulate under different labels: Bonnybridge, Falkirk, Stirlingshire, Central Scotland and the “Falkirk Triangle”. Each label widened the possible audience. Local residents could recognise the specific place, while national media could package it as Scotland’s answer to Roswell or a British UFO hotspot.
+Historic geography also matters. Bonnybridge is a village in Stirlingshire in the historic-county sense, while administratively it sits within Falkirk Council.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span> That dual identity helped the story circulate under different labels: Bonnybridge, Falkirk, Stirlingshire, Central Scotland and the “Falkirk Triangle”. Each label widened the possible audience. Local residents could recognise the specific place, while national media could package it as Scotland’s answer to Roswell or a British UFO hotspot.
 
 Several mechanisms probably reinforced the cluster:
 
@@ -334,7 +334,7 @@ Several mechanisms probably reinforced the cluster:
 
 **Tourism talk kept the story alive.** UFO breaks, public lectures and visitor-centre proposals gave the press new angles even when no single sighting had advanced the evidence.
 
-**Ambiguous sky phenomena supplied raw material.** Bright planets, aircraft lights, satellites, meteors, searchlights, balloons, lanterns and optical effects can all produce honest reports of puzzling lights. The National Archives’ 2011 UFO release, for example, notes that formations of orange lights in 2006 were “almost certainly” Chinese lanterns in many cases, illustrating how a once-mysterious sighting type can later become easier to explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+**Ambiguous sky phenomena supplied raw material.** Bright planets, aircraft lights, satellites, meteors, searchlights, balloons, lanterns and optical effects can all produce honest reports of puzzling lights. The National Archives’ 2011 UFO release, for example, notes that formations of orange lights in 2006 were “almost certainly” Chinese lanterns in many cases, illustrating how a once-mysterious sighting type can later become easier to explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 This does not mean every Falkirk Triangle report has been explained. It means the flap can be understood without assuming one cause. A reporting wave can be made of many different observations, social incentives and retellings.
 
@@ -344,9 +344,9 @@ This does not mean every Falkirk Triangle report has been explained. It means th
 
 Later reporting strengthened the case that Bonnybridge became a genuine UFO-reporting hotspot. It did not greatly strengthen the case that the reports represented one coherent unknown phenomenon. The more records and retellings are gathered, the clearer the social pattern becomes: repeated sightings, local campaigners, press interest, official correspondence, tourism proposals and continuing folklore. The physical-evidence pattern remains much weaker.
 
-The later MoD entries show continuity but not resolution. A report in 1999 from Bonnybridge and a sparse 2003 Bonnybridge entry demonstrate that sightings continued to be logged after the first media surge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Yet the entries are too brief to test properly. In that sense, later official material preserves the existence of the flap but often weakens dramatic claims by showing how little investigative detail survived.
+The later MoD entries show continuity but not resolution. A report in 1999 from Bonnybridge and a sparse 2003 Bonnybridge entry demonstrate that sightings continued to be logged after the first media surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> Yet the entries are too brief to test properly. In that sense, later official material preserves the existence of the flap but often weakens dramatic claims by showing how little investigative detail survived.
 
-Recent public attention has also tended to revive the legend rather than solve it. In 2026, the Scottish Sun reported that Ron Halliday and Malcolm Robinson were examining thousands of Bonnybridge-related reports and calling for government files to be released; Robinson was quoted as saying that most cases usually have rational explanations such as aircraft, satellites or shooting stars, while a small remainder remains unexplained to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Calls for UK Government to release Scots X-Files</span><span class="citation-popover-snippet">The Scottish Sun Calls for UK Government to release Scots X-Files</span></span></span> That is a useful modern summary of the problem. Even committed investigators often separate the bulk of reports from the small residue they consider harder to explain.
+Recent public attention has also tended to revive the legend rather than solve it. In 2026, the Scottish Sun reported that Ron Halliday and Malcolm Robinson were examining thousands of Bonnybridge-related reports and calling for government files to be released; Robinson was quoted as saying that most cases usually have rational explanations such as aircraft, satellites or shooting stars, while a small remainder remains unexplained to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-title">The Scottish Sun Calls for UK Government to release Scots X-Files</span><span class="citation-popover-snippet">The Scottish Sun Calls for UK Government to release Scots X-Files</span></span></span> That is a useful modern summary of the problem. Even committed investigators often separate the bulk of reports from the small residue they consider harder to explain.
 
 For a balanced Stirlingshire account, the Falkirk Triangle is therefore best treated as a case family rather than a solved mystery. Its significance lies in how a place became a UFO hotspot: a few early reports, a surge of local and national attention, campaigners pressing officials, brief MoD records, and a community identity that outlasted the strongest flap years. The story matters not because it proves visitors from elsewhere, but because it shows how sightings, records and local reputation can combine into one of Scotland’s most durable UFO narratives.
 
@@ -355,194 +355,194 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Drove the Falkirk Triangle UFO Flap?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Drove the Falkirk Triangle UFO Flap?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for interpreting flap-era reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting flap-era reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains how major sighting waves are documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how major sighting waves are documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Strong fit for British UFO flaps and official reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for British UFO flaps and official reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explores witness claims and unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness claims and unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="flap-years-what-drove-the-falkirk-triangle-ufo-flap-stirlingshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-drove-the-falkirk-triangle-ufo-flap-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,189 +748,189 @@ For a balanced Stirlingshire account, the Falkirk Triangle is therefore best tre
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: content.time.com  
    Title: Bonnybridge, Scotland  
-   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072500%2C00.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75c656e5274a545822e1ea/UFOReports2003WholeoftheUK.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: coins.falkirk.gov.uk  
    Title: view Selected Document.asp  
-   Link: <a href="https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDl~" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDl~</a>  
+   Link:<a href="https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDl~" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDf%EF%BF%BDl~</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: coins.falkirk.gov.uk  
    Title: view Selected Document.asp  
-   Link: <a href="https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDk~%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDk~%EF%BF%BD</a>  
+   Link:<a href="https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDk~%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDk~%EF%BF%BD</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: coins.falkirk.gov.uk  
    Title: falkirk.gov.ukagenda item 1  
-   Link: <a href="https://coins.falkirk.gov.uk/viewSelectedPack.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDm%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedPack.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDm%EF%BF%BD</a>  
+   Link:<a href="https://coins.falkirk.gov.uk/viewSelectedPack.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDm%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedPack.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDm%EF%BF%BD</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: coins.falkirk.gov.uk  
    Title: view Selected Document.asp  
-   Link: <a href="https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDi%EF%BF%BD%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDi%EF%BF%BD%EF%BF%BD</a>  
+   Link:<a href="https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDi%EF%BF%BD%EF%BF%BD" target="_blank" rel="noopener noreferrer nofollow">https://coins.falkirk.gov.uk/viewSelectedDocument.asp?c=e%EF%BF%BD%EF%BF%BDb%EF%BF%BDi%EF%BF%BD%EF%BF%BD</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: falkirk.gov.uk  
-   Link: <a href="https://www.falkirk.gov.uk/media/e6113c7c-4cd4-4be0-aea8-45eabfb32192" target="_blank" rel="noopener noreferrer nofollow">https://www.falkirk.gov.uk/media/e6113c7c-4cd4-4be0-aea8-45eabfb32192</a>  
+   Link:<a href="https://www.falkirk.gov.uk/media/e6113c7c-4cd4-4be0-aea8-45eabfb32192" target="_blank" rel="noopener noreferrer nofollow">https://www.falkirk.gov.uk/media/e6113c7c-4cd4-4be0-aea8-45eabfb32192</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: collections.falkirk.gov.uk  
    Title: falkirk.gov.uksubject_place:"Main St/Bonnybridge/Denny area"  
-   Link: <a href="https://collections.falkirk.gov.uk/objects?page=2&amp;query=subject_place%3A%22Main+St%2FBonnybridge%2FDenny+area%22" target="_blank" rel="noopener noreferrer nofollow">https://collections.falkirk.gov.uk/objects?page=2&amp;query=subject_place%3A%22Main+St%2FBonnybridge%2FDenny+area%22</a>  
+   Link:<a href="https://collections.falkirk.gov.uk/objects?page=2&amp;query=subject_place%3A%22Main+St%2FBonnybridge%2FDenny+area%22" target="_blank" rel="noopener noreferrer nofollow">https://collections.falkirk.gov.uk/objects?page=2&amp;query=subject_place%3A%22Main+St%2FBonnybridge%2FDenny+area%22</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: collections.falkirk.gov.uk  
    Title: falkirk.gov.uk Search results  
-   Link: <a href="https://collections.falkirk.gov.uk/objects?query=subject_place%3A%22Bonnybridge+Public+School%2FMain+St%2FBonnybridge%2FDenny+area%22&amp;sort=collection" target="_blank" rel="noopener noreferrer nofollow">https://collections.falkirk.gov.uk/objects?query=subject_place%3A%22Bonnybridge+Public+School%2FMain+St%2FBonnybridge%2FDenny+area%22&amp;sort=collection</a>  
+   Link:<a href="https://collections.falkirk.gov.uk/objects?query=subject_place%3A%22Bonnybridge+Public+School%2FMain+St%2FBonnybridge%2FDenny+area%22&amp;sort=collection" target="_blank" rel="noopener noreferrer nofollow">https://collections.falkirk.gov.uk/objects?query=subject_place%3A%22Bonnybridge+Public+School%2FMain+St%2FBonnybridge%2FDenny+area%22&amp;sort=collection</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789cc7e5274a277e68e155/reqmar11.csv</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c76c9ed915d48c240fe90/10_164a.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: catalogue.nrscotland.gov.uk  
    Title: nrscotland.gov.uk NR S Catalogue  
-   Link: <a href="https://catalogue.nrscotland.gov.uk/nrsonlinecatalogue/place.aspx?code=PL444" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nrscotland.gov.uk/nrsonlinecatalogue/place.aspx?code=PL444</a>  
+   Link:<a href="https://catalogue.nrscotland.gov.uk/nrsonlinecatalogue/place.aspx?code=PL444" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nrscotland.gov.uk/nrsonlinecatalogue/place.aspx?code=PL444</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gov.scot  
-   Link: <a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/falkirk-council-area-map/falkirk-council-area-map/govscot%3Adocument/Falkirk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/falkirk-council-area-map/falkirk-council-area-map/govscot%3Adocument/Falkirk.pdf</a>  
+   Link:<a href="https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/falkirk-council-area-map/falkirk-council-area-map/govscot%3Adocument/Falkirk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/binaries/content/documents/govscot/publications/map/2020/11/local-authority-maps-of-scotland/documents/falkirk-council-area-map/falkirk-council-area-map/govscot%3Adocument/Falkirk.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: content.time.com  
-   Link: <a href="https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/printout/0%2C29239%2C2072479_2072478_2072500%2C00.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Bonnybridge%2C_Stirlingshire_4626</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufos.ac.uk  
    Title: UFOs The Bonnybridge (or Falkirk) Triangle – UFO practice in Scotland  
-   Link: <a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
+   Link:<a href="https://ufos.ac.uk/bonnybridge/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufos.ac.uk  
    Title: UFOs Wish UFO were here? – UFO practice in Scotland  
-   Link: <a href="https://ufos.ac.uk/wish-ufo-were-here/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/wish-ufo-were-here/</a>  
+   Link:<a href="https://ufos.ac.uk/wish-ufo-were-here/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/wish-ufo-were-here/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufos.ac.uk  
    Title: UFOs Gavin Miller – UFO practice in Scotland  
-   Link: <a href="https://ufos.ac.uk/author/gmiller/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/author/gmiller/</a>  
+   Link:<a href="https://ufos.ac.uk/author/gmiller/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/author/gmiller/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thescottishsun.co.uk  
    Title: The Scottish Sun Calls for UK Government to release Scots X-Files  
-   Link: <a href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/</a>  
+   Link:<a href="https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/16383074/uk-government-release-scots-x-files/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480</a>  
+   Link:<a href="https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/High_Bonnybridge%2C_Stirlingshire_21480</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/search?place=Stirlingshire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Stirlingshire&amp;type=em</a>  
+   Link:<a href="https://gazetteer.org.uk/search?place=Stirlingshire&amp;type=em" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/search?place=Stirlingshire&amp;type=em</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufos.ac.uk  
    Title: Bonnybridge and Falkirk Libraries  
-   Link: <a href="https://ufos.ac.uk/bonnybridge-and-falkirk-libraries/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge-and-falkirk-libraries/</a>  
+   Link:<a href="https://ufos.ac.uk/bonnybridge-and-falkirk-libraries/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/bonnybridge-and-falkirk-libraries/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufos.ac.uk  
    Title: Edinburgh Skeptics, and more  
-   Link: <a href="https://ufos.ac.uk/edinburgh-skeptics-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/edinburgh-skeptics-and-more/</a>  
+   Link:<a href="https://ufos.ac.uk/edinburgh-skeptics-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/edinburgh-skeptics-and-more/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bonnybridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnybridge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bonnybridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnybridge</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stirlingshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stirlingshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stirlingshire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thescottishsun.co.uk  
    Title: paranormal investigators public inquiry ufo  
-   Link: <a href="https://www.thescottishsun.co.uk/news/11343081/paranormal-investigators-public-inquiry-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/11343081/paranormal-investigators-public-inquiry-ufo/</a>  
+   Link:<a href="https://www.thescottishsun.co.uk/news/11343081/paranormal-investigators-public-inquiry-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/11343081/paranormal-investigators-public-inquiry-ufo/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: parkdeanresorts.co.uk  
    Title: the falkirk triangle  
-   Link: <a href="https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/</a>  
+   Link:<a href="https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.parkdeanresorts.co.uk/discover-more/places/the-falkirk-triangle/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: 3,000 UFO Reports & No Official Answers in The Falkirk Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_X_lXPQWZn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_X_lXPQWZn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO Hotspot: Bonnybridge Mysteries and Real Time Slip Stories...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: blaze.tv  
-   Link: <a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
+   Link:<a href="https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/ancient-aliens/bonnybridge-ufo-sighting-capital-scotland</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOooBwajyPIUkHGMHRcBXa5K0XhoWNUhvmi-SrKhqje0bi8FbHjuF" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOooBwajyPIUkHGMHRcBXa5K0XhoWNUhvmi-SrKhqje0bi8FbHjuF</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOooBwajyPIUkHGMHRcBXa5K0XhoWNUhvmi-SrKhqje0bi8FbHjuF" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOooBwajyPIUkHGMHRcBXa5K0XhoWNUhvmi-SrKhqje0bi8FbHjuF</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scotclans.com  
-   Link: <a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorDgLj7O1FDwH7JkzQI3mRmdyg8PRx8Y94SX85ek8aqKv7Ouxz0" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorDgLj7O1FDwH7JkzQI3mRmdyg8PRx8Y94SX85ek8aqKv7Ouxz0</a>  
+   Link:<a href="https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorDgLj7O1FDwH7JkzQI3mRmdyg8PRx8Y94SX85ek8aqKv7Ouxz0" target="_blank" rel="noopener noreferrer nofollow">https://www.scotclans.com/pages/bonnybridge-most-ufo-sightings-on-the-planet?srsltid=AfmBOorDgLj7O1FDwH7JkzQI3mRmdyg8PRx8Y94SX85ek8aqKv7Ouxz0</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/</a>  
+   Link:<a href="https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottishbanter1/posts/did-you-know-the-small-town-of-bonnybridge-in-scotland-has-become-the-ufo-capita/1238312517861645/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/capturemovieslive/posts/1215698569804980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/1215698569804980/</a>  
+   Link:<a href="https://www.facebook.com/groups/capturemovieslive/posts/1215698569804980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/1215698569804980/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/falkirklibraries/posts/youll-remember-dr-gavin-miller-gave-a-fascinating-talk-about-the-social-history-/1027710312735030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirklibraries/posts/youll-remember-dr-gavin-miller-gave-a-fascinating-talk-about-the-social-history-/1027710312735030/</a>  
+   Link:<a href="https://www.facebook.com/falkirklibraries/posts/youll-remember-dr-gavin-miller-gave-a-fascinating-talk-about-the-social-history-/1027710312735030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirklibraries/posts/youll-remember-dr-gavin-miller-gave-a-fascinating-talk-about-the-social-history-/1027710312735030/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Scotland/comments/1bnjpc2/has_anyone_actually_managed_to_spot_ufos_in_the/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
+   Link:<a href="https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/falkirkherald/posts/look-out-mulder-and-scully-bonnybridge-councillor-and-investigator-team-up-to-de/1894733035304241/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: falkirkleisureandculture.org  
-   Link: <a href="https://www.falkirkleisureandculture.org/whats-on/looking-back-at-the-bonnybridge-ufo-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.falkirkleisureandculture.org/whats-on/looking-back-at-the-bonnybridge-ufo-triangle/</a>  
+   Link:<a href="https://www.falkirkleisureandculture.org/whats-on/looking-back-at-the-bonnybridge-ufo-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.falkirkleisureandculture.org/whats-on/looking-back-at-the-bonnybridge-ufo-triangle/</a>  

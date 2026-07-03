@@ -248,34 +248,34 @@ image: /assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-overvi
 
 ## Introduction
 
-The Brackley–Towcester sighting matters because it is one of the clearest examples of a [Northamptonshire]({{ 'what-really-happened-over-86c9dc/' | relative_url }}) report entering the Ministry of Defence’s national UFO paperwork without becoming evidence of an extraordinary craft. On 5 June 2000, at 23:00, the official MoD summary logged “three objects” in the Brackley/Towcester area of Northamptonshire, described as larger than a plane, orange, brighter than Venus, and shaped like a rectangle, a square and a hook. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The Brackley–Towcester sighting matters because it is one of the clearest examples of a [Northamptonshire]({{ 'what-really-happened-over-86c9dc/' | relative_url }}) report entering the Ministry of Defence’s national UFO paperwork without becoming evidence of an extraordinary craft. On 5 June 2000, at 23:00, the official MoD summary logged “three objects” in the Brackley/Towcester area of Northamptonshire, described as larger than a plane, orange, brighter than Venus, and shaped like a rectangle, a square and a hook.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-overview.webp" | relative_url }}" alt="Overview image for Brackley Case" loading="eager" decoding="sync" fetchpriority="high">
-That is striking enough to be memorable, but the public record is extremely thin. The available entry gives a date, time, place and brief description; it does not provide witness names, duration, direction of travel, altitude, photographs, radar correlation, air-traffic checks or a final explanation. The case is therefore best read as an intriguing logged report, not as a proven encounter. Its value for Northamptonshire UFO history lies in showing how a vivid local observation could pass into national files while still leaving the central question unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+That is striking enough to be memorable, but the public record is extremely thin. The available entry gives a date, time, place and brief description; it does not provide witness names, duration, direction of travel, altitude, photographs, radar correlation, air-traffic checks or a final explanation. The case is therefore best read as an intriguing logged report, not as a proven encounter. Its value for Northamptonshire UFO history lies in showing how a vivid local observation could pass into national files while still leaving the central question unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
 
 ## What Witnesses Said They Saw
 
-The MoD’s 2000 report places the sighting at 23:00 on 5 June, between or around Brackley and Towcester in Northamptonshire. Brackley and Towcester both sit within historic Northamptonshire, and the area is now covered administratively by West Northamptonshire; for this case, the historic county label and the MoD’s own “Northamptonshire” county entry point in the same direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer+2Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The MoD’s 2000 report places the sighting at 23:00 on 5 June, between or around Brackley and Towcester in Northamptonshire. Brackley and Towcester both sit within historic Northamptonshire, and the area is now covered administratively by West Northamptonshire; for this case, the historic county label and the MoD’s own “Northamptonshire” county entry point in the same direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
-The official summary is short but unusually visual. It says the witness or witnesses reported three objects, each “larger than a plane”, with differing outlines: one rectangular, one square and one hook-shaped. All three were described as orange and brighter than Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The official summary is short but unusually visual. It says the witness or witnesses reported three objects, each “larger than a plane”, with differing outlines: one rectangular, one square and one hook-shaped. All three were described as orange and brighter than Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 That wording gives the case its appeal. Many UFO reports reduce to a vague moving light, but this one combines number, colour, brightness and apparent shape. At the same time, the entry does not tell us how those shapes were judged. A bright object seen at night can appear to have a form because of glare, haze, motion, eyesight, camera artefacts, or nearby reference points. Without duration, angle, movement, weather, horizon position or independent reports, “larger than a plane” remains a witness impression rather than a measured size.
 
-The geography also matters. Brackley is near the southern tip of Northamptonshire and close to Oxfordshire and Buckinghamshire, while Towcester sits to the north-east along the local road corridor. The towns are close enough that a sighting described as “Brackley/Towcester” could refer to a rural sky view between settlements rather than a precisely fixed point. That makes later reconstruction difficult: a few miles’ difference can alter likely sightlines, flight paths, horizon features and possible sources of lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer+2Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The geography also matters. Brackley is near the southern tip of Northamptonshire and close to Oxfordshire and Buckinghamshire, while Towcester sits to the north-east along the local road corridor. The towns are close enough that a sighting described as “Brackley/Towcester” could refer to a rural sky view between settlements rather than a precisely fixed point. That makes later reconstruction difficult: a few miles’ difference can alter likely sightlines, flight paths, horizon features and possible sources of lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-Illustration-1-dark.svg" | relative_url }}" alt="Brackley Case illustration 1" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why It Reached the Official Record
 
-The Brackley–Towcester report appears in the MoD’s published “UFO report 2000”, part of a GOV.UK collection covering UFO reports from 1997 to 2009. The GOV.UK page describes the files as showing dates, times, locations and brief descriptions of sightings rather than full investigative case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The Brackley–Towcester report appears in the MoD’s published “UFO report 2000”, part of a GOV.UK collection covering UFO reports from 1997 to 2009. The GOV.UK page describes the files as showing dates, times, locations and brief descriptions of sightings rather than full investigative case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 That distinction is crucial. An MoD listing means the report was received, logged and preserved in a government reporting system. It does not mean the MoD verified the object, endorsed the witness interpretation, or concluded that the event had no conventional explanation. The Brackley entry is a line in a national register, not a dossier with a chain of evidence.
 
-The broader official context reinforces this caution. A National Archives research guide by David Clarke notes that, contrary to popular belief, the MoD’s interest was not extraterrestrial life but the integrity and security of UK airspace. The same guide quotes MoD material saying officials believed down-to-earth [explanations]({{ 'explanations-0b79e9/' | relative_url }}), such as aircraft lights or natural phenomena, could be found for reports, and that by 2008 the department judged that more than fifty years of reports had not indicated a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAResearch Notes 6</span><span class="citation-popover-snippet">SHURAResearch Notes 6</span></span></span>
+The broader official context reinforces this caution. A National Archives research guide by David Clarke notes that, contrary to popular belief, the MoD’s interest was not extraterrestrial life but the integrity and security of UK airspace. The same guide quotes MoD material saying officials believed down-to-earth [explanations]({{ 'explanations-0b79e9/' | relative_url }}), such as aircraft lights or natural phenomena, could be found for reports, and that by 2008 the department judged that more than fifty years of reports had not indicated a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAResearch Notes 6</span><span class="citation-popover-snippet">SHURAResearch Notes 6</span></span></span>
 
 For Northamptonshire readers, the lesson is not that the county hosted a confirmed unknown craft. It is that local sightings could enter national record-keeping when they reached the official channel. The Brackley–Towcester case is therefore a useful archive marker: it shows that Northamptonshire was represented in the same MoD reporting stream as hundreds of other British sightings, including dramatic reports that later proved mundane and ordinary reports that remained unexplained simply because the evidence was too limited to test.
 
@@ -284,9 +284,9 @@ For Northamptonshire readers, the lesson is not that the county hosted a confirm
 
 ## What the Official Record Does and Does Not Prove
 
-The strongest evidence in the case is the official MoD line itself. It fixes the report to a particular date, time, general location and description. It also shows that the sighting was not merely a later internet retelling or an unsupported local rumour; it appears in a published government file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The strongest evidence in the case is the official MoD line itself. It fixes the report to a particular date, time, general location and description. It also shows that the sighting was not merely a later internet retelling or an unsupported local rumour; it appears in a published government file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-But the same source also shows the limits. The public entry does not identify the observer’s occupation, does not say whether there was one witness or several, and does not record whether the objects moved, hovered, disappeared, changed brightness, made noise or appeared on any instrument. In other entries in the same 2000 report, the MoD sometimes noted when a reporter was a police officer or RAF corporal; the Brackley–Towcester line has no such occupational detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+But the same source also shows the limits. The public entry does not identify the observer’s occupation, does not say whether there was one witness or several, and does not record whether the objects moved, hovered, disappeared, changed brightness, made noise or appeared on any instrument. In other entries in the same 2000 report, the MoD sometimes noted when a reporter was a police officer or RAF corporal; the Brackley–Towcester line has no such occupational detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 That absence weakens any strong claim. A credible witness can still misidentify a light, and an anonymous or undescribed witness may still have seen something real, but without context the reader cannot weigh experience, viewing conditions or reliability. The official record preserves a claim; it does not supply enough information to decide between competing explanations.
 
@@ -298,9 +298,9 @@ The “brighter than Venus” phrase is especially easy to overread. Venus is of
 
 The Brackley–Towcester sighting cannot be confidently solved from the public record, but several ordinary categories are worth considering before treating it as extraordinary.
 
-**Aircraft or aviation lighting.** The area lies in a part of southern Northamptonshire where aviation context is hard to ignore. [RAF Croughton]({{ 'raf-croughton/' | relative_url }}), near Brackley, is a long-established RAF station used by United States forces, and official base material describes it as being in Northamptonshire near Brackley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://installations.militaryonesource.mil/in-depth-overview/raf-croughton-raf-fairford" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: installations.militaryonesource.mil">[MilitaryINSTALLATIONS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">installations.militaryonesource.mil</span><span class="citation-popover-snippet">Open source on militaryonesource.mil.</span></span></span> However, the MoD entry does not mention engine noise, navigation lights, direction of travel or a flight check. The reported rectangular, square and hook-like outlines are not enough on their own to confirm aircraft, but they also do not rule out misperceived aircraft, distant lights, glare or multiple sources.
+**Aircraft or aviation lighting.** The area lies in a part of southern Northamptonshire where aviation context is hard to ignore. [RAF Croughton]({{ 'raf-croughton/' | relative_url }}), near Brackley, is a long-established RAF station used by United States forces, and official base material describes it as being in Northamptonshire near Brackley.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://installations.militaryonesource.mil/in-depth-overview/raf-croughton-raf-fairford" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: installations.militaryonesource.mil">[MilitaryINSTALLATIONS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">installations.militaryonesource.mil</span><span class="citation-popover-snippet">Open source on militaryonesource.mil.</span></span></span> However, the MoD entry does not mention engine noise, navigation lights, direction of travel or a flight check. The reported rectangular, square and hook-like outlines are not enough on their own to confirm aircraft, but they also do not rule out misperceived aircraft, distant lights, glare or multiple sources.
 
-**Lanterns and orange-light clusters.** Chinese lanterns became a major explanation for later British orange-light UFO reports, especially in the late 2000s. National Archives commentary on the final MoD files says many 2008–09 reports involved orange lights, often linked to lanterns released at parties and weddings, and gives a case where soldiers’ reported orange phenomena were later connected to lanterns from a nearby wedding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span> That does not automatically solve a 2000 Northamptonshire sighting: the lantern craze was more prominent later, and the Brackley report describes apparent shapes rather than simple orange balls. Still, “orange, bright, multiple objects at night” is a pattern that later official and sceptical commentary repeatedly treated with caution.
+**Lanterns and orange-light clusters.** Chinese lanterns became a major explanation for later British orange-light UFO reports, especially in the late 2000s. National Archives commentary on the final MoD files says many 2008–09 reports involved orange lights, often linked to lanterns released at parties and weddings, and gives a case where soldiers’ reported orange phenomena were later connected to lanterns from a nearby wedding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO file release video transcript</span><span class="citation-popover-snippet">National Archives UFO file release video transcript</span></span></span> That does not automatically solve a 2000 Northamptonshire sighting: the lantern craze was more prominent later, and the Brackley report describes apparent shapes rather than simple orange balls. Still, “orange, bright, multiple objects at night” is a pattern that later official and sceptical commentary repeatedly treated with caution.
 
 **Astronomical or atmospheric effects.** The report’s comparison with Venus suggests the witness was thinking in sky-brightness terms, but three differently shaped orange objects are not a straightforward match for Venus or ordinary stars. Meteors and fireballs can appear orange and spectacular, yet they usually last seconds and follow a single track; the Brackley entry gives no duration or motion, so it cannot be matched or excluded with confidence. Atmospheric distortion, low cloud, haze or reflections can change the apparent size and shape of lights, but again the record is too brief to test.
 
@@ -317,7 +317,7 @@ The Brackley–Towcester report is not famous because it changed official policy
 
 For Northamptonshire, the case sits between two extremes. It is stronger than an unsupported anecdote because the MoD record exists and gives a specific entry. It is much weaker than a major investigated case because the public documentation stops at a brief summary. That middle ground is where many county-level UFO reports belong.
 
-The case also helps separate “unidentified” from “extraordinary”. In official usage, a UFO report could simply be a sighting the reporter could not identify at the time. The MoD’s broader record-keeping was about airspace and defence relevance, not confirming alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAResearch Notes 6</span><span class="citation-popover-snippet">SHURAResearch Notes 6</span></span></span> Seen that way, Brackley–Towcester is a useful example of an unresolved local observation rather than a hidden conclusion.
+The case also helps separate “unidentified” from “extraordinary”. In official usage, a UFO report could simply be a sighting the reporter could not identify at the time. The MoD’s broader record-keeping was about airspace and defence relevance, not confirming alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAResearch Notes 6</span><span class="citation-popover-snippet">SHURAResearch Notes 6</span></span></span> Seen that way, Brackley–Towcester is a useful example of an unresolved local observation rather than a hidden conclusion.
 
 It also links naturally to wider Northamptonshire patterns. The county’s skies include rural viewing conditions, military and communications associations, and proximity to neighbouring counties where lights can be seen across administrative borders. The Brackley–Towcester line in the 2000 report is therefore a small but concrete anchor for the county’s UFO archive: a vivid claim, officially logged, but not elevated by the surviving evidence into proof of anything beyond an unexplained report.
 
@@ -325,194 +325,194 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
 <img src="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-Illustration-3-dark.svg" | relative_url }}" alt="Brackley Case illustration 3" data-theme-src-dark="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northamptonshire_ad0dee_brackley_towcester_r_f4f42b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Brackley Towcester Reach Mo D Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Brackley Towcester Reach Mo D Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings, classification, witness reports, and distinguishing explainable cases from genuinely puzzling observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings, classification, witness reports, and distinguishing explainable cases from genuinely puzzling observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly connects to UK official investigations and MoD file culture discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to UK official investigations and MoD file culture discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broad, evidence-focused overview that fits a county-level UFO history page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad, evidence-focused overview that fits a county-level UFO history page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veNOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Carl Gustav Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veNOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Carl Gustav Jung</p>
         
-        <p class="fr-book-desc">Explores psychological and cultural factors behind sky-sighting reports and why people interpret unusual observations the way they do.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores psychological and cultural factors behind sky-sighting reports and why people interpret unusual observations the way they do.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="brackley-case-why-did-brackley-towcester-reach-mo-d-files-northamptonshire-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,217 +718,217 @@ It also links naturally to wider Northamptonshire patterns. The county’s skies
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78cd1d40f0b6324769a45e/UFOReport2000.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAResearch Notes 6  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20201111 Redacted reply to 11901 re UFO Reports O  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fdb4f88e90e071beab9d39e/20201111-Redacted_reply_to_11901_re_UFO_Reports-O.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: her.northamptonshire.gov.uk  
-   Link: <a href="https://her.northamptonshire.gov.uk/Monument/MNN3660/" target="_blank" rel="noopener noreferrer nofollow">https://her.northamptonshire.gov.uk/Monument/MNN3660/</a>  
+   Link:<a href="https://her.northamptonshire.gov.uk/Monument/MNN3660/" target="_blank" rel="noopener noreferrer nofollow">https://her.northamptonshire.gov.uk/Monument/MNN3660/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: northants.police.uk  
    Title: foi 10701 25 ufo sightings  
-   Link: <a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
+   Link:<a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/june/foi-10701-25-ufo-sightings/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brackleynorthants-tc.gov.uk  
    Title: 87 timetable brackley northampton  
-   Link: <a href="https://www.brackleynorthants-tc.gov.uk/uploads/content/87-timetable-brackley-northampton.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brackleynorthants-tc.gov.uk/uploads/content/87-timetable-brackley-northampton.pdf</a>  
+   Link:<a href="https://www.brackleynorthants-tc.gov.uk/uploads/content/87-timetable-brackley-northampton.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brackleynorthants-tc.gov.uk/uploads/content/87-timetable-brackley-northampton.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brackleynorthants-tc.gov.uk  
-   Link: <a href="https://www.brackleynorthants-tc.gov.uk/history-of-Brackley/" target="_blank" rel="noopener noreferrer nofollow">https://www.brackleynorthants-tc.gov.uk/history-of-Brackley/</a>  
+   Link:<a href="https://www.brackleynorthants-tc.gov.uk/history-of-Brackley/" target="_blank" rel="noopener noreferrer nofollow">https://www.brackleynorthants-tc.gov.uk/history-of-Brackley/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.sky.com  
    Title: mod releases secret files on ufo sightings 10486718  
-   Link: <a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
+   Link:<a href="https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mod-releases-secret-files-on-ufo-sightings-10486718</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: westnorthants.gov.uk  
    Title: brackley silverstone and towcester bus service improvements  
-   Link: <a href="https://www.westnorthants.gov.uk/news/brackley-silverstone-and-towcester-bus-service-improvements" target="_blank" rel="noopener noreferrer nofollow">https://www.westnorthants.gov.uk/news/brackley-silverstone-and-towcester-bus-service-improvements</a>  
+   Link:<a href="https://www.westnorthants.gov.uk/news/brackley-silverstone-and-towcester-bus-service-improvements" target="_blank" rel="noopener noreferrer nofollow">https://www.westnorthants.gov.uk/news/brackley-silverstone-and-towcester-bus-service-improvements</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Brackley%2C_Northamptonshire_5112</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Towcester%2C_Northamptonshire_45363" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Towcester%2C_Northamptonshire_45363</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Towcester%2C_Northamptonshire_45363" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Towcester%2C_Northamptonshire_45363</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: installations.militaryonesource.mil  
-   Link: <a href="https://installations.militaryonesource.mil/in-depth-overview/raf-croughton-raf-fairford" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-croughton-raf-fairford</a>  
+   Link:<a href="https://installations.militaryonesource.mil/in-depth-overview/raf-croughton-raf-fairford" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/raf-croughton-raf-fairford</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Brackley" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Brackley</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Brackley" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Brackley</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Towcester" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Towcester</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Towcester" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Towcester</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Northamptonshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Northamptonshire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: RAF Croughton  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Croughton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Croughton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Croughton</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Brackley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brackley</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brackley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brackley</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northamptonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northamptonshire</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Towcester" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Towcester</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Towcester" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Towcester</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Northamptonshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Northamptonshire</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: viamichelin.co.uk  
-   Link: <a href="https://www.viamichelin.co.uk/routes/results/brackley-nn13_5-west_northamptonshire-england-united_kingdom-to-towcester-nn12_6-west_northamptonshire-england-united_kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.viamichelin.co.uk/routes/results/brackley-nn13_5-west_northamptonshire-england-united_kingdom-to-towcester-nn12_6-west_northamptonshire-england-united_kingdom</a>  
+   Link:<a href="https://www.viamichelin.co.uk/routes/results/brackley-nn13_5-west_northamptonshire-england-united_kingdom-to-towcester-nn12_6-west_northamptonshire-england-united_kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.viamichelin.co.uk/routes/results/brackley-nn13_5-west_northamptonshire-england-united_kingdom-to-towcester-nn12_6-west_northamptonshire-england-united_kingdom</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: genuki.org.uk  
-   Link: <a href="https://www.genuki.org.uk/big/eng/NTH/Brackley" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/NTH/Brackley</a>  
+   Link:<a href="https://www.genuki.org.uk/big/eng/NTH/Brackley" target="_blank" rel="noopener noreferrer nofollow">https://www.genuki.org.uk/big/eng/NTH/Brackley</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: beta.slowways.org  
-   Link: <a href="https://beta.slowways.org/Settlement/Towcester" target="_blank" rel="noopener noreferrer nofollow">https://beta.slowways.org/Settlement/Towcester</a>  
+   Link:<a href="https://beta.slowways.org/Settlement/Towcester" target="_blank" rel="noopener noreferrer nofollow">https://beta.slowways.org/Settlement/Towcester</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: visitnorthamptonshire.co.uk  
-   Link: <a href="https://visitnorthamptonshire.co.uk/towns/brackley/" target="_blank" rel="noopener noreferrer nofollow">https://visitnorthamptonshire.co.uk/towns/brackley/</a>  
+   Link:<a href="https://visitnorthamptonshire.co.uk/towns/brackley/" target="_blank" rel="noopener noreferrer nofollow">https://visitnorthamptonshire.co.uk/towns/brackley/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: jbarchive.co.uk  
-   Link: <a href="https://jbarchive.co.uk/collections/northamptonshire-old-photos-of-brackley?srsltid=AfmBOooprcPdnGVd5jDaNGh81ywMC3_LSQFnD0_5-4UXIK3jSFn4yVYN" target="_blank" rel="noopener noreferrer nofollow">https://jbarchive.co.uk/collections/northamptonshire-old-photos-of-brackley?srsltid=AfmBOooprcPdnGVd5jDaNGh81ywMC3_LSQFnD0_5-4UXIK3jSFn4yVYN</a>  
+   Link:<a href="https://jbarchive.co.uk/collections/northamptonshire-old-photos-of-brackley?srsltid=AfmBOooprcPdnGVd5jDaNGh81ywMC3_LSQFnD0_5-4UXIK3jSFn4yVYN" target="_blank" rel="noopener noreferrer nofollow">https://jbarchive.co.uk/collections/northamptonshire-old-photos-of-brackley?srsltid=AfmBOooprcPdnGVd5jDaNGh81ywMC3_LSQFnD0_5-4UXIK3jSFn4yVYN</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Northamptonshire</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Northamptonshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Northamptonshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Northamptonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Northamptonshire</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/</a>  
+   Link:<a href="https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBObserver/videos/video-a-mysterious-ufo-has-been-captured-on-video-circling-over-a-remote-country/1419800484733910/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/christmasincambridge/videos/%F0%9D%98%BD%F0%9D%99%8D%F0%9D%99%80%F0%9D%98%BC%F0%9D%99%86%F0%9D%99%84%F0%9D%99%89%F0%9D%99%82-%F0%9D%99%89%F0%9D%99%80%F0%9D%99%92%F0%9D%99%8E-%F0%9D%99%90%F0%9D%99%81%F0%9D%99%8A-%F0%9D%99%A8%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A9%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%99-%F0%9D%99%9B%F0%9D%99%A1%F0%9D%99%AE%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C-%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7-christmasincambridge-/2686452721714880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/christmasincambridge/videos/%F0%9D%98%BD%F0%9D%99%8D%F0%9D%99%80%F0%9D%98%BC%F0%9D%99%86%F0%9D%99%84%F0%9D%99%89%F0%9D%99%82-%F0%9D%99%89%F0%9D%99%80%F0%9D%99%92%F0%9D%99%8E-%F0%9D%99%90%F0%9D%99%81%F0%9D%99%8A-%F0%9D%99%A8%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A9%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%99-%F0%9D%99%9B%F0%9D%99%A1%F0%9D%99%AE%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C-%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7-christmasincambridge-/2686452721714880/</a>  
+   Link:<a href="https://www.facebook.com/christmasincambridge/videos/%F0%9D%98%BD%F0%9D%99%8D%F0%9D%99%80%F0%9D%98%BC%F0%9D%99%86%F0%9D%99%84%F0%9D%99%89%F0%9D%99%82-%F0%9D%99%89%F0%9D%99%80%F0%9D%99%92%F0%9D%99%8E-%F0%9D%99%90%F0%9D%99%81%F0%9D%99%8A-%F0%9D%99%A8%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A9%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%99-%F0%9D%99%9B%F0%9D%99%A1%F0%9D%99%AE%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C-%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7-christmasincambridge-/2686452721714880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/christmasincambridge/videos/%F0%9D%98%BD%F0%9D%99%8D%F0%9D%99%80%F0%9D%98%BC%F0%9D%99%86%F0%9D%99%84%F0%9D%99%89%F0%9D%99%82-%F0%9D%99%89%F0%9D%99%80%F0%9D%99%92%F0%9D%99%8E-%F0%9D%99%90%F0%9D%99%81%F0%9D%99%8A-%F0%9D%99%A8%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A9%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%99-%F0%9D%99%9B%F0%9D%99%A1%F0%9D%99%AE%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C-%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7-christmasincambridge-/2686452721714880/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?id=140296&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=140296&amp;source=osm</a>  
+   Link:<a href="https://mapy.com/en/?id=140296&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=140296&amp;source=osm</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: bartonhall.com  
-   Link: <a href="https://bartonhall.com/brackley-to-towcester-loop-cycle-route-near-barton-hall/" target="_blank" rel="noopener noreferrer nofollow">https://bartonhall.com/brackley-to-towcester-loop-cycle-route-near-barton-hall/</a>  
+   Link:<a href="https://bartonhall.com/brackley-to-towcester-loop-cycle-route-near-barton-hall/" target="_blank" rel="noopener noreferrer nofollow">https://bartonhall.com/brackley-to-towcester-loop-cycle-route-near-barton-hall/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: northants-fhs.org  
-   Link: <a href="https://northants-fhs.org/county-resources/" target="_blank" rel="noopener noreferrer nofollow">https://northants-fhs.org/county-resources/</a>  
+   Link:<a href="https://northants-fhs.org/county-resources/" target="_blank" rel="noopener noreferrer nofollow">https://northants-fhs.org/county-resources/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/northamptonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/northamptonshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/northamptonshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/northamptonshire/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/128512377223461/posts/29243747191939926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/128512377223461/posts/29243747191939926/</a>  
+   Link:<a href="https://www.facebook.com/groups/128512377223461/posts/29243747191939926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/128512377223461/posts/29243747191939926/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: nfuonline.com  
-   Link: <a href="https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/</a>  
+   Link:<a href="https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfuonline.com/news/sky-lanterns-use-our-reporting-form-to-tell-us-what-happened/</a>  

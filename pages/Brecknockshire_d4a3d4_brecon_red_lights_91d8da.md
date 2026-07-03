@@ -248,7 +248,7 @@ image: /assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-overview-so
 
 ## Introduction
 
-The Brecon red-lights case is a small but unusually useful [Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }}) UFO report because it has two parts: a frightening family account from a country road near Brecon, and a visible paper trail in released Ministry of Defence material. On 7 March 1996, a family reportedly saw a circle of bright red lights moving over their car, apparently linked to a larger object with 10 to 20 steady lights arranged like a clock face. The case appears in the Guardian’s extraction of National Archives UFO files, which identifies the relevant MoD file as DEFE 24/1975 and places the key material around page 174. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The Brecon red-lights case is a small but unusually useful [Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }}) UFO report because it has two parts: a frightening family account from a country road near Brecon, and a visible paper trail in released Ministry of Defence material. On 7 March 1996, a family reportedly saw a circle of bright red lights moving over their car, apparently linked to a larger object with 10 to 20 steady lights arranged like a clock face. The case appears in the Guardian’s extraction of National Archives UFO files, which identifies the relevant MoD file as DEFE 24/1975 and places the key material around page 174.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-overview.webp" | relative_url }}" alt="Overview image for Brecon Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ Its value is not that it proves an extraordinary craft crossed the Brecon sky. I
 
 ## What the family reportedly saw
 
-The core report is brief but striking. The family were travelling on a country road near Brecon when they saw what was described as “a circle of bright red lights” moving over their car. The lights were said to be attached to, or part of, a larger object carrying 10 to 20 steady lights in a clock-face pattern. The family were reported as very frightened, which matters because the case is not just a distant-light observation; it was experienced as a close, personal encounter from a moving vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The core report is brief but striking. The family were travelling on a country road near Brecon when they saw what was described as “a circle of bright red lights” moving over their car. The lights were said to be attached to, or part of, a larger object carrying 10 to 20 steady lights in a clock-face pattern. The family were reported as very frightened, which matters because the case is not just a distant-light observation; it was experienced as a close, personal encounter from a moving vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 That said, the surviving public summary leaves several important gaps. It does not give the exact road, the time of night, the weather, the duration of the sighting, the direction of travel, the angular height of the lights, or whether any other independent witnesses came forward. Those details are precisely the sort of information needed to distinguish between an aircraft formation, a misread celestial object, lights on terrain, an advertising or event light source, a hoax, or something genuinely harder to classify.
 
@@ -266,20 +266,20 @@ The visual description is also ambiguous. “Red lights” and a “clock-face�
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-Illustration-1-dark.svg" | relative_url }}" alt="Brecon Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the MoD file frames the case
 
-The Ministry of Defence did not treat public UFO reports as proof of alien visitation. Its historic interest was whether a sighting suggested a defence threat, an airspace issue, or something requiring further official attention. The National Archives research guide explains that MoD UFO report files contain a mixture of letters from the public and reports from official sources such as police, coastguard and the Civil Aviation Authority, often using a standard proforma that asked for date, time, object description, observer position, movement, weather, nearby objects, reporting route and witness information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The Ministry of Defence did not treat public UFO reports as proof of alien visitation. Its historic interest was whether a sighting suggested a defence threat, an airspace issue, or something requiring further official attention. The National Archives research guide explains that MoD UFO report files contain a mixture of letters from the public and reports from official sources such as police, coastguard and the Civil Aviation Authority, often using a standard proforma that asked for date, time, object description, observer position, movement, weather, nearby objects, reporting route and witness information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-That context is crucial for the Brecon case. The fact that a report is in a released MoD file means the account entered the official filing system; it does not mean the MoD verified the object as unusual technology. In the Guardian’s list, the Brecon entry is described as a “newspaper cutting and MoD report”, which suggests the file preserved both media coverage and official handling rather than a full technical investigation with radar, photographs or recovered evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+That context is crucial for the Brecon case. The fact that a report is in a released MoD file means the account entered the official filing system; it does not mean the MoD verified the object as unusual technology. In the Guardian’s list, the Brecon entry is described as a “newspaper cutting and MoD report”, which suggests the file preserved both media coverage and official handling rather than a full technical investigation with radar, photographs or recovered evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-The file reference also places the Brecon report in a broader 1996 batch. The National Archives guide identifies DEFE 24/1974–1976 as UFO sighting report files for 1996, released among the August 2009 files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span> This matters because Brecon was not singled out as a unique national emergency. It was one entry among many reported lights, shapes and close encounters being logged, filed and eventually released.
+The file reference also places the Brecon report in a broader 1996 batch. The National Archives guide identifies DEFE 24/1974–1976 as UFO sighting report files for 1996, released among the August 2009 files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span> This matters because Brecon was not singled out as a unique national emergency. It was one entry among many reported lights, shapes and close encounters being logged, filed and eventually released.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0SfTiXy6QKg" title="The Pentyrch UFO Incident - Full 3D CGI Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer">The Pentyrch UFO Incident - Full 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 600.3K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0SfTiXy6QKg">Open on YouTube</a></p></div></div></div>
 
 ## Why Brecon is the right centre of gravity
 
-For this page, Brecon is being treated within historic Brecknockshire rather than simply as part of modern Powys. That distinction matters in a county-based UFO project because reports are often indexed by town, route, police area, newspaper market or broad landscape name rather than by historic county. Wikishire describes Brecknockshire as an inland county bounded by Radnorshire, Herefordshire, Monmouthshire, Glamorgan, Carmarthenshire and Cardiganshire, while Wikimedia Commons’ historic-county mapping places Brecknockshire among the thirteen historic counties of Wales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+For this page, Brecon is being treated within historic Brecknockshire rather than simply as part of modern Powys. That distinction matters in a county-based UFO project because reports are often indexed by town, route, police area, newspaper market or broad landscape name rather than by historic county. Wikishire describes Brecknockshire as an inland county bounded by Radnorshire, Herefordshire, Monmouthshire, Glamorgan, Carmarthenshire and Cardiganshire, while Wikimedia Commons’ historic-county mapping places Brecknockshire among the thirteen historic counties of Wales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-The Brecon red-lights case belongs here because the named location is Brecon, the county town and natural anchor for Brecknockshire’s UFO record. It also fits the landscape. The wider Bannau Brycheiniog area is now recognised for dark skies: the National Park was granted International Dark Sky Reserve status in 2013, becoming Wales’s first such reserve and only the fifth in the world at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beacons-npa.gov.uk">[Brecon Beacons National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beacons-npa.gov.uk</span><span class="citation-popover-snippet">Open source on beacons-npa.gov.uk.</span></span></span>
+The Brecon red-lights case belongs here because the named location is Brecon, the county town and natural anchor for Brecknockshire’s UFO record. It also fits the landscape. The wider Bannau Brycheiniog area is now recognised for dark skies: the National Park was granted International Dark Sky Reserve status in 2013, becoming Wales’s first such reserve and only the fifth in the world at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beacons-npa.gov.uk">[Brecon Beacons National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beacons-npa.gov.uk</span><span class="citation-popover-snippet">Open source on beacons-npa.gov.uk.</span></span></span>
 
 Dark skies make sightings easier to notice, but they also increase the risk of misinterpretation. Bright planets, aircraft lights, meteors, satellites, hilltop lights and distant moving traffic can appear unusually vivid in rural darkness. That is not a debunking by itself; it is a reminder that Brecknockshire’s best UFO cases need careful attention to position, time, direction and corroboration.
 
@@ -289,7 +289,7 @@ Dark skies make sightings easier to notice, but they also increase the risk of m
 
 The Brecon case has three features that make it more useful than a loose anecdote.
 
-First, it has a specific date: 7 March 1996. Many local UFO stories drift into folklore because the date, witnesses and original source become vague. Here, the date is attached to the National Archives file extraction, allowing the case to be placed in a specific release batch and compared with other 1996 UK reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+First, it has a specific date: 7 March 1996. Many local UFO stories drift into folklore because the date, witnesses and original source become vague. Here, the date is attached to the National Archives file extraction, allowing the case to be placed in a specific release batch and compared with other 1996 UK reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 Second, it involves a family group rather than a single isolated observer. Multiple witnesses in the same car are not the same as independent witnesses in separate locations, but they do reduce the chance that the entire event was a private hallucination or solitary misperception. They may, however, share the same viewing angle, emotional response and environmental limitations.
 
@@ -302,7 +302,7 @@ Third, it has an MoD trail. The released-file context gives the case a documenta
 
 The main weakness is not that the witnesses were frightened. Fright is common in unexpected night-time sightings and can be entirely sincere. The weakness is that the public evidence is thin.
 
-The surviving summary does not mention photographs, video, radar confirmation, air traffic control checks, police corroboration, physical traces, a precise map location, or a named astronomical or aviation check. Without those, the case cannot be pushed very far beyond “reported but unresolved in public summaries”. The MoD proforma system was designed to gather exactly the kind of information that would help assess a sighting, but the widely accessible digest of the Brecon case does not provide enough of those fields to support a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+The surviving summary does not mention photographs, video, radar confirmation, air traffic control checks, police corroboration, physical traces, a precise map location, or a named astronomical or aviation check. Without those, the case cannot be pushed very far beyond “reported but unresolved in public summaries”. The MoD proforma system was designed to gather exactly the kind of information that would help assess a sighting, but the widely accessible digest of the Brecon case does not provide enough of those fields to support a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 The red-light description is also compatible with several ordinary categories. Aircraft lighting can appear as red or steady lights depending on angle and movement. Roadside or hillside lights can seem to move when seen from a moving car. Reflections on a windscreen can create apparently structured patterns. A group of lights can look attached to a dark object when the eye fills in the unlit space between them. None of these explanations is proven for the Brecon case, but each is plausible enough that the report should not be presented as strong evidence of an exotic craft.
 
@@ -310,9 +310,9 @@ The red-light description is also compatible with several ordinary categories. A
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-Illustration-3-dark.svg" | relative_url }}" alt="Brecon Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_brecon_red_lights_91d8da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The MoD trail does not equal MoD endorsement
 
-One common misunderstanding in British UFO history is that “in the MoD files” means “confirmed by the MoD”. The Brecon case is a good example of why that is too strong. The National Archives guide makes clear that the files include public letters, official reports, military signals, newspaper cuttings and correspondence, not only investigated incidents with firm conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+One common misunderstanding in British UFO history is that “in the MoD files” means “confirmed by the MoD”. The Brecon case is a good example of why that is too strong. The National Archives guide makes clear that the files include public letters, official reports, military signals, newspaper cuttings and correspondence, not only investigated incidents with firm conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
-The broader MoD position is also cautious. In a 2024 parliamentary answer, the Ministry of Defence stated that in more than 50 years no sighting reported to the department had indicated a military threat to the United Kingdom, that the MOD ceased investigating UFO or UAP reports in 2009, and that all MOD UFO files created up to 2009 had been released to The National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The broader MoD position is also cautious. In a 2024 parliamentary answer, the Ministry of Defence stated that in more than 50 years no sighting reported to the department had indicated a military threat to the United Kingdom, that the MOD ceased investigating UFO or UAP reports in 2009, and that all MOD UFO files created up to 2009 had been released to The National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
 This does not make the Brecon family’s account meaningless. It means the official trail should be read as evidence of reporting and filing, not as confirmation of the object’s nature. The case is stronger as a record of how a rural Welsh UFO report entered the national bureaucracy than as proof of what was in the sky.
 
@@ -328,194 +328,194 @@ The Brecon red-lights case stands out within Brecknockshire because it combines 
 For readers mapping Brecknockshire’s UFO history, the lesson is simple. The most interesting local cases are not always the most evidentially strong. Sometimes their value lies in showing the pathway from a dark road, a frightened witness report, a local press cutting and a government file to the public archive where later readers can judge the claim for themselves.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Brecon Red Lights Case or Misread Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Brecon Red Lights Case or Misread Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong match for evaluating close-range light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for evaluating close-range light reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the official-file aspect of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the official-file aspect of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines documented sighting reports similar to this case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented sighting reports similar to this case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how dramatic cases enter public discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how dramatic cases enter public discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/c0b9382214a1fab6e164.jpg' | relative_url }}" alt="Listing image for AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">AMSTERDAM NIGHT SKY SQUARE CANVAS WALL ART FLOAT EFFECT/FRAME/POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d078dcf46ee71c446b07.jpg' | relative_url }}" alt="Listing image for Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d078dcf46ee71c446b07.jpg' | relative_url }}" alt="Listing image for Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="brecon-lights-the-brecon-red-lights-case-or-misread-sky-brecknockshire-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ For readers mapping Brecknockshire’s UFO history, the lesson is simple. The mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ For readers mapping Brecknockshire’s UFO history, the lesson is simple. The mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ For readers mapping Brecknockshire’s UFO history, the lesson is simple. The mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ For readers mapping Brecknockshire’s UFO history, the lesson is simple. The mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ For readers mapping Brecknockshire’s UFO history, the lesson is simple. The mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,196 +721,196 @@ For readers mapping Brecknockshire’s UFO history, the lesson is simple. The mo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map Brecknockshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Brecknockshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Brecknockshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Brecknockshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Brecknockshire.svg</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wales.com  
-   Link: <a href="https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales</a>  
+   Link:<a href="https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map.svg</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map Caernarfonshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Caernarfonshire.svg</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales location map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_location_map.svg</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales counties.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_counties.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_counties.png</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_counties.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_counties.png</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: future.bannau.wales  
    Title: wales Dark Skies Board  
-   Link: <a href="https://future.bannau.wales/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/dark-sky/</a>  
+   Link:<a href="https://future.bannau.wales/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/dark-sky/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News | theguardian.com  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Brecknockshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Brecknockshire</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: beacons-npa.gov.uk  
-   Link: <a href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/</a>  
+   Link:<a href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/26/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/26/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/26/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/26/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: uk accession 2017.txt  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/uk-accession-2017.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brecknockshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brecknockshire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wikishire.co.uk  
    Title: Historic Counties Standard  
-   Link: <a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Historic_Counties_Standard" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Historic_Counties_Standard</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/lookup/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/lookup/</a>  
+   Link:<a href="https://wikishire.co.uk/lookup/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/lookup/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: beacons-npa.gov.uk  
    Title: Enclosure 10  
-   Link: <a href="https://www.beacons-npa.gov.uk/wp-content/uploads/Enclosure-10-Cwrt-y-Gollen-Consultation-Responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/Enclosure-10-Cwrt-y-Gollen-Consultation-Responses.pdf</a>  
+   Link:<a href="https://www.beacons-npa.gov.uk/wp-content/uploads/Enclosure-10-Cwrt-y-Gollen-Consultation-Responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.beacons-npa.gov.uk/wp-content/uploads/Enclosure-10-Cwrt-y-Gollen-Consultation-Responses.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
    Title: The Queen s Regulations for the Army 1975  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5d5aaa46e5274a07640aefc7/The_Queen_s_Regulations_for_the_Army_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d5aaa46e5274a07640aefc7/The_Queen_s_Regulations_for_the_Army_1975.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5d5aaa46e5274a07640aefc7/The_Queen_s_Regulations_for_the_Army_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d5aaa46e5274a07640aefc7/The_Queen_s_Regulations_for_the_Army_1975.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: datamap.gov.wales  
    Title: wales Historic County Boundaries of Wales  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Bannau Brycheiniog (Brecon Beacons) Nation Park  
-   Link: <a href="https://www.youtube.com/watch?v=D3sEBpHNVIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3sEBpHNVIw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Family History in Late-Medieval Brecon with Helen Fulton...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D3sEBpHNVIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3sEBpHNVIw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Family History in Late-Medieval Brecon with Helen Fulton...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Pentyrch UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0SfTiXy6QKg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Bannau Brycheiniog (Brecon Beacons) Nation Park - Wales...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0SfTiXy6QKg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Bannau Brycheiniog (Brecon Beacons) Nation Park - Wales...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: rchs.org.uk  
-   Link: <a href="https://rchs.org.uk/wp-content/uploads/2020/02/Bibliography-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rchs.org.uk/wp-content/uploads/2020/02/Bibliography-2000.pdf</a>  
+   Link:<a href="https://rchs.org.uk/wp-content/uploads/2020/02/Bibliography-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rchs.org.uk/wp-content/uploads/2020/02/Bibliography-2000.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Brecknockshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Brecknockshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: callofthewild.co.uk  
-   Link: <a href="https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/</a>  
+   Link:<a href="https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: manchesterhive.com  
-   Link: <a href="https://www.manchesterhive.com/supplemental/9781526180391/9781526180391.xml/9781526180391_fullhl.pdf?t%3Astate%3Aclient=nyDWohkTeoBMvtJEMW5htM1clAA%3D%3AH4sIAAAAAAAAAH2Tv28TMRTHnZTQVomARq06ITHAhHSZkJCYStOKqEeIlIiB7d3dy8Xgs49nX34sCBY6MLDAxsDA2H+FkYENwQwTElIn7EtpSCv3pLPurI+ev+%2F7vj76yWqTS4yxbU3sQFEaQA7xCAMDOWpDszsBlwZJggg00pjHqINdwVGaHpLm2tivfY4i6RtFkGIny8XNA5x9%2Fb39dvXH8WGVrYSsHqssV9KincSwZvgUxtASINNW3xCX6b2QrQ9dkS5k+Jy9YJWQreW22un%2FNDfsdqzkkKcFQSTQfrujHRSpZGb12k01PNnWhm3okZq0cQiFMPuKMjCGbf5fobV7whLbcIICJyi4r5RAkJ9v0MsvH45%2FVVnlCauNQRQ4zZl2WphbVgy74g4YcCMwhAiF2625ZXWJ2oqVEJBr7Cr5ELh9jbWzhEvucmUJb7iiPeejHKrTko3zTL+IjDvbw1x1zJ4sMiQwXEmPuhLbie1Qdcd6oz3YZomNgQtn3NxNH7tedkA2KB5gzQEdHfk0lYPbS7jNEwcxmOW+QvVSVWFGirTHhuails3kRFHik92ICyKbhjbmZjQfz1IuOjYrKVLz+8dPf14d3rW56PzLBbFrC65bZBHS66P31+vvvr2pMmZjY5%2FzHe6Q4bHAOe8TVXqZDEMun%2FmE1+0V4BIMDlTsm3IG0wcIib1pi%2FbccutMVEH2SKVk08DH2OY6FzC7yPy5sz5lZZuPpOASe0XUthIvToT2JWKrDDwSR%2F1YCZvpMxfuL9fnzhHFBAAA" target="_blank" rel="noopener noreferrer nofollow">https://www.manchesterhive.com/supplemental/9781526180391/9781526180391.xml/9781526180391_fullhl.pdf?t%3Astate%3Aclient=nyDWohkTeoBMvtJEMW5htM1clAA%3D%3AH4sIAAAAAAAAAH2Tv28TMRTHnZTQVomARq06ITHAhHSZkJCYStOKqEeIlIiB7d3dy8Xgs49nX34sCBY6MLDAxsDA2H+FkYENwQwTElIn7EtpSCv3pLPurI+ev+%2F7vj76yWqTS4yxbU3sQFEaQA7xCAMDOWpDszsBlwZJggg00pjHqINdwVGaHpLm2tivfY4i6RtFkGIny8XNA5x9%2Fb39dvXH8WGVrYSsHqssV9KincSwZvgUxtASINNW3xCX6b2QrQ9dkS5k+Jy9YJWQreW22un%2FNDfsdqzkkKcFQSTQfrujHRSpZGb12k01PNnWhm3okZq0cQiFMPuKMjCGbf5fobV7whLbcIICJyi4r5RAkJ9v0MsvH45%2FVVnlCauNQRQ4zZl2WphbVgy74g4YcCMwhAiF2625ZXWJ2oqVEJBr7Cr5ELh9jbWzhEvucmUJb7iiPeejHKrTko3zTL+IjDvbw1x1zJ4sMiQwXEmPuhLbie1Qdcd6oz3YZomNgQtn3NxNH7tedkA2KB5gzQEdHfk0lYPbS7jNEwcxmOW+QvVSVWFGirTHhuails3kRFHik92ICyKbhjbmZjQfz1IuOjYrKVLz+8dPf14d3rW56PzLBbFrC65bZBHS66P31+vvvr2pMmZjY5%2FzHe6Q4bHAOe8TVXqZDEMun%2FmE1+0V4BIMDlTsm3IG0wcIib1pi%2FbccutMVEH2SKVk08DH2OY6FzC7yPy5sz5lZZuPpOASe0XUthIvToT2JWKrDDwSR%2F1YCZvpMxfuL9fnzhHFBAAA</a>  
+   Link:<a href="https://www.manchesterhive.com/supplemental/9781526180391/9781526180391.xml/9781526180391_fullhl.pdf?t%3Astate%3Aclient=nyDWohkTeoBMvtJEMW5htM1clAA%3D%3AH4sIAAAAAAAAAH2Tv28TMRTHnZTQVomARq06ITHAhHSZkJCYStOKqEeIlIiB7d3dy8Xgs49nX34sCBY6MLDAxsDA2H+FkYENwQwTElIn7EtpSCv3pLPurI+ev+%2F7vj76yWqTS4yxbU3sQFEaQA7xCAMDOWpDszsBlwZJggg00pjHqINdwVGaHpLm2tivfY4i6RtFkGIny8XNA5x9%2Fb39dvXH8WGVrYSsHqssV9KincSwZvgUxtASINNW3xCX6b2QrQ9dkS5k+Jy9YJWQreW22un%2FNDfsdqzkkKcFQSTQfrujHRSpZGb12k01PNnWhm3okZq0cQiFMPuKMjCGbf5fobV7whLbcIICJyi4r5RAkJ9v0MsvH45%2FVVnlCauNQRQ4zZl2WphbVgy74g4YcCMwhAiF2625ZXWJ2oqVEJBr7Cr5ELh9jbWzhEvucmUJb7iiPeejHKrTko3zTL+IjDvbw1x1zJ4sMiQwXEmPuhLbie1Qdcd6oz3YZomNgQtn3NxNH7tedkA2KB5gzQEdHfk0lYPbS7jNEwcxmOW+QvVSVWFGirTHhuails3kRFHik92ICyKbhjbmZjQfz1IuOjYrKVLz+8dPf14d3rW56PzLBbFrC65bZBHS66P31+vvvr2pMmZjY5%2FzHe6Q4bHAOe8TVXqZDEMun%2FmE1+0V4BIMDlTsm3IG0wcIib1pi%2FbccutMVEH2SKVk08DH2OY6FzC7yPy5sz5lZZuPpOASe0XUthIvToT2JWKrDDwSR%2F1YCZvpMxfuL9fnzhHFBAAA" target="_blank" rel="noopener noreferrer nofollow">https://www.manchesterhive.com/supplemental/9781526180391/9781526180391.xml/9781526180391_fullhl.pdf?t%3Astate%3Aclient=nyDWohkTeoBMvtJEMW5htM1clAA%3D%3AH4sIAAAAAAAAAH2Tv28TMRTHnZTQVomARq06ITHAhHSZkJCYStOKqEeIlIiB7d3dy8Xgs49nX34sCBY6MLDAxsDA2H+FkYENwQwTElIn7EtpSCv3pLPurI+ev+%2F7vj76yWqTS4yxbU3sQFEaQA7xCAMDOWpDszsBlwZJggg00pjHqINdwVGaHpLm2tivfY4i6RtFkGIny8XNA5x9%2Fb39dvXH8WGVrYSsHqssV9KincSwZvgUxtASINNW3xCX6b2QrQ9dkS5k+Jy9YJWQreW22un%2FNDfsdqzkkKcFQSTQfrujHRSpZGb12k01PNnWhm3okZq0cQiFMPuKMjCGbf5fobV7whLbcIICJyi4r5RAkJ9v0MsvH45%2FVVnlCauNQRQ4zZl2WphbVgy74g4YcCMwhAiF2625ZXWJ2oqVEJBr7Cr5ELh9jbWzhEvucmUJb7iiPeejHKrTko3zTL+IjDvbw1x1zJ4sMiQwXEmPuhLbie1Qdcd6oz3YZomNgQtn3NxNH7tedkA2KB5gzQEdHfk0lYPbS7jNEwcxmOW+QvVSVWFGirTHhuails3kRFHik92ICyKbhjbmZjQfz1IuOjYrKVLz+8dPf14d3rW56PzLBbFrC65bZBHS66P31+vvvr2pMmZjY5%2FzHe6Q4bHAOe8TVXqZDEMun%2FmE1+0V4BIMDlTsm3IG0wcIib1pi%2FbccutMVEH2SKVk08DH2OY6FzC7yPy5sz5lZZuPpOASe0XUthIvToT2JWKrDDwSR%2F1YCZvpMxfuL9fnzhHFBAAA</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100063703086121/posts/ferndales-flying-saucers-a-close-encounter-of-the-welsh-kind-when-kwame-a-wide-e/1207244968075595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063703086121/posts/ferndales-flying-saucers-a-close-encounter-of-the-welsh-kind-when-kwame-a-wide-e/1207244968075595/</a>  
+   Link:<a href="https://www.facebook.com/100063703086121/posts/ferndales-flying-saucers-a-close-encounter-of-the-welsh-kind-when-kwame-a-wide-e/1207244968075595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063703086121/posts/ferndales-flying-saucers-a-close-encounter-of-the-welsh-kind-when-kwame-a-wide-e/1207244968075595/</a>  

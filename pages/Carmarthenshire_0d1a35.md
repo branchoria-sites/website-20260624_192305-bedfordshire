@@ -118,9 +118,9 @@ heading_title: What Really Happened Over Carmarthenshire?
 page_heading_title: What Really Happened Over Carmarthenshire?
 source_count: 167
 infographic_count: 3
-page_website_name: Carmarthenshire UFOs
+page_website_name: Carmarthenshire
 page_banner_line: Balanced evidence-led pages on UFO reports across Carmarthenshire.
-site_website_name: Carmarthenshire UFOs
+site_website_name: Carmarthenshire
 site_banner_line: Balanced evidence-led pages on UFO reports across Carmarthenshire.
 site_image_description: A quiet Carmarthenshire coastline at dusk with small orange lights above the sea and dark hills beyond.
 output_language: English
@@ -689,21 +689,21 @@ image: /assets/images/Carmarthenshire_0d1a35-overview-social.jpg
 
 ## Which Carmarthenshire is meant here?
 
-This page treats Carmarthenshire as the historic county of south-west Wales, centred on Carmarthen, Llanelli, the Tywi valley, the Gwendraeth area and the coast around Burry Port and Pembrey. That matters because UFO records often use older county labels such as “Dyfed”, while modern policing and council records follow later administrative geography. Welsh historic county boundary data traces Carmarthen as one of the shires created under the Statute of Rhuddlan in 1284, and the Wikimedia Commons historic-counties mapping identifies Carmarthenshire as one of Wales’s thirteen historic counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[DataMap Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">metadata detail</span><span class="citation-popover-snippet">metadata detail</span></span></span>
+This page treats Carmarthenshire as the historic county of south-west Wales, centred on Carmarthen, Llanelli, the Tywi valley, the Gwendraeth area and the coast around Burry Port and Pembrey. That matters because UFO records often use older county labels such as “Dyfed”, while modern policing and council records follow later administrative geography. Welsh historic county boundary data traces Carmarthen as one of the shires created under the Statute of Rhuddlan in 1284, and the Wikimedia Commons historic-counties mapping identifies Carmarthenshire as one of Wales’s thirteen historic counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamap.gov.wales">[DataMap Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamap.gov.wales</span><span class="citation-popover-title">metadata detail</span><span class="citation-popover-snippet">metadata detail</span></span></span>
 
 
 <img src="{{ "/assets/images/Carmarthenshire_0d1a35-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Carmarthenshire?" loading="eager" decoding="sync" fetchpriority="high">
-The modern investigative geography is different. Dyfed-Powys Police covers Carmarthenshire as part of a much larger police area, while older Ministry of Defence sighting tables often filed local reports under “Dyfed”, the former administrative county that included Carmarthenshire, Pembrokeshire and Cardiganshire/Ceredigion. Dyfed itself was created in 1974 and covered the earlier counties of Carmarthenshire, Cardiganshire and Pembrokeshire, so a “Dyfed” UFO entry may require extra checking before it can be treated as a Carmarthenshire case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiveshub.jisc.ac.uk/data/gb213-dyc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveshub.jisc.ac.uk">[Archives Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveshub.jisc.ac.uk</span><span class="citation-popover-title">Archives Hub Dyfed County Council Records</span><span class="citation-popover-snippet">Archives Hub Dyfed County Council Records</span></span></span>
+The modern investigative geography is different. Dyfed-Powys Police covers Carmarthenshire as part of a much larger police area, while older Ministry of Defence sighting tables often filed local reports under “Dyfed”, the former administrative county that included Carmarthenshire, Pembrokeshire and Cardiganshire/Ceredigion. Dyfed itself was created in 1974 and covered the earlier counties of Carmarthenshire, Cardiganshire and Pembrokeshire, so a “Dyfed” UFO entry may require extra checking before it can be treated as a Carmarthenshire case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiveshub.jisc.ac.uk/data/gb213-dyc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveshub.jisc.ac.uk">[Archives Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveshub.jisc.ac.uk</span><span class="citation-popover-title">Archives Hub Dyfed County Council Records</span><span class="citation-popover-snippet">Archives Hub Dyfed County Council Records</span></span></span>
 
 ## The clearest official trail: Llanelli, Betws, Carmarthen and Burry Port
 
-The most reliable Carmarthenshire material is not a single case file but a scattered set of official logs. The Ministry of Defence’s public “UFO reports in the UK” page describes the released material as UK UFO reports from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> Within those tables, Llanelli appears on 10 January 1999 at 01:30, when a witness reported “one object, a pinprick of light” changing between red, green and orange. The entry is brief and gives no investigation outcome, but its value is that it is a contemporaneous MoD log rather than a later retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The most reliable Carmarthenshire material is not a single case file but a scattered set of official logs. The Ministry of Defence’s public “UFO reports in the UK” page describes the released material as UK UFO reports from 1997 to 2009, giving dates, times, locations and brief sighting descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span> Within those tables, Llanelli appears on 10 January 1999 at 01:30, when a witness reported “one object, a pinprick of light” changing between red, green and orange. The entry is brief and gives no investigation outcome, but its value is that it is a contemporaneous MoD log rather than a later retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-Another useful entry comes from 19 September 2009 at Betws, listed as Dyfed, where a journalist reported three bright orange objects “like bright orange tennis balls stuck together” flying across the sky. The same page of the MoD table includes many similar orange-light reports elsewhere in Britain on the same dates, which weakens any claim that the Betws report stands alone as a uniquely Carmarthenshire event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Another useful entry comes from 19 September 2009 at Betws, listed as Dyfed, where a journalist reported three bright orange objects “like bright orange tennis balls stuck together” flying across the sky. The same page of the MoD table includes many similar orange-light reports elsewhere in Britain on the same dates, which weakens any claim that the Betws report stands alone as a uniquely Carmarthenshire event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-Local reporting adds a further Carmarthen example from the post-MoD era. WalesOnline reported in 2014 that a Carmarthen caller had described three objects “the size of a small house” about 200–300 feet in the sky, and also referred to an earlier Carmarthen report of a metallic circular object in 2012. This is useful as a public record of what was being reported, but it is not the same as a technical investigation; the article does not establish what the objects were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/wales-ufo-reports-sheeps-alien-7376057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">wales ufo reports sheeps alien 7376057</span><span class="citation-popover-snippet">wales ufo reports sheeps alien 7376057</span></span></span>
+Local reporting adds a further Carmarthen example from the post-MoD era. WalesOnline reported in 2014 that a Carmarthen caller had described three objects “the size of a small house” about 200–300 feet in the sky, and also referred to an earlier Carmarthen report of a metallic circular object in 2012. This is useful as a public record of what was being reported, but it is not the same as a technical investigation; the article does not establish what the objects were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walesonline.co.uk/news/wales-news/wales-ufo-reports-sheeps-alien-7376057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walesonline.co.uk">[Wales Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walesonline.co.uk</span><span class="citation-popover-title">wales ufo reports sheeps alien 7376057</span><span class="citation-popover-snippet">wales ufo reports sheeps alien 7376057</span></span></span>
 
-The most recent official Carmarthenshire-specific item found in police material is Burry Port. In a Dyfed-Powys Police FOI response disclosed in December 2023, the force listed six UFO sightings reported across its area over the previous five years. One entry was at Llys Mair, Burry Port, at 11:59 on 26 May 2022, with the action recorded as “Attended”. The same disclosure cautioned that, because of the systems used to record such information, the released data “may or may not be accurate”, which is an important warning against over-reading the list. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span><span class="citation-popover-snippet">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span></span></span>
+The most recent official Carmarthenshire-specific item found in police material is Burry Port. In a Dyfed-Powys Police FOI response disclosed in December 2023, the force listed six UFO sightings reported across its area over the previous five years. One entry was at Llys Mair, Burry Port, at 11:59 on 26 May 2022, with the action recorded as “Attended”. The same disclosure cautioned that, because of the systems used to record such information, the released data “may or may not be accurate”, which is an important warning against over-reading the list.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span><span class="citation-popover-snippet">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span></span></span>
 
 
 <img src="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Carmarthenshire? illustration 1" data-theme-src-dark="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -711,15 +711,15 @@ The most recent official Carmarthenshire-specific item found in police material 
 
 Most Carmarthenshire-linked reports are visually simple: coloured points, orange spheres, triangular lights, or brief movements across the sky. That makes them hard to investigate after the event. A light seen for a few seconds or minutes may be important to the witness, but without photographs, radar, aircraft data, weather details, direction, elevation and independent matching reports, it usually remains a low-resolution observation.
 
-The 1999 Llanelli report is typical: a colour-changing pinprick of light could be many things, including an aircraft seen at distance, an astronomical object distorted by atmosphere, or a misjudged moving light. The MoD table preserves the report, but does not show corroboration or a finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 2009 Betws report is more striking because it involved three orange objects and a journalist witness, but its date and description place it among a national wave of orange-light reports, many of which investigators and officials have associated with sky lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 1999 Llanelli report is typical: a colour-changing pinprick of light could be many things, including an aircraft seen at distance, an astronomical object distorted by atmosphere, or a misjudged moving light. The MoD table preserves the report, but does not show corroboration or a finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> The 2009 Betws report is more striking because it involved three orange objects and a journalist witness, but its date and description place it among a national wave of orange-light reports, many of which investigators and officials have associated with sky lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-This does not mean every report is “just a lantern” or “just a planet”. It means that Carmarthenshire’s strongest pattern is a familiar UK pattern: sincere witnesses report unusual lights, but the surviving record is usually too thin to rule out ordinary causes. The Civil Aviation Authority’s guidance treats sky lantern releases as relevant to aviation because they can distract or endanger aircraft and may require notification where aircraft regularly fly; that same behaviour also explains why lanterns can be misread by observers as silent orange craft or formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+This does not mean every report is “just a lantern” or “just a planet”. It means that Carmarthenshire’s strongest pattern is a familiar UK pattern: sincere witnesses report unusual lights, but the surviving record is usually too thin to rule out ordinary causes. The Civil Aviation Authority’s guidance treats sky lantern releases as relevant to aviation because they can distract or endanger aircraft and may require notification where aircraft regularly fly; that same behaviour also explains why lanterns can be misread by observers as silent orange craft or formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 ## The South Wales triangle wave and the Llanelli edge
 
-Carmarthenshire also touches a wider South Wales story: the “triangle” reports of 19 January 1983. Later specialist work by Swansea UFO Network describes a broad evening wave of triangular or formation-light sightings from Cardiff and Swansea westwards, including an entry at Llwynhendy, Llanelli, around 6 pm. That account says an observer watched two long objects, one ahead of the other, with red and white lights, moving slowly from the Swansea direction towards Gower; the site attributes the item to Dave Partridge and MoD files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">february 1905 glanynant, llanidloes</span><span class="citation-popover-snippet">february 1905 glanynant, llanidloes</span><span class="citation-popover-meta">Published: february 1905</span></span></span>
+Carmarthenshire also touches a wider South Wales story: the “triangle” reports of 19 January 1983. Later specialist work by Swansea UFO Network describes a broad evening wave of triangular or formation-light sightings from Cardiff and Swansea westwards, including an entry at Llwynhendy, Llanelli, around 6 pm. That account says an observer watched two long objects, one ahead of the other, with red and white lights, moving slowly from the Swansea direction towards Gower; the site attributes the item to Dave Partridge and MoD files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">february 1905 glanynant, llanidloes</span><span class="citation-popover-snippet">february 1905 glanynant, llanidloes</span><span class="citation-popover-meta">Published: february 1905</span></span></span>
 
-This case is worth mentioning because it shows how Carmarthenshire reports can be part of a cross-county sky event rather than an isolated county mystery. It is also a good example of the caution needed with later compilations. The Swansea UFO Network material is valuable because it gathers witness testimony, press cuttings and claimed file references, but it is not itself an official determination. The same page presents many vivid accounts from Swansea and nearby areas, including claims of silent low triangular objects, power cuts and multiple witnesses, but those accounts vary in source quality and distance from Carmarthenshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">february 1905 glanynant, llanidloes</span><span class="citation-popover-snippet">february 1905 glanynant, llanidloes</span><span class="citation-popover-meta">Published: february 1905</span></span></span>
+This case is worth mentioning because it shows how Carmarthenshire reports can be part of a cross-county sky event rather than an isolated county mystery. It is also a good example of the caution needed with later compilations. The Swansea UFO Network material is valuable because it gathers witness testimony, press cuttings and claimed file references, but it is not itself an official determination. The same page presents many vivid accounts from Swansea and nearby areas, including claims of silent low triangular objects, power cuts and multiple witnesses, but those accounts vary in source quality and distance from Carmarthenshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">february 1905 glanynant, llanidloes</span><span class="citation-popover-snippet">february 1905 glanynant, llanidloes</span><span class="citation-popover-meta">Published: february 1905</span></span></span>
 
 The sensible reading is that the Llanelli edge of the 1983 wave belongs in Carmarthenshire’s UFO history, but as a regional flap case with mixed evidence. It is stronger than a lone anonymous sighting because it sits among many similar reports on the same evening. It is weaker than a resolved aviation case because the public record does not provide a definitive aircraft, radar or official explanation that closes the matter.
 
@@ -728,29 +728,29 @@ The sensible reading is that the Llanelli edge of the 1983 wave belongs in Carma
 
 ## Older newspaper-style cases around Llanelli and Carmarthen Bay
 
-Some of the more interesting Carmarthenshire-adjacent material comes through newspaper reports preserved or summarised by later researchers. A 3 October 1953 case listed by Swansea UFO Network links Llanelli, Swansea and Neath. The account says a Neath witness saw a brilliant greenish-white globe moving quickly and horizontally, while later correspondence included a Llanelly witness waiting near the Pontarddulais-Llanelly road who said the description “tallies perfectly” with what he saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-snippet">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-meta">Published: october 1953</span></span></span>
+Some of the more interesting Carmarthenshire-adjacent material comes through newspaper reports preserved or summarised by later researchers. A 3 October 1953 case listed by Swansea UFO Network links Llanelli, Swansea and Neath. The account says a Neath witness saw a brilliant greenish-white globe moving quickly and horizontally, while later correspondence included a Llanelly witness waiting near the Pontarddulais-Llanelly road who said the description “tallies perfectly” with what he saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-snippet">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-meta">Published: october 1953</span></span></span>
 
-This is a stronger old-style case than a single anecdote because it has multiple named localities and reported newspaper follow-up. It is still not proof of anything exotic. The descriptions themselves raise ordinary possibilities: a meteor seen at an unusual angle, a flare, aircraft-related light, or a bright object misjudged in direction and distance. The witnesses reportedly rejected some of those explanations, but retrospective newspaper evidence rarely gives enough technical detail to settle the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-snippet">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-meta">Published: october 1953</span></span></span>
+This is a stronger old-style case than a single anecdote because it has multiple named localities and reported newspaper follow-up. It is still not proof of anything exotic. The descriptions themselves raise ordinary possibilities: a meteor seen at an unusual angle, a flare, aircraft-related light, or a bright object misjudged in direction and distance. The witnesses reportedly rejected some of those explanations, but retrospective newspaper evidence rarely gives enough technical detail to settle the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-snippet">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-meta">Published: october 1953</span></span></span>
 
-Carmarthen Bay appears in another cross-boundary report from September 1957. Two Porthcawl policemen reportedly saw a red disc-like object near the sea horizon, while a later report said it had also been seen over Carmarthen Bay and that a lifeboat was called out. Contemporary explanations quoted in the account included Venus “playing tricks” and the aurora borealis, or Northern Lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/1-september-1957-bristol-channel-off-porthcawl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">1 september 1957 bristol channel off porthcawl</span><span class="citation-popover-snippet">1 september 1957 bristol channel off porthcawl</span><span class="citation-popover-meta">Published: september 1957</span></span></span> That combination — named witnesses, coastal sightline, official-sounding concern, and plausible atmospheric explanations — is exactly the kind of case that remains interesting without being conclusive.
+Carmarthen Bay appears in another cross-boundary report from September 1957. Two Porthcawl policemen reportedly saw a red disc-like object near the sea horizon, while a later report said it had also been seen over Carmarthen Bay and that a lifeboat was called out. Contemporary explanations quoted in the account included Venus “playing tricks” and the aurora borealis, or Northern Lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/1-september-1957-bristol-channel-off-porthcawl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">1 september 1957 bristol channel off porthcawl</span><span class="citation-popover-snippet">1 september 1957 bristol channel off porthcawl</span><span class="citation-popover-meta">Published: september 1957</span></span></span> That combination — named witnesses, coastal sightline, official-sounding concern, and plausible atmospheric explanations — is exactly the kind of case that remains interesting without being conclusive.
 
 ## Military and aviation background that can confuse the picture
 
-Carmarthenshire’s coast is not empty sky. Pembrey Sands is an active Ministry of Defence air weapons range on the Carmarthenshire coastline, used for air-to-ground bombing and strafing practice and for temporary landing-zone training on the beach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insidedio.blog.gov.uk/2017/09/25/firing-at-ground-targets-pembrey-sands-air-weapons-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidedio.blog.gov.uk">[Inside DIO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidedio.blog.gov.uk</span><span class="citation-popover-title">firing at ground targets pembrey sands air weapons range</span><span class="citation-popover-snippet">firing at ground targets pembrey sands air weapons range</span></span></span> The MOD’s own air weapons range information lists Pembrey Sands in Carmarthenshire among its current air weapons ranges, with published activity times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
+Carmarthenshire’s coast is not empty sky. Pembrey Sands is an active Ministry of Defence air weapons range on the Carmarthenshire coastline, used for air-to-ground bombing and strafing practice and for temporary landing-zone training on the beach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insidedio.blog.gov.uk/2017/09/25/firing-at-ground-targets-pembrey-sands-air-weapons-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidedio.blog.gov.uk">[Inside DIO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidedio.blog.gov.uk</span><span class="citation-popover-title">firing at ground targets pembrey sands air weapons range</span><span class="citation-popover-snippet">firing at ground targets pembrey sands air weapons range</span></span></span> The MOD’s own air weapons range information lists Pembrey Sands in Carmarthenshire among its current air weapons ranges, with published activity times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: air weapons ranges activity</span><span class="citation-popover-snippet">Military low flying: air weapons ranges activity</span></span></span>
 
 That aviation setting does not explain every sighting in the county, and many reports occur at times or places that do not obviously match range activity. It does, however, change the baseline. Aircraft, military training, coastal exercises, helicopters, flares, navigation lights, drones, lanterns and reflections over water are all realistic first checks for Carmarthenshire reports, especially around Burry Port, Pembrey, Llanelli and Carmarthen Bay.
 
-This is also why a UFO report may matter even if it later proves ordinary. A pilot, police officer or coastal observer reporting an unknown light could be describing a safety concern, not making a claim about extraterrestrial craft. The Civil Aviation Authority has stated in an FOI response that UFO reports are not the purpose of its Mandatory Occurrence Reporting system, but that such sightings would be recorded if reported to the CAA under that aviation-safety scheme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Communications Department External Information Services</span><span class="citation-popover-snippet">Civil Aviation Authority Communications Department External Information Services</span></span></span>
+This is also why a UFO report may matter even if it later proves ordinary. A pilot, police officer or coastal observer reporting an unknown light could be describing a safety concern, not making a claim about extraterrestrial craft. The Civil Aviation Authority has stated in an FOI response that UFO reports are not the purpose of its Mandatory Occurrence Reporting system, but that such sightings would be recorded if reported to the CAA under that aviation-safety scheme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Communications Department External Information Services</span><span class="citation-popover-snippet">Civil Aviation Authority Communications Department External Information Services</span></span></span>
 
 
 <img src="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened Over Carmarthenshire? illustration 2" data-theme-src-dark="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official investigations did, and did not, decide
 
-The Ministry of Defence’s historic role was mainly to assess whether reported UFOs had defence significance. The National Archives explains that MoD UFO files include correspondence, policy material and reported sightings, but the files vary greatly in content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The public MoD tables are therefore not a list of confirmed unknown craft; they are a list of reported observations.
+The Ministry of Defence’s historic role was mainly to assess whether reported UFOs had defence significance. The National Archives explains that MoD UFO files include correspondence, policy material and reported sightings, but the files vary greatly in content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> The public MoD tables are therefore not a list of confirmed unknown craft; they are a list of reported observations.
 
-The MoD closed its UFO desk in 2009. The National Archives’ release material says the desk received more than 600 sighting reports in 2009, that the workload had increased, and that officials concluded the work “serves no defence purpose”. It also says the minister was told that in more than 50 years no UFO sighting reported to the MoD had revealed anything suggesting an extraterrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span> A 2024 parliamentary answer restated the position: the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has no current plan for a dedicated team. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+The MoD closed its UFO desk in 2009. The National Archives’ release material says the desk received more than 600 sighting reports in 2009, that the workload had increased, and that officials concluded the work “serves no defence purpose”. It also says the minister was told that in more than 50 years no UFO sighting reported to the MoD had revealed anything suggesting an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span> A 2024 parliamentary answer restated the position: the MOD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has no current plan for a dedicated team.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
-For Carmarthenshire, this means there is a clear limit to what “official record” can mean. A Llanelli or Betws entry in an MoD table proves that a report was received and logged; it does not prove the object was extraordinary. A Dyfed-Powys Police entry proves that a call or incident was recorded in police systems; it does not prove the object was identified, unidentified after investigation, or physically present in the way described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span><span class="citation-popover-snippet">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span></span></span>
+For Carmarthenshire, this means there is a clear limit to what “official record” can mean. A Llanelli or Betws entry in an MoD table proves that a report was received and logged; it does not prove the object was extraordinary. A Dyfed-Powys Police entry proves that a call or incident was recorded in police systems; it does not prove the object was identified, unidentified after investigation, or physically present in the way described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dyfed-powys.police.uk">[Dyfed-Powys Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dyfed-powys.police.uk</span><span class="citation-popover-title">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span><span class="citation-popover-snippet">Dyfed-Powys Police UFO reports 405/23 &#124; Dyfed-Powys Police</span></span></span>
 
 
 <img src="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened Over Carmarthenshire? illustration 3" data-theme-src-dark="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carmarthenshire_0d1a35-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -758,9 +758,9 @@ For Carmarthenshire, this means there is a clear limit to what “official recor
 
 The most useful way to read Carmarthenshire UFO history is to sort cases by evidence strength rather than by how dramatic they sound.
 
-**Stronger local records** include entries with a date, time, place and official source, such as Llanelli in the 1999 MoD table, Betws in the 2009 MoD table, and Burry Port in the Dyfed-Powys Police FOI release. These are still not solved cases, but they have a documentary anchor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+**Stronger local records** include entries with a date, time, place and official source, such as Llanelli in the 1999 MoD table, Betws in the 2009 MoD table, and Burry Port in the Dyfed-Powys Police FOI release. These are still not solved cases, but they have a documentary anchor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-**Moderate records** include newspaper-linked regional sightings, such as the 1953 Llanelli/Swansea/Neath light and the 1957 Carmarthen Bay/Porthcawl report. They may have multiple witnesses or press follow-up, but the surviving evidence often comes through later compilations rather than direct accessible archive images or technical files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-snippet">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-meta">Published: october 1953</span></span></span>
+**Moderate records** include newspaper-linked regional sightings, such as the 1953 Llanelli/Swansea/Neath light and the 1957 Carmarthen Bay/Porthcawl report. They may have multiple witnesses or press follow-up, but the surviving evidence often comes through later compilations rather than direct accessible archive images or technical files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-snippet">3 october 1953 llanelli/swansea/neath</span><span class="citation-popover-meta">Published: october 1953</span></span></span>
 
 **Weaker records** include broad database listings, anonymous reports, reports without precise location, and modern retellings where the original document is not visible. They may still be useful leads for local historians, but they should not be treated as established incidents without corroboration.
 
@@ -771,7 +771,7 @@ A good Carmarthenshire assessment asks practical questions: Was the direction an
 
 ## What the county’s pattern really shows
 
-Carmarthenshire’s UFO record is not empty, but it is quieter and more fragmented than the famous Pembrokeshire “Welsh Triangle” story to the west. Its recurring value lies in ordinary local reporting: a Llanelli colour-changing light in an MoD table, a Betws orange-object report during the 2009 orange-light wave, a Carmarthen “small house”-sized objects claim in local media, and a Burry Port police-attended report in 2022. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[Dyfed-Powys Police+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Carmarthenshire’s UFO record is not empty, but it is quieter and more fragmented than the famous Pembrokeshire “Welsh Triangle” story to the west. Its recurring value lies in ordinary local reporting: a Llanelli colour-changing light in an MoD table, a Betws orange-object report during the 2009 orange-light wave, a Carmarthen “small house”-sized objects claim in local media, and a Burry Port police-attended report in 2022.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 The best conclusion is balanced. Carmarthenshire has produced UFO reports that deserve preservation in a county-level record, especially where they are tied to official logs, local newspapers or wider South Wales sighting clusters. But the public evidence does not support treating the county as the site of a confirmed extraordinary craft, cover-up or landmark national case. Its UFO history is instead a practical lesson in uncertainty: people saw things they could not identify; institutions sometimes logged them; later researchers connected them; and, in most cases, the evidence remains too thin to move beyond “reported and unresolved” or “plausibly explainable”.
 
@@ -780,194 +780,194 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Carmarthenshire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Carmarthenshire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly addresses British UFO reports, government files and how sightings enter the public record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses British UFO reports, government files and how sightings enter the public record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reported sightings and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reported sightings and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on how unidentified sightings should be assessed and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how unidentified sightings should be assessed and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Places local UFO stories within a wider landscape of unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local UFO stories within a wider landscape of unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="what-really-happened-over-ecf221-what-really-happened-over-carmarthenshire-carmarthenshire-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -983,7 +983,7 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1003,7 +1003,7 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1035,7 +1035,7 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1087,7 +1087,7 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1132,7 +1132,7 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1173,343 +1173,343 @@ The best conclusion is balanced. Carmarthenshire has produced UFO reports that d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: datamap.gov.wales  
    Title: metadata detail  
-   Link: <a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
+   Link:<a href="https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail" target="_blank" rel="noopener noreferrer nofollow">https://datamap.gov.wales/layers/geonode%3Ahistoric_counties_bng_rcahmw_ply/metadata_detail</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: File:Wales Historic Counties map Carmarthenshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Carmarthenshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Carmarthenshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Carmarthenshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWales_Historic_Counties_map_Carmarthenshire.svg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dyfed-powys.police.uk  
    Title: Dyfed-Powys Police UFO reports 405/23 | Dyfed-Powys Police  
-   Link: <a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/foi-ai/dyfed-powys-police/disclosure-2024/january/ufo-reports-40523/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: insidedio.blog.gov.uk  
    Title: firing at ground targets pembrey sands air weapons range  
-   Link: <a href="https://insidedio.blog.gov.uk/2017/09/25/firing-at-ground-targets-pembrey-sands-air-weapons-range/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2017/09/25/firing-at-ground-targets-pembrey-sands-air-weapons-range/</a>  
+   Link:<a href="https://insidedio.blog.gov.uk/2017/09/25/firing-at-ground-targets-pembrey-sands-air-weapons-range/" target="_blank" rel="noopener noreferrer nofollow">https://insidedio.blog.gov.uk/2017/09/25/firing-at-ground-targets-pembrey-sands-air-weapons-range/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Military low flying: air weapons ranges activity  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity/air-weapons-ranges-normal-opening-times" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity/air-weapons-ranges-normal-opening-times</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity/air-weapons-ranges-normal-opening-times" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity/air-weapons-ranges-normal-opening-times</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13533128" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13533128</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13531975" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531975</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13531975" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13531975</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gov.wales  
-   Link: <a href="https://www.gov.wales/atisn27055" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/atisn27055</a>  
+   Link:<a href="https://www.gov.wales/atisn27055" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/atisn27055</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: carmarthenshire.gov.wales  
-   Link: <a href="https://www.carmarthenshire.gov.wales/" target="_blank" rel="noopener noreferrer nofollow">https://www.carmarthenshire.gov.wales/</a>  
+   Link:<a href="https://www.carmarthenshire.gov.wales/" target="_blank" rel="noopener noreferrer nofollow">https://www.carmarthenshire.gov.wales/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: carmarthenshire.gov.wales  
-   Link: <a href="https://www.carmarthenshire.gov.wales/council-services/libraries-archives/carmarthenshire-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.carmarthenshire.gov.wales/council-services/libraries-archives/carmarthenshire-archives/</a>  
+   Link:<a href="https://www.carmarthenshire.gov.wales/council-services/libraries-archives/carmarthenshire-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.carmarthenshire.gov.wales/council-services/libraries-archives/carmarthenshire-archives/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dyfed-powys.police.uk  
-   Link: <a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2024/ionawr/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2024/ionawr/ufo-reports-40523/</a>  
+   Link:<a href="https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2024/ionawr/ufo-reports-40523/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfed-powys.police.uk/cy-GB/foi-ai/heddlu-dyfed-powys/datgeliadau-2024/ionawr/ufo-reports-40523/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/archaeologiacamb1909camb/archaeologiacamb1909camb_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/archaeologiacamb1909camb/archaeologiacamb1909camb_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/archaeologiacamb1909camb/archaeologiacamb1909camb_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/archaeologiacamb1909camb/archaeologiacamb1909camb_djvu.txt</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/biographicalsket00murciala/biographicalsket00murciala_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/biographicalsket00murciala/biographicalsket00murciala_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/biographicalsket00murciala/biographicalsket00murciala_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/biographicalsket00murciala/biographicalsket00murciala_djvu.txt</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/northwales00badd/northwales00badd_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/northwales00badd/northwales00badd_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/northwales00badd/northwales00badd_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/northwales00badd/northwales00badd_djvu.txt</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archive.org  
    Title: antiquariesjourn02sociuoft djvu.txt  
-   Link: <a href="https://archive.org/stream/antiquariesjourn02sociuoft/antiquariesjourn02sociuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/antiquariesjourn02sociuoft/antiquariesjourn02sociuoft_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/antiquariesjourn02sociuoft/antiquariesjourn02sociuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/antiquariesjourn02sociuoft/antiquariesjourn02sociuoft_djvu.txt</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: records.pembrokeshire.gov.uk  
-   Link: <a href="https://records.pembrokeshire.gov.uk/CalmView/TreeBrowse.aspx?field=RefNo&amp;key=HDX%2F803&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://records.pembrokeshire.gov.uk/CalmView/TreeBrowse.aspx?field=RefNo&amp;key=HDX%2F803&amp;src=CalmView.Catalog</a>  
+   Link:<a href="https://records.pembrokeshire.gov.uk/CalmView/TreeBrowse.aspx?field=RefNo&amp;key=HDX%2F803&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://records.pembrokeshire.gov.uk/CalmView/TreeBrowse.aspx?field=RefNo&amp;key=HDX%2F803&amp;src=CalmView.Catalog</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.ukpembrey west wales airport limited  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/03885477/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/03885477/officers</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/03885477/officers" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/03885477/officers</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: bcomm-wales.gov.uk  
    Title: BCW 8848 9499 e Redacted 1  
-   Link: <a href="https://bcomm-wales.gov.uk/sites/bcomm/files/review/BCW-8848-%209499_e_Redacted_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bcomm-wales.gov.uk/sites/bcomm/files/review/BCW-8848-%209499_e_Redacted_1.pdf</a>  
+   Link:<a href="https://bcomm-wales.gov.uk/sites/bcomm/files/review/BCW-8848-%209499_e_Redacted_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bcomm-wales.gov.uk/sites/bcomm/files/review/BCW-8848-%209499_e_Redacted_1.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wales.com  
    Title: netflix premieres ufo documentary featuring wales  
-   Link: <a href="https://www.wales.com/news/united-kingdom/netflix-premieres-ufo-documentary-featuring-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.wales.com/news/united-kingdom/netflix-premieres-ufo-documentary-featuring-wales</a>  
+   Link:<a href="https://www.wales.com/news/united-kingdom/netflix-premieres-ufo-documentary-featuring-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.wales.com/news/united-kingdom/netflix-premieres-ufo-documentary-featuring-wales</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archiveshub.jisc.ac.uk  
    Title: Archives Hub Dyfed County Council Records  
-   Link: <a href="https://archiveshub.jisc.ac.uk/data/gb213-dyc" target="_blank" rel="noopener noreferrer nofollow">https://archiveshub.jisc.ac.uk/data/gb213-dyc</a>  
+   Link:<a href="https://archiveshub.jisc.ac.uk/data/gb213-dyc" target="_blank" rel="noopener noreferrer nofollow">https://archiveshub.jisc.ac.uk/data/gb213-dyc</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: walesonline.co.uk  
    Title: wales ufo reports sheeps alien 7376057  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/wales-ufo-reports-sheeps-alien-7376057" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/wales-ufo-reports-sheeps-alien-7376057</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/wales-ufo-reports-sheeps-alien-7376057" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/wales-ufo-reports-sheeps-alien-7376057</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: sufon.co.uk  
    Title: february 1905 glanynant, llanidloes  
-   Link: <a href="https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes</a>  
+   Link:<a href="https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/february-1905---glanynant%2C-llanidloes</a>  
    Published: february 1905  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: sufon.co.uk  
    Title: Swansea Ufo Network Items (All) | Swansea Ufo Network  
-   Link: <a href="https://www.sufon.co.uk/items" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items</a>  
+   Link:<a href="https://www.sufon.co.uk/items" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: sufon.co.uk  
    Title: 3 october 1953 llanelli/swansea/neath  
-   Link: <a href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath</a>  
+   Link:<a href="https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/3-october-1953-llanelli%2Fswansea%2Fneath</a>  
    Published: october 1953  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: sufon.co.uk  
    Title: 1 september 1957 bristol channel off porthcawl  
-   Link: <a href="https://www.sufon.co.uk/items/1-september-1957-bristol-channel-off-porthcawl" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/1-september-1957-bristol-channel-off-porthcawl</a>  
+   Link:<a href="https://www.sufon.co.uk/items/1-september-1957-bristol-channel-off-porthcawl" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/1-september-1957-bristol-channel-off-porthcawl</a>  
    Published: september 1957  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Communications Department External Information Services  
-   Link: <a href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/twab3tog/f0003769reply_redacted.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: walesonline.co.uk  
    Title: ufos wales police reveal locations 1837150  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufos-wales-police-reveal-locations-1837150</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: walesonline.co.uk  
    Title: released files cast light famous 1901570  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/released-files-cast-light-famous-1901570</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: walesonline.co.uk  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/?pageNumber=2947" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/?pageNumber=2947</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/?pageNumber=2947" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/?pageNumber=2947</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: walesonline.co.uk  
    Title: comment debatewestern mail letters 6118969  
-   Link: <a href="https://www.walesonline.co.uk/incoming/comment--debatewestern-mail-letters-6118969" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/incoming/comment--debatewestern-mail-letters-6118969</a>  
+   Link:<a href="https://www.walesonline.co.uk/incoming/comment--debatewestern-mail-letters-6118969" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/incoming/comment--debatewestern-mail-letters-6118969</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: walesonline.co.uk  
    Title: Robert Harries  
-   Link: <a href="https://www.walesonline.co.uk/authors/robert-harries/?pageNumber=96" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/authors/robert-harries/?pageNumber=96</a>  
+   Link:<a href="https://www.walesonline.co.uk/authors/robert-harries/?pageNumber=96" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/authors/robert-harries/?pageNumber=96</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: walesonline.co.uk  
    Title: spy plane theory ufo sightings 2088625  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/spy-plane-theory-ufo-sightings-2088625" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/spy-plane-theory-ufo-sightings-2088625</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/spy-plane-theory-ufo-sightings-2088625" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/spy-plane-theory-ufo-sightings-2088625</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: walesonline.co.uk  
    Title: ministry defence officials did investigate 10133926  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ministry-defence-officials-did-investigate-10133926</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: walesonline.co.uk  
    Title: ministry defence explains two ufos 2119713  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ministry-defence-explains-two-ufos-2119713" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ministry-defence-explains-two-ufos-2119713</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ministry-defence-explains-two-ufos-2119713" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ministry-defence-explains-two-ufos-2119713</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: walesonline.co.uk  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/website-debunks-welsh-roswell-2276224" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/website-debunks-welsh-roswell-2276224</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/website-debunks-welsh-roswell-2276224" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/website-debunks-welsh-roswell-2276224</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: walesonline.co.uk  
    Title: ufo sightings sparked mod probe 2397887  
-   Link: <a href="https://www.walesonline.co.uk/news/wales-news/ufo-sightings-sparked-mod-probe-2397887" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufo-sightings-sparked-mod-probe-2397887</a>  
+   Link:<a href="https://www.walesonline.co.uk/news/wales-news/ufo-sightings-sparked-mod-probe-2397887" target="_blank" rel="noopener noreferrer nofollow">https://www.walesonline.co.uk/news/wales-news/ufo-sightings-sparked-mod-probe-2397887</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Carmarthenshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Carmarthenshire</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carmarthenshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carmarthenshire</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Carmarthenshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Carmarthenshire</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: carmarthenshire.oc2.uk  
-   Link: <a href="https://carmarthenshire.oc2.uk/document/14/6095" target="_blank" rel="noopener noreferrer nofollow">https://carmarthenshire.oc2.uk/document/14/6095</a>  
+   Link:<a href="https://carmarthenshire.oc2.uk/document/14/6095" target="_blank" rel="noopener noreferrer nofollow">https://carmarthenshire.oc2.uk/document/14/6095</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: dyfedfhs.org.uk  
-   Link: <a href="https://www.dyfedfhs.org.uk/cmn-sources.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfedfhs.org.uk/cmn-sources.php</a>  
+   Link:<a href="https://www.dyfedfhs.org.uk/cmn-sources.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dyfedfhs.org.uk/cmn-sources.php</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: sufon.co.uk  
    Title: women sight red ufo over newport  
-   Link: <a href="https://www.sufon.co.uk/items/women-sight-red-ufo-over-newport" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/women-sight-red-ufo-over-newport</a>  
+   Link:<a href="https://www.sufon.co.uk/items/women-sight-red-ufo-over-newport" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/items/women-sight-red-ufo-over-newport</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: sabre-roads.org.uk  
-   Link: <a href="https://www.sabre-roads.org.uk/wiki/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://www.sabre-roads.org.uk/wiki/Carmarthenshire</a>  
+   Link:<a href="https://www.sabre-roads.org.uk/wiki/Carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://www.sabre-roads.org.uk/wiki/Carmarthenshire</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: peoplescollection.wales  
-   Link: <a href="https://www.peoplescollection.wales/items/2253441" target="_blank" rel="noopener noreferrer nofollow">https://www.peoplescollection.wales/items/2253441</a>  
+   Link:<a href="https://www.peoplescollection.wales/items/2253441" target="_blank" rel="noopener noreferrer nofollow">https://www.peoplescollection.wales/items/2253441</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: realcounties.com  
-   Link: <a href="https://realcounties.com/county/carmarthenshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/carmarthenshire/</a>  
+   Link:<a href="https://realcounties.com/county/carmarthenshire/" target="_blank" rel="noopener noreferrer nofollow">https://realcounties.com/county/carmarthenshire/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: baseview.uk  
-   Link: <a href="https://www.baseview.uk/district/carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://www.baseview.uk/district/carmarthenshire</a>  
+   Link:<a href="https://www.baseview.uk/district/carmarthenshire" target="_blank" rel="noopener noreferrer nofollow">https://www.baseview.uk/district/carmarthenshire</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/eruaychy/20171201ordinarylicencesandmapsptot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/eruaychy/20171201ordinarylicencesandmapsptot.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/eruaychy/20171201ordinarylicencesandmapsptot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/eruaychy/20171201ordinarylicencesandmapsptot.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: antiquemaps.com  
-   Link: <a href="https://www.antiquemaps.com/uk/wales/southwales/carmarthen/" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemaps.com/uk/wales/southwales/carmarthen/</a>  
+   Link:<a href="https://www.antiquemaps.com/uk/wales/southwales/carmarthen/" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquemaps.com/uk/wales/southwales/carmarthen/</a>  
 
 ### Additional References
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
    Title: Randall Jones Pugh UFO INVESTIGATOR The Welsh Triangle  
-   Link: <a href="https://www.youtube.com/watch?v=M34KVzkBy2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M34KVzkBy2s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Broad Haven UFO Landing (Britain&#x27;s Roswell)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M34KVzkBy2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M34KVzkBy2s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Broad Haven UFO Landing (Britain&#x27;s Roswell)...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
    Title: The Pentyrch UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0SfTiXy6QKg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randall Jones Pugh UFO INVESTIGATOR The Welsh Triangle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0SfTiXy6QKg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Randall Jones Pugh UFO INVESTIGATOR The Welsh Triangle...</p></details>
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/39021907/AGAINST_SATANISM_VOLUME_6_SATANIC_OCCULT_WORLD_HISTORY_PART_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39021907/AGAINST_SATANISM_VOLUME_6_SATANIC_OCCULT_WORLD_HISTORY_PART_2</a>  
+   Link:<a href="https://www.academia.edu/39021907/AGAINST_SATANISM_VOLUME_6_SATANIC_OCCULT_WORLD_HISTORY_PART_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39021907/AGAINST_SATANISM_VOLUME_6_SATANIC_OCCULT_WORLD_HISTORY_PART_2</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: ijmet.org  
-   Link: <a href="https://www.ijmet.org/wp-content/uploads/2016/05/154.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijmet.org/wp-content/uploads/2016/05/154.pdf</a>  
+   Link:<a href="https://www.ijmet.org/wp-content/uploads/2016/05/154.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijmet.org/wp-content/uploads/2016/05/154.pdf</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: archiuk.com  
-   Link: <a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?CountyFromPlacenameFinder=Carmarthenshire&amp;PlacenameFromPlacenameFinder=Dolwerdd&amp;TownName=Dolwerdd&amp;county=Carmarthenshire&amp;info2search4=archi_town_search&amp;placename=Dolwerdd&amp;pwd=freesearch%40freesearch.com&amp;search_location=SN&amp;search_range=10000&amp;search_type=archi_town_search" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?CountyFromPlacenameFinder=Carmarthenshire&amp;PlacenameFromPlacenameFinder=Dolwerdd&amp;TownName=Dolwerdd&amp;county=Carmarthenshire&amp;info2search4=archi_town_search&amp;placename=Dolwerdd&amp;pwd=freesearch%40freesearch.com&amp;search_location=SN&amp;search_range=10000&amp;search_type=archi_town_search</a>  
+   Link:<a href="https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?CountyFromPlacenameFinder=Carmarthenshire&amp;PlacenameFromPlacenameFinder=Dolwerdd&amp;TownName=Dolwerdd&amp;county=Carmarthenshire&amp;info2search4=archi_town_search&amp;placename=Dolwerdd&amp;pwd=freesearch%40freesearch.com&amp;search_location=SN&amp;search_range=10000&amp;search_type=archi_town_search" target="_blank" rel="noopener noreferrer nofollow">https://www.archiuk.com/cgi-bin/archi_new_search_engine.pl?CountyFromPlacenameFinder=Carmarthenshire&amp;PlacenameFromPlacenameFinder=Dolwerdd&amp;TownName=Dolwerdd&amp;county=Carmarthenshire&amp;info2search4=archi_town_search&amp;placename=Dolwerdd&amp;pwd=freesearch%40freesearch.com&amp;search_location=SN&amp;search_range=10000&amp;search_type=archi_town_search</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/82421701%40N04/14403056078/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/82421701%40N04/14403056078/</a>  
+   Link:<a href="https://www.flickr.com/photos/82421701%40N04/14403056078/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/82421701%40N04/14403056078/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PembrokeshireCountyCouncil/posts/an-iconic-collection-of-some-of-wales-most-historic-items-has-been-officially-op/10157207502025505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PembrokeshireCountyCouncil/posts/an-iconic-collection-of-some-of-wales-most-historic-items-has-been-officially-op/10157207502025505/</a>  
+   Link:<a href="https://www.facebook.com/PembrokeshireCountyCouncil/posts/an-iconic-collection-of-some-of-wales-most-historic-items-has-been-officially-op/10157207502025505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PembrokeshireCountyCouncil/posts/an-iconic-collection-of-some-of-wales-most-historic-items-has-been-officially-op/10157207502025505/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HampshireIOWFireService/posts/chinese-new-year-is-just-around-the-corner-we-know-skylanterns-are-traditionally/10158656865820932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HampshireIOWFireService/posts/chinese-new-year-is-just-around-the-corner-we-know-skylanterns-are-traditionally/10158656865820932/</a>  
+   Link:<a href="https://www.facebook.com/HampshireIOWFireService/posts/chinese-new-year-is-just-around-the-corner-we-know-skylanterns-are-traditionally/10158656865820932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HampshireIOWFireService/posts/chinese-new-year-is-just-around-the-corner-we-know-skylanterns-are-traditionally/10158656865820932/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/40156.epub.noimages" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/40156.epub.noimages</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/40156.epub.noimages" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/40156.epub.noimages</a>  

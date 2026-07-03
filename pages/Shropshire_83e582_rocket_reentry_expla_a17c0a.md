@@ -254,7 +254,7 @@ image: /assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-overview-soc
 
 ## Introduction
 
-The main “Cosford/Shawbury” UFO wave of 30–31 March 1993 is best understood as a [Shropshire]({{ 'what-really-happened-in-shropshires-ufo/' | relative_url }})-linked case with a wider sky track: the strongest explanation for the central burst of reports is the atmospheric re-entry of a Russian rocket body associated with the launch of the Cosmos 2238 satellite. That does not make every witness detail neat, and it does not by itself explain the later RAF Shawbury account of a low, humming object with red lights and a searchlight-like beam. It does, however, account well for the most important part of the wave: bright lights seen across western Britain in the early hours, including reports connected with RAF Cosford in Shropshire. The Ministry of Defence later described the majority of sightings as caused by the rocket re-entry, while satellite-re-entry catalogues and later case reviews place the Cosmos 2238 rocket body on a matching path and time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2Satellites Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The main “Cosford/Shawbury” UFO wave of 30–31 March 1993 is best understood as a [Shropshire]({{ 'what-really-happened-in-shropshires-ufo/' | relative_url }})-linked case with a wider sky track: the strongest explanation for the central burst of reports is the atmospheric re-entry of a Russian rocket body associated with the launch of the Cosmos 2238 satellite. That does not make every witness detail neat, and it does not by itself explain the later RAF Shawbury account of a low, humming object with red lights and a searchlight-like beam. It does, however, account well for the most important part of the wave: bright lights seen across western Britain in the early hours, including reports connected with RAF Cosford in Shropshire. The Ministry of Defence later described the majority of sightings as caused by the rocket re-entry, while satellite-re-entry catalogues and later case reviews place the Cosmos 2238 rocket body on a matching path and time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 
 <img src="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-overview.webp" | relative_url }}" alt="Overview image for Rocket Theory" loading="eager" decoding="sync" fetchpriority="high">
@@ -265,11 +265,11 @@ The point of the rocket theory is not to dismiss the case as silly. It is to exp
 
 ## What a rocket re-entry would have looked like
 
-A decaying rocket body entering the atmosphere is not like a single aircraft light, and it is not quite like the quick “shooting star” many people expect from a meteor. Human-made re-entries tend to move broadly parallel to the ground, can last tens of seconds, and often break into multiple bright fragments with glowing trails. The Aerospace Corporation’s guide to re-entry sightings notes that space debris is human-made material from Earth orbit, usually moving roughly parallel to the ground at orbital speed, and that re-entries can show a bright body, a long tail and numerous fragments; it gives a useful rule of thumb that meteors often last only a few seconds, while human-made re-entries can last roughly 20 to 90 seconds or more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Open source on aerospace.org.</span></span></span>
+A decaying rocket body entering the atmosphere is not like a single aircraft light, and it is not quite like the quick “shooting star” many people expect from a meteor. Human-made re-entries tend to move broadly parallel to the ground, can last tens of seconds, and often break into multiple bright fragments with glowing trails. The Aerospace Corporation’s guide to re-entry sightings notes that space debris is human-made material from Earth orbit, usually moving roughly parallel to the ground at orbital speed, and that re-entries can show a bright body, a long tail and numerous fragments; it gives a useful rule of thumb that meteors often last only a few seconds, while human-made re-entries can last roughly 20 to 90 seconds or more.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Open source on aerospace.org.</span></span></span>
 
-That description fits the kind of confusion seen in the 1993 wave. A cluster of burning fragments can be perceived as separate lights, a single object with lights attached to it, or a large silent craft. If the fragments keep the same general formation while moving across the sky, the human eye and brain may connect them into a triangular or structured shape. David Clarke’s later review of the Cosford case makes exactly this point: debris high in the atmosphere can seem much closer than it is, and formations of lights can encourage witnesses to “fill in” a structure that is not physically present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+That description fits the kind of confusion seen in the 1993 wave. A cluster of burning fragments can be perceived as separate lights, a single object with lights attached to it, or a large silent craft. If the fragments keep the same general formation while moving across the sky, the human eye and brain may connect them into a triangular or structured shape. David Clarke’s later review of the Cosford case makes exactly this point: debris high in the atmosphere can seem much closer than it is, and formations of lights can encourage witnesses to “fill in” a structure that is not physically present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
-The physics also explains why a re-entry can appear more spectacular than an ordinary satellite pass. NASA’s Orbital Debris Program Office says spacecraft re-entering from orbital decay or controlled entry usually break up at altitudes of about 84 to 72 kilometres, with 78 kilometres treated as a nominal breakup altitude; after breakup, fragments continue to heat and either burn up or, for tougher components, survive lower into the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[Orbital Debris Program Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> At those heights, the object is far above aircraft traffic, but bright enough to be visible over a very wide area. ESA similarly describes re-entering satellites, rocket stages and fragments as objects entering denser layers of the atmosphere at very high speed, where heating and deceleration normally destroy them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space Agency ESA</span></span></span>
+The physics also explains why a re-entry can appear more spectacular than an ordinary satellite pass. NASA’s Orbital Debris Program Office says spacecraft re-entering from orbital decay or controlled entry usually break up at altitudes of about 84 to 72 kilometres, with 78 kilometres treated as a nominal breakup altitude; after breakup, fragments continue to heat and either burn up or, for tougher components, survive lower into the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[Orbital Debris Program Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> At those heights, the object is far above aircraft traffic, but bright enough to be visible over a very wide area. ESA similarly describes re-entering satellites, rocket stages and fragments as objects entering denser layers of the atmosphere at very high speed, where heating and deceleration normally destroy them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space Agency ESA</span></span></span>
 
 This is why the “rocket” explanation is stronger than a vague “it was probably a light in the sky” dismissal. It provides a mechanism that naturally produces several features reported in such cases: brightness, multiple lights, a long apparent track, silence, unusual apparent shape, and visibility from many counties at roughly the same time.
 
@@ -277,13 +277,13 @@ This is why the “rocket” explanation is stronger than a vague “it was prob
 <img src="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why timing and geography support the rocket explanation
 
-The core sighting wave falls into a pattern that is hard for a low-flying craft to satisfy but natural for space debris. The National Archives’ 2009 transcript says that during about six hours more than 30 sightings were reported to the MoD across the south and west of the British Isles, including police and military witnesses and a police patrol at RAF Cosford. It also says the RAF replayed radar tapes and found nothing unusual, and that the majority of sightings were soon linked to the re-entry of the Russian rocket that launched Cosmos 2238. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The core sighting wave falls into a pattern that is hard for a low-flying craft to satisfy but natural for space debris. The National Archives’ 2009 transcript says that during about six hours more than 30 sightings were reported to the MoD across the south and west of the British Isles, including police and military witnesses and a police patrol at RAF Cosford. It also says the RAF replayed radar tapes and found nothing unusual, and that the majority of sightings were soon linked to the re-entry of the Russian rocket that launched Cosmos 2238.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-The satellite-re-entry record is unusually concrete. A current “Visually Observed Natural Re-entries of Earth Satellites” catalogue compiled by Ted Molczan lists the event at 00:10 UTC on 31 March 1993 as object 1993-018B, catalogue number 22586, a Russian Cosmos 2238 rocket body, with a mass entry of 4,800 kg. Its listed sighting locations include Ireland, west and south Wales, Staffordshire, Cornwall, Devon, Somerset, Bristol, Hampshire, parts of France and Catalonia in Spain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Satellites Above Observed re-entries #22.xlsx</span><span class="citation-popover-snippet">Satellites Above Observed re-entries #22.xlsx</span></span></span> That broad west-to-south-east spread is exactly the sort of footprint expected from a high-altitude re-entry, and much less like a single low aircraft operating around Shropshire.
+The satellite-re-entry record is unusually concrete. A current “Visually Observed Natural Re-entries of Earth Satellites” catalogue compiled by Ted Molczan lists the event at 00:10 UTC on 31 March 1993 as object 1993-018B, catalogue number 22586, a Russian Cosmos 2238 rocket body, with a mass entry of 4,800 kg. Its listed sighting locations include Ireland, west and south Wales, Staffordshire, Cornwall, Devon, Somerset, Bristol, Hampshire, parts of France and Catalonia in Spain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Satellites Above Observed re-entries #22.xlsx</span><span class="citation-popover-snippet">Satellites Above Observed re-entries #22.xlsx</span></span></span> That broad west-to-south-east spread is exactly the sort of footprint expected from a high-altitude re-entry, and much less like a single low aircraft operating around Shropshire.
 
-Later reconstruction sharpened the timing. Clarke reports that the civilian UFO organisation BUFORA identified the Cosmos 2238 rocket body early, and that a US Space Command/NASA simulation obtained by BUFORA’s astronomer Gary Anthony showed the object transiting over Ireland at about 1.07 am British Summer Time, then moving towards south-west England at imminent re-entry height. Clarke’s summary places burning debris over Devon and Cornwall between about 1.10 and 1.15 am BST. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+Later reconstruction sharpened the timing. Clarke reports that the civilian UFO organisation BUFORA identified the Cosmos 2238 rocket body early, and that a US Space Command/NASA simulation obtained by BUFORA’s astronomer Gary Anthony showed the object transiting over Ireland at about 1.07 am British Summer Time, then moving towards south-west England at imminent re-entry height. Clarke’s summary places burning debris over Devon and Cornwall between about 1.10 and 1.15 am BST.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
-This also helps untangle a common source of confusion in the case: clock time. Britain had moved to British Summer Time on 28 March 1993, only a few days before the sightings. Some official and observational records used GMT or “Zulu” time, while later public accounts often used local BST. Clarke notes that RAF Fylingdales initially gave a time that appeared not to match the main sighting cluster, but later information placed the decay within the relevant window; he concludes that the catalogue time was in fact about 1.15 am local time for the main decay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+This also helps untangle a common source of confusion in the case: clock time. Britain had moved to British Summer Time on 28 March 1993, only a few days before the sightings. Some official and observational records used GMT or “Zulu” time, while later public accounts often used local BST. Clarke notes that RAF Fylingdales initially gave a time that appeared not to match the main sighting cluster, but later information placed the decay within the relevant window; he concludes that the catalogue time was in fact about 1.15 am local time for the main decay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
 For Shropshire, the geography matters because RAF Cosford became the local anchor for a much bigger event. The rocket body did not need to be physically “over” RAF Cosford at low level to be seen from there or reported through military channels. A high-altitude re-entry can be visible across a huge region. That is why Shropshire can be central to the story’s reporting and investigation, while the cause itself belongs to a sky track stretching far beyond the county.
 
@@ -292,9 +292,9 @@ For Shropshire, the geography matters because RAF Cosford became the local ancho
 
 ## Why the MoD took it seriously before it became an identified object
 
-The rocket explanation is sometimes presented as though it simply replaced a confused story with an easy answer. The records suggest a more interesting sequence. The MoD did not ignore the reports: the National Archives summary says the UFO desk was concerned enough to ask for RAF radar tapes to be replayed, though nothing unusual was detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The Guardian’s report on the released files noted that the head of the UFO section briefed senior RAF leadership that, given the quality of the witnesses, the sightings could not just be written off; the same report says the MoD eventually established that the object was a Russian rocket re-entering after launching a Cosmos satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The rocket explanation is sometimes presented as though it simply replaced a confused story with an easy answer. The records suggest a more interesting sequence. The MoD did not ignore the reports: the National Archives summary says the UFO desk was concerned enough to ask for RAF radar tapes to be replayed, though nothing unusual was detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The Guardian’s report on the released files noted that the head of the UFO section briefed senior RAF leadership that, given the quality of the witnesses, the sightings could not just be written off; the same report says the MoD eventually established that the object was a Russian rocket re-entering after launching a Cosmos satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-That sequence is important for public understanding. A sighting can be sincerely reported, operationally checked, and later explained without implying that witnesses were dishonest or that officials were gullible. Police officers, RAF personnel and experienced observers can be very good at recognising aircraft, helicopters and ordinary lights, while still being poor at judging the height, range and nature of an unfamiliar event high in the atmosphere. Clarke’s later review stresses that even trained observers can make large errors when estimating the direction, height or distance of lights in a dark sky with few reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
+That sequence is important for public understanding. A sighting can be sincerely reported, operationally checked, and later explained without implying that witnesses were dishonest or that officials were gullible. Police officers, RAF personnel and experienced observers can be very good at recognising aircraft, helicopters and ordinary lights, while still being poor at judging the height, range and nature of an unfamiliar event high in the atmosphere. Clarke’s later review stresses that even trained observers can make large errors when estimating the direction, height or distance of lights in a dark sky with few reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span>
 
 The lack of an unusual radar return also fits the rocket explanation better than some more exotic readings. The object was not a conventional aircraft manoeuvring at low altitude inside UK airspace. It was decaying space hardware moving at orbital speed, breaking up high in the atmosphere. Radar checks were still sensible because witnesses had raised a possible air-defence question, but the absence of a matching aircraft-like return weakens the idea of a large, low, structured craft moving around Shropshire.
 
@@ -304,11 +304,11 @@ The lack of an unusual radar return also fits the rocket explanation better than
 
 The rocket theory is strongest for the main 1.10–1.15 am wave. It is weaker when applied too broadly to every detail later attached to the Cosford/Shawbury story. The most awkward part is the RAF Shawbury meteorological observer account, because it appears to describe something lower, slower, closer and later than the rocket debris.
 
-Clarke’s review identifies the [Shawbury observer]({{ 'shawbury-debate/' | relative_url }}) as Wayne Elliott and explains that the timing in the Met Office log was recorded in GMT, not local BST. On that reading, Elliott’s own observation occurred at about 2.40 am BST, roughly an hour and a half after the rocket decay. Clarke therefore argues that the Shawbury sighting “wasn’t the Russian Tsyklon rocket”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span> That is a crucial distinction: accepting the rocket explanation for the main wave does not require forcing the Shawbury report into the same mechanism.
+Clarke’s review identifies the [Shawbury observer]({{ 'shawbury-debate/' | relative_url }}) as Wayne Elliott and explains that the timing in the Met Office log was recorded in GMT, not local BST. On that reading, Elliott’s own observation occurred at about 2.40 am BST, roughly an hour and a half after the rocket decay. Clarke therefore argues that the Shawbury sighting “wasn’t the Russian Tsyklon rocket”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span> That is a crucial distinction: accepting the rocket explanation for the main wave does not require forcing the Shawbury report into the same mechanism.
 
-The content of the Shawbury account also points away from a high-altitude re-entry. Later retellings included three red lights, a low humming noise, and a beam of white light apparently scanning the ground. Clarke notes that an article in the Met Office magazine *Mercury* described lights that seemed to move erratically, become stationary north of the airfield, and use a beam that swept across nearby countryside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span> Those details are not what a burning rocket body at tens of kilometres altitude would produce.
+The content of the Shawbury account also points away from a high-altitude re-entry. Later retellings included three red lights, a low humming noise, and a beam of white light apparently scanning the ground. Clarke notes that an article in the Met Office magazine *Mercury* described lights that seemed to move erratically, become stationary north of the airfield, and use a beam that swept across nearby countryside.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span> Those details are not what a burning rocket body at tens of kilometres altitude would produce.
 
-The leading mundane explanation for the Shawbury element is therefore different: a police helicopter using a searchlight. Clarke reports that a later account from an RAF Shawbury airman identified the object as a Dyfed-Powys police helicopter following a stolen car near the A5 and using a NiteSun searchlight, while also noting that flight logs were no longer available, so the claim cannot be conclusively established from surviving records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span> That leaves the Shawbury account less tidy than the main rocket wave: plausible, but not nailed down in the same way.
+The leading mundane explanation for the Shawbury element is therefore different: a police helicopter using a searchlight. Clarke reports that a later account from an RAF Shawbury airman identified the object as a Dyfed-Powys police helicopter following a stolen car near the A5 and using a NiteSun searchlight, while also noting that flight logs were no longer available, so the claim cannot be conclusively established from surviving records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drclarke.substack.com">[Dr. Clarke&#x27;s Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drclarke.substack.com</span><span class="citation-popover-title">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span><span class="citation-popover-snippet">Dr. Clarke&#x27;s Substack Case Closed: 30th anniversary of the Cosford UFO flap</span></span></span> That leaves the Shawbury account less tidy than the main rocket wave: plausible, but not nailed down in the same way.
 
 This matters because many popular summaries blend the 1.15 am rocket event and the later Shawbury report into one dramatic “black triangle” narrative. The evidence is cleaner if they are separated. The main wave is strongly explained by Cosmos 2238 rocket debris. The later Shawbury sighting may have been a helicopter, but the surviving evidence is thinner, partly because the relevant operational records were not preserved long enough to settle it.
 
@@ -317,7 +317,7 @@ This matters because many popular summaries blend the 1.15 am rocket event and t
 
 ## What the rocket theory changes about the Shropshire case
 
-The rocket explanation shifts the Shropshire story from “unknown craft over RAF bases” to a more subtle case about how extraordinary reports form. The trigger was real: a Russian rocket body really did re-enter, and it was visible over a wide area. The witnesses were not simply inventing lights. The official concern was not fake either: the MoD received enough reports from credible people to check radar and pursue the matter. But the best-supported mechanism for the main wave is still ordinary in the sense that it belongs to known space activity, not unknown technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The rocket explanation shifts the Shropshire story from “unknown craft over RAF bases” to a more subtle case about how extraordinary reports form. The trigger was real: a Russian rocket body really did re-enter, and it was visible over a wide area. The witnesses were not simply inventing lights. The official concern was not fake either: the MoD received enough reports from credible people to check radar and pursue the matter. But the best-supported mechanism for the main wave is still ordinary in the sense that it belongs to known space activity, not unknown technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 It also shows why Shropshire’s military landscape shaped the story. RAF Cosford and RAF Shawbury gave the incident authority, visibility and a route into official files. A similar re-entry seen only by scattered members of the public might have become a short-lived local-news curiosity. Because this one intersected with police and RAF reporting channels, it became a named case, a file, and later a touchstone in British UFO debate.
 
@@ -329,194 +329,194 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
 <img src="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Shropshire_83e582_rocket_reentry_expla_a17c0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Main UFO a Falling Rocket?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Main UFO a Falling Rocket?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how unusual aerial events are investigated and misidentified, matching the article&#x27;s focus on interpretation ver...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how unusual aerial events are investigated and misidentified, matching the article&#x27;s focus on interpretation ver...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Closely matches the article&#x27;s emphasis on conventional explanations, witness interpretation, and critical evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the article&#x27;s emphasis on conventional explanations, witness interpretation, and critical evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines how physical and observational evidence should be assessed when evaluating UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how physical and observational evidence should be assessed when evaluating UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for major UFO cases and official investigations, useful for readers comparing extraordinary claims with evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for major UFO cases and official investigations, useful for readers comparing extraordinary claims with evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rocket-theory-was-the-main-ufo-a-falling-rocket-shropshire-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-main-ufo-a-falling-rocket-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,163 +722,163 @@ For readers approaching Shropshire’s UFO history, the balanced position is the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: drclarke.substack.com  
    Title: Dr. Clarke's Substack Case Closed: 30th anniversary of the Cosford UFO flap  
-   Link: <a href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow">https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the</a>  
+   Link:<a href="https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the" target="_blank" rel="noopener noreferrer nofollow">https://drclarke.substack.com/p/case-closed-30th-anniversary-of-the</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance</a>  
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blogs.esa.int  
    Title: reentry prediction soviet era venera venus lander cosmos 482 descent craft  
-   Link: <a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
+   Link:<a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esa.int  
    Title: ESA Space Environment Report 2025  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025</a>  
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: SDC4 paper44  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf</a>  
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: HOOSF 16e  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: great balls of fire  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/great-balls-of-fire/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/great-balls-of-fire/</a>  
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/great-balls-of-fire/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/great-balls-of-fire/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/space-debris-101" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/space-debris-101</a>  
+   Link:<a href="https://aerospace.org/article/space-debris-101" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/space-debris-101</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos</a>  
+   Link:<a href="https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: satobs.org  
    Title: Satellites Above Observed re-entries #22.xlsx  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: mar 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2011 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: satobs.org  
-   Link: <a href="https://www.satobs.org/seesat_ref/misc/hawaii_mothership_FINAL_1A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/seesat_ref/misc/hawaii_mothership_FINAL_1A.pdf</a>  
+   Link:<a href="https://www.satobs.org/seesat_ref/misc/hawaii_mothership_FINAL_1A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/seesat_ref/misc/hawaii_mothership_FINAL_1A.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: n2yo.com  
-   Link: <a href="https://www.n2yo.com/satellite/?s=22585" target="_blank" rel="noopener noreferrer nofollow">https://www.n2yo.com/satellite/?s=22585</a>  
+   Link:<a href="https://www.n2yo.com/satellite/?s=22585" target="_blank" rel="noopener noreferrer nofollow">https://www.n2yo.com/satellite/?s=22585</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mithrand.karoo.net  
-   Link: <a href="https://www.mithrand.karoo.net/index.htm/cosford.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mithrand.karoo.net/index.htm/cosford.htm</a>  
+   Link:<a href="https://www.mithrand.karoo.net/index.htm/cosford.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mithrand.karoo.net/index.htm/cosford.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Yesterday | UFOs Declassified: Ep1 Preview  
-   Link: <a href="https://www.youtube.com/watch?v=jsmNvuzaL-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jsmNvuzaL-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s Strangest UFO Sighting - The Cosford Incident | UFO Expert Reacts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jsmNvuzaL-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jsmNvuzaL-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s Strangest UFO Sighting - The Cosford Incident | UFO Expert Reacts...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Britain's Strangest UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=lDAH35KR0Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lDAH35KR0Bs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David Clarke - The 1993 Cosford Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lDAH35KR0Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lDAH35KR0Bs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David Clarke - The 1993 Cosford Incident...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Rocket re-entering atmosphere results in impressive light show  
-   Link: <a href="https://www.youtube.com/watch?v=XrITRQc9tJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrITRQc9tJg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosford UFO Incident &amp; Mike Debardeleben - Creepy Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XrITRQc9tJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrITRQc9tJg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cosford UFO Incident &amp; Mike Debardeleben - Creepy Mysteries...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Dr. David Clarke  
-   Link: <a href="https://www.youtube.com/watch?v=bf1YqJUqAIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bf1YqJUqAIs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket re-entering atmosphere results in impressive light show...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bf1YqJUqAIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bf1YqJUqAIs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket re-entering atmosphere results in impressive light show...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: eucass.eu  
-   Link: <a href="https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download</a>  
+   Link:<a href="https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
+   Link:<a href="https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/britain-is-considered-to-be-one-of-the-most-active-ufo-hotspots-in-the-world-des/1307300864778328/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: spaceacademy.net.au  
-   Link: <a href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm</a>  
+   Link:<a href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nutritionmodels.com  
-   Link: <a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
+   Link:<a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: iaaspace.org  
-   Link: <a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
+   Link:<a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf</a>  
+   Link:<a href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf</a>  

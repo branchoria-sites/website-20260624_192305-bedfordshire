@@ -254,27 +254,27 @@ image: /assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-overview-socia
 <img src="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-overview.webp" | relative_url }}" alt="Overview image for Later Light Cluster Reports" loading="eager" decoding="sync" fetchpriority="high">
 ## Holyhead and Menai reports
 
-The earliest report in this small cluster is the Holyhead entry in the Ministry of Defence’s 2001 UFO report list. On 1 March 2001, at 10am, a witness in Holyhead reported something that “looked like a bright star”, with a pulsating red and green light, first stationary and then moving off. The same 2001 file also lists an Amlwch report from 7 February, where one object with a blue glow reportedly turned green, broke up and left smoke. These are not detailed investigations; they are short log entries. Still, they matter because they place Anglesey’s later light reports inside an official recording system rather than only in retold local stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The earliest report in this small cluster is the Holyhead entry in the Ministry of Defence’s 2001 UFO report list. On 1 March 2001, at 10am, a witness in Holyhead reported something that “looked like a bright star”, with a pulsating red and green light, first stationary and then moving off. The same 2001 file also lists an Amlwch report from 7 February, where one object with a blue glow reportedly turned green, broke up and left smoke. These are not detailed investigations; they are short log entries. Still, they matter because they place Anglesey’s later light reports inside an official recording system rather than only in retold local stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The 2009 reports are more directly relevant to the orange-light theme. On 8 September 2009, an RAF Valley entry recorded “two round balls” in the sky “chasing each other”. On 10 October 2009, a Beaumaris report described “two triangular orange lights, about 10 seconds apart”. A Daily Post summary of declassified North Wales sightings also gives a 19 September 2009 Anglesey entry: an amber, egg-shaped object hovering over fields, followed by two objects in the same area which later appeared over the Menai Straits. The MoD list confirms the RAF Valley and Beaumaris entries, while the newspaper’s summary helps connect the Menai wording to the wider North Wales reporting context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[Daily Post+3GOV.UK+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The 2009 reports are more directly relevant to the orange-light theme. On 8 September 2009, an RAF Valley entry recorded “two round balls” in the sky “chasing each other”. On 10 October 2009, a Beaumaris report described “two triangular orange lights, about 10 seconds apart”. A Daily Post summary of declassified North Wales sightings also gives a 19 September 2009 Anglesey entry: an amber, egg-shaped object hovering over fields, followed by two objects in the same area which later appeared over the Menai Straits. The MoD list confirms the RAF Valley and Beaumaris entries, while the newspaper’s summary helps connect the Menai wording to the wider North Wales reporting context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The places are significant. Holyhead lies close to RAF Valley and major ferry routes; Beaumaris faces the eastern Menai Strait, Puffin Island and the Penmon area; the Menai Strait itself is a narrow, visually complex channel between Anglesey and the Gwynedd mainland. Trinity House records that Trwyn Du Lighthouse was built in 1838 to mark the north entrance to the Menai Strait, with a light flashing every five seconds and a range of 12 nautical miles. That does not explain every orange object, but it shows why this coast is full of repeatable, structured light sources that can appear strange when seen through haze, darkness, binoculars or changing angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trinityhouse.co.uk">[Trinity House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trinityhouse.co.uk</span><span class="citation-popover-title">trwyn du lighthouse</span><span class="citation-popover-snippet">trwyn du lighthouse</span></span></span>
+The places are significant. Holyhead lies close to RAF Valley and major ferry routes; Beaumaris faces the eastern Menai Strait, Puffin Island and the Penmon area; the Menai Strait itself is a narrow, visually complex channel between Anglesey and the Gwynedd mainland. Trinity House records that Trwyn Du Lighthouse was built in 1838 to mark the north entrance to the Menai Strait, with a light flashing every five seconds and a range of 12 nautical miles. That does not explain every orange object, but it shows why this coast is full of repeatable, structured light sources that can appear strange when seen through haze, darkness, binoculars or changing angles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trinityhouse.co.uk">[Trinity House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trinityhouse.co.uk</span><span class="citation-popover-title">trwyn du lighthouse</span><span class="citation-popover-snippet">trwyn du lighthouse</span></span></span>
 
-A later local witness account from the Puffin Island and Beaumaris direction gives a useful example of how a cluster becomes personal before it becomes folklore. The witness described repeated fuzzy orange lights over several weeks, first assuming lanterns, then becoming less certain after seeing more single lights and three similar lights on 8 August 2010. The account is informal and should be treated as anecdotal, not as verified evidence, but it captures the recurring features of the Anglesey cluster: orange colour, silence, apparent formation, sea horizon, binoculars that do not resolve the object, and a viewing direction towards Beaumaris or Puffin Island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anglesey-hidden-gem.com">[Anglesey Hidden Gem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anglesey-hidden-gem.com</span><span class="citation-popover-snippet">Open source on anglesey-hidden-gem.com.</span></span></span>
+A later local witness account from the Puffin Island and Beaumaris direction gives a useful example of how a cluster becomes personal before it becomes folklore. The witness described repeated fuzzy orange lights over several weeks, first assuming lanterns, then becoming less certain after seeing more single lights and three similar lights on 8 August 2010. The account is informal and should be treated as anecdotal, not as verified evidence, but it captures the recurring features of the Anglesey cluster: orange colour, silence, apparent formation, sea horizon, binoculars that do not resolve the object, and a viewing direction towards Beaumaris or Puffin Island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anglesey-hidden-gem.com">[Anglesey Hidden Gem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anglesey-hidden-gem.com</span><span class="citation-popover-snippet">Open source on anglesey-hidden-gem.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-Illustration-1-dark.svg" | relative_url }}" alt="Later Light Cluster Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Orange lights and common explanations
 
-The strongest sceptical context comes from the same period as the Anglesey reports. The National Archives’ 2013 guide to the final MoD UFO files states that the MoD received an average of about 150 reports a year from 2000 to 2007, rising to 208 in 2008 and 643 by 30 November 2009. The guide links many 2008–09 reports to Chinese lanterns, noting that members of the public filmed formations of orange lights and often described them as silent, unusual and frightening. This is highly relevant to Anglesey because the Beaumaris triangular orange lights and the broader Menai amber-light report sit right inside that national surge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The strongest sceptical context comes from the same period as the Anglesey reports. The National Archives’ 2013 guide to the final MoD UFO files states that the MoD received an average of about 150 reports a year from 2000 to 2007, rising to 208 in 2008 and 643 by 30 November 2009. The guide links many 2008–09 reports to Chinese lanterns, noting that members of the public filmed formations of orange lights and often described them as silent, unusual and frightening. This is highly relevant to Anglesey because the Beaumaris triangular orange lights and the broader Menai amber-light report sit right inside that national surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-Sky lanterns are a particularly good fit for many, though not all, “orange light” reports. They can drift silently, appear as glowing orange balls, move in loose formation, fade out suddenly, seem to rise from land or sea, and create the impression of one object changing shape when several lanterns align. The MoD files include many 2009 examples from across Britain: orange globes in waves, yellow balls floating slowly, red or orange lights forming triangles, and witnesses explicitly wondering whether lanterns were involved. The Beaumaris entry is too short to prove that explanation, but its date, colour, spacing and simplicity make lanterns a serious possibility rather than a dismissive afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+Sky lanterns are a particularly good fit for many, though not all, “orange light” reports. They can drift silently, appear as glowing orange balls, move in loose formation, fade out suddenly, seem to rise from land or sea, and create the impression of one object changing shape when several lanterns align. The MoD files include many 2009 examples from across Britain: orange globes in waves, yellow balls floating slowly, red or orange lights forming triangles, and witnesses explicitly wondering whether lanterns were involved. The Beaumaris entry is too short to prove that explanation, but its date, colour, spacing and simplicity make lanterns a serious possibility rather than a dismissive afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-Aircraft activity is the other unavoidable local factor. RAF Valley is on Anglesey and is home to No. 4 Flying Training School, training fast-jet pilots; the RAF also says aircrew are trained there for mountain and maritime operations. Its flying information page says night flying training usually takes place from Monday to Thursday when required. A witness who sees a distant aircraft head-on, banking, turning, climbing or changing brightness may describe a stationary or pulsing light before it appears to move away. This is especially relevant around Holyhead and Valley, but less decisive for reports that describe multiple orange lights with no navigation flashes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force+2Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
+Aircraft activity is the other unavoidable local factor. RAF Valley is on Anglesey and is home to No. 4 Flying Training School, training fast-jet pilots; the RAF also says aircrew are trained there for mountain and maritime operations. Its flying information page says night flying training usually takes place from Monday to Thursday when required. A witness who sees a distant aircraft head-on, banking, turning, climbing or changing brightness may describe a stationary or pulsing light before it appears to move away. This is especially relevant around Holyhead and Valley, but less decisive for reports that describe multiple orange lights with no navigation flashes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raf.mod.uk">[Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raf.mod.uk</span><span class="citation-popover-snippet">Open source on mod.uk.</span></span></span>
 
-Coastal lights can also mislead without being unusual in themselves. A fixed or flashing lighthouse, a ship turning, a fishing vessel with deck lights, a ferry on approach, a helicopter over water, or lights on the mainland can all change appearance as the viewer’s line of sight shifts. The Menai Strait adds further complications because it is not a blank sea horizon: it contains bridges, shore lights, boats, headlands, islands and strong visual contrasts between dark water and lit settlements. In such a setting, “hovering over fields” or “reappearing over the Menai Straits” may describe either real motion across the sky or a witness trying to place a distant light against a confusing landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trinityhouse.co.uk">[Trinity House+2seacoastsafaris.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trinityhouse.co.uk</span><span class="citation-popover-title">trwyn du lighthouse</span><span class="citation-popover-snippet">trwyn du lighthouse</span></span></span>
+Coastal lights can also mislead without being unusual in themselves. A fixed or flashing lighthouse, a ship turning, a fishing vessel with deck lights, a ferry on approach, a helicopter over water, or lights on the mainland can all change appearance as the viewer’s line of sight shifts. The Menai Strait adds further complications because it is not a blank sea horizon: it contains bridges, shore lights, boats, headlands, islands and strong visual contrasts between dark water and lit settlements. In such a setting, “hovering over fields” or “reappearing over the Menai Straits” may describe either real motion across the sky or a witness trying to place a distant light against a confusing landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trinityhouse.co.uk">[trinityhouse.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trinityhouse.co.uk</span><span class="citation-popover-title">trwyn du lighthouse</span><span class="citation-popover-snippet">trwyn du lighthouse</span></span></span>
 
-None of these explanations should be used mechanically. The Holyhead 2001 “bright star” with red and green pulsation sounds different from the Beaumaris 2009 orange triangles, and the Amlwch blue-green object that broke up and left smoke has the character of a meteor or re-entry-type report rather than a lantern cluster. The sensible conclusion is not one explanation for everything, but a ranked approach: check astronomy and aircraft first for solitary star-like lights; check lanterns and fireworks for orange silent formations; check coastal navigation lights for repeated sightings in the same direction; and reserve “unresolved” for reports with enough detail to survive those comparisons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+None of these explanations should be used mechanically. The Holyhead 2001 “bright star” with red and green pulsation sounds different from the Beaumaris 2009 orange triangles, and the Amlwch blue-green object that broke up and left smoke has the character of a meteor or re-entry-type report rather than a lantern cluster. The sensible conclusion is not one explanation for everything, but a ranked approach: check astronomy and aircraft first for solitary star-like lights; check lanterns and fireworks for orange silent formations; check coastal navigation lights for repeated sightings in the same direction; and reserve “unresolved” for reports with enough detail to survive those comparisons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-Illustration-3-dark.svg" | relative_url }}" alt="Later Light Cluster Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Anglesey_35202a_anglesey_light_clust_b45bc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -283,11 +283,11 @@ None of these explanations should be used mechanically. The Holyhead 2001 “bri
 
 ## When a cluster becomes folklore
 
-A sighting cluster does not need a spectacular incident to become part of a county’s UFO history. It needs repetition, recognisable places and enough uncertainty for people to keep retelling it. Holyhead, Beaumaris and the Menai Strait provide all three. The reports are attached to named Anglesey locations, they recur over several years, and they describe a type of object ordinary people can picture: glowing balls, amber eggs and triangular orange lights. That makes them easier to remember than a technical air-traffic note, even when the underlying evidence is only a short log entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[Daily Post+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales ufo hotspots disclosed 18252255</span><span class="citation-popover-snippet">north wales ufo hotspots disclosed 18252255</span></span></span>
+A sighting cluster does not need a spectacular incident to become part of a county’s UFO history. It needs repetition, recognisable places and enough uncertainty for people to keep retelling it. Holyhead, Beaumaris and the Menai Strait provide all three. The reports are attached to named Anglesey locations, they recur over several years, and they describe a type of object ordinary people can picture: glowing balls, amber eggs and triangular orange lights. That makes them easier to remember than a technical air-traffic note, even when the underlying evidence is only a short log entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailypost.co.uk">[dailypost.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailypost.co.uk</span><span class="citation-popover-title">north wales ufo hotspots disclosed 18252255</span><span class="citation-popover-snippet">north wales ufo hotspots disclosed 18252255</span></span></span>
 
-The 2009 timing matters because it was also the end of the MoD’s public UFO-reporting era. The National Archives release notes say the UFO Desk received more than 600 reports in 2009, three times the previous year, and that the MoD concluded the work served no defence purpose. The official briefing stated that no UFO sighting reported to the MoD in more than 50 years had revealed evidence of an extra-terrestrial presence or military threat to the UK. This does not mean every witness was wrong; it means the state stopped treating such reports as a defence-intelligence task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The 2009 timing matters because it was also the end of the MoD’s public UFO-reporting era. The National Archives release notes say the UFO Desk received more than 600 reports in 2009, three times the previous year, and that the MoD concluded the work served no defence purpose. The official briefing stated that no UFO sighting reported to the MoD in more than 50 years had revealed evidence of an extra-terrestrial presence or military threat to the UK. This does not mean every witness was wrong; it means the state stopped treating such reports as a defence-intelligence task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-For Anglesey, that closure had a subtle effect. Earlier reports could still land in a national file, however briefly. Later reports were more likely to live in local newspapers, community websites, social media posts and private memory. That shift changes the kind of evidence available. A MoD log may be sparse, but it gives a date, place and wording. A local witness page may give richer atmosphere, but usually lacks independent checks, radar data, weather reconstruction or follow-up interviews. The Menai orange-light material sits across that divide: official enough to be historically traceable, but too thin to be treated as a solved case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anglesey-hidden-gem.com">[Anglesey Hidden Gem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anglesey-hidden-gem.com</span><span class="citation-popover-snippet">Open source on anglesey-hidden-gem.com.</span></span></span>
+For Anglesey, that closure had a subtle effect. Earlier reports could still land in a national file, however briefly. Later reports were more likely to live in local newspapers, community websites, social media posts and private memory. That shift changes the kind of evidence available. A MoD log may be sparse, but it gives a date, place and wording. A local witness page may give richer atmosphere, but usually lacks independent checks, radar data, weather reconstruction or follow-up interviews. The Menai orange-light material sits across that divide: official enough to be historically traceable, but too thin to be treated as a solved case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anglesey-hidden-gem.com">[Anglesey Hidden Gem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anglesey-hidden-gem.com</span><span class="citation-popover-snippet">Open source on anglesey-hidden-gem.com.</span></span></span>
 
 The cluster is therefore best understood as a mechanism rather than a single mystery. Anglesey’s landscape produces ambiguous lights; witnesses compare them with aircraft and ships; official or media channels preserve some descriptions; later readers notice repeated colours and shapes; and the island gains a small UFO motif of orange lights over water, fields and coastal towns. That motif is meaningful as local UFO history, but it is not strong evidence for an exotic craft.
 
@@ -307,194 +307,194 @@ The best evidence is the existence of dated official log entries for Holyhead, R
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Anglesey&#x27;s Orange Lights Keep Reappearing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Anglesey&#x27;s Orange Lights Keep Reappearing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong on interpreting lights, sightings and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong on interpreting lights, sightings and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Focuses on evaluating light sightings and common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating light sightings and common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official UFO reporting culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official UFO reporting culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how recurring light stories become local folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how recurring light stories become local folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Lanyard- 🛫Remove Before Flight✈️"><img src="{{ '/assets/images/marketplace-covers/2066ec9f7d9e6e3e3d48.jpg' | relative_url }}" alt="Listing image for Pilot Lanyard- 🛫Remove Before Flight✈️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pilot Lanyard- 🛫Remove Before Flight✈️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="later-light-cluster-reports-why-anglesey-s-orange-lights-keep-reappearing-anglesey-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ The best evidence is the existence of dated official log entries for Holyhead, R
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ The best evidence is the existence of dated official log entries for Holyhead, R
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ The best evidence is the existence of dated official log entries for Holyhead, R
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ The best evidence is the existence of dated official log entries for Holyhead, R
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ The best evidence is the existence of dated official log entries for Holyhead, R
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,151 +700,151 @@ The best evidence is the existence of dated official log entries for Holyhead, R
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anglesey-hidden-gem.com  
-   Link: <a href="https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html" target="_blank" rel="noopener noreferrer nofollow">https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html</a>  
+   Link:<a href="https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html" target="_blank" rel="noopener noreferrer nofollow">https://www.anglesey-hidden-gem.com/unidentified-lights-in-the-sky-from-puffin-island-area.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/raf-valley/flying-info/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: seacoastsafaris.co.uk  
-   Link: <a href="https://www.seacoastsafaris.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.seacoastsafaris.co.uk/</a>  
+   Link:<a href="https://www.seacoastsafaris.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.seacoastsafaris.co.uk/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dailypost.co.uk  
    Title: north wales ufo hotspots disclosed 18252255  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/north-wales-ufo-hotspots-disclosed-18252255</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: trinityhouse.co.uk  
    Title: trwyn du lighthouse  
-   Link: <a href="https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse</a>  
+   Link:<a href="https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/trwyn-du-lighthouse</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sYCoE803bH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sYCoE803bH4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sYCoE803bH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sYCoE803bH4</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: angleseyattractions.co.uk  
    Title: seacoast safaris  
-   Link: <a href="https://www.angleseyattractions.co.uk/seacoast-safaris" target="_blank" rel="noopener noreferrer nofollow">https://www.angleseyattractions.co.uk/seacoast-safaris</a>  
+   Link:<a href="https://www.angleseyattractions.co.uk/seacoast-safaris" target="_blank" rel="noopener noreferrer nofollow">https://www.angleseyattractions.co.uk/seacoast-safaris</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: RAF Valley  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Valley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Valley</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Valley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Valley</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Trwyn Du Lighthouse  
-   Link: <a href="https://en.wikipedia.org/wiki/Trwyn_Du_Lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trwyn_Du_Lighthouse</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Trwyn_Du_Lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trwyn_Du_Lighthouse</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tripadvisor.com  
    Title: Trwyn Du Lighthouse  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g6495602-d15316420-Reviews-Trwyn_Du_Lighthouse-Penmon_Anglesey_North_Wales_Wales.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g6495602-d15316420-Reviews-Trwyn_Du_Lighthouse-Penmon_Anglesey_North_Wales_Wales.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g6495602-d15316420-Reviews-Trwyn_Du_Lighthouse-Penmon_Anglesey_North_Wales_Wales.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g6495602-d15316420-Reviews-Trwyn_Du_Lighthouse-Penmon_Anglesey_North_Wales_Wales.html</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Welsh UFO incidents history declassified Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel Travel Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welsh UFO incidents history declassified Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel Travel Channel...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qWACaJwnsYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qWACaJwnsYI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Crash Site in Wales (Season 12) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qWACaJwnsYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qWACaJwnsYI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Crash Site in Wales (Season 12) | History...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UFO Crash Site in Wales (Season 12) | History  
-   Link: <a href="https://www.youtube.com/watch?v=-0p_zm4c-5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0p_zm4c-5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-0p_zm4c-5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0p_zm4c-5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Pentyrch UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0SfTiXy6QKg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GREAT ORME SSSI ~ UKs 3rd Place For UFO Sightings. Circular Historic Walk + Welsh History With Anna...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0SfTiXy6QKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0SfTiXy6QKg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GREAT ORME SSSI ~ UKs 3rd Place For UFO Sightings. Circular Historic Walk + Welsh History With Anna...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Welsh "Roswell" UFO Crash (Berwyn UFO Incident)  
-   Link: <a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MvG3HP0W1FQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentyrch UFO Incident - Full 3D CGI Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MvG3HP0W1FQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MvG3HP0W1FQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentyrch UFO Incident - Full 3D CGI Animation...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: shootfromthetrip.com  
-   Link: <a href="https://www.shootfromthetrip.com/boat-trip-to-puffin-island-from-beaumaris/" target="_blank" rel="noopener noreferrer nofollow">https://www.shootfromthetrip.com/boat-trip-to-puffin-island-from-beaumaris/</a>  
+   Link:<a href="https://www.shootfromthetrip.com/boat-trip-to-puffin-island-from-beaumaris/" target="_blank" rel="noopener noreferrer nofollow">https://www.shootfromthetrip.com/boat-trip-to-puffin-island-from-beaumaris/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hmsconway.org  
-   Link: <a href="https://www.hmsconway.org/RootFolder/Assets/Navigation/Pdf/Anglesey_Pilot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hmsconway.org/RootFolder/Assets/Navigation/Pdf/Anglesey_Pilot.pdf</a>  
+   Link:<a href="https://www.hmsconway.org/RootFolder/Assets/Navigation/Pdf/Anglesey_Pilot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hmsconway.org/RootFolder/Assets/Navigation/Pdf/Anglesey_Pilot.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/</a>  
+   Link:<a href="https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/563855813990883/posts/2950426998667074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/563855813990883/posts/2950426998667074/</a>  
+   Link:<a href="https://www.facebook.com/groups/563855813990883/posts/2950426998667074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/563855813990883/posts/2950426998667074/</a>  

@@ -254,19 +254,19 @@ image: /assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-overview-soci
 
 ## Introduction
 
-[Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }})’s UFO record is patchy not because nothing was ever reported, but because the official UK system was never designed to tell a neat historic-county story. Ministry of Defence records were built around possible defence significance: could the sighting suggest an aircraft, missile, hostile intrusion, radar issue or threat to UK airspace? They were not built to preserve every local witness account, map it cleanly to Brecknockshire, or follow up reports as folklore, social history or local mystery. The result is an evidence gap: a few Brecon and Brecon Beacons references can be found in released files and press indexes, but they sit among national MoD paperwork, modern place labels, broad Welsh locations and later database summaries rather than in a single Brecknockshire archive. The useful reading is therefore cautious: the county has documented UFO-related material, but the records are fragmentary, unevenly indexed and often weaker than the stories later built around them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+[Brecknockshire]({{ 'what-really-happened-over-brecknockshire/' | relative_url }})’s UFO record is patchy not because nothing was ever reported, but because the official UK system was never designed to tell a neat historic-county story. Ministry of Defence records were built around possible defence significance: could the sighting suggest an aircraft, missile, hostile intrusion, radar issue or threat to UK airspace? They were not built to preserve every local witness account, map it cleanly to Brecknockshire, or follow up reports as folklore, social history or local mystery. The result is an evidence gap: a few Brecon and Brecon Beacons references can be found in released files and press indexes, but they sit among national MoD paperwork, modern place labels, broad Welsh locations and later database summaries rather than in a single Brecknockshire archive. The useful reading is therefore cautious: the county has documented UFO-related material, but the records are fragmentary, unevenly indexed and often weaker than the stories later built around them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-overview.webp" | relative_url }}" alt="Overview image for Mo D Records" loading="eager" decoding="sync" fetchpriority="high">
 ## What the MoD said it investigated
 
-The MoD’s UFO work was not a paranormal investigation service. Its practical question was whether a report had “defence significance”. That matters for Brecknockshire because a dramatic light over a road near Brecon, or a story about an object over the Brecon Beacons, would only be likely to generate sustained official attention if it looked relevant to air defence, military activity, aviation safety or national security. David Clarke, who worked closely with The National Archives on the release of the UK UFO files, summarises the MoD’s interest as a defence check rather than an attempt to prove or disprove alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/about/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Open source on drdavidclarke.co.uk.</span></span></span>
+The MoD’s UFO work was not a paranormal investigation service. Its practical question was whether a report had “defence significance”. That matters for Brecknockshire because a dramatic light over a road near Brecon, or a story about an object over the Brecon Beacons, would only be likely to generate sustained official attention if it looked relevant to air defence, military activity, aviation safety or national security. David Clarke, who worked closely with The National Archives on the release of the UK UFO files, summarises the MoD’s interest as a defence check rather than an attempt to prove or disprove alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/about/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">Open source on drdavidclarke.co.uk.</span></span></span>
 
-This official framing is visible in the end of the MoD UFO desk itself. The National Archives’ final-tranche release stated that the desk operated until November 2009, and that more than 600 UFO reports were received in 2009, treble the previous year. The files record that the desk was judged to serve “no defence purpose”, and that ministers were told that over more than 50 years no reported sighting had revealed evidence of an extra-terrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+This official framing is visible in the end of the MoD UFO desk itself. The National Archives’ final-tranche release stated that the desk operated until November 2009, and that more than 600 UFO reports were received in 2009, treble the previous year. The files record that the desk was judged to serve “no defence purpose”, and that ministers were told that over more than 50 years no reported sighting had revealed evidence of an extra-terrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That does not mean every sighting was “explained”. It means the MoD’s threshold was different from the threshold a local historian, journalist or UFO group might use. A witness could remain puzzled, frightened or convinced they had seen a structured craft, while the official file might close with no further action because no threat was established. This distinction is central to Brecknockshire: the absence of a long MoD case file does not prove the absence of a sighting, but it does limit how much weight can be put on the official record.
 
-The clearest Brecknockshire-adjacent example is the Brecon report dated 7 March 1996. The Guardian’s searchable extraction from released National Archives UFO files lists a Brecon, Wales case involving a family on a country road who reportedly saw a circle of bright red lights moving over their car, apparently attached to a larger object with 10 to 20 steady lights arranged like a clock face. The index points to a newspaper cutting and MoD report in DEFE 24/1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The clearest Brecknockshire-adjacent example is the Brecon report dated 7 March 1996. The Guardian’s searchable extraction from released National Archives UFO files lists a Brecon, Wales case involving a family on a country road who reportedly saw a circle of bright red lights moving over their car, apparently attached to a larger object with 10 to 20 steady lights arranged like a clock face. The index points to a newspaper cutting and MoD report in DEFE 24/1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
 That entry is valuable because it ties a local-sounding story to a released file reference. It is also limited. The publicly convenient index gives the date, place, summary, file and page, but it does not by itself establish a full investigation with radar confirmation, physical trace evidence, named witnesses, corroborating police logs or a resolved explanation. For a Brecknockshire page, it is best treated as a documented report in the MoD release trail, not as a confirmed anomalous event.
 
@@ -274,11 +274,11 @@ That entry is valuable because it ties a local-sounding story to a released file
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Records illustration 1" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why county searches are difficult
 
-Searching for Brecknockshire UFO material is harder than searching for a famous named incident because the geography and the record-keeping do not line up. Brecknockshire is the historic county centred on Brecon, while many modern records use Powys, South Wales, Dyfed-Powys Police, “Brecon Beacons”, road names, national park labels or simply “Wales”. The Gazetteer of British Place Names identifies Brecon as a town in the historic county of Brecknockshire and also notes its modern council area as Powys, showing the boundary problem in one line of data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+Searching for Brecknockshire UFO material is harder than searching for a famous named incident because the geography and the record-keeping do not line up. Brecknockshire is the historic county centred on Brecon, while many modern records use Powys, South Wales, Dyfed-Powys Police, “Brecon Beacons”, road names, national park labels or simply “Wales”. The Gazetteer of British Place Names identifies Brecon as a town in the historic county of Brecknockshire and also notes its modern council area as Powys, showing the boundary problem in one line of data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
-The wider historic-county problem matters because “Brecon Beacons” is not the same thing as “Brecknockshire”. The mountains, roads and sightlines cross or approach several historic and modern borders. A report from Merthyr towards the Brecon Beacons may sit more naturally in Glamorgan or modern South Wales policing records than in a Brecknockshire-only search, even if the object was seen towards the hills associated with the county. PRUFOS, a police-sighting database rather than an official MoD catalogue, includes a late-1980s/1990s entry for two uniformed officers travelling between Merthyr Tydfil and the Brecon Beacon hills who reported a flashing light by radio; it classifies the case as a nocturnal light and locates it in Glamorgan/South Wales rather than Brecknockshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[prufospolicedatabase.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">O N DUTY SIGHTINGS</span><span class="citation-popover-snippet">O N DUTY SIGHTINGS</span></span></span>
+The wider historic-county problem matters because “Brecon Beacons” is not the same thing as “Brecknockshire”. The mountains, roads and sightlines cross or approach several historic and modern borders. A report from Merthyr towards the Brecon Beacons may sit more naturally in Glamorgan or modern South Wales policing records than in a Brecknockshire-only search, even if the object was seen towards the hills associated with the county. PRUFOS, a police-sighting database rather than an official MoD catalogue, includes a late-1980s/1990s entry for two uniformed officers travelling between Merthyr Tydfil and the Brecon Beacon hills who reported a flashing light by radio; it classifies the case as a nocturnal light and locates it in Glamorgan/South Wales rather than Brecknockshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[prufospolicedatabase.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">O N DUTY SIGHTINGS</span><span class="citation-popover-snippet">O N DUTY SIGHTINGS</span></span></span>
 
-The same problem appears in national MoD data. GOV.UK hosts MoD UFO reports for 1997 to 2009, giving dates, locations and brief sighting descriptions, but the format is essentially a national list, not a historic-county index. A searcher looking for Brecknockshire has to try “Brecon”, “Brecon Beacons”, “Bannau Brycheiniog”, “Sennybridge”, “Penderyn”, “Powys”, “South Wales” and neighbouring-place terms, then decide whether each result genuinely belongs in the historic county. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The same problem appears in national MoD data. GOV.UK hosts MoD UFO reports for 1997 to 2009, giving dates, locations and brief sighting descriptions, but the format is essentially a national list, not a historic-county index. A searcher looking for Brecknockshire has to try “Brecon”, “Brecon Beacons”, “Bannau Brycheiniog”, “Sennybridge”, “Penderyn”, “Powys”, “South Wales” and neighbouring-place terms, then decide whether each result genuinely belongs in the historic county.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 This is why the evidence gap can be misleading. A search for “Brecknockshire UFO” may produce very little, while a search for “Brecon UFO”, “Brecon Mountains”, “Penderyn” or “Brecon Beacons” may find fragments. The gap is not just in sightings; it is in labels, filing habits and later indexing.
 
@@ -287,13 +287,13 @@ This is why the evidence gap can be misleading. A search for “Brecknockshire U
 
 ## The Brecon fragments that survive
 
-The 7 March 1996 Brecon case is the strongest single example because it appears in an indexed release of MoD-linked material. Its details are memorable: a family in a car, a country road, red lights, a larger implied object and fear. Yet its evidential value lies mainly in the fact that it was recorded, not in independent proof of what was seen. It is a classic example of how MoD files preserve a report without necessarily giving the reader the local follow-up they might want: precise route, witness interviews, aircraft checks, weather conditions, astronomical checks and later explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+The 7 March 1996 Brecon case is the strongest single example because it appears in an indexed release of MoD-linked material. Its details are memorable: a family in a car, a country road, red lights, a larger implied object and fear. Yet its evidential value lies mainly in the fact that it was recorded, not in independent proof of what was seen. It is a classic example of how MoD files preserve a report without necessarily giving the reader the local follow-up they might want: precise route, witness interviews, aircraft checks, weather conditions, astronomical checks and later explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-A second fragment appears in a released-file copy indexed as DEFE 24/2038, where a correspondent asked the MoD about UFO reports in the Mid Wales area and specifically mentioned a sighting of a “large craft” by the local leisure centre in Brecon. The writer asked whether it had been investigated by the MoD, the military, or perhaps a community relations officer. The value of this record is not that it proves the leisure-centre story happened as described; it shows that local claims were circulating strongly enough to be put to the MoD through correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+A second fragment appears in a released-file copy indexed as DEFE 24/2038, where a correspondent asked the MoD about UFO reports in the Mid Wales area and specifically mentioned a sighting of a “large craft” by the local leisure centre in Brecon. The writer asked whether it had been investigated by the MoD, the military, or perhaps a community relations officer. The value of this record is not that it proves the leisure-centre story happened as described; it shows that local claims were circulating strongly enough to be put to the MoD through correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 This kind of document is easy to overread. A letter asking whether the MoD investigated a Brecon sighting is not the same as a MoD case report confirming the sighting, still less confirming an unexplained craft. It is, however, useful evidence of the “paper ecology” around Brecknockshire UFO claims: reports moved between witnesses, UFO campaigners, public correspondence, released files and later online databases.
 
-A further nearby thread is the “Penderyn, Brecon Mountains” material found in released-file references. Search results for DEFE 24/2044 show a 26 November 1996 entry labelled “PENDERYN, BRECON MOUNTAINS”, alongside other national sightings. Penderyn lies at the southern edge of the Brecon Beacons/Bannau Brycheiniog landscape and is a good example of a place that may be relevant to a Brecknockshire-facing page while still requiring boundary caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2044-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+A further nearby thread is the “Penderyn, Brecon Mountains” material found in released-file references. Search results for DEFE 24/2044 show a 26 November 1996 entry labelled “PENDERYN, BRECON MOUNTAINS”, alongside other national sightings. Penderyn lies at the southern edge of the Brecon Beacons/Bannau Brycheiniog landscape and is a good example of a place that may be relevant to a Brecknockshire-facing page while still requiring boundary caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2044-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 Together, these fragments suggest that the Brecon area did enter the official UFO paperwork, but not in a way that creates a robust local casebook. There are reported lights, local rumours, correspondence and database entries; there is much less in the way of complete case files with named investigators, technical checks and firm conclusions.
 
@@ -301,9 +301,9 @@ Together, these fragments suggest that the Brecon area did enter the official UF
 <img src="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Records illustration 2" data-theme-src-dark="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brecknockshire_d4a3d4_mod_records_gap_8e12a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the local setting creates both sightings and ambiguity
 
-Brecknockshire’s landscape makes reports more likely to be noticed and harder to interpret. Much of the county is rural and mountainous, with dark skies, long ridgelines, reservoirs, upland roads and sparse settlements. Bannau Brycheiniog National Park became the world’s fifth International Dark Sky Reserve in 2013, a designation recognising exceptional starry nights and a protected nocturnal environment. That is excellent for astronomy, but it also means ordinary sky phenomena can appear unusually vivid to drivers, walkers and residents unused to such dark conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beacons-npa.gov.uk">[Brecon Beacons National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beacons-npa.gov.uk</span><span class="citation-popover-title">brecon beacons becomes the world2019s 5th international dark sky reserve</span><span class="citation-popover-snippet">brecon beacons becomes the world2019s 5th international dark sky reserve</span></span></span>
+Brecknockshire’s landscape makes reports more likely to be noticed and harder to interpret. Much of the county is rural and mountainous, with dark skies, long ridgelines, reservoirs, upland roads and sparse settlements. Bannau Brycheiniog National Park became the world’s fifth International Dark Sky Reserve in 2013, a designation recognising exceptional starry nights and a protected nocturnal environment. That is excellent for astronomy, but it also means ordinary sky phenomena can appear unusually vivid to drivers, walkers and residents unused to such dark conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beacons-npa.gov.uk">[Brecon Beacons National Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beacons-npa.gov.uk</span><span class="citation-popover-title">brecon beacons becomes the world2019s 5th international dark sky reserve</span><span class="citation-popover-snippet">brecon beacons becomes the world2019s 5th international dark sky reserve</span></span></span>
 
-The area also has a real military context, which can strengthen witness concern without automatically strengthening a UFO claim. Brecon is described by the Gazetteer of British Place Names as a military town with barracks and an army training school, and the nearby Sennybridge Training Area is an MoD site on Mynydd Epynt used for live firing and dry training, including artillery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
+The area also has a real military context, which can strengthen witness concern without automatically strengthening a UFO claim. Brecon is described by the Gazetteer of British Place Names as a military town with barracks and an army training school, and the nearby Sennybridge Training Area is an MoD site on Mynydd Epynt used for live firing and dry training, including artillery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetteer.org.uk">[Gazetteer of British Place Names]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetteer.org.uk</span><span class="citation-popover-snippet">Open source on gazetteer.org.uk.</span></span></span>
 
 This matters because military geography can cut both ways. It gives a plausible reason why people might report strange lights, aircraft noise, flares, helicopters or training activity. It also explains why witnesses may assume that an unusual sighting “must have been investigated” or “must have been military”. But proximity to MoD land is not, by itself, evidence that an unexplained object was tracked, intercepted or concealed.
 
@@ -316,11 +316,11 @@ The best reading is therefore layered. A Brecon Beacons light report may be shap
 
 The Brecknockshire evidence gap is best understood as a three-part record: official releases, press summaries and local or specialist databases. Each has value, but each can distort the picture if used alone.
 
-Official sources give the strongest framework. The National Archives holds MoD UFO reports, correspondence and parliamentary material, and its research guidance points users towards record series such as DEFE, AIR, FCO and BJ for UFO-related searches. GOV.UK separately hosts MoD sighting report lists for 1997 to 2009. These sources are essential for checking whether a claim entered government paperwork at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Official sources give the strongest framework. The National Archives holds MoD UFO reports, correspondence and parliamentary material, and its research guidance points users towards record series such as DEFE, AIR, FCO and BJ for UFO-related searches. GOV.UK separately hosts MoD sighting report lists for 1997 to 2009. These sources are essential for checking whether a claim entered government paperwork at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-Press and data-journalism sources make those files easier to search. The Guardian’s “British X-files” database is useful because it extracts individual cases from released files into readable rows, including the 1996 Brecon entry. Its weakness is that a one-line summary can make a case feel more complete than it is. The reader gets the dramatic description but not always the surrounding file context, original witness form, administrative handling or checks performed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+Press and data-journalism sources make those files easier to search. The Guardian’s “British X-files” database is useful because it extracts individual cases from released files into readable rows, including the 1996 Brecon entry. Its weakness is that a one-line summary can make a case feel more complete than it is. The reader gets the dramatic description but not always the surrounding file context, original witness form, administrative handling or checks performed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-Local and specialist UFO databases can preserve leads that official catalogues do not foreground. PRUFOS, for example, is useful for police-related sightings and includes the Merthyr/Brecon Beacons flashing-light entry. But such databases may combine press reports, Freedom of Information material and researcher submissions, so they should be used as signposts rather than final proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[prufospolicedatabase.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">O N DUTY SIGHTINGS</span><span class="citation-popover-snippet">O N DUTY SIGHTINGS</span></span></span>
+Local and specialist UFO databases can preserve leads that official catalogues do not foreground. PRUFOS, for example, is useful for police-related sightings and includes the Merthyr/Brecon Beacons flashing-light entry. But such databases may combine press reports, Freedom of Information material and researcher submissions, so they should be used as signposts rather than final proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[prufospolicedatabase.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">O N DUTY SIGHTINGS</span><span class="citation-popover-snippet">O N DUTY SIGHTINGS</span></span></span>
 
 For Brecknockshire, the most reliable approach is to treat these layers as complementary rather than interchangeable. A press row may point to a file. A local database may point to a police or newspaper lead. A released MoD letter may show that a story was circulating, without proving the event behind it. The strength of a case rises when several layers independently converge on the same date, place, witnesses and checks.
 
@@ -332,11 +332,11 @@ The main conclusion is not that Brecknockshire has no UFO history. It is that it
 
 That patchiness should make the page more careful, not less useful. It helps readers separate three different categories:
 
-**Documented but unresolved in public summaries:** the 7 March 1996 Brecon report belongs here. It has a date, place, released-file trail and vivid witness description, but the public summary does not prove a full technical investigation or a final anomalous conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
+**Documented but unresolved in public summaries:** the 7 March 1996 Brecon report belongs here. It has a date, place, released-file trail and vivid witness description, but the public summary does not prove a full technical investigation or a final anomalous conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span><span class="citation-popover-snippet">The Guardian UFO sightings: The British X-files in full &#124; News &#124; theguardian.com</span></span></span>
 
-**Locally circulated but weakly evidenced:** the Brecon leisure-centre “large craft” reference belongs here unless stronger primary material is found. The MoD file fragment shows a correspondent asking about it, not a complete official case record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+**Locally circulated but weakly evidenced:** the Brecon leisure-centre “large craft” reference belongs here unless stronger primary material is found. The MoD file fragment shows a correspondent asking about it, not a complete official case record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-**Borderland or contextual sightings:** the Merthyr-to-Brecon-Beacons police entry belongs here. It may matter to the Brecon Beacons UFO landscape, but it is not cleanly a Brecknockshire case without more precise location data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[prufospolicedatabase.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">O N DUTY SIGHTINGS</span><span class="citation-popover-snippet">O N DUTY SIGHTINGS</span></span></span>
+**Borderland or contextual sightings:** the Merthyr-to-Brecon-Beacons police entry belongs here. It may matter to the Brecon Beacons UFO landscape, but it is not cleanly a Brecknockshire case without more precise location data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prufospolicedatabase.co.uk">[prufospolicedatabase.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prufospolicedatabase.co.uk</span><span class="citation-popover-title">O N DUTY SIGHTINGS</span><span class="citation-popover-snippet">O N DUTY SIGHTINGS</span></span></span>
 
 This distinction is important because historic-county UFO pages can easily become too certain. A sighting “near the Brecon Beacons” can be pulled into Brecknockshire for narrative convenience; a MoD correspondence file can be mistaken for an MoD investigation; a frightening family account can be repeated as if fear itself were evidence of strangeness. The better interpretation is more restrained: Brecknockshire’s official UFO record exists, but it is thin, scattered and shaped by institutional filing choices.
 
@@ -347,199 +347,199 @@ This distinction is important because historic-county UFO pages can easily becom
 
 A Brecknockshire sighting becomes stronger if it can be tied to a precise location inside the historic county, a clear date and time, original witness wording, independent witnesses, police or air-traffic logs, weather and astronomical checks, and any MoD or RAF response beyond routine correspondence. It becomes weaker if it survives only as a later retelling, a vague “Brecon Beacons” location, an unattributed press summary, or a claim that “the military investigated” without a file trail.
 
-The MoD’s closure of its UFO desk in 2009 adds a further limit for modern researchers. Parliament was told in 2024 that the MoD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has released all MoD UFO files created up to 2009 to The National Archives. That means new Brecknockshire reports after 2009 are unlikely to have the same kind of MoD paper trail as older cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
+The MoD’s closure of its UFO desk in 2009 adds a further limit for modern researchers. Parliament was told in 2024 that the MoD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and has released all MoD UFO files created up to 2009 to The National Archives. That means new Brecknockshire reports after 2009 are unlikely to have the same kind of MoD paper trail as older cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Written questions and answers</span><span class="citation-popover-snippet">UK Parliament Written questions and answers</span></span></span>
 
 For a public-facing Brecknockshire UFO history, the honest takeaway is that the evidence gap is itself part of the story. The county sits in a landscape where unusual lights may be noticed, where military associations invite speculation, and where historic boundaries complicate searches. But the official record was built for defence triage, not local mystery preservation. The strongest Brecknockshire work therefore lies in careful cross-checking: Brecon against Powys, Brecon Beacons against neighbouring counties, press summaries against MoD files, and local lore against the documents that actually survive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Brecknockshire UFO Records Are So Patchy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Brecknockshire UFO Records Are So Patchy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2fPTEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2fPTEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Explains how UFO records are created, preserved and lost.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO records are created, preserved and lost.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Demonstrates strengths and weaknesses of UFO case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates strengths and weaknesses of UFO case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly engages with official records and government handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly engages with official records and government handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Focuses on records, institutions and disclosure debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on records, institutions and disclosure debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="mo-d-records-b10880-why-brecknockshire-ufo-records-are-so-patchy-brecknockshire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-brecknockshire-ufo-records-are-so-patchy-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For a public-facing Brecknockshire UFO history, the honest takeaway is that the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For a public-facing Brecknockshire UFO history, the honest takeaway is that the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For a public-facing Brecknockshire UFO history, the honest takeaway is that the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For a public-facing Brecknockshire UFO history, the honest takeaway is that the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For a public-facing Brecknockshire UFO history, the honest takeaway is that the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,231 +745,231 @@ For a public-facing Brecknockshire UFO history, the honest takeaway is that the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Written questions and answers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/about/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/about/faqs/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/about/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/about/faqs/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: prufospolicedatabase.co.uk  
    Title: O N DUTY SIGHTINGS  
-   Link: <a href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prufospolicedatabase.co.uk/4.html</a>  
+   Link:<a href="https://www.prufospolicedatabase.co.uk/4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prufospolicedatabase.co.uk/4.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2038-1-1.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2044-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2044-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2044-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2044-1-1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: beacons-npa.gov.uk  
    Title: brecon beacons becomes the world2019s 5th international dark sky reserve  
-   Link: <a href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/</a>  
+   Link:<a href="https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://beacons-npa.gov.uk/the-authority/press-and-news/archive/2013-2/february-2013/brecon-beacons-becomes-the-world2019s-5th-international-dark-sky-reserve/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/wales-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/wales-public-access-to-military-areas</a>  
+   Link:<a href="https://www.gov.uk/guidance/wales-public-access-to-military-areas" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/wales-public-access-to-military-areas</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: Website search results: ufo UFOs · Help with your research  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a748e7740f0b616bcb176fd/15-07-275_Sanctuary_Magazine__FINAL_lowres_.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20161003 Delivery Plan 2016 17 Apr 16 to Sep 16 For Spring RTR  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8093a2e5274a2e87dba9a4/20161003-Delivery_Plan_2016-17__Apr_16_to_Sep_16_For_Spring_RTR.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/66dad379fb86ba5a1f214efe/Sennybridge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/66dad379fb86ba5a1f214efe/Sennybridge.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/66dad379fb86ba5a1f214efe/Sennybridge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/66dad379fb86ba5a1f214efe/Sennybridge.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-files</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/sennybridge-firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/sennybridge-firing-notice</a>  
+   Link:<a href="https://www.gov.uk/government/publications/sennybridge-firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/sennybridge-firing-notice</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cumbria.police.uk  
    Title: foi 304 25 ufo sightings 2010 to march 2025  
-   Link: <a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf</a>  
+   Link:<a href="https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cumbria.police.uk/SysSiteAssets/foi-media/cumbria/foi/2025/april/foi-304_25-ufo-sightings-2010-to-march-2025.pdf</a>  
    Published: march 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archive.org  
    Title: 396200 defe 24 1985 1 djvu.txt  
-   Link: <a href="https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396200-defe-24-1985-1/396200-defe-24-1985-1_djvu.txt</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ia801409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: <a href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+   Link:<a href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: future.bannau.wales  
    Title: wales Dark Skies Board  
-   Link: <a href="https://future.bannau.wales/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/dark-sky/</a>  
+   Link:<a href="https://future.bannau.wales/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://future.bannau.wales/dark-sky/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: drdavidclarke.co.uk  
    Title: The End of the UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wales.com  
-   Link: <a href="https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales</a>  
+   Link:<a href="https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales" target="_blank" rel="noopener noreferrer nofollow">https://www.wales.com/visit/visiting-wales/dark-skies-reserves-wales</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: The Guardian UFO sightings: The British X-files in full | News | theguardian.com  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Brecon%2C_Brecknockshire_160</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Brecknockshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Brecknockshire</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Sennybridge Training Area  
-   Link: <a href="https://en.wikipedia.org/wiki/Sennybridge_Training_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sennybridge_Training_Area</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sennybridge_Training_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sennybridge_Training_Area</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brecknockshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brecknockshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brecknockshire</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: locations.landmarcsolutions.com  
-   Link: <a href="https://locations.landmarcsolutions.com/location/sennybridge/" target="_blank" rel="noopener noreferrer nofollow">https://locations.landmarcsolutions.com/location/sennybridge/</a>  
+   Link:<a href="https://locations.landmarcsolutions.com/location/sennybridge/" target="_blank" rel="noopener noreferrer nofollow">https://locations.landmarcsolutions.com/location/sennybridge/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: darksky.org  
    Title: brecon beacons national park dark sky reserve  
-   Link: <a href="https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/</a>  
+   Link:<a href="https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/brecon-beacons-national-park-dark-sky-reserve/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: 28dayslater.co.uk  
-   Link: <a href="https://www.28dayslater.co.uk/threads/sennybridge-mock-german-village-training-site-april-2017.108195/" target="_blank" rel="noopener noreferrer nofollow">https://www.28dayslater.co.uk/threads/sennybridge-mock-german-village-training-site-april-2017.108195/</a>  
+   Link:<a href="https://www.28dayslater.co.uk/threads/sennybridge-mock-german-village-training-site-april-2017.108195/" target="_blank" rel="noopener noreferrer nofollow">https://www.28dayslater.co.uk/threads/sennybridge-mock-german-village-training-site-april-2017.108195/</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-ufo-investigator-for-the-uks-ministry-of-defense-nick-pope-admits-that-/584881447252210/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: bannaubrycheiniog.org  
-   Link: <a href="https://bannaubrycheiniog.org/bannau-brycheiniog-brecon-beacons-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/bannau-brycheiniog-brecon-beacons-international-dark-sky-reserve/</a>  
+   Link:<a href="https://bannaubrycheiniog.org/bannau-brycheiniog-brecon-beacons-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://bannaubrycheiniog.org/bannau-brycheiniog-brecon-beacons-international-dark-sky-reserve/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: wikidata.org  
-   Link: <a href="https://www.wikidata.org/wiki/Q547052" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q547052</a>  
+   Link:<a href="https://www.wikidata.org/wiki/Q547052" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q547052</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: abcounties.com  
-   Link: <a href="https://abcounties.com/counties/county-profiles/brecknockshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/brecknockshire/</a>  
+   Link:<a href="https://abcounties.com/counties/county-profiles/brecknockshire/" target="_blank" rel="noopener noreferrer nofollow">https://abcounties.com/counties/county-profiles/brecknockshire/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: callofthewild.co.uk  
-   Link: <a href="https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/</a>  
+   Link:<a href="https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.callofthewild.co.uk/brecon-beacons-star-gazing-time-lapse-video/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/501028097221376/posts/1403962376927939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/501028097221376/posts/1403962376927939/</a>  
+   Link:<a href="https://www.facebook.com/groups/501028097221376/posts/1403962376927939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/501028097221376/posts/1403962376927939/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: historiccountiestrust.co.uk  
-   Link: <a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
+   Link:<a href="https://historiccountiestrust.co.uk/descriptions" target="_blank" rel="noopener noreferrer nofollow">https://historiccountiestrust.co.uk/descriptions</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/threeravenspodcast/posts/on-this-weeks-bonus-episode-eleanor-explains-the-strange-science-of-ley-lines-fr/596729973363197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/threeravenspodcast/posts/on-this-weeks-bonus-episode-eleanor-explains-the-strange-science-of-ley-lines-fr/596729973363197/</a>  
+   Link:<a href="https://www.facebook.com/threeravenspodcast/posts/on-this-weeks-bonus-episode-eleanor-explains-the-strange-science-of-ley-lines-fr/596729973363197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/threeravenspodcast/posts/on-this-weeks-bonus-episode-eleanor-explains-the-strange-science-of-ley-lines-fr/596729973363197/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: routeyou.com  
-   Link: <a href="https://www.routeyou.com/en-gb/location/view/48036245" target="_blank" rel="noopener noreferrer nofollow">https://www.routeyou.com/en-gb/location/view/48036245</a>  
+   Link:<a href="https://www.routeyou.com/en-gb/location/view/48036245" target="_blank" rel="noopener noreferrer nofollow">https://www.routeyou.com/en-gb/location/view/48036245</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/sennybridge-training-area.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/sennybridge-training-area.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/sennybridge-training-area.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/sennybridge-training-area.html</a>  
